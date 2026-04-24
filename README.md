@@ -5,8 +5,7 @@ In the era of data-driven decision-making, large volumes of knowledge are stored
 Existing approaches largely rely on (i) keyword-based retrieval or (ii) treating tables and NL queries as the same modalities, limiting retrieval effectiveness. We address this challenge with HALTaR, a corpus-augmented table retrieval framework. HALTaR combines a structure-aware lightweight retriever with an LLM-driven query-to-table hallucinator that converts NL queries into structured, intent-centric tables. The hallucinated table is further embedded by a lightweight retriever model, which is then used to retrieve relevant tables. This design enables effective retrieval under schema variability and incomplete queries. Extensive evaluations against public benchmarks – SPIDER, BIRD – demonstrate that HALTaR outperforms strong baselines, making it a practical solution for query-to-table retrieval in real-world settings.
 
 ## 1. Directory Overview
-The root directory contains four folders: `dataset`, `model`, `output`, and `script`. All folders except `script` are shared via a drive link.  
-The directory structure is organized as follows:
+The root directory contains four folders: `dataset`, `model`, `output`, and `script`. All folders except `script` are shared via a drive link. The directory structure is organized as follows:
 
 ```bash
 project-root/
