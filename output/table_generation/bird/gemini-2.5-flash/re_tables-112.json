@@ -1,0 +1,69 @@
+{
+    "table-112-112": {
+        "title": [
+            "Branch Location",
+            "Year",
+            "Accounts Opened",
+            "Account Type",
+            "Branch Manager"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts were opened in Litomerice in 1996?",
+        "data": [
+            [
+                "Litomerice",
+                "1996",
+                "185",
+                "Savings",
+                "Jan Novak"
+            ],
+            [
+                "Litomerice",
+                "1996",
+                "72",
+                "Checking",
+                "Jan Novak"
+            ],
+            [
+                "Usti nad Labem",
+                "1996",
+                "210",
+                "Savings",
+                "Eva Svobodova"
+            ],
+            [
+                "Prague",
+                "1996",
+                "450",
+                "Business",
+                "Petr Dvorak"
+            ],
+            [
+                "Litomerice",
+                "1995",
+                "160",
+                "Savings",
+                "Jan Novak"
+            ],
+            [
+                "Litomerice",
+                "1997",
+                "195",
+                "Checking",
+                "Jan Novak"
+            ],
+            [
+                "Brno",
+                "1996",
+                "320",
+                "Investment",
+                "Anna Vesela"
+            ]
+        ]
+    }
+}

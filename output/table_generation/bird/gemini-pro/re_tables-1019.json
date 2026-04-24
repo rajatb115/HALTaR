@@ -1,0 +1,45 @@
+{
+    "table-1019-1019": {
+        "title": [
+            "Race",
+            "Driver",
+            "Average Pit Stop Time (ms)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Lewis Hamilton Pit Stop Statistics in Formula 1",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the average time in milliseconds Lewis Hamilton spent at a pit stop during Formula_1 races?",
+        "data": [
+            [
+                "Bahrain Grand Prix",
+                "Lewis Hamilton",
+                "2500"
+            ],
+            [
+                "Spanish Grand Prix",
+                "Lewis Hamilton",
+                "2300"
+            ],
+            [
+                "Monaco Grand Prix",
+                "Lewis Hamilton",
+                "2400"
+            ],
+            [
+                "British Grand Prix",
+                "Lewis Hamilton",
+                "2600"
+            ],
+            [
+                "Italian Grand Prix",
+                "Lewis Hamilton",
+                "2200"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-136-136": {
+        "title": [
+            "Flight Number",
+            "Origin Airport",
+            "Arrival Time",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Flights Arriving at APG",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are flight numbers of flights arriving at Airport \"APG\"?",
+        "data": [
+            [
+                "UA123",
+                "ORD",
+                "10:00 AM",
+                "Landed"
+            ],
+            [
+                "AA456",
+                "DFW",
+                "10:15 AM",
+                "Landed"
+            ],
+            [
+                "WN789",
+                "LAX",
+                "10:30 AM",
+                "Delayed"
+            ],
+            [
+                "DL012",
+                "ATL",
+                "10:45 AM",
+                "On Time"
+            ],
+            [
+                "AS345",
+                "SEA",
+                "11:00 AM",
+                "Landed"
+            ]
+        ]
+    }
+}

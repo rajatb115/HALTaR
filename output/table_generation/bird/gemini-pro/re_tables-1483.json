@@ -1,0 +1,52 @@
+{
+    "table-1483-1483": {
+        "title": [
+            "Segment",
+            "Consumption (EUR) 2012",
+            "Consumption (EUR) 2013",
+            "Percentage Increase"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Consumption Percentage Increases by Segment (2012-2013)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which of the three segments\u2014SME, LAM and KAM\u2014has the biggest and lowest percentage increases in consumption paid in EUR between 2012 and 2013?",
+        "data": [
+            [
+                "SME",
+                "1,000,000",
+                "1,100,000",
+                "10%"
+            ],
+            [
+                "LAM",
+                "500,000",
+                "600,000",
+                "20%"
+            ],
+            [
+                "KAM",
+                "2,000,000",
+                "2,100,000",
+                "5%"
+            ],
+            [
+                "Other",
+                "200,000",
+                "210,000",
+                "5%"
+            ],
+            [
+                "Total",
+                "3,700,000",
+                "4,010,000",
+                "8.4%"
+            ]
+        ]
+    }
+}

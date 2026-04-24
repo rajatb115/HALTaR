@@ -1,0 +1,69 @@
+{
+    "table-1152-1152": {
+        "title": [
+            "Patient ID",
+            "Birth Year",
+            "Admission Status",
+            "Percentage Inpatient",
+            "Total Admissions",
+            "Notes"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patient born between Year 1930 to 1940, how many percent of them were inpatient?",
+        "data": [
+            [
+                "P-10023",
+                "30",
+                "Inpatient Only",
+                "75%",
+                "4",
+                "Chronic condition management"
+            ],
+            [
+                "P-11045",
+                "65",
+                "Mixed",
+                "82%",
+                "N/A",
+                "Frequent readmission history"
+            ],
+            [
+                "P-A9921",
+                "52",
+                "Outpatient Dominant",
+                "91%",
+                "None",
+                "Primary care focus"
+            ],
+            [
+                "P-B3301A",
+                "00",
+                "Emergency Transfer",
+                "68%",
+                "",
+                "High acuity case"
+            ],
+            [
+                "P-C7721B",
+                "19",
+                "Scheduled Surgery",
+                "N/A",
+                "",
+                "Pre-op assessment only"
+            ],
+            [
+                "P-D1120C",
+                "",
+                "Pediatric Referral",
+                "",
+                "",
+                "Multidisciplinary team involved"
+            ]
+        ]
+    }
+}

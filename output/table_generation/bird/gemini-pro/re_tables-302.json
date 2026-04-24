@@ -1,0 +1,37 @@
+{
+    "table-302-302": {
+        "title": [
+            "Security ID",
+            "Bond Type"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Securities Bond Types",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the bond type of TR007_4_19?",
+        "data": [
+            [
+                "TR001_1_1",
+                "Corporate"
+            ],
+            [
+                "TR007_4_19",
+                "Municipal"
+            ],
+            [
+                "TR012_2_7",
+                "Treasury"
+            ],
+            [
+                "TR022_5_1",
+                "Corporate"
+            ],
+            [
+                "TR045_1_12",
+                "Agency"
+            ]
+        ]
+    }
+}

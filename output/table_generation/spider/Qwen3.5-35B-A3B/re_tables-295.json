@@ -1,0 +1,103 @@
+{
+    "table-295-295": {
+        "title": [
+            "Address ID",
+            "Line 1",
+            "Line Two",
+            "City",
+            "State",
+            "Zip Code",
+            "Country"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 9,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the first and second line for all addresses?",
+        "data": [
+            [
+                "ADDR_0042",
+                "742 Evergreen Terrace",
+                "",
+                "Springfield",
+                "IL",
+                "62704",
+                "USA"
+            ],
+            [
+                "ADDR_0158",
+                "4 Privet Drive",
+                "",
+                "Little Whinging",
+                "Surrey",
+                "CR3 0AA",
+                "UK"
+            ],
+            [
+                "ADDRESS_0991",
+                "350 Fifth Avenue",
+                "",
+                "New York",
+                "NY",
+                "00021",
+                "USA"
+            ],
+            [
+                "ADDRESS_1023",
+                "555 Main Street",
+                "Apt 4B",
+                "Chicago",
+                "IL",
+                "60601",
+                "USA"
+            ],
+            [
+                "ADDRESS_1105",
+                "890 Ocean Boulevard",
+                "",
+                "Miami Beach",
+                "FL",
+                "33139",
+                "USA"
+            ],
+            [
+                "ADDRESS_1202",
+                "PO Box 500",
+                "Suite 2C",
+                "Austin",
+                "TX",
+                "78701",
+                "US"
+            ],
+            [
+                "ADDRESS_2044",
+                "99 Maple Lane",
+                "",
+                "Toronto",
+                "ON",
+                "M5V 3A8",
+                "Canada"
+            ],
+            [
+                "ADDRESS_3301",
+                "1 Infinite Loop",
+                "",
+                "Cupertino",
+                "CA",
+                "95014",
+                "USA"
+            ],
+            [
+                "ADDRESS_4412",
+                "1600 Pennsylvania Ave NW",
+                "",
+                "Washington",
+                "DC",
+                "20005",
+                "USA"
+            ]
+        ]
+    }
+}

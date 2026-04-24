@@ -1,0 +1,69 @@
+{
+    "table-1299-1299": {
+        "title": [
+            "Patient ID",
+            "Total Cholesterol (mg/dL)",
+            "Normal Range Status",
+            "ANA Pattern Observed",
+            "Test Date",
+            "Result Count"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients whose total cholesterol is within the normal range, how many of them have a P pattern observed in the sheet of ANA examination?",
+        "data": [
+            [
+                "PT-1042",
+                "467",
+                "High",
+                "N/A",
+                "",
+                "0"
+            ],
+            [
+                "PT-1105",
+                "398",
+                "Low",
+                "Negative",
+                "5/12/2023",
+                "6"
+            ],
+            [
+                "PT-BB22",
+                "-12",
+                "Invalid",
+                "Focal",
+                "9/01/2022",
+                ""
+            ],
+            [
+                "PT-CX99",
+                "1120",
+                "Critical",
+                "Homogeneous",
+                "",
+                ""
+            ],
+            [
+                "PT-DK44",
+                "-5",
+                "Error",
+                "Speckled",
+                "",
+                ""
+            ],
+            [
+                "PT-EF77",
+                "150",
+                "Borderline",
+                "Centromere",
+                "",
+                ""
+            ]
+        ]
+    }
+}

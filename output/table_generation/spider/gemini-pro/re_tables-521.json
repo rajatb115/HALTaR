@@ -1,0 +1,39 @@
+{
+    "table-521-521": {
+        "title": [
+            "City Name",
+            "Population"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "List of Cities by Population",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of cities that have a population between 160000 and 900000 .",
+        "data": [
+            [
+                "Austin",
+                "961,855"
+            ],
+            [
+                "Seattle",
+                "741,451"
+            ],
+            [
+                "Denver",
+                "715,522"
+            ],
+            [
+                "Nashville",
+                "689,447"
+            ],
+            [
+                "Portland",
+                "654,741"
+            ]
+        ]
+    }
+}

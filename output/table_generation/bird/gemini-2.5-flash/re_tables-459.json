@@ -1,0 +1,69 @@
+{
+    "table-459-459": {
+        "title": [
+            "Artist Name",
+            "Card Name",
+            "Border Color",
+            "Available in Arena",
+            "Available in MTGO"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many artists have designed a card with a black border color and is available in both \"arena\" and \"mtgo\" printing type?",
+        "data": [
+            [
+                "Rebecca Guay",
+                "Mystic Vision",
+                "Black",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Noah Bradley",
+                "Shadow Grasp",
+                "Black",
+                "Yes",
+                "No"
+            ],
+            [
+                "Seb McKinnon",
+                "Ancient Tomb",
+                "Black",
+                "No",
+                "Yes"
+            ],
+            [
+                "Terese Nielsen",
+                "Sunlit Grove",
+                "White",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "John Avon",
+                "Dark Ritual",
+                "Black",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Chris Rahn",
+                "Gilded Lotus",
+                "Silver",
+                "Yes",
+                "No"
+            ],
+            [
+                "Magali Villeneuve",
+                "Plains",
+                "Black",
+                "Yes",
+                "Yes"
+            ]
+        ]
+    }
+}

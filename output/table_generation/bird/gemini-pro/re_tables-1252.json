@@ -1,0 +1,45 @@
+{
+    "table-1252-1252": {
+        "title": [
+            "Patient ID",
+            "IgG Level",
+            "Symptom"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Symptoms and IgG Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with an Ig G lower than normal has the symptom of abortion?",
+        "data": [
+            [
+                "1234",
+                "Low",
+                "Abortion"
+            ],
+            [
+                "5678",
+                "Normal",
+                "Cough"
+            ],
+            [
+                "9101",
+                "Low",
+                "Fatigue"
+            ],
+            [
+                "1121",
+                "Low",
+                "Abortion"
+            ],
+            [
+                "3141",
+                "Normal",
+                "Headache"
+            ]
+        ]
+    }
+}

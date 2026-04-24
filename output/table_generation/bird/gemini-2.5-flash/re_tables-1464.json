@@ -1,0 +1,69 @@
+{
+    "table-1464-1464": {
+        "title": [
+            "Event Name",
+            "Budget Category",
+            "Budgeted Amount",
+            "Event Date",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the event names which were budgeted for the food.",
+        "data": [
+            [
+                "Annual Gala Dinner",
+                "Food & Beverage",
+                "$18,500",
+                "2024-11-15",
+                "Approved"
+            ],
+            [
+                "Team Building Retreat",
+                "Catering",
+                "$4,200",
+                "2024-09-22",
+                "Confirmed"
+            ],
+            [
+                "Product Launch Party",
+                "Food",
+                "$9,800",
+                "2025-01-10",
+                "Planning"
+            ],
+            [
+                "Client Appreciation Event",
+                "Dining",
+                "$7,100",
+                "2024-10-05",
+                "Approved"
+            ],
+            [
+                "Holiday Staff Party",
+                "Food & Drinks",
+                "$14,000",
+                "2024-12-18",
+                "Budgeted"
+            ],
+            [
+                "Workshop Series Day 1",
+                "Lunch & Snacks",
+                "$1,500",
+                "2024-08-01",
+                "Confirmed"
+            ],
+            [
+                "Charity Fundraiser Gala",
+                "Refreshments",
+                "$5,300",
+                "2025-03-20",
+                "Pending"
+            ]
+        ]
+    }
+}

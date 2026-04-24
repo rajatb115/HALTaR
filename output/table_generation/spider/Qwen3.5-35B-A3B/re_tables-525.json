@@ -1,0 +1,85 @@
+{
+    "table-525-525": {
+        "title": [
+            "Country Code",
+            "Country Name",
+            "Primary Language",
+            "Official Status",
+            "Population Estimate",
+            "Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the codes of countries for which Spanish is the predominantly spoken language.",
+        "data": [
+            [
+                "ES",
+                "Spain",
+                "Spanish",
+                "National & Regional",
+                "47615000",
+                "Europe"
+            ],
+            [
+                "MX",
+                "Mexico",
+                "Spanish (Mexican variant)",
+                "De Facto National",
+                "98005056",
+                "North America"
+            ],
+            [
+                "CO",
+                "Colombia",
+                "Colombian Spanish",
+                "Constitutional",
+                "51874024",
+                "South America"
+            ],
+            [
+                "AR",
+                "Argentina",
+                "Rioplatense Spanish",
+                "Unofficial but Dominant",
+                "35159974",
+                "South America"
+            ],
+            [
+                "PE",
+                "Peru",
+                "Peruvian Spanish",
+                "Co-official with Quechua",
+                "8432015",
+                "South America"
+            ],
+            [
+                "VE",
+                "Venezuela",
+                "Venezuelan Spanish",
+                "Official",
+                "7863002",
+                "South America"
+            ],
+            [
+                "CL",
+                "Chile",
+                "Chileno Spanish",
+                "Solely Official",
+                "-19116209",
+                "South America"
+            ],
+            [
+                "EC",
+                "Ecuador",
+                "Andean Spanish",
+                "Constitutionally Recognized",
+                "6290089",
+                "South America"
+            ]
+        ]
+    }
+}

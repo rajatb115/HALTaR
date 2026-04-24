@@ -1,0 +1,69 @@
+{
+    "table-687-687": {
+        "title": [
+            "Post ID",
+            "Title",
+            "Views",
+            "Average Views (Platform)",
+            "Above Average"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the total number of posts with views above average.",
+        "data": [
+            [
+                "P001",
+                "Data Analysis Trends 2023",
+                "22500",
+                "15000",
+                "Yes"
+            ],
+            [
+                "P002",
+                "Beginner's Guide to SQL",
+                "14800",
+                "15000",
+                "No"
+            ],
+            [
+                "P003",
+                "Python for Data Science",
+                "31200",
+                "15000",
+                "Yes"
+            ],
+            [
+                "P004",
+                "Machine Learning Basics",
+                "11500",
+                "15000",
+                "No"
+            ],
+            [
+                "P005",
+                "Cloud Computing Explained",
+                "18900",
+                "15000",
+                "Yes"
+            ],
+            [
+                "P006",
+                "Big Data Architectures",
+                "9700",
+                "15000",
+                "No"
+            ],
+            [
+                "P007",
+                "Visualizing Data with Tableau",
+                "25100",
+                "15000",
+                "Yes"
+            ]
+        ]
+    }
+}

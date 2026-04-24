@@ -1,0 +1,67 @@
+{
+    "table-618-618": {
+        "title": [
+            "Post ID",
+            "Created Date & Time",
+            "Comment Author",
+            "Comment Content",
+            "Status",
+            "Likes",
+            "Reply Count"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the detailed content of the comment of the post which was created on 7/19/2010 7:37:33 PM?",
+        "data": [
+            [
+                "P-4921",
+                "7/19/2010",
+                "User_Alpha",
+                "This update looks promising for the upcoming release cycle!",
+                "Active",
+                "42",
+                "3"
+            ],
+            [
+                "P-4822",
+                "N/A",
+                "System_Bot",
+                "Scheduled maintenance notification sent successfully.",
+                "Archived",
+                "0",
+                "5"
+            ],
+            [
+                "A-1029",
+                "6/30/1999",
+                "Guest_User",
+                "I am looking for more details regarding this feature request.",
+                "Pending",
+                "8",
+                "99"
+            ],
+            [
+                "B-5511",
+                "N/D",
+                "Admin_X",
+                "Please review the attached documentation before proceeding.",
+                "Closed",
+                "15",
+                "2"
+            ],
+            [
+                "C-7733",
+                "N/A",
+                "Dev_Team",
+                "Code refactoring completed in module X.Y.Z today.",
+                "Merged",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-836-836": {
+        "title": [
+            "Superhero",
+            "Alignment"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Alignment of Marvel Superheroes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all superheroes in Marvel Comics, identify the percentage of 'good' superheroes.",
+        "data": [
+            [
+                "Spider-Man",
+                "Good"
+            ],
+            [
+                "Captain America",
+                "Good"
+            ],
+            [
+                "Iron Man",
+                "Good"
+            ],
+            [
+                "Magneto",
+                "Neutral"
+            ],
+            [
+                "Thanos",
+                "Evil"
+            ]
+        ]
+    }
+}

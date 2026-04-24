@@ -1,0 +1,69 @@
+{
+    "table-301-301": {
+        "title": [
+            "Department Name",
+            "Offers Degrees",
+            "Number of Programs",
+            "Primary Focus",
+            "Student Enrollment (Majors)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different departments offer degrees?",
+        "data": [
+            [
+                "Computer Science",
+                "Yes",
+                "7",
+                "STEM",
+                "1200"
+            ],
+            [
+                "Biology",
+                "Yes",
+                "5",
+                "STEM",
+                "950"
+            ],
+            [
+                "History",
+                "Yes",
+                "4",
+                "Humanities",
+                "400"
+            ],
+            [
+                "Physical Education",
+                "No",
+                "0",
+                "Health & Wellness",
+                "N/A"
+            ],
+            [
+                "Business Administration",
+                "Yes",
+                "8",
+                "Business",
+                "1500"
+            ],
+            [
+                "Fine Arts",
+                "Yes",
+                "6",
+                "Arts",
+                "300"
+            ],
+            [
+                "Library Sciences",
+                "Yes",
+                "2",
+                "Information",
+                "180"
+            ]
+        ]
+    }
+}

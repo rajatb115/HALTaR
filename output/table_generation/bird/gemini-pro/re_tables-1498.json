@@ -1,0 +1,51 @@
+{
+    "table-1498-1498": {
+        "title": [
+            "Customer ID",
+            "Customer Name",
+            "Consumption (June 2012)",
+            "Customer Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Small and Medium Enterprise Customer Consumption Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which SME customer consumed the least in June 2012?",
+        "data": [
+            [
+                "101",
+                "ABC Corp",
+                "1500 kWh",
+                "SME"
+            ],
+            [
+                "102",
+                "XYZ Ltd",
+                "1200 kWh",
+                "SME"
+            ],
+            [
+                "103",
+                "PQR Inc",
+                "900 kWh",
+                "SME"
+            ],
+            [
+                "104",
+                "LMN Co",
+                "1800 kWh",
+                "SME"
+            ],
+            [
+                "105",
+                "DEF Group",
+                "1100 kWh",
+                "SME"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-1379-1379": {
+        "title": [
+            "Event Name",
+            "Budget",
+            "Spend"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Event Budget Spending",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the highest amount of budget spend for an event?",
+        "data": [
+            [
+                "Conference 2023",
+                "$50,000",
+                "$48,000"
+            ],
+            [
+                "Product Launch Q4",
+                "$75,000",
+                "$72,000"
+            ],
+            [
+                "Team Building Retreat",
+                "$25,000",
+                "$23,000"
+            ],
+            [
+                "Marketing Campaign",
+                "$100,000",
+                "$95,000"
+            ],
+            [
+                "Holiday Party",
+                "$15,000",
+                "$14,500"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "table-1431-1431": {
+        "title": [
+            "Last_Name",
+            "Position",
+            "Purchase_Date",
+            "Item_Bought",
+            "Amount_Spent",
+            "Store_Location",
+            "Payment_Method",
+            "Loyalty_Member"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the last name and position of the student that bought pizza on 09/10/2019?",
+        "data": [
+            [
+                "Smith",
+                "Freshman",
+                "02/14/219",
+                "Pizza Slice",
+                "$6.50",
+                "Downtown Campus",
+                "Credit Card",
+                "Yes"
+            ],
+            [
+                "Johnson",
+                "Sophomore",
+                "3/15/220",
+                "Pepperoni Pizza",
+                "$12.00",
+                "West Gate Cafe",
+                "Cash",
+                "No"
+            ],
+            [
+                "Williams",
+                "Junior",
+                "7/2/230",
+                "Cheese Pizza",
+                "$10.5",
+                "North Hall Kiosk",
+                "Debit Card",
+                "N/A"
+            ],
+            [
+                "Brown",
+                "Senior",
+                "9/25/190",
+                "Veggie Pizza",
+                "",
+                "South Quad Food Court",
+                "Mobile Pay",
+                "Yes"
+            ],
+            [
+                "Davis",
+                "Graduate Student",
+                "5/30/180",
+                "Meat Lovers Pizza",
+                "",
+                "East Wing Library",
+                "Credit",
+                "No"
+            ],
+            [
+                "Miller",
+                "Transfer Student",
+                "11/11 /195",
+                "Hawaiian Pizza",
+                "",
+                "Main Cafeteria",
+                "Cash",
+                ""
+            ],
+            [
+                "Wilson",
+                "Undergraduate",
+                "8/8/240",
+                "Margherita Pizza",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

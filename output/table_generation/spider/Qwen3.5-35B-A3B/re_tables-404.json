@@ -1,0 +1,69 @@
+{
+    "table-404-404": {
+        "title": [
+            "Player Name",
+            "Final Tables Made",
+            "Total Earnings ($)",
+            "Best Finish Rank",
+            "Country",
+            "Years Active"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of poker players ordered by the final tables made in ascending order.",
+        "data": [
+            [
+                "Daniel Negreanu",
+                "47",
+                "$46,205,000",
+                "3rd",
+                "Canada",
+                "9"
+            ],
+            [
+                "Phil Ivey",
+                "52",
+                "$25,800,050",
+                "Winner",
+                "USA",
+                "8"
+            ],
+            [
+                "Erick Lindgren",
+                "61",
+                "$12,450,300",
+                "Runner-up",
+                "USA",
+                "10"
+            ],
+            [
+                "Joe Hachem",
+                "73",
+                "$8,900,000",
+                "Winner",
+                "Australia",
+                "12"
+            ],
+            [
+                "Antonio Esfandiari",
+                "0",
+                "$0",
+                "N/A",
+                "Iran",
+                "11"
+            ],
+            [
+                "Chris Ferguson",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

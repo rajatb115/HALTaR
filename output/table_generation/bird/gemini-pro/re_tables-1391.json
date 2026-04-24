@@ -1,0 +1,43 @@
+{
+    "table-1391-1391": {
+        "title": [
+            "Event Name",
+            "Total Cost",
+            "Percentage of Total Cost"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Event Cost Breakdown",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Based on the total cost for all event, what is the percentage of cost for Yearly Kickoff event?",
+        "data": [
+            [
+                "Yearly Kickoff",
+                "$15,000",
+                "30%"
+            ],
+            [
+                "Summer Party",
+                "$10,000",
+                "20%"
+            ],
+            [
+                "Winter Conference",
+                "$20,000",
+                "40%"
+            ],
+            [
+                "Product Launch",
+                "$7,500",
+                "15%"
+            ],
+            [
+                "Team Building",
+                "$2,500",
+                "5%"
+            ]
+        ]
+    }
+}

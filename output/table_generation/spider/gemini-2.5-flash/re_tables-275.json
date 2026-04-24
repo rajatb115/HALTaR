@@ -1,0 +1,62 @@
+{
+    "table-275-275": {
+        "title": [
+            "Winner Name",
+            "Rank",
+            "Age at Win",
+            "Match Date",
+            "Tournament"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name and rank of the 3 youngest winners across all matches.",
+        "data": [
+            [
+                "Elena Petrova",
+                "12",
+                "17",
+                "2023-08-15",
+                "Grand Slam Open"
+            ],
+            [
+                "Kai Chen",
+                "28",
+                "18",
+                "2022-11-01",
+                "Continental Cup"
+            ],
+            [
+                "Sofia Rossi",
+                "5",
+                "17",
+                "2024-03-22",
+                "Spring Masters"
+            ],
+            [
+                "Liam O'Connell",
+                "35",
+                "19",
+                "2023-01-07",
+                "Winter Classic"
+            ],
+            [
+                "Anya Sharma",
+                "9",
+                "18",
+                "2024-06-10",
+                "Global Championship"
+            ],
+            [
+                "David Kim",
+                "21",
+                "20",
+                "2023-09-28",
+                "Autumn Invitational"
+            ]
+        ]
+    }
+}

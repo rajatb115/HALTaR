@@ -1,0 +1,61 @@
+{
+    "table-583-583": {
+        "title": [
+            "Professional ID",
+            "Role",
+            "Email",
+            "Primary Animal Focus"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give me the id, role and email of the professionals who did not perform any treatment on dogs.",
+        "data": [
+            [
+                "101",
+                "Feline Veterinarian",
+                "dr.smith@catcare.com",
+                "Cats"
+            ],
+            [
+                "102",
+                "Equine Specialist",
+                "dr.jones@equinehealth.org",
+                "Horses"
+            ],
+            [
+                "103",
+                "Exotic Animal Vet",
+                "dr.wong@exoticpets.net",
+                "Reptiles & Birds"
+            ],
+            [
+                "104",
+                "Clinic Administrator",
+                "admin.clark@vetclinic.com",
+                "N/A"
+            ],
+            [
+                "105",
+                "Research Scientist",
+                "prof.davis@animalresearch.edu",
+                "Marine Mammals"
+            ],
+            [
+                "106",
+                "Avian Specialist",
+                "dr.patel@birdclinic.com",
+                "Birds"
+            ],
+            [
+                "107",
+                "Lab Technician",
+                "tech.miller@vetlab.org",
+                "Sample Analysis"
+            ]
+        ]
+    }
+}

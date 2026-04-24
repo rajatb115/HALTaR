@@ -1,0 +1,71 @@
+{
+    "table-1006-1006": {
+        "title": [
+            "Rank",
+            "Driver",
+            "Team",
+            "Duration (seconds)",
+            "Reason",
+            "Race",
+            "Year"
+        ],
+        "numCols": 7,
+        "numericColumns": [
+            0,
+            3,
+            6
+        ],
+        "pgTitle": "Longest Recorded Pit Stop Times in Racing",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the longest time a driver had ever spent at a pit stop?",
+        "data": [
+            [
+                "1",
+                "Armando Filho",
+                "Euroteam",
+                "720",
+                "Mechanical Issues",
+                "24 Hours of Le Mans",
+                "1995"
+            ],
+            [
+                "2",
+                "Nigel Mansell",
+                "Ferrari",
+                "144",
+                "Seatbelt Issues",
+                "Hungarian Grand Prix",
+                "1989"
+            ],
+            [
+                "3",
+                "Mark Webber",
+                "Red Bull Racing",
+                "77.3",
+                "Loose Wheel Nut",
+                "German Grand Prix",
+                "2011"
+            ],
+            [
+                "4",
+                "Heikki Kovalainen",
+                "Caterham",
+                "54.5",
+                "Jack Failure",
+                "Malaysian Grand Prix",
+                "2012"
+            ],
+            [
+                "5",
+                "Felipe Massa",
+                "Ferrari",
+                "32.7",
+                "Fuel Rig Problem",
+                "German Grand Prix",
+                "2010"
+            ]
+        ]
+    }
+}

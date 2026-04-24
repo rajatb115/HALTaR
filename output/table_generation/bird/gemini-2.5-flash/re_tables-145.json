@@ -1,0 +1,69 @@
+{
+    "table-145-145": {
+        "title": [
+            "Account ID",
+            "Month",
+            "Year",
+            "Average Monthly Spend (USD)",
+            "Card Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much is the average amount in credit card made by account holders in a month, in year 2021?",
+        "data": [
+            [
+                "1001",
+                "January",
+                "2021",
+                "850.75",
+                "Visa"
+            ],
+            [
+                "1002",
+                "February",
+                "2021",
+                "1230.50",
+                "Mastercard"
+            ],
+            [
+                "1003",
+                "March",
+                "2021",
+                "675.20",
+                "Amex"
+            ],
+            [
+                "1001",
+                "April",
+                "2021",
+                "910.00",
+                "Visa"
+            ],
+            [
+                "1004",
+                "May",
+                "2021",
+                "1500.30",
+                "Discover"
+            ],
+            [
+                "1002",
+                "June",
+                "2021",
+                "1180.90",
+                "Mastercard"
+            ],
+            [
+                "1005",
+                "July",
+                "2021",
+                "720.45",
+                "Visa"
+            ]
+        ]
+    }
+}

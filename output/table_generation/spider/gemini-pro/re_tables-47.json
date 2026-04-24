@@ -1,0 +1,47 @@
+{
+    "table-47-47": {
+        "title": [
+            "Pet ID",
+            "Weight (kg)",
+            "Age (Years)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Pet Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the id and weight of every pet who is older than 1?",
+        "data": [
+            [
+                "123",
+                "5.2",
+                "3"
+            ],
+            [
+                "456",
+                "12.1",
+                "5"
+            ],
+            [
+                "789",
+                "2.8",
+                "2"
+            ],
+            [
+                "101",
+                "7.5",
+                "4"
+            ],
+            [
+                "202",
+                "15.8",
+                "7"
+            ]
+        ]
+    }
+}

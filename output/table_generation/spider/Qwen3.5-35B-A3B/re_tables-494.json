@@ -1,0 +1,77 @@
+{
+    "table-494-494": {
+        "title": [
+            "Country Code",
+            "Primary Language",
+            "Region",
+            "Population Estimate",
+            "Official Status",
+            "ISO Standard"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the country codes of countries where people use languages other than English?",
+        "data": [
+            [
+                "DE",
+                "German",
+                "Europe",
+                "84 million",
+                "National",
+                "DEU"
+            ],
+            [
+                "FR",
+                "French",
+                "Europe",
+                "67 million",
+                "Official & Spoken",
+                "FRA"
+            ],
+            [
+                "JP",
+                "Japanese",
+                "Asia",
+                "34 million",
+                "National Only",
+                "JPN"
+            ],
+            [
+                "BR",
+                "Portuguese",
+                "South America",
+                "98 million",
+                "Sole Official",
+                "BRA"
+            ],
+            [
+                "IN",
+                "Hindi/English mix",
+                "Asia",
+                "N/A",
+                "Co-official",
+                "IND"
+            ],
+            [
+                "MX",
+                "Spanish",
+                "North America",
+                "N/A",
+                "Constitutional",
+                "MEX"
+            ],
+            [
+                "CN",
+                "Mandarin Chinese",
+                "East Asia",
+                ">1 billion",
+                "State Mandated",
+                "CHN"
+            ]
+        ]
+    }
+}

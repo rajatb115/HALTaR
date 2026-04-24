@@ -1,0 +1,69 @@
+{
+    "table-548-548": {
+        "title": [
+            "Post ID",
+            "User ID",
+            "User Type",
+            "Post Score",
+            "Post Title"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts owned by an elder user, how many of them have a score of over 19?",
+        "data": [
+            [
+                "101",
+                "U001",
+                "Elder",
+                "25",
+                "My thoughts on vintage tech"
+            ],
+            [
+                "102",
+                "U002",
+                "Regular",
+                "15",
+                "Beginner's guide to Python"
+            ],
+            [
+                "103",
+                "U001",
+                "Elder",
+                "18",
+                "A look back at early internet"
+            ],
+            [
+                "104",
+                "U003",
+                "New",
+                "30",
+                "Exciting new AI developments"
+            ],
+            [
+                "105",
+                "U004",
+                "Elder",
+                "22",
+                "The evolution of gaming consoles"
+            ],
+            [
+                "106",
+                "U002",
+                "Regular",
+                "10",
+                "How to fix common software bugs"
+            ],
+            [
+                "107",
+                "U001",
+                "Elder",
+                "40",
+                "Reflecting on digital privacy"
+            ]
+        ]
+    }
+}

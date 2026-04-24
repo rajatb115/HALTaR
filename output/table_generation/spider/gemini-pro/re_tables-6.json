@@ -1,0 +1,39 @@
+{
+    "table-6-6": {
+        "title": [
+            "Song Name",
+            "Release Year"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Youngest Singer's Songs and Release Years",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names and release years for all the songs of the youngest singer?",
+        "data": [
+            [
+                "Song A",
+                "2020"
+            ],
+            [
+                "Song B",
+                "2021"
+            ],
+            [
+                "Song C",
+                "2022"
+            ],
+            [
+                "Song D",
+                "2023"
+            ],
+            [
+                "Song E",
+                "2024"
+            ]
+        ]
+    }
+}

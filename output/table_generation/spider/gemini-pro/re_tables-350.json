@@ -1,0 +1,51 @@
+{
+    "table-350-350": {
+        "title": [
+            "Series Name",
+            "Content Type",
+            "Episode Count",
+            "Average Viewers"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "TV Channel Series Overview",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the number of different series names and contents in the TV Channel table.",
+        "data": [
+            [
+                "Breaking Bad",
+                "Drama",
+                "62",
+                "10.3 Million"
+            ],
+            [
+                "Game of Thrones",
+                "Fantasy",
+                "73",
+                "44.2 Million"
+            ],
+            [
+                "The Office",
+                "Comedy",
+                "201",
+                "8.7 Million"
+            ],
+            [
+                "Stranger Things",
+                "Sci-Fi",
+                "34",
+                "15.8 Million"
+            ],
+            [
+                "The Crown",
+                "Historical Drama",
+                "50",
+                "9.3 Million"
+            ]
+        ]
+    }
+}

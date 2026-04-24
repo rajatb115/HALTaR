@@ -1,0 +1,133 @@
+{
+    "table-228-228": {
+        "title": [
+            "Visitor Name",
+            "Membership Level",
+            "Status",
+            "Last Visit Date",
+            "Points Earned",
+            "Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 14,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the names of the visitors whose membership level is higher than 4, and order the results by the level from high to low.",
+        "data": [
+            [
+                "Alice Johnson",
+                "6",
+                "Active",
+                "7/15/2023",
+                "450",
+                "North America"
+            ],
+            [
+                "Robert Smith",
+                "5",
+                "Inactive",
+                "8/2/2023",
+                "320",
+                "Europe"
+            ],
+            [
+                "Maria Garcia",
+                "9",
+                "Premium",
+                "09/10/2022",
+                "N/A",
+                "South America"
+            ],
+            [
+                "David Lee",
+                "7",
+                "Active",
+                "11/25/",
+                "",
+                "Asia Pacific"
+            ],
+            [
+                "Emily Chen",
+                "None",
+                "Pending",
+                "No Data",
+                "",
+                "Africa"
+            ],
+            [
+                "Michael Brown",
+                "Platinum",
+                "VIP",
+                "Today",
+                "",
+                "Global"
+            ],
+            [
+                "Sarah Wilson",
+                "Gold",
+                "Standard",
+                "Yesterday",
+                "",
+                "Oceania"
+            ],
+            [
+                "James Taylor",
+                "Silver",
+                "Basic",
+                "Last Week",
+                "",
+                "Middle East"
+            ],
+            [
+                "Lisa Anderson",
+                "Diamond",
+                "Elite",
+                "Tomorrow",
+                "",
+                "Antarctica"
+            ],
+            [
+                "Tom Harris",
+                "Bronze",
+                "Trial",
+                "Next Month",
+                "",
+                "Arctic Circle"
+            ],
+            [
+                "Karen White",
+                "Platinum",
+                "Member",
+                "This Morning",
+                "",
+                "Northern Hemisphere"
+            ],
+            [
+                "John Black",
+                "Gold",
+                "Subscriber",
+                "Evening",
+                "",
+                "Southern Hemisphere"
+            ],
+            [
+                "Nancy Green",
+                "Silver Regular",
+                "",
+                "Afternoon",
+                "",
+                "Western World"
+            ],
+            [
+                "Paul Blue",
+                "Bronze",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-90-90": {
+        "title": [
+            "Account ID",
+            "Issuance Preference",
+            "Region",
+            "Account Status",
+            "Customer Since Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts who choose issuance after transaction are staying in East Bohemia region?",
+        "data": [
+            [
+                "ACC-001",
+                "After Transaction",
+                "East Bohemia",
+                "Active",
+                "2020"
+            ],
+            [
+                "ACC-002",
+                "Before Transaction",
+                "West Bohemia",
+                "Active",
+                "2019"
+            ],
+            [
+                "ACC-003",
+                "After Transaction",
+                "East Bohemia",
+                "Active",
+                "2022"
+            ],
+            [
+                "ACC-004",
+                "Instant Issuance",
+                "Central Bohemia",
+                "Active",
+                "2021"
+            ],
+            [
+                "ACC-005",
+                "After Transaction",
+                "South Moravia",
+                "Active",
+                "2023"
+            ],
+            [
+                "ACC-006",
+                "After Transaction",
+                "East Bohemia",
+                "Active",
+                "2018"
+            ],
+            [
+                "ACC-007",
+                "Before Transaction",
+                "East Bohemia",
+                "Inactive",
+                "2020"
+            ]
+        ]
+    }
+}

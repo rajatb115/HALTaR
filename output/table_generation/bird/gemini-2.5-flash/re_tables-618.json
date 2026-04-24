@@ -1,0 +1,85 @@
+{
+    "table-618-618": {
+        "title": [
+            "Comment ID",
+            "Post ID",
+            "Author Username",
+            "Comment Text",
+            "Comment Date",
+            "Likes Count",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the detailed content of the comment of the post which was created on 7/19/2010 7:37:33 PM?",
+        "data": [
+            [
+                "C1001",
+                "P501",
+                "user_alpha",
+                "Great post! Very insightful analysis.",
+                "2010-07-20 09:15:00",
+                "15",
+                "Approved"
+            ],
+            [
+                "C1002",
+                "P501",
+                "reader_beta",
+                "I disagree with point #3. Can you elaborate?",
+                "2010-07-20 11:30:00",
+                "7",
+                "Approved"
+            ],
+            [
+                "C1003",
+                "P501",
+                "analyst_gamma",
+                "Thanks for sharing this perspective. It adds a lot.",
+                "2010-07-20 14:05:00",
+                "22",
+                "Approved"
+            ],
+            [
+                "C1004",
+                "P501",
+                "anon_user",
+                "This is really helpful for my research.",
+                "2010-07-21 08:00:00",
+                "10",
+                "Approved"
+            ],
+            [
+                "C1005",
+                "P501",
+                "moderator_bot",
+                "Please keep comments respectful and on-topic.",
+                "2010-07-21 10:45:00",
+                "3",
+                "Approved"
+            ],
+            [
+                "C1006",
+                "P501",
+                "user_delta",
+                "Any updates on the follow-up discussion?",
+                "2010-07-22 16:20:00",
+                "5",
+                "Approved"
+            ],
+            [
+                "C1007",
+                "P501",
+                "guest_123",
+                "I found a typo in the third paragraph.",
+                "2010-07-23 09:00:00",
+                "2",
+                "Approved"
+            ]
+        ]
+    }
+}

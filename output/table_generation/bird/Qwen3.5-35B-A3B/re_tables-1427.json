@@ -1,0 +1,55 @@
+{
+    "table-1427-1427": {
+        "title": [
+            "Last_Name",
+            "Major",
+            "Department",
+            "College"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the last name of members with a major in environmental engineering and include its department and college name.",
+        "data": [
+            [
+                "Smith",
+                "Environmental Engineering",
+                "Civil & Env Eng",
+                "School of Engineering"
+            ],
+            [
+                "Johnson",
+                "Environmental Systems",
+                "Sustainable Tech",
+                "College of Science"
+            ],
+            [
+                "Williams",
+                "Green Infrastructure",
+                "Eco Design Dept",
+                "Faculty of Applied Sci"
+            ],
+            [
+                "Brown",
+                "Water Resources Mgmt",
+                "Hydrology Lab",
+                "School for Earth Sciences"
+            ],
+            [
+                "Davis",
+                "Climate Resilience",
+                "Urban Planning",
+                "College Built Environment"
+            ],
+            [
+                "Miller",
+                "Ecological Restoration",
+                "BioSystems Group",
+                "Institute of Natural Sci"
+            ]
+        ]
+    }
+}

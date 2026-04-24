@@ -1,0 +1,61 @@
+{
+    "table-593-593": {
+        "title": [
+            "Treatment Name",
+            "Treatment Type",
+            "Cost ($)",
+            "Description"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the cost and treatment type description of each treatment?",
+        "data": [
+            [
+                "Physical Therapy",
+                "Rehabilitation",
+                "150",
+                "Aids recovery from muscle and joint injuries."
+            ],
+            [
+                "Dental Filling",
+                "Dental",
+                "250",
+                "Restores tooth integrity after decay or damage."
+            ],
+            [
+                "Appendectomy",
+                "Surgical",
+                "5000",
+                "Surgical removal of the appendix to treat appendicitis."
+            ],
+            [
+                "MRI Scan",
+                "Diagnostic Imaging",
+                "800",
+                "Uses magnetic fields to create detailed images of organs and tissues."
+            ],
+            [
+                "Chemotherapy",
+                "Oncology",
+                "12000",
+                "Drug treatment designed to destroy or slow the growth of cancer cells."
+            ],
+            [
+                "Vision Exam",
+                "Optometry",
+                "75",
+                "Comprehensive check of eye health and visual acuity."
+            ],
+            [
+                "Flu Vaccination",
+                "Preventive Care",
+                "40",
+                "Administers a vaccine to protect against influenza virus."
+            ]
+        ]
+    }
+}

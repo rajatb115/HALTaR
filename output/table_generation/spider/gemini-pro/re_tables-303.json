@@ -1,0 +1,37 @@
+{
+    "table-303-303": {
+        "title": [
+            "Degree Type",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Degree Program Overview",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different degrees are offered?",
+        "data": [
+            [
+                "Bachelor of Arts (BA)",
+                "Focuses on humanities and liberal arts disciplines."
+            ],
+            [
+                "Bachelor of Science (BS)",
+                "Emphasizes scientific and mathematical fields."
+            ],
+            [
+                "Master of Arts (MA)",
+                "Advanced degree in humanities or social sciences."
+            ],
+            [
+                "Master of Science (MS)",
+                "Advanced degree in science, technology, engineering, or mathematics."
+            ],
+            [
+                "Doctorate (PhD)",
+                ""
+            ]
+        ]
+    }
+}

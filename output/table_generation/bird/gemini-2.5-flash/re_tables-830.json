@@ -1,0 +1,62 @@
+{
+    "table-830-830": {
+        "title": [
+            "Publisher",
+            "Estimated Superhero Count",
+            "Key Franchise",
+            "Founding Year",
+            "Notable Hero"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which publisher created more superheroes: DC or Marvel Comics? Find the difference in the number of superheroes.",
+        "data": [
+            [
+                "DC Comics",
+                "2800",
+                "Justice League",
+                "1934",
+                "Superman"
+            ],
+            [
+                "Marvel Comics",
+                "2300",
+                "Avengers",
+                "1939",
+                "Spider-Man"
+            ],
+            [
+                "DC Comics",
+                "2800",
+                "Batman Family",
+                "1934",
+                "Batman"
+            ],
+            [
+                "Marvel Comics",
+                "2300",
+                "X-Men",
+                "1939",
+                "Wolverine"
+            ],
+            [
+                "DC Comics",
+                "2800",
+                "Green Lantern Corps",
+                "1934",
+                "Green Lantern"
+            ],
+            [
+                "Marvel Comics",
+                "2300",
+                "Fantastic Four",
+                "1939",
+                "Iron Man"
+            ]
+        ]
+    }
+}

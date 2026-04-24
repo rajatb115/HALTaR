@@ -1,0 +1,76 @@
+{
+    "table-384-384": {
+        "title": [
+            "Card Name",
+            "Set Name",
+            "Border Color",
+            "Banned Date",
+            "Reason for Ban"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the banned cards are white border?",
+        "data": [
+            [
+                "Balance",
+                "Unlimited Edition",
+                "White",
+                "1999-03-01",
+                "Game state disruption"
+            ],
+            [
+                "Mind Twist",
+                "Revised Edition",
+                "White",
+                "1999-03-01",
+                "Hand destruction"
+            ],
+            [
+                "Strip Mine",
+                "Antiquities",
+                "White",
+                "1999-03-01",
+                "Land destruction"
+            ],
+            [
+                "Ancestral Recall",
+                "Limited Edition Alpha",
+                "Black",
+                "1994-01-01",
+                "Power imbalance"
+            ],
+            [
+                "Flash",
+                "Future Sight",
+                "Black",
+                "2007-09-01",
+                "Combo potential"
+            ],
+            [
+                "Jace, the Mind Sculptor",
+                "Worldwake",
+                "Black",
+                "2011-06-20",
+                "Dominance"
+            ],
+            [
+                "Skullclamp",
+                "Darksteel",
+                "Black",
+                "2004-03-01",
+                "Card advantage"
+            ],
+            [
+                "Golgari Grave-Troll",
+                "Ravnica: City of Guilds",
+                "Black",
+                "2015-01-19",
+                "Dredge mechanic"
+            ]
+        ]
+    }
+}

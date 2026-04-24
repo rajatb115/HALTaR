@@ -1,0 +1,49 @@
+{
+    "table-1046-1046": {
+        "title": [
+            "Player Name",
+            "Attacking Work Rate",
+            "Defensive Work Rate",
+            "Position"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Football Player Work Rates",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the attacking work rate of the football playerr Franco Zennaro?",
+        "data": [
+            [
+                "Franco Zennaro",
+                "High",
+                "Medium",
+                "Forward"
+            ],
+            [
+                "Lionel Messi",
+                "High",
+                "Low",
+                "Forward"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "Medium",
+                "Low",
+                "Forward"
+            ],
+            [
+                "N'Golo Kante",
+                "Medium",
+                "High",
+                "Midfielder"
+            ],
+            [
+                "Virgil van Dijk",
+                "Low",
+                "High",
+                "Defender"
+            ]
+        ]
+    }
+}

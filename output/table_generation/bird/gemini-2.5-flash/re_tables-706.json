@@ -1,0 +1,62 @@
+{
+    "table-706-706": {
+        "title": [
+            "Username",
+            "Comment Text",
+            "Reputation Score",
+            "Upvotes Received",
+            "Badges Earned"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the user's reputation and up vote number of the user that commented \"fine, you win :)\".",
+        "data": [
+            [
+                "DataWizard77",
+                "fine, you win :)",
+                "1250",
+                "870",
+                "5"
+            ],
+            [
+                "CodeNinja",
+                "Agreed, that's a solid point.",
+                "2100",
+                "1500",
+                "8"
+            ],
+            [
+                "NewbieDev",
+                "Thanks for the clarification!",
+                "150",
+                "100",
+                "1"
+            ],
+            [
+                "QueryMaster",
+                "Interesting perspective, I'll consider that.",
+                "5500",
+                "4000",
+                "12"
+            ],
+            [
+                "InsightfulGuy",
+                "This solution saved my day!",
+                "800",
+                "600",
+                "3"
+            ],
+            [
+                "TechExplorer",
+                "Can you elaborate on step 3?",
+                "300",
+                "220",
+                "2"
+            ]
+        ]
+    }
+}

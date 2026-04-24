@@ -1,0 +1,43 @@
+{
+    "table-568-568": {
+        "title": [
+            "Student Name",
+            "Has Friends",
+            "Is Liked By"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Students with Social Connections",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show name of all students who have some friends and also are liked by someone else.",
+        "data": [
+            [
+                "Alice",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Bob",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Charlie",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "David",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Eve",
+                "Yes",
+                "Yes"
+            ]
+        ]
+    }
+}

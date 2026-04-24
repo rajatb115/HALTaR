@@ -1,0 +1,53 @@
+{
+    "table-310-310": {
+        "title": [
+            "Molecule_ID",
+            "Atom_ID",
+            "Bond_Types_Involved"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the atom id that belongs to the TR346 molecule and how many bond type can be created by this molecule?",
+        "data": [
+            [
+                "TR346",
+                "C1",
+                "2"
+            ],
+            [
+                "TR346",
+                "H1",
+                "1"
+            ],
+            [
+                "TR346",
+                "O1",
+                "2"
+            ],
+            [
+                "TR346",
+                "C2",
+                "3"
+            ],
+            [
+                "TR346",
+                "N1",
+                "2"
+            ],
+            [
+                "TR346",
+                "H2",
+                "1"
+            ],
+            [
+                "TR346",
+                "S1",
+                "2"
+            ]
+        ]
+    }
+}

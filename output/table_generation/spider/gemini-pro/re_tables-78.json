@@ -1,0 +1,40 @@
+{
+    "table-78-78": {
+        "title": [
+            "Year",
+            "Average Weight (lbs)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Average Car Weight by Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average weight of cars each year?",
+        "data": [
+            [
+                "2018",
+                "4100"
+            ],
+            [
+                "2019",
+                "4150"
+            ],
+            [
+                "2020",
+                "4200"
+            ],
+            [
+                "2021",
+                "4250"
+            ],
+            [
+                "2022",
+                "4300"
+            ]
+        ]
+    }
+}

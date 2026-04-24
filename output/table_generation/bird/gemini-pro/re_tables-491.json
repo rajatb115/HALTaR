@@ -1,0 +1,45 @@
+{
+    "table-491-491": {
+        "title": [
+            "Set Code",
+            "Set Name",
+            "Magic Card Market ID"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Magic Card Market IDs by Set Code",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the set which had 'SS2' as the code, what is its magic card market id?",
+        "data": [
+            [
+                "UNH",
+                "Unglued",
+                "35"
+            ],
+            [
+                "UGL",
+                "Unglued Tokens",
+                "36"
+            ],
+            [
+                "ITP",
+                "Italian Promos",
+                "37"
+            ],
+            [
+                "RQS",
+                "Ravnica: Quiz Show",
+                "38"
+            ],
+            [
+                "SS2",
+                "Signature Spellbook 2",
+                "2578"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-739-739": {
+        "title": [
+            "Superhero",
+            "Durability"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Superheroes by Durability",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many superheroes have durability of less than 50?",
+        "data": [
+            [
+                "Spider-Man",
+                "30"
+            ],
+            [
+                "Iron Man",
+                "40"
+            ],
+            [
+                "Captain America",
+                "30"
+            ],
+            [
+                "Black Widow",
+                "20"
+            ],
+            [
+                "Hawkeye",
+                "20"
+            ]
+        ]
+    }
+}

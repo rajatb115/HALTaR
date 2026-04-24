@@ -1,0 +1,45 @@
+{
+    "table-1262-1262": {
+        "title": [
+            "RF Result",
+            "Thrombosis",
+            "Number of Patients"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Patient Data Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal RF don't have thrombosis?",
+        "data": [
+            [
+                "Normal",
+                "Yes",
+                "150"
+            ],
+            [
+                "Normal",
+                "No",
+                "200"
+            ],
+            [
+                "Elevated",
+                "Yes",
+                "250"
+            ],
+            [
+                "Elevated",
+                "No",
+                "100"
+            ],
+            [
+                "Unknown",
+                "Unknown",
+                "50"
+            ]
+        ]
+    }
+}

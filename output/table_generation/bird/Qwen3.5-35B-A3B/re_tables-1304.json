@@ -1,0 +1,69 @@
+{
+    "table-1304-1304": {
+        "title": [
+            "Patient ID",
+            "Blood Glucose Status",
+            "Age",
+            "Date of Birth",
+            "Diagnosis Category"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When is the birthday of the oldest patient whose blood glucose is abnormal?",
+        "data": [
+            [
+                "P-4021",
+                "Abnormal High",
+                "78",
+                "6/15/1945",
+                "Diabetes Mellitus Type 2"
+            ],
+            [
+                "P-4105",
+                "Abnormal Low",
+                "82",
+                "3/22/1841",
+                "Hypoglycemia Episode"
+            ],
+            [
+                "P-A992",
+                "Normal Range",
+                "45",
+                "",
+                ""
+            ],
+            [
+                "P-B331",
+                "Borderline",
+                "55",
+                "9/10/2020",
+                "Pre-Diabetes"
+            ],
+            [
+                "P-C774",
+                "Abnormally High",
+                "85",
+                "",
+                "Hyperglycemic Crisis"
+            ],
+            [
+                "P-D112",
+                "Stable",
+                "0",
+                "Unknown",
+                "Pediatric Monitoring Required"
+            ],
+            [
+                "P-E558",
+                "Fluctuating",
+                "67",
+                "N/A",
+                "Unstable Metabolic State"
+            ]
+        ]
+    }
+}

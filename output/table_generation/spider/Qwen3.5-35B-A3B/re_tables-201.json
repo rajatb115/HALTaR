@@ -1,0 +1,73 @@
+{
+    "table-201-201": {
+        "title": [
+            "Template ID",
+            "Description",
+            "Category",
+            "Status",
+            "Created Date",
+            "Last Modified",
+            "Owner",
+            "Version"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the ids corresponding to templates with the description 'Presentation'.",
+        "data": [
+            [
+                "TPL-PRESENT-004",
+                "Presentation",
+                "Slide Deck",
+                "Active",
+                "06/15/2023",
+                "30/07/2024",
+                "Design Team",
+                "v2.1"
+            ],
+            [
+                "TPL-PRESEN-012",
+                "Presentation Report",
+                "Business",
+                "Draft",
+                "04/10/2022",
+                "N/A",
+                "Marketing Dept",
+                "v1.0"
+            ],
+            [
+                "TPS-PRD-089",
+                "Product Presentation",
+                "Sales",
+                "Archived",
+                "09/01/2021",
+                "05/12/2021",
+                "Sales Lead",
+                "v3.4"
+            ],
+            [
+                "TBL-PRES-205",
+                "Quarterly Presentation",
+                "Finance",
+                "Active",
+                "12 Jan 2024",
+                "15 Feb 2023",
+                "CFO Office",
+                "v4.0"
+            ],
+            [
+                "TPL-SLIDE-033",
+                "General Presentation",
+                "Education",
+                "Pending Review",
+                "11 Nov 2022",
+                "02 Dec 2022",
+                "Trainer Group",
+                "v12.0"
+            ]
+        ]
+    }
+}

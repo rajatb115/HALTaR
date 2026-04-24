@@ -1,0 +1,76 @@
+{
+    "table-241-241": {
+        "title": [
+            "Molecule ID",
+            "Toxicological Endpoint",
+            "Observed Value",
+            "Unit",
+            "Test Duration",
+            "Species/Model",
+            "Source Reference"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the elements of the toxicology of the molecule \"TR004\".",
+        "data": [
+            [
+                "\"TR012\"",
+                "Acute Oral LD50",
+                "> 2500",
+                "mg/kg",
+                "Single Dose",
+                "Rat",
+                "Study TR-AQ-01"
+            ],
+            [
+                "Chronic Hepatic Toxicity",
+                "Grade II Necrosis",
+                "Histopath Score",
+                "6 Months",
+                "Mouse",
+                "Report TR-BR-04",
+                ""
+            ],
+            [
+                "null",
+                "Teratogenic Potential",
+                "Negative",
+                "Binary",
+                "Gestation Day 7-15",
+                "Zebrafish",
+                "Data Sheet TR-CV"
+            ],
+            [
+                "null",
+                "Mutagenicity (Ames Test)",
+                "Positive in Strain TA98",
+                "Result",
+                "Standard Protocol",
+                "Salmonella typhimurium",
+                "Lab Log TR-DT"
+            ],
+            [
+                "\"\"",
+                "Cardiotoxicity Risk",
+                "Low",
+                "Risk Category",
+                "Continuous Monitoring",
+                "Canine Model",
+                "Analysis TR-EH"
+            ],
+            [
+                "\"\"\"",
+                "Neurotoxic Threshold",
+                "No Observed Effect Level",
+                "Concentration",
+                "Subchronic Exposure",
+                "Cynomolgus Monkey",
+                "Final Report TR-FI"
+            ]
+        ]
+    }
+}

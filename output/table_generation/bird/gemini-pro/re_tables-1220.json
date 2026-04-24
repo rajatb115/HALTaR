@@ -1,0 +1,46 @@
+{
+    "table-1220-1220": {
+        "title": [
+            "Patient ID",
+            "Latest UA Result Date",
+            "UA Index"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Average Uric Acid Index for Patients with Normal Uric Acid Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all patients with normal uric acid (UA), what is the average UA index based on their latest laboratory examination result?",
+        "data": [
+            [
+                "12345",
+                "2024-01-15",
+                "5.2"
+            ],
+            [
+                "67890",
+                "2024-02-20",
+                "4.8"
+            ],
+            [
+                "13579",
+                "2023-12-01",
+                "6.1"
+            ],
+            [
+                "24680",
+                "2024-03-10",
+                "5.5"
+            ],
+            [
+                "98765",
+                "2024-01-28",
+                "4.9"
+            ]
+        ]
+    }
+}

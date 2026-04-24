@@ -1,0 +1,85 @@
+{
+    "table-981-981": {
+        "title": [
+            "Driver Reference",
+            "Nationality",
+            "Birthday",
+            "Race Number",
+            "Qualifying Lap Status",
+            "Team",
+            "Points Scored"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the reference name of the drivers who passed the second qualifying lap during race no. 23. Indicate their nationality and birthday.",
+        "data": [
+            [
+                "J.Smith_23",
+                "British",
+                "4/12/1976",
+                "0023",
+                "Passed Q2",
+                "Red Bull Racing",
+                "8"
+            ],
+            [
+                "M.Lee_24",
+                "German",
+                "9/15/1885",
+                "024",
+                "Passed Q1",
+                "Mercedes AMG",
+                "N/A"
+            ],
+            [
+                "R.Garcia_25",
+                "Spanish",
+                "7/22/2010",
+                "3025",
+                "Failed Q1",
+                "Ferrari SF",
+                "5"
+            ],
+            [
+                "K.Olsen_26",
+                "Norwegian",
+                "6/30/1799",
+                "",
+                "**Passed** Q2",
+                "McLaren MCL",
+                ""
+            ],
+            [
+                "T.Wang_27",
+                "Chinese",
+                "/11/11",
+                "",
+                "No Data",
+                "Aston Martin",
+                "N/A"
+            ],
+            [
+                "L.Muller_28",
+                "French",
+                "-05-05",
+                "05",
+                "Passed Q3",
+                "Alpine F1",
+                ""
+            ],
+            [
+                "P.Davis_29",
+                "American",
+                "--",
+                "",
+                "Not Entered",
+                "Haas VF",
+                "None"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-107-107": {
+        "title": [
+            "Country",
+            "Continent",
+            "Population (Millions)",
+            "GDP per Capita (USD)",
+            "Major Export",
+            "Car Manufacturing Presence"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the countries with no car makers?",
+        "data": [
+            [
+                "Bhutan",
+                "Asia",
+                "0.8",
+                "3500",
+                "Hydropower, Tourism",
+                "None"
+            ],
+            [
+                "Maldives",
+                "Asia",
+                "0.5",
+                "10000",
+                "Tourism, Fish",
+                "None"
+            ],
+            [
+                "Iceland",
+                "Europe",
+                "0.4",
+                "70000",
+                "Fish, Aluminum",
+                "None"
+            ],
+            [
+                "Fiji",
+                "Oceania",
+                "0.9",
+                "6000",
+                "Sugar, Tourism",
+                "None"
+            ],
+            [
+                "Belize",
+                "North America",
+                "0.4",
+                "5000",
+                "Sugar, Bananas",
+                "None"
+            ],
+            [
+                "Luxembourg",
+                "Europe",
+                "0.6",
+                "130000",
+                "Financial Services, Steel",
+                "None"
+            ],
+            [
+                "Liechtenstein",
+                "Europe",
+                "0.04",
+                "180000",
+                "Precision Instruments, Financial Services",
+                "None"
+            ]
+        ]
+    }
+}

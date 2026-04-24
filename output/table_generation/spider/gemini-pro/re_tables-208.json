@@ -1,0 +1,39 @@
+{
+    "table-208-208": {
+        "title": [
+            "Document ID",
+            "Paragraph Text"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Documents with Specific Paragraph Content",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the document id with paragraph text 'Brazil' and 'Ireland'.",
+        "data": [
+            [
+                "123",
+                "The economy of Brazil is strong."
+            ],
+            [
+                "456",
+                "Ireland is known for its green landscapes."
+            ],
+            [
+                "789",
+                "Trade between Brazil and Ireland has increased."
+            ],
+            [
+                "101",
+                "New environmental regulations are being proposed in Brazil to reduce deforestation."
+            ],
+            [
+                "112",
+                "Ireland's software industry is booming."
+            ]
+        ]
+    }
+}

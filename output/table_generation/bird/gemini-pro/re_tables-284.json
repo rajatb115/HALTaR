@@ -1,0 +1,43 @@
+{
+    "table-284-284": {
+        "title": [
+            "Compound Name",
+            "Chemical Formula",
+            "Carcinogenicity"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Calcium Compounds and Carcinogenicity",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify whether the chemical compound that contains Calcium is carcinogenic.",
+        "data": [
+            [
+                "Calcium Carbonate",
+                "CaCO3",
+                "Not carcinogenic"
+            ],
+            [
+                "Calcium Chloride",
+                "CaCl2",
+                "Not carcinogenic"
+            ],
+            [
+                "Calcium Oxide",
+                "CaO",
+                "Not carcinogenic"
+            ],
+            [
+                "Calcium Sulfate",
+                "CaSO4",
+                "Not carcinogenic"
+            ],
+            [
+                "Calcium Phosphate",
+                "Ca3(PO4)2",
+                "Not carcinogenic"
+            ]
+        ]
+    }
+}

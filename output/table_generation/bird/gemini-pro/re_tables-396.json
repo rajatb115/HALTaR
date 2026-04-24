@@ -1,0 +1,29 @@
+{
+    "table-396-396": {
+        "title": [
+            "Artist",
+            "Print Type",
+            "Min Hand Size",
+            "Max Hand Size",
+            "Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            4
+        ],
+        "pgTitle": "Card Details by UDON",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards designed by UDON and available in mtgo print type has a starting maximum hand size of -1?",
+        "data": [
+            [
+                "UDON",
+                "MTGO",
+                "-1",
+                "-1",
+                "1"
+            ]
+        ]
+    }
+}

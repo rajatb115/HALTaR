@@ -1,0 +1,69 @@
+{
+    "table-1255-1255": {
+        "title": [
+            "Patient ID",
+            "Ig A Level (mg/dL)",
+            "Visit Date",
+            "Department",
+            "Diagnosis"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal Ig A level came to the hospital after 1990/1/1?",
+        "data": [
+            [
+                "P-001",
+                "185",
+                "1991-03-15",
+                "Internal Medicine",
+                "Routine Check-up"
+            ],
+            [
+                "P-002",
+                "210",
+                "1995-07-22",
+                "Cardiology",
+                "Chest Pain"
+            ],
+            [
+                "P-003",
+                "450",
+                "1998-11-01",
+                "Gastroenterology",
+                "Crohn's Disease"
+            ],
+            [
+                "P-004",
+                "150",
+                "1989-12-20",
+                "Pediatrics",
+                "Fever"
+            ],
+            [
+                "P-005",
+                "55",
+                "2001-04-10",
+                "Immunology",
+                "Recurrent Infections"
+            ],
+            [
+                "P-006",
+                "320",
+                "2005-09-05",
+                "Dermatology",
+                "Rash"
+            ],
+            [
+                "P-007",
+                "240",
+                "1993-01-28",
+                "Neurology",
+                "Headache"
+            ]
+        ]
+    }
+}

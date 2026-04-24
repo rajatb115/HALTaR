@@ -1,0 +1,43 @@
+{
+    "table-461-461": {
+        "title": [
+            "Government Type",
+            "Description",
+            "Examples (Countries)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Government Types in Africa",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many type of governments are in Africa?",
+        "data": [
+            [
+                "Presidential Republic",
+                "A system where the president is both head of state and head of government, elected independently of the legislature.",
+                "Nigeria, Kenya"
+            ],
+            [
+                "Parliamentary Republic",
+                "A system where the president is head of state, but the prime minister is head of government and accountable to the parliament.",
+                "South Africa, Ethiopia"
+            ],
+            [
+                "Constitutional Monarchy",
+                "A system where a monarch is head of state, but their powers are limited by a constitution and an elected parliament.",
+                "Lesotho, Morocco"
+            ],
+            [
+                "Transitional Government",
+                "A temporary government established during a period of political instability or conflict, often leading to elections.",
+                "Libya, Sudan"
+            ],
+            [
+                "Authoritarian/Dictatorship",
+                "A system where power is concentrated in the hands of a single person or a small group, with limited political freedom.",
+                "Eritrea"
+            ]
+        ]
+    }
+}

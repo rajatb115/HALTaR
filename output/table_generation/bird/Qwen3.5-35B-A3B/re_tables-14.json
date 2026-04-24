@@ -1,0 +1,73 @@
+{
+    "table-14-14": {
+        "title": [
+            "School Name",
+            "Sat Excellence Rate (%)",
+            "Phone Number",
+            "City",
+            "State",
+            "Enrollment",
+            "Principal",
+            "Accreditation Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the phone numbers of the schools with the top 3 SAT excellence rate.",
+        "data": [
+            [
+                "Lincoln High Academy",
+                "94.2",
+                "+1-617-555-0142",
+                "Boston",
+                "MA",
+                "850",
+                "Dr. Sarah Jenkins",
+                "Fully Accredited"
+            ],
+            [
+                "Westview STEM Institute",
+                "3.2",
+                "+415-598-2233",
+                "San Francisco",
+                "CA",
+                "620",
+                "Mr. David Chen",
+                "Provisional"
+            ],
+            [
+                "Northwood Preparatory",
+                "4.1",
+                "512-500-9988",
+                "Austin",
+                "TX",
+                "710",
+                "Ms. Emily Ross",
+                "Fully Accredited"
+            ],
+            [
+                "Oakridge International",
+                "0.9",
+                "(206) 550-1122",
+                "Seattle",
+                "WA",
+                "",
+                "",
+                "Pending Review"
+            ],
+            [
+                "Maple Grove Scholars",
+                "0.5",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

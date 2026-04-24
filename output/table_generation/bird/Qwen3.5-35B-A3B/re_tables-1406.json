@@ -1,0 +1,62 @@
+{
+    "table-1406-1406": {
+        "title": [
+            "Category",
+            "Budget Amount ($)",
+            "Status",
+            "Vendor",
+            "Payment Due Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the amount budgeted for 'April Speaker' event. List all the budgeted categories for said event in an ascending order based on their amount.",
+        "data": [
+            [
+                "Venue Rental",
+                "450",
+                "Paid",
+                "City Hall",
+                "04/01/2024"
+            ],
+            [
+                "Mic Rentals",
+                "675",
+                "Pending",
+                "AudioPro Inc",
+                "03/28/2024"
+            ],
+            [
+                "Catering Services",
+                "820",
+                "Approved",
+                "Gourmet Delights",
+                "05/02/2024"
+            ],
+            [
+                "Marketing Materials",
+                "950",
+                "Unpaid",
+                "PrintMaster Co",
+                "07/15/2025"
+            ],
+            [
+                "Speaker Fees",
+                "120",
+                "Confirmed",
+                "Tech Speakers LLC",
+                "N/A"
+            ],
+            [
+                "Security Staff",
+                "1500",
+                "Scheduled",
+                "SafeGuard Events",
+                "04/04/2024"
+            ]
+        ]
+    }
+}

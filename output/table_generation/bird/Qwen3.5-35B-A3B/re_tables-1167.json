@@ -1,0 +1,67 @@
+{
+    "table-1167-1167": {
+        "title": [
+            "Patient ID",
+            "Age at Exam",
+            "Primary Symptom",
+            "Secondary Symptom",
+            "Tertiary Symptom",
+            "Diagnosis",
+            "Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the symptoms observed by the youngest patient to ever did a medical examination? Identify their diagnosis.",
+        "data": [
+            [
+                "P-1042",
+                "6 months",
+                "Persistent fever",
+                "Poor feeding",
+                "Lethargy",
+                "Congenital Infection",
+                "07/15/2023"
+            ],
+            [
+                "P-A99",
+                "8 weeks",
+                "Severe jaundice",
+                "Abdominal distension",
+                "Vomiting",
+                "Neonatal Hepatitis",
+                "03/22/2024"
+            ],
+            [
+                "B-201X",
+                "4 days",
+                "Cyanosis",
+                "Rapid breathing",
+                "Grunting sound",
+                "Transposition of Great Arteries",
+                "09/01/2023"
+            ],
+            [
+                "M-55Z",
+                "5 hours",
+                "Hypotonia",
+                "Weak cry",
+                "Feeding difficulty",
+                "Spinal Muscular Atrophy",
+                "07/07/2024"
+            ],
+            [
+                "K-88L",
+                "6 months",
+                "Recurrent seizures",
+                "Developmental delay",
+                "Loss of muscle tone",
+                "Infantile Epilepsy Syndrome",
+                "12/30/2023"
+            ]
+        ]
+    }
+}

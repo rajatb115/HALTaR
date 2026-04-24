@@ -1,0 +1,64 @@
+{
+    "table-1195-1195": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "C-Reactive Protein",
+            "Creatinine",
+            "LDH",
+            "Sex"
+        ],
+        "numCols": 6,
+        "numericColumns": [
+            3,
+            4
+        ],
+        "pgTitle": "Patient Lab Results and Diagnoses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What sex is the patient who in a medical examination was diagnosed with PSS and in a laboratory examination had a blood level of C-reactive protein de 2+, createnine 1 and LDH 123?",
+        "data": [
+            [
+                "Patient A",
+                "PSS",
+                "2+",
+                "1",
+                "123",
+                "Unknown"
+            ],
+            [
+                "Patient B",
+                "Other",
+                "1+",
+                "0.8",
+                "150",
+                "Female"
+            ],
+            [
+                "Patient C",
+                "PSS",
+                "3+",
+                "1.2",
+                "100",
+                "Male"
+            ],
+            [
+                "Patient D",
+                "SLE",
+                "2+",
+                "0.9",
+                "110",
+                "Female"
+            ],
+            [
+                "Patient E",
+                "PSS",
+                "1+",
+                "1.1",
+                "130",
+                "Male"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-556-556": {
+        "title": [
+            "User",
+            "Avg. Score",
+            "Post Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Posts Statistics by User",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average score of the posts owned by the user csgillespie?",
+        "data": [
+            [
+                "csgillespie",
+                "123.45",
+                "30"
+            ],
+            [
+                "other_user",
+                "90.12",
+                "25"
+            ],
+            [
+                "another_user",
+                "150.78",
+                "40"
+            ],
+            [
+                "test_user",
+                "75.50",
+                "15"
+            ],
+            [
+                "example_user",
+                "110.22",
+                "35"
+            ]
+        ]
+    }
+}

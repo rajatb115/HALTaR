@@ -1,0 +1,77 @@
+{
+    "table-1333-1333": {
+        "title": [
+            "Club Member ID",
+            "Food Category",
+            "Expense Amount ($)",
+            "Date",
+            "Payment Method",
+            "Receipt Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much did the Student_Club members spend on food in September Meeting?",
+        "data": [
+            [
+                "SCM_0042",
+                "Lunch Catering",
+                "450.75",
+                "09/12/2023",
+                "Corporate Card",
+                "Verified"
+            ],
+            [
+                "SCA_0118",
+                "Snacks & Beverages",
+                "89.50",
+                "09/05/2024",
+                "Cash",
+                "Pending Review"
+            ],
+            [
+                "SCL_0305",
+                "Dinner Event",
+                "620.00",
+                "Sep 15, 2023",
+                "Bank Transfer",
+                "Approved"
+            ],
+            [
+                "SCB_0221",
+                "Coffee Breaks",
+                "34.25",
+                "Sept 1, 2023",
+                "Debit",
+                "N/A"
+            ],
+            [
+                "SCD_0559",
+                "Special Dietary Meals",
+                "78.90",
+                "September 2, 2023",
+                "Credit Card",
+                "Disputed"
+            ],
+            [
+                "SCE_0672",
+                "Post-Meeting Dessert",
+                "55.05",
+                "October 1, 2023",
+                "Check",
+                "Reimbursed"
+            ],
+            [
+                "SCF_0883",
+                "Group Picnic Supplies",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

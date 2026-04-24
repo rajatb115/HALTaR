@@ -1,0 +1,69 @@
+{
+    "table-397-397": {
+        "title": [
+            "Card ID",
+            "Frame Version",
+            "Availability Format",
+            "Sensitive Content Warning",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards with a 1993 frame version and available on paper have a sensitive content warning?",
+        "data": [
+            [
+                "CARD_4021",
+                "93-FRAME-A",
+                "Paper",
+                "Yes",
+                "Active"
+            ],
+            [
+                "CARD_B77X",
+                "06-VINTAGE",
+                "Digital Only",
+                "No",
+                "Archived"
+            ],
+            [
+                "CARD_C99Z",
+                "88-RARE",
+                "Paper + Foil",
+                "N/A",
+                "Discontinued"
+            ],
+            [
+                "CARD_D11M",
+                "77-HOLIDAY",
+                "Paper Stock",
+                "Yes (Minor)",
+                "In Production"
+            ],
+            [
+                "CARD_E22P",
+                "66-COLLECTOR",
+                "Paper Matte",
+                "No (None)",
+                "Out of Print"
+            ],
+            [
+                "CARD_F33Q",
+                "55-LIMITED",
+                "Paper Glossy",
+                "Yes (+18+)",
+                "On Hold"
+            ],
+            [
+                "CARD_G44R",
+                "44-BASIC",
+                "Paper Standard",
+                "No",
+                "Available"
+            ]
+        ]
+    }
+}

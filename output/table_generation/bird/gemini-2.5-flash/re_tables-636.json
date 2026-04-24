@@ -1,0 +1,55 @@
+{
+    "table-636-636": {
+        "title": [
+            "Post Title",
+            "Author",
+            "Votes",
+            "Post Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts by Matt Parker have more than 4 votes?",
+        "data": [
+            [
+                "The Power of Prime Numbers",
+                "Matt Parker",
+                "7",
+                "2023-01-15"
+            ],
+            [
+                "Understanding Pi in Practice",
+                "Matt Parker",
+                "3",
+                "2022-11-20"
+            ],
+            [
+                "Visualizing Data with Python",
+                "Hannah Fry",
+                "12",
+                "2023-03-10"
+            ],
+            [
+                "The Magic of Modular Arithmetic",
+                "Matt Parker",
+                "5",
+                "2022-09-01"
+            ],
+            [
+                "Solving the Rubik's Cube Algorithmically",
+                "Simon Singh",
+                "2",
+                "2023-02-28"
+            ],
+            [
+                "Probability Puzzles Explained",
+                "Matt Parker",
+                "9",
+                "2022-12-05"
+            ]
+        ]
+    }
+}

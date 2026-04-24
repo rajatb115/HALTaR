@@ -1,0 +1,69 @@
+{
+    "table-484-484": {
+        "title": [
+            "English Card Name",
+            "Italian Card Name",
+            "Italian Oracle Text",
+            "Card Type",
+            "Mana Cost"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the Italian text ruling of all the cards in the set Coldsnap.",
+        "data": [
+            [
+                "Adarkar Valkyrie",
+                "Valchiria di Adarkar",
+                "Volare, cautela. Quando la Valchiria di Adarkar muore, puoi pagare {W}. Se lo fai, rimetti sul campo di battaglia una carta creatura bersaglio dal tuo cimitero.",
+                "Creatura Leggendaria \u2014 Angelo",
+                "{4}{W}{W}"
+            ],
+            [
+                "Boreal Druid",
+                "Druido Boreale",
+                "{T}: Aggiungi un mana incolore alla tua riserva di mana.",
+                "Creatura \u2014 Druido Elfo",
+                "{G}"
+            ],
+            [
+                "Counterbalance",
+                "Contrappeso",
+                "Ogniqualvolta un avversario lancia una magia, puoi rivelare la prima carta del tuo grimorio. Se la magia rivelata ha lo stesso costo di mana convertito della magia lanciata, neutralizza quella magia.",
+                "Incantesimo",
+                "{U}{U}"
+            ],
+            [
+                "Dark Depths",
+                "Profondit\u00e0 Oscure",
+                "Le Profondit\u00e0 Oscure entrano nel campo di battaglia con dieci segnalini ghiaccio. {3}: Rimuovi un segnalino ghiaccio dalle Profondit\u00e0 Oscure. Quando le Profondit\u00e0 Oscure non hanno segnalini ghiaccio, sacrificale. Se lo fai, metti sul campo di battaglia una pedina creatura leggendaria 20/20 nera Avatar con volare e indistruttibile chiamata Marit Lage.",
+                "Terra Leggendaria",
+                "N/A"
+            ],
+            [
+                "Frostweb Spider",
+                "Ragno Telagelo",
+                "Raggiungere.",
+                "Creatura \u2014 Ragno",
+                "{1}{G}"
+            ],
+            [
+                "Jotun Grunt",
+                "Bruto di Jotun",
+                "Quando il Bruto di Jotun entra nel campo di battaglia, ogni giocatore macina due carte. Mantenimento cumulativo {2}.",
+                "Creatura \u2014 Gigante Soldato",
+                "{1}{W}"
+            ],
+            [
+                "Lightning Storm",
+                "Tempesta di Fulmini",
+                "Scarta X carte: La Tempesta di Fulmini infligge X danni a una creatura o a un giocatore bersaglio.",
+                "Istantaneo",
+                "{R}{R}"
+            ]
+        ]
+    }
+}

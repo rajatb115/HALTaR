@@ -1,0 +1,37 @@
+{
+    "table-242-242": {
+        "title": [
+            "Molecule",
+            "Carcinogenic"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenicity of Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the molecules are not carcinogenic?",
+        "data": [
+            [
+                "Molecule A",
+                "Yes"
+            ],
+            [
+                "Molecule B",
+                "No"
+            ],
+            [
+                "Molecule C",
+                "Yes"
+            ],
+            [
+                "Molecule D",
+                "No"
+            ],
+            [
+                "Molecule E",
+                "No"
+            ]
+        ]
+    }
+}

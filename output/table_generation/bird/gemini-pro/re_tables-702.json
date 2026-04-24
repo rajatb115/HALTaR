@@ -1,0 +1,52 @@
+{
+    "table-702-702": {
+        "title": [
+            "User",
+            "Post ID",
+            "Score",
+            "Score > 50"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Influential User Post Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all the posts posted by the most influential user, identify the percentage with a score above 50.",
+        "data": [
+            [
+                "User A",
+                "123",
+                "60",
+                "Yes"
+            ],
+            [
+                "User A",
+                "456",
+                "45",
+                "No"
+            ],
+            [
+                "User A",
+                "789",
+                "75",
+                "Yes"
+            ],
+            [
+                "User A",
+                "101",
+                "30",
+                "No"
+            ],
+            [
+                "User A",
+                "112",
+                "90",
+                "Yes"
+            ]
+        ]
+    }
+}

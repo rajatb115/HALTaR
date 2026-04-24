@@ -1,0 +1,43 @@
+{
+    "table-607-607": {
+        "title": [
+            "Dog Name",
+            "Arrival Date",
+            "Departure Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Dog Travel Dates",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the arrival date and the departure date for all the dogs.",
+        "data": [
+            [
+                "Buddy",
+                "2023-11-01",
+                "2023-11-08"
+            ],
+            [
+                "Luna",
+                "2023-11-15",
+                "2023-11-22"
+            ],
+            [
+                "Max",
+                "2023-12-01",
+                "2023-12-08"
+            ],
+            [
+                "Daisy",
+                "2023-12-15",
+                "2023-12-22"
+            ],
+            [
+                "Charlie",
+                "2024-01-01",
+                "2024-01-08"
+            ]
+        ]
+    }
+}

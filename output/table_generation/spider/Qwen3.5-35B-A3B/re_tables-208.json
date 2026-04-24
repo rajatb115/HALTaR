@@ -1,0 +1,77 @@
+{
+    "table-208-208": {
+        "title": [
+            "Document ID",
+            "Paragraph Text",
+            "Language",
+            "Source Region",
+            "Confidence Score",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the document id with paragraph text 'Brazil' and 'Ireland'.",
+        "data": [
+            [
+                "DOC-BRZ-004",
+                "Brazil has diverse ecosystems including rainforests.",
+                "Portuguese",
+                "South America",
+                "0.98",
+                "Verified"
+            ],
+            [
+                "DOC-IRE-012",
+                "Ireland is known for its green landscapes and history.",
+                "English",
+                "Europe",
+                "0.97",
+                "Active"
+            ],
+            [
+                "DOC-MIX-089",
+                "Comparing Brazil and Ireland reveals distinct climates.",
+                "Mixed",
+                "Global",
+                "0.85",
+                "Draft"
+            ],
+            [
+                "BRZ-PAR-202",
+                "Tourism in Brazil attracts millions annually.",
+                "Spanish",
+                "Latin America",
+                "",
+                "Pending"
+            ],
+            [
+                "IRE-DATA-105",
+                "Irish culture emphasizes music and storytelling.",
+                "Gaelic",
+                "Northern Hemisphere",
+                "0.6",
+                "Archived"
+            ],
+            [
+                "BRL-INT-333",
+                "Trade relations between Brazil and other nations grow.",
+                "French",
+                "International",
+                "0.8",
+                "Review"
+            ],
+            [
+                "IRL-HIST-099",
+                "Historical events shaped modern Ireland significantly.",
+                "German",
+                "Central Europe",
+                "",
+                "Published"
+            ]
+        ]
+    }
+}

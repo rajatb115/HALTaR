@@ -1,0 +1,73 @@
+{
+    "table-231-231": {
+        "title": [
+            "Museum ID",
+            "Museum Name",
+            "Staff Count",
+            "City",
+            "Established",
+            "Type",
+            "Status",
+            "Rating"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the id and name of the museum that has the most staff members?",
+        "data": [
+            [
+                "MUS-004",
+                "National History Museum",
+                "142",
+                "Washington D.C.",
+                "1876",
+                "Public",
+                "Active",
+                "4.8"
+            ],
+            [
+                "MUS-102",
+                "Metropolitan Art Gallery",
+                "138",
+                "New York City",
+                "1880",
+                "Private",
+                "Active",
+                "4.9"
+            ],
+            [
+                "MUS-205",
+                "Science Discovery Center",
+                "115",
+                "San Francisco",
+                "1962",
+                "Non-Profit",
+                "Open",
+                "4.5"
+            ],
+            [
+                "MUS-301",
+                "Regional Heritage Hall",
+                "98",
+                "Chicago",
+                "1920",
+                "Local",
+                "Closed for Renovation",
+                "4.2"
+            ],
+            [
+                "MUS-409",
+                "Oceanic Life Institute",
+                "87",
+                "Miami",
+                "1955",
+                "Research",
+                "Operational",
+                "4.6"
+            ]
+        ]
+    }
+}

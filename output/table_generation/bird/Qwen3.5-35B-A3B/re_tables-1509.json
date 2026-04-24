@@ -1,0 +1,77 @@
+{
+    "table-1509-1509": {
+        "title": [
+            "Station ID",
+            "Location",
+            "Transaction Count > 1k CZK",
+            "Date Range",
+            "Currency",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many transactions taken place in the gas station in the Czech Republic are with a price of over 1000?",
+        "data": [
+            [
+                "CS-GAS-004",
+                "Prague",
+                "42",
+                "Jan-Mar 24",
+                "CZK",
+                "Active"
+            ],
+            [
+                "CS-GAS-PRA-12",
+                "Brno",
+                "67",
+                "Apr-Jun 23",
+                "CZK",
+                "Active"
+            ],
+            [
+                "CS-GAR-OLOM-09",
+                "Olomouc",
+                "31",
+                "Jul-Sep 22",
+                "CZK",
+                "Inactive"
+            ],
+            [
+                "CZ-FUEL-KV-03",
+                "Karlovy Vary",
+                "55",
+                "Oct-Dec 21",
+                "CZK",
+                "Active"
+            ],
+            [
+                "CS-STATION-MT-07",
+                "Most",
+                "89",
+                "Nov-Jan 25",
+                "CZK",
+                "Pending"
+            ],
+            [
+                "CS-DIESEL-ZL-02",
+                "Zl\u00edn",
+                "73",
+                "Feb-Apr 26",
+                "CZK",
+                "Active"
+            ],
+            [
+                "CZE-COAL-HR-01",
+                "Hradec Kr\u00e1lov\u00e9",
+                "98",
+                "May-Jul 27",
+                "CZK",
+                "Active"
+            ]
+        ]
+    }
+}

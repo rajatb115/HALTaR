@@ -1,0 +1,37 @@
+{
+    "table-349-349": {
+        "title": [
+            "Source",
+            "Ruling Text"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Sublime Epiphany Rulings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the information about rulings for card named 'Sublime Epiphany' with number 74s.",
+        "data": [
+            [
+                "2020-08-07",
+                "You choose modes in the order they are written. You must choose a different mode each time."
+            ],
+            [
+                "2020-08-07",
+                "If you choose the first mode, you copy the chosen spell as the triggered ability resolves. You can't wait to copy it later in the turn."
+            ],
+            [
+                "2020-08-07",
+                "The copy is created on the stack, so it's not \u201ccast.\u201d Abilities that trigger when a player casts a spell won't trigger."
+            ],
+            [
+                "2020-08-07",
+                "The copy will have the same targets as the spell it's copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. If, for one of the targets, you can't choose a new legal target, then it must remain targeting the same target as the spell it's copying."
+            ],
+            [
+                "2020-08-07",
+                "If the spell that's copied is modal (that is, it says \u201cChoose one \u2014\u201d or similar), the copy will have the same mode or modes. You can't choose different ones."
+            ]
+        ]
+    }
+}

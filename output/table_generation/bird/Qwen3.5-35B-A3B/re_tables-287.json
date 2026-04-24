@@ -1,0 +1,53 @@
+{
+    "table-287-287": {
+        "title": [
+            "Compound_ID",
+            "Common_Name",
+            "Bond_Type_Count",
+            "Triple_Bonds_Present",
+            "Total_Compounds_Reviewed",
+            "Percentage_Forming_Triple_Bond",
+            "Database_Source",
+            "Analysis_Date"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all chemical compounds identified in the database, what percent of compounds form a triple-bond.",
+        "data": [
+            [
+                "CHM-0042",
+                "Acetylene",
+                "3",
+                "Yes",
+                "5000",
+                "6.2%",
+                "ChemDB_Global",
+                "01/15/2024"
+            ],
+            [
+                "CHM-1105",
+                "Propyne",
+                "4",
+                "Yes",
+                "5100",
+                "7.1%",
+                "ChemDB_Global",
+                "01/15/2024"
+            ],
+            [
+                "CHM-2290",
+                "Benzonitrile",
+                "7",
+                "No",
+                "9800",
+                "",
+                "ChemDB_Global",
+                "08/15/2024"
+            ]
+        ]
+    }
+}

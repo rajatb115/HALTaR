@@ -1,0 +1,51 @@
+{
+    "table-1203-1203": {
+        "title": [
+            "Gender",
+            "Diagnosis",
+            "Hospital Stay",
+            "Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "BEHCET Disease Patient Statistics (1995-1997)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male patients who underwent testing between 1995 and 1997 and were subsequently diagnosed with BEHCET disease did not stay in the hospital for treatment?",
+        "data": [
+            [
+                "Male",
+                "BEHCET",
+                "No",
+                "35"
+            ],
+            [
+                "Male",
+                "BEHCET",
+                "Yes",
+                "120"
+            ],
+            [
+                "Female",
+                "BEHCET",
+                "No",
+                "42"
+            ],
+            [
+                "Female",
+                "BEHCET",
+                "Yes",
+                "105"
+            ],
+            [
+                "All",
+                "All",
+                "All",
+                "302"
+            ]
+        ]
+    }
+}

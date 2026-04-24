@@ -1,0 +1,77 @@
+{
+    "table-241-241": {
+        "title": [
+            "Toxicology Element",
+            "Description",
+            "Severity",
+            "Target Organ",
+            "Dosage (mg/kg)",
+            "Observation"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the elements of the toxicology of the molecule \"TR004\".",
+        "data": [
+            [
+                "Acute Toxicity",
+                "Oral LD50 Study",
+                "Moderate",
+                "Liver",
+                "500",
+                "Elevated liver enzymes"
+            ],
+            [
+                "Chronic Toxicity",
+                "90-Day Repeated Dose",
+                "Low",
+                "Kidney",
+                "50",
+                "No significant adverse effects"
+            ],
+            [
+                "Carcinogenicity",
+                "2-Year Rodent Study",
+                "N/A",
+                "N/A",
+                "N/A",
+                "No evidence of carcinogenicity"
+            ],
+            [
+                "Mutagenicity",
+                "Ames Test",
+                "Negative",
+                "N/A",
+                "N/A",
+                "No genotoxic potential"
+            ],
+            [
+                "Reproductive Toxicity",
+                "Developmental Study",
+                "Low",
+                "Fetus",
+                "100",
+                "Minor skeletal variations"
+            ],
+            [
+                "Neurotoxicity",
+                "Behavioral Assessment",
+                "Moderate",
+                "Brain",
+                "250",
+                "Transient motor incoordination"
+            ],
+            [
+                "Immunotoxicity",
+                "Immune Cell Assay",
+                "Low",
+                "Spleen",
+                "75",
+                "Slight decrease in lymphocyte count"
+            ]
+        ]
+    }
+}

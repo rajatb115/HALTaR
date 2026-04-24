@@ -1,0 +1,37 @@
+{
+    "table-638-638": {
+        "title": [
+            "Singer Name",
+            "Citizenship"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Singers by Citizenship",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of singers whose citizenship is not \"France\".",
+        "data": [
+            [
+                "John Smith",
+                "USA"
+            ],
+            [
+                "Kenji Tanaka",
+                "Japan"
+            ],
+            [
+                "Maria Rodriguez",
+                "Spain"
+            ],
+            [
+                "Ingrid Schmidt",
+                "Germany"
+            ],
+            [
+                "Ali Khan",
+                "Pakistan"
+            ]
+        ]
+    }
+}

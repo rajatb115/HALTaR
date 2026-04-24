@@ -1,0 +1,69 @@
+{
+    "table-37-37": {
+        "title": [
+            "School Name",
+            "Administration Head",
+            "Total SAT Takers",
+            "Takers >= 1500 SAT",
+            "School Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Under whose administration does the school with the highest number of test takers whose total SAT Scores are greater or equal to 1500 belong to? Indicate his or her full name.",
+        "data": [
+            [
+                "Northwood High School",
+                "Dr. Eleanor Vance",
+                "350",
+                "45",
+                "Public"
+            ],
+            [
+                "Elite Prep Academy",
+                "Mr. David Chen",
+                "180",
+                "38",
+                "Private"
+            ],
+            [
+                "Westside Charter School",
+                "Ms. Sarah Jenkins",
+                "290",
+                "30",
+                "Charter"
+            ],
+            [
+                "Central Unified High",
+                "Dr. Eleanor Vance",
+                "410",
+                "52",
+                "Public"
+            ],
+            [
+                "Summit Academy",
+                "Mr. Robert Miller",
+                "220",
+                "25",
+                "Private"
+            ],
+            [
+                "Evergreen High School",
+                "Ms. Sarah Jenkins",
+                "380",
+                "40",
+                "Public"
+            ],
+            [
+                "Riverside Prep",
+                "Mr. David Chen",
+                "150",
+                "28",
+                "Private"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-506-506": {
+        "title": [
+            "Government Form",
+            "Total Population",
+            "Average Life Expectancy",
+            "Region",
+            "GDP per Capita"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the government form name and total population for each government form whose average life expectancy is longer than 72.",
+        "data": [
+            [
+                "Constitutional Monarchy",
+                "6,742,012",
+                "78.4",
+                "Europe",
+                "$42,100"
+            ],
+            [
+                "Federal Republic",
+                "8,923,451",
+                "91.2",
+                "Asia",
+                "$38,500"
+            ],
+            [
+                "Parliamentary Democracy",
+                "4,521,098",
+                "56.3",
+                "Africa",
+                "$12,400"
+            ],
+            [
+                "Presidential System",
+                "3,102,456",
+                "0.0",
+                "North America",
+                "N/A"
+            ],
+            [
+                "Theocratic State",
+                "1,205,678",
+                "-15.2",
+                "Middle East",
+                "$22,300"
+            ],
+            [
+                "Unitary Socialist State",
+                "9,876,543",
+                "-8.1",
+                "South America",
+                "$9,800"
+            ]
+        ]
+    }
+}

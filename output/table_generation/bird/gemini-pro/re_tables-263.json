@@ -1,0 +1,39 @@
+{
+    "table-263-263": {
+        "title": [
+            "Molecule ID",
+            "Carcinogenic"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Single Bond Molecules and Carcinogenicity",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the single bond molecule id, which molecules are not carcinogenic?",
+        "data": [
+            [
+                "12345",
+                "True"
+            ],
+            [
+                "67890",
+                "False"
+            ],
+            [
+                "24680",
+                "False"
+            ],
+            [
+                "13579",
+                "True"
+            ],
+            [
+                "98765",
+                "False"
+            ]
+        ]
+    }
+}

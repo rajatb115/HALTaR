@@ -1,0 +1,45 @@
+{
+    "table-176-176": {
+        "title": [
+            "Account ID",
+            "Owner Disposition",
+            "Statement on Transaction"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Account Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts have an owner disposition and request for a statement to be generated upon a transaction?",
+        "data": [
+            [
+                "12345",
+                "Individual",
+                "Yes"
+            ],
+            [
+                "67890",
+                "Joint",
+                "No"
+            ],
+            [
+                "24680",
+                "Trust",
+                "Yes"
+            ],
+            [
+                "13579",
+                "Individual",
+                "Yes"
+            ],
+            [
+                "98765",
+                "Corporate",
+                "No"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-1243-1243": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "Platelet Level",
+            "Result Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Patient Lab Results in 1984",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For laboratory examinations take in 1984, list all patients below 50 years old with normal platelet level.",
+        "data": [
+            [
+                "12345",
+                "45",
+                "250,000",
+                "1984-03-15"
+            ],
+            [
+                "67890",
+                "32",
+                "300,000",
+                "1984-05-20"
+            ],
+            [
+                "24680",
+                "48",
+                "275,000",
+                "1984-07-01"
+            ],
+            [
+                "13579",
+                "28",
+                "220,000",
+                "1984-09-10"
+            ],
+            [
+                "98765",
+                "39",
+                "320,000",
+                "1984-11-22"
+            ]
+        ]
+    }
+}

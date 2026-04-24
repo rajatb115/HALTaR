@@ -1,0 +1,69 @@
+{
+    "table-234-234": {
+        "title": [
+            "Museum_Name",
+            "Staff_Count",
+            "Opened_Year",
+            "Min_After_2020_Staff",
+            "Status_Comparison"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the names of museums which have more staff than the minimum staff number of all museums opened after 2010.",
+        "data": [
+            [
+                "National Art Gallery",
+                "450",
+                "9876",
+                "320",
+                "Above Minimum"
+            ],
+            [
+                "City History Museum",
+                "510",
+                "-1204",
+                "85",
+                "Above Maximum"
+            ],
+            [
+                "Modern Science Center",
+                "620",
+                "-1000",
+                "N/A",
+                "Unknown Era"
+            ],
+            [
+                "Riverside Cultural Hall",
+                "780",
+                "2050",
+                "1500",
+                "Below Threshold"
+            ],
+            [
+                "Mountain View Archive",
+                "0",
+                "1900",
+                "-10",
+                "Negative Value Error"
+            ],
+            [
+                "Coastal Heritage Site",
+                "",
+                "2105",
+                "220",
+                "Missing Data"
+            ],
+            [
+                "Desert Botanical Garden",
+                "",
+                "",
+                "",
+                "Empty Fields"
+            ]
+        ]
+    }
+}

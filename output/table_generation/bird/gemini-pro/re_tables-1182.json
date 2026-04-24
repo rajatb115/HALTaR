@@ -1,0 +1,34 @@
+{
+    "table-1182-1182": {
+        "title": [
+            "Patient ID",
+            "Test Date",
+            "Test Result",
+            "Age at Test",
+            "Units"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Patient Age at Test",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who got the laboratory test of uric acid level as 8.4 on 1991-10-21, how old was he/she at that time?",
+        "data": [
+            [
+                "12345",
+                "1991-10-21",
+                "8.4",
+                "62",
+                "mg/dL"
+            ],
+            [
+                "...",
+                "...",
+                "...",
+                "...",
+                "..."
+            ]
+        ]
+    }
+}

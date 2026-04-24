@@ -1,0 +1,76 @@
+{
+    "table-500-500": {
+        "title": [
+            "Set ID",
+            "Source Language",
+            "Target Language",
+            "Translation Count",
+            "Translator Status",
+            "Verification Date",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many translations of the name of the set \"Salvat 2011\"?",
+        "data": [
+            [
+                "SALVAT_2024_EN",
+                "English",
+                "Spanish",
+                "3",
+                "Verified",
+                "06/15/2047",
+                "Official release"
+            ],
+            [
+                "SALVAT_EU_ES",
+                "Basque",
+                "Catalan",
+                "5",
+                "Pending Review",
+                "N/A",
+                "Regional variant"
+            ],
+            [
+                "SALE_24_FR_DE",
+                "French",
+                "German",
+                "4",
+                "Confirmed",
+                "7/22/2448",
+                "Academic edition"
+            ],
+            [
+                "SLT_21_IT_PL",
+                "Italian",
+                "Polish",
+                "6",
+                "Drafted",
+                "N/A",
+                "Community contribution"
+            ],
+            [
+                "SATL_BR_RU",
+                "Portuguese",
+                "Russian",
+                "8",
+                "Finalized",
+                "9/30/2550",
+                "Full localization"
+            ],
+            [
+                "STL_KR_JA",
+                "Korean",
+                "Japanese",
+                "",
+                "Completed",
+                "",
+                "Missing metadata"
+            ]
+        ]
+    }
+}

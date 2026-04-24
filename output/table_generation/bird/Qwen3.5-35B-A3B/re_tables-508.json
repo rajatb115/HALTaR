@@ -1,0 +1,77 @@
+{
+    "table-508-508": {
+        "title": [
+            "Card Set ID",
+            "Total Cards in Set",
+            "Online Only Count",
+            "Percentage Online Only",
+            "Translation Language",
+            "Availability Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the set of cards that has Brazil Portuguese translation, what is the percentage of them are only available online?",
+        "data": [
+            [
+                "BRZ-SET-004",
+                "450",
+                "67",
+                "0.1489",
+                "Brazilian Portuguese",
+                "Mixed"
+            ],
+            [
+                "BRJ-SET-BRA",
+                "320",
+                "N/A",
+                "55%",
+                "Brazilian/Portuguese",
+                "Hybrid"
+            ],
+            [
+                "PTB-COL-22",
+                "890",
+                "-",
+                "72.3%",
+                "PT-BR",
+                "Digital Exclusive"
+            ],
+            [
+                "BRA-LIM-01X",
+                "9500",
+                "None",
+                "0%",
+                "Portuguese BR",
+                "Physical & Online"
+            ],
+            [
+                "LUN-PRT-V2",
+                "N/D",
+                "",
+                "N/A",
+                "Brazilian Port.",
+                "Restricted Access"
+            ],
+            [
+                "TOK-JPN-BRZ",
+                "",
+                "",
+                "",
+                "PT_BR",
+                "Regional Release"
+            ],
+            [
+                "MEX-MIX-PRO",
+                "",
+                "",
+                "",
+                "Portugu\u00eas Brasil",
+                "Varies by Region"
+            ]
+        ]
+    }
+}

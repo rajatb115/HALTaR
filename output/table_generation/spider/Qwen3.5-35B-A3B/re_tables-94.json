@@ -1,0 +1,76 @@
+{
+    "table-94-94": {
+        "title": [
+            "Car Model",
+            "Acceleration_0_to_60_sec",
+            "Horsepower",
+            "Engine_Type",
+            "Manufacturer"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the horsepower of the car with the largest accelerate?",
+        "data": [
+            [
+                "Tesla Roadster",
+                "4.7 sec",
+                "600 hp",
+                "Electric",
+                "Tesla"
+            ],
+            [
+                "Porsche Taycan Turbo S",
+                "5.1 sec",
+                "N/A",
+                "Electric",
+                "Porsche"
+            ],
+            [
+                "Lamborghini Hurac\u00e1n EVO",
+                "3.2 sec",
+                "",
+                "V10",
+                "Lamborghini"
+            ],
+            [
+                "Bugatti Chiron Super Sport",
+                "7.3 sec",
+                "",
+                "W16 Quad-Turbo",
+                "Bugatti"
+            ],
+            [
+                "Rimac Nevera",
+                "8.5 sec",
+                "",
+                "All-Electric",
+                "Rimac"
+            ],
+            [
+                "Koenigsegg Jesko Absolut",
+                "9.1 seconds",
+                "",
+                "Hybrid",
+                "Koenigsegg"
+            ],
+            [
+                "McLaren Speedtail",
+                "",
+                "",
+                "0.0 mph/s",
+                "McLaren"
+            ],
+            [
+                "Lotus Evija",
+                "",
+                "",
+                "EV",
+                "Lotus"
+            ]
+        ]
+    }
+}

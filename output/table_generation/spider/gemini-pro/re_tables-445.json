@@ -1,0 +1,39 @@
+{
+    "table-445-445": {
+        "title": [
+            "Country",
+            "Life Expectancy (Years)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Life Expectancy in Central African Countries",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average expected life expectancy for countries in the region of Central Africa?",
+        "data": [
+            [
+                "Angola",
+                "62"
+            ],
+            [
+                "Cameroon",
+                "59"
+            ],
+            [
+                "Central African Republic",
+                "54"
+            ],
+            [
+                "Chad",
+                "54"
+            ],
+            [
+                "Congo, Dem. Rep.",
+                "61"
+            ]
+        ]
+    }
+}

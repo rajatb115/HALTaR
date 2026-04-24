@@ -1,0 +1,53 @@
+{
+    "table-506-506": {
+        "title": [
+            "Government Form",
+            "Total Population (Millions)",
+            "Average Life Expectancy (Years)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the government form name and total population for each government form whose average life expectancy is longer than 72.",
+        "data": [
+            [
+                "Republic",
+                "330",
+                "79"
+            ],
+            [
+                "Constitutional Monarchy",
+                "67",
+                "81"
+            ],
+            [
+                "Parliamentary Democracy",
+                "55",
+                "78"
+            ],
+            [
+                "Federal Republic",
+                "83",
+                "80"
+            ],
+            [
+                "Socialist Republic",
+                "10",
+                "74"
+            ],
+            [
+                "Presidential Republic",
+                "210",
+                "73"
+            ],
+            [
+                "Absolute Monarchy",
+                "35",
+                "76"
+            ]
+        ]
+    }
+}

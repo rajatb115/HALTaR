@@ -1,0 +1,45 @@
+{
+    "table-760-760": {
+        "title": [
+            "Superhero",
+            "Weight (lbs)",
+            "Eye Color"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Superhero Physical Attributes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the eye clolour of the heaviest superhero?",
+        "data": [
+            [
+                "Hulk",
+                "1400",
+                "Green"
+            ],
+            [
+                "Thor",
+                "640",
+                "Blue"
+            ],
+            [
+                "Superman",
+                "225",
+                "Blue"
+            ],
+            [
+                "Colossus",
+                "500",
+                "Silver"
+            ],
+            [
+                "Martian Manhunter",
+                "300",
+                "Red"
+            ]
+        ]
+    }
+}

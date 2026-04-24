@@ -1,0 +1,46 @@
+{
+    "table-1512-1512": {
+        "title": [
+            "Customer ID",
+            "Currency",
+            "Average Total Price"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Average Transaction Price by Customers Paying in Euro",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the customers who paid in the euro, what is their average total price of the transactions?",
+        "data": [
+            [
+                "101",
+                "EUR",
+                "125.50"
+            ],
+            [
+                "102",
+                "EUR",
+                "80.00"
+            ],
+            [
+                "103",
+                "EUR",
+                "150.25"
+            ],
+            [
+                "104",
+                "EUR",
+                "95.75"
+            ],
+            [
+                "105",
+                "EUR",
+                "200.00"
+            ]
+        ]
+    }
+}

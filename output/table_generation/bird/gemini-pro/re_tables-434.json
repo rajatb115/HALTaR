@@ -1,0 +1,51 @@
+{
+    "table-434-434": {
+        "title": [
+            "Language",
+            "Availability",
+            "Card Count",
+            "Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Card Game Language and Availability Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of the set of cards that have Chinese Simplified as the language and are only available for online games?",
+        "data": [
+            [
+                "Chinese Simplified",
+                "Online Only",
+                "120",
+                "12%"
+            ],
+            [
+                "English",
+                "Online Only",
+                "500",
+                "50%"
+            ],
+            [
+                "Spanish",
+                "Online Only",
+                "80",
+                "8%"
+            ],
+            [
+                "Chinese Simplified",
+                "Physical Only",
+                "300",
+                "30%"
+            ],
+            [
+                "English",
+                "Physical Only",
+                "500",
+                "50%"
+            ]
+        ]
+    }
+}

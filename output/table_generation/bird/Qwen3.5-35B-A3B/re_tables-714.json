@@ -1,0 +1,76 @@
+{
+    "table-714-714": {
+        "title": [
+            "Comment Text",
+            "User ID",
+            "Up Vote Count",
+            "Post Title",
+            "Date Posted",
+            "Platform",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the up vote number of the user that commented \"R is also lazy evaluated.\"?",
+        "data": [
+            [
+                "R is also lazily evaluated.",
+                "U_4921",
+                "87",
+                "Performance in Data Analysis",
+                "06/12/2023",
+                "Stack Overflow",
+                "Active"
+            ],
+            [
+                "Lazy evaluation improves memory usage significantly.",
+                "M_1029",
+                "45",
+                "Functional Programming Tips",
+                "3/15/22",
+                "GitHub Issues",
+                "Closed"
+            ],
+            [
+                "Why does this function return NULL unexpectedly?",
+                "K_8832",
+                "92",
+                "Debugging R Scripts",
+                "7/01/23",
+                "/r/rstats",
+                "Archived"
+            ],
+            [
+                "The scope rules differ from Python's implementation.",
+                "J_3341",
+                "-12",
+                "Language Comparison Thread",
+                "5/10/21",
+                "/r/datascience",
+                "Locked"
+            ],
+            [
+                "I found a bug in version 4.2 regarding promises.",
+                "L_5567",
+                "63",
+                "Release Notes Feedback",
+                "Jan 22, 24",
+                "CRAN Forum",
+                "Open"
+            ],
+            [
+                "Documentation needs clarification on promise objects.",
+                "T_9901",
+                "",
+                "Documentation",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

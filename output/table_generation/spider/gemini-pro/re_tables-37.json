@@ -1,0 +1,45 @@
+{
+    "table-37-37": {
+        "title": [
+            "Student ID",
+            "First Name",
+            "Last Name"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Students with Both Cats and Dogs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the students' first names who have both cats and dogs as pets?",
+        "data": [
+            [
+                "123",
+                "Alice",
+                "Smith"
+            ],
+            [
+                "456",
+                "Bob",
+                "Johnson"
+            ],
+            [
+                "789",
+                "Charlie",
+                "Williams"
+            ],
+            [
+                "101",
+                "David",
+                "Brown"
+            ],
+            [
+                "112",
+                "Emily",
+                "Davis"
+            ]
+        ]
+    }
+}

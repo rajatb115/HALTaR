@@ -1,0 +1,69 @@
+{
+    "table-1498-1498": {
+        "title": [
+            "Customer Name",
+            "Customer Type",
+            "Month",
+            "Year",
+            "Consumption (USD)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which SME customer consumed the least in June 2012?",
+        "data": [
+            [
+                "Alpha Solutions",
+                "SME",
+                "June",
+                "2012",
+                "1250"
+            ],
+            [
+                "Beta Innovations",
+                "SME",
+                "June",
+                "2012",
+                "980"
+            ],
+            [
+                "Gamma Tech",
+                "SME",
+                "June",
+                "2012",
+                "1500"
+            ],
+            [
+                "Delta Services",
+                "SME",
+                "June",
+                "2012",
+                "850"
+            ],
+            [
+                "Epsilon Corp",
+                "SME",
+                "June",
+                "2012",
+                "1100"
+            ],
+            [
+                "Zeta Systems",
+                "SME",
+                "May",
+                "2012",
+                "900"
+            ],
+            [
+                "Eta Dynamics",
+                "SME",
+                "June",
+                "2012",
+                "1050"
+            ]
+        ]
+    }
+}

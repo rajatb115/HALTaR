@@ -1,0 +1,103 @@
+{
+    "table-1270-1270": {
+        "title": [
+            "Patient_ID",
+            "Examination_Date",
+            "Anti_Scl7_Result",
+            "Status",
+            "Lab_Code",
+            "Test_Type",
+            "Result_Value",
+            "Notes"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the IDs of the patients who had the examination done after 1997/1/1 and had a normal anti-scl70.",
+        "data": [
+            [
+                "P-4021",
+                "98/03/15",
+                "Normal",
+                "Passed",
+                "LAB-SCL-01S",
+                "Serology",
+                "Negative",
+                "Routine checkup"
+            ],
+            [
+                "P-4105",
+                "01/06/22",
+                "Normal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "P-A992",
+                "5/12/99",
+                "Normal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "P-B331",
+                "",
+                "Normal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "P-C774",
+                "8/14/05",
+                "Normal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "P-D118",
+                "3/20/02",
+                "Normal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "P-E556",
+                "7/01/98",
+                "Normal",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "P-F229",
+                "4/10/11",
+                "N/A",
+                "Pending Review",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

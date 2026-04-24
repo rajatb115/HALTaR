@@ -1,0 +1,45 @@
+{
+    "table-584-584": {
+        "title": [
+            "User",
+            "Total Score",
+            "Website URL"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Scores for Posts Edited by Yevgeny",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total score of the posts edited by Yevgeny and include the user's website URL.",
+        "data": [
+            [
+                "Yevgeny",
+                "150",
+                "example.com"
+            ],
+            [
+                "Yevgeny",
+                "200",
+                "example.com"
+            ],
+            [
+                "Yevgeny",
+                "100",
+                "example.com"
+            ],
+            [
+                "Yevgeny",
+                "50",
+                "example.com"
+            ],
+            [
+                "Yevgeny",
+                "300",
+                "example.com"
+            ]
+        ]
+    }
+}

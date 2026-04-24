@@ -1,0 +1,85 @@
+{
+    "table-15-15": {
+        "title": [
+            "Stadium_Name",
+            "Capacity",
+            "Avg_Attendance",
+            "League",
+            "City",
+            "Country",
+            "Opened_Year"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name and capacity for the stadium with highest average attendance?",
+        "data": [
+            [
+                "Wembley_Stadium",
+                "90004",
+                "76500",
+                "Premier_League",
+                "London",
+                "England",
+                "3003"
+            ],
+            [
+                "Camp_Nou",
+                "89478",
+                "68204La Liga",
+                "Barcelona",
+                "Spain",
+                "4002",
+                ""
+            ],
+            [
+                "Signal_Iduna_Park",
+                "54057",
+                "008136 Bundesliga",
+                "Dortmund",
+                "Germany",
+                "1005",
+                ""
+            ],
+            [
+                "Old_Trafford",
+                "74310",
+                "73504 Premier_Leauge",
+                "Manchester",
+                "England",
+                "1878",
+                ""
+            ],
+            [
+                "Santiago_Bernabeu",
+                "81044",
+                "72011 La_Liga",
+                "Madrid",
+                "Spain",
+                "1402",
+                ""
+            ],
+            [
+                "San_Siro",
+                "75923",
+                "",
+                "Serie_A",
+                "Milan",
+                "Italy",
+                "-1926"
+            ],
+            [
+                "Allianz_Arena",
+                "\u201375024",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

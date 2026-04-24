@@ -1,0 +1,77 @@
+{
+    "table-478-478": {
+        "title": [
+            "Country",
+            "Official Language(s)",
+            "Average Life Expectancy (Years)",
+            "Region",
+            "Population Density (per km\u00b2)",
+            "GDP per Capita (USD)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is average life expectancy in the countries where English is not the official language?",
+        "data": [
+            [
+                "France",
+                "French",
+                "82.7",
+                "Europe",
+                "64",
+                "43,659"
+            ],
+            [
+                "Japan",
+                "Japanese",
+                "79.9",
+                "Asia",
+                "336",
+                "50,297"
+            ],
+            [
+                "Brazil",
+                "Portuguese",
+                "91.0",
+                "South America",
+                "0",
+                "N/A"
+            ],
+            [
+                "Germany",
+                "German",
+                "81.2",
+                "Europe",
+                "230",
+                "50,801"
+            ],
+            [
+                "Italy",
+                "Italian",
+                "83.4",
+                "Southern Europe",
+                "185",
+                "35,000"
+            ],
+            [
+                "Spain",
+                "Spanish",
+                "83",
+                "Southern Europe",
+                "94",
+                "30,050"
+            ],
+            [
+                "Mexico",
+                "Spanish",
+                "75.0",
+                "North America",
+                "66",
+                "10,100"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-1379-1379": {
+        "title": [
+            "Event ID",
+            "Event Name",
+            "Category",
+            "Budget Spend ($)",
+            "Currency",
+            "Status",
+            "Date Completed"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the highest amount of budget spend for an event?",
+        "data": [
+            [
+                "EVT-1042",
+                "Annual Tech Summit",
+                "Conference",
+                "125000.00",
+                "USD",
+                "Closed",
+                "06/15/2023"
+            ],
+            [
+                "EVE-2091",
+                "Global Marketing Expo",
+                "Trade Show",
+                "87500.50",
+                "EUR",
+                "Open",
+                "N/A"
+            ],
+            [
+                "EVA-3305",
+                "Community Charity Gala",
+                "Fundraiser",
+                "45203.75",
+                "GBP",
+                "Pending",
+                "3 months ago"
+            ],
+            [
+                "EVX-4412",
+                "Product Launch Keynote",
+                "Corporate",
+                "210099.00",
+                "USD",
+                "Closed",
+                "01/22/2024"
+            ],
+            [
+                "EVY-5523",
+                "Internal Training Workshop",
+                "Education",
+                "32450.00",
+                "USD",
+                "Open",
+                "Q3 2024"
+            ],
+            [
+                "EVEZ-6634",
+                "Regional Sales Kickoff Meeting",
+                "Business",
+                "156780.25",
+                "CAD",
+                "Closed",
+                "11/11"
+            ]
+        ]
+    }
+}

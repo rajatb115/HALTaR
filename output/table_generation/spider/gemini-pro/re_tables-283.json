@@ -1,0 +1,46 @@
+{
+    "table-283-283": {
+        "title": [
+            "Event",
+            "Minimum Deaths",
+            "Maximum Deaths"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Death Toll Extremes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is maximum and minimum death toll caused each time?",
+        "data": [
+            [
+                "Earthquake",
+                "1",
+                "500,000"
+            ],
+            [
+                "Flood",
+                "1",
+                "4,000,000"
+            ],
+            [
+                "Wildfire",
+                "1",
+                "1,200,000"
+            ],
+            [
+                "Heatwave",
+                "1",
+                "500,000"
+            ],
+            [
+                "Landslide",
+                "1",
+                "20,000"
+            ]
+        ]
+    }
+}

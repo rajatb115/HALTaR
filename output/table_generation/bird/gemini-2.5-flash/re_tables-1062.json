@@ -1,0 +1,69 @@
+{
+    "table-1062-1062": {
+        "title": [
+            "First Name",
+            "Last Name",
+            "Weight (lbs)",
+            "Team",
+            "Position"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many players whose first names are Adam and weigh more than 170?",
+        "data": [
+            [
+                "Adam",
+                "Smith",
+                "185",
+                "Lakers",
+                "Guard"
+            ],
+            [
+                "Adam",
+                "Jones",
+                "165",
+                "Celtics",
+                "Forward"
+            ],
+            [
+                "Adam",
+                "Miller",
+                "190",
+                "Warriors",
+                "Center"
+            ],
+            [
+                "John",
+                "Doe",
+                "175",
+                "Bulls",
+                "Guard"
+            ],
+            [
+                "Adam",
+                "White",
+                "172",
+                "Knicks",
+                "Guard"
+            ],
+            [
+                "Adam",
+                "Green",
+                "168",
+                "Rockets",
+                "Forward"
+            ],
+            [
+                "Michael",
+                "Brown",
+                "200",
+                "Spurs",
+                "Center"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-1122-1122": {
+        "title": [
+            "Player_Name",
+            "Age",
+            "Team_Type",
+            "Goals_Scored",
+            "Match_Date",
+            "League",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total home team goal scored by players whose age are 30 years old and below.",
+        "data": [
+            [
+                "John Smith",
+                "34",
+                "Home",
+                "0",
+                "7/12/2023",
+                "Premier",
+                "Active"
+            ],
+            [
+                "Sarah Lee",
+                "6",
+                "Away",
+                "5",
+                "8/14/2023",
+                "Championship",
+                "Injured"
+            ],
+            [
+                "Mike Ross",
+                "4",
+                "Away",
+                "2",
+                "9/01/2024",
+                "Division One",
+                "Suspended"
+            ],
+            [
+                "Emily Chen",
+                "29",
+                "Home",
+                "3",
+                "/15/25",
+                "Super League",
+                "Active"
+            ],
+            [
+                "David Kim",
+                "",
+                "Home",
+                "",
+                "-",
+                "National",
+                "Retired"
+            ],
+            [
+                "Lisa Wong",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Active"
+            ],
+            [
+                "Tom Baker",
+                "",
+                "Home",
+                "2",
+                "10/22/",
+                "Premier",
+                "Injured"
+            ]
+        ]
+    }
+}

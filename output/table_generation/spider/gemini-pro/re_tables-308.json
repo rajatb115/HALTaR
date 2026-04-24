@@ -1,0 +1,45 @@
+{
+    "table-308-308": {
+        "title": [
+            "Department ID",
+            "Department Name",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Department Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the description of the department whose name has the substring the computer?",
+        "data": [
+            [
+                "1",
+                "Computer Science",
+                "Focuses on algorithms, data structures, and software development."
+            ],
+            [
+                "2",
+                "Electrical and Computer Engineering",
+                "Studies electrical circuits and computer systems."
+            ],
+            [
+                "3",
+                "Mathematics",
+                "Deals with mathematical theories and applications."
+            ],
+            [
+                "4",
+                "Mechanical Engineering",
+                "Focuses on design, analysis, and manufacturing of mechanical systems."
+            ],
+            [
+                "5",
+                "Chemical Engineering",
+                "Deals with chemical production and transformation."
+            ]
+        ]
+    }
+}

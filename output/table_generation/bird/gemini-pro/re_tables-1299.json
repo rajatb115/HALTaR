@@ -1,0 +1,45 @@
+{
+    "table-1299-1299": {
+        "title": [
+            "Total Cholesterol Level",
+            "ANA Pattern",
+            "Number of Patients"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "ANA Examination Patterns and Cholesterol Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients whose total cholesterol is within the normal range, how many of them have a P pattern observed in the sheet of ANA examination?",
+        "data": [
+            [
+                "Normal",
+                "P",
+                "25"
+            ],
+            [
+                "Normal",
+                "Speckled",
+                "12"
+            ],
+            [
+                "Normal",
+                "Homogeneous",
+                "8"
+            ],
+            [
+                "Normal",
+                "Nucleolar",
+                "3"
+            ],
+            [
+                "Normal",
+                "Negative",
+                "52"
+            ]
+        ]
+    }
+}

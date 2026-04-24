@@ -1,0 +1,45 @@
+{
+    "table-41-41": {
+        "title": [
+            "School Name",
+            "Average Reading Score",
+            "Telephone Number"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Schools Ranked by Reading Score in Fresno Unified",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the telephone number for the school with the lowest average score in reading in Fresno Unified?",
+        "data": [
+            [
+                "School A",
+                "65",
+                "559-123-4567"
+            ],
+            [
+                "School B",
+                "72",
+                "559-987-6543"
+            ],
+            [
+                "School C",
+                "78",
+                "559-246-8013"
+            ],
+            [
+                "School D",
+                "81",
+                "559-135-7911"
+            ],
+            [
+                "School E",
+                "85",
+                "559-369-1212"
+            ]
+        ]
+    }
+}

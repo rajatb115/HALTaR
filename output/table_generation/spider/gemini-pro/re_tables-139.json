@@ -1,0 +1,37 @@
+{
+    "table-139-139": {
+        "title": [
+            "Flight Number",
+            "Departure Airport"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Flights Departing from Aberdeen",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the flight numbers of flights leaving from Aberdeen.",
+        "data": [
+            [
+                "AB123",
+                "Aberdeen (ABZ)"
+            ],
+            [
+                "XY456",
+                "Aberdeen (ABZ)"
+            ],
+            [
+                "QR789",
+                "Aberdeen (ABZ)"
+            ],
+            [
+                "ZW012",
+                "Aberdeen (ABZ)"
+            ],
+            [
+                "BC345",
+                "Aberdeen (ABZ)"
+            ]
+        ]
+    }
+}

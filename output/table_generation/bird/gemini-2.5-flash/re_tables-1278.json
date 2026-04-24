@@ -1,0 +1,69 @@
+{
+    "table-1278-1278": {
+        "title": [
+            "Patient ID",
+            "Anti-DNA Level (IU/mL)",
+            "Level Status",
+            "Data Recorded",
+            "Last Visit Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients have a normal anti-DNA level, yet their data are not recorded.",
+        "data": [
+            [
+                "P101",
+                "14.2",
+                "Normal",
+                "Yes",
+                "2023-10-20"
+            ],
+            [
+                "P102",
+                "18.5",
+                "Normal",
+                "No",
+                "2023-09-15"
+            ],
+            [
+                "P103",
+                "25.1",
+                "High",
+                "Yes",
+                "2023-11-01"
+            ],
+            [
+                "P104",
+                "16.7",
+                "Normal",
+                "No",
+                "2023-08-22"
+            ],
+            [
+                "P105",
+                "8.9",
+                "Low",
+                "Yes",
+                "2023-10-28"
+            ],
+            [
+                "P106",
+                "19.3",
+                "Normal",
+                "Yes",
+                "2023-11-10"
+            ],
+            [
+                "P107",
+                "32.0",
+                "High",
+                "No",
+                "2023-07-05"
+            ]
+        ]
+    }
+}

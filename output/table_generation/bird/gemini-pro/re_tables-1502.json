@@ -1,0 +1,39 @@
+{
+    "table-1502-1502": {
+        "title": [
+            "Country",
+            "Number of Transactions"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Gas Station Transaction Countries in June 2013",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the countries of the gas stations with transactions taken place in June, 2013.",
+        "data": [
+            [
+                "USA",
+                "1200"
+            ],
+            [
+                "Canada",
+                "850"
+            ],
+            [
+                "UK",
+                "600"
+            ],
+            [
+                "Germany",
+                "520"
+            ],
+            [
+                "France",
+                "480"
+            ]
+        ]
+    }
+}

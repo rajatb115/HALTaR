@@ -1,0 +1,52 @@
+{
+    "table-453-453": {
+        "title": [
+            "Continent",
+            "Area (km\u00b2)",
+            "Area (sq mi)",
+            "Percentage of Total Land Area"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Continent Area Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total surface area of the continents Asia and Europe?",
+        "data": [
+            [
+                "Asia",
+                "44,614,000",
+                "17,225,000",
+                "29.4%"
+            ],
+            [
+                "Europe",
+                "10,180,000",
+                "3,930,000",
+                "6.8%"
+            ],
+            [
+                "Africa",
+                "30,370,000",
+                "11,730,000",
+                "20.0%"
+            ],
+            [
+                "North America",
+                "24,230,000",
+                "9,360,000",
+                "16.0%"
+            ],
+            [
+                "South America",
+                "17,840,000",
+                "6,890,000",
+                "11.8%"
+            ]
+        ]
+    }
+}

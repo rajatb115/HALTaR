@@ -1,0 +1,39 @@
+{
+    "table-665-665": {
+        "title": [
+            "Tag Name",
+            "Post Score"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Post Scores by Tag Popularity",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the score of the post with the most popular tag?",
+        "data": [
+            [
+                "Popular Tag 1",
+                "100"
+            ],
+            [
+                "Popular Tag 2",
+                "95"
+            ],
+            [
+                "Popular Tag 3",
+                "90"
+            ],
+            [
+                "Popular Tag 4",
+                "85"
+            ],
+            [
+                "Popular Tag 5",
+                "80"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-689-689": {
+        "title": [
+            "Post ID",
+            "Post Title",
+            "View Count",
+            "Comment Count",
+            "Author"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the number of posts that have been viewed over 35000 times but have received no comments from other users.",
+        "data": [
+            [
+                "P001",
+                "Optimizing Database Queries",
+                "45210",
+                "0",
+                "DataWizard"
+            ],
+            [
+                "P002",
+                "Understanding Machine Learning Models",
+                "38900",
+                "0",
+                "AI_Explorer"
+            ],
+            [
+                "P003",
+                "Latest Trends in Cloud Computing",
+                "51230",
+                "12",
+                "CloudGuru"
+            ],
+            [
+                "P004",
+                "Beginner's Guide to Python",
+                "15670",
+                "0",
+                "CodeNewbie"
+            ],
+            [
+                "P005",
+                "Review of New Data Visualization Tools",
+                "29870",
+                "5",
+                "VizMaster"
+            ],
+            [
+                "P006",
+                "Advanced SQL Techniques",
+                "36100",
+                "0",
+                "DB_Expert"
+            ],
+            [
+                "P007",
+                "The Future of Web Development",
+                "42500",
+                "0",
+                "WebDevPro"
+            ]
+        ]
+    }
+}

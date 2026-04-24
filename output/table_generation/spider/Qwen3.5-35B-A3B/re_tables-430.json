@@ -1,0 +1,69 @@
+{
+    "table-430-430": {
+        "title": [
+            "Contestant ID",
+            "Full Name",
+            "Substring Match",
+            "Season Number",
+            "Elimination Round",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of the contestants whose names contain the substring 'Al' .",
+        "data": [
+            [
+                "C004",
+                "Alan Smith",
+                "Al",
+                "7",
+                "Top 6",
+                "Active"
+            ],
+            [
+                "C012",
+                "Natalie Alvarez",
+                "Al, al",
+                "8",
+                "Top Finalist",
+                "Winner"
+            ],
+            [
+                "C023",
+                "Gabriel Allen",
+                "Al, l",
+                "6",
+                "Quarterfinals",
+                "Eliminated"
+            ],
+            [
+                "C045",
+                "Salim Khan",
+                "Al, kh",
+                "9",
+                "Semi-finals",
+                "Runner-up"
+            ],
+            [
+                "C051",
+                "Valeria Lopez",
+                "Al, pz",
+                "5",
+                "Fourth Place",
+                "Eliminated"
+            ],
+            [
+                "N/A",
+                "No match found in dataset",
+                "-",
+                "-",
+                "-",
+                "-"
+            ]
+        ]
+    }
+}

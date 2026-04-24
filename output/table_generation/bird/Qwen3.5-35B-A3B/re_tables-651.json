@@ -1,0 +1,61 @@
+{
+    "table-651-651": {
+        "title": [
+            "User ID",
+            "Outliers Badge Date",
+            "Last Accessed Date",
+            "Location",
+            "Access Method",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the last accessed date and location of the users who received the outliers badge.",
+        "data": [
+            [
+                "U1042",
+                "7/15/2023",
+                "6/22/24",
+                "New York City",
+                "Web Browser",
+                "Active"
+            ],
+            [
+                "U2089",
+                "8/03/239",
+                "N/A",
+                "London",
+                "Mobile App",
+                "Inactive"
+            ],
+            [
+                "U3156",
+                "9/12/19",
+                "May 1st, 244",
+                "Tokyo",
+                "Desktop Client",
+                "Suspended"
+            ],
+            [
+                "U4021",
+                "Oct 2nd, 18",
+                "June 10th, 44423",
+                "Berlin",
+                "Tablet",
+                "Pending Review"
+            ],
+            [
+                "U5098",
+                "Nov 11, 30",
+                "July 15th, -20",
+                "Sydney",
+                "API Gateway",
+                "Active"
+            ]
+        ]
+    }
+}

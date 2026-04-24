@@ -1,0 +1,45 @@
+{
+    "table-462-462": {
+        "title": [
+            "Card Name",
+            "Converted Mana Cost",
+            "Card Frame Style"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Top Cards by Converted Mana Cost and Card Frame Style",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the names of the top 3 cards with the highest converted mana cost and have a 2003 card frame style.",
+        "data": [
+            [
+                "Progenitus",
+                "10",
+                "Modern"
+            ],
+            [
+                "Emrakul, the Aeons Torn",
+                "15",
+                "Modern"
+            ],
+            [
+                "Kozilek, Butcher of Truth",
+                "10",
+                "Modern"
+            ],
+            [
+                "Ugin, the Spirit Dragon",
+                "8",
+                "Modern"
+            ],
+            [
+                "Nicol Bolas",
+                "5",
+                "Old"
+            ]
+        ]
+    }
+}

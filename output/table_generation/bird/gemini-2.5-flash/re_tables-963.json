@@ -1,0 +1,37 @@
+{
+    "table-963-963": {
+        "title": [
+            "Year",
+            "Driver Birth Criteria",
+            "Lap Count Criteria",
+            "Total Drivers Analyzed",
+            "Drivers Meeting Both",
+            "Percentage"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From 2000 to 2005, what percentage of drivers who were born before 1985 and the lap numbers were over 50?",
+        "data": [
+            [
+                "2000",
+                "Born Before 1985",
+                "Laps Over 50",
+                "70",
+                "28",
+                "40.0%"
+            ],
+            [
+                "2001",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

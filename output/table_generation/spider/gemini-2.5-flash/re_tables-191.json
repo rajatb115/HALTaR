@@ -1,0 +1,61 @@
+{
+    "table-191-191": {
+        "title": [
+            "Template Code",
+            "Template Name",
+            "Description",
+            "Is Currently Used"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the codes of template types that are not used for any document?",
+        "data": [
+            [
+                "INV",
+                "Invoice Template",
+                "Standard customer billing document",
+                "Yes"
+            ],
+            [
+                "ORD",
+                "Purchase Order",
+                "Document for ordering goods/services",
+                "Yes"
+            ],
+            [
+                "REP",
+                "Monthly Report",
+                "Summary of departmental activities",
+                "Yes"
+            ],
+            [
+                "MEM",
+                "Internal Memo",
+                "Communication within the organization",
+                "Yes"
+            ],
+            [
+                "PRO",
+                "Project Proposal",
+                "Outline for new project initiatives",
+                "No"
+            ],
+            [
+                "SOP",
+                "Standard Operating Procedure",
+                "Guidelines for routine tasks",
+                "No"
+            ],
+            [
+                "HRF",
+                "HR Request Form",
+                "Form for various HR-related requests",
+                "Yes"
+            ]
+        ]
+    }
+}

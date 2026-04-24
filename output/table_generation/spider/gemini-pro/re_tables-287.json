@@ -1,0 +1,39 @@
+{
+    "table-287-287": {
+        "title": [
+            "Battle ID",
+            "Battle Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Battles with Brig Losses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the different ids and names of the battles that lost any 'Brig' type shipes?",
+        "data": [
+            [
+                "101",
+                "Battle of Trafalgar"
+            ],
+            [
+                "105",
+                "Battle of the Nile"
+            ],
+            [
+                "112",
+                "Battle of Copenhagen"
+            ],
+            [
+                "118",
+                "Battle of Cape St. Vincent"
+            ],
+            [
+                "123",
+                "Battle of Camperdown"
+            ]
+        ]
+    }
+}

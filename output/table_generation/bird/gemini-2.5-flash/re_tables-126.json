@@ -1,0 +1,85 @@
+{
+    "table-126-126": {
+        "title": [
+            "Contract ID",
+            "Client Debt Status",
+            "District",
+            "State",
+            "Unemployment Rate 1995 (%)",
+            "Unemployment Rate 1996 (%)",
+            "Rate Increment (%)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For loans contracts which are still running where client are in debt, list the district of the and the state the percentage unemployment rate increment from year 1995 to 1996.",
+        "data": [
+            [
+                "L-001",
+                "In Debt",
+                "Central",
+                "California",
+                "6.2",
+                "6.5",
+                "0.3"
+            ],
+            [
+                "L-002",
+                "In Debt",
+                "Northwood",
+                "Texas",
+                "5.8",
+                "6.0",
+                "0.2"
+            ],
+            [
+                "L-003",
+                "In Debt",
+                "Lakeside",
+                "Florida",
+                "7.1",
+                "7.3",
+                "0.2"
+            ],
+            [
+                "L-004",
+                "In Debt",
+                "Riverbend",
+                "New York",
+                "6.8",
+                "7.1",
+                "0.3"
+            ],
+            [
+                "L-005",
+                "In Debt",
+                "Mountain View",
+                "Colorado",
+                "4.5",
+                "4.7",
+                "0.2"
+            ],
+            [
+                "L-006",
+                "In Debt",
+                "Coastal",
+                "Oregon",
+                "5.9",
+                "6.1",
+                "0.2"
+            ],
+            [
+                "L-007",
+                "In Debt",
+                "Prairie",
+                "Illinois",
+                "6.3",
+                "6.6",
+                "0.3"
+            ]
+        ]
+    }
+}

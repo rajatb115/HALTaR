@@ -1,0 +1,85 @@
+{
+    "table-142-142": {
+        "title": [
+            "District",
+            "Transaction Amount USD",
+            "Year Status",
+            "Data Source",
+            "Verification ID",
+            "Region Code",
+            "Record Count"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which districts have transactions greater than USS$10,000 in 1997?",
+        "data": [
+            [
+                "District Alpha",
+                "$12,450",
+                "Confirmed",
+                "Finance Dept",
+                "V-1923-A",
+                "R-North",
+                "45"
+            ],
+            [
+                "District Beta",
+                "$8,203",
+                "Pending Review",
+                "Audit Team",
+                "V-X992-B",
+                "R-South",
+                "N/A"
+            ],
+            [
+                "District Gamma",
+                "$25,600",
+                "Verified",
+                "Treasury Sys",
+                "V-K112-C",
+                "R-East",
+                "32"
+            ],
+            [
+                "District Delta",
+                "$9,999",
+                "Flagged Low Value",
+                "Manual Entry",
+                "M-L445-D",
+                "R-West",
+                "8"
+            ],
+            [
+                "District Epsilon",
+                "$31,050 Approved",
+                "Finalized",
+                "Core Ledger",
+                "F-P778-E",
+                "R-Central",
+                "67"
+            ],
+            [
+                "District Zeta",
+                "$45,220",
+                "Processed",
+                "Banking API",
+                "P-Q221-F",
+                "R-Coastal",
+                "54"
+            ],
+            [
+                "District Theta",
+                "$7,100 Excluded",
+                "Below Threshold",
+                "System Log",
+                "S-R334-G",
+                "R-Inland",
+                "0"
+            ]
+        ]
+    }
+}

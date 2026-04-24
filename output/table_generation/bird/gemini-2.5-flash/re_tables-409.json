@@ -1,0 +1,85 @@
+{
+    "table-409-409": {
+        "title": [
+            "Card Name",
+            "Card Type",
+            "Power",
+            "Toughness",
+            "Mana Cost",
+            "Ability Trigger",
+            "Ability Effect"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many null power cards contain info about the triggered ability",
+        "data": [
+            [
+                "Wisp of the Void",
+                "Creature",
+                "0",
+                "1",
+                "1U",
+                "When enters battlefield",
+                "Draw a card"
+            ],
+            [
+                "Aether Conduit",
+                "Artifact",
+                "N/A",
+                "N/A",
+                "2",
+                "Whenever you cast a spell",
+                "Scry 1"
+            ],
+            [
+                "Echoing Silence",
+                "Enchantment",
+                "N/A",
+                "N/A",
+                "1W",
+                "At the beginning of your upkeep",
+                "Target creature loses flying until end of turn"
+            ],
+            [
+                "Soulbound Spirit",
+                "Creature",
+                "0",
+                "2",
+                "B",
+                "When another creature dies",
+                "Put a +1/+1 counter on Soulbound Spirit"
+            ],
+            [
+                "Chronos Orb",
+                "Artifact",
+                "N/A",
+                "N/A",
+                "3",
+                "At the beginning of your end step",
+                "Create a 0/0 colorless Construct artifact token"
+            ],
+            [
+                "Glimmering Shade",
+                "Creature",
+                "0",
+                "0",
+                "2B",
+                "When it dies",
+                "Return target creature card from your graveyard to your hand"
+            ],
+            [
+                "Temporal Anchor",
+                "Enchantment",
+                "N/A",
+                "N/A",
+                "4U",
+                "Whenever you draw your second card each turn",
+                "Create a 1/1 blue Bird creature token with flying"
+            ]
+        ]
+    }
+}

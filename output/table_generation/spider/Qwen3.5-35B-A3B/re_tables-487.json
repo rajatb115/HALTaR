@@ -1,0 +1,73 @@
+{
+    "table-487-487": {
+        "title": [
+            "Country",
+            "Area_km\u00b2",
+            "Continent",
+            "Comparison_Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 9,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which countries have greater area than that of any country in Europe?",
+        "data": [
+            [
+                "Russia",
+                "6475000",
+                "Asia/Europe",
+                "Greater Than All European Countries"
+            ],
+            [
+                "Canada",
+                "9984670",
+                "North America",
+                "Greater Than All European Countries"
+            ],
+            [
+                "United States",
+                "3796742",
+                "North America",
+                "Greater Than All European Countries"
+            ],
+            [
+                "China",
+                "5959700",
+                "Asia",
+                "Greater than any country in Europe"
+            ],
+            [
+                "Brazil",
+                "8515767",
+                "South America",
+                "Greater than all countries in Eu"
+            ],
+            [
+                "Australia",
+                "7692024",
+                "Oceania",
+                "Larger than Largest European Nation"
+            ],
+            [
+                "India",
+                "4380022",
+                "Asia",
+                "Exceeds Spain and France combined"
+            ],
+            [
+                "Argentina",
+                "2780400",
+                "South America",
+                "Larger than Ukraine"
+            ],
+            [
+                "Kazakhstan",
+                "2724900",
+                "Asia",
+                "Smaller Russia But Greater Than Most EU"
+            ]
+        ]
+    }
+}

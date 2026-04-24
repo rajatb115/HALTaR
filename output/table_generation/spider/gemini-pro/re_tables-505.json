@@ -1,0 +1,51 @@
+{
+    "table-505-505": {
+        "title": [
+            "Country Name",
+            "Population",
+            "Head of State",
+            "Area (sq km)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Country Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the name, population, and head of state for the country that has the largest area.",
+        "data": [
+            [
+                "Russia",
+                "144 million",
+                "Vladimir Putin",
+                "17,098,242"
+            ],
+            [
+                "Canada",
+                "38 million",
+                "Justin Trudeau",
+                "9,984,670"
+            ],
+            [
+                "China",
+                "1.4 billion",
+                "Xi Jinping",
+                "9,706,961"
+            ],
+            [
+                "United States",
+                "331 million",
+                "Joe Biden",
+                "9,372,610"
+            ],
+            [
+                "Brazil",
+                "214 million",
+                "Luiz In\u00e1cio Lula da Silva",
+                "8,515,767"
+            ]
+        ]
+    }
+}

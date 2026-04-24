@@ -1,0 +1,43 @@
+{
+    "table-1342-1342": {
+        "title": [
+            "Review Name",
+            "Location",
+            "Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Government Budget Reviews",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the location for \"Spring Budget Review\".",
+        "data": [
+            [
+                "Autumn Statement",
+                "UK",
+                "Fall"
+            ],
+            [
+                "Spring Budget",
+                "UK",
+                "Spring"
+            ],
+            [
+                "Spending Review",
+                "UK",
+                "Varies"
+            ],
+            [
+                "Fiscal Risk Report",
+                "UK",
+                "Varies"
+            ],
+            [
+                "Budget Responsibility Report",
+                "UK",
+                "Varies"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-284-284": {
+        "title": [
+            "Incident ID",
+            "Date",
+            "Incident Type",
+            "Injuries Caused",
+            "Fatalities"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average number of injuries caused each time?",
+        "data": [
+            [
+                "I001",
+                "2023-01-15",
+                "Workplace Accident",
+                "3",
+                "0"
+            ],
+            [
+                "I002",
+                "2023-02-20",
+                "Vehicle Collision",
+                "1",
+                "0"
+            ],
+            [
+                "I003",
+                "2023-03-10",
+                "Natural Disaster",
+                "15",
+                "2"
+            ],
+            [
+                "I004",
+                "2023-04-05",
+                "Public Event Mishap",
+                "5",
+                "0"
+            ],
+            [
+                "I005",
+                "2023-05-12",
+                "Home Incident",
+                "0",
+                "0"
+            ],
+            [
+                "I006",
+                "2023-06-01",
+                "Workplace Accident",
+                "2",
+                "0"
+            ]
+        ]
+    }
+}

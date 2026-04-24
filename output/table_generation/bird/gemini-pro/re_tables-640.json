@@ -1,0 +1,53 @@
+{
+    "table-640-640": {
+        "title": [
+            "User Group",
+            "Total Posts",
+            "R Language Posts",
+            "Percentage (%)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "R Language Usage in Community Posts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Based on posts posted by Community, calculate the percentage of posts that use the R language.",
+        "data": [
+            [
+                "Community A",
+                "150",
+                "30",
+                "20.00"
+            ],
+            [
+                "Community B",
+                "200",
+                "50",
+                "25.00"
+            ],
+            [
+                "Community C",
+                "100",
+                "10",
+                "10.00"
+            ],
+            [
+                "Community D",
+                "120",
+                "24",
+                "20.00"
+            ],
+            [
+                "Overall",
+                "570",
+                "114",
+                "20.00"
+            ]
+        ]
+    }
+}

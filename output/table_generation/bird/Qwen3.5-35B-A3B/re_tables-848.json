@@ -1,0 +1,85 @@
+{
+    "table-848-848": {
+        "title": [
+            "Race Number",
+            "Period",
+            "Driver Surname",
+            "Lap Time",
+            "Position",
+            "Track Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the surname of the driver with the best lap time in race number 19 in the second period?",
+        "data": [
+            [
+                "18",
+                "Second",
+                "Hamilton",
+                "64.2s",
+                "3rd",
+                "Dry"
+            ],
+            [
+                "18",
+                "Second",
+                "Verstappen",
+                "63.8s",
+                "1st",
+                "Dry"
+            ],
+            [
+                "18",
+                "Third",
+                "Russell",
+                "65.1s",
+                "2nd",
+                "Wet"
+            ],
+            [
+                "18",
+                "",
+                "Leclerc",
+                "64.s",
+                "4th",
+                "Dry"
+            ],
+            [
+                "19",
+                "First",
+                "Norris",
+                "66.0s",
+                "5th",
+                "Mixed"
+            ],
+            [
+                "19",
+                "Second",
+                "Perez",
+                "67.2h",
+                "6th",
+                "Dusty"
+            ],
+            [
+                "19",
+                "Second",
+                "Magnussen",
+                "68.5s",
+                "7th",
+                "Clear"
+            ],
+            [
+                "19",
+                "Second",
+                "Ricciardo",
+                "69.1m",
+                "8th",
+                "Rainy"
+            ]
+        ]
+    }
+}

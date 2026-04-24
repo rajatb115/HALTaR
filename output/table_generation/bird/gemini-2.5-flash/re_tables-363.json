@@ -1,0 +1,62 @@
+{
+    "table-363-363": {
+        "title": [
+            "Card Name",
+            "Ruling Type",
+            "Ruling Date",
+            "Set",
+            "Ruling Description"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the description about the ruling of card \"Condemn\"?",
+        "data": [
+            [
+                "Condemn",
+                "Official Ruling",
+                "2007-05-01",
+                "Planar Chaos",
+                "If the target creature is no longer attacking when Condemn resolves, it is still put on the bottom of its owner's library."
+            ],
+            [
+                "Condemn",
+                "Interaction",
+                "2008-09-22",
+                "Planar Chaos",
+                "Condemn targets a creature, not an attacking creature. It can be cast on any creature, but its effect only applies if it was attacking."
+            ],
+            [
+                "Condemn",
+                "Clarification",
+                "2010-03-15",
+                "Planar Chaos",
+                "The \"attacking\" condition is checked only upon resolution. If the creature was attacking when Condemn was cast but is no longer attacking on resolution, it still gets put on the bottom."
+            ],
+            [
+                "Condemn",
+                "Comprehensive Rules",
+                "2012-07-01",
+                "Planar Chaos",
+                "Condemn does not prevent combat damage. The creature is removed before the combat damage step."
+            ],
+            [
+                "Condemn",
+                "Timing",
+                "2015-11-18",
+                "Planar Chaos",
+                "Condemn can be cast during any phase where you have priority, but its primary utility is during the declare blockers step or combat damage step."
+            ],
+            [
+                "Condemn",
+                "Target Legality",
+                "2018-04-04",
+                "Planar Chaos",
+                "If the target creature becomes an illegal target before Condemn resolves, Condemn is countered and has no effect."
+            ]
+        ]
+    }
+}

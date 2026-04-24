@@ -1,0 +1,61 @@
+{
+    "table-181-181": {
+        "title": [
+            "Client ID",
+            "Client Name",
+            "Birth Year",
+            "Branch Location"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide a list of clients who were born between 1983 and 1987 and whose account branch is in East Bohemia, along with their IDs.",
+        "data": [
+            [
+                "C1001",
+                "Petr Svoboda",
+                "1985",
+                "East Bohemia"
+            ],
+            [
+                "C1002",
+                "Anna Dvo\u0159\u00e1kov\u00e1",
+                "1983",
+                "East Bohemia"
+            ],
+            [
+                "C1003",
+                "Tom\u00e1\u0161 Novotn\u00fd",
+                "1987",
+                "East Bohemia"
+            ],
+            [
+                "C1004",
+                "Eva Ku\u010derov\u00e1",
+                "1984",
+                "East Bohemia"
+            ],
+            [
+                "C1005",
+                "Martin Jel\u00ednek",
+                "1986",
+                "East Bohemia"
+            ],
+            [
+                "C1006",
+                "Lucie Hor\u00e1kov\u00e1",
+                "1985",
+                "East Bohemia"
+            ],
+            [
+                "C1007",
+                "Jakub Bene\u0161",
+                "1983",
+                "East Bohemia"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-17-17": {
+        "title": [
+            "School Name",
+            "District",
+            "City",
+            "Test Type",
+            "Year",
+            "Number of Test Takers"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many schools in merged Alameda have number of test takers less than 100?",
+        "data": [
+            [
+                "Alameda High School",
+                "Alameda Unified",
+                "Alameda",
+                "CAASPP ELA",
+                "2023",
+                "85"
+            ],
+            [
+                "Encinal High School",
+                "Alameda Unified",
+                "Alameda",
+                "CAASPP Math",
+                "2023",
+                "72"
+            ],
+            [
+                "Lincoln Elementary",
+                "Oakland Unified",
+                "Oakland",
+                "CAASPP ELA",
+                "2022",
+                "45"
+            ],
+            [
+                "Berkeley High School",
+                "Berkeley Unified",
+                "Berkeley",
+                "SAT",
+                "2023",
+                "310"
+            ],
+            [
+                "Fremont High School",
+                "Oakland Unified",
+                "Oakland",
+                "ACT",
+                "2022",
+                "98"
+            ],
+            [
+                "Piedmont High School",
+                "Piedmont Unified",
+                "Piedmont",
+                "CAASPP Math",
+                "2023",
+                "115"
+            ],
+            [
+                "Edna Brewer Middle",
+                "Oakland Unified",
+                "Oakland",
+                "CAASPP ELA",
+                "2023",
+                "60"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-26-26": {
+        "title": [
+            "School Name",
+            "Avg SAT Math Score",
+            "Funding Type"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Riverside Schools with High Average SAT Math Scores",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name schools in Riverside which the average of average math score for SAT is grater than 400, what is the funding type of these schools?",
+        "data": [
+            [
+                "North High School",
+                "520",
+                "Public"
+            ],
+            [
+                "King High School",
+                "500",
+                "Public"
+            ],
+            [
+                "Poly High School",
+                "480",
+                "Public"
+            ],
+            [
+                "Riverside STEM Academy",
+                "650",
+                "Public"
+            ],
+            [
+                "Ramona High School",
+                "410",
+                "Public"
+            ]
+        ]
+    }
+}

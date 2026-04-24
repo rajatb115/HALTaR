@@ -1,0 +1,43 @@
+{
+    "table-35-35": {
+        "title": [
+            "School Administrator",
+            "Student Age",
+            "Free Rate"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "School Fee Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the free rate for students between the ages of 5 and 17 at the school run by Kacey Gibson?",
+        "data": [
+            [
+                "Kacey Gibson",
+                "5-10",
+                "50%"
+            ],
+            [
+                "Kacey Gibson",
+                "11-14",
+                "25%"
+            ],
+            [
+                "Kacey Gibson",
+                "15-17",
+                "10%"
+            ],
+            [
+                "Other",
+                "5-10",
+                "40%"
+            ],
+            [
+                "Other",
+                "11-14",
+                "20%"
+            ]
+        ]
+    }
+}

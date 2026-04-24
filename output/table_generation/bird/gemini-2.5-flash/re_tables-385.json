@@ -1,0 +1,53 @@
+{
+    "table-385-385": {
+        "title": [
+            "UUID",
+            "Card Name",
+            "Foreign Language"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down the uuid for legacy cards and the foreign language of these cards.",
+        "data": [
+            [
+                "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+                "Ancient Relic",
+                "Spanish"
+            ],
+            [
+                "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+                "Forgotten Scroll",
+                "French"
+            ],
+            [
+                "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+                "Timeworn Map",
+                "German"
+            ],
+            [
+                "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+                "Lost Artifact",
+                "Japanese"
+            ],
+            [
+                "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+                "Eldritch Tome",
+                "Italian"
+            ],
+            [
+                "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+                "Cursed Idol",
+                "Chinese (Simplified)"
+            ],
+            [
+                "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+                "Whispering Stone",
+                "Portuguese"
+            ]
+        ]
+    }
+}

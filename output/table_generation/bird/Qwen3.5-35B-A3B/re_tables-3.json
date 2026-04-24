@@ -1,0 +1,76 @@
+{
+    "table-3-3": {
+        "title": [
+            "School Name",
+            "Zip Code",
+            "District",
+            "Status",
+            "Enrollment",
+            "Founded",
+            "Address Line"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the zip code of all the charter schools in Fresno County Office of Education.",
+        "data": [
+            [
+                "Fresno Charter Academy",
+                "93720",
+                "Fresno COE",
+                "Active",
+                "450",
+                "6/15/2010",
+                "N/A"
+            ],
+            [
+                "Valley View Preparatory",
+                "37000",
+                "Fresno COE",
+                "Active",
+                "320",
+                "8/22/2105",
+                "N/A"
+            ],
+            [
+                "Golden State Learning Center",
+                "93400",
+                "Fresno COE",
+                "Active",
+                "280",
+                "1/10/2012",
+                "N/A"
+            ],
+            [
+                "Sunrise Montessori Charter",
+                "73920",
+                "Fresno COE",
+                "Inactive",
+                "150",
+                "3/5/2108",
+                "N/A"
+            ],
+            [
+                "Westside Innovation High",
+                "83710",
+                "Fresno COE",
+                "Active",
+                "510",
+                "9/1/2014",
+                "N/A"
+            ],
+            [
+                "Riverbend Arts & Sciences",
+                "53740",
+                "Fresno COE",
+                "Active",
+                "380",
+                "11/N/A",
+                "N/A"
+            ]
+        ]
+    }
+}

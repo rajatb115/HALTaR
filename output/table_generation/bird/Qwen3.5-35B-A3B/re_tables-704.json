@@ -1,0 +1,94 @@
+{
+    "table-704-704": {
+        "title": [
+            "Tag_ID",
+            "Post_Count",
+            "Category",
+            "Status",
+            "Last_Active",
+            "Creator",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the tags with tag ID below 15, how many of them have 20 count of posts and below?",
+        "data": [
+            [
+                "7",
+                "45",
+                "Technology",
+                "Active",
+                "6 months ago",
+                "Admin_01",
+                "North"
+            ],
+            [
+                "12",
+                "8",
+                "Lifestyle",
+                "Inactive",
+                "3 years ago",
+                "User_Beta",
+                "South"
+            ],
+            [
+                "3",
+                "0",
+                "General",
+                "Pending",
+                "N/A",
+                "System",
+                "East"
+            ],
+            [
+                "14",
+                "92",
+                "Sports",
+                "Active",
+                "5 days ago",
+                "Coach_X",
+                "West"
+            ],
+            [
+                "9",
+                "7",
+                "Health",
+                "Archived",
+                "1 year ago",
+                "Dr_Z",
+                "Central"
+            ],
+            [
+                "5",
+                "",
+                "Education",
+                "Draft",
+                "Never",
+                "Prof_A",
+                "North"
+            ],
+            [
+                "2",
+                "-1",
+                "Unknown",
+                "Error",
+                "Invalid",
+                "Bot_Y",
+                "Global"
+            ],
+            [
+                "11",
+                "",
+                "Finance",
+                "Closed",
+                "Dec 25",
+                "CFO_M",
+                "Europe"
+            ]
+        ]
+    }
+}

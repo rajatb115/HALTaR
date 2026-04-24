@@ -1,0 +1,85 @@
+{
+    "table-22-22": {
+        "title": [
+            "School Name",
+            "City",
+            "Free Meals Count",
+            "Reduced Price Meals Count",
+            "Total Eligible Students",
+            "Grade Level",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In Los Angeles how many schools have more than 500 free meals but less than 700 free or reduced price meals for K-12?",
+        "data": [
+            [
+                "Lincoln Elementary",
+                "Los Angeles",
+                "620",
+                "",
+                "450",
+                "K-5",
+                "Active"
+            ],
+            [
+                "Roosevelt Middle School",
+                "Los Angeles",
+                "580",
+                "750+",
+                "320",
+                "6-8",
+                "Active"
+            ],
+            [
+                "Washington High School",
+                "Los Angeles",
+                "650",
+                "720+",
+                "410",
+                "9-10",
+                "Inactive"
+            ],
+            [
+                "Jefferson Academy",
+                "Los Angeles",
+                "510",
+                "",
+                "380",
+                "K-11",
+                "Pending"
+            ],
+            [
+                "Adams Charter School",
+                "Los Angeles",
+                "530",
+                "680+",
+                "300",
+                "12-13",
+                "Closed"
+            ],
+            [
+                "Carter Institute",
+                "Los Angeles",
+                "590",
+                "",
+                "290",
+                "K-8",
+                "Operational"
+            ],
+            [
+                "Madison Prep",
+                "Los Angeles",
+                "610",
+                "",
+                "350",
+                "",
+                "Active"
+            ]
+        ]
+    }
+}

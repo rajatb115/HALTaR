@@ -1,0 +1,85 @@
+{
+    "table-970-970": {
+        "title": [
+            "Driver ID",
+            "Nationality",
+            "Birth Year",
+            "State/Territory",
+            "License Type",
+            "License Issue Year",
+            "License Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many Australian drivers who were born in 1980?",
+        "data": [
+            [
+                "D001",
+                "Australian",
+                "1980",
+                "NSW",
+                "Car",
+                "1998",
+                "Active"
+            ],
+            [
+                "D002",
+                "Australian",
+                "1980",
+                "VIC",
+                "Car",
+                "1999",
+                "Active"
+            ],
+            [
+                "D003",
+                "Australian",
+                "1980",
+                "QLD",
+                "Car",
+                "1998",
+                "Active"
+            ],
+            [
+                "D004",
+                "Australian",
+                "1980",
+                "WA",
+                "Motorcycle",
+                "2000",
+                "Active"
+            ],
+            [
+                "D005",
+                "Australian",
+                "1980",
+                "SA",
+                "Car",
+                "1998",
+                "Expired"
+            ],
+            [
+                "D006",
+                "Australian",
+                "1981",
+                "TAS",
+                "Car",
+                "1999",
+                "Active"
+            ],
+            [
+                "D007",
+                "Australian",
+                "1980",
+                "ACT",
+                "Car",
+                "1998",
+                "Suspended"
+            ]
+        ]
+    }
+}

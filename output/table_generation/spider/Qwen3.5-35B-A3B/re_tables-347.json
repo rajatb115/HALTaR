@@ -1,0 +1,83 @@
+{
+    "table-347-347": {
+        "title": [
+            "Cartoon Title",
+            "Director(s)",
+            "Air Date",
+            "Network",
+            "Episodes Counted",
+            "Genre",
+            "Rating",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name and directors of all the cartoons that are ordered by air date?",
+        "data": [
+            [
+                "Tom & Jerry",
+                "William Hanna / Joseph Barbera",
+                "4/7/1965",
+                "CBS",
+                "34",
+                "Comedy",
+                "TV-Y",
+                "Completed"
+            ],
+            [
+                "Scooby-Doo Where Are You!",
+                "Joe Ruby / Ken Spears",
+                "9/13/1961",
+                "ABC",
+                "50",
+                "Mystery",
+                "TV-G",
+                "Ongoing"
+            ],
+            [
+                "The Flintstones",
+                "William Hanna / Joseph Barbera",
+                "8/1/1960",
+                "ABC",
+                "60",
+                "Sitcom",
+                "TV-PG",
+                "Retired"
+            ],
+            [
+                "Looney Tunes",
+                "Friz Freleng / Chuck Jones",
+                "7/2/1930",
+                "Warner Bros",
+                "0",
+                "Animation",
+                "G",
+                "Archive"
+            ],
+            [
+                "Pink Panther Show",
+                "David DePatie / Fred Wolf",
+                "9/1/1969",
+                "NBC",
+                "",
+                "Family",
+                "TV-14",
+                "Revived"
+            ],
+            [
+                "Yogi Bear",
+                "Iwao Takamoto / Alex Lovy",
+                "1/1/1958",
+                "ABC",
+                "N/A",
+                "Adventure",
+                "TV-Kids",
+                ""
+            ]
+        ]
+    }
+}

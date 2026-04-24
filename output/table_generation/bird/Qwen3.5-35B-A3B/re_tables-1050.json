@@ -1,0 +1,49 @@
+{
+    "table-1050-1050": {
+        "title": [
+            "Match ID",
+            "Home Team",
+            "Away Team",
+            "Date",
+            "Venue City",
+            "Result Score",
+            "Attendance"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many matches in the 2015/2016 season were held in Scotland Premier League\n?",
+        "data": [
+            [
+                "SPL_0045",
+                "Celtic",
+                "Aberdeen",
+                "07 Aug 2105",
+                "Glasgow",
+                "3 - 1",
+                "58,234"
+            ],
+            [
+                "SPL_0112",
+                "Rangers",
+                "Hearts",
+                "4 Sep 2515",
+                "Edinburgh",
+                "6 - 0",
+                "8,450"
+            ],
+            [
+                "SP_L_0233",
+                "Hibernian",
+                "Motherwell",
+                "7 Oct 2615",
+                "Edinburgh",
+                "N/A",
+                "9,120"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-1004-1004": {
+        "title": [
+            "Driver Name",
+            "Number of Accidents"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Canadian Grand Prix Accident Records",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accidents did the driver who had the highest number accidents in the Canadian Grand Prix have?",
+        "data": [
+            [
+                "John Doe",
+                "5"
+            ],
+            [
+                "Jane Smith",
+                "3"
+            ],
+            [
+                "Peter Jones",
+                "2"
+            ],
+            [
+                "Alice Brown",
+                "1"
+            ],
+            [
+                "David Lee",
+                "1"
+            ]
+        ]
+    }
+}

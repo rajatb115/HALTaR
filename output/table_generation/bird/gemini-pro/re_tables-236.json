@@ -1,0 +1,43 @@
+{
+    "table-236-236": {
+        "title": [
+            "Molecule Name",
+            "Carcinogenic",
+            "Contains Bromine"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenic Molecules Containing Bromine",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many molecules are carcinogenic and have the bromine element?",
+        "data": [
+            [
+                "Molecule A",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Molecule B",
+                "No",
+                "Yes"
+            ],
+            [
+                "Molecule C",
+                "Yes",
+                "No"
+            ],
+            [
+                "Molecule D",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Molecule E",
+                "No",
+                "No"
+            ]
+        ]
+    }
+}

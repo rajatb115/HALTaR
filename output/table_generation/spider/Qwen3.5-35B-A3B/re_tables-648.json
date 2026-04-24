@@ -1,0 +1,94 @@
+{
+    "table-648-648": {
+        "title": [
+            "Singer_Name",
+            "Song_Title",
+            "Sales_Count",
+            "Genre",
+            "Release_Year",
+            "Label",
+            "Country"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show distinct names of singers that have songs with sales more than 300000.",
+        "data": [
+            [
+                "Elvis Presley",
+                "Hound Dog",
+                "450020",
+                "Rock & Roll",
+                "1956",
+                "RCA Victor",
+                "USA"
+            ],
+            [
+                "Michael Jackson",
+                "Thriller",
+                "720150",
+                "Pop",
+                "1982",
+                "Epic Records",
+                "USA"
+            ],
+            [
+                "Beyonc\u00e9",
+                "Single Ladies",
+                "315400",
+                "R&B",
+                "2008",
+                "Columbia",
+                "USA"
+            ],
+            [
+                "Adele",
+                "Rolling in the Deep",
+                "680900",
+                "Soul/Pop",
+                "2010",
+                "XL Recordings",
+                "UK"
+            ],
+            [
+                "Madonna",
+                "Like a Prayer",
+                "340250",
+                "Pop/Dance",
+                "1989",
+                "Sire/Warner Bros",
+                "USA"
+            ],
+            [
+                "Whitney Houston",
+                "I Will Always Love You",
+                ">3M",
+                "Ballad/Rock",
+                "1992",
+                "Arista",
+                "USA"
+            ],
+            [
+                "Prince",
+                "Purple Rain",
+                "",
+                "",
+                "",
+                "MPR/Sony Music",
+                "USA"
+            ],
+            [
+                "Mariah Carey",
+                "Vision of Love",
+                "",
+                "",
+                "",
+                "Sony Music Entertainment",
+                "USA"
+            ]
+        ]
+    }
+}

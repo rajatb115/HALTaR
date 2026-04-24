@@ -1,0 +1,39 @@
+{
+    "table-628-628": {
+        "title": [
+            "Age Group",
+            "Number of Users"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "User Demographics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users were adult?",
+        "data": [
+            [
+                "Adult",
+                "150"
+            ],
+            [
+                "Child",
+                "50"
+            ],
+            [
+                "Senior",
+                "25"
+            ],
+            [
+                "Teen",
+                "75"
+            ],
+            [
+                "Unknown",
+                "10"
+            ]
+        ]
+    }
+}

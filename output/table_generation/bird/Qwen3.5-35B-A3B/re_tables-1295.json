@@ -1,0 +1,61 @@
+{
+    "table-1295-1295": {
+        "title": [
+            "Patient_ID",
+            "Creatinine_Level_Mg_dL",
+            "Anti_Cardiolipan_Ab_Concentration_U/mL",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the patient's ID whose creatinine level is normal and whose anti Cardiolipin antibody concentration level is the highest.",
+        "data": [
+            [
+                "P-1042",
+                "0.9",
+                "45.2",
+                "Normal"
+            ],
+            [
+                "P-KM99",
+                "N/A",
+                "67.8",
+                "Pending Review"
+            ],
+            [
+                "P-LT33",
+                "3.1",
+                "52.1",
+                "Abnormal"
+            ],
+            [
+                "P-ZX88",
+                "8.92",
+                "-12.4",
+                "Low Titer"
+            ],
+            [
+                "P-QW11",
+                "N.A.",
+                "71.5",
+                "Highest Value"
+            ],
+            [
+                "P-RY55",
+                "9.12",
+                "N.D.",
+                "Unknown Result"
+            ],
+            [
+                "P-TG22",
+                ".00",
+                "",
+                "Missing Data"
+            ]
+        ]
+    }
+}

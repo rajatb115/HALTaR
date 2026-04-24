@@ -1,0 +1,69 @@
+{
+    "table-1306-1306": {
+        "title": [
+            "Patient ID",
+            "Admission Date",
+            "WBC Count (x10^9/L)",
+            "WBC Status",
+            "Primary Diagnosis"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients accepted to the hospital have a normal level of white blood cells?",
+        "data": [
+            [
+                "P1001",
+                "2023-10-26",
+                "7.2",
+                "Normal",
+                "Pneumonia"
+            ],
+            [
+                "P1002",
+                "2023-10-27",
+                "14.5",
+                "High",
+                "Sepsis"
+            ],
+            [
+                "P1003",
+                "2023-10-27",
+                "5.8",
+                "Normal",
+                "Appendicitis"
+            ],
+            [
+                "P1004",
+                "2023-10-28",
+                "2.1",
+                "Low",
+                "Aplastic Anemia"
+            ],
+            [
+                "P1005",
+                "2023-10-28",
+                "9.1",
+                "Normal",
+                "Diabetes Management"
+            ],
+            [
+                "P1006",
+                "2023-10-29",
+                "11.8",
+                "High",
+                "Urinary Tract Infection"
+            ],
+            [
+                "P1007",
+                "2023-10-29",
+                "6.5",
+                "Normal",
+                "Observation"
+            ]
+        ]
+    }
+}

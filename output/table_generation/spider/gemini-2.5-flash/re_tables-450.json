@@ -1,0 +1,76 @@
+{
+    "table-450-450": {
+        "title": [
+            "Country",
+            "Continent",
+            "Population (Millions)",
+            "GNP (Billions USD)",
+            "Data Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many people live in Asia, and what is the largest GNP among them?",
+        "data": [
+            [
+                "China",
+                "Asia",
+                "1412",
+                "17734",
+                "2022"
+            ],
+            [
+                "India",
+                "Asia",
+                "1408",
+                "3385",
+                "2022"
+            ],
+            [
+                "Japan",
+                "Asia",
+                "123",
+                "4231",
+                "2022"
+            ],
+            [
+                "Indonesia",
+                "Asia",
+                "275",
+                "1319",
+                "2022"
+            ],
+            [
+                "Pakistan",
+                "Asia",
+                "231",
+                "376",
+                "2022"
+            ],
+            [
+                "Bangladesh",
+                "Asia",
+                "170",
+                "460",
+                "2022"
+            ],
+            [
+                "South Korea",
+                "Asia",
+                "51",
+                "1721",
+                "2022"
+            ],
+            [
+                "Vietnam",
+                "Asia",
+                "98",
+                "409",
+                "2022"
+            ]
+        ]
+    }
+}

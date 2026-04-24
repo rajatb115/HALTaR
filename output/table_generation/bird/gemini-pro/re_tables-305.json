@@ -1,0 +1,37 @@
+{
+    "table-305-305": {
+        "title": [
+            "Molecule Name",
+            "Primary Elements"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenic Molecules and Elemental Composition",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all carcinogenic molecules and their elements.",
+        "data": [
+            [
+                "Benzene",
+                "Carbon, Hydrogen"
+            ],
+            [
+                "Formaldehyde",
+                "Carbon, Hydrogen, Oxygen"
+            ],
+            [
+                "Vinyl Chloride",
+                "Carbon, Hydrogen, Chlorine"
+            ],
+            [
+                "Arsenic",
+                "Arsenic"
+            ],
+            [
+                "Asbestos",
+                "Magnesium, Silicon, Oxygen, Hydrogen"
+            ]
+        ]
+    }
+}

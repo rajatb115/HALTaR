@@ -1,0 +1,45 @@
+{
+    "table-1375-1375": {
+        "title": [
+            "Member Phone",
+            "Event ID",
+            "Event Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Member Event Attendance",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many events did the member with the phone number \"954-555-6240\" attend?",
+        "data": [
+            [
+                "954-555-6240",
+                "101",
+                "2023-01-15"
+            ],
+            [
+                "954-555-6240",
+                "105",
+                "2023-02-20"
+            ],
+            [
+                "954-555-6240",
+                "112",
+                "2023-03-10"
+            ],
+            [
+                "954-555-6240",
+                "118",
+                "2023-04-05"
+            ],
+            [
+                "954-555-6240",
+                "125",
+                "2023-05-12"
+            ]
+        ]
+    }
+}

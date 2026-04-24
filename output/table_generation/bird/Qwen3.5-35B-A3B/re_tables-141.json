@@ -1,0 +1,33 @@
+{
+    "table-141-141": {
+        "title": [
+            "District",
+            "Account Count",
+            "Status",
+            "Last Updated",
+            "Region Code",
+            "Manager ID",
+            "Verification Date",
+            "Notes"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts are there in the district of \"Pisek\"?",
+        "data": [
+            [
+                "P\u00edsek",
+                "42",
+                "Active",
+                "6/15/2024",
+                "CZ-PIS",
+                "MGR-009",
+                "7/1/24 Verified",
+                "Primary branch location"
+            ]
+        ]
+    }
+}

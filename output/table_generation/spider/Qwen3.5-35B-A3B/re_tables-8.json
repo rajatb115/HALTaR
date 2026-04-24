@@ -1,0 +1,85 @@
+{
+    "table-8-8": {
+        "title": [
+            "Country",
+            "Singer Name",
+            "Age",
+            "Genre",
+            "Active Since",
+            "Record Label",
+            "Awards Won"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are  the different countries with singers above age 20?",
+        "data": [
+            [
+                "USA",
+                "Taylor Swift",
+                "34",
+                "Pop",
+                "7",
+                "Republic Records",
+                "46"
+            ],
+            [
+                "UK",
+                "Adele Adkins",
+                "50",
+                "Soul",
+                "8",
+                "XL Recordings",
+                "62"
+            ],
+            [
+                "Canada",
+                "Justin Bieber",
+                "9",
+                "R&B",
+                "0",
+                "Def Jam",
+                "38"
+            ],
+            [
+                "Brazil",
+                "Anitta",
+                "30",
+                "Funk Carioca",
+                "",
+                "Warner Music Brazil",
+                ""
+            ],
+            [
+                "Japan",
+                "Hikaru Utada",
+                "",
+                "J-Pop",
+                "",
+                "EMI Music Japan",
+                ""
+            ],
+            [
+                "Australia",
+                "Sia Furler",
+                "48",
+                "Electropop",
+                "1",
+                "Monkey Puzzle Records",
+                "12"
+            ],
+            [
+                "France",
+                "Stromae",
+                "39",
+                "Hip Hop",
+                "",
+                "Mosaert",
+                "15"
+            ]
+        ]
+    }
+}

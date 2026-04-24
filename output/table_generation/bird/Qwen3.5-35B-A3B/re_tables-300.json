@@ -1,0 +1,76 @@
+{
+    "table-300-300": {
+        "title": [
+            "Molecule ID",
+            "Carcinogen Status",
+            "Assay Method",
+            "Study Source",
+            "Confidence Level",
+            "Year Published",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Is molecule TR124 carcinogenic?",
+        "data": [
+            [
+                "TR123",
+                "Negative",
+                "In Vitro Ames Test",
+                "ToxLab Inc.",
+                "High",
+                "2021",
+                "Control compound for comparison"
+            ],
+            [
+                "TR145",
+                "Positive",
+                "Chronic Bioassay in Rats",
+                "Global Safety Inst.",
+                "Very High",
+                "2019",
+                "Confirmed mutagenic activity"
+            ],
+            [
+                "TR167",
+                "Unknown",
+                "Limited Data Available",
+                "Internal Review",
+                "Low",
+                "2022",
+                "Requires further testing"
+            ],
+            [
+                "TR189",
+                "Negative",
+                "Long-term Carcinogenicity Study",
+                "PharmaCorp Labs",
+                "Medium",
+                "2020",
+                "No tumors observed at max dose"
+            ],
+            [
+                "TR201",
+                "Positive",
+                "Transgenic Mouse Assay",
+                "EcoRisk Research",
+                "High",
+                "1998",
+                "Strong evidence of DNA damage"
+            ],
+            [
+                "TR223",
+                "Negative",
+                "Bacterial Reverse Mutation",
+                "SafeChem Solutions",
+                "Very High",
+                "2023",
+                "Ruled out genotoxic potential"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-641-641": {
+        "title": [
+            "Author",
+            "Total View Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "View Count Comparison by Author",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the difference in view count from post posted by mornington and view count from posts posted by Amos.",
+        "data": [
+            [
+                "Mornington",
+                "12345"
+            ],
+            [
+                "Amos",
+                "6789"
+            ],
+            [
+                "Difference",
+                "5556"
+            ],
+            [
+                "Mornington View Count",
+                "12345"
+            ],
+            [
+                "Amos View Count",
+                "6789"
+            ]
+        ]
+    }
+}

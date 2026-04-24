@@ -1,0 +1,53 @@
+{
+    "table-683-683": {
+        "title": [
+            "Post ID",
+            "Owner Display Name",
+            "Year",
+            "Score"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2,
+            3
+        ],
+        "pgTitle": "Most Valuable Posts by Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which is the most valuable post in 2010? Please give its id and the owner's display name.",
+        "data": [
+            [
+                "12345",
+                "JohnDoe",
+                "2010",
+                "150"
+            ],
+            [
+                "67890",
+                "JaneSmith",
+                "2010",
+                "120"
+            ],
+            [
+                "24680",
+                "PeterJones",
+                "2010",
+                "180"
+            ],
+            [
+                "13579",
+                "AliceBrown",
+                "2010",
+                "90"
+            ],
+            [
+                "98765",
+                "DavidWilson",
+                "2010",
+                "200"
+            ]
+        ]
+    }
+}

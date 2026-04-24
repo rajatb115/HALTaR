@@ -1,0 +1,83 @@
+{
+    "table-227-227": {
+        "title": [
+            "Molecule ID",
+            "Total Bonds",
+            "Double Bonds",
+            "Triple Bonds",
+            "Single Bonds",
+            "% Double Bonds",
+            "Formula",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of double bonds in the molecule TR008?",
+        "data": [
+            [
+                "TR007",
+                "45",
+                "6",
+                "1",
+                "38",
+                "13.3%",
+                "C20H24O2",
+                "Verified"
+            ],
+            [
+                "TR010",
+                "52",
+                "8",
+                "0",
+                "44",
+                "15.4%",
+                "C22H28O3",
+                "Pending"
+            ],
+            [
+                "TR025",
+                "30",
+                "3",
+                "0",
+                "27",
+                "10.0%",
+                "C15H18N2",
+                "Draft"
+            ],
+            [
+                "MOL-X99",
+                "60",
+                "12",
+                "2",
+                "46",
+                "20.7%",
+                "C30H32ClNO",
+                "Active"
+            ],
+            [
+                "REF-BETA",
+                "36",
+                "4",
+                "0",
+                "32",
+                "11.1%",
+                "C18H20O4",
+                "Archived"
+            ],
+            [
+                "COMP-GAMMA",
+                "48",
+                "7",
+                "0",
+                "41",
+                "14.6%",
+                "C19H22F2",
+                "Review"
+            ]
+        ]
+    }
+}

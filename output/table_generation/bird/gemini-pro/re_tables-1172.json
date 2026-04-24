@@ -1,0 +1,45 @@
+{
+    "table-1172-1172": {
+        "title": [
+            "Year",
+            "Age Group",
+            "Number of Patients Examined"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Patient Demographics and Examination Records (1990-1993)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many underage patients were examined during the course of the three-year period from 1990 to 1993?",
+        "data": [
+            [
+                "1990",
+                "Under 18",
+                "125"
+            ],
+            [
+                "1991",
+                "Under 18",
+                "130"
+            ],
+            [
+                "1992",
+                "Under 18",
+                "142"
+            ],
+            [
+                "1993",
+                "Under 18",
+                "155"
+            ],
+            [
+                "Total",
+                "Under 18",
+                "552"
+            ]
+        ]
+    }
+}

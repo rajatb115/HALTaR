@@ -1,0 +1,69 @@
+{
+    "table-176-176": {
+        "title": [
+            "Account ID",
+            "Owner Disposition Status",
+            "Statement Request Triggered",
+            "Transaction Count",
+            "Last Activity Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts have an owner disposition and request for a statement to be generated upon a transaction?",
+        "data": [
+            [
+                "ACC-74012",
+                "Active",
+                "Yes",
+                "45",
+                "6/15/2023"
+            ],
+            [
+                "ACC-78934",
+                "Pending Review",
+                "No",
+                "0",
+                "N/A"
+            ],
+            [
+                "ACC-10293",
+                "Suspended",
+                "Yes",
+                "12",
+                "5/30/2022"
+            ],
+            [
+                "ACC-D4501",
+                "Active",
+                "Yes",
+                "89",
+                "6/28/2023"
+            ],
+            [
+                "ACC-F9921",
+                "Inactive",
+                "No",
+                "3",
+                "1/10/2019"
+            ],
+            [
+                "ACC-G1105",
+                "Active",
+                "",
+                "156",
+                "6/20/2023"
+            ],
+            [
+                "ACC-H2283",
+                "Pending Review",
+                "Yes",
+                "",
+                "7/1/2022"
+            ]
+        ]
+    }
+}

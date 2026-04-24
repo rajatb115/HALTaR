@@ -1,0 +1,77 @@
+{
+    "table-67-67": {
+        "title": [
+            "School ID",
+            "School Name",
+            "County",
+            "Opening Date",
+            "Funding Source",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Between 1/1/2000 to 12/31/2005, how many directly funded schools opened in the county of Stanislaus?",
+        "data": [
+            [
+                "STS-0042",
+                "Oak Valley Elementary",
+                "Stanislaus",
+                "03/15/22",
+                "Direct Grant",
+                "Open"
+            ],
+            [
+                "SCL-0118",
+                "Riverbend High School",
+                "San Joaquin",
+                "06/10/23",
+                "State Allocation",
+                "Closed"
+            ],
+            [
+                "STM-0773",
+                "Modesto Tech Academy",
+                "Stanislaus",
+                "09/01/04",
+                "Federal Match",
+                "Active"
+            ],
+            [
+                "SLK-0291",
+                "Lodi Middle Center",
+                "San Luis Obispo",
+                "08/25/05",
+                "Private Endowment",
+                "Pending"
+            ],
+            [
+                "STR-0556",
+                "Tracy Innovation Hub",
+                "Stanislaus",
+                "04/12/10",
+                "Local Bond",
+                "Operational"
+            ],
+            [
+                "SCV-0882",
+                "Ceres Science Lab",
+                "Santa Clara",
+                "07/30/02",
+                "District Funded",
+                "Inactive"
+            ],
+            [
+                "SMF-0334",
+                "Manteca Arts Campus",
+                "Sacramento",
+                "05/18/03",
+                "City Initiative",
+                "Open"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-33-33": {
+        "title": [
+            "School ID",
+            "Ownership Code",
+            "Total Students",
+            "Free/Reduced Meal Count",
+            "Eligible Rate (%)",
+            "Grade Range"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the eligible free or reduced price meal rate for the top 5 schools in grades 1-12 with the highest free or reduced price meal count of the schools with the ownership code 66?",
+        "data": [
+            [
+                "SCH_4002",
+                "6",
+                "850",
+                "720",
+                "N/A",
+                "K-1"
+            ],
+            [
+                "SCH_A119",
+                "4",
+                "920",
+                "5",
+                "3",
+                "0"
+            ],
+            [
+                "SCHOOL_X9",
+                "N",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "SCH_B221",
+                "6",
+                "1050",
+                "890",
+                "84.8%",
+                "K-5"
+            ],
+            [
+                "MID_HILL",
+                "N/A",
+                "1120",
+                "N/A",
+                "-",
+                "P-1"
+            ]
+        ]
+    }
+}

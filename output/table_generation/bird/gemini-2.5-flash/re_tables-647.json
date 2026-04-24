@@ -1,0 +1,61 @@
+{
+    "table-647-647": {
+        "title": [
+            "Post Title",
+            "Commenter Name",
+            "Comment Sentiment",
+            "Comment Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the post title which got positive comments and display names of the users who posted those comments.",
+        "data": [
+            [
+                "New Feature: Collaborative Editing",
+                "Alice_W",
+                "Positive",
+                "2023-11-01"
+            ],
+            [
+                "Tips for Optimizing Database Queries",
+                "Bob_S",
+                "Positive",
+                "2023-10-31"
+            ],
+            [
+                "Community Spotlight: October's Top Contributor",
+                "Charlie_M",
+                "Positive",
+                "2023-10-30"
+            ],
+            [
+                "Upcoming Webinar: Advanced Data Visualization",
+                "Diana_P",
+                "Positive",
+                "2023-10-29"
+            ],
+            [
+                "Share Your Favorite Productivity Hacks",
+                "Eve_R",
+                "Positive",
+                "2023-10-28"
+            ],
+            [
+                "Product Update: Enhanced Security Features",
+                "Frank_L",
+                "Positive",
+                "2023-10-27"
+            ],
+            [
+                "Ask Me Anything: Lead Data Scientist",
+                "Grace_T",
+                "Positive",
+                "2023-10-26"
+            ]
+        ]
+    }
+}

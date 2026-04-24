@@ -1,0 +1,39 @@
+{
+    "table-1060-1060": {
+        "title": [
+            "Player Name",
+            "Height (cm)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Player Height Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list player names which are higher than 180.",
+        "data": [
+            [
+                "Player A",
+                "185"
+            ],
+            [
+                "Player B",
+                "190"
+            ],
+            [
+                "Player C",
+                "182"
+            ],
+            [
+                "Player D",
+                "188"
+            ],
+            [
+                "Player E",
+                "195"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-1231-1231": {
+        "title": [
+            "Patient_ID",
+            "Status",
+            "Creatine_Phosphokinase_U_L",
+            "Reference_Range_Min",
+            "Reference_Max"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all outpatient within normal range of creatinine phosphokinase. Give me the distinct ids.",
+        "data": [
+            [
+                "PT_4092",
+                "Outpatient",
+                "65",
+                "30",
+                "70"
+            ],
+            [
+                "PT_4105",
+                "Outpatients",
+                "52",
+                "40",
+                "N/A"
+            ],
+            [
+                "PT_4218",
+                "Outpatient",
+                "85",
+                "N/A",
+                "90"
+            ],
+            [
+                "PT_4301",
+                "Outpatient",
+                "0",
+                "-10",
+                "10"
+            ],
+            [
+                "PT-4450-Out",
+                "Out-patient",
+                "",
+                "",
+                ""
+            ],
+            [
+                "PT4512Out",
+                "Outpatient",
+                "120",
+                "100",
+                "150"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-516-516": {
+        "title": [
+            "Country",
+            "Continent",
+            "Population",
+            "Capital City",
+            "Currency Code",
+            "Area_km\u00b2",
+            "GDP_Billion_USD"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the countries that are in the continent of Europe and have a population of 80000?",
+        "data": [
+            [
+                "Vatican City",
+                "Europe",
+                "826",
+                "Vatican City",
+                "EUR",
+                "0.44",
+                "N/A"
+            ],
+            [
+                "Monaco",
+                "Europe &nbsp;",
+                "39,242",
+                "Monaco",
+                "EUR &nbsp;&nbsp;",
+                "7.8",
+                "9.5"
+            ],
+            [
+                "San Marino",
+                "Europe&nbsp;&nbsp;&lt;br&gt;",
+                "33,660",
+                "San Marino",
+                "EUR",
+                "61.2",
+                "1.8"
+            ],
+            [
+                "Liechtenstein",
+                "Europe",
+                "39,...",
+                "...",
+                "CHF",
+                "160.2",
+                ".7"
+            ],
+            [
+                "Andorra",
+                "Europe&nbs;",
+                "77,265",
+                "Andorra la Vella",
+                "EUR",
+                "468.",
+                "1.5"
+            ]
+        ]
+    }
+}

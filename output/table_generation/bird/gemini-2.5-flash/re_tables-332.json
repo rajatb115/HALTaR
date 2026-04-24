@@ -1,0 +1,76 @@
+{
+    "table-332-332": {
+        "title": [
+            "Molecule Name",
+            "CAS Number",
+            "Carcinogenic Status",
+            "IARC Group",
+            "Primary Use/Source"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the molecules are carcinogenic?",
+        "data": [
+            [
+                "Benzene",
+                "71-43-2",
+                "Known",
+                "Group 1",
+                "Industrial Solvent"
+            ],
+            [
+                "Formaldehyde",
+                "50-00-0",
+                "Known",
+                "Group 1",
+                "Preservative"
+            ],
+            [
+                "Acrylamide",
+                "79-06-1",
+                "Probable",
+                "Group 2A",
+                "Food Processing Byproduct"
+            ],
+            [
+                "Chloroform",
+                "67-66-3",
+                "Possible",
+                "Group 2B",
+                "Solvent/Disinfectant Byproduct"
+            ],
+            [
+                "Ethanol",
+                "64-17-5",
+                "Known",
+                "Group 1",
+                "Alcoholic Beverages"
+            ],
+            [
+                "Caffeine",
+                "58-08-2",
+                "No Evidence",
+                "Group 3",
+                "Stimulant"
+            ],
+            [
+                "Toluene",
+                "108-88-3",
+                "Not Classified",
+                "Group 3",
+                "Paint Thinner"
+            ],
+            [
+                "Vinyl Chloride",
+                "75-01-4",
+                "Known",
+                "Group 1",
+                "PVC Manufacturing"
+            ]
+        ]
+    }
+}

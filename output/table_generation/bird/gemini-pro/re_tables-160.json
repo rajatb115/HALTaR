@@ -1,0 +1,52 @@
+{
+    "table-160-160": {
+        "title": [
+            "Transaction ID",
+            "Date",
+            "Amount",
+            "Account Number"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Cash Withdrawals for Client 3356",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the withdrawals in cash transactions that the client with the id 3356 makes.",
+        "data": [
+            [
+                "12345",
+                "2023-11-01",
+                "100.00",
+                "1234-5678-9012"
+            ],
+            [
+                "12346",
+                "2023-11-08",
+                "50.00",
+                "1234-5678-9012"
+            ],
+            [
+                "12347",
+                "2023-11-15",
+                "25.00",
+                "1234-5678-9012"
+            ],
+            [
+                "12348",
+                "2023-11-22",
+                "75.00",
+                "1234-5678-9012"
+            ],
+            [
+                "12349",
+                "2023-11-29",
+                "120.00",
+                "1234-5678-9012"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "table-261-261": {
+        "title": [
+            "First Name",
+            "Last Name",
+            "Hand",
+            "Birth Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the first and last name of all players who are left / L hand in the order of birth date.",
+        "data": [
+            [
+                "John",
+                "Doe",
+                "L",
+                "1985-03-15"
+            ],
+            [
+                "Jane",
+                "Smith",
+                "L",
+                "1988-07-22"
+            ],
+            [
+                "Michael",
+                "Johnson",
+                "L",
+                "1990-01-10"
+            ],
+            [
+                "Emily",
+                "Davis",
+                "L",
+                "1992-11-05"
+            ],
+            [
+                "David",
+                "Wilson",
+                "L",
+                "1995-06-18"
+            ],
+            [
+                "Sarah",
+                "Brown",
+                "L",
+                "1997-09-01"
+            ]
+        ]
+    }
+}

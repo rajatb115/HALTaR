@@ -1,0 +1,69 @@
+{
+    "table-844-844": {
+        "title": [
+            "Hero ID",
+            "Hero Name",
+            "Primary Power",
+            "Intelligence Level",
+            "Affiliation"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the hero ID of superheroes have intellegence as their power.",
+        "data": [
+            [
+                "H001",
+                "Batman",
+                "Genius Intellect",
+                "10",
+                "Justice League"
+            ],
+            [
+                "H002",
+                "Iron Man",
+                "Genius Intellect",
+                "9",
+                "Avengers"
+            ],
+            [
+                "H003",
+                "Lex Luthor",
+                "Genius Intellect",
+                "10",
+                "Legion of Doom"
+            ],
+            [
+                "H004",
+                "Mr. Fantastic",
+                "Genius Intellect",
+                "10",
+                "Fantastic Four"
+            ],
+            [
+                "H005",
+                "The Atom",
+                "Genius Intellect",
+                "8",
+                "Justice League"
+            ],
+            [
+                "H006",
+                "Oracle",
+                "Genius Intellect",
+                "9",
+                "Birds of Prey"
+            ],
+            [
+                "H007",
+                "Doctor Doom",
+                "Genius Intellect",
+                "9",
+                "Latveria"
+            ]
+        ]
+    }
+}

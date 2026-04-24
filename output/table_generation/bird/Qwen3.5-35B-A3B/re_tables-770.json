@@ -1,0 +1,55 @@
+{
+    "table-770-770": {
+        "title": [
+            "Superhero Title",
+            "Publisher",
+            "Durability Rating",
+            "First Appearance Year",
+            "Issue Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which superhero has the most durability published by Dark Horse Comics?",
+        "data": [
+            [
+                "Predator vs. Alien",
+                "Dark Horse",
+                "High",
+                "476",
+                "32"
+            ],
+            [
+                "Hellboy",
+                "Dark Horse",
+                "Extreme",
+                "542",
+                "89"
+            ],
+            [
+                "The Goon",
+                "Dark Horse",
+                "Very High",
+                "",
+                "67"
+            ],
+            [
+                "Sin City",
+                "Dark Horse",
+                "Moderate",
+                "98",
+                "0"
+            ],
+            [
+                "Savage Dragon",
+                "Image",
+                "Low",
+                "N/A",
+                "N/A"
+            ]
+        ]
+    }
+}

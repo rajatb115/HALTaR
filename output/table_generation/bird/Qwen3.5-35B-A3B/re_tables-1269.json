@@ -1,0 +1,85 @@
+{
+    "table-1269-1269": {
+        "title": [
+            "Patient_ID",
+            "Anti_SM_Status",
+            "Age_Years",
+            "Gender",
+            "Diagnosis_Date",
+            "Lab_Result_Value",
+            "Test_Lab_Name"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients with an abnormal anti-SM, please list the IDs of the three youngest ones.",
+        "data": [
+            [
+                "P_4021",
+                "Abnormal",
+                "67",
+                "Female",
+                "03/12/2023",
+                "High Positive",
+                "City Central Labs"
+            ],
+            [
+                "P_A992",
+                "Abnormal",
+                "72",
+                "Male",
+                "45/01/24",
+                "Elevated",
+                "Metro Diagnostics"
+            ],
+            [
+                "B_1103",
+                "Abnormal",
+                "58",
+                "Female",
+                "",
+                "Strong Reactive",
+                "Westside Medical Center"
+            ],
+            [
+                "C_8821",
+                "Normal",
+                "81",
+                "Male",
+                "01 Jan 24",
+                "Low Negative",
+                "East Regional Hospital"
+            ],
+            [
+                "D_3342",
+                "Abnormal",
+                "69",
+                "Female",
+                "15 Mar 23",
+                "Moderate Positive",
+                "North Valley Clinic"
+            ],
+            [
+                "E_7710",
+                "Abnormal",
+                "74",
+                "Male",
+                "22 Feb 21",
+                "High Titer",
+                "South Shore Pathology"
+            ],
+            [
+                "F_5521",
+                "Abnormal",
+                "63",
+                "Female",
+                "08 Apr 25",
+                "Borderline Result",
+                "Capital Health Systems"
+            ]
+        ]
+    }
+}

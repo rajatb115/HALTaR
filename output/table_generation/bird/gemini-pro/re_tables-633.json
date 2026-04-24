@@ -1,0 +1,39 @@
+{
+    "table-633-633": {
+        "title": [
+            "Voter Name",
+            "Number of Votes"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Votes by Harlan",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many votes were made by Harlan?",
+        "data": [
+            [
+                "Harlan",
+                "5"
+            ],
+            [
+                "Alice",
+                "3"
+            ],
+            [
+                "Bob",
+                "7"
+            ],
+            [
+                "Carol",
+                "2"
+            ],
+            [
+                "David",
+                "4"
+            ]
+        ]
+    }
+}

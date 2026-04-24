@@ -1,0 +1,43 @@
+{
+    "table-60-60": {
+        "title": [
+            "Administrator",
+            "School Name",
+            "Website"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "School Websites by Administrator",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the website for the schools under the administrations of Mike Larson and Dante Alvarez?",
+        "data": [
+            [
+                "Mike Larson",
+                "Northwood High",
+                "northwoodhigh.edu"
+            ],
+            [
+                "Mike Larson",
+                "Crestview Middle",
+                "crestviewmiddle.org"
+            ],
+            [
+                "Dante Alvarez",
+                "Southpoint Elementary",
+                "southpointelem.com"
+            ],
+            [
+                "Dante Alvarez",
+                "Westbridge Academy",
+                "westbridgeacademy.net"
+            ],
+            [
+                "Dante Alvarez",
+                "Vista Ridge High",
+                "vrhigh.edu"
+            ]
+        ]
+    }
+}

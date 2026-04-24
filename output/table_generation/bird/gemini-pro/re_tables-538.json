@@ -1,0 +1,39 @@
+{
+    "table-538-538": {
+        "title": [
+            "Username",
+            "Post Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "User Post Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts does the user csgillespie own?",
+        "data": [
+            [
+                "csgillespie",
+                "125"
+            ],
+            [
+                "johndoe",
+                "67"
+            ],
+            [
+                "janesmith",
+                "42"
+            ],
+            [
+                "peterjones",
+                "98"
+            ],
+            [
+                "sarahlee",
+                "23"
+            ]
+        ]
+    }
+}

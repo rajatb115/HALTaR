@@ -1,0 +1,85 @@
+{
+    "table-1521-1521": {
+        "title": [
+            "Customer ID",
+            "Transaction Date",
+            "Expense Amount",
+            "Month",
+            "Category",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the customer who paid 124.05 in 2012/8/24, how much did he/she spend during the January of 2012? And what is the date and expenses exactly?",
+        "data": [
+            [
+                "CUST_7721",
+                "06-Aug-2024",
+                "$12.50",
+                "August",
+                "Groceries",
+                "Completed",
+                "Regular purchase"
+            ],
+            [
+                "CUST_A102",
+                "31-Jan-2100",
+                "$0.00",
+                "",
+                "",
+                "Pending",
+                "System error detected"
+            ],
+            [
+                "DUMMY_ROW",
+                "N/A",
+                "N/A",
+                "Unknown",
+                "Test Data",
+                "Failed",
+                "Placeholder for structure validation"
+            ],
+            [
+                "CLIENT_X99",
+                "4-Feb-2205",
+                "$89.99",
+                "February",
+                "Utilities",
+                "Active",
+                "Paid early; Subscription renewal"
+            ],
+            [
+                "USER_ZZ1",
+                "Jan-2300-01-15",
+                "-$5.00",
+                "January",
+                "Refund",
+                "Reversed",
+                "Processed; Credit adjustment applied"
+            ],
+            [
+                "GUEST_007",
+                "99-Dec-2999",
+                "$99.00",
+                "December",
+                "Holiday Special",
+                "Dec",
+                "Seasonal Event; Pre-order confirmed"
+            ],
+            [
+                "ADMIN_SYS",
+                "5-May-2500",
+                "$1.00",
+                "May",
+                "Maintenance Fee",
+                "May",
+                "Infrastructure; In Progress; Monthly billing cycle"
+            ]
+        ]
+    }
+}

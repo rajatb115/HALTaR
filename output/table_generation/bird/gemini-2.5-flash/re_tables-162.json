@@ -1,0 +1,69 @@
+{
+    "table-162-162": {
+        "title": [
+            "Client ID",
+            "Client Name",
+            "Card Type",
+            "Card Issuer",
+            "Last 4 Digits"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What type of credit card does the client with the id 13539 own?",
+        "data": [
+            [
+                "13539",
+                "John Doe",
+                "Visa",
+                "Chase",
+                "1234"
+            ],
+            [
+                "13540",
+                "Jane Smith",
+                "Mastercard",
+                "Bank of America",
+                "5678"
+            ],
+            [
+                "13541",
+                "Peter Jones",
+                "American Express",
+                "Amex",
+                "9012"
+            ],
+            [
+                "13542",
+                "Alice Brown",
+                "Discover",
+                "Discover",
+                "3456"
+            ],
+            [
+                "13543",
+                "Robert White",
+                "Visa",
+                "Wells Fargo",
+                "7890"
+            ],
+            [
+                "13544",
+                "Emily Green",
+                "Mastercard",
+                "Citi",
+                "1122"
+            ],
+            [
+                "13545",
+                "Michael Black",
+                "American Express",
+                "Amex",
+                "3344"
+            ]
+        ]
+    }
+}

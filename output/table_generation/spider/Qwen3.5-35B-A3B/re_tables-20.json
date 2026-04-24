@@ -1,0 +1,77 @@
+{
+    "table-20-20": {
+        "title": [
+            "Stadium_Name",
+            "City_Country",
+            "Capacity",
+            "Opened_Year",
+            "Last_Concert_Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show names for all stadiums except for stadiums having a concert in year 2014.",
+        "data": [
+            [
+                "Wembley_Stadium",
+                "London_UK",
+                "90006",
+                "7/20/2/2",
+                "N/A",
+                "Active"
+            ],
+            [
+                "Camp_Nou",
+                "Barcelona_Spain",
+                "89478",
+                "5/28/1957",
+                "N_A",
+                "Active_Maintenance"
+            ],
+            [
+                "Santiago_Bernabeu",
+                "Madrid_Spain",
+                "81044",
+                "3/14/1/1",
+                "N.A",
+                "Renovation"
+            ],
+            [
+                "Signal_Idle_Park",
+                "New_York_USA",
+                "41922",
+                "6/15/1887",
+                "01/01/N/A",
+                "Closed_for_Renewal"
+            ],
+            [
+                "St_James_Park",
+                "Newcastle_UK",
+                "52305",
+                "8/26/2 /1892",
+                "None",
+                "Operational"
+            ],
+            [
+                "Maracan\u00e3",
+                "Rio_de_Janeiro_BR",
+                "-78838",
+                "7//19/50",
+                "Pending",
+                "Under_Repair"
+            ],
+            [
+                "Allianz_Arena",
+                "Munich_Germany",
+                "--7",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

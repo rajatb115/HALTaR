@@ -1,0 +1,37 @@
+{
+    "table-585-585": {
+        "title": [
+            "User",
+            "Comment"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "User Comments on a Specific Post",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write all the comments left by users who edited the post titled 'Why square the difference instead of taking the absolute value in standard deviation?'",
+        "data": [
+            [
+                "User A",
+                "\"Good explanation about the differentiability issue.\""
+            ],
+            [
+                "User B",
+                "\"I still don't understand the part about the derivatives.\""
+            ],
+            [
+                "User C",
+                "\"This helped me understand why absolute value is not used.\""
+            ],
+            [
+                "User D",
+                "\"Thanks for the detailed explanation!\""
+            ],
+            [
+                "User E",
+                "\"Could you provide more examples?\""
+            ]
+        ]
+    }
+}

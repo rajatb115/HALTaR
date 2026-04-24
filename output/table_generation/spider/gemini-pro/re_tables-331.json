@@ -1,0 +1,49 @@
+{
+    "table-331-331": {
+        "title": [
+            "Transcript Name",
+            "Release Date",
+            "Source",
+            "Notes"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Recent Transcript Releases",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When was the last transcript released?",
+        "data": [
+            [
+                "Transcript A",
+                "2024-01-15",
+                "Example Source 1",
+                "Initial Release"
+            ],
+            [
+                "Transcript B",
+                "2023-12-20",
+                "Example Source 2",
+                "Publicly Available"
+            ],
+            [
+                "Transcript C",
+                "2023-11-01",
+                "Example Source 3",
+                "Redacted Version"
+            ],
+            [
+                "Transcript D",
+                "2023-10-27",
+                "Example Source 1",
+                "Preliminary Draft"
+            ],
+            [
+                "Transcript E",
+                "2023-09-18",
+                "Example Source 2",
+                "Final Version"
+            ]
+        ]
+    }
+}

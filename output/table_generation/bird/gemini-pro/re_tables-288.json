@@ -1,0 +1,43 @@
+{
+    "table-288-288": {
+        "title": [
+            "Compound",
+            "Contains TR047",
+            "Forms Double Bond"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Chemical Compound Properties",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all chemical compounds that contain molecule TR047, identify the percent that form a double-bond.",
+        "data": [
+            [
+                "Compound A",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Compound B",
+                "Yes",
+                "No"
+            ],
+            [
+                "Compound C",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Compound D",
+                "No",
+                "Yes"
+            ],
+            [
+                "Compound E",
+                "Yes",
+                "No"
+            ]
+        ]
+    }
+}

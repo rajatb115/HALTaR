@@ -1,0 +1,73 @@
+{
+    "table-1225-1225": {
+        "title": [
+            "Patient_ID",
+            "Sex",
+            "Birthday",
+            "Total_Bilirubin_mg_dL",
+            "Status",
+            "Admission_Date",
+            "Discharge_Date",
+            "Ward_Code"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the highest total bilirubin level recorded? List out the patient details with ID, sex and birthday with that index.",
+        "data": [
+            [
+                "P748291",
+                "Male",
+                "6/12/1954",
+                "4.8",
+                "Critical",
+                "3/15/2023",
+                "5/02/23",
+                "ICU-A"
+            ],
+            [
+                "P921045",
+                "Female",
+                "9/22/1968",
+                "0.9",
+                "Stable",
+                "7/10/2024",
+                "N/A",
+                "Med-B"
+            ],
+            [
+                "P334102",
+                "Male",
+                "8/05/1899",
+                "2.1",
+                "Moderate",
+                "1/21/2017",
+                "N/A",
+                "Obs-C"
+            ],
+            [
+                "P556781",
+                "Female",
+                "11/30/2014",
+                "3.5",
+                "High",
+                "",
+                "",
+                "Lab-D"
+            ],
+            [
+                "P112233",
+                "Male",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

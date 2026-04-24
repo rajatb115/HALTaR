@@ -1,0 +1,55 @@
+{
+    "table-842-842": {
+        "title": [
+            "Superhero ID",
+            "Superhero Name",
+            "Weight (lbs)",
+            "Race/Ethnicity"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the weight and race of the superhero with superhero ID 40.",
+        "data": [
+            [
+                "12",
+                "Superman",
+                "225",
+                "Kryptonian"
+            ],
+            [
+                "23",
+                "Black Panther",
+                "200",
+                "African"
+            ],
+            [
+                "40",
+                "Spider-Man",
+                "167",
+                "Caucasian"
+            ],
+            [
+                "55",
+                "Captain Marvel",
+                "120",
+                "Caucasian"
+            ],
+            [
+                "78",
+                "Wonder Woman",
+                "130",
+                "Amazonian"
+            ],
+            [
+                "91",
+                "The Flash",
+                "195",
+                "Caucasian"
+            ]
+        ]
+    }
+}

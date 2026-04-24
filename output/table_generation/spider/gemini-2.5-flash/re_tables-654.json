@@ -1,0 +1,61 @@
+{
+    "table-654-654": {
+        "title": [
+            "Singer Name",
+            "Birth Year",
+            "Citizenship",
+            "Primary Genre"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the citizenship shared by singers with birth year before 1945 and after 1955.",
+        "data": [
+            [
+                "Frank Sinatra",
+                "1915",
+                "United States",
+                "Traditional Pop"
+            ],
+            [
+                "Elvis Presley",
+                "1935",
+                "United States",
+                "Rock and Roll"
+            ],
+            [
+                "Aretha Franklin",
+                "1942",
+                "United States",
+                "Soul"
+            ],
+            [
+                "Madonna",
+                "1958",
+                "United States",
+                "Pop"
+            ],
+            [
+                "Michael Jackson",
+                "1958",
+                "United States",
+                "Pop"
+            ],
+            [
+                "Whitney Houston",
+                "1963",
+                "United States",
+                "R&B"
+            ],
+            [
+                "Adele",
+                "1988",
+                "United Kingdom",
+                "Pop Soul"
+            ]
+        ]
+    }
+}

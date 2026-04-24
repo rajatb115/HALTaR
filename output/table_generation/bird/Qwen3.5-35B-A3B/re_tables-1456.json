@@ -1,0 +1,55 @@
+{
+    "table-1456-1456": {
+        "title": [
+            "Budget Category",
+            "Water Cost ($)",
+            "Chips Cost ($)",
+            "Cookies Cost ($)",
+            "Total Snack Spend ($)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which budget allowed the most money for water, chips, and cookies?",
+        "data": [
+            [
+                "Event Planning Team",
+                "45.00",
+                "62.50",
+                "",
+                "107.50"
+            ],
+            [
+                "Corporate Retreat Fund",
+                "38.00",
+                "",
+                "",
+                "38.00"
+            ],
+            [
+                "Community Fair Grant",
+                "107.20",
+                "78.50",
+                "59.80",
+                "242.30"
+            ],
+            [
+                "School Picnic Committee",
+                "0.00",
+                "",
+                "",
+                "0.00"
+            ],
+            [
+                "Birthday Party Allocation",
+                "88.80",
+                "90.60",
+                "210.00",
+                ""
+            ]
+        ]
+    }
+}

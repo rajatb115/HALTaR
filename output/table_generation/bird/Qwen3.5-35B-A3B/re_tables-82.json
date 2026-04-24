@@ -1,0 +1,69 @@
+{
+    "table-82-82": {
+        "title": [
+            "School Name",
+            "City",
+            "State",
+            "Latitude",
+            "Lowest Grade"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which city can you find the school in the state of California with the lowest latitude coordinates and what is its lowest grade? Indicate the school name.",
+        "data": [
+            [
+                "South Bay Academy",
+                "San Diego",
+                "CA",
+                "32.7157",
+                "Kindergarten"
+            ],
+            [
+                "Pacific Coast Prep",
+                "La Jolla",
+                "CA",
+                "36.4231",
+                "First Grade"
+            ],
+            [
+                "Golden Gate Elementary",
+                "Los Angeles",
+                "CA",
+                "29.8456",
+                "Pre-K"
+            ],
+            [
+                "Desert View High",
+                "Palm Springs",
+                "CA",
+                "33.8203",
+                "Ninth Grade"
+            ],
+            [
+                "Coastal Learning Center",
+                "Santa Barbara",
+                "CA",
+                "",
+                "Second Grade"
+            ],
+            [
+                "Valley Oak Middle",
+                "Fresno",
+                "CA",
+                "",
+                "Sixth Grade"
+            ],
+            [
+                "Sunset Ridge K-8",
+                "Riverside",
+                "CA",
+                "",
+                "Third Grade"
+            ]
+        ]
+    }
+}

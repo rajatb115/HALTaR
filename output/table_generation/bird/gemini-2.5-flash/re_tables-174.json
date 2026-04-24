@@ -1,0 +1,69 @@
+{
+    "table-174-174": {
+        "title": [
+            "Account ID",
+            "Event Type",
+            "Amount (USD)",
+            "Purpose/Description",
+            "Frequency/Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How often does account number 3 request an account statement to be released? What was the aim of debiting 3539 in total?",
+        "data": [
+            [
+                "3",
+                "Statement Request",
+                "N/A",
+                "Monthly Statement",
+                "Monthly"
+            ],
+            [
+                "3",
+                "Statement Request",
+                "N/A",
+                "Ad-hoc Statement",
+                "2023-11-15"
+            ],
+            [
+                "3",
+                "Debit",
+                "1500.00",
+                "Rent Payment",
+                "2023-11-01"
+            ],
+            [
+                "3",
+                "Debit",
+                "2039.00",
+                "Car Loan Installment",
+                "2023-11-05"
+            ],
+            [
+                "3",
+                "Credit",
+                "4500.00",
+                "Salary Deposit",
+                "2023-11-10"
+            ],
+            [
+                "101",
+                "Statement Request",
+                "N/A",
+                "Quarterly Statement",
+                "Quarterly"
+            ],
+            [
+                "205",
+                "Debit",
+                "50.00",
+                "Subscription Fee",
+                "2023-11-20"
+            ]
+        ]
+    }
+}

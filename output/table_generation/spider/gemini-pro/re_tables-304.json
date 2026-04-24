@@ -1,0 +1,37 @@
+{
+    "table-304-304": {
+        "title": [
+            "Section Name",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Section Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names and descriptions of all the sections?",
+        "data": [
+            [
+                "Introduction",
+                "Provides an overview of the topic."
+            ],
+            [
+                "Background",
+                "Covers the relevant history and context."
+            ],
+            [
+                "Methods",
+                "Explains the methodology used."
+            ],
+            [
+                "Results",
+                "Presents the findings of the study."
+            ],
+            [
+                "Conclusion",
+                ""
+            ]
+        ]
+    }
+}

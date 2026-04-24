@@ -1,0 +1,61 @@
+{
+    "table-57-57": {
+        "title": [
+            "School ID",
+            "Mailing State",
+            "City",
+            "Status",
+            "Enrollment Count",
+            "Accreditation Body"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of all the schools with a mailing state address in California, how many are active in San Joaquin?",
+        "data": [
+            [
+                "CA-SJQ-004",
+                "California",
+                "Stockton",
+                "Active",
+                "450",
+                "WASC Senior College Commission"
+            ],
+            [
+                "CA-SJX-012",
+                "California",
+                "Tracy",
+                "Inactive",
+                "N/A",
+                "Western Association Schools Colleges"
+            ],
+            [
+                "CA-TUO-089",
+                "California",
+                "Manteca",
+                "Active",
+                "670",
+                "WASC Senior College Commission"
+            ],
+            [
+                "CA-LIV-033",
+                "California",
+                "Lodi",
+                "Active",
+                "320",
+                "Western Association Schools Colleges"
+            ],
+            [
+                "CA-MOD-056",
+                "California",
+                "Ripon",
+                "Inactive",
+                "N/A",
+                "WASC Senior College Commission"
+            ]
+        ]
+    }
+}

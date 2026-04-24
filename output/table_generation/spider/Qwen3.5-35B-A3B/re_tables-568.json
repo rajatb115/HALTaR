@@ -1,0 +1,67 @@
+{
+    "table-568-568": {
+        "title": [
+            "Student_ID",
+            "Full_Name",
+            "Has_Friends",
+            "Is_Liked_By_Others",
+            "Friend_Count",
+            "Liked_By_Count",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show name of all students who have some friends and also are liked by someone else.",
+        "data": [
+            [
+                "S004",
+                "Alice Johnson",
+                "Yes",
+                "Yes",
+                "3",
+                "5",
+                "Active"
+            ],
+            [
+                "S107",
+                "Brian Smith",
+                "No",
+                "Yes",
+                "null",
+                "4",
+                "Inactive"
+            ],
+            [
+                "S215",
+                "Clara Davis",
+                "Yes",
+                "null",
+                "6",
+                "0",
+                "Pending"
+            ],
+            [
+                "S302",
+                "David Lee",
+                "Yes",
+                "Yes",
+                "8",
+                "3",
+                "Active"
+            ],
+            [
+                "S419",
+                "Emma Wilson",
+                "Yes",
+                "No",
+                "7",
+                "9",
+                "Active"
+            ]
+        ]
+    }
+}

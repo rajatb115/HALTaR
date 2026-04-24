@@ -1,0 +1,45 @@
+{
+    "table-556-556": {
+        "title": [
+            "Student ID",
+            "First Name",
+            "Last Name",
+            "Grade Level",
+            "School District",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the names of all high schoolers in grade 10.",
+        "data": [
+            [
+                "HS10042",
+                "Liam",
+                "Johnson",
+                "9",
+                "Northside High",
+                "Active"
+            ],
+            [
+                "HS10156",
+                "Emma",
+                "Davis",
+                "8",
+                "Westview Academy",
+                "Inactive"
+            ],
+            [
+                "HS20331",
+                "Noah",
+                "Smith",
+                "7",
+                "Eastgate Prep",
+                "Active"
+            ]
+        ]
+    }
+}

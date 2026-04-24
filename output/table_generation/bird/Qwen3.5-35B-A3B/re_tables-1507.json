@@ -1,0 +1,61 @@
+{
+    "table-1507-1507": {
+        "title": [
+            "Transaction ID",
+            "Location",
+            "Product Description",
+            "Quantity",
+            "Unit Price CZK",
+            "Total Amount CZK"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the product descriptions of the transactions taken place in the gas stations in the Czech Republic.",
+        "data": [
+            [
+                "TXN-CZ-40021",
+                "Prague Gas Station Alpha",
+                "Premium Unleaded Petrol 95 Octane",
+                "45.2 Liters",
+                "36.50",
+                "750.00"
+            ],
+            [
+                "CXN-CJ-41055",
+                "Brno Fuel Point Beta",
+                "Diesel Euro V Standard Grade",
+                "60.8 Liters / 32.0 kg",
+                "0.35 per Liter",
+                "840.55"
+            ],
+            [
+                "TRX-CS-42109",
+                "Ostrava Energy Hub Gamma",
+                "AdBlue Urea Solution for SCR Systems",
+                "5.0 Units",
+                "98.0",
+                "N/A"
+            ],
+            [
+                "TKN-ZC-43221",
+                "Liberec Stop & Go Delta",
+                "Super Plus 99 Octane High Performance",
+                "38.5 Liters / 28.2 kg",
+                "",
+                ""
+            ],
+            [
+                "FUE-LP-44332",
+                "Plzen Quick Fill Epsilon",
+                "Regular Unleaved Petrol",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

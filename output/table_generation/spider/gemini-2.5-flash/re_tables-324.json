@@ -1,0 +1,61 @@
+{
+    "table-324-324": {
+        "title": [
+            "First Name",
+            "Permanent Address",
+            "Current Address",
+            "Address Mismatch"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Whose permanent address is different from his or her current address? List his or her first name.",
+        "data": [
+            [
+                "John",
+                "123 Main St, Anytown",
+                "456 Oak Ave, Othercity",
+                "Yes"
+            ],
+            [
+                "Sarah",
+                "789 Pine Ln, Hometown",
+                "789 Pine Ln, Hometown",
+                "No"
+            ],
+            [
+                "Emily",
+                "101 Elm Rd, Oldville",
+                "202 Maple Dr, Newburg",
+                "Yes"
+            ],
+            [
+                "David",
+                "303 Birch Ct, Suburbia",
+                "303 Birch Ct, Suburbia",
+                "No"
+            ],
+            [
+                "Maria",
+                "505 Cedar Blvd, Metro",
+                "606 Willow Pk, Cityville",
+                "Yes"
+            ],
+            [
+                "Alex",
+                "707 Spruce Way, Village",
+                "808 Poplar St, Townsville",
+                "Yes"
+            ],
+            [
+                "Jessica",
+                "909 Aspen Dr, Countryside",
+                "909 Aspen Dr, Countryside",
+                "No"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-1266-1266": {
+        "title": [
+            "Patient ID",
+            "Anti-Ribonuclear Protein Level",
+            "Hospital Admission Status",
+            "Admit Date",
+            "Discharge Date",
+            "Ward",
+            "Diagnosis Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients have a normal level of anti-ribonuclear protein and have been admitted to the hospital?",
+        "data": [
+            [
+                "P-1042",
+                "Normal",
+                "Yes",
+                "06/15/2023",
+                "6/22/21",
+                "General Medicine",
+                "M79.3"
+            ],
+            [
+                "P-1105",
+                "Normal",
+                "Yes",
+                "07/01/23",
+                "08/05/07",
+                "General Surgery",
+                "M79."
+            ],
+            [
+                "P-ZZ99",
+                "Normal",
+                "No",
+                "N/A",
+                "N/a",
+                "Outpatient",
+                "M70.0"
+            ],
+            [
+                "P-A22B",
+                "Elevated",
+                "Yes",
+                "",
+                "",
+                "ICU",
+                "R60.9"
+            ],
+            [
+                "C-33X1",
+                "Normal",
+                "",
+                "",
+                "Cardiology",
+                "I10",
+                ""
+            ]
+        ]
+    }
+}

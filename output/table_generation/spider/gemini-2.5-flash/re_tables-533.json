@@ -1,0 +1,69 @@
+{
+    "table-533-533": {
+        "title": [
+            "Show Name",
+            "Date",
+            "Venue",
+            "Attendance",
+            "Capacity"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the average attendance across all shows.",
+        "data": [
+            [
+                "The Grand Illusion",
+                "2023-10-26",
+                "City Arena",
+                "12500",
+                "15000"
+            ],
+            [
+                "Midnight Serenade",
+                "2023-11-01",
+                "Opera House",
+                "850",
+                "1000"
+            ],
+            [
+                "Comedy Night Live",
+                "2023-11-05",
+                "Laugh Factory",
+                "280",
+                "300"
+            ],
+            [
+                "Rock Legends Tour",
+                "2023-10-29",
+                "Stadium Park",
+                "45000",
+                "50000"
+            ],
+            [
+                "Ballet Gala",
+                "2023-11-03",
+                "Grand Theater",
+                "1800",
+                "2000"
+            ],
+            [
+                "Kids' Magic Show",
+                "2023-11-04",
+                "Community Hall",
+                "150",
+                "200"
+            ],
+            [
+                "Jazz Fusion Fest",
+                "2023-11-02",
+                "Riverside Club",
+                "400",
+                "500"
+            ]
+        ]
+    }
+}

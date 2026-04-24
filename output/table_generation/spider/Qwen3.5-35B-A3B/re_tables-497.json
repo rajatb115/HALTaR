@@ -1,0 +1,49 @@
+{
+    "table-497-497": {
+        "title": [
+            "Country Code",
+            "Primary Language",
+            "Government Form",
+            "Region",
+            "Population Estimate",
+            "Capital City",
+            "Official Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the codes of countries that do not speak English and do not have Republics for governments.",
+        "data": [
+            [
+                "CH",
+                "German/French/Italian",
+                "Federal Republic",
+                "Europe",
+                "8764000",
+                "Bern",
+                "Non-republican Monarchy"
+            ],
+            [
+                "JP",
+                "Japanese",
+                "Constitutional Monarchy",
+                "Asia",
+                "125800",
+                "Tokyo",
+                "Imperial State"
+            ],
+            [
+                "SA",
+                "Arabic",
+                "Absolute Monarchy",
+                "Asia",
+                "3300",
+                "Riyadh",
+                "Kingdom"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-101-101": {
+        "title": [
+            "Make ID",
+            "Car Model",
+            "Horsepower",
+            "Cylinder Count",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the cars that do not have the minimum horsepower , what are the make ids and names of all those with less than 4 cylinders ?",
+        "data": [
+            [
+                "MKT_007",
+                "Compact Sedan",
+                "65",
+                "3",
+                "Below Min HP & Low Cyls"
+            ],
+            [
+                "MKT_012",
+                "Urban Hatchback",
+                "58",
+                "4",
+                "Below Max HP Threshold"
+            ],
+            [
+                "MKT_104",
+                "City Runner",
+                "72",
+                "0",
+                "Invalid Data Entry"
+            ],
+            [
+                "Mkt_209",
+                "Micro EV",
+                "85",
+                "-1",
+                "Negative Cylinder Error"
+            ],
+            [
+                "MKX_331",
+                "Budget Coupe",
+                "90",
+                "",
+                "Missing Value Record"
+            ],
+            [
+                "MKS_445",
+                "Economy Wagon",
+                "45",
+                "N/A",
+                "Incomplete Specification"
+            ],
+            [
+                "MKA_556",
+                "Small SUV",
+                "",
+                "None",
+                "Null Values Present"
+            ]
+        ]
+    }
+}

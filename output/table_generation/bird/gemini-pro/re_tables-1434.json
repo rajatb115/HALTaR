@@ -1,0 +1,43 @@
+{
+    "table-1434-1434": {
+        "title": [
+            "Country",
+            "Post Office Box Postal Code System",
+            "Notes"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Countries with Post Office Box Postal Code Systems",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which countries have zip codes with post office boxes?",
+        "data": [
+            [
+                "Andorra",
+                "Yes",
+                "Uses a dedicated format for PO Boxes."
+            ],
+            [
+                "Australia",
+                "Yes",
+                "PO Boxes have unique postal codes."
+            ],
+            [
+                "Canada",
+                "Yes",
+                "PO Boxes have unique postal codes."
+            ],
+            [
+                "Ireland",
+                "Yes",
+                "An Post operates a PO Box service."
+            ],
+            [
+                "United States",
+                "Yes",
+                "PO Boxes use standard ZIP codes."
+            ]
+        ]
+    }
+}

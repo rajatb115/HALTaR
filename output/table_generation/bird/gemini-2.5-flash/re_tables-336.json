@@ -1,0 +1,37 @@
+{
+    "table-336-336": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Total Oxygen Atoms",
+            "Double Bonded Oxygen Count",
+            "Molecular Weight (g/mol)",
+            "Common Application"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total number of molecules with double bonded oxygen?",
+        "data": [
+            [
+                "Carbon Dioxide",
+                "CO2",
+                "2",
+                "2",
+                "44.01",
+                "Photosynthesis, Fire Extinguisher"
+            ],
+            [
+                "Acetone",
+                "C3H6O",
+                "1",
+                "1",
+                "",
+                ""
+            ]
+        ]
+    }
+}

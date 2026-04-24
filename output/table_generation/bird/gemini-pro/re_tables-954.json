@@ -1,0 +1,52 @@
+{
+    "table-954-954": {
+        "title": [
+            "Constructor",
+            "Nationality",
+            "Total Laps",
+            "Laps Over 50"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "French Constructor Lap Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many French constructors have a lap number of over 50?",
+        "data": [
+            [
+                "Alpine",
+                "French",
+                "1200",
+                "800"
+            ],
+            [
+                "Ligier",
+                "French",
+                "800",
+                "300"
+            ],
+            [
+                "Renault",
+                "French",
+                "1500",
+                "900"
+            ],
+            [
+                "AGS",
+                "French",
+                "400",
+                "100"
+            ],
+            [
+                "Larrousse",
+                "French",
+                "600",
+                "200"
+            ]
+        ]
+    }
+}

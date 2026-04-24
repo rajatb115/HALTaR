@@ -1,0 +1,69 @@
+{
+    "table-285-285": {
+        "title": [
+            "Element",
+            "Symbol",
+            "Group",
+            "Common Compound",
+            "Bond Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Determine the bond type that is formed in the chemical compound containing element Tellurium.",
+        "data": [
+            [
+                "Tellurium",
+                "Te",
+                "16",
+                "TeO2",
+                "Covalent"
+            ],
+            [
+                "Tellurium",
+                "Te",
+                "16",
+                "H2Te",
+                "Covalent"
+            ],
+            [
+                "Tellurium",
+                "Te",
+                "16",
+                "MgTe",
+                "Ionic"
+            ],
+            [
+                "Sulfur",
+                "S",
+                "16",
+                "H2S",
+                "Covalent"
+            ],
+            [
+                "Oxygen",
+                "O",
+                "16",
+                "H2O",
+                "Covalent"
+            ],
+            [
+                "Selenium",
+                "Se",
+                "16",
+                "H2Se",
+                "Covalent"
+            ],
+            [
+                "Sodium",
+                "Na",
+                "1",
+                "NaCl",
+                "Ionic"
+            ]
+        ]
+    }
+}

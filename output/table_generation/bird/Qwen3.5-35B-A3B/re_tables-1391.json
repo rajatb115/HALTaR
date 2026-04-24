@@ -1,0 +1,48 @@
+{
+    "table-1391-1391": {
+        "title": [
+            "Event Category",
+            "Total Cost ($)",
+            "Percentage Share (%)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Based on the total cost for all event, what is the percentage of cost for Yearly Kickoff event?",
+        "data": [
+            [
+                "Yearly Kickoff",
+                "$45,000",
+                "67.16%"
+            ],
+            [
+                "Quarterly Review",
+                "$12,050",
+                "17.96%"
+            ],
+            [
+                "Monthly Workshop",
+                "$6,205",
+                "9.24%"
+            ],
+            [
+                "Annual Retreat",
+                "$2,100",
+                "3.13%"
+            ],
+            [
+                "Ad-hoc Training",
+                "$545",
+                "<1%"
+            ],
+            [
+                "Total Aggregated",
+                "$75,900",
+                "101.49%"
+            ]
+        ]
+    }
+}

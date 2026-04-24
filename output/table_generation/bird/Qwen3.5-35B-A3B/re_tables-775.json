@@ -1,0 +1,62 @@
+{
+    "table-775-775": {
+        "title": [
+            "Superhero Name",
+            "Group Affiliation",
+            "First Appearance",
+            "Status",
+            "Universe"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which group does superhero A-Bomb belong to?",
+        "data": [
+            [
+                "A-Bomb",
+                "Avengers",
+                "Hulk #476",
+                "Active",
+                "Marvel Comics"
+            ],
+            [
+                "Hulk",
+                "Avengers Incarnate",
+                "Incredible Hulk #1",
+                "Retired",
+                "Marvel Universe"
+            ],
+            [
+                "She-Hulk",
+                "Fantastic Four",
+                "Savage She-Hulk #10",
+                "Active",
+                "Earth-616"
+            ],
+            [
+                "Red Hulk",
+                "Thunderbolts",
+                "World War Hulk #5",
+                "Deceased",
+                "Mainstream Continuity"
+            ],
+            [
+                "Namor",
+                "Defenders",
+                "Sub-Mariner Comics #1",
+                "Active",
+                "Multiverse"
+            ],
+            [
+                "Iron Man",
+                "S.H.I.E.L.D.",
+                "Tales of Suspense #39",
+                "Inactive",
+                "Prime Reality"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-1259-1259": {
+        "title": [
+            "Patient ID",
+            "Rheumatoid Factor",
+            "Coagulation Status",
+            "Test Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal Rhuematoid Factor has a positive measure of degree of coagulation?",
+        "data": [
+            [
+                "P-001",
+                "Normal",
+                "Positive",
+                "2023-10-26"
+            ],
+            [
+                "P-002",
+                "Elevated",
+                "Negative",
+                "2023-10-25"
+            ],
+            [
+                "P-003",
+                "Normal",
+                "Negative",
+                "2023-10-26"
+            ],
+            [
+                "P-004",
+                "Normal",
+                "Positive",
+                "2023-10-27"
+            ],
+            [
+                "P-005",
+                "Low",
+                "Positive",
+                "2023-10-28"
+            ],
+            [
+                "P-006",
+                "Normal",
+                "Indeterminate",
+                "2023-10-28"
+            ],
+            [
+                "P-007",
+                "Elevated",
+                "Positive",
+                "2023-10-29"
+            ]
+        ]
+    }
+}

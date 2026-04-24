@@ -1,0 +1,55 @@
+{
+    "table-236-236": {
+        "title": [
+            "Museum Name",
+            "Location",
+            "Opening Date",
+            "Visitor Count",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of the museum that had no visitor yet?",
+        "data": [
+            [
+                "The Silent Vault Museum",
+                "Oslo, Norway",
+                "2024-06-15",
+                "0",
+                "Open but Unvisited"
+            ],
+            [
+                "Royal Archives Annex",
+                "London, UK",
+                "27 May 27",
+                "0",
+                ""
+            ],
+            [
+                "Subterranean History Hall",
+                "Kyoto, Japan",
+                "28 June 28",
+                "0",
+                ""
+            ],
+            [
+                "Future Art Gallery",
+                "Berlin, Germany",
+                "29 July 29",
+                "0",
+                "null"
+            ],
+            [
+                "Mystery Box Exhibit",
+                "New York, USA",
+                "30 August 30",
+                "0null",
+                ""
+            ]
+        ]
+    }
+}

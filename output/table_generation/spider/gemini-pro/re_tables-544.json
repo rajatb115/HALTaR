@@ -1,0 +1,45 @@
+{
+    "table-544-544": {
+        "title": [
+            "Conductor Name",
+            "Orchestra Name",
+            "Founding Year"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Conductors and Orchestras",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please show the name of the conductor that has conducted orchestras founded after 2008.",
+        "data": [
+            [
+                "John Smith",
+                "New Symphony",
+                "2010"
+            ],
+            [
+                "Jane Doe",
+                "City Philharmonic",
+                "2012"
+            ],
+            [
+                "David Lee",
+                "Metro Orchestra",
+                "2009"
+            ],
+            [
+                "Emily Wilson",
+                "Modern Ensemble",
+                "2015"
+            ],
+            [
+                "Robert Brown",
+                "Capital Virtuosi",
+                "2011"
+            ]
+        ]
+    }
+}

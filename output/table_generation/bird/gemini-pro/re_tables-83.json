@@ -1,0 +1,43 @@
+{
+    "table-83-83": {
+        "title": [
+            "School Name",
+            "Longitude",
+            "Grade Span"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "School Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the grade span offered in the school with the highest longitude?",
+        "data": [
+            [
+                "School A",
+                "-73.98",
+                "9-12"
+            ],
+            [
+                "School B",
+                "-73.92",
+                "6-8"
+            ],
+            [
+                "School C",
+                "-74.00",
+                "K-5"
+            ],
+            [
+                "School D",
+                "-73.85",
+                "9-12"
+            ],
+            [
+                "School E",
+                "-73.99",
+                "K-12"
+            ]
+        ]
+    }
+}

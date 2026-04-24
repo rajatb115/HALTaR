@@ -1,0 +1,67 @@
+{
+    "table-304-304": {
+        "title": [
+            "Compound ID",
+            "Double Bonds Count",
+            "Carcinogenic Status",
+            "Source Material",
+            "CAS Number",
+            "Molecular Weight",
+            "Safety Rating"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many double bonds does TR006 have and is it carcinogenic?",
+        "data": [
+            [
+                "TR004",
+                "3",
+                "No",
+                "Synthetic Polymer",
+                "N/A",
+                "450 g/mol",
+                "Low Risk"
+            ],
+            [
+                "TR102",
+                "5",
+                "Yes",
+                "Industrial Solvent",
+                "78-93-3",
+                "890 g/mL",
+                "High Hazard"
+            ],
+            [
+                "**TR015**",
+                "**2**",
+                "**\"Unknown\"**",
+                "**Lab Reagent**",
+                "**-**",
+                "-",
+                "**Pending Review**"
+            ],
+            [
+                "TX990",
+                "0",
+                "No",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "TY441",
+                "6",
+                "Yes",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

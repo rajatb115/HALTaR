@@ -1,0 +1,51 @@
+{
+    "table-328-328": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Number of Atoms",
+            "Carcinogenic"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Example Non-Carcinogenic Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which non-carcinogenic molecules consisted more than 5 atoms?",
+        "data": [
+            [
+                "Water",
+                "H2O",
+                "3",
+                "No"
+            ],
+            [
+                "Ethanol",
+                "C2H5OH",
+                "9",
+                "No"
+            ],
+            [
+                "Glucose",
+                "C6H12O6",
+                "24",
+                "No"
+            ],
+            [
+                "Acetic Acid",
+                "CH3COOH",
+                "8",
+                "No"
+            ],
+            [
+                "Lactic Acid",
+                "C3H6O3",
+                "12",
+                "No"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "table-336-336": {
+        "title": [
+            "Name",
+            "ID",
+            "Major",
+            "GPA"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            3
+        ],
+        "pgTitle": "Student Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the student details in reversed lexicographical order.",
+        "data": [
+            [
+                "Xavier",
+                "108",
+                "Physics",
+                "3.8"
+            ],
+            [
+                "Wendy",
+                "102",
+                "Biology",
+                "3.9"
+            ],
+            [
+                "Tom",
+                "105",
+                "Chemistry",
+                "3.5"
+            ],
+            [
+                "Sarah",
+                "101",
+                "Math",
+                "4.0"
+            ],
+            [
+                "Peter",
+                "103",
+                "Engineering",
+                "3.7"
+            ]
+        ]
+    }
+}

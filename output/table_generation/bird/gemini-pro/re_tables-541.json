@@ -1,0 +1,45 @@
+{
+    "table-541-541": {
+        "title": [
+            "Post Title",
+            "Owner",
+            "Popularity"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Posts by User with Popularity",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the title of the post that is owned by csgillespie and has the highest popularity?",
+        "data": [
+            [
+                "Post A",
+                "csgillespie",
+                "150"
+            ],
+            [
+                "Post B",
+                "jdoe",
+                "120"
+            ],
+            [
+                "Post C",
+                "csgillespie",
+                "200"
+            ],
+            [
+                "Post D",
+                "asmith",
+                "180"
+            ],
+            [
+                "Post E",
+                "csgillespie",
+                "100"
+            ]
+        ]
+    }
+}

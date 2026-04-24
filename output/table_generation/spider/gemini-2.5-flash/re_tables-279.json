@@ -1,0 +1,77 @@
+{
+    "table-279-279": {
+        "title": [
+            "First Name",
+            "Last Name",
+            "Country Code",
+            "Birth Date",
+            "Rank Points",
+            "Match ID"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name, country code and birth date of the winner who has the highest rank points in all matches.",
+        "data": [
+            [
+                "Sarah",
+                "Chen",
+                "CHN",
+                "1992-07-10",
+                "3100",
+                "M104"
+            ],
+            [
+                "John",
+                "Doe",
+                "USA",
+                "1990-05-15",
+                "2500",
+                "M101"
+            ],
+            [
+                "Maria",
+                "Garcia",
+                "ESP",
+                "1988-11-22",
+                "2800",
+                "M102"
+            ],
+            [
+                "David",
+                "Lee",
+                "KOR",
+                "1995-03-01",
+                "2200",
+                "M103"
+            ],
+            [
+                "Alex",
+                "Smith",
+                "GBR",
+                "1985-01-20",
+                "2950",
+                "M105"
+            ],
+            [
+                "Emily",
+                "Jones",
+                "AUS",
+                "1998-09-05",
+                "2700",
+                "M106"
+            ],
+            [
+                "Robert",
+                "Brown",
+                "CAN",
+                "1991-04-12",
+                "3050",
+                "M107"
+            ]
+        ]
+    }
+}

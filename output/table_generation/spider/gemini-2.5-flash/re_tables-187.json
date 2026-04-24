@@ -1,0 +1,61 @@
+{
+    "table-187-187": {
+        "title": [
+            "Document Name",
+            "Template Name",
+            "Template Type Code",
+            "Template Description"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the template type code of the template that is used by a document named Data base.",
+        "data": [
+            [
+                "Data base",
+                "Standard Report",
+                "RPT001",
+                "General purpose report template"
+            ],
+            [
+                "Financial Summary",
+                "Quarterly Financials",
+                "FIN003",
+                "Financial summary for Q3"
+            ],
+            [
+                "Project Plan",
+                "Agile Project Template",
+                "PRJ002",
+                "Scrum project planning"
+            ],
+            [
+                "Marketing Campaign",
+                "Email Blast Template",
+                "MKT005",
+                "Promotional email campaign"
+            ],
+            [
+                "User Manual",
+                "Product Documentation",
+                "DOC001",
+                "Technical user guide"
+            ],
+            [
+                "Data base",
+                "Data Entry Form",
+                "FRM001",
+                "Data input and storage form"
+            ],
+            [
+                "Sales Forecast",
+                "Annual Sales Projection",
+                "SLS004",
+                "Yearly sales prediction"
+            ]
+        ]
+    }
+}

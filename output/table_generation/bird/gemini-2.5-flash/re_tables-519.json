@@ -1,0 +1,69 @@
+{
+    "table-519-519": {
+        "title": [
+            "Play Format",
+            "Card Name",
+            "Status",
+            "Date of Change",
+            "Reason Category"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which of the play formats has the highest number of banned status? Indicate the play format and the name of the card.",
+        "data": [
+            [
+                "Modern",
+                "Oko, Thief of Crowns",
+                "Banned",
+                "2019-12-16",
+                "Power Level"
+            ],
+            [
+                "Pioneer",
+                "Uro, Titan of Nature's Wrath",
+                "Banned",
+                "2021-02-15",
+                "Power Level"
+            ],
+            [
+                "Legacy",
+                "Deathrite Shaman",
+                "Banned",
+                "2018-07-06",
+                "Power Level"
+            ],
+            [
+                "Commander",
+                "Flash",
+                "Banned",
+                "2020-06-08",
+                "Combo Potential"
+            ],
+            [
+                "Modern",
+                "Hogaak, Arisen Necropolis",
+                "Banned",
+                "2019-08-26",
+                "Deck Dominance"
+            ],
+            [
+                "Standard",
+                "Field of the Dead",
+                "Banned",
+                "2019-10-21",
+                "Deck Dominance"
+            ],
+            [
+                "Vintage",
+                "Mox Opal",
+                "Restricted",
+                "2020-01-20",
+                "Power Level"
+            ]
+        ]
+    }
+}

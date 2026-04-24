@@ -1,0 +1,77 @@
+{
+    "table-94-94": {
+        "title": [
+            "CustomerID",
+            "Gender",
+            "Region",
+            "Salary (CZK)",
+            "Age",
+            "Marital Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male customers who are living in North Bohemia have average salary greater than 8000?",
+        "data": [
+            [
+                "1001",
+                "Male",
+                "North Bohemia",
+                "9500",
+                "45",
+                "Married"
+            ],
+            [
+                "1002",
+                "Female",
+                "North Bohemia",
+                "10200",
+                "38",
+                "Single"
+            ],
+            [
+                "1003",
+                "Male",
+                "South Bohemia",
+                "8200",
+                "52",
+                "Divorced"
+            ],
+            [
+                "1004",
+                "Male",
+                "North Bohemia",
+                "7800",
+                "30",
+                "Married"
+            ],
+            [
+                "1005",
+                "Male",
+                "North Bohemia",
+                "11000",
+                "55",
+                "Married"
+            ],
+            [
+                "1006",
+                "Female",
+                "Central Bohemia",
+                "9000",
+                "29",
+                "Single"
+            ],
+            [
+                "1007",
+                "Male",
+                "North Bohemia",
+                "8500",
+                "40",
+                "Single"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "table-178-178": {
+        "title": [
+            "Client Number",
+            "Transaction ID",
+            "Account Sum",
+            "Owner Gender"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Client Account Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the sum that client number 4's account has following transaction 851? Who owns this account, a man or a woman?",
+        "data": [
+            [
+                "4",
+                "851",
+                "\\$12,500",
+                "Male"
+            ],
+            [
+                "4",
+                "850",
+                "\\$10,000",
+                "Male"
+            ],
+            [
+                "4",
+                "849",
+                "\\$15,000",
+                "Male"
+            ],
+            [
+                "5",
+                "852",
+                "\\$20,000",
+                "Female"
+            ],
+            [
+                "5",
+                "853",
+                "\\$25,000",
+                "Female"
+            ]
+        ]
+    }
+}

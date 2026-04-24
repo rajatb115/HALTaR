@@ -1,0 +1,39 @@
+{
+    "table-1039-1039": {
+        "title": [
+            "League",
+            "Total Goals"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Top Football Leagues by Total Goals",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the top 5 leagues in ascending order of the number of goals made in all seasons combined.",
+        "data": [
+            [
+                "League 5",
+                "15000"
+            ],
+            [
+                "League 4",
+                "18000"
+            ],
+            [
+                "League 3",
+                "20000"
+            ],
+            [
+                "League 2",
+                "22000"
+            ],
+            [
+                "League 1",
+                "25000"
+            ]
+        ]
+    }
+}

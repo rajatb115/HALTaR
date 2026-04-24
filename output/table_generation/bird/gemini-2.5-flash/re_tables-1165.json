@@ -1,0 +1,77 @@
+{
+    "table-1165-1165": {
+        "title": [
+            "Patient ID",
+            "Examination Year",
+            "Diagnosis",
+            "Severity Level",
+            "Gender",
+            "Age Group"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the patients with the most serious thrombosis cases examined in 1997 are women?",
+        "data": [
+            [
+                "P1001",
+                "1997",
+                "Deep Vein Thrombosis",
+                "Critical",
+                "Female",
+                "50-59"
+            ],
+            [
+                "P1002",
+                "1997",
+                "Pulmonary Embolism",
+                "Severe",
+                "Male",
+                "60-69"
+            ],
+            [
+                "P1003",
+                "1997",
+                "Cerebral Thrombosis",
+                "Critical",
+                "Female",
+                "40-49"
+            ],
+            [
+                "P1004",
+                "1997",
+                "Arterial Thrombosis",
+                "High",
+                "Male",
+                "50-59"
+            ],
+            [
+                "P1005",
+                "1997",
+                "Deep Vein Thrombosis",
+                "Severe",
+                "Female",
+                "60-69"
+            ],
+            [
+                "P1006",
+                "1998",
+                "Pulmonary Embolism",
+                "Moderate",
+                "Female",
+                "30-39"
+            ],
+            [
+                "P1007",
+                "1997",
+                "Cerebral Thrombosis",
+                "Critical",
+                "Male",
+                "70-79"
+            ]
+        ]
+    }
+}

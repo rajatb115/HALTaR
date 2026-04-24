@@ -1,0 +1,67 @@
+{
+    "table-1288-1288": {
+        "title": [
+            "Patient ID",
+            "Clinic Location",
+            "Alkaline Phosphatase Level",
+            "Status",
+            "Test Date",
+            "Age Group",
+            "Gender"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients followed at the outpatient clinic, how many of them have a normal level of alkaliphophatase?",
+        "data": [
+            [
+                "P-1042",
+                "Downtown Outpatient",
+                "Normal",
+                "Positive",
+                "7/12/2023",
+                "Adult",
+                "Male"
+            ],
+            [
+                "P-1105",
+                "Westside Branch",
+                "Elevated",
+                "Negative",
+                "8/03/2023",
+                "Child",
+                "Female"
+            ],
+            [
+                "P-1298",
+                "Main Campus",
+                "Normal",
+                "Positive",
+                "9/15/2023",
+                "Senior",
+                "Male"
+            ],
+            [
+                "P-1334",
+                "North Wing",
+                "Low",
+                "Negative",
+                "10/01/2024",
+                "Adult",
+                "Female"
+            ],
+            [
+                "P-1401",
+                "Downtown Outpatient",
+                "Normal",
+                "Positive",
+                "11/11/2025",
+                "Child",
+                "Male"
+            ]
+        ]
+    }
+}

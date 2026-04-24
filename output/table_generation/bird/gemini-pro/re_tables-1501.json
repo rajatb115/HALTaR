@@ -1,0 +1,58 @@
+{
+    "table-1501-1501": {
+        "title": [
+            "Product ID",
+            "Product Name",
+            "Product Description",
+            "Quantity Consumed",
+            "Consumption Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Product Descriptions for September 2013 Consumption",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the product description of the products consumed in September, 2013.",
+        "data": [
+            [
+                "12345",
+                "Widget A",
+                "Standard Widget, Blue",
+                "100",
+                "2013-09-05"
+            ],
+            [
+                "67890",
+                "Gadget B",
+                "Deluxe Gadget, Silver",
+                "50",
+                "2013-09-12"
+            ],
+            [
+                "24680",
+                "Thing C",
+                "Basic Thing, Black",
+                "200",
+                "2013-09-19"
+            ],
+            [
+                "13579",
+                "Widget A",
+                "Standard Widget, Blue",
+                "75",
+                "2013-09-26"
+            ],
+            [
+                "98765",
+                "Doo-dad D",
+                "Premium Doo-dad, Gold",
+                "25",
+                "2013-09-30"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-397-397": {
+        "title": [
+            "Frame Version",
+            "Availability",
+            "Sensitive Content Warning",
+            "Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Cards with Sensitive Content Warnings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards with a 1993 frame version and available on paper have a sensitive content warning?",
+        "data": [
+            [
+                "1993",
+                "Paper",
+                "Yes",
+                "15"
+            ],
+            [
+                "1993",
+                "Paper",
+                "No",
+                "235"
+            ],
+            [
+                "1993",
+                "Digital",
+                "Yes",
+                "5"
+            ],
+            [
+                "1993",
+                "Digital",
+                "No",
+                "75"
+            ],
+            [
+                "Any",
+                "Any",
+                "Any",
+                "..."
+            ]
+        ]
+    }
+}

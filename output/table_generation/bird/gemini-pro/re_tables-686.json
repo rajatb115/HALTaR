@@ -1,0 +1,51 @@
+{
+    "table-686-686": {
+        "title": [
+            "Post Title",
+            "Total Views",
+            "Last Author",
+            "Last Updated"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Post Views and Last Author",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the total views on the post 'Computer Game Datasets'. Name the user who posted it last time.",
+        "data": [
+            [
+                "Computer Game Datasets",
+                "1500",
+                "John Doe",
+                "2024-01-05 14:30:00"
+            ],
+            [
+                "Other Post 1",
+                "800",
+                "Jane Smith",
+                "2023-12-20 09:00:00"
+            ],
+            [
+                "Another Post",
+                "2200",
+                "Peter Jones",
+                "2024-01-10 18:45:00"
+            ],
+            [
+                "Example Post",
+                "500",
+                "Alice Brown",
+                "2023-11-15 11:22:00"
+            ],
+            [
+                "Sample Article",
+                "1000",
+                "John Doe",
+                "2024-01-01 10:00:00"
+            ]
+        ]
+    }
+}

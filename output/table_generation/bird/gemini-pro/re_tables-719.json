@@ -1,0 +1,43 @@
+{
+    "table-719-719": {
+        "title": [
+            "Superhero Name",
+            "Universe",
+            "Super Strength Level"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Superheroes with Super Strength",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many superheroes have the super power of \"Super Strength\"?",
+        "data": [
+            [
+                "Superman",
+                "DC Comics",
+                "God-like"
+            ],
+            [
+                "Hulk",
+                "Marvel Comics",
+                "Extreme"
+            ],
+            [
+                "Thor",
+                "Marvel Comics",
+                "Very High"
+            ],
+            [
+                "Wonder Woman",
+                "DC Comics",
+                "High"
+            ],
+            [
+                "She-Hulk",
+                "Marvel Comics",
+                "High"
+            ]
+        ]
+    }
+}

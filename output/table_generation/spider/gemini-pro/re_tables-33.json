@@ -1,0 +1,37 @@
+{
+    "table-33-33": {
+        "title": [
+            "Pet Type",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Common Types of Pets",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different types of pet are there?",
+        "data": [
+            [
+                "Dog",
+                "Loyal and active companions. Require training and exercise."
+            ],
+            [
+                "Cat",
+                "Independent and low-maintenance companions."
+            ],
+            [
+                "Bird",
+                "Social and intelligent pets. Require spacious cages."
+            ],
+            [
+                "Fish",
+                "Calming and visually appealing pets. Require tanks and filtration."
+            ],
+            [
+                "Small Mammal (e.g., hamster, guinea pig)",
+                "Relatively low-maintenance and good for small spaces."
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-716-716": {
+        "title": [
+            "Display Name",
+            "Comment Score",
+            "Downvotes"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Users with Low Downvotes and Comment Scores",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In comments with score between 1 to 5, list down the display names of the users with 0 down votes.",
+        "data": [
+            [
+                "JohnDoe123",
+                "3",
+                "0"
+            ],
+            [
+                "JaneSmith",
+                "5",
+                "0"
+            ],
+            [
+                "CodeNinja88",
+                "1",
+                "0"
+            ],
+            [
+                "ExampleUser",
+                "4",
+                "0"
+            ],
+            [
+                "TechGuru",
+                "2",
+                "0"
+            ]
+        ]
+    }
+}

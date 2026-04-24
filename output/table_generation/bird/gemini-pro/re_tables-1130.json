@@ -1,0 +1,37 @@
+{
+    "table-1130-1130": {
+        "title": [
+            "Speed Class",
+            "Long Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Speed Classifications",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down the long name for slow speed class team.",
+        "data": [
+            [
+                "Class 0",
+                "No speed requirements"
+            ],
+            [
+                "Class 2",
+                "Low speed performance"
+            ],
+            [
+                "Class 4",
+                "Medium speed performance"
+            ],
+            [
+                "Class 6",
+                "High speed performance"
+            ],
+            [
+                "Class 10",
+                "Maximum high speed performance"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-168-168": {
+        "title": [
+            "Client ID",
+            "Card Type",
+            "Issue Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Junior Credit Card Client Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the clients' IDs whose junior credit cards were issued after 1996.",
+        "data": [
+            [
+                "101",
+                "Junior",
+                "1997-03-15"
+            ],
+            [
+                "105",
+                "Junior",
+                "2001-11-02"
+            ],
+            [
+                "112",
+                "Junior",
+                "1998-07-20"
+            ],
+            [
+                "118",
+                "Junior",
+                "2005-04-10"
+            ],
+            [
+                "123",
+                "Junior",
+                "1999-12-01"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-952-952": {
+        "title": [
+            "Constructor",
+            "Nationality",
+            "Races_Contested",
+            "Total_Points",
+            "Status",
+            "Season",
+            "Driver_Count"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many Japanese constructors have 0 points in 2 races?",
+        "data": [
+            [
+                "Red Bull Racing",
+                "Japan",
+                "4",
+                "0",
+                "Active",
+                "7",
+                "6"
+            ],
+            [
+                "Honda RBPT",
+                "Japan/UK",
+                "3",
+                "5",
+                "Inactive",
+                "8",
+                "9"
+            ],
+            [
+                "Suzuki GP",
+                "Japan/Netherlands",
+                "",
+                "N/A",
+                "Disbanded",
+                "",
+                ""
+            ],
+            [
+                "Toyota F1 Team",
+                "Japan/France",
+                "0.5",
+                "Disqualified",
+                "Historical",
+                "",
+                ""
+            ],
+            [
+                "Mugen-Honda",
+                "Japan/Germany",
+                "",
+                "-",
+                "Defunct",
+                "",
+                ""
+            ],
+            [
+                "Dome Zero",
+                "Japan/Switzerland",
+                "",
+                "Pending Review",
+                "Prototype",
+                "",
+                ""
+            ],
+            [
+                "Acura Motorsport",
+                "USA/Japan",
+                "",
+                "Under Investigation",
+                "Future",
+                "",
+                ""
+            ]
+        ]
+    }
+}

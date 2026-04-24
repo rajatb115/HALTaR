@@ -1,0 +1,67 @@
+{
+    "table-697-697": {
+        "title": [
+            "Post ID",
+            "Title",
+            "Tag Category",
+            "Author",
+            "Status",
+            "Created Date",
+            "View Count"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of posts with a tag specified as 'careers'.",
+        "data": [
+            [
+                "P-1042",
+                "Navigating Your First Job Hunt",
+                "careers",
+                "Sarah Jenkins",
+                "Published",
+                "06/15/2023",
+                "4521"
+            ],
+            [
+                "P-1105",
+                "Top Skills for Tech Careers in 24",
+                "careers",
+                "Mike Ross",
+                "Drafted",
+                "N/A",
+                "892"
+            ],
+            [
+                "P-1299",
+                "Remote Work Opportunities Guide",
+                "careers",
+                "Emily Chen",
+                "Archived",
+                "3/10/2024",
+                "12050"
+            ],
+            [
+                "P-1330",
+                "Internship vs Full-Time Roles",
+                "careers",
+                "David Kim",
+                "Published",
+                "7/22/2023",
+                "3340"
+            ],
+            [
+                "P-2011",
+                "Building a Professional Network",
+                "careers",
+                "Lisa Wong",
+                "Active",
+                "9/01/2021",
+                "6780"
+            ]
+        ]
+    }
+}

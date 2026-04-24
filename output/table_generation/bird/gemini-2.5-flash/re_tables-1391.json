@@ -1,0 +1,61 @@
+{
+    "table-1391-1391": {
+        "title": [
+            "Event Name",
+            "Event Type",
+            "Date",
+            "Cost (USD)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Based on the total cost for all event, what is the percentage of cost for Yearly Kickoff event?",
+        "data": [
+            [
+                "Yearly Kickoff",
+                "Annual",
+                "2023-01-15",
+                "150000"
+            ],
+            [
+                "Product Launch",
+                "Marketing",
+                "2023-03-22",
+                "85000"
+            ],
+            [
+                "Sales Conference",
+                "Annual",
+                "2023-05-10",
+                "120000"
+            ],
+            [
+                "Team Building Day",
+                "Internal",
+                "2023-07-01",
+                "30000"
+            ],
+            [
+                "Client Summit",
+                "External",
+                "2023-09-18",
+                "95000"
+            ],
+            [
+                "Holiday Party",
+                "Internal",
+                "2023-12-08",
+                "45000"
+            ],
+            [
+                "Yearly Kickoff",
+                "Annual",
+                "2022-01-20",
+                "130000"
+            ]
+        ]
+    }
+}

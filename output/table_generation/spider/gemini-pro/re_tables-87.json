@@ -1,0 +1,45 @@
+{
+    "table-87-87": {
+        "title": [
+            "Make",
+            "Model",
+            "edispl"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Volvo Engine Displacement Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average edispl for all volvos?",
+        "data": [
+            [
+                "Volvo",
+                "XC90",
+                "2.0"
+            ],
+            [
+                "Volvo",
+                "S60",
+                "2.0"
+            ],
+            [
+                "Volvo",
+                "V60",
+                "2.0"
+            ],
+            [
+                "Volvo",
+                "S90",
+                "2.0"
+            ],
+            [
+                "Volvo",
+                "XC60",
+                "2.0"
+            ]
+        ]
+    }
+}

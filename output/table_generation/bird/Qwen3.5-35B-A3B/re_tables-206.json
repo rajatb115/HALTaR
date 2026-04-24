@@ -1,0 +1,69 @@
+{
+    "table-206-206": {
+        "title": [
+            "Molecule_ID",
+            "Element_Found",
+            "Chemical_Formula",
+            "Common_Name",
+            "State_at_Standard_Conditions",
+            "Primary_Application"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify by their ID the molecules in which there is silicon.",
+        "data": [
+            [
+                "MOL-Si-004",
+                "Silicon",
+                "SiO\u2082",
+                "Quartz",
+                "Solid",
+                "Glass Manufacturing"
+            ],
+            [
+                "mol-sil-772",
+                "Silicone",
+                "[C\u2086H\u2081\u2088OSi]n",
+                "Polydimethylsiloxane",
+                "Liquid",
+                "Lubricants"
+            ],
+            [
+                "xsi-comp-99",
+                "Silicene",
+                "Si",
+                "Silicenium Ion",
+                "Gas",
+                "Semiconductor Doping"
+            ],
+            [
+                "i_sili_con",
+                "Silica Gel",
+                "Si\u00b7xH\u2082O",
+                "Desiccant",
+                "Solid",
+                "Molecular Sieve"
+            ],
+            [
+                "-sio-mix-1",
+                "Sodium Silicate",
+                "Na\u2082SiO\u2083",
+                "Water Glass",
+                "Aqueous Solution",
+                "Detergent Additive"
+            ],
+            [
+                "#SI-COMP-2",
+                "Polysilazane",
+                "(NH)(CH\u2083)Si-NH-(CH\u2084)",
+                "Ceramic Precursor",
+                "Viscous Liquid",
+                "High-Temperature Coatings"
+            ]
+        ]
+    }
+}

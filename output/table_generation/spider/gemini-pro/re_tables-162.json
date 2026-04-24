@@ -1,0 +1,46 @@
+{
+    "table-162-162": {
+        "title": [
+            "District",
+            "Stores with < 3000 Products",
+            "Stores with > 10000 Products"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "District Store Product Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which district has both stores with less than 3000 products and stores with more than 10000 products?",
+        "data": [
+            [
+                "District A",
+                "5",
+                "2"
+            ],
+            [
+                "District B",
+                "2",
+                "0"
+            ],
+            [
+                "District C",
+                "8",
+                "1"
+            ],
+            [
+                "District D",
+                "1",
+                "3"
+            ],
+            [
+                "District E",
+                "4",
+                "0"
+            ]
+        ]
+    }
+}

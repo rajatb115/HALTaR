@@ -1,0 +1,85 @@
+{
+    "table-1272-1272": {
+        "title": [
+            "Patient ID",
+            "Anti-SSa Status",
+            "Admission Date",
+            "Hospital Location",
+            "Age Group",
+            "Diagnosis Category",
+            "Outcome"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal anti-SSA came to the hospital before 1990?",
+        "data": [
+            [
+                "P-1042",
+                "Normal",
+                "03/15/1978",
+                "St. Mary's General",
+                "Adult",
+                "Rheumatology",
+                "Discharged Home"
+            ],
+            [
+                "P-A892",
+                "Negative",
+                "6/22/1885",
+                "City Central Clinic",
+                "Elderly",
+                "Immunology",
+                "Transferred Out"
+            ],
+            [
+                "B-3301",
+                "",
+                "11/01/1799",
+                "Regional Medical Center",
+                "Child",
+                "Infectious Disease",
+                "Inpatient Stay"
+            ],
+            [
+                "C-7721",
+                "Unspecified",
+                "9/10/1654",
+                "County Health Dept",
+                "Infant",
+                "Dermatology",
+                "Died in Care"
+            ],
+            [
+                "D-9910",
+                "Normal Result",
+                "4/05/2023",
+                "Westside Hospital",
+                "Senior",
+                "Cardiology",
+                "Recovered Fully"
+            ],
+            [
+                "E-1122",
+                "Non-Reactive",
+                "8/30/2100",
+                "North Star Facility",
+                "Adolescent",
+                "Neurology",
+                "Pending Review"
+            ],
+            [
+                "F-5543",
+                "Clear Test",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

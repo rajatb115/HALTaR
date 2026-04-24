@@ -1,0 +1,85 @@
+{
+    "table-717-717": {
+        "title": [
+            "Comment_ID",
+            "Score",
+            "Up_Votes",
+            "User_ID",
+            "Total_Comments_In_Score_Range",
+            "Percentage_of_Zero_Upvotes"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the comments with scores between 5 to 10, what is the percentage of the users with 0 up votes?",
+        "data": [
+            [
+                "C_1042",
+                "6",
+                "0",
+                "U_7731",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "C_A99B",
+                "8",
+                "5",
+                "U_B221",
+                "45",
+                "33%"
+            ],
+            [
+                "D_C3F1",
+                "-1",
+                "NaN",
+                "U_X99A",
+                "N/A",
+                "NaN"
+            ],
+            [
+                "E_F4K2",
+                "NaN",
+                "NaN",
+                "U_Y11Z",
+                "N/A",
+                "NaN"
+            ],
+            [
+                "G_H8L9",
+                "9",
+                "NaN",
+                "V_Z33W",
+                "N/A",
+                "NaN"
+            ],
+            [
+                "H_J2M5",
+                "NaN",
+                "10",
+                "7",
+                "W_A44X",
+                "N/A"
+            ],
+            [
+                "I_K6P8",
+                "NaN",
+                "5",
+                "N/A",
+                "B55Y",
+                "N/A"
+            ],
+            [
+                "J_L9Q3",
+                "NaN",
+                "2",
+                "N/A",
+                "C66Z",
+                "N/A"
+            ]
+        ]
+    }
+}

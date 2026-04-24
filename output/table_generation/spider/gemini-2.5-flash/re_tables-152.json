@@ -1,0 +1,48 @@
+{
+    "table-152-152": {
+        "title": [
+            "Store Name",
+            "Location",
+            "Number of Products"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the names of stores whose number products is more than the average number of products.",
+        "data": [
+            [
+                "Tech Haven",
+                "New York",
+                "2100"
+            ],
+            [
+                "Bookworm's Corner",
+                "Los Angeles",
+                "1250"
+            ],
+            [
+                "Fashion Forward",
+                "Chicago",
+                "1950"
+            ],
+            [
+                "Home Essentials",
+                "Houston",
+                "1600"
+            ],
+            [
+                "Gourmet Grocer",
+                "Phoenix",
+                "2300"
+            ],
+            [
+                "Sporting Life",
+                "Philadelphia",
+                "1780"
+            ]
+        ]
+    }
+}

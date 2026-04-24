@@ -1,0 +1,69 @@
+{
+    "table-976-976": {
+        "title": [
+            "Year",
+            "Track Name",
+            "Driver Name",
+            "Lap Time (seconds)",
+            "Average Speed (km/h)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which year has the lowest speed of lap time?",
+        "data": [
+            [
+                "2023",
+                "Monza Circuit",
+                "Max Verstappen",
+                "81.072",
+                "257.7"
+            ],
+            [
+                "2022",
+                "Silverstone Circuit",
+                "Lewis Hamilton",
+                "87.096",
+                "245.1"
+            ],
+            [
+                "2015",
+                "Circuit de Monaco",
+                "Nico Rosberg",
+                "74.939",
+                "160.3"
+            ],
+            [
+                "2005",
+                "N\u00fcrburgring",
+                "Michael Schumacher",
+                "79.075",
+                "209.8"
+            ],
+            [
+                "1998",
+                "Suzuka Circuit",
+                "Mika H\u00e4kkinen",
+                "98.268",
+                "215.5"
+            ],
+            [
+                "1989",
+                "Interlagos Circuit",
+                "Ayrton Senna",
+                "79.660",
+                "195.2"
+            ],
+            [
+                "1975",
+                "Watkins Glen",
+                "Niki Lauda",
+                "110.345",
+                "185.7"
+            ]
+        ]
+    }
+}

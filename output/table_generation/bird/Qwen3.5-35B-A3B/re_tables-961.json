@@ -1,0 +1,85 @@
+{
+    "table-961-961": {
+        "title": [
+            "Driver",
+            "Team",
+            "Lap Time",
+            "Speed_kmh",
+            "Track_Length_km",
+            "Sector_1_Time",
+            "Sector_Total_Sector"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average of fastest lap speed in the 2009 Spanish Grand Prix race?",
+        "data": [
+            [
+                "Fernando Alonso",
+                "Ferrari",
+                "47.62s",
+                "312.4",
+                "5.34",
+                "N/A",
+                "Fastest"
+            ],
+            [
+                "Lewis Hamilton",
+                "McLaren-Mercedes",
+                "0m 48.12s",
+                "68.5",
+                "7.81",
+                "8.92",
+                "9.15"
+            ],
+            [
+                "Kimi R\u00e4ikk\u00f6nen",
+                "Ferrari-Lotus",
+                "49.01s",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Jenson Button",
+                "Brawn GP-Honda",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sebastian Vettel",
+                "Red Bull-Renault",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Mark Webber",
+                "Williams-Toyota",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Rubens Barrichello",
+                "Honda-BMW",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1503-1503": {
+        "title": [
+            "Chain Name",
+            "Headquarters Country",
+            "Primary Currency",
+            "Number of Stations (approx)",
+            "Avg. Daily Transactions",
+            "Avg. Transaction Value (EUR)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the chains of the gas stations with transactions in euro.",
+        "data": [
+            [
+                "TotalEnergies",
+                "France",
+                "EUR",
+                "3200",
+                "950",
+                "48.50"
+            ],
+            [
+                "Shell",
+                "Netherlands",
+                "EUR",
+                "2800",
+                "880",
+                "45.20"
+            ],
+            [
+                "BP",
+                "United Kingdom",
+                "EUR",
+                "2100",
+                "790",
+                "43.10"
+            ],
+            [
+                "Eni",
+                "Italy",
+                "EUR",
+                "1600",
+                "720",
+                "40.80"
+            ],
+            [
+                "Aral",
+                "Germany",
+                "EUR",
+                "2400",
+                "910",
+                "46.90"
+            ],
+            [
+                "Repsol",
+                "Spain",
+                "EUR",
+                "1300",
+                "680",
+                "39.50"
+            ],
+            [
+                "OMV",
+                "Austria",
+                "EUR",
+                "1000",
+                "610",
+                "41.70"
+            ]
+        ]
+    }
+}

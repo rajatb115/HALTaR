@@ -1,0 +1,58 @@
+{
+    "table-205-205": {
+        "title": [
+            "Paragraph ID",
+            "Document Title",
+            "Text Snippet",
+            "Word Count",
+            "Section",
+            "Author Status",
+            "Last Modified"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the ids and texts of paragraphs in the document titled 'Welcome to NY'?",
+        "data": [
+            [
+                "P_0042",
+                "Welcome to NY",
+                "New York City is known for its iconic skyline and diverse culture.",
+                "67",
+                "Introduction",
+                "Verified",
+                "01/15/2023"
+            ],
+            [
+                "P_0451",
+                "Welcome To NY",
+                "From Central Park to Times Square, there is something for everyone.",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "P_PARK",
+                "Welcome TO NYC",
+                "Explore the green spaces including Prospect Park and Riverside Drive.",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                "72",
+                "Drafted",
+                "Pending Review",
+                ""
+            ]
+        ]
+    }
+}

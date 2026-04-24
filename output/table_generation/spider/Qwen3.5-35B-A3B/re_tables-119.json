@@ -1,0 +1,93 @@
+{
+    "table-119-119": {
+        "title": [
+            "Airport Code",
+            "City",
+            "Country",
+            "IATA Code",
+            "Status",
+            "Region",
+            "Elevation_ft",
+            "Timezone_UTC"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the city and country for the Alton airport.",
+        "data": [
+            [
+                "ALN",
+                "Alton",
+                "United States",
+                "ALN",
+                "Active",
+                "Illinois",
+                "-467",
+                "UTC-6"
+            ],
+            [
+                "MDW",
+                "Chicago",
+                "United States",
+                "MDW",
+                "Inactive",
+                "N/A",
+                "",
+                ""
+            ],
+            [
+                "ORD",
+                "O'Hare",
+                "United States",
+                "ORD",
+                "Operational",
+                "Illinois",
+                "672",
+                "UTC-6"
+            ],
+            [
+                "STL",
+                "St Louis",
+                "United States",
+                "STL",
+                "Closed",
+                "Missouri",
+                "700",
+                "UTC-6"
+            ],
+            [
+                "BLV",
+                "Belleville",
+                "United States",
+                "BLV",
+                "Limited Service",
+                "Illinois",
+                "5000",
+                "UTC-6"
+            ],
+            [
+                "SPI",
+                "Springfield",
+                "United States",
+                "SPI",
+                "Maintenance",
+                "Illinois",
+                "800",
+                "UTC-6"
+            ],
+            [
+                "CMI",
+                "Champaign",
+                "United States",
+                "CMI",
+                "Suspended",
+                "Illinois",
+                "300",
+                "UTC-6"
+            ]
+        ]
+    }
+}

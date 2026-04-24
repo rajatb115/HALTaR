@@ -1,0 +1,69 @@
+{
+    "table-268-268": {
+        "title": [
+            "Molecule ID",
+            "Bond Type",
+            "Atoms Involved",
+            "Bond Order",
+            "Length (\u00c5)",
+            "Stability"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down the bond type for molecules from molecule id TR000 to TR050.",
+        "data": [
+            [
+                "TR005",
+                "Covalent",
+                "C-H",
+                "Single",
+                "1.09",
+                "High"
+            ],
+            [
+                "Ionic",
+                "Na-Cl",
+                "Double",
+                "2.36",
+                "Medium",
+                ""
+            ],
+            [
+                "[Invalid]",
+                "Metallic",
+                "Fe-Fe",
+                "Variable",
+                "248",
+                "Low"
+            ],
+            [
+                "[Error]",
+                "",
+                "",
+                "None",
+                "N/A",
+                "Unknown"
+            ],
+            [
+                "[[Data Missing]]",
+                "Hydrogen",
+                "O-N",
+                "Weak",
+                "297",
+                "Unstable"
+            ],
+            [
+                "[N/A]",
+                "[Corrupted Data]",
+                "[X-Y]",
+                "[NaN]",
+                "[Inf]",
+                "[Critical Error]"
+            ]
+        ]
+    }
+}

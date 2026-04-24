@@ -1,0 +1,58 @@
+{
+    "table-1389-1389": {
+        "title": [
+            "Student Name",
+            "Income Source",
+            "Annual Income"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which students manage to generate the highest income. State his/her full name along with the income source.",
+        "data": [
+            [
+                "Emily White",
+                "Stock Trading",
+                "$55,000"
+            ],
+            [
+                "Alex Chen",
+                "E-commerce Store",
+                "$48,000"
+            ],
+            [
+                "Michael Brown",
+                "App Development",
+                "$42,000"
+            ],
+            [
+                "John Doe",
+                "Freelance Web Development",
+                "$35,000"
+            ],
+            [
+                "Maria Garcia",
+                "Social Media Influencer",
+                "$30,000"
+            ],
+            [
+                "Sarah Kim",
+                "Graphic Design Commissions",
+                "$27,000"
+            ],
+            [
+                "Jane Smith",
+                "Tutoring Services",
+                "$22,000"
+            ],
+            [
+                "David Lee",
+                "Part-time Research Assistant",
+                "$18,000"
+            ]
+        ]
+    }
+}

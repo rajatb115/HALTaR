@@ -1,0 +1,69 @@
+{
+    "table-1367-1367": {
+        "title": [
+            "Member Name",
+            "Member ID",
+            "Role",
+            "Event Name",
+            "Attendance Status",
+            "Attendance Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the members who attended the event \"October Meeting\".",
+        "data": [
+            [
+                "Alice Smith",
+                "M001",
+                "Project Manager",
+                "October Meeting",
+                "Attended",
+                "2023-10-15"
+            ],
+            [
+                "Bob Johnson",
+                "M002",
+                "Software Engineer",
+                "October Meeting",
+                "Attended",
+                "2023-10-15"
+            ],
+            [
+                "Carol White",
+                "M003",
+                "Data Analyst",
+                "October Meeting",
+                "Attended",
+                "2023-10-15"
+            ],
+            [
+                "David Green",
+                "M004",
+                "Marketing Specialist",
+                "October Meeting",
+                "Attended",
+                "2023-10-15"
+            ],
+            [
+                "Emily Brown",
+                "M005",
+                "HR Business Partner",
+                "October Meeting",
+                "Attended",
+                "2023-10-15"
+            ],
+            [
+                "Frank Black",
+                "M006",
+                "Sales Director",
+                "October Meeting",
+                "Attended",
+                "2023-10-15"
+            ]
+        ]
+    }
+}

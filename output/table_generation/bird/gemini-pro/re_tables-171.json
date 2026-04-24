@@ -1,0 +1,40 @@
+{
+    "table-171-171": {
+        "title": [
+            "Year",
+            "Number of Withdrawals"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Credit Card Withdrawal Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many credit card withdrawals were recorded after 1995?",
+        "data": [
+            [
+                "1996",
+                "120,000"
+            ],
+            [
+                "1997",
+                "135,000"
+            ],
+            [
+                "1998",
+                "150,000"
+            ],
+            [
+                "1999",
+                "165,000"
+            ],
+            [
+                "2000",
+                "180,000"
+            ]
+        ]
+    }
+}

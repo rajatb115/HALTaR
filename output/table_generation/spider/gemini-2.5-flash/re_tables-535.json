@@ -1,0 +1,55 @@
+{
+    "table-535-535": {
+        "title": [
+            "Performance ID",
+            "Performance Type",
+            "Date",
+            "Audience Share (%)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the maximum and minimum shares for performances that do not have the type \"Live final\".",
+        "data": [
+            [
+                "P001",
+                "Semi-final",
+                "2023-10-15",
+                "22.5"
+            ],
+            [
+                "P002",
+                "Audition Round 1",
+                "2023-09-01",
+                "18.9"
+            ],
+            [
+                "P003",
+                "Rehearsal Show",
+                "2023-10-10",
+                "12.1"
+            ],
+            [
+                "P004",
+                "Pre-show Special",
+                "2023-10-20",
+                "15.7"
+            ],
+            [
+                "P005",
+                "Highlight Reel",
+                "2023-10-25",
+                "10.5"
+            ],
+            [
+                "P006",
+                "Behind the Scenes",
+                "2023-09-15",
+                "8.3"
+            ]
+        ]
+    }
+}

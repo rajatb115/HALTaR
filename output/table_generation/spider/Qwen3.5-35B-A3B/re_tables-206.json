@@ -1,0 +1,76 @@
+{
+    "table-206-206": {
+        "title": [
+            "Document ID",
+            "Paragraph Index",
+            "Text Snippet",
+            "Author",
+            "Date Posted",
+            "Rating",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all paragraph texts for the document \"Customer reviews\".",
+        "data": [
+            [
+                "DOC-CR-0042",
+                "007",
+                "Great product but shipping was slow.",
+                "John D.",
+                "6/15/2023",
+                "4 stars",
+                "Active"
+            ],
+            [
+                "DOC-MC-0118",
+                "312",
+                "I love this item! It works better than expected.",
+                "Sarah M.",
+                "Aug 2, 2023",
+                "5 stars",
+                "Verified"
+            ],
+            [
+                "REV-LG-9921",
+                "88",
+                "Not worth the price at all. Very disappointed.",
+                "Mike T.",
+                "Jan 10, 2024",
+                "",
+                "Flagged"
+            ],
+            [
+                "CR-SM-4450",
+                "99",
+                "Excellent customer service helped me resolve issues quickly.",
+                "Emily R.",
+                "Nov 12, 1999",
+                "N/A",
+                "Pending"
+            ],
+            [
+                "DCT-RV-7732",
+                "-1",
+                "This is my first review on your platform so far.",
+                "Alex K.",
+                "Mar 3, 2005",
+                "None",
+                "Draft"
+            ],
+            [
+                "PRT-FB-1102",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

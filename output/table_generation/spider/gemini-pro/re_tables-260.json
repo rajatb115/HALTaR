@@ -1,0 +1,37 @@
+{
+    "table-260-260": {
+        "title": [
+            "Player Name",
+            "Birth Date"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Player Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the full names of all players, sorted by birth date?",
+        "data": [
+            [
+                "John Smith",
+                "1990-01-15"
+            ],
+            [
+                "Alice Brown",
+                "1992-05-20"
+            ],
+            [
+                "David Lee",
+                "1995-03-10"
+            ],
+            [
+                "Emily Wilson",
+                "1998-11-01"
+            ],
+            [
+                "Michael Garcia",
+                "2000-07-25"
+            ]
+        ]
+    }
+}

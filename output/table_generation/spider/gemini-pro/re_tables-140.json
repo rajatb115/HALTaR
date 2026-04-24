@@ -1,0 +1,49 @@
+{
+    "table-140-140": {
+        "title": [
+            "Flight Number",
+            "Origin Airport",
+            "Arrival Time",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Flights Arriving at Aberdeen",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are flight numbers of flights arriving at City \"Aberdeen\"?",
+        "data": [
+            [
+                "EI31",
+                "Dublin",
+                "08:30",
+                "Landed"
+            ],
+            [
+                "BA1471",
+                "London Heathrow",
+                "09:15",
+                "Landed"
+            ],
+            [
+                "KL1427",
+                "Amsterdam",
+                "10:00",
+                "Scheduled"
+            ],
+            [
+                "BE67",
+                "Belfast City",
+                "11:45",
+                "On Time"
+            ],
+            [
+                "SK4607",
+                "Stavanger",
+                "12:30",
+                "Delayed"
+            ]
+        ]
+    }
+}

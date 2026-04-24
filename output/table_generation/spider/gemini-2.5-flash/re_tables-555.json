@@ -1,0 +1,61 @@
+{
+    "table-555-555": {
+        "title": [
+            "Student Name",
+            "Grade Level",
+            "Subject",
+            "Grade"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the grade for the high schooler named Kyle.",
+        "data": [
+            [
+                "Kyle",
+                "10th",
+                "Algebra II",
+                "B+"
+            ],
+            [
+                "Sarah",
+                "11th",
+                "English Lit",
+                "A-"
+            ],
+            [
+                "Kyle",
+                "10th",
+                "US History",
+                "A"
+            ],
+            [
+                "David",
+                "9th",
+                "Biology",
+                "C+"
+            ],
+            [
+                "Emily",
+                "12th",
+                "Calculus",
+                "B"
+            ],
+            [
+                "Kyle",
+                "10th",
+                "Chemistry",
+                "B-"
+            ],
+            [
+                "Michael",
+                "11th",
+                "Physics",
+                "A"
+            ]
+        ]
+    }
+}

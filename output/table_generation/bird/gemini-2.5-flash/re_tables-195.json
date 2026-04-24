@@ -1,0 +1,62 @@
+{
+    "table-195-195": {
+        "title": [
+            "Client ID",
+            "Age",
+            "Credit Card Tier",
+            "Credit Score",
+            "Loan Eligibility"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the IDs and age of the client with high level credit card, which is eligible for loans.",
+        "data": [
+            [
+                "C1001",
+                "38",
+                "Platinum",
+                "790",
+                "Eligible"
+            ],
+            [
+                "C1002",
+                "45",
+                "Black",
+                "815",
+                "Eligible"
+            ],
+            [
+                "C1003",
+                "32",
+                "Gold",
+                "730",
+                "Eligible"
+            ],
+            [
+                "C1004",
+                "51",
+                "Platinum",
+                "785",
+                "Eligible"
+            ],
+            [
+                "C1005",
+                "41",
+                "Black",
+                "800",
+                "Eligible"
+            ],
+            [
+                "C1006",
+                "29",
+                "Gold",
+                "745",
+                "Eligible"
+            ]
+        ]
+    }
+}

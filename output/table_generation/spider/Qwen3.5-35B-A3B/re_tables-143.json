@@ -1,0 +1,77 @@
+{
+    "table-143-143": {
+        "title": [
+            "Airport Code",
+            "City",
+            "Country",
+            "Status",
+            "Last Flight Date",
+            "Reason for Inactivity"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airports do not have departing or arriving flights?",
+        "data": [
+            [
+                "KZYP",
+                "Zephyr Cove",
+                "USA",
+                "Closed",
+                "N/A",
+                "Permanent closure due to low traffic"
+            ],
+            [
+                "LFKK",
+                "Kokkola",
+                "Finland",
+                "Suspended",
+                "4 months ago",
+                "Seasonal suspension pending review"
+            ],
+            [
+                "VVAB",
+                "Abakan",
+                "Russia",
+                "Restricted",
+                "6 weeks ago",
+                "Runway maintenance ongoing"
+            ],
+            [
+                "NZAA",
+                "Auckland",
+                "New Zealand",
+                "Temporary Halt",
+                "Yesterday",
+                "Weather-related ground stoppage"
+            ],
+            [
+                "YBBR",
+                "Barrow Island",
+                "Australia",
+                "Private Only",
+                "N/A",
+                "No commercial operations scheduled"
+            ],
+            [
+                "SBAF",
+                "Santa Barbara",
+                "Spain",
+                "Under Review",
+                "Pending",
+                "Regulatory compliance audit in progress"
+            ],
+            [
+                "TQPF",
+                "Pafos",
+                "Cyprus",
+                "Cancelled",
+                "3 days ago",
+                "Airline route restructuring"
+            ]
+        ]
+    }
+}

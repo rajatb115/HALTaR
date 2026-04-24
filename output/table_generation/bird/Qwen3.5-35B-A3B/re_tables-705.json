@@ -1,0 +1,53 @@
+{
+    "table-705-705": {
+        "title": [
+            "Tag_Name",
+            "Excerpt_Post_ID",
+            "Wiki_Post_ID"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the excerpt post ID and wiki post ID of the tag named sample?",
+        "data": [
+            [
+                "sample",
+                "45821",
+                "99201"
+            ],
+            [
+                "samples",
+                "67342",
+                "88102"
+            ],
+            [
+                "sampling",
+                "33190",
+                "77453"
+            ],
+            [
+                "sampled_data",
+                "55678",
+                "00987"
+            ],
+            [
+                "re-sample",
+                "<unknown>",
+                "<unknown>"
+            ],
+            [
+                "resample_test",
+                "<unknown>",
+                "<unknown >"
+            ],
+            [
+                "test_sample_tag",
+                "12345",
+                "</unknown>"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-68-68": {
+        "title": [
+            "Make",
+            "Model",
+            "Production Start Year",
+            "Body Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which distinct car models are the produced after 1980?",
+        "data": [
+            [
+                "Toyota",
+                "Camry",
+                "1982",
+                "Sedan"
+            ],
+            [
+                "Honda",
+                "Civic",
+                "1983",
+                "Hatchback"
+            ],
+            [
+                "Ford",
+                "F-150",
+                "1987",
+                "Truck"
+            ],
+            [
+                "BMW",
+                "3 Series",
+                "1982",
+                "Sedan"
+            ],
+            [
+                "Mercedes-Benz",
+                "E-Class",
+                "1984",
+                "Sedan"
+            ],
+            [
+                "Volkswagen",
+                "Golf",
+                "1983",
+                "Hatchback"
+            ],
+            [
+                "Chevrolet",
+                "Corvette",
+                "1984",
+                "Coupe"
+            ]
+        ]
+    }
+}

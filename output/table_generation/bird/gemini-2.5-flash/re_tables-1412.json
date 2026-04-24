@@ -1,0 +1,77 @@
+{
+    "table-1412-1412": {
+        "title": [
+            "Expense Type",
+            "Category",
+            "Amount",
+            "Currency",
+            "Date Incurred",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State what kind of expenses that Sacha Harrison incurred?",
+        "data": [
+            [
+                "Travel",
+                "Airfare",
+                "550.00",
+                "USD",
+                "2023-10-15",
+                "Paid"
+            ],
+            [
+                "Travel",
+                "Hotel Accommodation",
+                "320.00",
+                "USD",
+                "2023-10-16",
+                "Paid"
+            ],
+            [
+                "Office Supplies",
+                "Stationery",
+                "45.50",
+                "USD",
+                "2023-11-01",
+                "Reimbursed"
+            ],
+            [
+                "Software",
+                "Subscription Fee",
+                "29.99",
+                "USD",
+                "2023-11-05",
+                "Paid"
+            ],
+            [
+                "Meals",
+                "Client Lunch",
+                "85.75",
+                "USD",
+                "2023-11-10",
+                "Pending"
+            ],
+            [
+                "Professional Development",
+                "Online Course",
+                "199.00",
+                "USD",
+                "2023-11-12",
+                "Paid"
+            ],
+            [
+                "Transportation",
+                "Ride Share",
+                "32.10",
+                "USD",
+                "2023-11-15",
+                "Reimbursed"
+            ]
+        ]
+    }
+}

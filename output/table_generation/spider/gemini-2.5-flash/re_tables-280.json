@@ -1,0 +1,53 @@
+{
+    "table-280-280": {
+        "title": [
+            "First Name",
+            "Country Code",
+            "Birth Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the first name, country code, and birth date of the player with the most winner rank points across all matches?",
+        "data": [
+            [
+                "Roger",
+                "SUI",
+                "1981-08-08"
+            ],
+            [
+                "Rafael",
+                "ESP",
+                "1986-06-03"
+            ],
+            [
+                "Novak",
+                "SRB",
+                "1987-05-22"
+            ],
+            [
+                "Pete",
+                "USA",
+                "1971-08-12"
+            ],
+            [
+                "Andre",
+                "USA",
+                "1970-04-29"
+            ],
+            [
+                "Bjorn",
+                "SWE",
+                "1956-06-06"
+            ],
+            [
+                "Ivan",
+                "CZE",
+                "1959-05-16"
+            ]
+        ]
+    }
+}

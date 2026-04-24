@@ -1,0 +1,83 @@
+{
+    "table-182-182": {
+        "title": [
+            "Template ID",
+            "Version Number",
+            "Template Type Code",
+            "Status",
+            "Last Updated",
+            "Owner",
+            "Region",
+            "Priority"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the version number and template type code for the template with version number later than 5?",
+        "data": [
+            [
+                "TPL-0042",
+                "6.1.0",
+                "XML_V2",
+                "Active",
+                "7/15/2023",
+                "J. Smith",
+                "US-East",
+                "High"
+            ],
+            [
+                "TPL-0118",
+                "5.9.2",
+                "JSON_STD",
+                "Archived",
+                "3/22/2023",
+                "M. Lee",
+                "EU-West",
+                "Medium"
+            ],
+            [
+                "TPP-0331",
+                "8.0.1",
+                "YAML_CFG",
+                "Draft",
+                "N/A",
+                "K. Chen",
+                "AP-South",
+                "Low"
+            ],
+            [
+                "TPT-0559",
+                "9.4.5",
+                "HTML_MOD",
+                "Active",
+                "11/01/2024",
+                "R. Davis",
+                "NA-Central",
+                "Critical"
+            ],
+            [
+                "TMP-0772",
+                "N.A.",
+                "CSV_RAW",
+                "Pending",
+                "01 Jan 2024",
+                "S. Wilson",
+                "SA-East",
+                "Normal"
+            ],
+            [
+                "TRC-0991",
+                "V10.2.0",
+                "DOCX_FMT",
+                "Inactive",
+                "4/10/2025",
+                "L. Brown",
+                "UK-London",
+                "High"
+            ]
+        ]
+    }
+}

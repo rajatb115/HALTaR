@@ -1,0 +1,45 @@
+{
+    "table-71-71": {
+        "title": [
+            "School ID",
+            "School Name",
+            "Status",
+            "Enrollment Count",
+            "County",
+            "Last Verified Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many active and closed District Community Day Schools are there in the county of Alpine?",
+        "data": [
+            [
+                "ACS-0042",
+                "Alpine Valley Elementary",
+                "Active",
+                "342",
+                "Alpine",
+                "6/15/2024"
+            ],
+            [
+                "ACS-0118",
+                "Summit Ridge Middle",
+                "Closed",
+                "N/A",
+                "Alpina",
+                "9/1/2022"
+            ],
+            [
+                "ACS-DIST-09",
+                "High Desert Academy",
+                "Active",
+                "415",
+                "Alpiine",
+                "7/2/2024"
+            ]
+        ]
+    }
+}

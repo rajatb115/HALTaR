@@ -1,0 +1,85 @@
+{
+    "table-267-267": {
+        "title": [
+            "Match ID",
+            "Winner",
+            "Loser",
+            "Total Minutes Played",
+            "Date",
+            "League",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the names of loser and winner who played in the match with greatest number of minutes.",
+        "data": [
+            [
+                "M_4021",
+                "Team Alpha",
+                "Team Beta",
+                "675",
+                "03/15/2023",
+                "Premier Division",
+                "Completed"
+            ],
+            [
+                "M_A992",
+                "Squad X",
+                "Squad Y",
+                "540",
+                "04/12/2023",
+                "Regional Cup",
+                "Completed"
+            ],
+            [
+                "B_1102",
+                "Club Red",
+                "Club Blue",
+                "720",
+                "May 1, 2023",
+                "National Final",
+                "Finished"
+            ],
+            [
+                "G_3301",
+                "Unit One",
+                "Unit Two",
+                "390",
+                "June 10, 2023",
+                "Exhibition",
+                "Ended"
+            ],
+            [
+                "T_5502",
+                "Side Green",
+                "Side Yellow",
+                "810",
+                "July 2, 2023",
+                "Championship",
+                "Concluded"
+            ],
+            [
+                "H_7701",
+                "Rivalry A",
+                "Rivalry B",
+                "450",
+                "Aug 15, 2022",
+                "Friendly",
+                "Done"
+            ],
+            [
+                "K_8802",
+                "Masters Z",
+                "Challengers W",
+                "900",
+                "Sep 3, 2024",
+                "Grand Tourney",
+                "Over"
+            ]
+        ]
+    }
+}

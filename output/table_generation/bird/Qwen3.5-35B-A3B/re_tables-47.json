@@ -1,0 +1,76 @@
+{
+    "table-47-47": {
+        "title": [
+            "State",
+            "School District",
+            "Grade Range",
+            "Total Enrollees",
+            "Special Education Focus"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which state special schools have the highest number of enrollees from grades 1 through 12?",
+        "data": [
+            [
+                "California",
+                "Los Angeles Unified",
+                "K-12",
+                "45,203",
+                "Autism Spectrum Disorder"
+            ],
+            [
+                "Texas",
+                "Houston Independent",
+                "Grades 1-10",
+                "38,917",
+                "Intellectual Disabilities"
+            ],
+            [
+                "Florida",
+                "Miami-Dade County",
+                "Pre-K-11",
+                "62,450",
+                "Emotional Behavioral Disorders"
+            ],
+            [
+                "New York",
+                "New York City DOE",
+                "Grades K-8",
+                "51,302",
+                "Speech Language Impairment"
+            ],
+            [
+                "Pennsylvania",
+                "Philadelphia Public Schools",
+                "Grades P-13",
+                "78,120",
+                "Multiple Disabilities"
+            ],
+            [
+                "Ohio",
+                "Cleveland Metropolitan",
+                "Grades N-14",
+                "9,845",
+                "Hearing Impairments"
+            ],
+            [
+                "Illinois",
+                "Chicago Public Schools",
+                "Grades O-15",
+                "8,230",
+                "Visual Impairments"
+            ],
+            [
+                "Georgia",
+                "Atlanta Public Schools",
+                "Grades Q-R",
+                "0",
+                "Learning Disabilities"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "table-99-99": {
+        "title": [
+            "Model",
+            "Cylinder Count",
+            "Horsepower",
+            "Manufacturer",
+            "Fuel Economy MPG",
+            "Price USD",
+            "Release Year",
+            "Body Style"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all of the 4 cylinder cars, which model has the most horsepower?",
+        "data": [
+            [
+                "Toyota Camry",
+                "4",
+                "301",
+                "Toyota",
+                "76",
+                "26420",
+                "1998",
+                "Sedan"
+            ],
+            [
+                "Honda Accord",
+                "6",
+                "500",
+                "Honda",
+                "82",
+                "30000",
+                "",
+                "Coupe"
+            ],
+            [
+                "Ford Mustang GT",
+                "0",
+                "",
+                "Ford",
+                "",
+                "45095",
+                "",
+                "Convertible"
+            ],
+            [
+                "Chevrolet Malibu",
+                "",
+                "",
+                "",
+                "",
+                "24050",
+                "",
+                "Sedan"
+            ],
+            [
+                "Mazda CX-5",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "SUV"
+            ],
+            [
+                "Subaru Outback",
+                "4",
+                "182",
+                "Subaru",
+                "",
+                "28045",
+                "",
+                "Wagon"
+            ],
+            [
+                "Hyundai Sonata",
+                "",
+                "",
+                "Hyundai",
+                "",
+                "25505",
+                "",
+                ""
+            ]
+        ]
+    }
+}

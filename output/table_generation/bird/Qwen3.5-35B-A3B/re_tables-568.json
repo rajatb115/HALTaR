@@ -1,0 +1,83 @@
+{
+    "table-568-568": {
+        "title": [
+            "User ID",
+            "Display Name",
+            "Post Count",
+            "Account Status",
+            "Last Active Date",
+            "Platform Role",
+            "Verification Level",
+            "Total Comments"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the user with the display name of \"Tiago Pasqualini\", how many posts did he/she own?",
+        "data": [
+            [
+                "U748291",
+                "Tiago Pasquialini",
+                "42",
+                "Active",
+                "6/15/2024",
+                "Contributor",
+                "Verified",
+                "89"
+            ],
+            [
+                "U749002",
+                "Tiogo Pascualini",
+                "N/A",
+                "Inactive",
+                "3/10/2022",
+                "Member",
+                "Unverified",
+                "5"
+            ],
+            [
+                "T882103",
+                "T. Pasqualin",
+                "0",
+                "Suspended",
+                "9/01/2023",
+                "Moderator",
+                "Pending",
+                "76"
+            ],
+            [
+                "P9910234",
+                "Tiagopasc",
+                "ous",
+                "Deleted",
+                "",
+                "None",
+                "Unknown",
+                ""
+            ],
+            [
+                "Q11223344",
+                "Thiago P.",
+                "15",
+                "Active",
+                "",
+                "Guest",
+                "Basic",
+                ""
+            ],
+            [
+                "R55667788",
+                "Tiagosilva",
+                "N/A",
+                "Archived",
+                "",
+                "Admin",
+                "Gold",
+                ""
+            ]
+        ]
+    }
+}

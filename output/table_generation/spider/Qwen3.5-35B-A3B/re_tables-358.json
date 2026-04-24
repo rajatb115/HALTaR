@@ -1,0 +1,40 @@
+{
+    "table-358-358": {
+        "title": [
+            "Cartoon Title",
+            "Series Name",
+            "Air Date",
+            "Duration Minutes",
+            "Rating",
+            "Genre",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the title of all  Cartoons showed on TV Channel with series name \"Sky Radio\".",
+        "data": [
+            [
+                "Sky High Adventures",
+                "Sky Radio",
+                "04/12/2023",
+                "60",
+                "PG",
+                "Action",
+                "Completed"
+            ],
+            [
+                "Mystery Mice Club",
+                "Sky High",
+                "5/15/23",
+                "30",
+                "G",
+                "Comedy",
+                "Ongoing"
+            ]
+        ]
+    }
+}

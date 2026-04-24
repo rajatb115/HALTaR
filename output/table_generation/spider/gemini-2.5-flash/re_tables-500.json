@@ -1,0 +1,61 @@
+{
+    "table-500-500": {
+        "title": [
+            "City",
+            "Country",
+            "Official Language",
+            "Population (Millions)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which unique cities are in Asian countries where Chinese is the official language ?",
+        "data": [
+            [
+                "Beijing",
+                "China",
+                "Mandarin Chinese",
+                "21.5"
+            ],
+            [
+                "Shanghai",
+                "China",
+                "Mandarin Chinese",
+                "26.3"
+            ],
+            [
+                "Taipei",
+                "Taiwan",
+                "Mandarin Chinese",
+                "2.6"
+            ],
+            [
+                "Singapore City",
+                "Singapore",
+                "Mandarin Chinese",
+                "5.7"
+            ],
+            [
+                "Guangzhou",
+                "China",
+                "Mandarin Chinese",
+                "15.3"
+            ],
+            [
+                "Kaohsiung",
+                "Taiwan",
+                "Mandarin Chinese",
+                "2.7"
+            ],
+            [
+                "Shenzhen",
+                "China",
+                "Mandarin Chinese",
+                "17.5"
+            ]
+        ]
+    }
+}

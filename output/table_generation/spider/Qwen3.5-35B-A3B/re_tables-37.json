@@ -1,0 +1,69 @@
+{
+    "table-37-37": {
+        "title": [
+            "Student First Name",
+            "Pet Types Owned",
+            "Has Cat",
+            "Has Dog",
+            "Enrollment Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the students' first names who have both cats and dogs as pets?",
+        "data": [
+            [
+                "Alice",
+                "Cats; Dogs",
+                "Yes",
+                "Yes",
+                "Active"
+            ],
+            [
+                "Bob",
+                "Fish; Birds",
+                "No",
+                "No",
+                "Inactive"
+            ],
+            [
+                "Charlie",
+                "Cats",
+                "Yes",
+                "No",
+                "Pending"
+            ],
+            [
+                "Diana",
+                "Dogs; Hamsters",
+                "No",
+                "Yes",
+                "Active"
+            ],
+            [
+                "Ethan",
+                "Cats & Dogs",
+                "Yes",
+                "Yes",
+                "Active"
+            ],
+            [
+                "Fiona",
+                "Reptiles Only",
+                "No",
+                "No",
+                "Inactive"
+            ],
+            [
+                "George",
+                "Cats, Dogs, Parrot",
+                "Yes",
+                "Yes",
+                "Active"
+            ]
+        ]
+    }
+}

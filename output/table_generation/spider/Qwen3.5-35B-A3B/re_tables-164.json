@@ -1,0 +1,85 @@
+{
+    "table-164-164": {
+        "title": [
+            "Store ID",
+            "Location Name",
+            "City",
+            "State",
+            "Country",
+            "Status",
+            "Opened Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different store locations are there?",
+        "data": [
+            [
+                "ST0042",
+                "Downtown Plaza",
+                "Chicago",
+                "IL",
+                "USA",
+                "Active",
+                "06/15/2018"
+            ],
+            [
+                "BR7721",
+                "Westside Mall",
+                "Los Angeles",
+                "CA",
+                "USA",
+                "Closed",
+                "03/22/219"
+            ],
+            [
+                "MK3390",
+                "Riverfront Hub",
+                "Seattle",
+                "WA",
+                "USA",
+                "Active",
+                "Jan 10, 210"
+            ],
+            [
+                "LN8812",
+                "Harbor View Center",
+                "Miami",
+                "FL",
+                "USA",
+                "Open",
+                "Nov 05, 189"
+            ],
+            [
+                "TR5541",
+                "Mountain Pass Outlet",
+                "Denver",
+                "CO",
+                "USA",
+                "Pending",
+                "Feb 28, 022"
+            ],
+            [
+                "QZ9900",
+                "Suburban Square",
+                "Austin",
+                "TX",
+                "USA",
+                "Operational",
+                "Aug 12, 999"
+            ],
+            [
+                "GH2233",
+                "Coastal Drive Shop",
+                "San Diego",
+                "CA",
+                "USA",
+                "Inactive",
+                "Dec 31, 888"
+            ]
+        ]
+    }
+}

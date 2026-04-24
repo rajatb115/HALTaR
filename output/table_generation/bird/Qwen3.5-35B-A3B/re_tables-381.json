@@ -1,0 +1,69 @@
+{
+    "table-381-381": {
+        "title": [
+            "CardName",
+            "FrameVersion",
+            "EdhrecRankscore",
+            "Rarity",
+            "ColorIdentity",
+            "PriceUSD"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the edhrecRank for cards with frame version 2015.",
+        "data": [
+            [
+                "Lightning Helix",
+                "4th Edition",
+                "76",
+                "Common",
+                "WBRG",
+                "0.15"
+            ],
+            [
+                "Swords to Plowshares",
+                "Fourth Edition",
+                "-1",
+                "Rare",
+                "WB",
+                "3.20"
+            ],
+            [
+                "Path to Exile",
+                "Magic Origins",
+                "5",
+                "Rare / Foil",
+                "WG",
+                "8.50"
+            ],
+            [
+                "Tarmogoyf",
+                "Core Set 21",
+                "N/A",
+                "Mythic",
+                "BG",
+                "65.00"
+            ],
+            [
+                "Dark Ritual",
+                "Revised",
+                "92",
+                "Uncommon",
+                "URB",
+                "12.05"
+            ],
+            [
+                "Brainstorm",
+                "Fifth Edition",
+                "",
+                "Basic Land",
+                "UW",
+                "0.05"
+            ]
+        ]
+    }
+}

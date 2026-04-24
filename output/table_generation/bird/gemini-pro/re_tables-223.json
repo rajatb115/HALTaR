@@ -1,0 +1,45 @@
+{
+    "table-223-223": {
+        "title": [
+            "Molecule Name",
+            "Carcinogenic",
+            "Number of Molecules"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Carcinogenicity of Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the difference between the number of molecules that are carcinogenic and those that are not?",
+        "data": [
+            [
+                "Benzene",
+                "Yes",
+                "1,234"
+            ],
+            [
+                "Water",
+                "No",
+                "5,678"
+            ],
+            [
+                "Formaldehyde",
+                "Yes",
+                "910"
+            ],
+            [
+                "Ethanol",
+                "No",
+                "1,112"
+            ],
+            [
+                "Aspirin",
+                "No",
+                "345"
+            ]
+        ]
+    }
+}

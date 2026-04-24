@@ -1,0 +1,69 @@
+{
+    "table-1398-1398": {
+        "title": [
+            "Event_Name",
+            "Date_Spent",
+            "Food_Category",
+            "Total_Cost",
+            "Number_of_Attendees",
+            "Cost_Per_Person"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "On average, how much did the Student_Club spend on food for the typical event in the past?",
+        "data": [
+            [
+                "Annual Picnic",
+                "4/15/2023",
+                "Catering",
+                "$450.00",
+                "60",
+                "$7.50"
+            ],
+            [
+                "Mystery Dinner",
+                "5/10/23",
+                "Restaurant_Reservation",
+                "$320.55",
+                "45",
+                "$7.12"
+            ],
+            [
+                "Spring_Fundraiser_Bake_Sale",
+                "3/22/24",
+                "Ingredients & Supplies",
+                "$185.05",
+                "80",
+                "$2.31"
+            ],
+            [
+                "Summer_Kickoff_Grill_Out",
+                "6/05/3",
+                "Meat_and_Veggie_Platter",
+                "$275.20",
+                "55",
+                "$5.19"
+            ],
+            [
+                "Fall_Tech_Workshop_Lunches",
+                "10//12/3",
+                "Sandwich_Order_Delivery",
+                "$142.56",
+                "32",
+                "$4.45"
+            ],
+            [
+                "Winter_Holiday_Parties",
+                "2/14/25",
+                "Dessert_and_Beverage_Set",
+                "$390.10",
+                "",
+                ""
+            ]
+        ]
+    }
+}

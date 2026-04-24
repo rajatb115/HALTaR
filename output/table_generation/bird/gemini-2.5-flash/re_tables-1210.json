@@ -1,0 +1,69 @@
+{
+    "table-1210-1210": {
+        "title": [
+            "Patient ID",
+            "Date of Birth",
+            "ALT Level (U/L)",
+            "Diagnosis",
+            "Date of Diagnosis"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide the diagnosis of patients with ALT glutamic pylvic transaminase beyond the normal range by ascending order of their date of birth.",
+        "data": [
+            [
+                "P005",
+                "1965-03-10",
+                "85",
+                "Non-alcoholic Fatty Liver Disease",
+                "2023-01-15"
+            ],
+            [
+                "P002",
+                "1972-11-22",
+                "120",
+                "Acute Viral Hepatitis",
+                "2023-02-01"
+            ],
+            [
+                "P008",
+                "1978-07-01",
+                "68",
+                "Medication-induced Liver Injury",
+                "2023-03-10"
+            ],
+            [
+                "P001",
+                "1980-05-15",
+                "92",
+                "Alcoholic Liver Disease",
+                "2023-04-05"
+            ],
+            [
+                "P003",
+                "1985-09-03",
+                "75",
+                "Autoimmune Hepatitis",
+                "2023-05-20"
+            ],
+            [
+                "P007",
+                "1990-01-20",
+                "150",
+                "Mononucleosis",
+                "2023-06-12"
+            ],
+            [
+                "P004",
+                "1992-04-18",
+                "62",
+                "Gallstones",
+                "2023-07-01"
+            ]
+        ]
+    }
+}

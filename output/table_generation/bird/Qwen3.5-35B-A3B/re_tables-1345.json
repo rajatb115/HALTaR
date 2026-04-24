@@ -1,0 +1,67 @@
+{
+    "table-1345-1345": {
+        "title": [
+            "Date",
+            "Fundraising ID",
+            "Amount Raised",
+            "Currency",
+            "Investor Count",
+            "Notes",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the notes of the fundraising on 2019/9/14?",
+        "data": [
+            [
+                "21-Sep-2023",
+                "FRD-230921-A",
+                "$1,250,000",
+                "USD",
+                "45",
+                "Series C round for expansion in Asia; closed successfully",
+                "Completed"
+            ],
+            [
+                "14-Sep-19",
+                "FRQ-140919-B",
+                "\u20ac875,050",
+                "EUR",
+                "32",
+                "Seed funding allocated for R&D prototype development; delayed by two weeks due to regulatory review",
+                "Finalized"
+            ],
+            [
+                "03-Oct-22",
+                "FRT-031022-C",
+                "\u00a3620,300",
+                "GBP",
+                "58",
+                "Strategic partnership capital injection focused on AI integration; terms renegotiated mid-process",
+                "Active"
+            ],
+            [
+                "22-Nov-21",
+                "FRU-241121-D",
+                "\u00a515,400,20",
+                "JPY",
+                "71",
+                "Public offering proceeds designated for infrastructure upgrades; market volatility impacted final valuation",
+                "Pending Audit"
+            ],
+            [
+                "30-Aug-25",
+                "FRV-30A",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

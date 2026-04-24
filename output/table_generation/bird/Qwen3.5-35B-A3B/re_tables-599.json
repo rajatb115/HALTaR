@@ -1,0 +1,85 @@
+{
+    "table-599-599": {
+        "title": [
+            "Badge Category",
+            "Count_2024",
+            "Count_Previous",
+            "Percentage_Difference",
+            "Status",
+            "Region",
+            "Issuer_ID"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage difference of student badges given during 2010 and 2011?",
+        "data": [
+            [
+                "Academic Excellence",
+                "450",
+                "380",
+                "+18.4%",
+                "Active",
+                "North",
+                "ISS-1002"
+            ],
+            [
+                "Leadership Award",
+                "620",
+                "N/A",
+                "-12.5%",
+                "Pending",
+                "South",
+                "ISS-LD77"
+            ],
+            [
+                "Community Service",
+                "890",
+                "PENDING",
+                "+5.2%",
+                "Approved",
+                "East",
+                "ISS-CS99"
+            ],
+            [
+                "Sportsmanship Medal",
+                "510",
+                "TBD",
+                "-8.1%",
+                "Reviewing",
+                "West",
+                "ISS-SM44"
+            ],
+            [
+                "Innovation Prize",
+                "730",
+                "NULL",
+                "+22.0%",
+                "Finalized",
+                "Central",
+                "ISS-IN33"
+            ],
+            [
+                "Attendance Certificate",
+                "920",
+                "1050",
+                "-12%",
+                "Inactive",
+                "All Regions",
+                "ISS-AT01"
+            ],
+            [
+                "Creative Arts Trophy",
+                "0",
+                "ERROR",
+                "N/D",
+                "Suspended",
+                "Unknown",
+                "ISS-CR88"
+            ]
+        ]
+    }
+}

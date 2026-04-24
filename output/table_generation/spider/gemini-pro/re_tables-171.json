@@ -1,0 +1,52 @@
+{
+    "table-171-171": {
+        "title": [
+            "Document ID",
+            "Template ID",
+            "Description",
+            "Document Name"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Document Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the document id, template id, and description for the document with the name Robbin CV.",
+        "data": [
+            [
+                "1234",
+                "5678",
+                "Curriculum Vitae",
+                "Robbin CV"
+            ],
+            [
+                "5678",
+                "9012",
+                "Invoice",
+                "Invoice 123"
+            ],
+            [
+                "9012",
+                "3456",
+                "Contract",
+                "Contract A"
+            ],
+            [
+                "3456",
+                "7890",
+                "Cover Letter",
+                "Cover Letter B"
+            ],
+            [
+                "7890",
+                "1234",
+                "Report",
+                "Monthly Report"
+            ]
+        ]
+    }
+}

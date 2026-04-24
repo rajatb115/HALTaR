@@ -1,0 +1,77 @@
+{
+    "table-970-970": {
+        "title": [
+            "Driver ID",
+            "Full Name",
+            "Nationality",
+            "Birth Year",
+            "License Status",
+            "Team Affiliation"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many Australian drivers who were born in 1980?",
+        "data": [
+            [
+                "AUS_0042",
+                "Liam O'Connor",
+                "Australian",
+                "1980",
+                "Active",
+                "Red Bull Racing Academy"
+            ],
+            [
+                "AUS_0117",
+                "Noah Mitchell",
+                "Australian",
+                "1986",
+                "Retired",
+                "Williams Development"
+            ],
+            [
+                "AUS_2093",
+                "Ethan Clarke",
+                "Australian",
+                "",
+                "Pending",
+                "N/A"
+            ],
+            [
+                "AUS_3341",
+                "Jack Thompson",
+                "Australian",
+                "",
+                "Active",
+                "Mercedes Junior Program"
+            ],
+            [
+                "AUS_4502",
+                "Oliver Hayes",
+                "Australian",
+                "",
+                "Active",
+                "AlphaTauri Reserve"
+            ],
+            [
+                "AUS_5678",
+                "Lucas Bennett",
+                "Australian",
+                "",
+                "Inactive",
+                "Formula E Support"
+            ],
+            [
+                "AUS_6721",
+                "Harrison Price",
+                "Australian",
+                "null",
+                "Pending",
+                "Privateer Entry"
+            ]
+        ]
+    }
+}

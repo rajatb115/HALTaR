@@ -1,0 +1,47 @@
+{
+    "table-603-603": {
+        "title": [
+            "Post ID",
+            "Score",
+            "User ID"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "High Scoring Posts and Associated User IDs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out all post ID with score more than 60 and list out all the user ID that created these post.",
+        "data": [
+            [
+                "123",
+                "75",
+                "101"
+            ],
+            [
+                "456",
+                "65",
+                "102"
+            ],
+            [
+                "789",
+                "80",
+                "103"
+            ],
+            [
+                "1011",
+                "90",
+                "101"
+            ],
+            [
+                "1213",
+                "70",
+                "104"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-36-36": {
+        "title": [
+            "School_Name",
+            "Total_Enrollment_Grades_1_to_12",
+            "Administrator_Email",
+            "City_State",
+            "Accreditation_Status",
+            "Last_Audit_Date",
+            "Student_Teacher_Ratio"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the administrator's email address of the chartered school with the fewest students enrolled in grades 1 through 12?",
+        "data": [
+            [
+                "Charter Academy North",
+                "412",
+                "j.smith@charternorth.edu",
+                "Springfield IL",
+                "Active",
+                "27-Jun-2023",
+                "16:5"
+            ],
+            [
+                "Little Oak Elementary Charter",
+                "385",
+                "m.jones@littloeck.org",
+                "Austin TX",
+                "Active",
+                "14-Mar-2023",
+                "15:2"
+            ],
+            [
+                "Riverbend Community Charter",
+                "",
+                "r.williams@riverbend.net",
+                "Denver CO",
+                "Pending",
+                "01-Jan-2022",
+                "18:1"
+            ],
+            [
+                "Sunrise Valley Preparatory",
+                "520",
+                "s.davis@sunriseprep.com",
+                "Phoenix AZ",
+                "Active",
+                "05-Nov-2021",
+                "17:3"
+            ],
+            [
+                "Greenwood Heights Charter",
+                "",
+                "g.miller@greenwoodhs.org",
+                "Seattle WA",
+                "Inactive",
+                "10-Feb-2028",
+                "1:1"
+            ]
+        ]
+    }
+}

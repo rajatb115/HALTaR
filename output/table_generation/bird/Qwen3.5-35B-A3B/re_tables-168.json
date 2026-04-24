@@ -1,0 +1,76 @@
+{
+    "table-168-168": {
+        "title": [
+            "Client_ID",
+            "Card_Type",
+            "Issue_Date",
+            "Status",
+            "Credit_Limit",
+            "Region",
+            "Issuing_Branch"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the clients' IDs whose junior credit cards were issued after 1996.",
+        "data": [
+            [
+                "C1045",
+                "Junior_Credit",
+                "03/15/1977",
+                "Active",
+                "$500",
+                "North",
+                "Downtown_01"
+            ],
+            [
+                "C2089",
+                "Junior_Gold",
+                "06/22/1898",
+                "Inactive",
+                "$750",
+                "South",
+                "Harbor_View"
+            ],
+            [
+                "C3102",
+                "Junior_Premium",
+                "09/10/1799",
+                "Pending",
+                "$1000",
+                "West",
+                "Westside_Main"
+            ],
+            [
+                "C4567",
+                "Junior_Silver",
+                "04/30/2023",
+                "Active",
+                "$250",
+                "Central",
+                "City_Hub"
+            ],
+            [
+                "C5891",
+                "Junior_Visa",
+                "08/12/2101",
+                "Closed",
+                "",
+                "",
+                "Metro_Center"
+            ],
+            [
+                "C6234",
+                "Junior_Mastercard",
+                "05/05/2999",
+                "Suspended",
+                "$300",
+                "Northern",
+                "Branch_A"
+            ]
+        ]
+    }
+}

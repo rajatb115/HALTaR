@@ -1,0 +1,52 @@
+{
+    "table-882-882": {
+        "title": [
+            "Driver Name",
+            "Races Started",
+            "Races Completed",
+            "Completion Rate"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Formula 1 Driver Race Completion Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the drivers who took part in the race in 1983/7/16, what's their race completion rate?",
+        "data": [
+            [
+                "Alain Prost",
+                "13",
+                "9",
+                "69.2%"
+            ],
+            [
+                "Nelson Piquet",
+                "13",
+                "8",
+                "61.5%"
+            ],
+            [
+                "Patrick Tambay",
+                "12",
+                "7",
+                "58.3%"
+            ],
+            [
+                "Eddie Cheever",
+                "13",
+                "5",
+                "38.5%"
+            ],
+            [
+                "John Watson",
+                "6",
+                "2",
+                "33.3%"
+            ]
+        ]
+    }
+}

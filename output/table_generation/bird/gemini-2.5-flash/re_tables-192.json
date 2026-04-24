@@ -1,0 +1,69 @@
+{
+    "table-192-192": {
+        "title": [
+            "Loan ID",
+            "Account Type",
+            "Pre-payment Option",
+            "Duration (Months)",
+            "Statement Frequency",
+            "Outstanding Balance"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many loan accounts are for pre-payment of duration of 24 months with weekly issuance of statement.",
+        "data": [
+            [
+                "L001",
+                "Personal Loan",
+                "Allowed",
+                "24",
+                "Weekly",
+                "15000.00"
+            ],
+            [
+                "L002",
+                "Auto Loan",
+                "Allowed",
+                "24",
+                "Weekly",
+                "28000.00"
+            ],
+            [
+                "L003",
+                "Home Equity",
+                "Allowed",
+                "36",
+                "Weekly",
+                "75000.00"
+            ],
+            [
+                "L004",
+                "Business Loan",
+                "Allowed",
+                "24",
+                "Monthly",
+                "50000.00"
+            ],
+            [
+                "L005",
+                "Student Loan",
+                "Not Allowed",
+                "60",
+                "Quarterly",
+                "30000.00"
+            ],
+            [
+                "L006",
+                "Personal Loan",
+                "Allowed",
+                "24",
+                "Weekly",
+                "12500.00"
+            ]
+        ]
+    }
+}

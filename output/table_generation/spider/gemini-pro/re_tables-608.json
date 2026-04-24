@@ -1,0 +1,39 @@
+{
+    "table-608-608": {
+        "title": [
+            "Treatment Type",
+            "Number of Dogs Treated"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Dog Treatment Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many dogs went through any treatments?",
+        "data": [
+            [
+                "Vaccine",
+                "15"
+            ],
+            [
+                "Deworming",
+                "22"
+            ],
+            [
+                "Flea/Tick Control",
+                "28"
+            ],
+            [
+                "Injury Care",
+                "10"
+            ],
+            [
+                "Dental Cleaning",
+                "5"
+            ]
+        ]
+    }
+}

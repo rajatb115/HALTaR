@@ -1,0 +1,77 @@
+{
+    "table-54-54": {
+        "title": [
+            "School ID",
+            "Mailing City",
+            "State",
+            "Test Taker Count",
+            "Exam Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many test takers are there at the school/s whose mailing city address is in Fresno?",
+        "data": [
+            [
+                "SCH-FR-004",
+                "Fresno",
+                "CA",
+                "342",
+                "06/15/2023",
+                "Active"
+            ],
+            [
+                "SCH-CV-012",
+                "Clovis",
+                "CA (Nearby)",
+                "89",
+                "06/22/2023",
+                "Pending"
+            ],
+            [
+                "FRESNO-HS-09",
+                "Fresno Heights",
+                "CA",
+                "N/A",
+                "07/01/2024",
+                "Inactive"
+            ],
+            [
+                "FR-SCH-22B",
+                "North Fresno",
+                "California",
+                "5120",
+                "09/10/2025",
+                "Verified"
+            ],
+            [
+                "WESTSIDE-ACT",
+                "Westside District",
+                "CA",
+                "45",
+                "",
+                "Archived"
+            ],
+            [
+                "CENTRAL-ELEM",
+                "Central Valley",
+                "CA",
+                "1923",
+                "",
+                "Draft"
+            ],
+            [
+                "MOUNTAIN-VIEW",
+                "Mountain View Area",
+                "CA",
+                "278",
+                "",
+                "Confirmed"
+            ]
+        ]
+    }
+}

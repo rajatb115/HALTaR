@@ -1,0 +1,51 @@
+{
+    "table-197-197": {
+        "title": [
+            "Molecule Name",
+            "Carcinogenic",
+            "Halogen Atoms Present",
+            "Number of Chlorine Atoms"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Non-Carcinogenic Molecules and Halogen Atoms",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the non-carcinogenic molecules, how many contain chlorine atoms?",
+        "data": [
+            [
+                "Compound A",
+                "No",
+                "Chlorine, Fluorine",
+                "2"
+            ],
+            [
+                "Compound B",
+                "No",
+                "Chlorine",
+                "1"
+            ],
+            [
+                "Compound C",
+                "No",
+                "Bromine",
+                "0"
+            ],
+            [
+                "Compound D",
+                "No",
+                "Chlorine",
+                "3"
+            ],
+            [
+                "Compound E",
+                "Yes",
+                "Chlorine",
+                "1"
+            ]
+        ]
+    }
+}

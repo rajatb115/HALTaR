@@ -1,0 +1,51 @@
+{
+    "table-1409-1409": {
+        "title": [
+            "Parking Type",
+            "Cost Per Hour",
+            "Hours Parked",
+            "Total Cost"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Parking Cost Calculation",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total cost spent for Parking in the list.",
+        "data": [
+            [
+                "Street Parking",
+                "$2.00",
+                "3",
+                "$6.00"
+            ],
+            [
+                "Garage Parking",
+                "$5.00",
+                "4",
+                "$20.00"
+            ],
+            [
+                "Valet Parking",
+                "$10.00",
+                "2",
+                "$20.00"
+            ],
+            [
+                "Lot Parking",
+                "$3.00",
+                "5",
+                "$15.00"
+            ],
+            [
+                "Meter Parking",
+                "$1.50",
+                "1",
+                "$1.50"
+            ]
+        ]
+    }
+}

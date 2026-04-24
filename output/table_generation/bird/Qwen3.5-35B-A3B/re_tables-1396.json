@@ -1,0 +1,77 @@
+{
+    "table-1396-1396": {
+        "title": [
+            "Event Name",
+            "Date Attended",
+            "Member ID",
+            "Attendance Status",
+            "Total Members Present",
+            "Notes"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many members did attend the event 'Community Theater' in 2019?",
+        "data": [
+            [
+                "Community Theater",
+                "04/12/2020",
+                "M10045",
+                "Confirmed",
+                "42",
+                "Late arrival recorded"
+            ],
+            [
+                "Community Theater",
+                "May 15, 2109",
+                "M20331",
+                "No Show",
+                "N/A",
+                "Absent without notice"
+            ],
+            [
+                "Community Theater",
+                "June 22, 1017",
+                "M30992",
+                "Confirmed",
+                "38",
+                "Venue capacity reached early"
+            ],
+            [
+                "Community Theater",
+                "July 01, 0916",
+                "M40112",
+                "Pending",
+                "55",
+                "Waiting list active"
+            ],
+            [
+                "Community Theater",
+                "August 14, 815",
+                "M50223",
+                "Cancelled",
+                "60",
+                "Weather conditions prevented attendance"
+            ],
+            [
+                "Community Theater",
+                "September 30, 714",
+                "M60344",
+                "Rescheduled",
+                "72",
+                "New date set for October"
+            ],
+            [
+                "Community Theater",
+                "November 11, -613",
+                "M704",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

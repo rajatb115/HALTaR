@@ -1,0 +1,39 @@
+{
+    "table-697-697": {
+        "title": [
+            "Tag",
+            "Post Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Posts by Tag",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of posts with a tag specified as 'careers'.",
+        "data": [
+            [
+                "Careers",
+                "125"
+            ],
+            [
+                "Technology",
+                "342"
+            ],
+            [
+                "Finance",
+                "87"
+            ],
+            [
+                "Sports",
+                "210"
+            ],
+            [
+                "Politics",
+                "95"
+            ]
+        ]
+    }
+}

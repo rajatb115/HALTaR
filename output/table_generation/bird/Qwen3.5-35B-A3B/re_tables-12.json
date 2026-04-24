@@ -1,0 +1,43 @@
+{
+    "table-12-12": {
+        "title": [
+            "School Code",
+            "Total Enrollment",
+            "Region",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the codes of the schools with a total enrollment of over 500.",
+        "data": [
+            [
+                "SCH-1042",
+                "620",
+                "North",
+                "Active"
+            ],
+            [
+                "SCH-SK77",
+                "845",
+                "South",
+                "Active"
+            ],
+            [
+                "SCH-MT99",
+                "512",
+                "East",
+                "Inactive"
+            ],
+            [
+                "SCH-LG33",
+                "730",
+                "West",
+                "Active"
+            ]
+        ]
+    }
+}

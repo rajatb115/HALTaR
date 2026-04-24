@@ -1,0 +1,67 @@
+{
+    "table-1298-1298": {
+        "title": [
+            "Patient ID",
+            "Total Cholesterol Level",
+            "Coagulation Degree Measure",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients whose total cholesterol is higher than normal, how many of them have a negative measure of degree of coagulation?",
+        "data": [
+            [
+                "P-1042",
+                "High",
+                "Negative",
+                "Abnormal"
+            ],
+            [
+                "P-1156",
+                "Normal",
+                "Positive",
+                "Standard"
+            ],
+            [
+                "P-Patient-A",
+                "Elevated",
+                "Negative Detected",
+                "Flagged"
+            ],
+            [
+                "Patient-B",
+                "Above Average",
+                "Negative Result",
+                "Alerted"
+            ],
+            [
+                "C-Diagnosis",
+                "Critical Value",
+                "Minus Signifier",
+                "Warning"
+            ],
+            [
+                "D-Sample-X",
+                "Hyperlipidemia",
+                "Inverse Reading",
+                "Review Needed"
+            ],
+            [
+                "E-Monitor-Y",
+                "Excessive",
+                "Downward Trend",
+                "Caution"
+            ],
+            [
+                "F-Cohort-Z",
+                "Severe",
+                "Reversed Metric",
+                "Priority"
+            ]
+        ]
+    }
+}

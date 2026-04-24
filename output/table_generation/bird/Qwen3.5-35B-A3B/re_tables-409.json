@@ -1,0 +1,69 @@
+{
+    "table-409-409": {
+        "title": [
+            "Card ID",
+            "Set Code",
+            "Triggered Ability Text",
+            "Null Power Status",
+            "Data Integrity Score"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many null power cards contain info about the triggered ability",
+        "data": [
+            [
+                "NPC-0042",
+                "M19",
+                "When this enters the battlefield...",
+                "True",
+                "High"
+            ],
+            [
+                "NPC-1105",
+                "UDG",
+                "Whenever you cast a spell...",
+                "False",
+                "Low"
+            ],
+            [
+                "NPC-2298",
+                "RTR",
+                "At the beginning of your upkeep...",
+                "Unknown",
+                "Medium"
+            ],
+            [
+                "NPC-3376",
+                "KLD",
+                "Whenever a creature dies...",
+                "N/A",
+                "Critical"
+            ],
+            [
+                "NPC-4412",
+                "FNM",
+                "If you control three or more lands...",
+                "Partial",
+                "Warning"
+            ],
+            [
+                "NPC-5530",
+                "CMB",
+                "Whenever another player casts a spell",
+                "Incomplete",
+                "Error"
+            ],
+            [
+                "NPC-6641",
+                "STX",
+                "Whenever combat damage is dealt",
+                "Verified",
+                "Stable"
+            ]
+        ]
+    }
+}

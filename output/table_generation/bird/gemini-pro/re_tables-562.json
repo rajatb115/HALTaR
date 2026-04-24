@@ -1,0 +1,51 @@
+{
+    "table-562-562": {
+        "title": [
+            "Post Title",
+            "Comment Score",
+            "Author",
+            "Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Top Scoring Commented Posts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the title for the post which got the highest score comment?",
+        "data": [
+            [
+                "Analyzing AI Trends",
+                "450",
+                "John Doe",
+                "2023-01-15"
+            ],
+            [
+                "The Future of Work",
+                "320",
+                "Jane Smith",
+                "2023-02-20"
+            ],
+            [
+                "Data Science Explained",
+                "280",
+                "Peter Jones",
+                "2023-03-10"
+            ],
+            [
+                "Understanding Blockchain",
+                "210",
+                "Alice Brown",
+                "2023-04-05"
+            ],
+            [
+                "Machine Learning Basics",
+                "190",
+                "David Lee",
+                "2023-05-01"
+            ]
+        ]
+    }
+}

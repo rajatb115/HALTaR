@@ -1,0 +1,37 @@
+{
+    "table-444-444": {
+        "title": [
+            "Set Code",
+            "Expansion Type"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Expansion Set Codes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the code of sets have expansion type of 'expansion'?",
+        "data": [
+            [
+                "Base",
+                "Core"
+            ],
+            [
+                "Jungle",
+                "Expansion"
+            ],
+            [
+                "Fossil",
+                "Expansion"
+            ],
+            [
+                "Team Rocket",
+                "Expansion"
+            ],
+            [
+                "Gym Heroes",
+                "Expansion"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "table-572-572": {
+        "title": [
+            "Student_ID",
+            "Grade_Level",
+            "Friend_Count",
+            "Status",
+            "Last_Updated",
+            "Data_Source",
+            "Record_Status",
+            "Notes"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the minimum grade of students who have no friends.",
+        "data": [
+            [
+                "S1042",
+                "Freshman",
+                "0",
+                "No Friends",
+                "6/15/2023",
+                "School_DB",
+                "Verified",
+                "Minimum found in dataset"
+            ],
+            [
+                "S2019",
+                "Sophomore",
+                "7",
+                "Has Friends",
+                "N/A",
+                "Manual_Entry",
+                "Pending",
+                "Excluded from min calculation"
+            ],
+            [
+                "F3055",
+                "Junior",
+                "3",
+                "HasFriends",
+                "5/10/22",
+                "HR_Systems",
+                "Active",
+                "Not applicable for this query"
+            ],
+            [
+                "M4102",
+                "Senior",
+                "9",
+                "SociallyActive",
+                "4/28/23 / Admin_Log",
+                "Confirmed",
+                "High engagement score",
+                ""
+            ],
+            [
+                "T5088",
+                "Graduate",
+                "8",
+                "PeerNetworked",
+                "ills",
+                "External_API",
+                "Archived",
+                "Irrelevant demographic group"
+            ],
+            [
+                "K6011",
+                "Transfer",
+                "",
+                "Missing_Data",
+                "",
+                "",
+                "Incomplete_Record",
+                "Requires manual review"
+            ],
+            [
+                "L7022",
+                "Special_Ed",
+                "0",
+                "No_Friends",
+                "/",
+                "Local_C",
+                "",
+                ""
+            ]
+        ]
+    }
+}

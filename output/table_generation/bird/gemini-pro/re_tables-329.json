@@ -1,0 +1,51 @@
+{
+    "table-329-329": {
+        "title": [
+            "Element",
+            "Bond Type",
+            "Bond Order",
+            "Atoms Involved"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Double Bonds in TR024 Molecule",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the elements with double bond, consisted in molecule TR024.",
+        "data": [
+            [
+                "Carbon",
+                "Double",
+                "2",
+                "C1-C2"
+            ],
+            [
+                "Oxygen",
+                "Double",
+                "2",
+                "O1-C3"
+            ],
+            [
+                "Carbon",
+                "Double",
+                "2",
+                "C4-C5"
+            ],
+            [
+                "Nitrogen",
+                "Double",
+                "2",
+                "N1-C6"
+            ],
+            [
+                "Carbon",
+                "Double",
+                "2",
+                "C7-C8"
+            ]
+        ]
+    }
+}

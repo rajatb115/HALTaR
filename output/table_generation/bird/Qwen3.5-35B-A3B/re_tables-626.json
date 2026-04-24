@@ -1,0 +1,76 @@
+{
+    "table-626-626": {
+        "title": [
+            "User ID",
+            "Region",
+            "Status",
+            "Join Date",
+            "Subscription Tier",
+            "Last Active",
+            "Total Spent ($)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users were from New York?",
+        "data": [
+            [
+                "UY-4012",
+                "New York",
+                "Active",
+                "06/15/2021",
+                "Premium",
+                "7 days ago",
+                "$1,250.00"
+            ],
+            [
+                "UY-4105",
+                "New Jersey",
+                "Inactive",
+                "03/22/2021",
+                "Basic",
+                "N/A",
+                "$45.05"
+            ],
+            [
+                "UY-YK88",
+                "Connecticut",
+                "Pending",
+                "09/10/2023",
+                "Free Trial",
+                "Today",
+                "$0.50"
+            ],
+            [
+                "NYC-9921",
+                "New York",
+                "Active",
+                "04/12/2019",
+                "Enterprise",
+                "Yesterday",
+                "$5,400.25"
+            ],
+            [
+                "BRX-3321",
+                "Brooklyn",
+                "Suspended",
+                "08/01/2024",
+                "Standard",
+                "5 months ago",
+                "$320.10"
+            ],
+            [
+                "QZP-7712",
+                "Queens",
+                "Active",
+                "06/30/2018",
+                "Premium",
+                "2 hours ago",
+                ""
+            ]
+        ]
+    }
+}

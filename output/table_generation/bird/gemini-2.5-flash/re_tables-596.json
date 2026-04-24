@@ -1,0 +1,77 @@
+{
+    "table-596-596": {
+        "title": [
+            "UserID",
+            "Username",
+            "PostID",
+            "PostTitle",
+            "PostHistoryCount",
+            "TotalViews"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user have only one post history per post and having at least 1000 views?",
+        "data": [
+            [
+                "101",
+                "AliceSmith",
+                "5001",
+                "Data Analysis Basics",
+                "1",
+                "1520"
+            ],
+            [
+                "102",
+                "BobJohnson",
+                "5002",
+                "Advanced SQL Queries",
+                "1",
+                "2105"
+            ],
+            [
+                "101",
+                "AliceSmith",
+                "5003",
+                "Python for Data Science",
+                "3",
+                "1280"
+            ],
+            [
+                "103",
+                "CarolWhite",
+                "5004",
+                "Machine Learning Intro",
+                "1",
+                "890"
+            ],
+            [
+                "104",
+                "DavidGreen",
+                "5005",
+                "Cloud Data Warehousing",
+                "1",
+                "3010"
+            ],
+            [
+                "102",
+                "BobJohnson",
+                "5006",
+                "Big Data Technologies",
+                "2",
+                "750"
+            ],
+            [
+                "105",
+                "EmilyBrown",
+                "5007",
+                "Real-time Analytics",
+                "1",
+                "1050"
+            ]
+        ]
+    }
+}

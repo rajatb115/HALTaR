@@ -1,0 +1,76 @@
+{
+    "table-132-132": {
+        "title": [
+            "District",
+            "Active Loan Count",
+            "Total Outstanding Amount ($)",
+            "Average Loan Size ($)",
+            "Region Code",
+            "Last Updated",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which district has highest active loan?",
+        "data": [
+            [
+                "North Central",
+                "452",
+                "$12,450,000",
+                "$27,544",
+                "NC-012",
+                "06/15/2023",
+                "Verified"
+            ],
+            [
+                "South East",
+                "389",
+                "$9,870,500\t$25,374",
+                "SE-008",
+                "6/2/23\tActive",
+                "",
+                ""
+            ],
+            [
+                "West Valley",
+                "510",
+                "8,900,20\t17,449\tWV-033\t05/30/2\tOpen",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "East Ridge",
+                "420",
+                "11,230,100",
+                "26,738\tER-045\t06\tVerified",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Central Plains",
+                "395",
+                "10,890,300",
+                "",
+                "27\tCP-022\t0\tConfirmed",
+                "",
+                ""
+            ],
+            [
+                "Highland Park",
+                "405",
+                "$10",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-1425-1425": {
+        "title": [
+            "Member ID",
+            "Full Name",
+            "T-Shirt Size",
+            "Category",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the members, how many of them have an extra large t-shirt size?",
+        "data": [
+            [
+                "M004",
+                "Sarah Jenkins",
+                "Extra Large",
+                "Active",
+                "Yes"
+            ],
+            [
+                "M017",
+                "Michael Chen",
+                "Extra Small",
+                "Inactive",
+                "No"
+            ],
+            [
+                "M023",
+                "David Ross",
+                "Medium",
+                "Active",
+                "No"
+            ],
+            [
+                "M031",
+                "Emily White",
+                "Extra XLarge",
+                "Pending",
+                "N/A"
+            ],
+            [
+                "M045",
+                "James Wilson",
+                "Large",
+                "Active",
+                "Yes"
+            ],
+            [
+                "M062",
+                "Lisa Brown",
+                "X-Large",
+                "Inactive",
+                "No"
+            ]
+        ]
+    }
+}

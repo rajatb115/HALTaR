@@ -1,0 +1,37 @@
+{
+    "table-296-296": {
+        "title": [
+            "Course Name",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Math Course Descriptions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How is the math course described?",
+        "data": [
+            [
+                "Algebra I",
+                "Introduces fundamental algebraic concepts, including solving equations and inequalities."
+            ],
+            [
+                "Geometry",
+                "Focuses on shapes, spatial reasoning, and geometric proofs."
+            ],
+            [
+                "Algebra II",
+                "Builds upon Algebra I, covering more advanced topics like functions and polynomials."
+            ],
+            [
+                "Trigonometry",
+                "Explores relationships between angles and sides of triangles, including trigonometric functions."
+            ],
+            [
+                "Calculus",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-234-234": {
+        "title": [
+            "Museum Name",
+            "Opening Year",
+            "Staff Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Museum Staffing Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the names of museums which have more staff than the minimum staff number of all museums opened after 2010.",
+        "data": [
+            [
+                "Museum A",
+                "2005",
+                "150"
+            ],
+            [
+                "Museum B",
+                "2012",
+                "80"
+            ],
+            [
+                "Museum C",
+                "1998",
+                "200"
+            ],
+            [
+                "Museum D",
+                "2015",
+                "90"
+            ],
+            [
+                "Museum E",
+                "2008",
+                "120"
+            ]
+        ]
+    }
+}

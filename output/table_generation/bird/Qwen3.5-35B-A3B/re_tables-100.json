@@ -1,0 +1,62 @@
+{
+    "table-100-100": {
+        "title": [
+            "Account ID",
+            "Loan Validity Months",
+            "Approved Amount",
+            "Opening Date",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the accounts who have loan validity more than 12 months, list out the accounts that have the highest approved amount and have account opening date in 1993.",
+        "data": [
+            [
+                "ACC_7401",
+                "24",
+                "$150,000",
+                "1/15/1963",
+                "Active"
+            ],
+            [
+                "ACC_B29X",
+                "36",
+                "$225,050",
+                "March 10, 1893",
+                "Closed"
+            ],
+            [
+                "ACC_K9L2",
+                "48",
+                "$310,000",
+                "11/22/1883",
+                "Pending"
+            ],
+            [
+                "ACC_M4PQ",
+                "60",
+                "$450,20",
+                "July 4, 2193",
+                "Suspended"
+            ],
+            [
+                "ACC_R7T1",
+                "N/A",
+                "$98,500",
+                "February 29, 3003",
+                "Active"
+            ],
+            [
+                "WLD_XY9Z",
+                "72",
+                "$505,100",
+                "December 31, 0093",
+                ""
+            ]
+        ]
+    }
+}

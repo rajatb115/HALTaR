@@ -1,0 +1,55 @@
+{
+    "table-1358-1358": {
+        "title": [
+            "Member Name",
+            "Payment Date",
+            "Amount Paid",
+            "Payment Method",
+            "Notes"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Membership Dues Payment Log",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the date Connor Hilton paid his/her dues.",
+        "data": [
+            [
+                "Connor Hilton",
+                "2023-03-15",
+                "$50.00",
+                "Online",
+                "Initial Dues"
+            ],
+            [
+                "Connor Hilton",
+                "2023-09-15",
+                "$50.00",
+                "Check",
+                "Semester Dues"
+            ],
+            [
+                "Ashley Smith",
+                "2023-03-10",
+                "$50.00",
+                "Cash",
+                "Initial Dues"
+            ],
+            [
+                "David Lee",
+                "2023-03-20",
+                "$50.00",
+                "Online",
+                "Initial Dues"
+            ],
+            [
+                "Connor Hilton",
+                "2024-03-15",
+                "$50.00",
+                "Online",
+                "Annual Dues"
+            ]
+        ]
+    }
+}

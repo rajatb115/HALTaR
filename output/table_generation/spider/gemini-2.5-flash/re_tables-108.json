@@ -1,0 +1,69 @@
+{
+    "table-108-108": {
+        "title": [
+            "Airline Name",
+            "Country of Origin",
+            "IATA Code",
+            "Primary Hub",
+            "Year Founded"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country does Airline \"JetBlue Airways\" belong to?",
+        "data": [
+            [
+                "JetBlue Airways",
+                "United States",
+                "B6",
+                "JFK",
+                "1998"
+            ],
+            [
+                "Southwest Airlines",
+                "United States",
+                "WN",
+                "DAL",
+                "1967"
+            ],
+            [
+                "Air Canada",
+                "Canada",
+                "AC",
+                "YYZ",
+                "1937"
+            ],
+            [
+                "British Airways",
+                "United Kingdom",
+                "BA",
+                "LHR",
+                "1974"
+            ],
+            [
+                "Lufthansa",
+                "Germany",
+                "LH",
+                "FRA",
+                "1953"
+            ],
+            [
+                "Qantas",
+                "Australia",
+                "QF",
+                "SYD",
+                "1920"
+            ],
+            [
+                "Emirates",
+                "United Arab Emirates",
+                "EK",
+                "DXB",
+                "1985"
+            ]
+        ]
+    }
+}

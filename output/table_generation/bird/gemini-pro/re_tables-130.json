@@ -1,0 +1,49 @@
+{
+    "table-130-130": {
+        "title": [
+            "District Name",
+            "Transaction Date",
+            "Transaction Type",
+            "Withdrawal Amount"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Top Withdrawal Transactions by District",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which are the top ten withdrawals (non-credit card) by district names for the month of January 1996?",
+        "data": [
+            [
+                "Downtown",
+                "1996-01-15",
+                "ATM Withdrawal",
+                "$2,500"
+            ],
+            [
+                "Uptown",
+                "1996-01-08",
+                "Teller Withdrawal",
+                "$1,800"
+            ],
+            [
+                "Midtown",
+                "1996-01-22",
+                "ATM Withdrawal",
+                "$1,500"
+            ],
+            [
+                "Downtown",
+                "1996-01-03",
+                "Teller Withdrawal",
+                "$1,200"
+            ],
+            [
+                "Westside",
+                "1996-01-19",
+                "ATM Withdrawal",
+                "$1,000"
+            ]
+        ]
+    }
+}

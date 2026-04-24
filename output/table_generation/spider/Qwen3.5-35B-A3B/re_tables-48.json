@@ -1,0 +1,93 @@
+{
+    "table-48-48": {
+        "title": [
+            "Pet_Type",
+            "Average_Age_Years",
+            "Maximum_Age_Year",
+            "Sample_Size",
+            "Data_Source",
+            "Last_Update_Date",
+            "Status",
+            "Confidence_Level"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average and maximum age for each type of pet.",
+        "data": [
+            [
+                "Dog",
+                "7.4",
+                "6",
+                "450",
+                "National Survey",
+                "01/15/2023",
+                "Verified",
+                "High"
+            ],
+            [
+                "Cat",
+                "9.2",
+                "8",
+                "320",
+                "Veterinary Records",
+                "02/10/2023",
+                "Verified",
+                "Medium"
+            ],
+            [
+                "Hamster",
+                "5.1",
+                "N/A",
+                "",
+                "Lab Study",
+                "",
+                "Pending",
+                "Low"
+            ],
+            [
+                "Parrot",
+                "",
+                "",
+                "",
+                "Research Paper",
+                "",
+                "Incomplete",
+                "Very_Low"
+            ],
+            [
+                "Rabbit",
+                "",
+                "",
+                "",
+                "Field Notes",
+                "",
+                "Draft",
+                "Unknown"
+            ],
+            [
+                "Fish_Golden",
+                "",
+                "",
+                "",
+                "Homeowner Report",
+                "",
+                "Unverified",
+                "None"
+            ],
+            [
+                "Turtle",
+                "",
+                "",
+                "",
+                "Zoo Database",
+                "",
+                "Archived",
+                "Moderate"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-1147-1147": {
+        "title": [
+            "Team Abbreviation",
+            "Full Team Name",
+            "Goals Scored (Away)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Top Goal Scoring Away Teams",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide the full name of the away team that scored the most goals.",
+        "data": [
+            [
+                "FCB",
+                "FC Barcelona",
+                "45"
+            ],
+            [
+                "RMA",
+                "Real Madrid",
+                "42"
+            ],
+            [
+                "LIV",
+                "Liverpool",
+                "40"
+            ],
+            [
+                "PSG",
+                "Paris Saint-Germain",
+                "38"
+            ],
+            [
+                "MCY",
+                "Manchester City",
+                "35"
+            ]
+        ]
+    }
+}

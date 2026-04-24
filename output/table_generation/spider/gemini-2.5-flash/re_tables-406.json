@@ -1,0 +1,53 @@
+{
+    "table-406-406": {
+        "title": [
+            "Player Name",
+            "Birth Date",
+            "Total Earnings"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the birth date of the poker player with the lowest earnings?",
+        "data": [
+            [
+                "Jane Doe",
+                "1992-03-15",
+                "$45,200"
+            ],
+            [
+                "John Smith",
+                "1985-11-22",
+                "$1,250,000"
+            ],
+            [
+                "Alice Brown",
+                "1978-07-01",
+                "$350,800"
+            ],
+            [
+                "Bob White",
+                "1995-01-10",
+                "$28,900"
+            ],
+            [
+                "Carol Green",
+                "1980-09-03",
+                "$5,700,000"
+            ],
+            [
+                "David Black",
+                "1989-04-18",
+                "$180,500"
+            ],
+            [
+                "Emily Gray",
+                "1972-06-25",
+                "$8,100,000"
+            ]
+        ]
+    }
+}

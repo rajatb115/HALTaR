@@ -1,0 +1,52 @@
+{
+    "table-621-621": {
+        "title": [
+            "Dog ID",
+            "Name",
+            "Age (Years)",
+            "Breed"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Dog Age Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Compute the average age of all the dogs.",
+        "data": [
+            [
+                "1",
+                "Buddy",
+                "3",
+                "Labrador"
+            ],
+            [
+                "2",
+                "Lucy",
+                "5",
+                "Poodle"
+            ],
+            [
+                "3",
+                "Max",
+                "7",
+                "German Shepherd"
+            ],
+            [
+                "4",
+                "Daisy",
+                "2",
+                "Beagle"
+            ],
+            [
+                "5",
+                "Rocky",
+                "4",
+                "Bulldog"
+            ]
+        ]
+    }
+}

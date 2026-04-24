@@ -1,0 +1,85 @@
+{
+    "table-1139-1139": {
+        "title": [
+            "League Name",
+            "Country",
+            "Season Start",
+            "Season End",
+            "Status",
+            "Teams Count",
+            "Top Scorer"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In what country did the Poland Ekstraklasa take place?",
+        "data": [
+            [
+                "Poland Ekstracasa",
+                "Poland",
+                "4/7/2023",
+                "6/1/2/24",
+                "Active",
+                "32",
+                "Arkadiusz Milik"
+            ],
+            [
+                "Lechia Gdansk",
+                "Poland",
+                "1/10/23",
+                "5/12/19",
+                "Historical",
+                "0",
+                "N/A"
+            ],
+            [
+                "Wisla Krakow",
+                "Poland",
+                "12",
+                "22",
+                "Inactive",
+                "5",
+                "Robert Lewandowski"
+            ],
+            [
+                "Legia Warsaw",
+                "Poland",
+                "10",
+                "30",
+                "Active",
+                "None",
+                "Kamil Grosicki"
+            ],
+            [
+                "Cracovia",
+                "Poland",
+                "",
+                "",
+                "Active",
+                "None",
+                "Michal Zyro"
+            ],
+            [
+                "Gornik Zabrze",
+                "Poland",
+                "-",
+                "-",
+                "-",
+                "Inactive",
+                "None"
+            ],
+            [
+                "Pogon Szczecin",
+                "Poland",
+                "--",
+                "--",
+                "--",
+                "Historical",
+                "None"
+            ]
+        ]
+    }
+}

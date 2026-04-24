@@ -1,0 +1,69 @@
+{
+    "table-696-696": {
+        "title": [
+            "User ID",
+            "Username",
+            "Badge Name",
+            "Award Date",
+            "Badge Tier"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users were awarded with 'Citizen Patrol' badge?",
+        "data": [
+            [
+                "1001",
+                "vigilant_vicky",
+                "Citizen Patrol",
+                "2023-10-26",
+                "Silver"
+            ],
+            [
+                "1002",
+                "neighborhood_watch",
+                "Community Helper",
+                "2023-10-20",
+                "Bronze"
+            ],
+            [
+                "1003",
+                "safety_sam",
+                "Citizen Patrol",
+                "2023-09-15",
+                "Gold"
+            ],
+            [
+                "1004",
+                "active_alice",
+                "Top Contributor",
+                "2023-11-01",
+                "Platinum"
+            ],
+            [
+                "1005",
+                "patrol_pete",
+                "Citizen Patrol",
+                "2023-08-22",
+                "Silver"
+            ],
+            [
+                "1006",
+                "helpful_harry",
+                "Community Helper",
+                "2023-07-10",
+                "Bronze"
+            ],
+            [
+                "1007",
+                "citizen_chris",
+                "Citizen Patrol",
+                "2023-06-05",
+                "Gold"
+            ]
+        ]
+    }
+}

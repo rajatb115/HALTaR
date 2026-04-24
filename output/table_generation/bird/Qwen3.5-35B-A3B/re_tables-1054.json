@@ -1,0 +1,49 @@
+{
+    "table-1054-1054": {
+        "title": [
+            "Short Name",
+            "Passing Class",
+            "Chance Creation Rating",
+            "League Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the football teams that has a chance creation passing class of Risky. Inidcate its short name only.",
+        "data": [
+            [
+                "RKS",
+                "Risky",
+                "Low",
+                "Active"
+            ],
+            [
+                "VLT",
+                "Risky",
+                "Medium",
+                "Suspended"
+            ],
+            [
+                "BRS",
+                "Risky",
+                "High",
+                "Promoted"
+            ],
+            [
+                "GNT",
+                "Risky",
+                "N/A",
+                "Relegated"
+            ],
+            [
+                "MTR",
+                "Risky",
+                "Low-Negative",
+                "Active"
+            ]
+        ]
+    }
+}

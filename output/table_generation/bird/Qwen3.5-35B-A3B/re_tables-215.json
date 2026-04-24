@@ -1,0 +1,77 @@
+{
+    "table-215-215": {
+        "title": [
+            "Molecule ID",
+            "Contains Tin Atom",
+            "Label Status",
+            "Primary Element Count",
+            "Classification",
+            "Source Reference"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What type of label is not on molecules with atoms with tin?",
+        "data": [
+            [
+                "MOL-TIN-004",
+                "Yes",
+                "Not Applied",
+                "6",
+                "Organometallic",
+                "J. Chem. Phys."
+            ],
+            [
+                "MEL-SIL-012",
+                "No",
+                "Standard Label",
+                "4",
+                "Silicon-based",
+                "Anal. Chem."
+            ],
+            [
+                "COM-CAR-089",
+                "No",
+                "Radiolabelled",
+                "7",
+                "Carbon-chain",
+                "Biochem. J."
+            ],
+            [
+                "MOL-ZIR-023",
+                "Yes",
+                "Radiation Warning",
+                "5",
+                "Zirconium alloy",
+                "Mat. Sci. Rev."
+            ],
+            [
+                "MOL-GEO-101",
+                "No",
+                "x-ray Diffraction",
+                "8",
+                "Geological sample",
+                "Geochimica Acta"
+            ],
+            [
+                "MEL-PB-055",
+                "Yes",
+                "Toxicity Alert",
+                "3",
+                "Lead compound",
+                "Tox. Lett."
+            ],
+            [
+                "COM-HYD-077",
+                "No",
+                "Spectroscopic Tag",
+                "9",
+                "Hydrocarbon chain",
+                "Org. Process Res. Dev."
+            ]
+        ]
+    }
+}

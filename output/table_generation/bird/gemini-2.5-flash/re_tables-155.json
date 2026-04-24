@@ -1,0 +1,69 @@
+{
+    "table-155-155": {
+        "title": [
+            "Client ID",
+            "Gender",
+            "District",
+            "Age",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male clients in 'Hl.m. Praha' district?",
+        "data": [
+            [
+                "C001",
+                "Male",
+                "Hl.m. Praha",
+                "34",
+                "Active"
+            ],
+            [
+                "C002",
+                "Female",
+                "Brno-m\u011bsto",
+                "28",
+                "Active"
+            ],
+            [
+                "C003",
+                "Male",
+                "Hl.m. Praha",
+                "50",
+                "Inactive"
+            ],
+            [
+                "C004",
+                "Male",
+                "Ostrava",
+                "45",
+                "Active"
+            ],
+            [
+                "C005",
+                "Female",
+                "Hl.m. Praha",
+                "62",
+                "Active"
+            ],
+            [
+                "C006",
+                "Male",
+                "Plze\u0148-m\u011bsto",
+                "29",
+                "Active"
+            ],
+            [
+                "C007",
+                "Male",
+                "Hl.m. Praha",
+                "41",
+                "Active"
+            ]
+        ]
+    }
+}

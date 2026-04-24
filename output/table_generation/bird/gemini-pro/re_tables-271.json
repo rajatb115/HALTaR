@@ -1,0 +1,43 @@
+{
+    "table-271-271": {
+        "title": [
+            "Molecule Name",
+            "CAS Number",
+            "Carcinogenicity"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenicity of Calcium-Containing Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the molecules with element Calcium, are they mostly carcinogenic or non carcinogenic?",
+        "data": [
+            [
+                "Calcium oxide",
+                "1305-78-8",
+                "Non-carcinogenic"
+            ],
+            [
+                "Calcium chloride",
+                "10043-52-4",
+                "Non-carcinogenic"
+            ],
+            [
+                "Calcium carbonate",
+                "471-34-1",
+                "Non-carcinogenic"
+            ],
+            [
+                "Calcium sulfate",
+                "7778-18-9",
+                "Non-carcinogenic"
+            ],
+            [
+                "Calcium hydroxide",
+                "1305-62-0",
+                "Non-carcinogenic"
+            ]
+        ]
+    }
+}

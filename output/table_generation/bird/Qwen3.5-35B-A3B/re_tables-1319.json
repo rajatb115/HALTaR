@@ -1,0 +1,76 @@
+{
+    "table-1319-1319": {
+        "title": [
+            "Event_Name",
+            "Date",
+            "Total_Attendance",
+            "Club_Members_Present",
+            "Venue_Capacity",
+            "Attendance_Rate_Percent",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the event that has the highest attendance of the students from the Student_Club?",
+        "data": [
+            [
+                "Annual Tech Summit",
+                "4/15/2023",
+                "850",
+                "62",
+                "900",
+                "",
+                "Completed"
+            ],
+            [
+                "Spring Career Fair",
+                "3/22/2023",
+                "720",
+                "",
+                "5000",
+                "Low",
+                "Incomplete"
+            ],
+            [
+                "Robotics Workshop",
+                "02/10/2024",
+                "450",
+                "48",
+                "",
+                "Medium",
+                "Ongoing"
+            ],
+            [
+                "Coding Bootcamp Finale",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Pending Review"
+            ],
+            [
+                "Community Outreach Day",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Cancelled"
+            ],
+            [
+                "Summer Leadership Retreat",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Scheduled"
+            ]
+        ]
+    }
+}

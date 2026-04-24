@@ -1,0 +1,62 @@
+{
+    "table-550-550": {
+        "title": [
+            "Post ID",
+            "Post Title",
+            "Tag",
+            "Author",
+            "Body Snippet"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From which post is the tag \"bayesian\" excerpted from? Please give the body of the post.",
+        "data": [
+            [
+                "P001",
+                "Introduction to Bayesian Inference",
+                "bayesian",
+                "Dr. A. Smith",
+                "\"Bayesian inference is a method of statistical inference in which Bayes' theorem is used to update the probability for a hypothesis as more evidence or information becomes available...\""
+            ],
+            [
+                "P002",
+                "Practical Applications of MCMC",
+                "bayesian, mcmc",
+                "J. Doe",
+                "\"Markov Chain Monte Carlo (MCMC) methods are a class of algorithms for sampling from a probability distribution. They are widely used in Bayesian statistics...\""
+            ],
+            [
+                "P003",
+                "Understanding Prior Distributions",
+                "bayesian, priors",
+                "S. Lee",
+                "\"In Bayesian statistics, a prior probability distribution, often simply called the prior, of an uncertain quantity is the probability distribution that would express one's beliefs about this quantity before any evidence is taken into account...\""
+            ],
+            [
+                "P004",
+                "Bayesian Networks Explained",
+                "bayesian, networks",
+                "M. Chen",
+                "\"A Bayesian network, Bayes network, belief network, Bayes net, or directed acyclic graphical model is a probabilistic graphical model that represents a set of random variables and their conditional dependencies via a directed acyclic graph (DAG)...\""
+            ],
+            [
+                "P005",
+                "Comparing Frequentist and Bayesian Approaches",
+                "bayesian, frequentist",
+                "R. Patel",
+                "\"The frequentist and Bayesian approaches to statistics represent two fundamental paradigms for statistical inference. While both aim to draw conclusions from data, they differ significantly in their interpretation of probability and how they handle unknown parameters...\""
+            ],
+            [
+                "P006",
+                "Hierarchical Bayesian Models",
+                "bayesian, hierarchical",
+                "K. Johnson",
+                "\"Hierarchical Bayesian models are statistical models written in multiple levels (hierarchical form), where the parameters of the lower-level distributions are themselves given distributions...\""
+            ]
+        ]
+    }
+}

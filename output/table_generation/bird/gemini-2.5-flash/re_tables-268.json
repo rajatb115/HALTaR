@@ -1,0 +1,45 @@
+{
+    "table-268-268": {
+        "title": [
+            "Molecule ID",
+            "Primary Bond Type"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down the bond type for molecules from molecule id TR000 to TR050.",
+        "data": [
+            [
+                "TR003",
+                "Covalent"
+            ],
+            [
+                "TR009",
+                "Ionic"
+            ],
+            [
+                "TR017",
+                "Covalent"
+            ],
+            [
+                "TR024",
+                "Metallic"
+            ],
+            [
+                "TR031",
+                "Hydrogen"
+            ],
+            [
+                "TR039",
+                "Covalent"
+            ],
+            [
+                "TR046",
+                "Ionic"
+            ]
+        ]
+    }
+}

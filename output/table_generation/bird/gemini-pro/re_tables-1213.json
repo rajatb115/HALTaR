@@ -1,0 +1,45 @@
+{
+    "table-1213-1213": {
+        "title": [
+            "ALP Level",
+            "Treatment Type",
+            "Number of Patients"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Patient Treatment by Alkaliphosphatase Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patients with alkaliphophatase (ALP) within normal range, were they treated as inpatient or outpatient?",
+        "data": [
+            [
+                "Normal",
+                "Inpatient",
+                "150"
+            ],
+            [
+                "Normal",
+                "Outpatient",
+                "350"
+            ],
+            [
+                "High",
+                "Inpatient",
+                "200"
+            ],
+            [
+                "High",
+                "Outpatient",
+                "50"
+            ],
+            [
+                "Low",
+                "Outpatient",
+                "20"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1156-1156": {
+        "title": [
+            "Patient_ID",
+            "Sex",
+            "Birthday",
+            "LDH_Level",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the patient ID, sex and birthday of patient with LDH beyond normal range.",
+        "data": [
+            [
+                "P7482",
+                "Male",
+                "06/12/1978",
+                "450 U/L",
+                "Elevated"
+            ],
+            [
+                "P9103",
+                "Female",
+                "33/09/1892",
+                "512 U/L",
+                "High"
+            ],
+            [
+                "PA291",
+                "Male",
+                "15/04/1654",
+                "601 U/L",
+                "Moderate"
+            ],
+            [
+                "PB445",
+                "Female",
+                "22/01/1789",
+                "720 U/L",
+                "Critical"
+            ],
+            [
+                "PC112",
+                "Male",
+                "09//08/1432",
+                "480 U/L",
+                "Elevated"
+            ],
+            [
+                "PD883",
+                "Female",
+                "11/05/1567",
+                "555 U/L",
+                "High"
+            ],
+            [
+                "PE334",
+                "Male",
+                "28/02/2023",
+                "490 U/N/A",
+                "Pending"
+            ]
+        ]
+    }
+}

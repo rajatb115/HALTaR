@@ -1,0 +1,69 @@
+{
+    "table-606-606": {
+        "title": [
+            "Badge Name",
+            "Badge Type",
+            "Users Awarded",
+            "Award Criteria Summary",
+            "Date Introduced"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users obtained the \"Announcer\" badge?",
+        "data": [
+            [
+                "Announcer",
+                "Bronze",
+                "12500",
+                "Share a link that is clicked by 25 unique visitors",
+                "2010"
+            ],
+            [
+                "Pundit",
+                "Silver",
+                "8700",
+                "Share a link that is clicked by 100 unique visitors",
+                "2010"
+            ],
+            [
+                "Commentator",
+                "Gold",
+                "3200",
+                "Share a link that is clicked by 250 unique visitors",
+                "2010"
+            ],
+            [
+                "Editor",
+                "Bronze",
+                "25000",
+                "Edit 10 posts",
+                "2009"
+            ],
+            [
+                "Reviewer",
+                "Silver",
+                "15000",
+                "Review 100 posts",
+                "2011"
+            ],
+            [
+                "Moderator",
+                "Gold",
+                "500",
+                "Be elected as a moderator",
+                "2012"
+            ],
+            [
+                "Supporter",
+                "Bronze",
+                "30000",
+                "Upvote 100 posts",
+                "2008"
+            ]
+        ]
+    }
+}

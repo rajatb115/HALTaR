@@ -1,0 +1,76 @@
+{
+    "table-282-282": {
+        "title": [
+            "Molecule ID",
+            "Atom Index",
+            "Element Symbol",
+            "Toxicity Classification",
+            "Carcinogen Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Tally the toxicology element of the 4th atom of each molecule that was carcinogenic.",
+        "data": [
+            [
+                "MOL_007",
+                "4",
+                "Cl",
+                "High Risk",
+                "Yes"
+            ],
+            [
+                "MEL_012",
+                "4",
+                "Rb",
+                "Moderate Risk",
+                "No"
+            ],
+            [
+                "RIS_089",
+                "4",
+                "Mn",
+                "Low Risk",
+                "Unknown"
+            ],
+            [
+                "TOK_045",
+                "4",
+                "Sr",
+                "Very High Risk",
+                "Yes"
+            ],
+            [
+                "XAN_102",
+                "4",
+                "As",
+                "Extreme Toxicity",
+                "True"
+            ],
+            [
+                "LUM_221",
+                "4",
+                "Pb",
+                "Severe Hazard",
+                "Confirmed"
+            ],
+            [
+                "BIO_334",
+                "4",
+                "Cd",
+                "Critical Level",
+                "Positive"
+            ],
+            [
+                "DRO_445",
+                "4",
+                "Hg",
+                "Acute Danger",
+                "Active"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-675-675": {
+        "title": [
+            "Display Name",
+            "Reputation",
+            "User ID",
+            "Badges",
+            "Last Seen"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who has the highest reputation? Please give the display name.",
+        "data": [
+            [
+                "CodeMaster",
+                "185000",
+                "101",
+                "Gold",
+                "2023-10-26"
+            ],
+            [
+                "DataWizard",
+                "152000",
+                "105",
+                "Gold",
+                "2023-10-25"
+            ],
+            [
+                "QueryKing",
+                "110000",
+                "112",
+                "Silver",
+                "2023-10-24"
+            ],
+            [
+                "AnalystPro",
+                "98000",
+                "120",
+                "Silver",
+                "2023-10-23"
+            ],
+            [
+                "SQLGuru",
+                "75000",
+                "133",
+                "Bronze",
+                "2023-10-22"
+            ],
+            [
+                "InsightSeeker",
+                "62000",
+                "145",
+                "Bronze",
+                "2023-10-21"
+            ]
+        ]
+    }
+}

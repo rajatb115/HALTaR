@@ -1,0 +1,45 @@
+{
+    "table-511-511": {
+        "title": [
+            "Card Name",
+            "Converted Mana Cost",
+            "Illustrator"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Top Mana Cost Card Illustrators",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the cards that doesn't have multiple faces on the same card, who is the illustrator of the card art that has the highest cost of converted mana?",
+        "data": [
+            [
+                "Emrakul, the Aeons Torn",
+                "15",
+                "Mark Tedin"
+            ],
+            [
+                "Kozilek, Butcher of Truth",
+                "10",
+                "Aleksi Briclot"
+            ],
+            [
+                "Ulamog, the Infinite Gyre",
+                "10",
+                "Aleksi Briclot"
+            ],
+            [
+                "Blightsteel Colossus",
+                "12",
+                "Chris Rahn"
+            ],
+            [
+                "Void Winnower",
+                "9",
+                "Steven Belledin"
+            ]
+        ]
+    }
+}

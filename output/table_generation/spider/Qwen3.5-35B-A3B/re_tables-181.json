@@ -1,0 +1,85 @@
+{
+    "table-181-181": {
+        "title": [
+            "Template ID",
+            "Code Prefix",
+            "Status",
+            "Category",
+            "Created Date",
+            "Last Modified",
+            "Owner"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the ids of templates that have the code PP or PPT.",
+        "data": [
+            [
+                "TPL-PP-0042",
+                "PP",
+                "Active",
+                "Presentation",
+                "7/15/2023",
+                "9/1/2024",
+                "J. Smith"
+            ],
+            [
+                "TTP-PPT-1109",
+                "PPT",
+                "Draft",
+                "Slide Deck",
+                "6/22/2023",
+                "N/A",
+                "M. Johnson"
+            ],
+            [
+                "TPL-PPX-9921",
+                "PP",
+                "Inactive",
+                "Report Archive",
+                "1/10/2021",
+                "12/5/2023",
+                "K. Lee"
+            ],
+            [
+                "PPT-VAR-3344",
+                "PPT",
+                "Pending Review",
+                "Marketing Assets",
+                "3/14/2022",
+                "4/18/2022",
+                "R. Davis"
+            ],
+            [
+                "TT-PP-LITE-772",
+                "PPLite",
+                "Pending",
+                "Lite Version",
+                "11/30/2021",
+                "2/11/2022",
+                "S. Wilson"
+            ],
+            [
+                "PP-CORE-5566",
+                "PPCore",
+                "Pending",
+                "Core System",
+                "5/5/2022",
+                "6/10/2022",
+                "C. Brown"
+            ],
+            [
+                "AUX-PPT-MOD-2211",
+                "PMOD",
+                "Pending",
+                "Auxiliary Module",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

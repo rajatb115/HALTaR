@@ -1,0 +1,49 @@
+{
+    "table-464-464": {
+        "title": [
+            "Country",
+            "Official Languages",
+            "Regional Languages",
+            "Minority Languages"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Languages Spoken by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many languages are spoken in Aruba?",
+        "data": [
+            [
+                "Aruba",
+                "Dutch, Papiamento",
+                "",
+                "English, Spanish"
+            ],
+            [
+                "Curacao",
+                "Dutch, Papiamento, English",
+                "",
+                "Spanish"
+            ],
+            [
+                "Bonaire",
+                "Dutch, Papiamento",
+                "",
+                "Spanish, English"
+            ],
+            [
+                "Sint Maarten",
+                "Dutch, English",
+                "",
+                "Spanish"
+            ],
+            [
+                "Netherlands",
+                "Dutch",
+                "Frisian",
+                "Turkish, Arabic"
+            ]
+        ]
+    }
+}

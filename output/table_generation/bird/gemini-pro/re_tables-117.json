@@ -1,0 +1,40 @@
+{
+    "table-117-117": {
+        "title": [
+            "Client ID",
+            "Application Date",
+            "Start Date",
+            "End Date",
+            "Initial Balance",
+            "Final Balance",
+            "Increase Rate"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "Account Balance Increase Rate",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the client who first applied the loan in 1993/7/5, what is the increase rate of his/her account balance from 1993/3/22 to 1998/12/27?",
+        "data": [
+            [
+                "12345",
+                "1993-07-05",
+                "1993-03-22",
+                "1998-12-27",
+                "$1000",
+                "$2500",
+                "150%"
+            ],
+            [
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "..."
+            ]
+        ]
+    }
+}

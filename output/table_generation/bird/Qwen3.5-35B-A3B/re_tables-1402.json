@@ -1,0 +1,67 @@
+{
+    "table-1402-1402": {
+        "title": [
+            "Event Date",
+            "Item Description",
+            "Unit Cost ($)",
+            "Quantity Ordered",
+            "Total Cost ($)",
+            "Vendor",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicate the cost of posters for 'September Speaker' event.",
+        "data": [
+            [
+                "September 14, 2024",
+                "Standard Poster Design",
+                "$12.50",
+                "500",
+                "$6,250.00",
+                "PrintPro Inc",
+                "Approved"
+            ],
+            [
+                "September 15, 2017",
+                "Large Format Banner",
+                "$45.00",
+                "N/A",
+                "$0.00",
+                "N/A",
+                "Pending Review"
+            ],
+            [
+                "September Series",
+                "Digital File Only",
+                "$5.00",
+                "N/A",
+                "$25.00",
+                "Creative Studio X",
+                "Completed"
+            ],
+            [
+                "October Preview",
+                "Special Edition Poster",
+                "$8.00",
+                "N/A",
+                "$400.00",
+                "FastPrint Co",
+                "Invoiced"
+            ],
+            [
+                "November Launch",
+                "Eco-Friendly Paper Posters",
+                "$9.75",
+                "25",
+                "$243.75",
+                "GreenPress LLC",
+                "On Order"
+            ]
+        ]
+    }
+}

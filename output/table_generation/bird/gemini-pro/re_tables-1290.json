@@ -1,0 +1,52 @@
+{
+    "table-1290-1290": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "Total Protein Level",
+            "Level Category"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "SJS Patients and Total Protein Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients who are diagnosed with SJS, how many of them have a normal level of total protein?",
+        "data": [
+            [
+                "12345",
+                "SJS",
+                "7.2",
+                "Normal"
+            ],
+            [
+                "67890",
+                "SJS",
+                "6.8",
+                "Normal"
+            ],
+            [
+                "24680",
+                "SJS",
+                "5.5",
+                "Low"
+            ],
+            [
+                "13579",
+                "SJS",
+                "8.0",
+                "High"
+            ],
+            [
+                "98765",
+                "SJS",
+                "7.0",
+                "Normal"
+            ]
+        ]
+    }
+}

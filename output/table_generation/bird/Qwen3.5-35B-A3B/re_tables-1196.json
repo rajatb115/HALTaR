@@ -1,0 +1,85 @@
+{
+    "table-1196-1196": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Diagnosis",
+            "Platelet Count (>40)",
+            "Albumin Level (g/dL)",
+            "Age Group",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average blood albumin level for female patients with a PLT greater than 400 who have been diagnosed with SLE?",
+        "data": [
+            [
+                "F-1024",
+                "Female",
+                "SLE",
+                "412",
+                "3.2",
+                "Adult",
+                "Active"
+            ],
+            [
+                "F-1105",
+                "Female",
+                "SLE",
+                "456",
+                "2.9",
+                "Adult",
+                "Remission"
+            ],
+            [
+                "F-F339",
+                "Female",
+                "Sle",
+                "401",
+                "3.5",
+                "Senior",
+                "Active"
+            ],
+            [
+                "G-2210",
+                "Female",
+                "",
+                "478",
+                "31",
+                "Adult",
+                ""
+            ],
+            [
+                "H-4451",
+                "Female",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "I-5562",
+                "Female",
+                "-",
+                "420",
+                "30",
+                "Junior",
+                "Stable"
+            ],
+            [
+                "J-6673",
+                "Female",
+                "--",
+                "435",
+                "28",
+                "Child",
+                "Newly Diagnosed"
+            ]
+        ]
+    }
+}

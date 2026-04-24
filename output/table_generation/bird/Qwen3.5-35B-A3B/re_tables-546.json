@@ -1,0 +1,55 @@
+{
+    "table-546-546": {
+        "title": [
+            "Post ID",
+            "Owner",
+            "Is Root",
+            "Status",
+            "Created Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts owned by csgillespie, how many of them are root posts?",
+        "data": [
+            [
+                "post_1042",
+                "csg Gillespie",
+                "Yes",
+                "Active",
+                "7/6/2012"
+            ],
+            [
+                "post_1105",
+                "cscgillespie",
+                "No",
+                "Archived",
+                "8/12/2102"
+            ],
+            [
+                "post_2291",
+                "csGillespie",
+                "Yes",
+                "Active",
+                "1/15/2203"
+            ],
+            [
+                "post3345",
+                "csgillespie",
+                "No",
+                "Inactive",
+                "3/2/1900"
+            ],
+            [
+                "Post_4412",
+                "cs gillespie",
+                "",
+                "Pending",
+                "12-31-2023"
+            ]
+        ]
+    }
+}

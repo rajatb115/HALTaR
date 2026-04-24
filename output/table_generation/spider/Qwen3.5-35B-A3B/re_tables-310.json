@@ -1,0 +1,62 @@
+{
+    "table-310-310": {
+        "title": [
+            "First_Name",
+            "Middle_Name",
+            "Last_Name",
+            "Degree_Program",
+            "Enrollment_Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is enrolled in a Bachelor degree program? List the first name, middle name, last name.",
+        "data": [
+            [
+                "James",
+                "Robert",
+                "Anderson",
+                "Computer Science",
+                "Active"
+            ],
+            [
+                "Maria",
+                "Elena",
+                "Garcia",
+                "Business Administration",
+                "Active"
+            ],
+            [
+                "Michael",
+                "Thomas",
+                "Chen",
+                "Psychology",
+                "Inactive"
+            ],
+            [
+                "Sarah",
+                "Jane",
+                "Williams",
+                "Biology",
+                "Active"
+            ],
+            [
+                "David",
+                "Lee",
+                "Johnson",
+                "Engineering",
+                "Pending"
+            ],
+            [
+                "Emily",
+                "Rose",
+                "Davis",
+                "History",
+                "Active"
+            ]
+        ]
+    }
+}

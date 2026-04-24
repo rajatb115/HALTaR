@@ -1,0 +1,61 @@
+{
+    "table-315-315": {
+        "title": [
+            "Course Name",
+            "Course Code",
+            "Department",
+            "Enrolled Students"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of all courses that have some students enrolled?",
+        "data": [
+            [
+                "Introduction to Data Science",
+                "DS101",
+                "Computer Science",
+                "45"
+            ],
+            [
+                "Advanced Algorithms",
+                "CS305",
+                "Computer Science",
+                "32"
+            ],
+            [
+                "Principles of Marketing",
+                "MKT201",
+                "Business",
+                "68"
+            ],
+            [
+                "Organic Chemistry I",
+                "CHM101",
+                "Chemistry",
+                "55"
+            ],
+            [
+                "Macroeconomics",
+                "ECO203",
+                "Economics",
+                "72"
+            ],
+            [
+                "Creative Writing Workshop",
+                "ENG310",
+                "English",
+                "28"
+            ],
+            [
+                "Linear Algebra",
+                "MTH201",
+                "Mathematics",
+                "40"
+            ]
+        ]
+    }
+}

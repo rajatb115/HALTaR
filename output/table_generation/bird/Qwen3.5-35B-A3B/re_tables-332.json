@@ -1,0 +1,76 @@
+{
+    "table-332-332": {
+        "title": [
+            "Molecule ID",
+            "Name",
+            "Carcinogen Status",
+            "Source",
+            "Classification Code",
+            "Risk Level",
+            "Assessment Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the molecules are carcinogenic?",
+        "data": [
+            [
+                "MOL-0042",
+                "Benzene",
+                "Yes",
+                "Industrial Solvent",
+                "IARC Group 1",
+                "High",
+                "2023-05-12"
+            ],
+            [
+                "MOL-0115",
+                "Asbestos Fibers",
+                "Yes",
+                "Mineral Deposit",
+                "IARC Group 1",
+                "Very High",
+                "2019-06-27"
+            ],
+            [
+                "MOL-2298",
+                "Formaldehyde",
+                "Yes",
+                "Chemical Synthesis",
+                "IARC Group 1",
+                "Medium",
+                "2022-01-22"
+            ],
+            [
+                "MOL-3301",
+                "Acetone",
+                "No",
+                "Solvent Industry",
+                "Group 3",
+                "Low",
+                "2024-03-15"
+            ],
+            [
+                "MOL-4412",
+                "Ethanol",
+                "No",
+                "Fermentation Product",
+                "Group 1",
+                "Moderate",
+                "2018-11-09"
+            ],
+            [
+                "MOL-5523",
+                "Toluene",
+                "No",
+                "Paint Thinner",
+                "Group 2A",
+                "Low",
+                "2023-08-20"
+            ]
+        ]
+    }
+}

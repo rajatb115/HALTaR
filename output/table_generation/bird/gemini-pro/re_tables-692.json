@@ -1,0 +1,53 @@
+{
+    "table-692-692": {
+        "title": [
+            "User ID",
+            "Age",
+            "Total Upvotes",
+            "Upvotes > 5000"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Adult Users and Upvote Activity",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the number of adult users who have cast over 5000 upvotes.",
+        "data": [
+            [
+                "123",
+                "35",
+                "6200",
+                "True"
+            ],
+            [
+                "456",
+                "28",
+                "2500",
+                "False"
+            ],
+            [
+                "789",
+                "42",
+                "8000",
+                "True"
+            ],
+            [
+                "101",
+                "22",
+                "5500",
+                "True"
+            ],
+            [
+                "112",
+                "61",
+                "1200",
+                "False"
+            ]
+        ]
+    }
+}

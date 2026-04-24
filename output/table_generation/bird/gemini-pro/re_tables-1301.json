@@ -1,0 +1,46 @@
+{
+    "table-1301-1301": {
+        "title": [
+            "Patient ID",
+            "Triglyceride Level (mg/dL)",
+            "Disease Name"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Patient Information Based on Triglyceride Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the disease name of the patient who has the highest level of triglyceride within the normal range?",
+        "data": [
+            [
+                "1234",
+                "140",
+                "Diabetes"
+            ],
+            [
+                "5678",
+                "145",
+                "Hypertension"
+            ],
+            [
+                "9012",
+                "130",
+                "Heart Disease"
+            ],
+            [
+                "3456",
+                "150",
+                "Obesity"
+            ],
+            [
+                "7890",
+                "135",
+                "Arthritis"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1202-1202": {
+        "title": [
+            "Birth_Year",
+            "Diagnosis",
+            "Gender",
+            "Patient_Count",
+            "Percentage_Women",
+            "Study_ID"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of patients who were born in 1980 and were diagnosed with RA are women?",
+        "data": [
+            [
+                "1979",
+                "Rheumatoid Arthritis",
+                "Female",
+                "450",
+                "N/A",
+                "STY-19A"
+            ],
+            [
+                "1798",
+                "Rheumatic Fever",
+                "Male",
+                "320",
+                "0%",
+                "STX-22B"
+            ],
+            [
+                "1980",
+                "Rheumatoid Arthritis (RA)",
+                "Female",
+                "612",
+                "Target Data",
+                "STZ-33C"
+            ],
+            [
+                "1980",
+                "Rheumatoid Arthritis",
+                "Male",
+                "588",
+                "0%",
+                "STA-44D"
+            ],
+            [
+                "2020",
+                "Osteoarthritis",
+                "Female",
+                "120",
+                "100%",
+                "STW-55E"
+            ],
+            [
+                "NA",
+                "Gout",
+                "Male",
+                "89",
+                "0%",
+                "STV-66F"
+            ]
+        ]
+    }
+}

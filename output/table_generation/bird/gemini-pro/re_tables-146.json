@@ -1,0 +1,46 @@
+{
+    "table-146-146": {
+        "title": [
+            "Account Holder ID",
+            "Month",
+            "Spending"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Credit Card Spending in 1998",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who are the account holder identification numbers whose spent per month on the credit card is less than the average, in 1998?",
+        "data": [
+            [
+                "12345",
+                "Jan",
+                "150.00"
+            ],
+            [
+                "67890",
+                "Feb",
+                "75.50"
+            ],
+            [
+                "24680",
+                "Mar",
+                "200.25"
+            ],
+            [
+                "13579",
+                "Apr",
+                "90.00"
+            ],
+            [
+                "98765",
+                "May",
+                "120.75"
+            ]
+        ]
+    }
+}

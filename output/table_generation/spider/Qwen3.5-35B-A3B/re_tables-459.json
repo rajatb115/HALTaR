@@ -1,0 +1,61 @@
+{
+    "table-459-459": {
+        "title": [
+            "Language Family",
+            "Estimated Count",
+            "Primary Region",
+            "Status",
+            "ISO Code Sample",
+            "First Recorded"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many unique languages are spoken in the world?",
+        "data": [
+            [
+                "Indo-European",
+                "~445",
+                "Europe/Asia",
+                "Stable",
+                "en, hi, es",
+                "Ancient"
+            ],
+            [
+                "Sino-Tibetan",
+                "~276",
+                "East Asia",
+                "Stable / Endangered",
+                "zh, my",
+                "Prehistoric"
+            ],
+            [
+                "Afroasiatic",
+                "~370",
+                "Africa/Middle East",
+                "Mixed",
+                "ar, he",
+                "Bronze Age"
+            ],
+            [
+                "Austronesian",
+                "~1260",
+                "Pacific Islands",
+                "Mostly Vital",
+                "id, jv",
+                "Neolithic"
+            ],
+            [
+                "Niger-Congo",
+                "~700+",
+                "Sub-Saharan Africa",
+                "Diverse",
+                "sw, yo",
+                "Iron Age"
+            ]
+        ]
+    }
+}

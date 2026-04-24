@@ -1,0 +1,49 @@
+{
+    "table-731-731": {
+        "title": [
+            "Superhero Name",
+            "Affiliation",
+            "Super Strength",
+            "Other Powers"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Super Strength Among Marvel Superheroes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the superheroes from Marvel Comics, what is the percentage of those who have the super power of \"Super Strength\"?",
+        "data": [
+            [
+                "Hulk",
+                "Avengers",
+                "Yes",
+                "Gamma Radiation, Invulnerability"
+            ],
+            [
+                "Thor",
+                "Avengers",
+                "Yes",
+                "Godlike Power, Weather Control"
+            ],
+            [
+                "Spider-Man",
+                "Avengers",
+                "Yes",
+                "Wall-crawling, Spider-Sense"
+            ],
+            [
+                "Captain Marvel",
+                "Avengers",
+                "Yes",
+                "Energy Absorption, Flight"
+            ],
+            [
+                "Thing",
+                "Fantastic Four",
+                "Yes",
+                "Rock-like Skin, Invulnerability"
+            ]
+        ]
+    }
+}

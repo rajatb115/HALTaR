@@ -1,0 +1,61 @@
+{
+    "table-1429-1429": {
+        "title": [
+            "Member Name",
+            "Department",
+            "City",
+            "State"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the city and state of members enrolled under electrical and computer engineering department.",
+        "data": [
+            [
+                "John Doe",
+                "Electrical Engineering",
+                "Austin",
+                "TX"
+            ],
+            [
+                "Jane Smith",
+                "Computer Engineering",
+                "Seattle",
+                "WA"
+            ],
+            [
+                "Peter Jones",
+                "Electrical Engineering",
+                "Boston",
+                "MA"
+            ],
+            [
+                "Alice Brown",
+                "Computer Engineering",
+                "San Jose",
+                "CA"
+            ],
+            [
+                "Bob White",
+                "Electrical Engineering",
+                "Chicago",
+                "IL"
+            ],
+            [
+                "Carol Green",
+                "Computer Engineering",
+                "Atlanta",
+                "GA"
+            ],
+            [
+                "David Black",
+                "Electrical Engineering",
+                "Denver",
+                "CO"
+            ]
+        ]
+    }
+}

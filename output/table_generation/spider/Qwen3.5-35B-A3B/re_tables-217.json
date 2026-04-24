@@ -1,0 +1,61 @@
+{
+    "table-217-217": {
+        "title": [
+            "Teacher_Name",
+            "Age",
+            "Subject",
+            "School_District",
+            "Hire_Year",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the teachers who are aged either 32 or 33?",
+        "data": [
+            [
+                "John Smith",
+                "31",
+                "Mathematics",
+                "North District",
+                "2015-04-15",
+                "Active"
+            ],
+            [
+                "Sarah Johnson",
+                "67",
+                "History",
+                "South District",
+                "",
+                "Retired"
+            ],
+            [
+                "Michael Brown",
+                "55",
+                "Science",
+                "East District",
+                "1968-12-02",
+                "Active"
+            ],
+            [
+                "Emily Davis",
+                "72",
+                "English",
+                "West District",
+                "1999-10-22",
+                "Inactive"
+            ],
+            [
+                "David Wilson",
+                "88",
+                "Math",
+                "Central District",
+                "2021-01-01",
+                "Active"
+            ]
+        ]
+    }
+}

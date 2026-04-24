@@ -1,0 +1,52 @@
+{
+    "table-85-85": {
+        "title": [
+            "Year",
+            "Make",
+            "Model",
+            "Horsepower"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Historical Car Performance Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average horsepower for all cars produced before 1980 ?",
+        "data": [
+            [
+                "1970",
+                "Ford",
+                "Mustang",
+                "210"
+            ],
+            [
+                "1975",
+                "Chevy",
+                "Nova",
+                "110"
+            ],
+            [
+                "1965",
+                "Pontiac",
+                "GTO",
+                "335"
+            ],
+            [
+                "1978",
+                "VW",
+                "Beetle",
+                "48"
+            ],
+            [
+                "1968",
+                "Dodge",
+                "Charger",
+                "375"
+            ]
+        ]
+    }
+}

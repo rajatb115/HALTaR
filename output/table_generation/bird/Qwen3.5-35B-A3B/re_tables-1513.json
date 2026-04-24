@@ -1,0 +1,76 @@
+{
+    "table-1513-1513": {
+        "title": [
+            "Customer ID",
+            "Date",
+            "Total Amount Paid",
+            "Payment Method",
+            "Status",
+            "Region",
+            "Transaction Count"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which customer paid the most in 2012/8/25?",
+        "data": [
+            [
+                "CUST_4092",
+                "8/16/2025",
+                "$1,240.50",
+                "Credit Card",
+                "Completed",
+                "North America",
+                "3"
+            ],
+            [
+                "CUST_A77B",
+                "9/2/2024",
+                "$890.00",
+                "PayPal",
+                "Pending",
+                "Europe",
+                "5"
+            ],
+            [
+                "COST_X99Z",
+                "7/30/2023",
+                "$2,150.75",
+                "Wire Transfer",
+                "Failed",
+                "Asia Pacific",
+                "4"
+            ],
+            [
+                "CLIENT_M12",
+                "Aug 25, 2024",
+                "$3,400.20",
+                "Debit Card",
+                "Processed",
+                "South America",
+                "N/A"
+            ],
+            [
+                "USER_BETA",
+                "08/01/2022",
+                "$560.10",
+                "Cash",
+                "Completed",
+                "Africa",
+                "6"
+            ],
+            [
+                "SUPPLIER_KK",
+                "8/25/2013",
+                "$450.97",
+                "Check",
+                "Verified",
+                "",
+                ""
+            ]
+        ]
+    }
+}

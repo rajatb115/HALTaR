@@ -1,0 +1,69 @@
+{
+    "table-814-814": {
+        "title": [
+            "Superhero Name",
+            "Alignment",
+            "Attribute Type",
+            "Attribute Value",
+            "Universe"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average attribute value of all neutral superheroes.",
+        "data": [
+            [
+                "The Watcher",
+                "Neutral",
+                "Intelligence",
+                "95",
+                "Marvel"
+            ],
+            [
+                "Doctor Manhattan",
+                "Neutral",
+                "Power",
+                "100",
+                "DC"
+            ],
+            [
+                "Galactus",
+                "Neutral",
+                "Cosmic Power",
+                "98",
+                "Marvel"
+            ],
+            [
+                "Spawn",
+                "Neutral",
+                "Strength",
+                "88",
+                "Image"
+            ],
+            [
+                "Silver Surfer",
+                "Neutral",
+                "Speed",
+                "92",
+                "Marvel"
+            ],
+            [
+                "Martian Manhunter",
+                "Neutral",
+                "Telepathy",
+                "90",
+                "DC"
+            ],
+            [
+                "The Spectre",
+                "Neutral",
+                "Mystical Power",
+                "99",
+                "DC"
+            ]
+        ]
+    }
+}

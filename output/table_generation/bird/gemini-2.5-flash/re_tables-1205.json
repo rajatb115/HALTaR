@@ -1,0 +1,55 @@
+{
+    "table-1205-1205": {
+        "title": [
+            "Patient ID",
+            "Arrival Timestamp",
+            "Evaluation Start Timestamp",
+            "Time to Evaluation (minutes)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How long did it take after patient number 821298 arrived at the hospital for the first time before her evaluation began?",
+        "data": [
+            [
+                "821298",
+                "2023-10-26 09:00:00",
+                "2023-10-26 09:45:00",
+                "45"
+            ],
+            [
+                "821299",
+                "2023-10-26 10:15:00",
+                "2023-10-26 10:30:00",
+                "15"
+            ],
+            [
+                "821300",
+                "2023-10-26 11:00:00",
+                "2023-10-26 12:00:00",
+                "60"
+            ],
+            [
+                "821301",
+                "2023-10-26 13:30:00",
+                "2023-10-26 13:40:00",
+                "10"
+            ],
+            [
+                "821302",
+                "2023-10-26 14:00:00",
+                "2023-10-26 15:30:00",
+                "90"
+            ],
+            [
+                "821303",
+                "2023-10-26 16:00:00",
+                "2023-10-26 16:05:00",
+                "5"
+            ]
+        ]
+    }
+}

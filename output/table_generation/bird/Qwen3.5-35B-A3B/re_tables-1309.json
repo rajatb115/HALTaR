@@ -1,0 +1,69 @@
+{
+    "table-1309-1309": {
+        "title": [
+            "Patient ID",
+            "Platelet Status",
+            "Symptom Count",
+            "Other Symptoms Observed",
+            "Clinical Note"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients who have a normal platelet level, how many of them have other symptoms observed?",
+        "data": [
+            [
+                "P-1042",
+                "Normal",
+                "0",
+                "None",
+                "Routine checkup"
+            ],
+            [
+                "P-1105",
+                "Normal",
+                "1",
+                "Mild Fatigue",
+                "Post-viral recovery"
+            ],
+            [
+                "P -1156",
+                "Normal",
+                "2",
+                "Headache, Nausea",
+                "Migraine history"
+            ],
+            [
+                "P \u20131203",
+                "Normal",
+                "0",
+                "None",
+                "Stable condition"
+            ],
+            [
+                "P\u20131289",
+                "Normal",
+                "3",
+                "Rash,Dizziness,Fatigue",
+                "Allergic reaction suspected"
+            ],
+            [
+                "P\u20141340",
+                "Normal",
+                "1",
+                "Mild Cough",
+                "Seasonal allergy"
+            ],
+            [
+                "P\u20111401",
+                "Normal",
+                "",
+                "0",
+                "No additional findings recorded"
+            ]
+        ]
+    }
+}

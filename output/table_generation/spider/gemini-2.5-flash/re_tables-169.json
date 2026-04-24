@@ -1,0 +1,53 @@
+{
+    "table-169-169": {
+        "title": [
+            "Document Name",
+            "Template ID",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names and template ids for documents that contain the letter w in their description.",
+        "data": [
+            [
+                "Weekly Sales Report",
+                "1001",
+                "Overview of weekly sales performance and key trends."
+            ],
+            [
+                "Workflow Approval Form",
+                "2005",
+                "Document for workflow approval, requiring manager review."
+            ],
+            [
+                "New Product Launch Plan",
+                "3010",
+                "Comprehensive plan for worldwide product launch."
+            ],
+            [
+                "Website Content Review",
+                "4003",
+                "Review and approval of website content updates."
+            ],
+            [
+                "Quarterly Business Review",
+                "5007",
+                "Presentation for quarterly business performance review."
+            ],
+            [
+                "Software Development Workflow",
+                "6012",
+                "Details the workflow for software development projects."
+            ],
+            [
+                "Customer Welcome Packet",
+                "7001",
+                "Packet containing welcome information for new customers."
+            ]
+        ]
+    }
+}

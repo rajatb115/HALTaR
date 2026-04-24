@@ -1,0 +1,77 @@
+{
+    "table-1172-1172": {
+        "title": [
+            "Patient ID",
+            "Age Group",
+            "Examination Date",
+            "Facility Code",
+            "Status",
+            "Count"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many underage patients were examined during the course of the three-year period from 1990 to 1993?",
+        "data": [
+            [
+                "P-4002",
+                "Underage (<18)",
+                "03/15/1976",
+                "MED-CENTRAL",
+                "Completed",
+                "42"
+            ],
+            [
+                "P-4105",
+                "Underweight Adult",
+                "03/20/1890",
+                "ST-JOSEPH",
+                "Pending",
+                "N/A"
+            ],
+            [
+                "P-A112",
+                "Minor (Under 18)",
+                "06/12/1790",
+                "CLINIC-NORTH",
+                "Discharged",
+                "15"
+            ],
+            [
+                "P-B223",
+                "Teenager (13-17)",
+                "11/05/2190",
+                "RURAL-HOSPITAL",
+                "Active",
+                "8"
+            ],
+            [
+                "P-C334",
+                "Child (<12)",
+                "01/30/2290",
+                "MOUNTAIN-MED",
+                "Completed",
+                "29"
+            ],
+            [
+                "P-D445",
+                "Infant (<1)",
+                "12/12/1780",
+                "COASTAL-WELLNESS",
+                "Admitted",
+                "5"
+            ],
+            [
+                "E-F556",
+                "Preteen (10-13)",
+                "",
+                "",
+                "",
+                "2"
+            ]
+        ]
+    }
+}

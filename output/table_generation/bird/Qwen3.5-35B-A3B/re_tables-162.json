@@ -1,0 +1,40 @@
+{
+    "table-162-162": {
+        "title": [
+            "Client ID",
+            "Card Holder Name",
+            "Credit Card Network",
+            "Issuing Bank",
+            "Account Status",
+            "Last Transaction Date",
+            "Monthly Limit USD"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What type of credit card does the client with the id 13539 own?",
+        "data": [
+            [
+                "12456",
+                "Sarah Jenkins",
+                "Visa Platinum",
+                "Chase Bank",
+                "Active",
+                "7/15/2023",
+                "$15,000"
+            ],
+            [
+                "13498",
+                "Michael Ross",
+                "Mastercard Gold",
+                "Wells Fargo",
+                "Active",
+                "7 days ago",
+                "$20,050"
+            ]
+        ]
+    }
+}

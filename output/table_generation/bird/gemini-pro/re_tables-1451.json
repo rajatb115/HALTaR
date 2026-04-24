@@ -1,0 +1,45 @@
+{
+    "table-1451-1451": {
+        "title": [
+            "City",
+            "Country",
+            "Income Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "High-Income Event Locations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the events with more than forty incomes, list the city and country in which the event is happening.",
+        "data": [
+            [
+                "New York",
+                "USA",
+                "62"
+            ],
+            [
+                "London",
+                "UK",
+                "58"
+            ],
+            [
+                "Paris",
+                "France",
+                "51"
+            ],
+            [
+                "Tokyo",
+                "Japan",
+                "48"
+            ],
+            [
+                "Singapore",
+                "Singapore",
+                "42"
+            ]
+        ]
+    }
+}

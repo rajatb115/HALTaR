@@ -1,0 +1,46 @@
+{
+    "table-14-14": {
+        "title": [
+            "Stadium Name",
+            "Average Capacity",
+            "Maximum Capacity"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Stadium Capacity Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average and maximum capacities for all stadiums ?",
+        "data": [
+            [
+                "Stadium A",
+                "50,000",
+                "60,000"
+            ],
+            [
+                "Stadium B",
+                "45,000",
+                "55,000"
+            ],
+            [
+                "Stadium C",
+                "60,000",
+                "70,000"
+            ],
+            [
+                "Stadium D",
+                "35,000",
+                "40,000"
+            ],
+            [
+                "Stadium E",
+                "55,000",
+                "65,000"
+            ]
+        ]
+    }
+}

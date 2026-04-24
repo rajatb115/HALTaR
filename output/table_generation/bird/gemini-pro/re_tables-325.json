@@ -1,0 +1,60 @@
+{
+    "table-325-325": {
+        "title": [
+            "Molecule",
+            "Single Bond (%)",
+            "Double Bond (%)",
+            "Triple Bond (%)",
+            "Aromatic Bond (%)"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "pgTitle": "Bond Type Percentages in Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the percentage of atoms with single bond.",
+        "data": [
+            [
+                "Methane (CH4)",
+                "100",
+                "0",
+                "0",
+                "0"
+            ],
+            [
+                "Ethane (C2H6)",
+                "100",
+                "0",
+                "0",
+                "0"
+            ],
+            [
+                "Ethene (C2H4)",
+                "0",
+                "100",
+                "0",
+                "0"
+            ],
+            [
+                "Ethyne (C2H2)",
+                "0",
+                "0",
+                "100",
+                "0"
+            ],
+            [
+                "Benzene (C6H6)",
+                "0",
+                "0",
+                "0",
+                "100"
+            ]
+        ]
+    }
+}

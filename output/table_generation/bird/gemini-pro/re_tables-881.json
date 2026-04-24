@@ -1,0 +1,46 @@
+{
+    "table-881-881": {
+        "title": [
+            "Race Number",
+            "Driver",
+            "Fastest Lap Speed (mph)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Paul di Resta Race Performance Comparison",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Paul di Resta was in the No. 853 race, what percent faster did he finish in the 853rd race than the next race for the fastest lap speed?",
+        "data": [
+            [
+                "853",
+                "Paul di Resta",
+                "150.2"
+            ],
+            [
+                "854",
+                "Paul di Resta",
+                "148.5"
+            ],
+            [
+                "853",
+                "Other Driver 1",
+                "149.8"
+            ],
+            [
+                "854",
+                "Other Driver 1",
+                "147.9"
+            ],
+            [
+                "855",
+                "Paul di Resta",
+                "151.1"
+            ]
+        ]
+    }
+}

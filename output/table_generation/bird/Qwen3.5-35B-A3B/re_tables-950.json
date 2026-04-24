@@ -1,0 +1,61 @@
+{
+    "table-950-950": {
+        "title": [
+            "Constructor",
+            "Points",
+            "Wins",
+            "Podiums",
+            "Seasons",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which constructor has the highest point?",
+        "data": [
+            [
+                "Red Bull Racing",
+                "860",
+                "7",
+                "42",
+                "3",
+                "Active"
+            ],
+            [
+                "Mercedes AMG",
+                "652",
+                "0",
+                "5",
+                "0",
+                "Active"
+            ],
+            [
+                "Ferrari",
+                "92",
+                "0",
+                "0",
+                "0",
+                "Active"
+            ],
+            [
+                "McLaren F1 Team",
+                "59",
+                "0",
+                "0",
+                "0",
+                "Active"
+            ],
+            [
+                "Aston Martin Aramco",
+                "0",
+                "0",
+                "0",
+                "0",
+                "Active"
+            ]
+        ]
+    }
+}

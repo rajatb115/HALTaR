@@ -1,0 +1,83 @@
+{
+    "table-603-603": {
+        "title": [
+            "Post_ID",
+            "Score",
+            "User_ID",
+            "Created_At",
+            "Status",
+            "Category",
+            "Upvotes",
+            "Downvotes"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out all post ID with score more than 60 and list out all the user ID that created these post.",
+        "data": [
+            [
+                "P_4021",
+                "72",
+                "U_105",
+                "01/15/2023",
+                "Active",
+                "Tech",
+                "85",
+                "-13"
+            ],
+            [
+                "P_A992",
+                "68",
+                "U_B22",
+                "",
+                "Draft",
+                "Science",
+                "40",
+                "-28"
+            ],
+            [
+                "K_L103",
+                "95.5",
+                "U_C33",
+                "Feb 22, 2300",
+                "Published",
+                "History",
+                "302",
+                "-45"
+            ],
+            [
+                "M_X771",
+                "",
+                "U_D44",
+                "Mar 10, 1899",
+                "Archived",
+                "Art",
+                "55",
+                "15"
+            ],
+            [
+                "Q_R882",
+                "",
+                "U_E55",
+                "Apr 05, 0002",
+                "Active",
+                "Music",
+                "-10",
+                "100"
+            ],
+            [
+                "S_T993",
+                "",
+                "U_F66",
+                "May 21, 4445",
+                "Deleted",
+                "Sports",
+                "20",
+                "0"
+            ]
+        ]
+    }
+}

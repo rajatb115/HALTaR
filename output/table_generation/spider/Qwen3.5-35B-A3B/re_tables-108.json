@@ -1,0 +1,76 @@
+{
+    "table-108-108": {
+        "title": [
+            "Airline Name",
+            "Country Code",
+            "Headquarters City",
+            "IATA Code",
+            "Founded Year",
+            "Primary Hub Airport",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country does Airline \"JetBlue Airways\" belong to?",
+        "data": [
+            [
+                "JetBlue Airways",
+                "US",
+                "New York",
+                "B6",
+                "9/11/2014",
+                "John F. Kennedy International",
+                "Active"
+            ],
+            [
+                "US",
+                "Boston",
+                "B7",
+                "2020",
+                "Logan International",
+                "Active",
+                ""
+            ],
+            [
+                "CA",
+                "Toronto",
+                "JF",
+                "2100",
+                "Pearson International",
+                "Inactive",
+                ""
+            ],
+            [
+                "UK",
+                "London",
+                "LHR",
+                "2205",
+                "Heathrow",
+                "Pending",
+                ""
+            ],
+            [
+                "-",
+                "DE",
+                "Munich",
+                "JB",
+                "2300",
+                "MunICH",
+                "Suspended"
+            ],
+            [
+                "--",
+                "FR",
+                "Paris",
+                "CDG",
+                "2400--Charles de Gaulle",
+                "Dormant",
+                ""
+            ]
+        ]
+    }
+}

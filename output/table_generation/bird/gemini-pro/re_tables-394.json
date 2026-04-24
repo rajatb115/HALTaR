@@ -1,0 +1,51 @@
+{
+    "table-394-394": {
+        "title": [
+            "Artist",
+            "Foil Status",
+            "Power Level",
+            "Card Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Card Characteristics by Artist",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "On how many cards designed by John Avon is its foil non-powerful?",
+        "data": [
+            [
+                "John Avon",
+                "Foil",
+                "Non-Powerful",
+                "25"
+            ],
+            [
+                "John Avon",
+                "Non-Foil",
+                "Non-Powerful",
+                "32"
+            ],
+            [
+                "John Avon",
+                "Foil",
+                "Powerful",
+                "10"
+            ],
+            [
+                "Other Artists",
+                "Foil",
+                "Non-Powerful",
+                "120"
+            ],
+            [
+                "Other Artists",
+                "Non-Foil",
+                "Non-Powerful",
+                "150"
+            ]
+        ]
+    }
+}

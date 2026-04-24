@@ -1,0 +1,69 @@
+{
+    "table-10-10": {
+        "title": [
+            "School Name",
+            "SAT Math Avg Score",
+            "Funding Type",
+            "Total Students",
+            "City"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the schools with the average score in Math over 560 in the SAT test, how many schools are directly charter-funded?",
+        "data": [
+            [
+                "Northwood High School",
+                "585",
+                "Public",
+                "1850",
+                "Springfield"
+            ],
+            [
+                "Elite Academy Charter",
+                "610",
+                "Charter-Funded",
+                "720",
+                "Metroville"
+            ],
+            [
+                "Westside Prep",
+                "570",
+                "Private",
+                "980",
+                "Lakeside"
+            ],
+            [
+                "Gateway Charter School",
+                "595",
+                "Charter-Funded",
+                "650",
+                "Riverton"
+            ],
+            [
+                "Central High School",
+                "565",
+                "Public",
+                "2100",
+                "Capital City"
+            ],
+            [
+                "Innovation Charter",
+                "605",
+                "Charter-Funded",
+                "810",
+                "Techburg"
+            ],
+            [
+                "Summit View Academy",
+                "578",
+                "Private",
+                "1100",
+                "Hillside"
+            ]
+        ]
+    }
+}

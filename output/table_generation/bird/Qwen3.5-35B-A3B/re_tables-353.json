@@ -1,0 +1,76 @@
+{
+    "table-353-353": {
+        "title": [
+            "Card ID",
+            "Language Variant",
+            "Total Available Count",
+            "Percentage (%)",
+            "Region Code",
+            "Status",
+            "Last Updated"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of the cards availabe in Chinese Simplified.",
+        "data": [
+            [
+                "CARD_0042",
+                "zh-CN",
+                "76%",
+                "",
+                "CN",
+                "Active",
+                "01/15/2024"
+            ],
+            [
+                "CARD_A11B",
+                "zh-Hans",
+                "82%",
+                "",
+                "TW",
+                "Archived",
+                "3/22/2023"
+            ],
+            [
+                "CARD_X9Z",
+                "zh-Simplified",
+                "68%",
+                "",
+                "HK",
+                "Pending",
+                "5/10/2024"
+            ],
+            [
+                "CARD_MK2L",
+                "zh-TW",
+                "45%",
+                "",
+                "SG",
+                "Inactive",
+                "9/01/2023"
+            ],
+            [
+                "CARD_PQRT",
+                "zh-MO",
+                "n/a",
+                "",
+                "MO",
+                "Draft",
+                "N/A"
+            ],
+            [
+                "CARD_VVXJ",
+                "en-US",
+                "12%",
+                "",
+                "US",
+                "Active",
+                "04/20/2025"
+            ]
+        ]
+    }
+}

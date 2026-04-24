@@ -1,0 +1,77 @@
+{
+    "table-547-547": {
+        "title": [
+            "Orchestra Name",
+            "City",
+            "Country",
+            "Status",
+            "Last Performance Year",
+            "Reason for Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the orchestras that do not have any performances?",
+        "data": [
+            [
+                "Aurora Chamber Ensemble",
+                "Portland",
+                "USA",
+                "Inactive",
+                "2015",
+                "Leadership change"
+            ],
+            [
+                "Baltic Youth Orchestra",
+                "Riga",
+                "Latvia",
+                "On Hiatus",
+                "2019",
+                "Pandemic-related disruption"
+            ],
+            [
+                "Grand River Philharmonic",
+                "Ottawa",
+                "Canada",
+                "Dormant",
+                "2008",
+                "Lack of funding"
+            ],
+            [
+                "Southern Cross Orchestra",
+                "Sydney",
+                "Australia",
+                "Disbanded",
+                "1995",
+                "Financial insolvency"
+            ],
+            [
+                "New Horizons Collective",
+                "London",
+                "UK",
+                "Never Performed",
+                "N/A",
+                "Project cancelled"
+            ],
+            [
+                "Alpine Baroque Players",
+                "Bern",
+                "Switzerland",
+                "Inactive",
+                "2010",
+                "Member relocation"
+            ],
+            [
+                "Desert Bloom Orchestra",
+                "Phoenix",
+                "USA",
+                "On Hiatus",
+                "2020",
+                "Volunteer shortage"
+            ]
+        ]
+    }
+}

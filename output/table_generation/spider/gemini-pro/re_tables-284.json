@@ -1,0 +1,53 @@
+{
+    "table-284-284": {
+        "title": [
+            "Event Type",
+            "Number of Events",
+            "Total Injuries",
+            "Average Injuries per Event"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Injury Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average number of injuries caused each time?",
+        "data": [
+            [
+                "Car Accidents",
+                "150",
+                "75",
+                "0.5"
+            ],
+            [
+                "Sports Games",
+                "200",
+                "40",
+                "0.2"
+            ],
+            [
+                "Workplace Accidents",
+                "100",
+                "30",
+                "0.3"
+            ],
+            [
+                "Home Accidents",
+                "250",
+                "50",
+                "0.2"
+            ],
+            [
+                "Public Gatherings",
+                "50",
+                "10",
+                "0.2"
+            ]
+        ]
+    }
+}

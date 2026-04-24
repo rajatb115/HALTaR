@@ -1,0 +1,52 @@
+{
+    "table-1452-1452": {
+        "title": [
+            "Member ID",
+            "Member Name",
+            "Total Amount Paid",
+            "Number of Events"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Top Spenders Across Multiple Events",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the members who incurred expenses in more than one event, who paid the most amount?",
+        "data": [
+            [
+                "123",
+                "John Smith",
+                "$1,500",
+                "3"
+            ],
+            [
+                "456",
+                "Jane Doe",
+                "$1,200",
+                "2"
+            ],
+            [
+                "789",
+                "David Lee",
+                "$1,000",
+                "4"
+            ],
+            [
+                "101",
+                "Alice Brown",
+                "$900",
+                "2"
+            ],
+            [
+                "112",
+                "Robert Green",
+                "$800",
+                "3"
+            ]
+        ]
+    }
+}

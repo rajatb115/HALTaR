@@ -1,0 +1,113 @@
+{
+    "table-1041-1041": {
+        "title": [
+            "Player_Name",
+            "Height_cm",
+            "Avg_Heading_Accuracy_pct",
+            "Team",
+            "Position",
+            "Matches_Played",
+            "Goals_Scored",
+            "Season"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 9,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the top 10 players' names whose heights are above 180 in descending order of average heading accuracy.",
+        "data": [
+            [
+                "Luka Modric",
+                "476",
+                "98.5",
+                "Real Madrid",
+                "Midfielder",
+                "38",
+                "5",
+                "02/23"
+            ],
+            [
+                "Erling Haaland",
+                "620",
+                "89.2",
+                "Manchester City",
+                "Forward",
+                "7",
+                "36",
+                "Q2/02"
+            ],
+            [
+                "Harry Kane",
+                "",
+                "",
+                "Bayern Munich",
+                "Forward",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Virgil van Dijk",
+                "",
+                "",
+                "Liverpool FC",
+                "Defender",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ruben Dias",
+                "",
+                "",
+                "Man City",
+                "Defender",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Kalidou Koulibaly",
+                "",
+                "",
+                "Chelsea FC",
+                "Defender",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Marquinhos",
+                "",
+                "",
+                "Paris SG",
+                "Defender",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Milan Skriniar",
+                "",
+                "",
+                "Inter Milan",
+                "Defender",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Alessandro Bastoni",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

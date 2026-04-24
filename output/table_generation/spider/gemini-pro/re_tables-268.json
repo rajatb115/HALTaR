@@ -1,0 +1,49 @@
+{
+    "table-268-268": {
+        "title": [
+            "Player 1",
+            "Player 2",
+            "Winner",
+            "Match Length"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Longest Match Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the winner and loser who played in the longest match?",
+        "data": [
+            [
+                "John Isner",
+                "Nicolas Mahut",
+                "John Isner",
+                "11 hours, 5 minutes"
+            ],
+            [
+                "Leonardo Mayer",
+                "Joao Souza",
+                "Leonardo Mayer",
+                "6 hours, 43 minutes"
+            ],
+            [
+                "Kevin Anderson",
+                "John Isner",
+                "Kevin Anderson",
+                "6 hours, 36 minutes"
+            ],
+            [
+                "Fabrice Santoro",
+                "Arnaud Clement",
+                "Fabrice Santoro",
+                "6 hours, 33 minutes"
+            ],
+            [
+                "Boris Becker",
+                "John McEnroe",
+                "Boris Becker",
+                "6 hours, 21 minutes"
+            ]
+        ]
+    }
+}

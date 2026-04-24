@@ -1,0 +1,43 @@
+{
+    "table-584-584": {
+        "title": [
+            "Treatment Type",
+            "Average Cost",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Treatment Cost Comparison",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the description of the treatment type that costs the least money in total?",
+        "data": [
+            [
+                "Type A",
+                "\\$1000",
+                "Basic treatment with minimal intervention."
+            ],
+            [
+                "Type B",
+                "\\$2500",
+                "Standard treatment with moderate intervention."
+            ],
+            [
+                "Type C",
+                "\\$5000",
+                "Advanced treatment with significant intervention."
+            ],
+            [
+                "Type D",
+                "\\$7500",
+                "Intensive treatment with comprehensive intervention."
+            ],
+            [
+                "Type E",
+                "\\$10000",
+                "Experimental treatment with unknown effectiveness."
+            ]
+        ]
+    }
+}

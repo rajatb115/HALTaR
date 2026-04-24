@@ -1,0 +1,49 @@
+{
+    "table-282-282": {
+        "title": [
+            "Molecule Name",
+            "4th Atom",
+            "Toxicology Element",
+            "Carcinogenic"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenic Molecule Toxicology",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Tally the toxicology element of the 4th atom of each molecule that was carcinogenic.",
+        "data": [
+            [
+                "Benzene",
+                "Carbon",
+                "Carbon",
+                "Yes"
+            ],
+            [
+                "Formaldehyde",
+                "Hydrogen",
+                "Hydrogen",
+                "Yes"
+            ],
+            [
+                "Arsenic Trioxide",
+                "Oxygen",
+                "Oxygen",
+                "Yes"
+            ],
+            [
+                "Vinyl Chloride",
+                "Hydrogen",
+                "Hydrogen",
+                "Yes"
+            ],
+            [
+                "Acrylamide",
+                "Carbon",
+                "Carbon",
+                "Yes"
+            ]
+        ]
+    }
+}

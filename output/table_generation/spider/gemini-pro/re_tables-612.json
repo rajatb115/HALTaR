@@ -1,0 +1,49 @@
+{
+    "table-612-612": {
+        "title": [
+            "Role",
+            "Street",
+            "City",
+            "State"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Professionals Living in Cities Containing \"West\"",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which professionals live in a city containing the substring 'West'? List his or her role, street, city and state.",
+        "data": [
+            [
+                "Accountant",
+                "123 Main St",
+                "Westville",
+                "OH"
+            ],
+            [
+                "Lawyer",
+                "45 Oak Ave",
+                "Westborough",
+                "MA"
+            ],
+            [
+                "Doctor",
+                "789 Pine Ln",
+                "Westland",
+                "MI"
+            ],
+            [
+                "Teacher",
+                "101 Elm Rd",
+                "Western Springs",
+                "IL"
+            ],
+            [
+                "Engineer",
+                "222 Maple Dr",
+                "West Haven",
+                "CT"
+            ]
+        ]
+    }
+}

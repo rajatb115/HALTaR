@@ -1,0 +1,45 @@
+{
+    "table-637-637": {
+        "title": [
+            "Singer Name",
+            "Birth Year",
+            "Citizenship"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Singer Demographics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the birth years and citizenships of the singers?",
+        "data": [
+            [
+                "Adele",
+                "1988",
+                "British"
+            ],
+            [
+                "Beyonc\u00e9",
+                "1981",
+                "American"
+            ],
+            [
+                "Drake",
+                "1986",
+                "Canadian"
+            ],
+            [
+                "Rihanna",
+                "1988",
+                "Barbadian"
+            ],
+            [
+                "Taylor Swift",
+                "1989",
+                "American"
+            ]
+        ]
+    }
+}

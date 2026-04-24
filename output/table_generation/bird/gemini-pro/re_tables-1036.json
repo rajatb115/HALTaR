@@ -1,0 +1,40 @@
+{
+    "table-1036-1036": {
+        "title": [
+            "team_fifa_api_id",
+            "buildUpPlaySpeed"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "FIFA Team Build-Up Play Speed",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the team_fifa_api_id of teams with more than 50 but less than 60 build-up play speed.",
+        "data": [
+            [
+                "1889",
+                "52"
+            ],
+            [
+                "9806",
+                "54"
+            ],
+            [
+                "8475",
+                "58"
+            ],
+            [
+                "8397",
+                "53"
+            ],
+            [
+                "9857",
+                "55"
+            ]
+        ]
+    }
+}

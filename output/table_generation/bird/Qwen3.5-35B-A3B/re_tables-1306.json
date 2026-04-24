@@ -1,0 +1,76 @@
+{
+    "table-1306-1306": {
+        "title": [
+            "Patient ID",
+            "Admission Status",
+            "WBC Level Category",
+            "Count",
+            "Unit",
+            "Date Recorded",
+            "Department"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients accepted to the hospital have a normal level of white blood cells?",
+        "data": [
+            [
+                "P-1042",
+                "Accepted",
+                "Normal",
+                "6,750",
+                "/\u00b5L",
+                "01/15/2023",
+                "General Medicine"
+            ],
+            [
+                "P-A891",
+                "Accepted",
+                "High-Normal",
+                "7,201",
+                "/\u00b5L",
+                "01/20/2023",
+                "Cardiology"
+            ],
+            [
+                "M-3302",
+                "Admitted",
+                "Low-Normal",
+                "4,100",
+                "/\u00b5L",
+                "02/10/2019",
+                "Oncology"
+            ],
+            [
+                "R-5519",
+                "Confirmed Inpatient",
+                "Elevated Borderline",
+                "10,999",
+                "/\u00b5L",
+                "03/22/2024",
+                "Emergency Dept"
+            ],
+            [
+                "T-7720",
+                "Registered Patient",
+                "Optimal Range",
+                "5,500",
+                "/\u00b5L",
+                "04/30/2021",
+                "Pediatrics"
+            ],
+            [
+                "K-9981",
+                "Enrolled Case",
+                "Stable",
+                "6,000",
+                "/\u00b5L",
+                "05/18/1988",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1405-1405": {
+        "title": [
+            "Expense Type",
+            "Approved Value",
+            "Approval Date",
+            "Status",
+            "Event Name"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the type of expenses and their total value approved for 'October Meeting' event.",
+        "data": [
+            [
+                "Catering",
+                "$1200.00",
+                "2023-10-01",
+                "Approved",
+                "October Meeting"
+            ],
+            [
+                "Venue Rental",
+                "$2500.00",
+                "2023-10-02",
+                "Approved",
+                "October Meeting"
+            ],
+            [
+                "A/V Equipment",
+                "$750.00",
+                "2023-10-03",
+                "Approved",
+                "October Meeting"
+            ],
+            [
+                "Speaker Fees",
+                "$1500.00",
+                "2023-10-05",
+                "Approved",
+                "October Meeting"
+            ],
+            [
+                "Marketing Materials",
+                "$300.00",
+                "2023-10-07",
+                "Approved",
+                "October Meeting"
+            ],
+            [
+                "Staff Travel",
+                "$800.00",
+                "2023-10-08",
+                "Approved",
+                "October Meeting"
+            ],
+            [
+                "Miscellaneous Supplies",
+                "$150.00",
+                "2023-10-09",
+                "Approved",
+                "October Meeting"
+            ]
+        ]
+    }
+}

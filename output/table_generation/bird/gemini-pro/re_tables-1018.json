@@ -1,0 +1,51 @@
+{
+    "table-1018-1018": {
+        "title": [
+            "Circuit Name",
+            "Latitude",
+            "Longitude",
+            "Lap Record"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Circuit Coordinates by Lap Record",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the location coordinates of the circuits whose lap record is 1:29.488.",
+        "data": [
+            [
+                "Silverstone",
+                "52.07",
+                "-1.02",
+                "1:29.488"
+            ],
+            [
+                "Suzuka",
+                "34.84",
+                "136.54",
+                "1:29.488"
+            ],
+            [
+                "Catalunya",
+                "41.57",
+                "2.26",
+                "1:29.488"
+            ],
+            [
+                "Imola",
+                "44.34",
+                "11.71",
+                "1:29.488"
+            ],
+            [
+                "Red Bull Ring",
+                "47.22",
+                "14.76",
+                "1:29.488"
+            ]
+        ]
+    }
+}

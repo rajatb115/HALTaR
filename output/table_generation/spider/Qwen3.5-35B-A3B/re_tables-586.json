@@ -1,0 +1,77 @@
+{
+    "table-586-586": {
+        "title": [
+            "Owner ID",
+            "Zip Code",
+            "Total Spent ($)",
+            "Dog Count",
+            "Last Payment Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which owner has paid the largest amount of money in total for their dogs? Show the owner id and zip code.",
+        "data": [
+            [
+                "O-4021",
+                "90267",
+                "4500.00",
+                "3",
+                "01/15/2024",
+                "Active"
+            ],
+            [
+                "O-A119",
+                "60614",
+                "8250.50",
+                "?",
+                "N/A",
+                "Pending"
+            ],
+            [
+                "B-7732",
+                "75201*",
+                "5100**",
+                "",
+                "",
+                ""
+            ],
+            [
+                "C-9901",
+                "33139",
+                "$3,205.75",
+                "1",
+                "",
+                "Closed"
+            ],
+            [
+                "D-5543",
+                "M5V 2T6",
+                "CAD 6,800",
+                "",
+                "",
+                ""
+            ],
+            [
+                "E-1029",
+                "SW1A 1AA",
+                "\u00a34,150",
+                "",
+                "",
+                ""
+            ],
+            [
+                "F-8821",
+                "NW1 6XE",
+                "\u20ac3,900",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

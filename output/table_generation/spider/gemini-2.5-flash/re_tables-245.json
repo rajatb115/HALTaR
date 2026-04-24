@@ -1,0 +1,69 @@
+{
+    "table-245-245": {
+        "title": [
+            "Match ID",
+            "Tournament",
+            "Winner Name",
+            "Winner Rank",
+            "Match Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average rank of winners in all matches.",
+        "data": [
+            [
+                "M001",
+                "Grand Slam",
+                "Player A",
+                "3",
+                "2023-01-15"
+            ],
+            [
+                "M002",
+                "Open Series",
+                "Player B",
+                "12",
+                "2023-02-20"
+            ],
+            [
+                "M003",
+                "Challenger",
+                "Player C",
+                "45",
+                "2023-03-10"
+            ],
+            [
+                "M004",
+                "Masters",
+                "Player D",
+                "8",
+                "2023-04-05"
+            ],
+            [
+                "M005",
+                "Grand Slam",
+                "Player E",
+                "1",
+                "2023-05-12"
+            ],
+            [
+                "M006",
+                "Open Series",
+                "Player F",
+                "22",
+                "2023-06-01"
+            ],
+            [
+                "M007",
+                "Challenger",
+                "Player G",
+                "60",
+                "2023-07-18"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-5-5": {
+        "title": [
+            "Song Name",
+            "Release Year",
+            "Singer Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Songs by Youngest Singers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the name and the release year of the song by the youngest singer.",
+        "data": [
+            [
+                "Closer",
+                "2016",
+                "19"
+            ],
+            [
+                "Perfect",
+                "2017",
+                "26"
+            ],
+            [
+                "Stay",
+                "2021",
+                "17"
+            ],
+            [
+                "Drivers License",
+                "2021",
+                "17"
+            ],
+            [
+                "Happier Than Ever",
+                "2021",
+                "18"
+            ]
+        ]
+    }
+}

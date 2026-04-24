@@ -1,0 +1,76 @@
+{
+    "table-249-249": {
+        "title": [
+            "Player ID",
+            "Full Name",
+            "Country Code",
+            "League",
+            "Position"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the number of distinct country codes of all players.",
+        "data": [
+            [
+                "P0042",
+                "James Wilson",
+                "USA",
+                "Premier League",
+                "Forward"
+            ],
+            [
+                "P1093",
+                "Carlos Ruiz",
+                "MEX",
+                "La Liga",
+                "Defender"
+            ],
+            [
+                "PL772",
+                "Yuki Tanaka",
+                "JPN",
+                "Bundesliga",
+                "Midfielder"
+            ],
+            [
+                "DZ881",
+                "Ahmed Hassan",
+                "EGY",
+                "Serie A",
+                "Goalkeeper"
+            ],
+            [
+                "FR334",
+                "Sophie Dubois",
+                "FRA",
+                "Ligue 1",
+                "Defender"
+            ],
+            [
+                "BR665",
+                "Lucas Silva",
+                "BRA",
+                "Eredivisie",
+                "Forward"
+            ],
+            [
+                "UK991",
+                "Oliver Smith",
+                "ENG",
+                "Championship",
+                "Midfielder"
+            ],
+            [
+                "DE223",
+                "Hans Mueller",
+                "GER",
+                "3. Liga",
+                "Goalkeeper"
+            ]
+        ]
+    }
+}

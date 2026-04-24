@@ -1,0 +1,51 @@
+{
+    "table-1259-1259": {
+        "title": [
+            "Rheumatoid Factor Result",
+            "Coagulation Degree",
+            "Number of Patients",
+            "Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Rheumatoid Factor and Coagulation Correlation",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal Rhuematoid Factor has a positive measure of degree of coagulation?",
+        "data": [
+            [
+                "Normal",
+                "Positive",
+                "150",
+                "60%"
+            ],
+            [
+                "Normal",
+                "Negative",
+                "100",
+                "40%"
+            ],
+            [
+                "Elevated",
+                "Positive",
+                "200",
+                "80%"
+            ],
+            [
+                "Elevated",
+                "Negative",
+                "50",
+                "20%"
+            ],
+            [
+                "Total",
+                "All",
+                "500",
+                "100%"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-129-129": {
+        "title": [
+            "Airline",
+            "APG Weekly Flights",
+            "CVO Weekly Flights",
+            "Primary Hub"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airlines have departing flights from both APG and CVO airports?",
+        "data": [
+            [
+                "Global Freight",
+                "3",
+                "2",
+                "Memphis, USA"
+            ],
+            [
+                "Executive Air",
+                "5",
+                "1",
+                "Atlanta, USA"
+            ],
+            [
+                "Aero Mexico Connect",
+                "0",
+                "7",
+                "Mexico City, MEX"
+            ],
+            [
+                "Cargo Express",
+                "2",
+                "0",
+                "Dallas, USA"
+            ],
+            [
+                "Horizon Air Cargo",
+                "4",
+                "3",
+                "Louisville, USA"
+            ],
+            [
+                "Charter Solutions",
+                "1",
+                "1",
+                "Chicago, USA"
+            ],
+            [
+                "Viva Aerobus",
+                "0",
+                "5",
+                "Monterrey, MEX"
+            ],
+            [
+                "Atlas Air",
+                "2",
+                "0",
+                "Purchase, USA"
+            ]
+        ]
+    }
+}

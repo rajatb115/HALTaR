@@ -1,0 +1,67 @@
+{
+    "table-64-64": {
+        "title": [
+            "Maker Name",
+            "Model Name",
+            "Production Year",
+            "Country"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name of the makers that produced some cars in the year of 1970?",
+        "data": [
+            [
+                "Ford",
+                "Mustang",
+                "1970",
+                "USA"
+            ],
+            [
+                "Chevrolet",
+                "Chevelle",
+                "1970",
+                "USA"
+            ],
+            [
+                "Volkswagen",
+                "Beetle",
+                "1970",
+                "Germany"
+            ],
+            [
+                "Porsche",
+                "911",
+                "1970",
+                "Germany"
+            ],
+            [
+                "Fiat",
+                "124 Spider",
+                "1970",
+                "Italy"
+            ],
+            [
+                "Toyota",
+                "Celica",
+                "1971",
+                "Japan"
+            ],
+            [
+                "Mercedes-Benz",
+                "W114/W115",
+                "1969",
+                "Germany"
+            ],
+            [
+                "AMC",
+                "Javelin",
+                "1970",
+                "USA"
+            ]
+        ]
+    }
+}

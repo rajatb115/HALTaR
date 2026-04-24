@@ -1,0 +1,45 @@
+{
+    "table-66-66": {
+        "title": [
+            "Funding Type",
+            "Number of Schools",
+            "Percentage"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Santa Clara County Charter School Funding Types",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the ratio in percentage of Santa Clara County schools that are locally funded compared to all other types of charter school funding?",
+        "data": [
+            [
+                "Locally Funded",
+                "10",
+                "40%"
+            ],
+            [
+                "State Funded",
+                "8",
+                "32%"
+            ],
+            [
+                "Federally Funded",
+                "5",
+                "20%"
+            ],
+            [
+                "Privately Funded",
+                "2",
+                "8%"
+            ],
+            [
+                "Total",
+                "25",
+                "100%"
+            ]
+        ]
+    }
+}

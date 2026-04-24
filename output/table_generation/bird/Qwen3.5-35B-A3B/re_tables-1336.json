@@ -1,0 +1,76 @@
+{
+    "table-1336-1336": {
+        "title": [
+            "Club_Name",
+            "Month",
+            "Expense_Category",
+            "Amount_Spent",
+            "Currency",
+            "Payment_Method",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much did the Student_Club members spend on advertisement in September Meeting?",
+        "data": [
+            [
+                "Student_Club",
+                "September",
+                "Advertisement",
+                "$450.00",
+                "USD",
+                "Credit Card",
+                "Approved"
+            ],
+            [
+                "Student_Union",
+                "September",
+                "Advertising",
+                "$620.50",
+                "EUR",
+                "Bank Transfer",
+                "Pending"
+            ],
+            [
+                "Debate_Team",
+                "September",
+                "Marketing",
+                "$125.75",
+                "GBP",
+                "Cash",
+                "Completed"
+            ],
+            [
+                "Art_Circle",
+                "September",
+                "Promotion",
+                "$300.20",
+                "CAD",
+                "Debit Card",
+                "Rejected"
+            ],
+            [
+                "Music_Band",
+                "September",
+                "Ads",
+                "$890.10",
+                "AUD",
+                "Check",
+                "Processed"
+            ],
+            [
+                "Science_Forum",
+                "September",
+                "Outreach",
+                "$215.40",
+                "JPY",
+                "Wire Transfer",
+                "Approved"
+            ]
+        ]
+    }
+}

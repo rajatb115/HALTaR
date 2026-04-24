@@ -1,0 +1,59 @@
+{
+    "table-924-924": {
+        "title": [
+            "Circuit Name",
+            "Location",
+            "Number of Races",
+            "First Race",
+            "Last Race"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2,
+            3,
+            4
+        ],
+        "pgTitle": "Formula 1 Races in Italy",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many Formula_1 races took place on the circuits in Italy?",
+        "data": [
+            [
+                "Monza",
+                "Monza",
+                "72",
+                "1950",
+                "2023"
+            ],
+            [
+                "Imola",
+                "Imola",
+                "29",
+                "1953",
+                "2022"
+            ],
+            [
+                "Pescara",
+                "Pescara",
+                "1",
+                "1957",
+                "1957"
+            ],
+            [
+                "Livorno",
+                "Livorno",
+                "1",
+                "1937",
+                "1937"
+            ],
+            [
+                "Mugello",
+                "Scarperia e San Piero",
+                "1",
+                "2020",
+                "2020"
+            ]
+        ]
+    }
+}

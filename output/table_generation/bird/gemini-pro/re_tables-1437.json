@@ -1,0 +1,55 @@
+{
+    "table-1437-1437": {
+        "title": [
+            "Event Name",
+            "Date",
+            "Location",
+            "Member Fee",
+            "Link to Event"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Eligible Member Events",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide links to events for members who have paid more than 50 dollar.",
+        "data": [
+            [
+                "Workshop A",
+                "2024-03-15",
+                "Online",
+                "$60",
+                "[Link]"
+            ],
+            [
+                "Seminar B",
+                "2024-03-22",
+                "Conference Center",
+                "$75",
+                "[Link]"
+            ],
+            [
+                "Training C",
+                "2024-04-01",
+                "Hotel Ballroom",
+                "$55",
+                "[Link]"
+            ],
+            [
+                "Social D",
+                "2024-04-15",
+                "Park",
+                "$80",
+                "[Link]"
+            ],
+            [
+                "Gala E",
+                "2024-05-01",
+                "City Hall",
+                "$100",
+                "[Link]"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-840-840": {
+        "title": [
+            "Full Name",
+            "Weight (kg)",
+            "Eye Color",
+            "Gender",
+            "Affiliation"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In superheroes with weight less than 100, list the full name of the superheroes with brown eyes.",
+        "data": [
+            [
+                "Peter Parker",
+                "76",
+                "Brown",
+                "Male",
+                "Avengers"
+            ],
+            [
+                "Barbara Gordon",
+                "57",
+                "Brown",
+                "Female",
+                "Bat-Family"
+            ],
+            [
+                "Kamala Khan",
+                "63",
+                "Brown",
+                "Female",
+                "Champions"
+            ],
+            [
+                "Kitty Pryde",
+                "50",
+                "Blue",
+                "Female",
+                "X-Men"
+            ],
+            [
+                "Nightcrawler",
+                "72",
+                "Brown",
+                "Male",
+                "X-Men"
+            ],
+            [
+                "Tim Drake",
+                "61",
+                "Blue",
+                "Male",
+                "Bat-Family"
+            ],
+            [
+                "Jessica Jones",
+                "59",
+                "Brown",
+                "Female",
+                "Defenders"
+            ]
+        ]
+    }
+}

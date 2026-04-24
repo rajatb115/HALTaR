@@ -1,0 +1,83 @@
+{
+    "table-122-122": {
+        "title": [
+            "Account_ID",
+            "Opening_Date",
+            "Branch_Location",
+            "Status",
+            "Currency",
+            "Balance_Type",
+            "Customer_Name",
+            "Region_Code"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List account ID and account opening date for accounts from 'Prachatice'.",
+        "data": [
+            [
+                "ACC_74012",
+                "06/15/1978",
+                "Prachatice",
+                "Active",
+                "CZK",
+                "Savings",
+                "Jan Novak",
+                "PRACH_01"
+            ],
+            [
+                "ACC_A9203",
+                "03/22/1895",
+                "Prachaticke",
+                "Inactive",
+                "CZD",
+                "Checking",
+                "Marie Dvorakova",
+                "PRAC_HIST"
+            ],
+            [
+                "ACC_B3310",
+                "09/10/2011",
+                "Pracha",
+                "Suspended",
+                "EUR",
+                "Current",
+                "Petr Svoboda",
+                "PRC_MODERN"
+            ],
+            [
+                "ACC_C5521",
+                "04/01/1750",
+                "Prachtitz",
+                "Dormant",
+                "DEM",
+                "Time Deposit",
+                "Karel Cerny",
+                "OLD_PRAGUE"
+            ],
+            [
+                "ACC_D8842",
+                "12/1888",
+                "Pra\u010datice",
+                "Closed",
+                "CZH",
+                "Money Market",
+                "Jiri Vesely",
+                "BOHEMIA_WEST"
+            ],
+            [
+                "ACC_E1109",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

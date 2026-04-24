@@ -1,0 +1,85 @@
+{
+    "table-122-122": {
+        "title": [
+            "Airport Code",
+            "Full Name",
+            "IATA Designator",
+            "Location Status",
+            "Elevation_ft",
+            "Runway_Count",
+            "Primary_Route_Type"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are airport names at City 'Aberdeen'?",
+        "data": [
+            [
+                "ABZ",
+                "Aberdeen International Airport",
+                "ABZ",
+                "Active",
+                "647",
+                "3",
+                "Commercial/General Aviation"
+            ],
+            [
+                "DND",
+                "Dyce Airfield",
+                "DND",
+                "Historical",
+                "580",
+                "0",
+                "General Aviation Only"
+            ],
+            [
+                "GNA",
+                "North East Scotland Regional Field",
+                "GNA",
+                "Decommissioned",
+                "410",
+                "N/A",
+                "Military Training"
+            ],
+            [
+                "ABC",
+                "Aberdeen Municipal Strip",
+                "ABC",
+                "Private",
+                "720",
+                "None",
+                "Light Aircraft"
+            ],
+            [
+                "ADP",
+                "Aberdeen Executive Heliport",
+                "ADP",
+                "Operational",
+                "850",
+                "No Fixed Wing",
+                "Helicopter Services"
+            ],
+            [
+                "AEI",
+                "Aberdeen Test Range Access",
+                "AEI",
+                "Restricted",
+                "900",
+                "Temporary",
+                "Research Support"
+            ],
+            [
+                "AFS",
+                "Aberdeen Flight Service Station",
+                "AFS",
+                "Administrative",
+                "N/A",
+                "N/A",
+                "Navigation Aid"
+            ]
+        ]
+    }
+}

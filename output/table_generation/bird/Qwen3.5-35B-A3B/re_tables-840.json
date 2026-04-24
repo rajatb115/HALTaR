@@ -1,0 +1,49 @@
+{
+    "table-840-840": {
+        "title": [
+            "Full Name",
+            "Weight lbs",
+            "Eye Color",
+            "Superpower",
+            "Affiliation",
+            "Origin Story",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In superheroes with weight less than 100, list the full name of the superheroes with brown eyes.",
+        "data": [
+            [
+                "Peter Parker",
+                "76",
+                "Brown",
+                "Web-shooting",
+                "Avengers",
+                "Radioactive Spider Bite",
+                "Active"
+            ],
+            [
+                "Miles Morales",
+                "84",
+                "Brown",
+                "Dimensional Jumping",
+                "S.H.I.E.L.D.",
+                "Mutated by Viper Venom",
+                "Active"
+            ],
+            [
+                "Roger Stern",
+                "92",
+                "Brown",
+                "Time Manipulation",
+                "Independent",
+                "Cosmic Ray Exposure",
+                "Retired"
+            ]
+        ]
+    }
+}

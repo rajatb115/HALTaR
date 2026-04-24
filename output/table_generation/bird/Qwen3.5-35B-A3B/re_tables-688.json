@@ -1,0 +1,85 @@
+{
+    "table-688-688": {
+        "title": [
+            "Post_ID",
+            "Score",
+            "Comment_Count",
+            "Author",
+            "Status",
+            "Created_At",
+            "Platform"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many comments were added to the post with the highest score?",
+        "data": [
+            [
+                "P_1042",
+                "9876",
+                "3420",
+                "User_Alpha",
+                "Active",
+                "01/15/2023",
+                "Reddit"
+            ],
+            [
+                "P_1105",
+                "8540",
+                "4100",
+                "Beta_User",
+                "Archived",
+                "02/22/ 2 0 23",
+                "Twitter"
+            ],
+            [
+                "P_0998",
+                "7230",
+                "2850",
+                "Guest_X",
+                "Active",
+                "03/10/2 2",
+                "Facebook"
+            ],
+            [
+                "P_A1B2C3",
+                "6500 N/A",
+                "50",
+                "System_Bot",
+                "Pending",
+                "N/A",
+                "Internal_DB"
+            ],
+            [
+                "D_5541",
+                "5920",
+                "1205",
+                "Data_Scientist",
+                "Deleted",
+                "04/05/ 00",
+                "LinkedIn"
+            ],
+            [
+                "E_9921",
+                "7800 3000 Community_Manager Closed 05 / 12 / 22 Medium_Platform",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "F_3321",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

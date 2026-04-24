@@ -1,0 +1,48 @@
+{
+    "table-1156-1156": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Birthday"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the patient ID, sex and birthday of patient with LDH beyond normal range.",
+        "data": [
+            [
+                "P1001",
+                "Male",
+                "1975-03-15"
+            ],
+            [
+                "P1002",
+                "Female",
+                "1988-11-22"
+            ],
+            [
+                "P1003",
+                "Male",
+                "1962-07-01"
+            ],
+            [
+                "P1004",
+                "Female",
+                "1995-01-30"
+            ],
+            [
+                "P1005",
+                "Male",
+                "1950-09-10"
+            ],
+            [
+                "P1006",
+                "Female",
+                "1980-04-05"
+            ]
+        ]
+    }
+}

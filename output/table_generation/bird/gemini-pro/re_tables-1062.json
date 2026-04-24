@@ -1,0 +1,39 @@
+{
+    "table-1062-1062": {
+        "title": [
+            "Player Name",
+            "Weight (lbs)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Player Data Exceeding Weight Threshold",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many players whose first names are Adam and weigh more than 170?",
+        "data": [
+            [
+                "Adam Jones",
+                "185"
+            ],
+            [
+                "Adam Smith",
+                "175"
+            ],
+            [
+                "Adam Brown",
+                "190"
+            ],
+            [
+                "Adam Davis",
+                "180"
+            ],
+            [
+                "Adam Wilson",
+                "172"
+            ]
+        ]
+    }
+}

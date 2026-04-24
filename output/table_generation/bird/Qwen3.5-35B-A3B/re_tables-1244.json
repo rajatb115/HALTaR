@@ -1,0 +1,85 @@
+{
+    "table-1244-1244": {
+        "title": [
+            "Patient_ID",
+            "Age_Group",
+            "Gender",
+            "PT_Status",
+            "Abnormal_PT_Count",
+            "Total_Patients",
+            "Percentage_Female_Abnorml"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all patients who are older than 55 years old, what is the percentage of female who has abnormal prothrombin time (PT)?",
+        "data": [
+            [
+                "P_1042",
+                ">60",
+                "Female",
+                "Abnormal",
+                "45",
+                "80",
+                "56.25%"
+            ],
+            [
+                "P_B209",
+                "72+",
+                "Male",
+                "Normal",
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "P_C331",
+                "65-70",
+                "Female",
+                "Abnormal",
+                "32",
+                "950",
+                "3.37%"
+            ],
+            [
+                "D_X99A",
+                "0-55",
+                "Female",
+                "Normal",
+                "",
+                "",
+                ""
+            ],
+            [
+                "M_K11Z",
+                "58",
+                "Female",
+                "Abnormal",
+                "12",
+                "40",
+                "30.00%"
+            ],
+            [
+                "R_T44B",
+                ">65",
+                "Male",
+                "Normal",
+                "",
+                "",
+                ""
+            ],
+            [
+                "S_L77C",
+                "<55",
+                "Female",
+                "Abnormal",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

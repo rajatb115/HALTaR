@@ -1,0 +1,77 @@
+{
+    "table-166-166": {
+        "title": [
+            "Transaction ID",
+            "Account Number",
+            "District",
+            "Amount",
+            "Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list all the transactions made by accounts from district 5.",
+        "data": [
+            [
+                "TX-40091",
+                "ACC-7721",
+                "5",
+                "$1,250.00",
+                "06/12/2023",
+                "Completed"
+            ],
+            [
+                "TX-BB22X",
+                "ACC-FR99",
+                "4",
+                "$8,500.50",
+                "",
+                "Pending"
+            ],
+            [
+                "TC-99A1Z",
+                "ACC-KK12",
+                "6",
+                "-$20.15",
+                "31/05/23",
+                "Failed"
+            ],
+            [
+                "TR-11CDE",
+                "ACC-MM88",
+                "7",
+                "N/A",
+                "",
+                "Error"
+            ],
+            [
+                "TJ-XXYQW",
+                "ACC-LP33",
+                "8",
+                "$450,000.00",
+                "01/01/2021",
+                "Success"
+            ],
+            [
+                "TM-QAZWSX",
+                "AC-CVBNM",
+                "",
+                "$0.99",
+                "03/12/2022",
+                "Cancelled"
+            ],
+            [
+                "TN-MNBVCX",
+                "ZZZ-ZZZZ",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

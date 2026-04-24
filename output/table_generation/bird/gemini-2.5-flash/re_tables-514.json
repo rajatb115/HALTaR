@@ -1,0 +1,77 @@
+{
+    "table-514-514": {
+        "title": [
+            "Set Name",
+            "Set ID",
+            "Expansion Type",
+            "Release Year",
+            "Total Cards (incl. Promo)",
+            "Main Set Cards"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the sets whose expansion type is Commander, which set has the highest total number of cards including promotional and related supplemental products but excluding Alchemy modifications? Indicate the id of the set.",
+        "data": [
+            [
+                "Commander Legends",
+                "CMR",
+                "Commander",
+                "2020",
+                "703",
+                "361"
+            ],
+            [
+                "Commander 2021",
+                "C21",
+                "Commander",
+                "2021",
+                "320",
+                "160"
+            ],
+            [
+                "Commander Legends: Battle for Baldur's Gate",
+                "CLB",
+                "Commander",
+                "2022",
+                "812",
+                "361"
+            ],
+            [
+                "Commander Masters",
+                "CMM",
+                "Commander",
+                "2023",
+                "607",
+                "430"
+            ],
+            [
+                "March of the Machine Commander",
+                "MOC",
+                "Commander",
+                "2023",
+                "350",
+                "160"
+            ],
+            [
+                "The Lord of the Rings: Tales of Middle-earth Commander",
+                "LTC",
+                "Commander",
+                "2023",
+                "380",
+                "160"
+            ],
+            [
+                "Doctor Who Commander",
+                "WHO",
+                "Commander",
+                "2023",
+                "400",
+                "200"
+            ]
+        ]
+    }
+}

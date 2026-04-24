@@ -1,0 +1,49 @@
+{
+    "table-1229-1229": {
+        "title": [
+            "Patient ID",
+            "Diagnosis Category",
+            "Triglyceride Index",
+            "Status",
+            "Last Test Date",
+            "Age Group",
+            "Risk Level"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide list of patients and their diagnosis with triglyceride (TG) index greater than 100 of the normal range?",
+        "data": [
+            [
+                "P-1042",
+                "Hypertriglyceridemia",
+                "345",
+                "Abnormal",
+                "7/12/2023",
+                "Adult",
+                "High"
+            ],
+            [
+                "P-KM99",
+                "Metabolic Syndrome",
+                "412",
+                "Abnormal",
+                "6/28/2023",
+                "Senior",
+                "Very High"
+            ],
+            [
+                "P-RX77",
+                "Dyslipidemia Secondary",
+                "520",
+                "Critical",
+                "8/01/2024",
+                "Child",
+                "Severe"
+            ]
+        ]
+    }
+}

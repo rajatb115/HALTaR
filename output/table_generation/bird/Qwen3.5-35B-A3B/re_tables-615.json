@@ -1,0 +1,77 @@
+{
+    "table-615-615": {
+        "title": [
+            "Badge Category",
+            "Total Users in Category",
+            "Percentage of All Users",
+            "Calculation Date",
+            "Data Source",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the users who obtained the \"Teacher\" badge, calculate their percentage of users",
+        "data": [
+            [
+                "Teacher",
+                "450",
+                "7.5%",
+                "01/06/2024",
+                "User Analytics DB",
+                "Verified"
+            ],
+            [
+                "Student",
+                "320",
+                "5.3%",
+                "",
+                "User Stats API",
+                "Pending Review"
+            ],
+            [
+                "Moderator",
+                "89",
+                "6.2%",
+                "",
+                "Admin Dashboard",
+                "Confirmed"
+            ],
+            [
+                "Contributor",
+                "920",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Mentor",
+                "120",
+                "2.0%",
+                "",
+                "Internal Report",
+                "Active"
+            ],
+            [
+                "Guest",
+                "",
+                "15.0%",
+                "",
+                "External Feed",
+                "Inactive"
+            ],
+            [
+                "Admin",
+                "30",
+                "0.5%",
+                "",
+                "System Log",
+                "Locked"
+            ]
+        ]
+    }
+}

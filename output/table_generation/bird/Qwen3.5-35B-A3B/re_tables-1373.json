@@ -1,0 +1,77 @@
+{
+    "table-1373-1373": {
+        "title": [
+            "Member ID",
+            "Full Name",
+            "Transaction Date",
+            "Income Source",
+            "Amount Received",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When did the member, Casey Mason, received the income?",
+        "data": [
+            [
+                "CM-4021",
+                "Casey Mason",
+                "7/15/2023",
+                "Salary Payment",
+                "$4,250.00",
+                "Completed"
+            ],
+            [
+                "CM-4105",
+                "Casey Smith",
+                "6/30/2023",
+                "Bonus Payout",
+                "$1,500.50",
+                "Pending"
+            ],
+            [
+                "CM-CM99",
+                "Casey Johnson",
+                "8/01/2024",
+                "Dividend Return",
+                "$320.75",
+                "Processed"
+            ],
+            [
+                "CM-MASO",
+                "Casey M.",
+                "5/12/2022",
+                "Freelance Fee",
+                "$8,502.01",
+                "Cleared"
+            ],
+            [
+                "CM-CS01",
+                "Casey Mason",
+                "9/10/2019",
+                "Interest Earned",
+                "$55.02",
+                "Verified"
+            ],
+            [
+                "CM-MMAT",
+                "Case Mason",
+                "",
+                "Reimbursement",
+                "$210.99",
+                "Failed"
+            ],
+            [
+                "CM-LATE",
+                "C. Mason",
+                "Dec 31, 2400",
+                "Tax Refund",
+                "$980.10",
+                "Processing"
+            ]
+        ]
+    }
+}

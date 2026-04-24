@@ -1,0 +1,51 @@
+{
+    "table-475-475": {
+        "title": [
+            "City",
+            "Country",
+            "Estimated Population",
+            "Official Language(s)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Largest English-Speaking Cities",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the most populace city that speaks English?",
+        "data": [
+            [
+                "London",
+                "United Kingdom",
+                "9,000,000",
+                "English"
+            ],
+            [
+                "New York City",
+                "United States",
+                "8,800,000",
+                "N/A (English dominant)"
+            ],
+            [
+                "Toronto",
+                "Canada",
+                "6,300,000",
+                "English, French"
+            ],
+            [
+                "Melbourne",
+                "Australia",
+                "5,200,000",
+                "English"
+            ],
+            [
+                "Sydney",
+                "Australia",
+                "5,300,000",
+                "English"
+            ]
+        ]
+    }
+}

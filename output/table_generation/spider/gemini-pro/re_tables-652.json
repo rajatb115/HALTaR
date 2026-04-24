@@ -1,0 +1,37 @@
+{
+    "table-652-652": {
+        "title": [
+            "Singer Name",
+            "Has Songs?"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Singers Without Songs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of singers that do not have any song.",
+        "data": [
+            [
+                "John Doe",
+                "No"
+            ],
+            [
+                "Jane Smith",
+                "No"
+            ],
+            [
+                "Alice Brown",
+                "No"
+            ],
+            [
+                "Robert Jones",
+                "No"
+            ],
+            [
+                "Emily Wilson",
+                "No"
+            ]
+        ]
+    }
+}

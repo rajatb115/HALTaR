@@ -1,0 +1,73 @@
+{
+    "table-147-147": {
+        "title": [
+            "Shop_ID",
+            "Manager_Name",
+            "District",
+            "Product_Count",
+            "Status",
+            "Last_Audit_Date",
+            "Revenue_Yearly",
+            "Region_Code"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the manager name and district of the shop that sells the largest number of products?",
+        "data": [
+            [
+                "SHP-1042",
+                "Elena Rodriguez",
+                "Downtown Metro",
+                "487",
+                "Active",
+                "06/15/2023",
+                "$1,240,000",
+                "RM-01-A"
+            ],
+            [
+                "SHP-2193",
+                "Marcus Chen",
+                "Westside Plaza",
+                "312",
+                "Active",
+                "05/02/23",
+                "$980,500",
+                "RM-02-B"
+            ],
+            [
+                "SHT-3055",
+                "Sarah Jenkins",
+                "Northgate Mall",
+                "520",
+                "Inactive",
+                "11/30/22",
+                "$1,100,20",
+                "NM-03-C"
+            ],
+            [
+                "SHW-4108",
+                "David O'Connor",
+                "Harbor View",
+                "605",
+                "Active",
+                "",
+                "$1,450,300HV-04-D",
+                ""
+            ],
+            [
+                "SHA-5211",
+                "Priya Patel",
+                "East End Hub",
+                "89",
+                "Pending",
+                "01/10/00",
+                "$210,40",
+                ""
+            ]
+        ]
+    }
+}

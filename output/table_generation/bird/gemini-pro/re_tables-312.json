@@ -1,0 +1,43 @@
+{
+    "table-312-312": {
+        "title": [
+            "Molecule",
+            "Sulphur (S)",
+            "Double Bond"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Molecule Properties",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many molecules without sulphur element is not having double bond?",
+        "data": [
+            [
+                "Water (H2O)",
+                "No",
+                "No"
+            ],
+            [
+                "Ammonia (NH3)",
+                "No",
+                "No"
+            ],
+            [
+                "Methane (CH4)",
+                "No",
+                "No"
+            ],
+            [
+                "Carbon Dioxide (CO2)",
+                "No",
+                "Yes"
+            ],
+            [
+                "Ethanol (C2H5OH)",
+                "No",
+                "No"
+            ]
+        ]
+    }
+}

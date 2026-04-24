@@ -1,0 +1,55 @@
+{
+    "table-18-18": {
+        "title": [
+            "School_Name",
+            "Charter_Number",
+            "Avg_Score_Writing",
+            "District",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the charter number of the school that the average score in Writing is 499?",
+        "data": [
+            [
+                "Lincoln Academy",
+                "CH-1024",
+                "485",
+                "North County",
+                "Active"
+            ],
+            [
+                "Riverside High",
+                "CH-A772",
+                "502",
+                "Central District",
+                "Active"
+            ],
+            [
+                "Maplewood Prep",
+                "CH-B991",
+                "610",
+                "West Valley",
+                "Closed"
+            ],
+            [
+                "Oakland Institute",
+                "CH-C334",
+                "N/A",
+                "East Side",
+                "Pending"
+            ],
+            [
+                "Pinecrest Charter",
+                "CH-D118",
+                "398",
+                "South Region",
+                "Active"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-656-656": {
+        "title": [
+            "Post Title",
+            "Link Type ID"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Related Posts and Link Types",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write down the related posts titles and link type IDs of the post \"What are principal component scores?\".",
+        "data": [
+            [
+                "Principal Component Analysis Explained",
+                "1"
+            ],
+            [
+                "How to Interpret PCA Results",
+                "2"
+            ],
+            [
+                "PCA vs. Factor Analysis",
+                "3"
+            ],
+            [
+                "Understanding Eigenvalues and Eigenvectors",
+                "1"
+            ],
+            [
+                "Applications of Dimensionality Reduction",
+                "2"
+            ]
+        ]
+    }
+}

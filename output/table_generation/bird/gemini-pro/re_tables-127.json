@@ -1,0 +1,52 @@
+{
+    "table-127-127": {
+        "title": [
+            "District",
+            "Year Opened",
+            "Account Count",
+            "Percentage of Total Accounts Opened in 1993"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Account Information by District and Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of account from 'Decin' district for all accounts are opened in 1993.",
+        "data": [
+            [
+                "Decin",
+                "1993",
+                "150",
+                "15%"
+            ],
+            [
+                "Prague",
+                "1993",
+                "350",
+                "35%"
+            ],
+            [
+                "Brno",
+                "1993",
+                "250",
+                "25%"
+            ],
+            [
+                "Ostrava",
+                "1993",
+                "150",
+                "15%"
+            ],
+            [
+                "Plzen",
+                "1993",
+                "100",
+                "10%"
+            ]
+        ]
+    }
+}

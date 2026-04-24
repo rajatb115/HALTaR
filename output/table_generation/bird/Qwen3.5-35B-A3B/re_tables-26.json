@@ -1,0 +1,69 @@
+{
+    "table-26-26": {
+        "title": [
+            "School Name",
+            "Location",
+            "Average Math Score",
+            "Funding Type",
+            "Enrollment Count",
+            "Accreditation Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name schools in Riverside which the average of average math score for SAT is grater than 400, what is the funding type of these schools?",
+        "data": [
+            [
+                "Riverside High Academy",
+                "Riverside",
+                "425",
+                "Public",
+                "650",
+                "State Approved"
+            ],
+            [
+                "Westside Prep Institute",
+                "Riverside County",
+                "510",
+                "Private Non-Profit",
+                "320",
+                "Regional Accredited"
+            ],
+            [
+                "Valley View Charter School",
+                "Riverside District",
+                "780",
+                "Public Charter",
+                "890",
+                "N/A"
+            ],
+            [
+                "Sunset Ridge Magnet Center",
+                "Riverside Area",
+                "",
+                "Public Specialized",
+                "0",
+                "Pending Review"
+            ],
+            [
+                "Oakwood Learning Hub",
+                "Riverside Suburbs",
+                "",
+                "Private For-Profit",
+                "150",
+                "Not Listed"
+            ],
+            [
+                "Northgate STEM College",
+                "Riverside Region",
+                "",
+                "Independent",
+                "",
+                "Unverified"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-571-571": {
+        "title": [
+            "Student ID",
+            "Has Friends",
+            "Average Grade"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Student Grades and Friendship Status",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average grade of students who have friends?",
+        "data": [
+            [
+                "1",
+                "Yes",
+                "85"
+            ],
+            [
+                "2",
+                "No",
+                "78"
+            ],
+            [
+                "3",
+                "Yes",
+                "92"
+            ],
+            [
+                "4",
+                "Yes",
+                "88"
+            ],
+            [
+                "5",
+                "No",
+                "80"
+            ]
+        ]
+    }
+}

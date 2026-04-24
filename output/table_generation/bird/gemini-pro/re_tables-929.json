@@ -1,0 +1,51 @@
+{
+    "table-929-929": {
+        "title": [
+            "Position",
+            "Driver Name",
+            "Nationality",
+            "Car"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "2008 Australian Grand Prix Driver Results",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which driver ranked the first in the Australian Grand Prix in 2008? Please give his reference name.",
+        "data": [
+            [
+                "1",
+                "Lewis Hamilton",
+                "British",
+                "McLaren-Mercedes"
+            ],
+            [
+                "2",
+                "Nick Heidfeld",
+                "German",
+                "BMW Sauber"
+            ],
+            [
+                "3",
+                "Nico Rosberg",
+                "German",
+                "Williams-Toyota"
+            ],
+            [
+                "4",
+                "Fernando Alonso",
+                "Spanish",
+                "Renault"
+            ],
+            [
+                "5",
+                "Heikki Kovalainen",
+                "Finnish",
+                "McLaren-Mercedes"
+            ]
+        ]
+    }
+}

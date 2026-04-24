@@ -1,0 +1,52 @@
+{
+    "table-1307-1307": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "White Blood Cell Count",
+            "WBC Level"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "SLE Patients and White Blood Cell Counts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients diagnosed with SLE have a normal white blood cell level?",
+        "data": [
+            [
+                "12345",
+                "SLE",
+                "7000",
+                "Normal"
+            ],
+            [
+                "67890",
+                "SLE",
+                "12000",
+                "High"
+            ],
+            [
+                "24680",
+                "SLE",
+                "5000",
+                "Normal"
+            ],
+            [
+                "13579",
+                "RA",
+                "9000",
+                "Normal"
+            ],
+            [
+                "11223",
+                "SLE",
+                "3000",
+                "Low"
+            ]
+        ]
+    }
+}

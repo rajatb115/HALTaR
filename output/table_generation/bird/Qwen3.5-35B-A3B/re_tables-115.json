@@ -1,0 +1,76 @@
+{
+    "table-115-115": {
+        "title": [
+            "Client_ID",
+            "Account_Number",
+            "City",
+            "Opening_Date",
+            "Status",
+            "Balance_CZK",
+            "Branch_Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the first client who opened his/her account in Prague, what is his/her account ID?",
+        "data": [
+            [
+                "CZ_0042",
+                "ACC_PRG_7721",
+                "Prague",
+                "06/15/2018",
+                "Active",
+                "45000.00",
+                "PRG_NORTH"
+            ],
+            [
+                "CJ_0193",
+                "ACC_BRU_3301",
+                "",
+                "N/A",
+                "Inactive",
+                "50.50",
+                "BRU_SOUTH"
+            ],
+            [
+                "DK_0882",
+                "CPH_ACC_9912",
+                "Copenhagen",
+                "3/10/219",
+                "Pending",
+                "89002.10",
+                "CP_HAVN"
+            ],
+            [
+                "FR_2210",
+                "",
+                "Paris",
+                "9/01/220",
+                "Closed",
+                "-120.30",
+                "PAR_EAST"
+            ],
+            [
+                "DE_5541",
+                "BERLIN_XY_11",
+                "Berlin",
+                "7/23/24",
+                "Suspended",
+                "67005.05",
+                "BER_WEST"
+            ],
+            [
+                "IT_3009",
+                "ROM_ACC_4422",
+                "Rome",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

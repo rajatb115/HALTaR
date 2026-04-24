@@ -1,0 +1,103 @@
+{
+    "table-493-493": {
+        "title": [
+            "Country Code",
+            "Country Name",
+            "Primary Language",
+            "Is Officially English?",
+            "Region",
+            "Population Estimate",
+            "GDP per Capita (USD)",
+            "Currency Code"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the country codes for countries that do not speak English.",
+        "data": [
+            [
+                "DE",
+                "Germany",
+                "German",
+                "No",
+                "Europe",
+                "84,000,067",
+                "50,801",
+                "EUR"
+            ],
+            [
+                "FR",
+                "France",
+                "French",
+                "No",
+                "Europe",
+                "",
+                "",
+                ""
+            ],
+            [
+                "JP",
+                "Japan",
+                "Japanese",
+                "No",
+                "Asia",
+                "130,500,000",
+                "33,830",
+                "JPY"
+            ],
+            [
+                "BR",
+                "Brazil",
+                "Portuguese",
+                "No",
+                "South America",
+                "215,000,000",
+                "",
+                "USD"
+            ],
+            [
+                "CN",
+                "China",
+                "Mandarin Chinese",
+                "No",
+                "East Asia",
+                "1,410,000,000",
+                "12,556",
+                "CNY"
+            ],
+            [
+                "RU",
+                "Russia",
+                "Russian",
+                "No",
+                "Eurasia",
+                "144,000,000",
+                "9,970",
+                "RUB"
+            ],
+            [
+                "KR",
+                "South Korea",
+                "Korean",
+                "No",
+                "Northeast Asia",
+                "51,000,000",
+                "",
+                ""
+            ],
+            [
+                "IN",
+                "India",
+                "Hindi/English mix",
+                "Partially",
+                "South Asia",
+                "1,400,000,000",
+                "",
+                "INR"
+            ]
+        ]
+    }
+}

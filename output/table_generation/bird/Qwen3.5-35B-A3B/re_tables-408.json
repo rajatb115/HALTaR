@@ -1,0 +1,55 @@
+{
+    "table-408-408": {
+        "title": [
+            "Kartenart",
+            "Beschreibung",
+            "Verwendungszweck",
+            "Hersteller",
+            "Verf\u00fcgbarkeit"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Lists all types of cards in German.",
+        "data": [
+            [
+                "Kreditkarte",
+                "Elektronische Zahlungsmethode mit Kreditlimit",
+                "Online-Eink\u00e4ufe und Reisen",
+                "Visa",
+                "Hoch"
+            ],
+            [
+                "Debitkarte",
+                "Direkte Abbuchung vom Girokonto",
+                "T\u00e4gliche Eink\u00e4ufe im Supermarkt",
+                "Mastercard",
+                "Sehr hoch"
+            ],
+            [
+                "Geldautomatenkarte",
+                "Zugangskarte f\u00fcr Bankfilialen",
+                "Bargeldabhebung am Automaten",
+                "Deutsche Bank",
+                "Mittel"
+            ],
+            [
+                "BahnCard",
+                "Rabattkarte der Deutschen Bahn",
+                "Erm\u00e4\u00dfigungen bei Zugfahrten",
+                "DB Fernverkehr",
+                "Niedrig"
+            ],
+            [
+                "EC-Karte",
+                "Elektronisches Cash-System",
+                "Zahlungen ohne Kreditfunktion",
+                "Sparkasse",
+                "Hoch"
+            ]
+        ]
+    }
+}

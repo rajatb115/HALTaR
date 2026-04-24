@@ -1,0 +1,69 @@
+{
+    "table-205-205": {
+        "title": [
+            "Molecule ID",
+            "Molecule Name",
+            "Chemical Formula",
+            "Carcinogenic Status",
+            "Toxicity Level"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of the first 100 molecules in number order, how many are carcinogenic?",
+        "data": [
+            [
+                "1",
+                "Methane",
+                "CH4",
+                "No",
+                "Low"
+            ],
+            [
+                "2",
+                "Ethanol",
+                "C2H6O",
+                "No",
+                "Low"
+            ],
+            [
+                "3",
+                "Benzene",
+                "C6H6",
+                "Yes",
+                "High"
+            ],
+            [
+                "4",
+                "Formaldehyde",
+                "CH2O",
+                "Yes",
+                "Medium"
+            ],
+            [
+                "5",
+                "Glucose",
+                "C6H12O6",
+                "No",
+                "Low"
+            ],
+            [
+                "6",
+                "Aspirin",
+                "C9H8O4",
+                "No",
+                "Medium"
+            ],
+            [
+                "7",
+                "Vinyl Chloride",
+                "C2H3Cl",
+                "Yes",
+                "High"
+            ]
+        ]
+    }
+}

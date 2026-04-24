@@ -1,0 +1,73 @@
+{
+    "table-46-46": {
+        "title": [
+            "Pet ID",
+            "Weight_kg",
+            "Age_years",
+            "Species",
+            "Owner_ID",
+            "Status",
+            "Last_Visit_Date",
+            "Vaccinated"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the id and weight of all pets whose age is older than 1.",
+        "data": [
+            [
+                "P004",
+                "6.7",
+                "3.2",
+                "Dog",
+                "O102",
+                "Active",
+                "01/15/2023",
+                "Yes"
+            ],
+            [
+                "P011",
+                "4.25",
+                "5.0",
+                "Cat",
+                "O089",
+                "Active",
+                "02/22/2023",
+                "No"
+            ],
+            [
+                "P015",
+                "8.1",
+                "2.5",
+                "Dog",
+                "O105",
+                "Active",
+                "03/10/2023",
+                "Yes"
+            ],
+            [
+                "P022",
+                "3.9",
+                "4.1",
+                "Cat",
+                "O077",
+                "Active",
+                "04/05/2023",
+                "No"
+            ],
+            [
+                "P033",
+                "12.4",
+                "6.8",
+                "Rabbit",
+                "O112",
+                "Inactive",
+                "",
+                ""
+            ]
+        ]
+    }
+}

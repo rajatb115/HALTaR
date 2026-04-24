@@ -1,0 +1,43 @@
+{
+    "table-595-595": {
+        "title": [
+            "First Name",
+            "Last Name",
+            "Dog Size"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Dog Owners and Their Dog Sizes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are each owner's first name, last name, and the size of their dog?",
+        "data": [
+            [
+                "John",
+                "Smith",
+                "Small"
+            ],
+            [
+                "Emily",
+                "Johnson",
+                "Medium"
+            ],
+            [
+                "David",
+                "Williams",
+                "Large"
+            ],
+            [
+                "Ashley",
+                "Brown",
+                "Small"
+            ],
+            [
+                "Michael",
+                "Davis",
+                "Medium"
+            ]
+        ]
+    }
+}

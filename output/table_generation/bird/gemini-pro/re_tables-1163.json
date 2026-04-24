@@ -1,0 +1,52 @@
+{
+    "table-1163-1163": {
+        "title": [
+            "Year",
+            "Gender",
+            "Follow-up Location",
+            "Number of Patients"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Patient Demographics and Outpatient Follow-up",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female patients who came at the hospital in 1997 was immediately followed at the outpatient clinic?",
+        "data": [
+            [
+                "1996",
+                "Female",
+                "Outpatient Clinic",
+                "125"
+            ],
+            [
+                "1997",
+                "Female",
+                "Outpatient Clinic",
+                "150"
+            ],
+            [
+                "1998",
+                "Female",
+                "Outpatient Clinic",
+                "130"
+            ],
+            [
+                "1997",
+                "Male",
+                "Outpatient Clinic",
+                "160"
+            ],
+            [
+                "1998",
+                "Male",
+                "Outpatient Clinic",
+                "140"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-816-816": {
+        "title": [
+            "Superhero Name",
+            "Gender",
+            "Alignment",
+            "Powers"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "List of Female Superheroes and Alignment",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the good female superheroes.",
+        "data": [
+            [
+                "Wonder Woman",
+                "Female",
+                "Good",
+                "Super Strength, Flight"
+            ],
+            [
+                "Captain Marvel",
+                "Female",
+                "Good",
+                "Flight, Energy Projection"
+            ],
+            [
+                "Black Widow",
+                "Female",
+                "Good",
+                "Martial Arts, Espionage"
+            ],
+            [
+                "Storm",
+                "Female",
+                "Good",
+                "Weather Manipulation"
+            ],
+            [
+                "Scarlet Witch",
+                "Female",
+                "Neutral",
+                "Reality Warping, Magic"
+            ]
+        ]
+    }
+}

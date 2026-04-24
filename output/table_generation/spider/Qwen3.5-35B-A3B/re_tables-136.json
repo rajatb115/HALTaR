@@ -1,0 +1,67 @@
+{
+    "table-136-136": {
+        "title": [
+            "Flight Number",
+            "Origin City",
+            "Destination Code",
+            "Scheduled Arrival Time",
+            "Status",
+            "Airline",
+            "Aircraft Model"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are flight numbers of flights arriving at Airport \"APG\"?",
+        "data": [
+            [
+                "FL7492",
+                "Chicago O'Hare",
+                "APG",
+                "08:15 AM",
+                "On Time",
+                "SkyWays",
+                "Boeing 737-800"
+            ],
+            [
+                "FL3011",
+                "Denver Intl",
+                "APH",
+                "9:30 AM",
+                "Delayed",
+                "AeroJet",
+                "Airbus A320"
+            ],
+            [
+                "FL8823",
+                "Miami Int'l",
+                "APA",
+                "6:45 PM",
+                "Cancelled",
+                "CloudAir",
+                "Embraer E190"
+            ],
+            [
+                "FL5509",
+                "Seattle-Tacoma",
+                "APB",
+                "7:20 PM",
+                "Boarding",
+                "StarLink",
+                "Bombardier CRJ900"
+            ],
+            [
+                "FL1204",
+                "Los Angeles Intl",
+                "APC",
+                "5:55 PM",
+                "Arrived",
+                "HorizonFly",
+                "Boeing Dreamliner"
+            ]
+        ]
+    }
+}

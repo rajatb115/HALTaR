@@ -1,0 +1,39 @@
+{
+    "table-56-56": {
+        "title": [
+            "County",
+            "Number of Schools"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "California Schools by County",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of the schools with a mailing state address in California, what is the ratio of the schools located in the county of Colusa against the school located in the county of Humboldt?",
+        "data": [
+            [
+                "Colusa",
+                "1"
+            ],
+            [
+                "Humboldt",
+                "5"
+            ],
+            [
+                "Los Angeles",
+                "200"
+            ],
+            [
+                "San Francisco",
+                "50"
+            ],
+            [
+                "Alameda",
+                "75"
+            ]
+        ]
+    }
+}

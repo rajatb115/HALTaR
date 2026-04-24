@@ -1,0 +1,85 @@
+{
+    "table-1514-1514": {
+        "title": [
+            "Country",
+            "City",
+            "Gas Station Name",
+            "Date",
+            "Time of First Sale",
+            "Fuel Type",
+            "Transaction Amount (USD)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country's gas station had the first paid cusomer in 2012/8/25?",
+        "data": [
+            [
+                "USA",
+                "Los Angeles",
+                "Chevron Station #123",
+                "2012-08-25",
+                "05:15 AM",
+                "Regular Unleaded",
+                "45.50"
+            ],
+            [
+                "Germany",
+                "Berlin",
+                "Aral Tankstelle Hauptbahnhof",
+                "2012-08-25",
+                "04:30 AM",
+                "Super E10",
+                "72.80"
+            ],
+            [
+                "Japan",
+                "Tokyo",
+                "Eneos Shibuya",
+                "2012-08-25",
+                "06:00 AM",
+                "Premium Gasoline",
+                "68.25"
+            ],
+            [
+                "Canada",
+                "Toronto",
+                "Petro-Canada Yonge St",
+                "2012-08-25",
+                "05:00 AM",
+                "Diesel",
+                "85.00"
+            ],
+            [
+                "Australia",
+                "Sydney",
+                "Shell Service Centre",
+                "2012-08-25",
+                "04:45 AM",
+                "Unleaded 91",
+                "55.75"
+            ],
+            [
+                "France",
+                "Paris",
+                "TotalEnergies Champs-\u00c9lys\u00e9es",
+                "2012-08-25",
+                "05:30 AM",
+                "SP95-E10",
+                "78.90"
+            ],
+            [
+                "Brazil",
+                "Rio de Janeiro",
+                "BR Posto Copacabana",
+                "2012-08-25",
+                "06:15 AM",
+                "Gasoline Comum",
+                "60.10"
+            ]
+        ]
+    }
+}

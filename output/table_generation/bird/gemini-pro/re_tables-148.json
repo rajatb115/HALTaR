@@ -1,0 +1,45 @@
+{
+    "table-148-148": {
+        "title": [
+            "Region",
+            "Gender",
+            "Number of Accounts"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Client Accounts by Region and Gender",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female clients' accounts are in the region of South Bohemia?",
+        "data": [
+            [
+                "South Bohemia",
+                "Female",
+                "125"
+            ],
+            [
+                "South Bohemia",
+                "Male",
+                "150"
+            ],
+            [
+                "North Bohemia",
+                "Female",
+                "90"
+            ],
+            [
+                "North Bohemia",
+                "Male",
+                "110"
+            ],
+            [
+                "Prague",
+                "Female",
+                "200"
+            ]
+        ]
+    }
+}

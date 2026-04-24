@@ -1,0 +1,34 @@
+{
+    "table-1150-1150": {
+        "title": [
+            "Patient Type",
+            "Gender",
+            "Count",
+            "Percentage of Type",
+            "Percentage of All Patients"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Are there more in-patient or outpatient who were male? What is the deviation in percentage?",
+        "data": [
+            [
+                "In-patient",
+                "Male",
+                "1200",
+                "54.5%",
+                "20.0%"
+            ],
+            [
+                "In-patient",
+                "Female",
+                "1000",
+                "45.5%",
+                ""
+            ]
+        ]
+    }
+}

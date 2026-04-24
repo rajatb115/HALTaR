@@ -1,0 +1,37 @@
+{
+    "table-1406-1406": {
+        "title": [
+            "Budget Category",
+            "Amount Budgeted"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "April Speaker Event Budget Breakdown",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the amount budgeted for 'April Speaker' event. List all the budgeted categories for said event in an ascending order based on their amount.",
+        "data": [
+            [
+                "Marketing",
+                "$500"
+            ],
+            [
+                "Venue",
+                "$1,000"
+            ],
+            [
+                "Speaker Fees",
+                "$2,000"
+            ],
+            [
+                "Catering",
+                "$750"
+            ],
+            [
+                "Travel",
+                "$250"
+            ]
+        ]
+    }
+}

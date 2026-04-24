@@ -1,0 +1,61 @@
+{
+    "table-214-214": {
+        "title": [
+            "Atom ID Pair",
+            "Bond Type",
+            "Distance (\u00c5)",
+            "Energy (kcal/mol)",
+            "Residue Context",
+            "Confidence Score"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What type of bond is there between the atoms TR004_8 and TR004_20?",
+        "data": [
+            [
+                "TR003_7 - TR012_15",
+                "Covalent Single",
+                "0.65",
+                "-12.4",
+                "Hydrophobic Core",
+                "High"
+            ],
+            [
+                "TR104_A - TR105_B",
+                "Ionic Interaction",
+                "3.20",
+                "-8.1",
+                "Surface Loop",
+                "Medium"
+            ],
+            [
+                "TR014_C - TR20_D",
+                "Hydrogen Bond",
+                "4.15",
+                "-5.3",
+                "Active Site",
+                "Low"
+            ],
+            [
+                "ATM_XY_9 - ATM_ZZ_2",
+                "Van der Waals",
+                "5.00",
+                "6.2",
+                "Membrane Interface",
+                "N/A"
+            ],
+            [
+                "PROT_M1 - PROT_N2",
+                "Disulfide Bridge",
+                "7.80",
+                "15.5",
+                "Structural Domain",
+                "High"
+            ]
+        ]
+    }
+}

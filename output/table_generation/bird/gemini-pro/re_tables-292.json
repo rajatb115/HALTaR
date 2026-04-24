@@ -1,0 +1,49 @@
+{
+    "table-292-292": {
+        "title": [
+            "Compound Name",
+            "CAS Number",
+            "Carcinogenicity Evidence",
+            "Source Database"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenic Chemical Compounds",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many chemical compounds in the database are identified as carcinogenic.",
+        "data": [
+            [
+                "Benzo[a]pyrene",
+                "50-32-8",
+                "Proven",
+                "IARC"
+            ],
+            [
+                "Vinyl Chloride",
+                "75-01-4",
+                "Proven",
+                "NTP"
+            ],
+            [
+                "Arsenic",
+                "7440-38-2",
+                "Proven",
+                "IARC"
+            ],
+            [
+                "Benzene",
+                "71-43-2",
+                "Proven",
+                "NTP"
+            ],
+            [
+                "Formaldehyde",
+                "50-00-0",
+                "Suspected",
+                "IARC"
+            ]
+        ]
+    }
+}

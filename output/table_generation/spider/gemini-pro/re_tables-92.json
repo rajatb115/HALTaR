@@ -1,0 +1,47 @@
+{
+    "table-92-92": {
+        "title": [
+            "Year",
+            "Min Weight (lbs)",
+            "Max Weight (lbs)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Car Production Years Based on Weight",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which years cars were produced weighing no less than 3000 and no more than 4000 ?",
+        "data": [
+            [
+                "1970",
+                "3005",
+                "3978"
+            ],
+            [
+                "1971",
+                "3012",
+                "3993"
+            ],
+            [
+                "1972",
+                "3021",
+                "3957"
+            ],
+            [
+                "1973",
+                "3086",
+                "3999"
+            ],
+            [
+                "1974",
+                "3021",
+                "3980"
+            ]
+        ]
+    }
+}

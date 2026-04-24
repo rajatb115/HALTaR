@@ -1,0 +1,61 @@
+{
+    "table-612-612": {
+        "title": [
+            "Role",
+            "Street",
+            "City",
+            "State"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which professionals live in a city containing the substring 'West'? List his or her role, street, city and state.",
+        "data": [
+            [
+                "Software Engineer",
+                "123 Tech Drive",
+                "Westford",
+                "MA"
+            ],
+            [
+                "Marketing Manager",
+                "45 Business Blvd",
+                "West Palm Beach",
+                "FL"
+            ],
+            [
+                "Registered Nurse",
+                "789 Health Lane",
+                "Westminster",
+                "CO"
+            ],
+            [
+                "Architect",
+                "101 Design Road",
+                "West Hollywood",
+                "CA"
+            ],
+            [
+                "Financial Analyst",
+                "202 Market Street",
+                "West Hartford",
+                "CT"
+            ],
+            [
+                "Teacher",
+                "303 Schoolhouse Rd",
+                "West Lafayette",
+                "IN"
+            ],
+            [
+                "Chef",
+                "404 Culinary Way",
+                "West Orange",
+                "NJ"
+            ]
+        ]
+    }
+}

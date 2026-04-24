@@ -1,0 +1,53 @@
+{
+    "table-139-139": {
+        "title": [
+            "Branch",
+            "Crime Count (1995)",
+            "Rank",
+            "Male Clients"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Crime Statistics and Client Demographics in 1995",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the branch where the second-highest number of crimes were committed in 1995 occurred, how many male clients are there?",
+        "data": [
+            [
+                "Branch A",
+                "150",
+                "1",
+                "65"
+            ],
+            [
+                "Branch B",
+                "130",
+                "2",
+                "48"
+            ],
+            [
+                "Branch C",
+                "120",
+                "3",
+                "72"
+            ],
+            [
+                "Branch D",
+                "110",
+                "4",
+                "55"
+            ],
+            [
+                "Branch E",
+                "100",
+                "5",
+                "60"
+            ]
+        ]
+    }
+}

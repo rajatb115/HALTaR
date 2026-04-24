@@ -1,0 +1,61 @@
+{
+    "table-1510-1510": {
+        "title": [
+            "Transaction ID",
+            "Location",
+            "Date",
+            "Amount",
+            "Fuel Type",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the transactions made in the gas stations in the Czech Republic, how many of them are taken place after 2012/1/1?",
+        "data": [
+            [
+                "TX-CZ-4002",
+                "Prague North Station",
+                "01/02/2023",
+                "$65.40",
+                "Diesel",
+                "Completed"
+            ],
+            [
+                "TX-CS-7721",
+                "Brno Central Hub",
+                "03/15/2104",
+                "$42.15",
+                "Petrol",
+                "Completed"
+            ],
+            [
+                "TX-CR-9910",
+                "Ostrava West Gate",
+                "06/22/0105",
+                "$88.90",
+                "LPG",
+                "Pending"
+            ],
+            [
+                "TX-ZC-3341",
+                "Liberec Service Point",
+                "09/10/2306",
+                "$55.25",
+                "Electric Charge",
+                "Failed"
+            ],
+            [
+                "TX-KS-1129",
+                "Hradec Kr\u00e1lov\u00e9 Exit",
+                "04/05/0307",
+                "$71.30",
+                "Petronas Blend",
+                "Completed"
+            ]
+        ]
+    }
+}

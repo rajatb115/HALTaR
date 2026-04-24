@@ -1,0 +1,45 @@
+{
+    "table-479-479": {
+        "title": [
+            "Country",
+            "Official Language",
+            "Life Expectancy (Years)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Life Expectancy by Language Status",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the mean life expectancy of countries in which English is not the official language.",
+        "data": [
+            [
+                "China",
+                "Mandarin Chinese",
+                "77.1"
+            ],
+            [
+                "India",
+                "Hindi, English",
+                "70.4"
+            ],
+            [
+                "Brazil",
+                "Portuguese",
+                "75.9"
+            ],
+            [
+                "Russia",
+                "Russian",
+                "72.6"
+            ],
+            [
+                "Mexico",
+                "Spanish",
+                "75.1"
+            ]
+        ]
+    }
+}

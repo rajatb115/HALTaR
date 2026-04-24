@@ -1,0 +1,69 @@
+{
+    "table-158-158": {
+        "title": [
+            "Shop Name",
+            "Location",
+            "Owner",
+            "Employee Count",
+            "Business Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name of the shops that do not hire any employee.",
+        "data": [
+            [
+                "The Lone Bookstore",
+                "Downtown",
+                "Alice Smith",
+                "0",
+                "Bookstore"
+            ],
+            [
+                "Quiet Corner Cafe",
+                "Suburbia",
+                "Bob Johnson",
+                "0",
+                "Cafe"
+            ],
+            [
+                "Artisan Crafts Studio",
+                "Arts District",
+                "Carol White",
+                "0",
+                "Crafts"
+            ],
+            [
+                "Vintage Finds Emporium",
+                "Old Town",
+                "David Green",
+                "0",
+                "Antiques"
+            ],
+            [
+                "Sweet Treats Kiosk",
+                "Mall Entrance",
+                "Eve Black",
+                "0",
+                "Confectionery"
+            ],
+            [
+                "Green Thumb Nursery",
+                "Rural Road",
+                "Frank Blue",
+                "0",
+                "Plant Nursery"
+            ],
+            [
+                "Digital Dreams Repair",
+                "Tech Park",
+                "Grace Red",
+                "0",
+                "Electronics Repair"
+            ]
+        ]
+    }
+}

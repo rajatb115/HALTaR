@@ -1,0 +1,83 @@
+{
+    "table-1033-1033": {
+        "title": [
+            "League Name",
+            "Total Matches Played",
+            "Country",
+            "First Season",
+            "Last Updated",
+            "Status",
+            "Avg Attendance",
+            "Top Scorer Team"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the name of the league with the highest matches of all time and how many matches were played in the said league.",
+        "data": [
+            [
+                "English Premier League",
+                "6472",
+                "England",
+                "92/93",
+                "30-Jun-2024",
+                "Active",
+                "40128",
+                "Manchester City"
+            ],
+            [
+                "La Liga",
+                "5891",
+                "Spain",
+                "78/79",
+                "01-Jul-2024",
+                "Active",
+                "32450",
+                "Real Madrid"
+            ],
+            [
+                "Bundesliga",
+                "8102",
+                "Germany",
+                "63/64",
+                "01-Aug-2023",
+                "Active",
+                "42100",
+                "Bayern Munich"
+            ],
+            [
+                "Serie A",
+                "5621",
+                "Italy",
+                "29/30",
+                "31-May-2021",
+                "Active",
+                "28900",
+                "Juventus"
+            ],
+            [
+                "MLS",
+                "3845",
+                "USA",
+                "95/96",
+                "",
+                "Active",
+                "21500",
+                "Inter Miami"
+            ],
+            [
+                "J1 League",
+                "4120",
+                "Japan",
+                "",
+                "",
+                "Active",
+                "1820",
+                "Kawasaki Frontale"
+            ]
+        ]
+    }
+}

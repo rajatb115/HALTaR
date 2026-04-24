@@ -1,0 +1,77 @@
+{
+    "table-1435-1435": {
+        "title": [
+            "Zip Code",
+            "Municipality",
+            "State",
+            "Country",
+            "Has PO Box",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the zip codes that have post office boxes in the country of the country of San Juan Municipio whose state is Puerto Rico?",
+        "data": [
+            [
+                "64701-0002",
+                "San Juan",
+                "Puerto Rico",
+                "United States",
+                "Yes",
+                "Active"
+            ],
+            [
+                "64801-0045",
+                "San Juan",
+                "Puerto Rico",
+                "USA",
+                "Yes",
+                "Active"
+            ],
+            [
+                "65003-1122",
+                "San Juan Municipio",
+                "Puerto Rico",
+                "United States",
+                "Yes",
+                "Operational"
+            ],
+            [
+                "66100-0987",
+                "San Juan",
+                "PR",
+                "USA",
+                "No",
+                "Inactive"
+            ],
+            [
+                "67204-3321",
+                "San Juan",
+                "Municipality",
+                "United States",
+                "Yes",
+                "Pending"
+            ],
+            [
+                "68300-0555",
+                "San Juan",
+                "Puerto Rico",
+                "United States",
+                "Yes",
+                "Activo"
+            ],
+            [
+                "69401-0099",
+                "S.J.",
+                "P.R.",
+                "U.S.A.",
+                "Si",
+                "En Proceso"
+            ]
+        ]
+    }
+}

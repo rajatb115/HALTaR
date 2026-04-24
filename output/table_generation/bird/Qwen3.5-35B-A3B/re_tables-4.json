@@ -1,0 +1,93 @@
+{
+    "table-4-4": {
+        "title": [
+            "School ID",
+            "School Name",
+            "Total Students",
+            "Free/Reduced Lunch Count",
+            "Mailing Address Line 1",
+            "City",
+            "State",
+            "Zip Code"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the unabbreviated mailing address of the school with the highest FRPM count for K-12 students?",
+        "data": [
+            [
+                "SCH_1042",
+                "Lincoln Elementary Academy",
+                "650",
+                "485",
+                "742 Evergreen Terrace",
+                "Springfield",
+                "IL",
+                "01234"
+            ],
+            [
+                "SCH_A991",
+                "Oakwood Middle School",
+                "820",
+                "512",
+                "301 Maple Avenue",
+                "Riverside",
+                "CA",
+                "90210"
+            ],
+            [
+                "BCH_2201",
+                "Jefferson High School",
+                "5500",
+                "",
+                "N/A",
+                "NVA",
+                "VA",
+                ""
+            ],
+            [
+                "MID_3302",
+                "Westside Charter Prep",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "EAST_4403",
+                "Northgate Community HS",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "SOUTH_5514",
+                "Valley View Academy",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "CENTRAL_6625",
+                "Riverbend Institute",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

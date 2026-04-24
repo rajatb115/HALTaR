@@ -1,0 +1,57 @@
+{
+    "table-1206-1206": {
+        "title": [
+            "Patient Number",
+            "Test",
+            "Result",
+            "Normal Range",
+            "Within Normal Range?"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Uric Acid Test Results",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Was the patient with the number 57266's uric acid within a normal range?",
+        "data": [
+            [
+                "57266",
+                "Uric Acid",
+                "7.2 mg/dL",
+                "3.5-7.2 mg/dL",
+                "Yes"
+            ],
+            [
+                "57267",
+                "Uric Acid",
+                "8.1 mg/dL",
+                "3.5-7.2 mg/dL",
+                "No"
+            ],
+            [
+                "57268",
+                "Uric Acid",
+                "4.5 mg/dL",
+                "3.5-7.2 mg/dL",
+                "Yes"
+            ],
+            [
+                "57269",
+                "Uric Acid",
+                "2.9 mg/dL",
+                "3.5-7.2 mg/dL",
+                "No"
+            ],
+            [
+                "57270",
+                "Uric Acid",
+                "6.0 mg/dL",
+                "3.5-7.2 mg/dL",
+                "Yes"
+            ]
+        ]
+    }
+}

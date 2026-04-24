@@ -1,0 +1,69 @@
+{
+    "table-119-119": {
+        "title": [
+            "Loan ID",
+            "Loan Amount (USD)",
+            "Account Status",
+            "Days Since Last Issue",
+            "Last Activity Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For loan amount less than USD100,000, what is the percentage of accounts that is still running with no issue.",
+        "data": [
+            [
+                "L78901",
+                "65000",
+                "Active - No Issues",
+                "450",
+                "2023-10-20"
+            ],
+            [
+                "L78902",
+                "92000",
+                "Active - No Issues",
+                "720",
+                "2023-11-01"
+            ],
+            [
+                "L78903",
+                "48000",
+                "Active - Minor Issues",
+                "15",
+                "2023-10-28"
+            ],
+            [
+                "L78904",
+                "81000",
+                "Active - No Issues",
+                "180",
+                "2023-10-25"
+            ],
+            [
+                "L78905",
+                "35000",
+                "Closed - Paid Off",
+                "N/A",
+                "2023-09-15"
+            ],
+            [
+                "L78906",
+                "72000",
+                "Active - No Issues",
+                "600",
+                "2023-10-18"
+            ],
+            [
+                "L78907",
+                "55000",
+                "Delinquent",
+                "0",
+                "2023-09-01"
+            ]
+        ]
+    }
+}

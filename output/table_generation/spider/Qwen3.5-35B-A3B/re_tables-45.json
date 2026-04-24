@@ -1,0 +1,85 @@
+{
+    "table-45-45": {
+        "title": [
+            "Pet ID",
+            "Species",
+            "Age in Years",
+            "Weight in kg",
+            "Owner Status",
+            "Health Score",
+            "Last Vet Visit"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What type of pet is the youngest animal, and how much does it weigh?",
+        "data": [
+            [
+                "P-104",
+                "Hamster",
+                "0.75",
+                "65",
+                "Active",
+                "High",
+                "3 days ago"
+            ],
+            [
+                "P-209",
+                "Parrotlet",
+                "4.2",
+                "52",
+                "Active",
+                "Medium",
+                "Recent"
+            ],
+            [
+                "P-P-315",
+                "Chinchilla",
+                "8.1",
+                "780",
+                "Inactive",
+                "Low",
+                "Past Month"
+            ],
+            [
+                "P-D-402",
+                "Dogfish",
+                "9.5",
+                "N/A",
+                "Unknown",
+                "Critical",
+                "Immediate"
+            ],
+            [
+                "P-C-511",
+                "Cheetah Cub",
+                "0.5",
+                "0.6",
+                "Pending Review",
+                "Urgent",
+                "Today"
+            ],
+            [
+                "P-F-623",
+                "Frog",
+                "0.008",
+                "0.07",
+                "Quarantined",
+                "Moderate",
+                "Weekly"
+            ],
+            [
+                "P-S-734",
+                "Shrew",
+                "0.5",
+                "0.9",
+                "Lost Contact",
+                "Severe",
+                "Ongoing"
+            ]
+        ]
+    }
+}

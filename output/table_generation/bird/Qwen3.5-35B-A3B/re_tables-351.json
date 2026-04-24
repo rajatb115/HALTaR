@@ -1,0 +1,77 @@
+{
+    "table-351-351": {
+        "title": [
+            "Card ID",
+            "Card Name",
+            "Language Code",
+            "Language Name",
+            "Region",
+            "Availability Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the alternative languages available for card named Annul numbered 29.",
+        "data": [
+            [
+                "27",
+                "Annul",
+                "en_US",
+                "English (US)",
+                "North America",
+                "Active"
+            ],
+            [
+                "28",
+                "Annuller",
+                "de_DE",
+                "German",
+                "Europe",
+                "Active"
+            ],
+            [
+                "29",
+                "Annullieren",
+                "fr_FR",
+                "French",
+                "Europe",
+                ""
+            ],
+            [
+                "30",
+                "Annuler",
+                "es_ES",
+                "Spanish",
+                "Latin America",
+                ""
+            ],
+            [
+                "31",
+                "Anular",
+                "ja_JP",
+                "Japanese",
+                "Asia Pacific",
+                ""
+            ],
+            [
+                "32",
+                "\u53d6\u6d88",
+                "zh_CN",
+                "Chinese Simplified",
+                "East Asia",
+                ""
+            ],
+            [
+                "33",
+                "Cancelar",
+                "pt_BR",
+                "Portuguese",
+                "South America",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-13-13": {
+        "title": [
+            "School Name",
+            "SAT Excellence Rate",
+            "Eligible Free Rate (Ages 5-17)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "School SAT Excellence and Free Rate Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the schools with an SAT excellence rate of over 0.3, what is the highest eligible free rate for students aged 5-17?",
+        "data": [
+            [
+                "School A",
+                "0.35",
+                "0.20"
+            ],
+            [
+                "School B",
+                "0.42",
+                "0.15"
+            ],
+            [
+                "School C",
+                "0.31",
+                "0.25"
+            ],
+            [
+                "School D",
+                "0.50",
+                "0.30"
+            ],
+            [
+                "School E",
+                "0.38",
+                "0.10"
+            ]
+        ]
+    }
+}

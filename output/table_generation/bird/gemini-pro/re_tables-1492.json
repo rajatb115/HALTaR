@@ -1,0 +1,39 @@
+{
+    "table-1492-1492": {
+        "title": [
+            "Country",
+            "Number of \"Value for Money\" Gas Stations"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Value for Money Gas Stations by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country has more \"value for money\" gas stations? Please give a total number of \"value for money\" gas stations in each country.",
+        "data": [
+            [
+                "USA",
+                "1200"
+            ],
+            [
+                "Canada",
+                "350"
+            ],
+            [
+                "UK",
+                "200"
+            ],
+            [
+                "Germany",
+                "150"
+            ],
+            [
+                "Australia",
+                "100"
+            ]
+        ]
+    }
+}

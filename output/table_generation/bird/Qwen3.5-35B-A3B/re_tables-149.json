@@ -1,0 +1,77 @@
+{
+    "table-149-149": {
+        "title": [
+            "Account ID",
+            "District",
+            "Eligibility Status",
+            "Loan Amount Limit",
+            "Interest Rate",
+            "Last Review Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the accounts whose district is Tabor that are eligible for loans.",
+        "data": [
+            [
+                "ACC-TAB-0042",
+                "Tabor",
+                "Approved",
+                "$50,000",
+                "4.5%",
+                "06/15/2023"
+            ],
+            [
+                "ACC-TAB-A7B9",
+                "Tapor",
+                "Pending Verification",
+                "N/A",
+                "N/D",
+                "08/22/2023"
+            ],
+            [
+                "ACC-B2C-D3E4",
+                "Tavor",
+                "Rejected - Low Credit",
+                "N/A",
+                "N/A",
+                ""
+            ],
+            [
+                "ACC-FG-HI-JK",
+                "Taber",
+                "Conditional Approval",
+                "$25,050",
+                "N/A",
+                "Risk Assessment Required"
+            ],
+            [
+                "ACC-LM-NP-QR",
+                "Tabe",
+                "Active",
+                "$100,205",
+                "3.9%",
+                "01/10/2024"
+            ],
+            [
+                "ACC-ST-UW-VX",
+                "Tabb",
+                "Ineligible - Debt Ratio High",
+                "N/A",
+                "N/A",
+                "Debt > Income * 0.4"
+            ],
+            [
+                "ACD-YZ-AA-BB",
+                "Taba",
+                "Pre-approved",
+                "$75,300",
+                "5.1%",
+                "03/01/2009"
+            ]
+        ]
+    }
+}

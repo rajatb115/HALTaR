@@ -1,0 +1,57 @@
+{
+    "table-770-770": {
+        "title": [
+            "Superhero",
+            "Durability",
+            "Other Stats",
+            "Year Published",
+            "Issue #"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Dark Horse Comics Superhero Stats",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which superhero has the most durability published by Dark Horse Comics?",
+        "data": [
+            [
+                "Concrete",
+                "High",
+                "Strength, Speed",
+                "1986",
+                "#1"
+            ],
+            [
+                "Ghost",
+                "Medium",
+                "Intangibility, Teleportation",
+                "1993",
+                "#1"
+            ],
+            [
+                "Hellboy",
+                "High",
+                "Strength, Stamina",
+                "1993",
+                "#1"
+            ],
+            [
+                "The Mask",
+                "Variable",
+                "Shapeshifting, Reality Warping",
+                "1991",
+                "#0"
+            ],
+            [
+                "Barb Wire",
+                "Medium",
+                "Agility, Marksmanship",
+                "1996",
+                "#1"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-1270-1270": {
+        "title": [
+            "Patient ID",
+            "Examination Date",
+            "Anti-Scl70 Result"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Examination Records",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the IDs of the patients who had the examination done after 1997/1/1 and had a normal anti-scl70.",
+        "data": [
+            [
+                "12345",
+                "1998-03-15",
+                "Normal"
+            ],
+            [
+                "67890",
+                "2000-11-20",
+                "Normal"
+            ],
+            [
+                "24680",
+                "2005-07-04",
+                "Normal"
+            ],
+            [
+                "13579",
+                "1999-05-10",
+                "Abnormal"
+            ],
+            [
+                "98765",
+                "2001-01-28",
+                "Normal"
+            ]
+        ]
+    }
+}

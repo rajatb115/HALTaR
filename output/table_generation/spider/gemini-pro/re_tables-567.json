@@ -1,0 +1,45 @@
+{
+    "table-567-567": {
+        "title": [
+            "StudentID",
+            "Has Friends",
+            "Is Liked"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Student Friendship and Likeability",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the ids of students who both have friends and are liked?",
+        "data": [
+            [
+                "101",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "102",
+                "Yes",
+                "No"
+            ],
+            [
+                "103",
+                "No",
+                "Yes"
+            ],
+            [
+                "104",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "105",
+                "No",
+                "No"
+            ]
+        ]
+    }
+}

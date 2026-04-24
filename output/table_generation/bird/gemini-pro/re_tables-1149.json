@@ -1,0 +1,49 @@
+{
+    "table-1149-1149": {
+        "title": [
+            "Height (cm)",
+            "Strength",
+            "Player Count",
+            "Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Player Statistics Based on Height and Strength",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of players that are under 180 cm who have an overall strength of more than 70?",
+        "data": [
+            [
+                "< 180",
+                "> 70",
+                "150",
+                "15%"
+            ],
+            [
+                "< 180",
+                "<= 70",
+                "850",
+                "85%"
+            ],
+            [
+                ">= 180",
+                "> 70",
+                "600",
+                "60%"
+            ],
+            [
+                ">= 180",
+                "<= 70",
+                "400",
+                "40%"
+            ],
+            [
+                "**Total**",
+                "",
+                "**2000**",
+                "**100%**"
+            ]
+        ]
+    }
+}

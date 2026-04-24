@@ -1,0 +1,62 @@
+{
+    "table-1321-1321": {
+        "title": [
+            "Event Name",
+            "Event Date",
+            "Event Type",
+            "Attendee Name",
+            "Attendance Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the event names of all the events attended by Maya Mclean.",
+        "data": [
+            [
+                "Annual Tech Summit",
+                "2023-10-26",
+                "Conference",
+                "Maya Mclean",
+                "Attended"
+            ],
+            [
+                "Marketing Innovations Conference",
+                "2024-03-15",
+                "Conference",
+                "Maya Mclean",
+                "Registered"
+            ],
+            [
+                "Data Science Workshop",
+                "2023-11-08",
+                "Workshop",
+                "Maya Mclean",
+                "Attended"
+            ],
+            [
+                "Leadership Development Seminar",
+                "2024-01-20",
+                "Seminar",
+                "Maya Mclean",
+                "Attended"
+            ],
+            [
+                "Product Launch Gala",
+                "2023-09-01",
+                "Gala",
+                "Maya Mclean",
+                "Attended"
+            ],
+            [
+                "Industry Networking Mixer",
+                "2024-02-29",
+                "Networking",
+                "Maya Mclean",
+                "Attended"
+            ]
+        ]
+    }
+}

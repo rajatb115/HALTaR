@@ -1,0 +1,62 @@
+{
+    "table-1518-1518": {
+        "title": [
+            "Customer_ID",
+            "Registration_Date",
+            "Segment_Name",
+            "Region",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the earliest customer, what segment did he/she have?",
+        "data": [
+            [
+                "CUST_0042",
+                "06/15/1978",
+                "Enterprise",
+                "North America",
+                "Active"
+            ],
+            [
+                "CUS_1109",
+                "03/22/1899",
+                "Government",
+                "Europe",
+                "Inactive"
+            ],
+            [
+                "USR_5521",
+                "09/01/1750",
+                "Retail",
+                "Asia Pacific",
+                "Suspended"
+            ],
+            [
+                "CLI_8834",
+                "04/12/2023",
+                "SMB",
+                "South America",
+                "Pending"
+            ],
+            [
+                "MEM_3321",
+                "11/30/1644",
+                "Non-Profit",
+                "Africa",
+                "Dormant"
+            ],
+            [
+                "ACC_9912",
+                "Jan 1st, 1201",
+                "VIP",
+                "International",
+                "Closed"
+            ]
+        ]
+    }
+}

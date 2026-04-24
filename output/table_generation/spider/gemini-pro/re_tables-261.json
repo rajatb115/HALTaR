@@ -1,0 +1,49 @@
+{
+    "table-261-261": {
+        "title": [
+            "First Name",
+            "Last Name",
+            "Hand",
+            "Birth Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Baseball Players' Names and Birthdates",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the first and last name of all players who are left / L hand in the order of birth date.",
+        "data": [
+            [
+                "Randy",
+                "Johnson",
+                "L",
+                "1963-09-10"
+            ],
+            [
+                "Barry",
+                "Bonds",
+                "L",
+                "1964-07-24"
+            ],
+            [
+                "Clayton",
+                "Kershaw",
+                "L",
+                "1988-03-19"
+            ],
+            [
+                "Madison",
+                "Bumgarner",
+                "L",
+                "1989-08-01"
+            ],
+            [
+                "Chris",
+                "Sale",
+                "L",
+                "1989-03-30"
+            ]
+        ]
+    }
+}

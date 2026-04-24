@@ -1,0 +1,69 @@
+{
+    "table-34-34": {
+        "title": [
+            "Student First Name",
+            "Pet Type",
+            "Has Cat Or Dog",
+            "Enrollment Status",
+            "Last Updated"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name of students who have cat or dog pet.",
+        "data": [
+            [
+                "Alice",
+                "Cat",
+                "Yes",
+                "Active",
+                "04/15/2023"
+            ],
+            [
+                "Bob",
+                "Dog",
+                "Yes",
+                "",
+                "06/22/2023"
+            ],
+            [
+                "Charlie",
+                "Fish",
+                "No",
+                "Inactive",
+                "N/A"
+            ],
+            [
+                "Diana",
+                "Hamster",
+                "No",
+                "",
+                "11/01/2024"
+            ],
+            [
+                "Evan",
+                "Dog",
+                "",
+                "Pending",
+                "07/10/2025"
+            ],
+            [
+                "Fiona",
+                "Cat",
+                "",
+                "Active",
+                "N/A"
+            ],
+            [
+                "George",
+                "Bird",
+                "No",
+                "",
+                "03/30/1999"
+            ]
+        ]
+    }
+}

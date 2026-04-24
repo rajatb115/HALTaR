@@ -1,0 +1,69 @@
+{
+    "table-264-264": {
+        "title": [
+            "Player First Name",
+            "Player Last Name",
+            "Country Code",
+            "Total Tours",
+            "Primary Sport"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the first name and country code of the player with the most tours?",
+        "data": [
+            [
+                "John",
+                "Doe",
+                "USA",
+                "15",
+                "Golf"
+            ],
+            [
+                "Maria",
+                "Garcia",
+                "ESP",
+                "12",
+                "Tennis"
+            ],
+            [
+                "David",
+                "Lee",
+                "KOR",
+                "18",
+                "Cycling"
+            ],
+            [
+                "Sarah",
+                "Chen",
+                "CHN",
+                "10",
+                "Athletics"
+            ],
+            [
+                "Michael",
+                "Smith",
+                "GBR",
+                "14",
+                "Surfing"
+            ],
+            [
+                "Emily",
+                "Jones",
+                "AUS",
+                "11",
+                "Skiing"
+            ],
+            [
+                "Robert",
+                "Brown",
+                "CAN",
+                "16",
+                "Basketball"
+            ]
+        ]
+    }
+}

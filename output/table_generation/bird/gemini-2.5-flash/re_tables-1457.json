@@ -1,0 +1,55 @@
+{
+    "table-1457-1457": {
+        "title": [
+            "Rank",
+            "Full Name",
+            "Total Spending",
+            "Membership Tier",
+            "Last Purchase Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the full name of the top five members who spend the most money in the descending order of spending.",
+        "data": [
+            [
+                "1",
+                "Eleanor Vance",
+                "$18,500.75",
+                "Platinum",
+                "2023-11-01"
+            ],
+            [
+                "2",
+                "Marcus Thorne",
+                "$15,230.50",
+                "Gold",
+                "2023-10-28"
+            ],
+            [
+                "3",
+                "Sophia Chen",
+                "$12,890.20",
+                "Gold",
+                "2023-10-30"
+            ],
+            [
+                "4",
+                "David Rodriguez",
+                "$11,500.00",
+                "Silver",
+                "2023-10-25"
+            ],
+            [
+                "5",
+                "Olivia Kim",
+                "$9,750.10",
+                "Silver",
+                "2023-11-02"
+            ]
+        ]
+    }
+}

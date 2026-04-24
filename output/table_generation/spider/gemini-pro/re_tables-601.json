@@ -1,0 +1,51 @@
+{
+    "table-601-601": {
+        "title": [
+            "Dog ID",
+            "Arrival Date",
+            "Departure Date",
+            "Treatment Received"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Dog Treatment Schedule",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the arriving date and the departing date of the dogs that received a treatment.",
+        "data": [
+            [
+                "123",
+                "2024-01-15",
+                "2024-01-22",
+                "Flea Treatment"
+            ],
+            [
+                "456",
+                "2024-02-01",
+                "2024-02-08",
+                "Vaccination"
+            ],
+            [
+                "789",
+                "2024-02-15",
+                "2024-02-29",
+                "Dental Cleaning"
+            ],
+            [
+                "101",
+                "2024-03-01",
+                "2024-03-15",
+                "Grooming & Medicated Bath"
+            ],
+            [
+                "202",
+                "2024-03-10",
+                "2024-03-17",
+                "Deworming"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-397-397": {
+        "title": [
+            "Player Name",
+            "Total Earnings",
+            "Money Rank"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Player Rankings by Earnings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the money rank of the player with the greatest earnings.",
+        "data": [
+            [
+                "Player A",
+                "$1,000,000",
+                "1"
+            ],
+            [
+                "Player B",
+                "$950,000",
+                "2"
+            ],
+            [
+                "Player C",
+                "$900,000",
+                "3"
+            ],
+            [
+                "Player D",
+                "$850,000",
+                "4"
+            ],
+            [
+                "Player E",
+                "$800,000",
+                "5"
+            ]
+        ]
+    }
+}

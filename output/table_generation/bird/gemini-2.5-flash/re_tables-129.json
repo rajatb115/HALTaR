@@ -1,0 +1,69 @@
+{
+    "table-129-129": {
+        "title": [
+            "Rank",
+            "District Name",
+            "Female Account Holders",
+            "Total Account Holders",
+            "Region"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the top ten districts, by descending order, from the highest to the lowest, the number of female account holders.",
+        "data": [
+            [
+                "1",
+                "Metro Central",
+                "152345",
+                "289760",
+                "Urban"
+            ],
+            [
+                "2",
+                "Northwood Heights",
+                "138910",
+                "265120",
+                "Suburban"
+            ],
+            [
+                "3",
+                "Lakeside View",
+                "125678",
+                "230980",
+                "Coastal"
+            ],
+            [
+                "4",
+                "Green Valley",
+                "110450",
+                "205300",
+                "Rural"
+            ],
+            [
+                "5",
+                "Riverbend East",
+                "98765",
+                "180150",
+                "Urban"
+            ],
+            [
+                "6",
+                "Summit Ridge",
+                "87321",
+                "162400",
+                "Mountain"
+            ],
+            [
+                "7",
+                "Harborfront",
+                "75900",
+                "140870",
+                "Coastal"
+            ]
+        ]
+    }
+}

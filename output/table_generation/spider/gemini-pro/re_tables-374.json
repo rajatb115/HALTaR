@@ -1,0 +1,49 @@
+{
+    "table-374-374": {
+        "title": [
+            "Cartoon Title",
+            "Production Code",
+            "Channel",
+            "Air Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Recent Cartoon Broadcast Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the production code and channel of the most recently aired cartoon .",
+        "data": [
+            [
+                "The Mighty B!",
+                "123AB",
+                "Nick",
+                "2024-01-26"
+            ],
+            [
+                "Doug",
+                "456CD",
+                "Disney",
+                "2024-01-25"
+            ],
+            [
+                "Rocko's Modern Life",
+                "789EF",
+                "Nick",
+                "2024-01-24"
+            ],
+            [
+                "Hey Arnold!",
+                "012GH",
+                "Nick",
+                "2024-01-23"
+            ],
+            [
+                "Rugrats",
+                "345IJ",
+                "Paramount+",
+                "2024-01-22"
+            ]
+        ]
+    }
+}

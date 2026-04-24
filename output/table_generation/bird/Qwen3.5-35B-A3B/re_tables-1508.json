@@ -1,0 +1,61 @@
+{
+    "table-1508-1508": {
+        "title": [
+            "Transaction ID",
+            "Station Chain No",
+            "Date",
+            "Time",
+            "Amount ($)",
+            "Fuel Grade"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the disparate time of the transactions taken place in the gas stations from chain no. 11.",
+        "data": [
+            [
+                "TX-40021",
+                "011",
+                "January 15, 2024",
+                "6:12 AM",
+                "$42.50",
+                "Regular"
+            ],
+            [
+                "TX-40105",
+                "011",
+                "February 03, 2024",
+                "7:45 PM",
+                "$38.25",
+                "Premium"
+            ],
+            [
+                "TX-40289",
+                "011",
+                "March 12, 2024",
+                "12:30 PM",
+                "$55.00",
+                "Diesel"
+            ],
+            [
+                "TX-41003",
+                "011",
+                "April 22, 2024",
+                "9:10 AM",
+                "$30.75",
+                "Regular"
+            ],
+            [
+                "TX-41567",
+                "011",
+                "June 05, 2024",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

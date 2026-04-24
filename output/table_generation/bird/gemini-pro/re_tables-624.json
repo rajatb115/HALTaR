@@ -1,0 +1,51 @@
+{
+    "table-624-624": {
+        "title": [
+            "Age Group",
+            "Badge Type",
+            "Number of Recipients",
+            "Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Supporter Badge Statistics for Elders",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many elders obtained the \"Supporter\" badge?",
+        "data": [
+            [
+                "60-65",
+                "Supporter",
+                "15",
+                "30%"
+            ],
+            [
+                "66-70",
+                "Supporter",
+                "20",
+                "40%"
+            ],
+            [
+                "71-75",
+                "Supporter",
+                "10",
+                "20%"
+            ],
+            [
+                "76-80",
+                "Supporter",
+                "5",
+                "10%"
+            ],
+            [
+                "Total",
+                "Supporter",
+                "50",
+                "100%"
+            ]
+        ]
+    }
+}

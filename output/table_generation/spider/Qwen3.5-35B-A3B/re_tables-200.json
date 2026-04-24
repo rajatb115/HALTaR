@@ -1,0 +1,73 @@
+{
+    "table-200-200": {
+        "title": [
+            "Template ID",
+            "Template Type Description",
+            "Category",
+            "Status",
+            "Created Date",
+            "Last Modified",
+            "Owner",
+            "File Size KB"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the template ids with template type description \"Presentation\".",
+        "data": [
+            [
+                "TPL-PRES-0042",
+                "Presentation",
+                "Business Slides",
+                "Active",
+                "06/15/2023",
+                "3 days ago",
+                "Sarah Jenkins",
+                "4.2"
+            ],
+            [
+                "TPL-PRES-WEB-77",
+                "Presentation Web App",
+                "Digital Marketing",
+                "Draft",
+                "8/22/24",
+                "N/A",
+                "Mike Ross",
+                "6.8"
+            ],
+            [
+                "TPL-SLIDE-CORP-11",
+                "Corporate Presentation",
+                "Internal Training",
+                "Archived",
+                "9/10/231",
+                "5 months ago",
+                "HR Dept",
+                "7.1"
+            ],
+            [
+                "TPL-VISUAL-NARRATIVE-99",
+                "Narrative Presentation",
+                "Storytelling Workshop",
+                "Active 12/01/21",
+                "Today",
+                "Creative Team",
+                "15.3",
+                ""
+            ],
+            [
+                "TPL-MARKETING-QTR-20",
+                "Quarterly Review Presentation",
+                "Sales Strategy",
+                "Pending Approval",
+                "Q1 24",
+                "Finance Lead",
+                "PENDING",
+                "TPL-AI-DATA-55"
+            ]
+        ]
+    }
+}

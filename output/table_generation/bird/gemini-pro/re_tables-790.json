@@ -1,0 +1,45 @@
+{
+    "table-790-790": {
+        "title": [
+            "Hero Name",
+            "Race",
+            "Weight (lbs)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Alien Superhero Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average weight of the heroes who are aliens.",
+        "data": [
+            [
+                "Superman",
+                "Kryptonian",
+                "225"
+            ],
+            [
+                "Martian Manhunter",
+                "Martian",
+                "300"
+            ],
+            [
+                "Starfire",
+                "Tamaranian",
+                "170"
+            ],
+            [
+                "Gamora",
+                "Zen-Whoberis",
+                "175"
+            ],
+            [
+                "Supergirl",
+                "Kryptonian",
+                "160"
+            ]
+        ]
+    }
+}

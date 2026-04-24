@@ -1,0 +1,53 @@
+{
+    "table-422-422": {
+        "title": [
+            "Card ID",
+            "Card Name",
+            "Promotional Type",
+            "League Tier",
+            "Release Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list top three unknown power cards that have promotional types for arena league in alphabetical order.",
+        "data": [
+            [
+                "PK-A74",
+                "Void Striker",
+                "Arena Exclusive",
+                "Elite",
+                "06/15/2023",
+                "Active"
+            ],
+            [
+                "PK-B21",
+                "Shadow Vanguard",
+                "Seasonal Promo",
+                "Master",
+                "3/22/24",
+                "Active"
+            ],
+            [
+                "PK-C99",
+                "Nebula Warden",
+                "Limited Edition",
+                "Grandmaster",
+                "8/01/23",
+                "Inactive"
+            ],
+            [
+                "PK-D12",
+                "Frost Titan",
+                "Tournament Reward",
+                "Champion",
+                "5/10/21",
+                "Archived"
+            ]
+        ]
+    }
+}

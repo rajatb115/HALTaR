@@ -1,0 +1,69 @@
+{
+    "table-822-822": {
+        "title": [
+            "Superpower Category",
+            "Specific Ability",
+            "Description",
+            "Energy Cost",
+            "Usage Frequency",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down Ajax's superpowers.",
+        "data": [
+            [
+                "Strength Enhancement",
+                "Lifting Capacity",
+                "Can lift up to 4 tons without strain",
+                "Low",
+                "Daily",
+                "Active"
+            ],
+            [
+                "Speed Boost",
+                "Sprint Velocity",
+                "Runs at speeds exceeding Mach 1 for short bursts",
+                "High",
+                "Rarely",
+                "Dormant"
+            ],
+            [
+                "Durability",
+                "Impact Resistance",
+                "Skin hardens against blunt force trauma",
+                "Medium",
+                "Frequent",
+                "Always On"
+            ],
+            [
+                "Agility",
+                "Acrobatic Maneuvers",
+                "Performs complex flips while falling from heights",
+                "None",
+                "Constant",
+                "Passive"
+            ],
+            [
+                "Endurance",
+                "Stamina Limitation",
+                "Operates continuously for 72 hours without rest",
+                "Very Low",
+                "Occasional",
+                "Stable"
+            ],
+            [
+                "Senses",
+                "Enhanced Hearing",
+                "Detects whispers from over one mile away",
+                "Minimal",
+                "Continuous",
+                "Active"
+            ]
+        ]
+    }
+}

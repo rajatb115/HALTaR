@@ -1,0 +1,77 @@
+{
+    "table-283-283": {
+        "title": [
+            "Event ID",
+            "Location",
+            "Date",
+            "Death Toll Min",
+            "Death Roll Max",
+            "Source Confidence"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is maximum and minimum death toll caused each time?",
+        "data": [
+            [
+                "EVT-0042",
+                "Jakarta",
+                "7/16/1974",
+                "34",
+                "N/A",
+                "High"
+            ],
+            [
+                "EVE-0118",
+                "Kathmandu",
+                "4/25/2015",
+                "8964",
+                "None",
+                "Medium"
+            ],
+            [
+                "EVX-0291",
+                "Christchurch",
+                "9/4/1888",
+                "0",
+                "5",
+                "Low"
+            ],
+            [
+                "EVY-0334",
+                "Haiti",
+                "6/2/2100",
+                "N/D",
+                "",
+                ""
+            ],
+            [
+                "EVZ-0405",
+                "Turkey/Syria",
+                "2/6/2023",
+                "53,000",
+                "N/A",
+                "Mixed"
+            ],
+            [
+                "EVA-0512",
+                "Japan",
+                "March 11, 2011",
+                "15,899",
+                "N/A",
+                "High"
+            ],
+            [
+                "EVB-0623",
+                "China",
+                "July 28, 197",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

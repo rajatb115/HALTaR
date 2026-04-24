@@ -1,0 +1,67 @@
+{
+    "table-400-400": {
+        "title": [
+            "Card Type",
+            "Category",
+            "Typical Cost Range",
+            "Primary Function"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Lists all types of cards available in arena.",
+        "data": [
+            [
+                "Creature",
+                "Unit",
+                "1-10",
+                "Attack, Defend, Activate Abilities"
+            ],
+            [
+                "Instant Spell",
+                "Action",
+                "0-5",
+                "Immediate, Fast-speed Effect"
+            ],
+            [
+                "Sorcery Spell",
+                "Action",
+                "1-7",
+                "Delayed, Main-phase Effect"
+            ],
+            [
+                "Enchantment",
+                "Permanent",
+                "1-6",
+                "Ongoing Board or Player Effect"
+            ],
+            [
+                "Artifact",
+                "Permanent",
+                "0-8",
+                "Utility, Equipment, or Resource"
+            ],
+            [
+                "Hero Card",
+                "Character",
+                "3-10",
+                "Player Avatar with Unique Abilities"
+            ],
+            [
+                "Weapon Card",
+                "Equipment",
+                "1-5",
+                "Equip to Hero for Attack Bonus"
+            ],
+            [
+                "Secret",
+                "Effect",
+                "1-4",
+                "Hidden Triggered Effect"
+            ]
+        ]
+    }
+}

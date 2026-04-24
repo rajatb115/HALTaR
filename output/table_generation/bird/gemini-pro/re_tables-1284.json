@@ -1,0 +1,45 @@
+{
+    "table-1284-1284": {
+        "title": [
+            "GPT Level",
+            "Gender",
+            "Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Normal Glutamic Pyruvic Transaminase Level vs. Gender",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients with the normal glutamic pylvic transaminase level, how many of them are male?",
+        "data": [
+            [
+                "Normal",
+                "Male",
+                "35"
+            ],
+            [
+                "Normal",
+                "Female",
+                "42"
+            ],
+            [
+                "Elevated",
+                "Male",
+                "15"
+            ],
+            [
+                "Elevated",
+                "Female",
+                "8"
+            ],
+            [
+                "Low",
+                "Male",
+                "2"
+            ]
+        ]
+    }
+}

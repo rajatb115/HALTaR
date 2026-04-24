@@ -1,0 +1,85 @@
+{
+    "table-1000-1000": {
+        "title": [
+            "Race Name",
+            "Racer Name",
+            "Lap Time",
+            "Speed (km/h)",
+            "Track Location",
+            "Date Recorded",
+            "Circuit Length (km)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In terms of the fastest lap time, what is the name of the race which recorded the fastest lap speed by a racer?",
+        "data": [
+            [
+                "Monaco Grand Prix",
+                "Max Verstappen",
+                "74.6s",
+                "320.5",
+                "Monte Carlo",
+                "05/28/2024",
+                "4.12"
+            ],
+            [
+                "Indianapolis 500",
+                "Scott Dixon",
+                "58.2s",
+                "345.8",
+                "Indianapolis",
+                "06/02/2024",
+                "6.00"
+            ],
+            [
+                "Bahrain GP",
+                "Charles Leclerc",
+                "82.1s",
+                "315.2",
+                "Sakhir",
+                "03/03/2019",
+                "9.08"
+            ],
+            [
+                "Silverstone GP",
+                "Lewis Hamilton",
+                "",
+                "",
+                "Silverstone",
+                "",
+                ""
+            ],
+            [
+                "Spa-Francorchamps",
+                "Fernando Alonso",
+                "",
+                "",
+                "Spa",
+                "",
+                ""
+            ],
+            [
+                "Monza GP",
+                "Sebastian Vettel",
+                "",
+                "",
+                "Monza",
+                "",
+                ""
+            ],
+            [
+                "Suzuka Circuit",
+                "Michael Schumacher",
+                "",
+                "",
+                "Suzuka",
+                "",
+                ""
+            ]
+        ]
+    }
+}

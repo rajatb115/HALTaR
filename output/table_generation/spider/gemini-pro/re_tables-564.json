@@ -1,0 +1,45 @@
+{
+    "table-564-564": {
+        "title": [
+            "Student Name",
+            "Grade Level",
+            "Has Friends"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Students Without Friends",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show names of all high school students who do not have any friends.",
+        "data": [
+            [
+                "Alice Smith",
+                "10",
+                "No"
+            ],
+            [
+                "Bob Johnson",
+                "11",
+                "No"
+            ],
+            [
+                "Carol Davis",
+                "9",
+                "No"
+            ],
+            [
+                "David Wilson",
+                "12",
+                "No"
+            ],
+            [
+                "Eve Brown",
+                "10",
+                "No"
+            ]
+        ]
+    }
+}

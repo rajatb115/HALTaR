@@ -1,0 +1,49 @@
+{
+    "table-376-376": {
+        "title": [
+            "Card ID",
+            "Converted Mana Cost",
+            "Set Code",
+            "Rarity"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down all the card IDs with converted mana cost of 0.",
+        "data": [
+            [
+                "CMC_000_A",
+                "0",
+                "M19",
+                "Common"
+            ],
+            [
+                "CMC_045_B",
+                "7",
+                "THB",
+                "Rare"
+            ],
+            [
+                "CMK_112_C",
+                "6",
+                "KLD",
+                "Uncommon"
+            ],
+            [
+                "ZNR_089_D",
+                "5",
+                "ZNR",
+                "Mythic"
+            ],
+            [
+                "VOW_023_E",
+                "4",
+                "VOW",
+                "Common"
+            ]
+        ]
+    }
+}

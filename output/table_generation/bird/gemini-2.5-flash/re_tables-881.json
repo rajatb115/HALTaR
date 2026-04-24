@@ -1,0 +1,76 @@
+{
+    "table-881-881": {
+        "title": [
+            "Race ID",
+            "Driver",
+            "Lap Type",
+            "Lap Time (s)",
+            "Avg Speed (km/h)",
+            "Lap Rank",
+            "Race Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Paul di Resta was in the No. 853 race, what percent faster did he finish in the 853rd race than the next race for the fastest lap speed?",
+        "data": [
+            [
+                "853",
+                "Paul di Resta",
+                "Fastest Lap",
+                "92.543",
+                "245.12",
+                "3",
+                "2013-09-22"
+            ],
+            [
+                "854",
+                "Paul di Resta",
+                "Fastest Lap",
+                "93.187",
+                "243.45",
+                "5",
+                "2013-10-06"
+            ],
+            [
+                "855",
+                "Paul di Resta",
+                "Fastest Lap",
+                "92.899",
+                "244.21",
+                "4",
+                "2013-10-27"
+            ],
+            [
+                "856",
+                "Paul di Resta",
+                "Fastest Lap",
+                "91.982",
+                "246.60",
+                "2",
+                "2013-11-03"
+            ],
+            [
+                "857",
+                "Paul di Resta",
+                "Fastest Lap",
+                "93.501",
+                "242.63",
+                "6",
+                "2013-11-17"
+            ],
+            [
+                "858",
+                "Paul di Resta",
+                "Fastest Lap",
+                "92.770",
+                "244.55",
+                "3",
+                "2013-11-24"
+            ]
+        ]
+    }
+}

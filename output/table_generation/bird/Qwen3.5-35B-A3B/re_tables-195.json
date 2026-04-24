@@ -1,0 +1,43 @@
+{
+    "table-195-195": {
+        "title": [
+            "Client_ID",
+            "Age",
+            "Credit_Card_Level",
+            "Loan_Eligibility_Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the IDs and age of the client with high level credit card, which is eligible for loans.",
+        "data": [
+            [
+                "CUST_7401",
+                "62",
+                "Platinum",
+                "Eligible"
+            ],
+            [
+                "CUST_8923",
+                "58",
+                "Gold",
+                "Eligible"
+            ],
+            [
+                "CULT_3310",
+                "71",
+                "Diamond",
+                "Elgible"
+            ],
+            [
+                "CUST-5502",
+                "45",
+                "Gold",
+                "Not Eligible"
+            ]
+        ]
+    }
+}

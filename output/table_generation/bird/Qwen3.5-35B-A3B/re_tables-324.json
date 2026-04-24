@@ -1,0 +1,58 @@
+{
+    "table-324-324": {
+        "title": [
+            "Molecule ID",
+            "Carcinogen Status",
+            "Assessment Source",
+            "Risk Level",
+            "Test Duration",
+            "Species Tested",
+            "Conclusion Confidence"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Is molecule TR000 is carcinogenic or not?",
+        "data": [
+            [
+                "TR004",
+                "Non-Carcinogenic",
+                "OECD Guideline 476",
+                "Low",
+                "2 Years",
+                "Rats",
+                "High"
+            ],
+            [
+                "RF002",
+                "Probable Carcinogen",
+                "IARC Monograph Group 2A",
+                "Moderate",
+                "Lifetime",
+                "Mouse",
+                "Medium"
+            ],
+            [
+                "MZ991",
+                "Confirmed Non-Carcinogenic",
+                "EPA ToxCast Data",
+                "Negligible",
+                "18 Months",
+                "Hamster",
+                "Very High"
+            ],
+            [
+                "xT005",
+                "Inconclusive Results",
+                "ToxRefDB Analysis",
+                "Unknown",
+                "Short-term",
+                "Drosophila",
+                "Low"
+            ]
+        ]
+    }
+}

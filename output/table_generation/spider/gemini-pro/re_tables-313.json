@@ -1,0 +1,46 @@
+{
+    "table-313-313": {
+        "title": [
+            "Semester",
+            "Year",
+            "Number of Enrolled Students"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Empty Semester Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of the semester with no students enrolled?",
+        "data": [
+            [
+                "Fall",
+                "2022",
+                "0"
+            ],
+            [
+                "Spring",
+                "2023",
+                "250"
+            ],
+            [
+                "Summer",
+                "2023",
+                "50"
+            ],
+            [
+                "Fall",
+                "2023",
+                "300"
+            ],
+            [
+                "Winter",
+                "2024",
+                "0"
+            ]
+        ]
+    }
+}

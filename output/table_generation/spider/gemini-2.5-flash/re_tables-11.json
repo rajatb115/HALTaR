@@ -1,0 +1,45 @@
+{
+    "table-11-11": {
+        "title": [
+            "Stadium Name",
+            "Location"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show location and name for all stadiums with a capacity between 5000 and 10000.",
+        "data": [
+            [
+                "Memorial Field",
+                "Springfield, IL"
+            ],
+            [
+                "Riverside Arena",
+                "Grand Rapids, MI"
+            ],
+            [
+                "Eagle Stadium",
+                "Plano, TX"
+            ],
+            [
+                "Centennial Park Stadium",
+                "Vancouver, BC, Canada"
+            ],
+            [
+                "Victory Sports Complex",
+                "Orlando, FL"
+            ],
+            [
+                "Sunset Bowl",
+                "Phoenix, AZ"
+            ],
+            [
+                "Greenwood Field",
+                "Manchester, UK"
+            ]
+        ]
+    }
+}

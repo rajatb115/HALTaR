@@ -1,0 +1,69 @@
+{
+    "table-1491-1491": {
+        "title": [
+            "Customer_ID",
+            "Segment_Type",
+            "Consumption_Value",
+            "Threshold_Comparison",
+            "Percentage_Above_Threshold",
+            "Data_Source_Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many percent of LAM customer consumed more than 46.73?",
+        "data": [
+            [
+                "LAM_CUST_0042",
+                "LAM",
+                "52.10",
+                "Above",
+                "34.5%",
+                "01/15/2023"
+            ],
+            [
+                "LAM_LCST_0118",
+                "LAC",
+                "48.90",
+                "Below",
+                "N/A",
+                "99/99/N/A"
+            ],
+            [
+                "LAMB_CUST_S09",
+                "LAB",
+                "61.25",
+                "Above 45.00",
+                "88.2%",
+                "Q3-2019"
+            ],
+            [
+                "LCM_DTA_XY2",
+                "LCD",
+                "73.40",
+                "High_Volume",
+                "12.3%",
+                "Dec-22"
+            ],
+            [
+                "LAZ_CUST_ZZZ",
+                "LAZ",
+                "44.15",
+                "Low_Vol",
+                "N/A",
+                "Jan-24"
+            ],
+            [
+                "LAB_CUST_MNO",
+                "LABS",
+                "55.60",
+                "Mid_Range",
+                "n/a",
+                "Feb-23"
+            ]
+        ]
+    }
+}

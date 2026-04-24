@@ -1,0 +1,62 @@
+{
+    "table-444-444": {
+        "title": [
+            "Set_ID",
+            "Expansion_Type",
+            "Release_Date",
+            "Region",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the code of sets have expansion type of 'expansion'?",
+        "data": [
+            [
+                "SET_004",
+                "expansion",
+                "06/15/2023",
+                "North America",
+                "Active"
+            ],
+            [
+                "SET_A7B",
+                "expansion_type_expansion",
+                "03/22/2024",
+                "Europe",
+                "Archived"
+            ],
+            [
+                "EXP_99X",
+                "expansion_variant",
+                "08/01/2023",
+                "Asia Pacific",
+                "Pending"
+            ],
+            [
+                "FAN_SET_1",
+                "standard",
+                "05/10/2021",
+                "Global",
+                "Released"
+            ],
+            [
+                "COLL_22Z",
+                "limited_edition",
+                "09/30/2019",
+                "South America",
+                "Discontinued"
+            ],
+            [
+                "DLC_PACK_X",
+                "expansion_content",
+                "07/14/2025",
+                "Japan",
+                "Beta Testing"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-391-391": {
+        "title": [
+            "Player Name",
+            "Earnings (USD)"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Top Poker Player Earnings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the earnings of poker players, ordered descending by value?",
+        "data": [
+            [
+                "Bryn Kenney",
+                "$57,201,883"
+            ],
+            [
+                "Justin Bonomo",
+                "$53,253,323"
+            ],
+            [
+                "Dan Smith",
+                "$44,057,678"
+            ],
+            [
+                "Jason Koon",
+                "$42,399,216"
+            ],
+            [
+                "Stephen Chidwick",
+                "$40,702,557"
+            ]
+        ]
+    }
+}

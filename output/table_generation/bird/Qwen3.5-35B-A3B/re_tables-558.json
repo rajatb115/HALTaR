@@ -1,0 +1,41 @@
+{
+    "table-558-558": {
+        "title": [
+            "Post_ID",
+            "Score",
+            "Owner_Age_Group",
+            "Is_Elder_User",
+            "Percentage_Contribution"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts with a score of over 20, what is the percentage of them being owned by an elder user?",
+        "data": [
+            [
+                "P_1042",
+                "45",
+                "Senior",
+                "Yes",
+                "67%"
+            ],
+            [
+                "P_1109",
+                "32",
+                "Adult",
+                "No",
+                "N/A"
+            ],
+            [
+                "P_P_1255",
+                "88",
+                "Senior",
+                "Yes",
+                "67%"
+            ]
+        ]
+    }
+}

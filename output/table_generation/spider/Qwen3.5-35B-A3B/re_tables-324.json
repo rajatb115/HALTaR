@@ -1,0 +1,55 @@
+{
+    "table-324-324": {
+        "title": [
+            "First_Name",
+            "Permanent_Address_City",
+            "Current_Address_Country",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Whose permanent address is different from his or her current address? List his or her first name.",
+        "data": [
+            [
+                "Alice",
+                "London",
+                "France",
+                "Mismatched"
+            ],
+            [
+                "Bob",
+                "Berlin",
+                "Germany",
+                "Matched"
+            ],
+            [
+                "Charlie",
+                "Paris",
+                "Spain",
+                "Mismatched"
+            ],
+            [
+                "Diana",
+                "Rome",
+                "Italy",
+                "Match"
+            ],
+            [
+                "Ethan",
+                "Madrid",
+                "Portugal",
+                "Mistracked"
+            ],
+            [
+                "Fiona",
+                "Dublin",
+                "Ireland",
+                "Match"
+            ]
+        ]
+    }
+}

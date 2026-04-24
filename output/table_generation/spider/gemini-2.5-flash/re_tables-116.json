@@ -1,0 +1,62 @@
+{
+    "table-116-116": {
+        "title": [
+            "Airline Name",
+            "IATA Code",
+            "ICAO Code",
+            "Country",
+            "Hub Airport"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airline has abbreviation 'UAL'?",
+        "data": [
+            [
+                "United Airlines",
+                "UAL",
+                "UAL",
+                "USA",
+                "Chicago O'Hare (ORD)"
+            ],
+            [
+                "American Airlines",
+                "AA",
+                "AAL",
+                "USA",
+                "Dallas/Fort Worth (DFW)"
+            ],
+            [
+                "Delta Air Lines",
+                "DL",
+                "DAL",
+                "USA",
+                "Atlanta Hartsfield-Jackson (ATL)"
+            ],
+            [
+                "Southwest Airlines",
+                "WN",
+                "SWA",
+                "USA",
+                "Dallas Love Field (DAL)"
+            ],
+            [
+                "Lufthansa",
+                "LH",
+                "DLH",
+                "Germany",
+                "Frankfurt (FRA)"
+            ],
+            [
+                "British Airways",
+                "BA",
+                "BAW",
+                "UK",
+                "London Heathrow (LHR)"
+            ]
+        ]
+    }
+}

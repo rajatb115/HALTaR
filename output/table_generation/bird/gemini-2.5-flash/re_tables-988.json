@@ -1,0 +1,69 @@
+{
+    "table-988-988": {
+        "title": [
+            "Driver",
+            "Team",
+            "Fastest Lap (min:sec.ms)",
+            "Lap Number",
+            "Race Position"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average fastest lap time of the top 10 drivers in the 2006 United States Grand Prix?",
+        "data": [
+            [
+                "Michael Schumacher",
+                "Ferrari",
+                "1:12.771",
+                "28",
+                "1"
+            ],
+            [
+                "Felipe Massa",
+                "Ferrari",
+                "1:13.050",
+                "30",
+                "2"
+            ],
+            [
+                "Giancarlo Fisichella",
+                "Renault",
+                "1:13.215",
+                "25",
+                "3"
+            ],
+            [
+                "Jarno Trulli",
+                "Toyota",
+                "1:13.402",
+                "27",
+                "4"
+            ],
+            [
+                "Rubens Barrichello",
+                "Honda",
+                "1:13.550",
+                "29",
+                "5"
+            ],
+            [
+                "David Coulthard",
+                "Red Bull",
+                "1:13.780",
+                "26",
+                "6"
+            ],
+            [
+                "Mark Webber",
+                "Williams",
+                "1:13.910",
+                "31",
+                "7"
+            ]
+        ]
+    }
+}

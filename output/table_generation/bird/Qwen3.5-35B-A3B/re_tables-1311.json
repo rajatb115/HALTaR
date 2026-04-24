@@ -1,0 +1,37 @@
+{
+    "table-1311-1311": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Prothrombins Time (seconds)",
+            "Status",
+            "Average Group Value",
+            "Notes"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the male patients that have a normal prothrombin time, what is their average prothrombin time?",
+        "data": [
+            [
+                "P-1042",
+                "Male",
+                "67.0",
+                "Normal",
+                "N/A",
+                "Baseline measurement"
+            ],
+            [
+                "P-1105",
+                "Male",
+                "68.5",
+                "Normal",
+                "N/A",
+                "Slight variation observed"
+            ]
+        ]
+    }
+}

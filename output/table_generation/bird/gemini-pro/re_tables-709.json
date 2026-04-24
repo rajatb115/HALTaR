@@ -1,0 +1,52 @@
+{
+    "table-709-709": {
+        "title": [
+            "User ID",
+            "Creation Date",
+            "Age",
+            "Website Comment"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "User Comment Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the creation date and age of the user that commented with webiste.",
+        "data": [
+            [
+                "123",
+                "2023-01-15",
+                "25",
+                "Yes"
+            ],
+            [
+                "456",
+                "2023-03-20",
+                "30",
+                "Yes"
+            ],
+            [
+                "789",
+                "2023-05-10",
+                "22",
+                "Yes"
+            ],
+            [
+                "101",
+                "2023-07-01",
+                "40",
+                "Yes"
+            ],
+            [
+                "112",
+                "2023-09-05",
+                "18",
+                "Yes"
+            ]
+        ]
+    }
+}

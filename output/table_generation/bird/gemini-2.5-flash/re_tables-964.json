@@ -1,0 +1,69 @@
+{
+    "table-964-964": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Lap Time",
+            "Race Event",
+            "Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many French drivers who obtain the laptime less than 02:00.00?",
+        "data": [
+            [
+                "Pierre Gasly",
+                "French",
+                "01:58.76",
+                "Monaco Grand Prix",
+                "2023"
+            ],
+            [
+                "Esteban Ocon",
+                "French",
+                "02:01.12",
+                "Belgian Grand Prix",
+                "2022"
+            ],
+            [
+                "Charles Leclerc",
+                "Monegasque",
+                "01:57.99",
+                "Italian Grand Prix",
+                "2023"
+            ],
+            [
+                "Romain Grosjean",
+                "French",
+                "01:59.50",
+                "Bahrain Grand Prix",
+                "2021"
+            ],
+            [
+                "Max Verstappen",
+                "Dutch",
+                "01:56.88",
+                "Austrian Grand Prix",
+                "2023"
+            ],
+            [
+                "Jean Alesi",
+                "French",
+                "02:00.34",
+                "French Grand Prix",
+                "1995"
+            ],
+            [
+                "Jules Bianchi",
+                "French",
+                "01:59.15",
+                "Japanese Grand Prix",
+                "2014"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-26-26": {
+        "title": [
+            "Stadium Name",
+            "City",
+            "Country",
+            "Concerts_Taylor Swift",
+            "Concerts_Beyonc\u00e9",
+            "Total_Concerts"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name and location of the stadiums which some concerts happened in the years of both 2014 and 2015.",
+        "data": [
+            [
+                "Wembley Stadium",
+                "London",
+                "United Kingdom",
+                "Yes",
+                "No",
+                "42"
+            ],
+            [
+                "MetLife Stadium",
+                "East Rutherford",
+                "USA",
+                "Yes",
+                "Yes",
+                "67"
+            ],
+            [
+                "Soldier Field",
+                "Chicago",
+                "USA",
+                "Yes",
+                "No",
+                "38"
+            ],
+            [
+                "Stade de France",
+                "Paris",
+                "France",
+                "Yes",
+                "No",
+                "51"
+            ],
+            [
+                "Allianz Arena",
+                "Munich",
+                "Germany",
+                "Yes",
+                "",
+                "45"
+            ],
+            [
+                "Rod Laver Arena",
+                "Melbourne",
+                "Australia",
+                "Yes",
+                "",
+                "33"
+            ],
+            [
+                "Tokyo Dome",
+                "Tokyo",
+                "Japan",
+                "Yes",
+                "",
+                "29"
+            ]
+        ]
+    }
+}

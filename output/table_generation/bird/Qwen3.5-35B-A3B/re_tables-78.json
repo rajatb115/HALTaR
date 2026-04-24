@@ -1,0 +1,43 @@
+{
+    "table-78-78": {
+        "title": [
+            "School Name",
+            "County",
+            "Grade Span",
+            "Percent Eligible_FRPM_5to17"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which schools served a grade span of Kindergarten to 9th grade in the county of Los Angeles and what is its Percent (%) Eligible FRPM (Ages 5-17)?",
+        "data": [
+            [
+                "Los Angeles Unified District K-9 Center",
+                "Los Angeles",
+                "K-6",
+                "45%"
+            ],
+            [
+                "Westside Community Learning Academy",
+                "Los Angeles",
+                "K-8",
+                "62%"
+            ],
+            [
+                "Sunset Valley Elementary & Middle",
+                "Los Angeles",
+                "KG-9th",
+                "78%"
+            ],
+            [
+                "North Hills Preparatory Charter",
+                "Los Angeles",
+                "Kindergarten to 9th",
+                "55%"
+            ]
+        ]
+    }
+}

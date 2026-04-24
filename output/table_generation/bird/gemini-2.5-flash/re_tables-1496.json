@@ -1,0 +1,69 @@
+{
+    "table-1496-1496": {
+        "title": [
+            "Client ID",
+            "Month",
+            "Year",
+            "Total Consumption (USD)",
+            "Service Category"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which client ID consumed the most in September 2013?",
+        "data": [
+            [
+                "1001",
+                "September",
+                "2013",
+                "18500.75",
+                "Cloud Storage"
+            ],
+            [
+                "1002",
+                "September",
+                "2013",
+                "25120.50",
+                "Data Processing"
+            ],
+            [
+                "1003",
+                "September",
+                "2013",
+                "9870.00",
+                "Network Bandwidth"
+            ],
+            [
+                "1004",
+                "September",
+                "2013",
+                "32450.20",
+                "Compute Instances"
+            ],
+            [
+                "1005",
+                "September",
+                "2013",
+                "15600.90",
+                "Database Services"
+            ],
+            [
+                "1006",
+                "September",
+                "2013",
+                "21300.10",
+                "Analytics Tools"
+            ],
+            [
+                "1007",
+                "September",
+                "2013",
+                "12750.30",
+                "API Gateway"
+            ]
+        ]
+    }
+}

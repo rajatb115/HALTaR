@@ -1,0 +1,85 @@
+{
+    "table-978-978": {
+        "title": [
+            "Race Number",
+            "Finisher ID",
+            "Disqualification Status",
+            "Reason Code",
+            "Official Time",
+            "DQ Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From race no. 50 to 100, how many finishers have been disqualified?",
+        "data": [
+            [
+                "52",
+                "F-4021",
+                "Yes",
+                "Rule 16-A",
+                "N/A",
+                "07/12/2023"
+            ],
+            [
+                "55",
+                "F4089",
+                "No",
+                "None",
+                "3h 12m",
+                "N/A"
+            ],
+            [
+                "61",
+                "F5102",
+                "Yes - Cut-off",
+                "Rule C-3",
+                "N/A",
+                "7/24/23"
+            ],
+            [
+                "68",
+                "F6211",
+                "No - Completed",
+                "N/C",
+                "4h 05m",
+                "8/01/21"
+            ],
+            [
+                "73",
+                "F7304",
+                "Yes Medical",
+                "Med-Safety",
+                "N/A",
+                "9/15/22"
+            ],
+            [
+                "82",
+                "FA112",
+                "No Finished",
+                "NAC",
+                "5h 22m 1s",
+                "6/30/25"
+            ],
+            [
+                "91",
+                "FB205",
+                "Yes Equipment",
+                "Eq-Violation",
+                "N/A",
+                "11/02/19"
+            ],
+            [
+                "99",
+                "FC330",
+                "No Validated",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-1383-1383": {
+        "title": [
+            "Student ID",
+            "Major",
+            "Attended Community Theater"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Interior Design Students and Community Theater Attendance",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the students majored in interior design, who have attended the Community Theater event?",
+        "data": [
+            [
+                "12345",
+                "Interior Design",
+                "Yes"
+            ],
+            [
+                "67890",
+                "Interior Design",
+                "No"
+            ],
+            [
+                "24680",
+                "Interior Design",
+                "Yes"
+            ],
+            [
+                "13579",
+                "Interior Design",
+                "No"
+            ],
+            [
+                "98765",
+                "Interior Design",
+                "Yes"
+            ]
+        ]
+    }
+}

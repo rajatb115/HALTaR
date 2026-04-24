@@ -1,0 +1,49 @@
+{
+    "table-652-652": {
+        "title": [
+            "Singer_ID",
+            "Full_Name",
+            "Genre",
+            "Total_Songs",
+            "Last_Active_Year",
+            "Status",
+            "Record_Label"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of singers that do not have any song.",
+        "data": [
+            [
+                "SNGR-004",
+                "Elias Thorne",
+                "Classical Crossover",
+                "0",
+                "N/A",
+                "Inactive",
+                "Independent"
+            ],
+            [
+                "SNGR-S77",
+                "Mara Vane",
+                "Ambient Electronic",
+                "6",
+                "9",
+                "",
+                ""
+            ],
+            [
+                "SONG-102",
+                "Julian Cross",
+                "Jazz Fusion",
+                "3",
+                "4",
+                "5",
+                "7"
+            ]
+        ]
+    }
+}

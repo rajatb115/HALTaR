@@ -1,0 +1,39 @@
+{
+    "table-246-246": {
+        "title": [
+            "Match Type",
+            "Average Winner Rank"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Average Rank of Match Winners",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average rank for winners in all matches?",
+        "data": [
+            [
+                "Ranked",
+                "2.5"
+            ],
+            [
+                "Unranked",
+                "1.8"
+            ],
+            [
+                "Tournament",
+                "1.2"
+            ],
+            [
+                "Casual",
+                "2.9"
+            ],
+            [
+                "All",
+                "2.1"
+            ]
+        ]
+    }
+}

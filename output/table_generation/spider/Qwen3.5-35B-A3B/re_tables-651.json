@@ -1,0 +1,69 @@
+{
+    "table-651-651": {
+        "title": [
+            "Singer_Name",
+            "Total_Sales_Units",
+            "Top_Genre",
+            "Active_Years_Start",
+            "Record_Label"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For each singer name, what is the total sales for their songs?",
+        "data": [
+            [
+                "Adele",
+                "47000",
+                "Pop Soul",
+                "6",
+                "XL Records"
+            ],
+            [
+                "Taylor Swift",
+                "520",
+                "Country Pop",
+                "8",
+                "Big Machine"
+            ],
+            [
+                "Ed Sheeran",
+                "380",
+                "Folk Pop",
+                "N/A",
+                "Atlantic"
+            ],
+            [
+                "Beyonc\u00e9",
+                "950",
+                "R&B Hip Hop",
+                "7",
+                "Columbia"
+            ],
+            [
+                "Drake",
+                "0",
+                "Rap Trap",
+                "",
+                "Republic"
+            ],
+            [
+                "Rihanna",
+                "",
+                "Dancehall Reggae",
+                "",
+                "Def Jam"
+            ],
+            [
+                "Bruno Mars",
+                "0",
+                "Funk Disco",
+                "",
+                "Atlantic"
+            ]
+        ]
+    }
+}

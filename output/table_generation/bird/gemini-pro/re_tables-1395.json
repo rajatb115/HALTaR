@@ -1,0 +1,45 @@
+{
+    "table-1395-1395": {
+        "title": [
+            "Club Name",
+            "Major",
+            "Number of Members"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Student Club Members by Major",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many members of the Student_Club have major in 'Physics Teaching'?",
+        "data": [
+            [
+                "Math Club",
+                "Mathematics",
+                "25"
+            ],
+            [
+                "Science Club",
+                "Biology",
+                "30"
+            ],
+            [
+                "Science Club",
+                "Physics Teaching",
+                "15"
+            ],
+            [
+                "Student_Club",
+                "Physics Teaching",
+                "10"
+            ],
+            [
+                "Student_Club",
+                "Computer Science",
+                "20"
+            ]
+        ]
+    }
+}

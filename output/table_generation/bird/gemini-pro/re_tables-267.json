@@ -1,0 +1,35 @@
+{
+    "table-267-267": {
+        "title": [
+            "Molecule ID",
+            "Number of Carcinogenic Molecules"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Carcinogenic Molecule Summary",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total carcinogenic molecules for molecule id from TR000 to TR030.",
+        "data": [
+            [
+                "TR000",
+                "12"
+            ],
+            [
+                "TR010",
+                "18"
+            ],
+            [
+                "TR020",
+                "25"
+            ],
+            [
+                "TR030",
+                "32"
+            ]
+        ]
+    }
+}

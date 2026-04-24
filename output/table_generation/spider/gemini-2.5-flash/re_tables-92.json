@@ -1,0 +1,61 @@
+{
+    "table-92-92": {
+        "title": [
+            "Year",
+            "Make",
+            "Model",
+            "Weight (lbs)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which years cars were produced weighing no less than 3000 and no more than 4000 ?",
+        "data": [
+            [
+                "1978",
+                "Ford",
+                "LTD II",
+                "3850"
+            ],
+            [
+                "1985",
+                "Chevrolet",
+                "Caprice Classic",
+                "3700"
+            ],
+            [
+                "1992",
+                "Toyota",
+                "Camry XLE",
+                "3250"
+            ],
+            [
+                "2001",
+                "Honda",
+                "Accord EX",
+                "3100"
+            ],
+            [
+                "2008",
+                "Nissan",
+                "Altima 3.5 SE",
+                "3350"
+            ],
+            [
+                "2015",
+                "Subaru",
+                "Outback 2.5i",
+                "3600"
+            ],
+            [
+                "2022",
+                "Hyundai",
+                "Santa Fe SEL",
+                "3950"
+            ]
+        ]
+    }
+}

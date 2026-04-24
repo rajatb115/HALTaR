@@ -1,0 +1,45 @@
+{
+    "table-220-220": {
+        "title": [
+            "Teacher Name",
+            "Course"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show names of teachers and the courses they are arranged to teach.",
+        "data": [
+            [
+                "Ms. Eleanor Vance",
+                "Advanced Calculus"
+            ],
+            [
+                "Mr. David Chen",
+                "World History II"
+            ],
+            [
+                "Dr. Sarah Miller",
+                "Organic Chemistry"
+            ],
+            [
+                "Prof. Robert Jones",
+                "Introduction to Python"
+            ],
+            [
+                "Mrs. Emily White",
+                "English Literature"
+            ],
+            [
+                "Mr. Kevin Brown",
+                "Physics for Engineers"
+            ],
+            [
+                "Dr. Lisa Green",
+                "Microeconomics"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-1081-1081": {
+        "title": [
+            "Player Name",
+            "Preferred Foot (Attack)",
+            "Stays in Position (Attack)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Player Attack Preferences",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the players whose preferred foot was the left foot when attacking, how many of them would remain in his position when the team attacked?",
+        "data": [
+            [
+                "Player A",
+                "Left",
+                "Yes"
+            ],
+            [
+                "Player B",
+                "Left",
+                "No"
+            ],
+            [
+                "Player C",
+                "Left",
+                "Yes"
+            ],
+            [
+                "Player D",
+                "Left",
+                "No"
+            ],
+            [
+                "Player E",
+                "Left",
+                "Yes"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-286-286": {
+        "title": [
+            "Element Symbol",
+            "Atomic Number",
+            "Bond ID",
+            "Role in Bond",
+            "Electronegativity",
+            "State at STP"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name chemical elements that form a bond TR001_10_11.",
+        "data": [
+            [
+                "C",
+                "6",
+                "TR014_12_13",
+                "Central Atom",
+                "7.0",
+                "Solid"
+            ],
+            [
+                "O",
+                "8",
+                "TR102_05_09",
+                "Terminal Ligand",
+                "9.8",
+                "Gas"
+            ],
+            [
+                "H",
+                "3",
+                "TR205_A1_B2",
+                "Bridging Linker",
+                "4.05",
+                "Gas"
+            ],
+            [
+                "S",
+                "5",
+                "TR301_X_Y_Z",
+                "Peripheral Group",
+                "0.00",
+                "Liquid"
+            ],
+            [
+                "Cl",
+                "17",
+                "TR404_M_N_O",
+                "Substituent",
+                "1.01",
+                "Gas"
+            ]
+        ]
+    }
+}

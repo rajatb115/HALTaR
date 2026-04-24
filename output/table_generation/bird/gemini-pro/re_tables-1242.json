@@ -1,0 +1,39 @@
+{
+    "table-1242-1242": {
+        "title": [
+            "Platelet Level",
+            "Number of Patients"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Platelet Level Analysis in Patients",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patients with abnormal platelet level, state the number of patients with lower than normal range. How is it compare to the number of patients with higher than normal range?",
+        "data": [
+            [
+                "Lower than Normal",
+                "35"
+            ],
+            [
+                "Higher than Normal",
+                "15"
+            ],
+            [
+                "Normal",
+                "150"
+            ],
+            [
+                "Total",
+                "200"
+            ],
+            [
+                "Ratio (Lower:Higher)",
+                "2.33"
+            ]
+        ]
+    }
+}

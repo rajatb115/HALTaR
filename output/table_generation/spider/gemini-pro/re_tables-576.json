@@ -1,0 +1,46 @@
+{
+    "table-576-576": {
+        "title": [
+            "Treatment Type",
+            "Average Age of Dogs",
+            "Number of Dogs"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Dog Treatment Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average age of the dogs who have gone through any treatments?",
+        "data": [
+            [
+                "Physical Therapy",
+                "6.2",
+                "15"
+            ],
+            [
+                "Medication",
+                "7.8",
+                "22"
+            ],
+            [
+                "Surgery",
+                "8.5",
+                "10"
+            ],
+            [
+                "Acupuncture",
+                "5.9",
+                "8"
+            ],
+            [
+                "Hydrotherapy",
+                "7.1",
+                "12"
+            ]
+        ]
+    }
+}

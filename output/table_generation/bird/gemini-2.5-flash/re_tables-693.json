@@ -1,0 +1,69 @@
+{
+    "table-693-693": {
+        "title": [
+            "Display Name",
+            "Account Created On",
+            "Badge Name",
+            "Badge Awarded On",
+            "Days to Badge"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How long did it take the user, known by his or her display name 'Zolomon' to get the badge? Count from the date the user's account was created.",
+        "data": [
+            [
+                "Zolomon",
+                "2022-03-10",
+                "First Contributor",
+                "2022-03-15",
+                "5"
+            ],
+            [
+                "Zolomon",
+                "2022-03-10",
+                "Active User",
+                "2022-05-10",
+                "61"
+            ],
+            [
+                "Zolomon",
+                "2022-03-10",
+                "Community Builder",
+                "2022-09-01",
+                "175"
+            ],
+            [
+                "Zolomon",
+                "2022-03-10",
+                "Top Answerer",
+                "2023-01-05",
+                "299"
+            ],
+            [
+                "UserX",
+                "2021-11-01",
+                "First Contributor",
+                "2021-11-03",
+                "2"
+            ],
+            [
+                "UserY",
+                "2022-01-20",
+                "Active User",
+                "2022-03-20",
+                "59"
+            ],
+            [
+                "UserZ",
+                "2022-04-05",
+                "Community Builder",
+                "2022-08-05",
+                "122"
+            ]
+        ]
+    }
+}

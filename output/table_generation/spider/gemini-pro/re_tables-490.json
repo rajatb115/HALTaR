@@ -1,0 +1,45 @@
+{
+    "table-490-490": {
+        "title": [
+            "Country",
+            "Continent",
+            "Population (2023)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Populous Asian Countries",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which Asian countries have a population that is larger than any country in Africa?",
+        "data": [
+            [
+                "China",
+                "Asia",
+                "1,425,671,352"
+            ],
+            [
+                "India",
+                "Asia",
+                "1,428,627,663"
+            ],
+            [
+                "Indonesia",
+                "Asia",
+                "277,534,122"
+            ],
+            [
+                "Pakistan",
+                "Asia",
+                "240,485,658"
+            ],
+            [
+                "Bangladesh",
+                "Asia",
+                "172,954,319"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-971-971": {
+        "title": [
+            "Driver Name",
+            "Birth Year",
+            "Nationality",
+            "Best Lap Time (seconds)",
+            "Track"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out top 3 German drivers who were born from 1980-1990 and have the earliest lap time.",
+        "data": [
+            [
+                "Julian Weber",
+                "1980",
+                "German",
+                "77.890",
+                "Spa-Francorchamps"
+            ],
+            [
+                "Max Schmidt",
+                "1983",
+                "German",
+                "78.123",
+                "Hockenheimring"
+            ],
+            [
+                "Noah Richter",
+                "1989",
+                "German",
+                "78.999",
+                "Silverstone"
+            ],
+            [
+                "Elias Koch",
+                "1982",
+                "German",
+                "79.345",
+                "Suzuka"
+            ],
+            [
+                "Lukas M\u00fcller",
+                "1987",
+                "German",
+                "79.567",
+                "N\u00fcrburgring"
+            ],
+            [
+                "Finn Becker",
+                "1985",
+                "German",
+                "80.012",
+                "Monza"
+            ]
+        ]
+    }
+}

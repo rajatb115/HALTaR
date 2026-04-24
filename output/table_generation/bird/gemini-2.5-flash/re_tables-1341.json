@@ -1,0 +1,69 @@
+{
+    "table-1341-1341": {
+        "title": [
+            "Event ID",
+            "Event Name",
+            "Club Name",
+            "Year",
+            "Amount Spent ($)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the difference of the total amount spent in all events by the Student_Club in year 2019 and 2020.",
+        "data": [
+            [
+                "101",
+                "Annual Gala",
+                "Student_Club",
+                "2019",
+                "1500.00"
+            ],
+            [
+                "102",
+                "Freshers' Welcome",
+                "Student_Club",
+                "2019",
+                "750.50"
+            ],
+            [
+                "103",
+                "Tech Workshop Series",
+                "Student_Club",
+                "2019",
+                "300.00"
+            ],
+            [
+                "104",
+                "Charity Fundraiser",
+                "Student_Club",
+                "2020",
+                "1800.00"
+            ],
+            [
+                "105",
+                "Farewell Dinner",
+                "Student_Club",
+                "2020",
+                "900.25"
+            ],
+            [
+                "106",
+                "Debate Tournament",
+                "Student_Club",
+                "2020",
+                "450.00"
+            ],
+            [
+                "107",
+                "Movie Night",
+                "Student_Club",
+                "2019",
+                "200.00"
+            ]
+        ]
+    }
+}

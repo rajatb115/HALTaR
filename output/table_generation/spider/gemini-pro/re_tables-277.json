@@ -1,0 +1,45 @@
+{
+    "table-277-277": {
+        "title": [
+            "Player Name",
+            "Year Won",
+            "Handedness"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "WTA Championships Winners - Handedness",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different winners both participated in the WTA Championships and were left handed?",
+        "data": [
+            [
+                "Martina Navratilova",
+                "1986",
+                "Left-handed"
+            ],
+            [
+                "Monica Seles",
+                "1990",
+                "Left-handed"
+            ],
+            [
+                "Petra Kvitov\u00e1",
+                "2011",
+                "Left-handed"
+            ],
+            [
+                "Maria Sharapova",
+                "2004",
+                "Right-handed"
+            ],
+            [
+                "Serena Williams",
+                "2001",
+                "Right-handed"
+            ]
+        ]
+    }
+}

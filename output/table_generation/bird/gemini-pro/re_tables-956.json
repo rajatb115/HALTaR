@@ -1,0 +1,40 @@
+{
+    "table-956-956": {
+        "title": [
+            "Year",
+            "Average Time (seconds)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Average Champion Time by Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average time in seconds of champion for each year?",
+        "data": [
+            [
+                "2020",
+                "150"
+            ],
+            [
+                "2021",
+                "155"
+            ],
+            [
+                "2022",
+                "160"
+            ],
+            [
+                "2023",
+                "165"
+            ],
+            [
+                "2024",
+                "170"
+            ]
+        ]
+    }
+}

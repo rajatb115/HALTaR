@@ -1,0 +1,77 @@
+{
+    "table-154-154": {
+        "title": [
+            "Card ID",
+            "Category",
+            "Eligibility Status",
+            "Loan Count",
+            "Last Updated",
+            "Branch Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many 'classic' cards are eligible for loan?",
+        "data": [
+            [
+                "CLS-004",
+                "Classic",
+                "Active",
+                "42",
+                "06/15/2023",
+                "BR-NY-01"
+            ],
+            [
+                "CLS-078",
+                "Classic",
+                "Pending Review",
+                "5",
+                "6/22/2023",
+                "BR-LA-02"
+            ],
+            [
+                "CLS-112",
+                "Classic",
+                "Active",
+                "18",
+                "06/20/2023",
+                "BR-Chi-04"
+            ],
+            [
+                "CLS-A99",
+                "Classic",
+                "Ineligible",
+                "3",
+                "7/01/2024",
+                "BR-MIA-09"
+            ],
+            [
+                "CLS-B22",
+                "Classic",
+                "Active",
+                "27",
+                "05/30/2021",
+                "BR-Den-03"
+            ],
+            [
+                "CLS-C55",
+                "Classic",
+                "Pending",
+                "12",
+                "04/12/2019",
+                "BR-SF-06"
+            ],
+            [
+                "CLS-D88",
+                "Classical",
+                "Active",
+                "N/A",
+                "03/11/2018",
+                "BR-TX-05"
+            ]
+        ]
+    }
+}

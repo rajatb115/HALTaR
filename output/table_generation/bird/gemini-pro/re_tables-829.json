@@ -1,0 +1,45 @@
+{
+    "table-829-829": {
+        "title": [
+            "Superhero Name",
+            "Speed Type",
+            "Speed Level"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Fastest Superheroes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the fastest superheroes.",
+        "data": [
+            [
+                "Flash",
+                "Speed Force",
+                "10"
+            ],
+            [
+                "Superman",
+                "Flight/Super Speed",
+                "9"
+            ],
+            [
+                "Quicksilver",
+                "Super Speed",
+                "8"
+            ],
+            [
+                "Sonic",
+                "Super Speed",
+                "7"
+            ],
+            [
+                "Spider-Man",
+                "Super Speed/Agility",
+                "6"
+            ]
+        ]
+    }
+}

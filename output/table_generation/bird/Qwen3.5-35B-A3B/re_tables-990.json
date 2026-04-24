@@ -1,0 +1,85 @@
+{
+    "table-990-990": {
+        "title": [
+            "Driver",
+            "Nationality",
+            "Team",
+            "Finish Time",
+            "Gap to Winner",
+            "Points Scored",
+            "Grid Position"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the champion of the Canadian Grand Prix in 2008? Indicate his finish time.",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "British",
+                "McLaren-Mercedes",
+                "76:40.300",
+                "+0.0s",
+                "8",
+                "3"
+            ],
+            [
+                "Felipe Massa",
+                "Brazilian",
+                "Ferrari",
+                "0.7s behind",
+                "+1.0m",
+                "6",
+                "4"
+            ],
+            [
+                "Kimi R\u00e4ikk\u00f6nen",
+                "Finnish",
+                "Ferrari-Nokia",
+                "5.0ms behind",
+                "-",
+                "9",
+                "\u00bd"
+            ],
+            [
+                "Robert Kubica",
+                "Polish",
+                "BMW Sauber-Ferrari",
+                "\u00bc lap behind",
+                "N/A",
+                "\u2154",
+                "\u00be"
+            ],
+            [
+                "Heikki Kovalainen",
+                "Finnish",
+                "McLaren-McLaren",
+                "\u00b2 laps behind",
+                "\u00b3\u2074\u2075",
+                "\u00b9\u2076",
+                "\u2077"
+            ],
+            [
+                "Sebastian Vettel",
+                "German",
+                "Toro Rosso-Ferrara",
+                "\u2083 laps behind",
+                "\u2084\u2085\u2086",
+                "\u2081\u2082",
+                "\u2080"
+            ],
+            [
+                "Mark Webber",
+                "Australian",
+                "Red Bull-Renault",
+                "\u2082 laps behind",
+                "7",
+                "8",
+                "9"
+            ]
+        ]
+    }
+}

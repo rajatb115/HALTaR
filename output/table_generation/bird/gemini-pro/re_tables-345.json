@@ -1,0 +1,49 @@
+{
+    "table-345-345": {
+        "title": [
+            "Card Name",
+            "Rarity",
+            "Format",
+            "Banned"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Gladiator Format Banned Mythic Rares",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the mythic rarity print cards banned in gladiator format.",
+        "data": [
+            [
+                "Oko, Thief of Crowns",
+                "Mythic Rare",
+                "Gladiator",
+                "Yes"
+            ],
+            [
+                "Once Upon a Time",
+                "Mythic Rare",
+                "Gladiator",
+                "Yes"
+            ],
+            [
+                "Drannith Magistrate",
+                "Rare",
+                "Gladiator",
+                "Yes"
+            ],
+            [
+                "Field of the Dead",
+                "Rare",
+                "Gladiator",
+                "Yes"
+            ],
+            [
+                "Teferi, Time Raveler",
+                "Rare",
+                "Gladiator",
+                "Yes"
+            ]
+        ]
+    }
+}

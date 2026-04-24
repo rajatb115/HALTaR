@@ -1,0 +1,69 @@
+{
+    "table-445-445": {
+        "title": [
+            "Card Name",
+            "Watermark Pattern",
+            "Card Type",
+            "Mana Value",
+            "Color Identity",
+            "Set Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the foreign name of the card that has boros watermark? List out the type of this card.",
+        "data": [
+            [
+                "Phyrexian Colossus",
+                "Boros",
+                "Legendary Creature",
+                "7",
+                "Red White",
+                "M14"
+            ],
+            [
+                "Boros Charm",
+                "Boros",
+                "Instant",
+                "3",
+                "Red Blue Green",
+                "M20"
+            ],
+            [
+                "Sword of Fire and Ice",
+                "Boros",
+                "Artifact Equipment",
+                "6",
+                "Red Black",
+                "KLD"
+            ],
+            [
+                "Glorious Anthem",
+                "Boros",
+                "Enchantment Aura",
+                "4",
+                "Red Green",
+                "C18"
+            ],
+            [
+                "Boros Reckoner",
+                "Borderless",
+                "Creature Token",
+                "5",
+                "Red Yellow",
+                "RTR"
+            ],
+            [
+                "Flame-Kin Warlord",
+                "Boros",
+                "Creature Human Soldier",
+                "8",
+                "Red Orange",
+                "DTK"
+            ]
+        ]
+    }
+}

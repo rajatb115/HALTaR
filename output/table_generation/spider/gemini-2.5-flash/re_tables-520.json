@@ -1,0 +1,43 @@
+{
+    "table-520-520": {
+        "title": [
+            "City",
+            "State",
+            "Country",
+            "Population"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the cities whose population is between 160000 and 900000?",
+        "data": [
+            [
+                "Sacramento",
+                "California",
+                "USA",
+                "525000"
+            ],
+            [
+                "Raleigh",
+                "North Carolina",
+                "USA",
+                "480000"
+            ],
+            [
+                "Omaha",
+                "Nebraska",
+                "USA",
+                "485000"
+            ],
+            [
+                "St. Louis",
+                "Missouri",
+                "USA",
+                "295"
+            ]
+        ]
+    }
+}

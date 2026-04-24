@@ -1,0 +1,39 @@
+{
+    "table-299-299": {
+        "title": [
+            "City",
+            "Zip Code"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Zip Codes by City",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the zip code for Port Chelsea?",
+        "data": [
+            [
+                "Port Chelsea",
+                "90210"
+            ],
+            [
+                "Exampleville",
+                "12345"
+            ],
+            [
+                "Another Town",
+                "67890"
+            ],
+            [
+                "Spring Valley",
+                "54321"
+            ],
+            [
+                "West End",
+                "98765"
+            ]
+        ]
+    }
+}

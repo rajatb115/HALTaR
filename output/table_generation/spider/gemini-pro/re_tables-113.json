@@ -1,0 +1,43 @@
+{
+    "table-113-113": {
+        "title": [
+            "Airline Name",
+            "IATA Code",
+            "ICAO Code"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "US Airline Codes and Names",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the airline names and abbreviations for airlines in the USA?",
+        "data": [
+            [
+                "United Airlines",
+                "UA",
+                "UAL"
+            ],
+            [
+                "American Airlines",
+                "AA",
+                "AAL"
+            ],
+            [
+                "Delta Air Lines",
+                "DL",
+                "DAL"
+            ],
+            [
+                "Southwest Airlines",
+                "WN",
+                "SWA"
+            ],
+            [
+                "Alaska Airlines",
+                "AS",
+                "ASA"
+            ]
+        ]
+    }
+}

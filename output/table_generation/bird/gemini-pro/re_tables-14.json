@@ -1,0 +1,43 @@
+{
+    "table-14-14": {
+        "title": [
+            "School Name",
+            "Phone Number",
+            "SAT Excellence Rate"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Schools with Top SAT Excellence Rates",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the phone numbers of the schools with the top 3 SAT excellence rate.",
+        "data": [
+            [
+                "School A",
+                "555-123-4567",
+                "95%"
+            ],
+            [
+                "School B",
+                "555-987-6543",
+                "92%"
+            ],
+            [
+                "School C",
+                "555-246-8013",
+                "90%"
+            ],
+            [
+                "School D",
+                "555-135-7911",
+                "88%"
+            ],
+            [
+                "School E",
+                "555-864-2097",
+                "85%"
+            ]
+        ]
+    }
+}

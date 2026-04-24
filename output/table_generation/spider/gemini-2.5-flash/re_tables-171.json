@@ -1,0 +1,48 @@
+{
+    "table-171-171": {
+        "title": [
+            "Document ID",
+            "Template ID",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the document id, template id, and description for the document with the name Robbin CV.",
+        "data": [
+            [
+                "1001",
+                "201",
+                "Robbin's professional curriculum vitae"
+            ],
+            [
+                "1002",
+                "202",
+                "Project proposal for Q3 marketing initiative"
+            ],
+            [
+                "1003",
+                "203",
+                "Standard client invoice template"
+            ],
+            [
+                "1004",
+                "204",
+                "Employee onboarding checklist"
+            ],
+            [
+                "1005",
+                "205",
+                "Quarterly business review presentation"
+            ],
+            [
+                "1006",
+                "206",
+                "Software license agreement draft"
+            ]
+        ]
+    }
+}

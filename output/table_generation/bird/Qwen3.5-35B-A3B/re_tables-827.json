@@ -1,0 +1,41 @@
+{
+    "table-827-827": {
+        "title": [
+            "Superhero",
+            "Weight (lbs)",
+            "Affiliation",
+            "First Appearance",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the heaviest superhero in DC Comics.",
+        "data": [
+            [
+                "Darkseid",
+                "4760",
+                "New Gods",
+                "",
+                "Active"
+            ],
+            [
+                "Superman",
+                "300",
+                "Justice League",
+                "",
+                "Active"
+            ],
+            [
+                "Wonder Woman",
+                "5000 (True Form)",
+                "Justice Society",
+                "",
+                "Active"
+            ]
+        ]
+    }
+}

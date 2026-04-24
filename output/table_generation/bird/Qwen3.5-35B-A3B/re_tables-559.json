@@ -1,0 +1,77 @@
+{
+    "table-559-559": {
+        "title": [
+            "User ID",
+            "Date",
+            "Votes Cast",
+            "Platform",
+            "Status",
+            "Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many votes did the user No.58 take on 2010/7/19?",
+        "data": [
+            [
+                "No.54",
+                "6/15/2020",
+                "3",
+                "Web",
+                "Active",
+                "North America"
+            ],
+            [
+                "No.audit_58",
+                "7/2/2100",
+                "N/A",
+                "Mobile",
+                "Pending",
+                "Europe"
+            ],
+            [
+                "User_No58_Backup",
+                "8/1/2209",
+                "0",
+                "API",
+                "Failed",
+                "Asia Pacific"
+            ],
+            [
+                "No58_TestAccount",
+                "5/30/230002",
+                "45",
+                "Desktop",
+                "Completed",
+                "South America"
+            ],
+            [
+                "Guest_User_548",
+                "",
+                "-1",
+                "Unknown",
+                "Rejected",
+                "Africa"
+            ],
+            [
+                "System_Log_508",
+                "",
+                "99",
+                "Internal",
+                "Archived",
+                "Global"
+            ],
+            [
+                "Admin_Access_5580",
+                "",
+                "",
+                "Cloud",
+                "Scheduled",
+                "Antarctica"
+            ]
+        ]
+    }
+}

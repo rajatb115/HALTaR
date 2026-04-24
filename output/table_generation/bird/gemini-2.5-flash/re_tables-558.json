@@ -1,0 +1,69 @@
+{
+    "table-558-558": {
+        "title": [
+            "Post ID",
+            "Score",
+            "User ID",
+            "User Age Group",
+            "Post Category"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts with a score of over 20, what is the percentage of them being owned by an elder user?",
+        "data": [
+            [
+                "101",
+                "25",
+                "501",
+                "Adult",
+                "Technology"
+            ],
+            [
+                "102",
+                "15",
+                "502",
+                "Senior",
+                "Lifestyle"
+            ],
+            [
+                "103",
+                "30",
+                "503",
+                "Senior",
+                "Health"
+            ],
+            [
+                "104",
+                "22",
+                "504",
+                "Adult",
+                "Finance"
+            ],
+            [
+                "105",
+                "40",
+                "505",
+                "Senior",
+                "Travel"
+            ],
+            [
+                "106",
+                "18",
+                "506",
+                "Adult",
+                "Sports"
+            ],
+            [
+                "107",
+                "28",
+                "507",
+                "Youth",
+                "Gaming"
+            ]
+        ]
+    }
+}

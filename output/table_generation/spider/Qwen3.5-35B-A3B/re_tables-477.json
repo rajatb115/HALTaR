@@ -1,0 +1,83 @@
+{
+    "table-477-477": {
+        "title": [
+            "Country",
+            "Population",
+            "Life Expectancy",
+            "Land Area Rank in Asia",
+            "Continent",
+            "Capital City",
+            "Currency Code",
+            "GDP per Capita (USD)"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the name, population, and life expectancy of the largest Asian country by land?",
+        "data": [
+            [
+                "China",
+                "467,000,012",
+                "78.2",
+                "First",
+                "Asia",
+                "Beijing",
+                "CNY",
+                "8,095"
+            ],
+            [
+                "India",
+                "321,040,497",
+                "69.7",
+                "Second",
+                "Asia",
+                "New Delhi",
+                "INR",
+                "5,060"
+            ],
+            [
+                "Kazakhstan",
+                "9,124,021",
+                "0.0",
+                "Third",
+                "Asia/Europe",
+                "Astana",
+                "KZT",
+                "N/A"
+            ],
+            [
+                "Indonesia",
+                "277,534,137",
+                "N.A.",
+                "Fourth",
+                "Asia",
+                "Jakarta",
+                "IDR",
+                "N/A"
+            ],
+            [
+                "Saudi Arabia",
+                "36,947,925",
+                "N.A.",
+                "Fifth",
+                "Asia",
+                "Riyadh",
+                "SAR",
+                "N/A"
+            ],
+            [
+                "Iran",
+                "n.a.",
+                "n/a",
+                "Sixth",
+                "Asia",
+                "Tehran",
+                "IRR",
+                ""
+            ]
+        ]
+    }
+}

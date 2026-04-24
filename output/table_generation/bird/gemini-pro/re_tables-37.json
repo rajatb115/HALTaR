@@ -1,0 +1,45 @@
+{
+    "table-37-37": {
+        "title": [
+            "School Name",
+            "Number of Students with SAT >= 1500",
+            "Administrator Full Name"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "School Administration Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Under whose administration does the school with the highest number of test takers whose total SAT Scores are greater or equal to 1500 belong to? Indicate his or her full name.",
+        "data": [
+            [
+                "School A",
+                "150",
+                "John Doe"
+            ],
+            [
+                "School B",
+                "120",
+                "Jane Smith"
+            ],
+            [
+                "School C",
+                "180",
+                "Robert Jones"
+            ],
+            [
+                "School D",
+                "100",
+                "Emily Brown"
+            ],
+            [
+                "School E",
+                "160",
+                "Michael Davis"
+            ]
+        ]
+    }
+}

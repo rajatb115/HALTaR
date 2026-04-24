@@ -1,0 +1,49 @@
+{
+    "table-64-64": {
+        "title": [
+            "Charter Number",
+            "School Name",
+            "Administrator Name",
+            "City"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Chartered School Administrators",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In chartered schools with charter number 00D2, what are the names of all the administrators? Include the name of the school and the city to which it belongs",
+        "data": [
+            [
+                "00D2",
+                "Example HS",
+                "John Smith",
+                "Anytown"
+            ],
+            [
+                "00D2",
+                "Example HS",
+                "Alice Johnson",
+                "Anytown"
+            ],
+            [
+                "00D2",
+                "Sample HS",
+                "Robert Williams",
+                "Sampleville"
+            ],
+            [
+                "00D2",
+                "Sample HS",
+                "Emily Brown",
+                "Sampleville"
+            ],
+            [
+                "00D2",
+                "Other HS",
+                "David Jones",
+                "Othertown"
+            ]
+        ]
+    }
+}

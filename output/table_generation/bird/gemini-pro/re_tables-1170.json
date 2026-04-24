@@ -1,0 +1,33 @@
+{
+    "table-1170-1170": {
+        "title": [
+            "Gender",
+            "Count of Patients with Abnormal Uric Acid"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Uric Acid Levels and Patient Gender",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the ratio of male to female patients among all those with abnormal uric acid counts?",
+        "data": [
+            [
+                "Male",
+                "150"
+            ],
+            [
+                "Female",
+                "75"
+            ],
+            [
+                "**Ratio (Male:Female)**",
+                "**2:1**"
+            ],
+            [
+                "Total Patients with Abnormal Uric Acid",
+                "225"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-190-190": {
+        "title": [
+            "Template Code",
+            "Category",
+            "Status",
+            "Last Used Date",
+            "Document Count",
+            "Owner ID",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all template type codes that are not used by any document.",
+        "data": [
+            [
+                "TPL-X99",
+                "Invoice",
+                "Unused",
+                "N/A",
+                "0",
+                "OPR-4012",
+                "US-EAST"
+            ],
+            [
+                "QRY-A7Z",
+                "Report",
+                "Unused - Deprecated",
+                "N/D",
+                "6",
+                "SYS-BB2",
+                "EU-WEST"
+            ],
+            [
+                "DOC-M2K",
+                "Contract",
+                "Unused (Archived)",
+                "9/12/2021",
+                "3",
+                "LEG-CENTRAL",
+                "APAC-SOUTH"
+            ],
+            [
+                "FORM-P1L",
+                "Survey",
+                "Unused Temporarily",
+                "N/O",
+                "8",
+                "MKT-DIV1",
+                "NA-NORTH"
+            ],
+            [
+                "LTR-Q8W",
+                "Memo",
+                "Unused Legacy",
+                "4/30/2999",
+                "5",
+                "HR-FULLTIME",
+                "GLOBAL"
+            ],
+            [
+                "PDF-R3V",
+                "Certificate",
+                "Unused Pending Review",
+                "N/R",
+                "7",
+                "FIN-OFFICE",
+                "SA-EAST"
+            ]
+        ]
+    }
+}

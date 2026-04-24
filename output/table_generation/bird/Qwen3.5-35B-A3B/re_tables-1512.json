@@ -1,0 +1,58 @@
+{
+    "table-1512-1512": {
+        "title": [
+            "Customer_ID",
+            "Currency",
+            "Transaction_Count",
+            "Total_Price_EUR",
+            "Average_Total_Price_Eur",
+            "Payment_Date",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the customers who paid in the euro, what is their average total price of the transactions?",
+        "data": [
+            [
+                "CUST_1042",
+                "EUR",
+                "3",
+                "450.75",
+                "56.34",
+                "01/15/2023",
+                "Completed"
+            ],
+            [
+                "CUS_T_2091",
+                "EUR",
+                "1",
+                "89.90",
+                "62.15",
+                "02/22/2023",
+                "Completed"
+            ],
+            [
+                "CUS_A_3305",
+                "EUR",
+                "5",
+                "120.50",
+                "75.20",
+                "03/10/2023",
+                "Pending"
+            ],
+            [
+                "CUS_B_4412",
+                "EUR",
+                "2",
+                "95.00",
+                "80.45",
+                "04/05/2023",
+                "Completed"
+            ]
+        ]
+    }
+}

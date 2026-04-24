@@ -1,0 +1,69 @@
+{
+    "table-333-333": {
+        "title": [
+            "Semester ID",
+            "Academic Year",
+            "Term",
+            "Bachelors Enrolled",
+            "Masters Enrolled",
+            "Total Students"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the id of the semester that had both Masters and Bachelors students enrolled?",
+        "data": [
+            [
+                "S202301",
+                "2023",
+                "Spring",
+                "Yes",
+                "No",
+                "1250"
+            ],
+            [
+                "S202302",
+                "2023",
+                "Summer",
+                "No",
+                "Yes",
+                "380"
+            ],
+            [
+                "S202303",
+                "2023",
+                "Fall",
+                "Yes",
+                "Yes",
+                "1890"
+            ],
+            [
+                "S202401",
+                "2024",
+                "Spring",
+                "Yes",
+                "Yes",
+                "1950"
+            ],
+            [
+                "S202402",
+                "2024",
+                "Summer",
+                "Yes",
+                "No",
+                "410"
+            ],
+            [
+                "S202403",
+                "2024",
+                "Fall",
+                "Yes",
+                "Yes",
+                "2010"
+            ]
+        ]
+    }
+}

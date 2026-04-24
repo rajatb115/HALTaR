@@ -1,0 +1,52 @@
+{
+    "table-1310-1310": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "Platelet Level (x10^9/L)",
+            "Normal Range"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Normal Platelet Levels in MCTD Patients",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list a patient's platelet level if it is within the normal range and if he or she is diagnosed with MCTD.",
+        "data": [
+            [
+                "12345",
+                "MCTD",
+                "250",
+                "Yes"
+            ],
+            [
+                "67890",
+                "MCTD",
+                "300",
+                "Yes"
+            ],
+            [
+                "24680",
+                "MCTD",
+                "150",
+                "Yes"
+            ],
+            [
+                "13579",
+                "MCTD",
+                "400",
+                "Yes"
+            ],
+            [
+                "98765",
+                "MCTD",
+                "200",
+                "Yes"
+            ]
+        ]
+    }
+}

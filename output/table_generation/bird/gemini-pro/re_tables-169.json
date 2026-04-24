@@ -1,0 +1,45 @@
+{
+    "table-169-169": {
+        "title": [
+            "District",
+            "Average Salary",
+            "Percentage of Female Clients"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Client Demographics by District and Salary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of clients who opened their accounts in the district with an average salary of over 10000 are women?",
+        "data": [
+            [
+                "District A",
+                "12000",
+                "60%"
+            ],
+            [
+                "District B",
+                "11000",
+                "55%"
+            ],
+            [
+                "District C",
+                "10500",
+                "52%"
+            ],
+            [
+                "District D",
+                "9500",
+                "48%"
+            ],
+            [
+                "District E",
+                "13000",
+                "65%"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-1305-1305": {
+        "title": [
+            "Patient ID",
+            "Blood Glucose Status",
+            "Thrombosis Present",
+            "Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients with a normal blood glucose, how many of them don't have thrombosis?",
+        "data": [
+            [
+                "P1042",
+                "Normal",
+                "No",
+                "45"
+            ],
+            [
+                "P1105",
+                "Normal",
+                "No",
+                "N/A"
+            ],
+            [
+                "P2219",
+                "Normal",
+                "Yes",
+                "N/A"
+            ],
+            [
+                "P3301",
+                "Normal",
+                "No",
+                "N/A"
+            ],
+            [
+                "P4456",
+                "Normal",
+                "No",
+                "N/A"
+            ],
+            [
+                "P5572",
+                "Elevated",
+                "No",
+                "N/A"
+            ],
+            [
+                "A6683",
+                "Normal",
+                "No",
+                "N/A"
+            ],
+            [
+                "B7794",
+                "Normal",
+                "No",
+                "N/A"
+            ]
+        ]
+    }
+}

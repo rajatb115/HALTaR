@@ -1,0 +1,51 @@
+{
+    "table-218-218": {
+        "title": [
+            "Teacher Name",
+            "Age",
+            "Hometown",
+            "Subject"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Teacher Hometown Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the hometown of the youngest teacher?",
+        "data": [
+            [
+                "Emily Carter",
+                "25",
+                "Springfield",
+                "Mathematics"
+            ],
+            [
+                "John Davis",
+                "32",
+                "Oakville",
+                "English"
+            ],
+            [
+                "Sarah Wilson",
+                "28",
+                "Willow Creek",
+                "Science"
+            ],
+            [
+                "Michael Brown",
+                "45",
+                "Riverside",
+                "History"
+            ],
+            [
+                "Jessica Lee",
+                "30",
+                "Pleasant Valley",
+                "Computer Science"
+            ]
+        ]
+    }
+}

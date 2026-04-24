@@ -1,0 +1,61 @@
+{
+    "table-1238-1238": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Hemoglobin (g/dL)",
+            "Condition"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all outpatients, list out those have low hemoglobin level. State the different IDs and their sex.",
+        "data": [
+            [
+                "OP-78901",
+                "Female",
+                "10.5",
+                "Anemia"
+            ],
+            [
+                "OP-78902",
+                "Male",
+                "12.8",
+                "Mild Anemia"
+            ],
+            [
+                "OP-78903",
+                "Female",
+                "9.1",
+                "Iron Deficiency"
+            ],
+            [
+                "OP-78904",
+                "Male",
+                "11.7",
+                "Chronic Disease Anemia"
+            ],
+            [
+                "OP-78905",
+                "Female",
+                "11.2",
+                "Nutritional Deficiency"
+            ],
+            [
+                "OP-78906",
+                "Male",
+                "13.1",
+                "N/A"
+            ],
+            [
+                "OP-78907",
+                "Female",
+                "8.5",
+                "Severe Anemia"
+            ]
+        ]
+    }
+}

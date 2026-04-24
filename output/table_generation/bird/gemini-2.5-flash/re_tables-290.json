@@ -1,0 +1,69 @@
+{
+    "table-290-290": {
+        "title": [
+            "Molecule ID",
+            "CAS Number",
+            "Carcinogenicity Status",
+            "IARC Group",
+            "Primary Evidence"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Is molecule TR151 carcinogenic?",
+        "data": [
+            [
+                "TR151",
+                "12345-67-8",
+                "Under Investigation",
+                "N/A",
+                "In Vitro Assays"
+            ],
+            [
+                "TR152",
+                "12346-78-9",
+                "Suspected Carcinogen",
+                "Group 2B",
+                "Animal Studies"
+            ],
+            [
+                "Benzene",
+                "71-43-2",
+                "Known Carcinogen",
+                "Group 1",
+                "Human Epidemiology"
+            ],
+            [
+                "Caffeine",
+                "58-08-2",
+                "Non-Carcinogenic",
+                "Group 3",
+                "Multiple Studies"
+            ],
+            [
+                "TR153",
+                "12347-89-0",
+                "Non-Carcinogenic",
+                "Group 3",
+                "In Vitro Assays"
+            ],
+            [
+                "TR151",
+                "12345-67-8",
+                "Pending Review",
+                "N/A",
+                "Preliminary Data"
+            ],
+            [
+                "Formaldehyde",
+                "50-00-0",
+                "Known Carcinogen",
+                "Group 1",
+                "Human Epidemiology"
+            ]
+        ]
+    }
+}

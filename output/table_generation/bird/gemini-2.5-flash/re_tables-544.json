@@ -1,0 +1,69 @@
+{
+    "table-544-544": {
+        "title": [
+            "Post ID",
+            "Post Title",
+            "Owner Username",
+            "Answer Count",
+            "Post Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the post that got the most number of answers owned by csgillespie, how many answers did it get?",
+        "data": [
+            [
+                "101",
+                "How to optimize SQL queries for large datasets?",
+                "csgillespie",
+                "18",
+                "2023-01-15"
+            ],
+            [
+                "102",
+                "Best practices for microservice communication",
+                "jsmith",
+                "12",
+                "2023-02-20"
+            ],
+            [
+                "103",
+                "Understanding asynchronous programming in Python",
+                "csgillespie",
+                "25",
+                "2023-03-10"
+            ],
+            [
+                "104",
+                "Deploying machine learning models to production",
+                "alicew",
+                "9",
+                "2023-04-05"
+            ],
+            [
+                "105",
+                "What are the benefits of using a NoSQL database?",
+                "csgillespie",
+                "7",
+                "2023-05-12"
+            ],
+            [
+                "106",
+                "Implementing OAuth2 with Spring Boot",
+                "bob_dev",
+                "15",
+                "2023-06-01"
+            ],
+            [
+                "107",
+                "Debugging common Kubernetes deployment issues",
+                "csgillespie",
+                "32",
+                "2023-07-22"
+            ]
+        ]
+    }
+}

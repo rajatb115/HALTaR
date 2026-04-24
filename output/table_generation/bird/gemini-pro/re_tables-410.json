@@ -1,0 +1,39 @@
+{
+    "table-410-410": {
+        "title": [
+            "Attribute",
+            "Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Magic: The Gathering Card Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicates the number of cards with pre-modern format, ruling text \"This is a triggered mana ability\" that do not have multiple faces.",
+        "data": [
+            [
+                "Cards with Pre-Modern Format",
+                "3419"
+            ],
+            [
+                "Cards with Ruling Text \"This is a triggered mana ability\"",
+                "2"
+            ],
+            [
+                "Cards Without Multiple Faces",
+                "24893"
+            ],
+            [
+                "Cards Matching All Criteria",
+                "0"
+            ],
+            [
+                "Total Cards Analyzed",
+                "25000"
+            ]
+        ]
+    }
+}

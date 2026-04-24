@@ -1,0 +1,85 @@
+{
+    "table-962-962": {
+        "title": [
+            "Race Name",
+            "Location",
+            "Actual Finishing Time",
+            "Date",
+            "Winner",
+            "Category",
+            "Distance"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which race has the shortest actual finishing time? Please give the name and year.",
+        "data": [
+            [
+                "Boston Marathon",
+                "USA",
+                "4h 06m 07s",
+                "April 21",
+                "Eliud Kipchoge",
+                "Men's Elite",
+                "42.195km"
+            ],
+            [
+                "Comrades Ultra Marathon",
+                "South Africa",
+                "5h 23m 12s",
+                "June 1",
+                "Bruce Fordyce",
+                "Men",
+                "89km"
+            ],
+            [
+                "London Marathon",
+                "UK",
+                "3h 58m 45s",
+                "May 22",
+                "Kenenisa Bekele",
+                "Men's Elite",
+                "42.195km"
+            ],
+            [
+                "New York City Marathon",
+                "US",
+                "6h 15m 30s",
+                "November 4",
+                "Meb Keflezighi",
+                "Open",
+                "42.195km"
+            ],
+            [
+                "Berlin Marathon",
+                "Germany",
+                "7h 42m 55s",
+                "September 29",
+                "Paula Radcliffe",
+                "Women",
+                "42.195km"
+            ],
+            [
+                "Tokyo Marathon",
+                "Japan",
+                "5h 01m 02s",
+                "March 2",
+                "Hiroshi Yamamoto",
+                "Open",
+                "42.195km"
+            ],
+            [
+                "Sydney Harbour Bridge Run",
+                "Australia",
+                "2h 35m 10s",
+                "July 1",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

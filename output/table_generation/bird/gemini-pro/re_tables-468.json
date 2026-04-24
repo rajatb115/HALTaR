@@ -1,0 +1,57 @@
+{
+    "table-468-468": {
+        "title": [
+            "Set Name",
+            "Set Code",
+            "Block",
+            "Card Count",
+            "Release Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Magic: The Gathering Set Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards are there in the base set of \"Hauptset Zehnte Edition\"?",
+        "data": [
+            [
+                "Limited Edition Alpha",
+                "LEA",
+                "Not part of a block",
+                "295",
+                "1993-08-05"
+            ],
+            [
+                "Limited Edition Beta",
+                "LEB",
+                "Not part of a block",
+                "302",
+                "1993-10-01"
+            ],
+            [
+                "Unlimited Edition",
+                "2ED",
+                "Not part of a block",
+                "302",
+                "1993-12-01"
+            ],
+            [
+                "Revised Edition",
+                "3ED",
+                "Not part of a block",
+                "306",
+                "1994-04-01"
+            ],
+            [
+                "Tenth Edition",
+                "10E",
+                "Core Set",
+                "383",
+                "2007-07-13"
+            ]
+        ]
+    }
+}

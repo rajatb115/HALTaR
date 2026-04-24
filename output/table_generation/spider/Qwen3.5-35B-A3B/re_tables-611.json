@@ -1,0 +1,85 @@
+{
+    "table-611-611": {
+        "title": [
+            "Professional ID",
+            "Full Name",
+            "Specialty",
+            "Total Dogs Treated",
+            "Last Treatment Date",
+            "Status",
+            "Years Active"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the number of professionals who have ever treated dogs.",
+        "data": [
+            [
+                "P-1042",
+                "Sarah Jenkins",
+                "General Practice",
+                "3420",
+                "06/15/2023",
+                "Active",
+                "8"
+            ],
+            [
+                "P-1105",
+                "Michael Chen",
+                "Surgery Specialist",
+                "567",
+                "4 years ago",
+                "Retired",
+                "6"
+            ],
+            [
+                "P-0988",
+                "Emily Rodriguez",
+                "Emergency Vet",
+                "9102",
+                "Yesterday",
+                "Active",
+                "12"
+            ],
+            [
+                "P-1233",
+                "David O'Connell",
+                "Dermatology",
+                "780",
+                "N/A",
+                "Inactive",
+                ""
+            ],
+            [
+                "P-2011",
+                "Lisa Thompson",
+                "Internal Medicine",
+                "",
+                "Jan 2, 2022",
+                "Active",
+                "N/A"
+            ],
+            [
+                "P-1550",
+                "James Wilson",
+                "Orthopedics",
+                "",
+                "Not Recorded",
+                "Suspended",
+                ""
+            ],
+            [
+                "P-0876",
+                "Amanda Lee",
+                "Geriatric Care",
+                "",
+                "Unknown",
+                "Pending Review",
+                ""
+            ]
+        ]
+    }
+}

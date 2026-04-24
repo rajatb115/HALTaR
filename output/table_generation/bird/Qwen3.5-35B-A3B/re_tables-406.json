@@ -1,0 +1,77 @@
+{
+    "table-406-406": {
+        "title": [
+            "Block ID",
+            "Set Name",
+            "Language Variant",
+            "Translation Status",
+            "Quantity Inside",
+            "Region Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many Brazilian Portuguese translated sets are inside the Commander block?",
+        "data": [
+            [
+                "CMD-BRZ-004",
+                "Tactical Ops Alpha",
+                "pt_BR",
+                "Verified",
+                "3",
+                "BR-SUL"
+            ],
+            [
+                "CMD-MEX-012",
+                "Strategic Defense Beta",
+                "es_MX",
+                "Pending",
+                "7",
+                "MX-NOR"
+            ],
+            [
+                "CMD-COL-089",
+                "Logistics Gamma",
+                "pt_PT",
+                "Draft",
+                "0",
+                "CO-ANT"
+            ],
+            [
+                "CMD-PER-023",
+                "Supply Chain Delta",
+                "pt_PE",
+                "Archived",
+                "5",
+                "PE-LIM"
+            ],
+            [
+                "CMD-ARG-067",
+                "Command Hub Epsilon",
+                "pt_AR",
+                "Active",
+                "4",
+                "AR-CBA"
+            ],
+            [
+                "CMD-VEN-031",
+                "Recon Unit Zeta",
+                "pt_VE",
+                "Incomplete",
+                "6",
+                "VE-ZUA"
+            ],
+            [
+                "CMD-URO-099",
+                "Base Support Eta",
+                "pt_UY",
+                "Validated",
+                "8",
+                "UY-MON"
+            ]
+        ]
+    }
+}

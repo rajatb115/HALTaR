@@ -1,0 +1,69 @@
+{
+    "table-36-36": {
+        "title": [
+            "Student First Name",
+            "Student Last Name",
+            "Pet 1 Type",
+            "Pet 2 Type",
+            "Total Pets"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name of students who have both cat and dog pets .",
+        "data": [
+            [
+                "Alice",
+                "Smith",
+                "Cat",
+                "Dog",
+                "2"
+            ],
+            [
+                "Bob",
+                "Johnson",
+                "Dog",
+                "Cat",
+                "3"
+            ],
+            [
+                "Carol",
+                "Davis",
+                "Cat",
+                "N/A",
+                "1"
+            ],
+            [
+                "David",
+                "Miller",
+                "Dog",
+                "N/A",
+                "1"
+            ],
+            [
+                "Eve",
+                "Wilson",
+                "Fish",
+                "Bird",
+                "2"
+            ],
+            [
+                "Frank",
+                "Brown",
+                "Cat",
+                "Hamster",
+                "2"
+            ],
+            [
+                "Grace",
+                "White",
+                "Dog",
+                "Rabbit",
+                "2"
+            ]
+        ]
+    }
+}

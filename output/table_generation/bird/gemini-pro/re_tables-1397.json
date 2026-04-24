@@ -1,0 +1,45 @@
+{
+    "table-1397-1397": {
+        "title": [
+            "Attendee Name",
+            "Events Attended",
+            "Major"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Attendee Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the number of events attended by Luisa Guidi. What is her major?",
+        "data": [
+            [
+                "Luisa Guidi",
+                "7",
+                "Computer Science"
+            ],
+            [
+                "John Smith",
+                "3",
+                "Biology"
+            ],
+            [
+                "Emily Davis",
+                "5",
+                "Engineering"
+            ],
+            [
+                "David Wilson",
+                "2",
+                "Physics"
+            ],
+            [
+                "Sarah Brown",
+                "8",
+                "Mathematics"
+            ]
+        ]
+    }
+}

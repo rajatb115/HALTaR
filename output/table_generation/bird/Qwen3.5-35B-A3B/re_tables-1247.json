@@ -1,0 +1,90 @@
+{
+    "table-1247-1247": {
+        "title": [
+            "Patient ID",
+            "Abnormal PTT Status",
+            "Thrombosis Severity",
+            "Count",
+            "Notes"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 10,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients with an abnormal activated partial prothrom bin time, how many of them have a mild thrombosis?",
+        "data": [
+            [
+                "PT-1042",
+                "Elevated",
+                "Mild",
+                "3",
+                "Confirmed via imaging"
+            ],
+            [
+                "PT-1105",
+                "Low Normal",
+                "Moderate",
+                "N/A",
+                "Excluded from count"
+            ],
+            [
+                "--",
+                "--",
+                "--",
+                "",
+                ""
+            ],
+            [
+                "PT - 1299",
+                "High",
+                "Mild",
+                "7",
+                "Requires anticoagulation"
+            ],
+            [
+                "--",
+                "--",
+                "--",
+                "",
+                ""
+            ],
+            [
+                "PT- 1330",
+                "Elevated",
+                "Mild",
+                "2",
+                "Follow-up pending"
+            ],
+            [
+                "--",
+                "--",
+                "--",
+                "",
+                ""
+            ],
+            [
+                "P T-1401",
+                "VeryHigh",
+                "Severe",
+                "0",
+                "Not included in mild category"
+            ],
+            [
+                "----",
+                "-----",
+                "------",
+                "---",
+                "-------"
+            ],
+            [
+                "TotalMildCases",
+                "",
+                "",
+                "",
+                "12"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-273-273": {
+        "title": [
+            "Molecule Name",
+            "CAS Number",
+            "Key Element",
+            "Bond Type",
+            "Carcinogenicity",
+            "Formula"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down two molecule id of triple bond non carcinogenic molecules with element carbon.",
+        "data": [
+            [
+                "Acetylene",
+                "74-86-2",
+                "Carbon",
+                "Triple (C\u2261C)",
+                "Non-carcinogenic",
+                "C2H2"
+            ],
+            [
+                "Acetonitrile",
+                "75-05-8",
+                "Carbon",
+                "Triple (C\u2261N)",
+                "Non-carcinogenic",
+                "CH3CN"
+            ],
+            [
+                "Propyne",
+                "74-99-7",
+                "Carbon",
+                "Triple (C\u2261C)",
+                "Non-carcinogenic",
+                "C3H4"
+            ],
+            [
+                "Hydrogen Cyanide",
+                "74-90-8",
+                "Carbon",
+                "Triple (C\u2261N)",
+                "Non-carcinogenic",
+                "HCN"
+            ],
+            [
+                "But-1-yne",
+                "107-00-6",
+                "Carbon",
+                "Triple (C\u2261C)",
+                "Non-carcinogenic",
+                "C4H6"
+            ],
+            [
+                "Cyanogen",
+                "460-19-5",
+                "Carbon",
+                "Triple (C\u2261N)",
+                "Non-carcinogenic",
+                "C2N2"
+            ]
+        ]
+    }
+}

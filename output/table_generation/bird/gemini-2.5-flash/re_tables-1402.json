@@ -1,0 +1,93 @@
+{
+    "table-1402-1402": {
+        "title": [
+            "Event Name",
+            "Item Type",
+            "Description",
+            "Vendor",
+            "Quantity",
+            "Unit Cost ($)",
+            "Total Cost ($)",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicate the cost of posters for 'September Speaker' event.",
+        "data": [
+            [
+                "September Speaker",
+                "Posters",
+                "A3 Glossy",
+                "PrintFast",
+                "50",
+                "2.50",
+                "125.00",
+                "Paid"
+            ],
+            [
+                "September Speaker",
+                "Posters",
+                "A2 Matte",
+                "QuickPrint Solutions",
+                "30",
+                "4.00",
+                "120.00",
+                "Pending"
+            ],
+            [
+                "September Speaker",
+                "Flyers",
+                "A5 Standard",
+                "PrintFast",
+                "200",
+                "0.50",
+                "100.00",
+                "Paid"
+            ],
+            [
+                "September Speaker",
+                "Banners",
+                "Vinyl 6x3ft",
+                "EventGraphics Inc.",
+                "2",
+                "75.00",
+                "150.00",
+                "Invoice Received"
+            ],
+            [
+                "October Workshop",
+                "Posters",
+                "A3 Standard",
+                "QuickPrint Solutions",
+                "40",
+                "2.75",
+                "110.00",
+                "Pending"
+            ],
+            [
+                "Annual Gala",
+                "Invitations",
+                "Custom Die-Cut",
+                "Elite Printers",
+                "150",
+                "3.50",
+                "525.00",
+                "Paid"
+            ],
+            [
+                "September Speaker",
+                "Digital Ads",
+                "Social Media Pack",
+                "AdBoost Agency",
+                "1",
+                "200.00",
+                "200.00",
+                "Paid"
+            ]
+        ]
+    }
+}

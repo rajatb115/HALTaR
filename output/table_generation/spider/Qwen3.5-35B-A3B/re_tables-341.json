@@ -1,0 +1,55 @@
+{
+    "table-341-341": {
+        "title": [
+            "First_Name",
+            "Country_Residence",
+            "Cell_Number",
+            "Enrollment_Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the first names of the students who live in Haiti permanently or have the cell phone number 09700166582 ?",
+        "data": [
+            [
+                "Jean",
+                "Haiti",
+                "N/A",
+                "Active"
+            ],
+            [
+                "Marie",
+                "Dominican Republic",
+                "0450021123",
+                "Inactive"
+            ],
+            [
+                "Pierre",
+                "Haiti",
+                "+0980034567",
+                "Active"
+            ],
+            [
+                "Sophie",
+                "France",
+                "3361209000",
+                "Suspended"
+            ],
+            [
+                "Lucas",
+                "Haiti",
+                "0550119283",
+                "Pending"
+            ],
+            [
+                "Isabelle",
+                "Canada",
+                "4165551212",
+                "Active"
+            ]
+        ]
+    }
+}

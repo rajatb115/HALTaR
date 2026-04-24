@@ -1,0 +1,67 @@
+{
+    "table-332-332": {
+        "title": [
+            "Academic Year",
+            "Semester",
+            "Student Type",
+            "Enrollment Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the semester when both Master students and Bachelor students got enrolled in.",
+        "data": [
+            [
+                "2023-2024",
+                "Fall",
+                "Master",
+                "150"
+            ],
+            [
+                "2023-2024",
+                "Fall",
+                "Bachelor",
+                "450"
+            ],
+            [
+                "2023-2024",
+                "Spring",
+                "Master",
+                "120"
+            ],
+            [
+                "2023-2024",
+                "Spring",
+                "Bachelor",
+                "380"
+            ],
+            [
+                "2022-2023",
+                "Fall",
+                "Master",
+                "145"
+            ],
+            [
+                "2022-2023",
+                "Fall",
+                "Bachelor",
+                "430"
+            ],
+            [
+                "2022-2023",
+                "Summer",
+                "Master",
+                "50"
+            ],
+            [
+                "2022-2023",
+                "Summer",
+                "Bachelor",
+                "180"
+            ]
+        ]
+    }
+}

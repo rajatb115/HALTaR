@@ -1,0 +1,69 @@
+{
+    "table-715-715": {
+        "title": [
+            "Comment ID",
+            "Username",
+            "Date Posted",
+            "Content Summary",
+            "Platform",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the comments commented by the user with a username of Harvey Motulsky.",
+        "data": [
+            [
+                "CMT_4921",
+                "Harvey Motusky",
+                "7/16/2023",
+                "Clarified API endpoint usage",
+                "Stack Overflow",
+                "Accepted"
+            ],
+            [
+                "CMT_5002",
+                "Harvey Motosky",
+                "Aug 2, 2022",
+                "Suggested optimization for loop",
+                "GitHub Issues",
+                "Open"
+            ],
+            [
+                "CMT_5110",
+                "harvey_motulsky",
+                "Sep 14, 2033",
+                "Reported bug in version control tool",
+                "Jira Ticket",
+                "Resolved"
+            ],
+            [
+                "CMT_5229",
+                "H_Motulsky_Org",
+                "Oct 1, 2044",
+                "Confirmed fix deployment schedule",
+                "Slack Channel",
+                "Archived"
+            ],
+            [
+                "CMT_5338",
+                "Harvey.Motulski",
+                "Nov 12, 2055",
+                "Asked about database migration path",
+                "Reddit Thread",
+                "Closed"
+            ],
+            [
+                "CMT_5447",
+                "hmotulsky_dev",
+                "Dec 30, 2066",
+                "Shared code snippet for testing",
+                "Code Review Board",
+                "Pending"
+            ]
+        ]
+    }
+}

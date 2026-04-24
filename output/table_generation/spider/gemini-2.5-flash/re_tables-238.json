@@ -1,0 +1,69 @@
+{
+    "table-238-238": {
+        "title": [
+            "Visit ID",
+            "Customer ID",
+            "Visit Date",
+            "Tickets Bought",
+            "Visit Channel"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the average and maximum number of tickets bought in all visits?",
+        "data": [
+            [
+                "V001",
+                "C101",
+                "2023-01-15",
+                "3",
+                "Online"
+            ],
+            [
+                "V002",
+                "C102",
+                "2023-01-15",
+                "2",
+                "Kiosk"
+            ],
+            [
+                "V003",
+                "C101",
+                "2023-01-16",
+                "5",
+                "Box Office"
+            ],
+            [
+                "V004",
+                "C103",
+                "2023-01-16",
+                "1",
+                "Online"
+            ],
+            [
+                "V005",
+                "C104",
+                "2023-01-17",
+                "4",
+                "Kiosk"
+            ],
+            [
+                "V006",
+                "C102",
+                "2023-01-17",
+                "2",
+                "Online"
+            ],
+            [
+                "V007",
+                "C105",
+                "2023-01-18",
+                "6",
+                "Box Office"
+            ]
+        ]
+    }
+}

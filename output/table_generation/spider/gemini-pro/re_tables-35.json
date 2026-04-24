@@ -1,0 +1,37 @@
+{
+    "table-35-35": {
+        "title": [
+            "First Name",
+            "Pet Type"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Student First Names and Pet Types",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the first names of every student who has a cat or dog as a pet?",
+        "data": [
+            [
+                "Alice",
+                "Cat"
+            ],
+            [
+                "Bob",
+                "Dog"
+            ],
+            [
+                "Charlie",
+                "Cat"
+            ],
+            [
+                "David",
+                "Dog"
+            ],
+            [
+                "Eve",
+                "Cat"
+            ]
+        ]
+    }
+}

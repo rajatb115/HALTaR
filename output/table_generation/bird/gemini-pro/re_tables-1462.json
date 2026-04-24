@@ -1,0 +1,37 @@
+{
+    "table-1462-1462": {
+        "title": [
+            "Last Name",
+            "Phone Number"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Elementary Education Student Contact Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the last names of students under the Elementary Education major and include their phone numbers.",
+        "data": [
+            [
+                "Garcia",
+                "555-123-4567"
+            ],
+            [
+                "Chen",
+                "555-987-6543"
+            ],
+            [
+                "Davis",
+                "555-246-1357"
+            ],
+            [
+                "Rodriguez",
+                "555-864-2791"
+            ],
+            [
+                "Wilson",
+                "555-314-1592"
+            ]
+        ]
+    }
+}

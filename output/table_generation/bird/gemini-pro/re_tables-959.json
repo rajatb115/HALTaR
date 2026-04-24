@@ -1,0 +1,57 @@
+{
+    "table-959-959": {
+        "title": [
+            "Driver Forename",
+            "Driver Surname",
+            "Lap Time",
+            "Race",
+            "Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            4
+        ],
+        "pgTitle": "Fastest Lap Times by Driver",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which driver has the fastest lap time? Please give their forenames and surnames.",
+        "data": [
+            [
+                "Charles",
+                "Leclerc",
+                "1:20.260",
+                "Italy",
+                "2022"
+            ],
+            [
+                "Lewis",
+                "Hamilton",
+                "1:24.125",
+                "Britain",
+                "2020"
+            ],
+            [
+                "Max",
+                "Verstappen",
+                "1:27.097",
+                "Austria",
+                "2019"
+            ],
+            [
+                "Kimi",
+                "R\u00e4ikk\u00f6nen",
+                "1:21.670",
+                "Spain",
+                "2008"
+            ],
+            [
+                "Michael",
+                "Schumacher",
+                "1:24.125",
+                "France",
+                "2004"
+            ]
+        ]
+    }
+}

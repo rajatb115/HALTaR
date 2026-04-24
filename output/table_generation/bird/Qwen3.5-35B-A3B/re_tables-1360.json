@@ -1,0 +1,62 @@
+{
+    "table-1360-1360": {
+        "title": [
+            "Event_Name",
+            "Budget_Category",
+            "Amount_USD",
+            "Comparison_Status",
+            "Variance_Percent"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many times was the budget in Advertisement for \"Yearly Kickoff\" meeting more than \"October Meeting\"?",
+        "data": [
+            [
+                "October Meeting",
+                "Advertising",
+                "$4,500",
+                "Baseline",
+                "N/A"
+            ],
+            [
+                "October Meeting",
+                "Advertising",
+                "$6,750",
+                "Higher",
+                "+50%"
+            ],
+            [
+                "October Meeting",
+                "Advertising",
+                "$13,500",
+                "Higher",
+                "+100%"
+            ],
+            [
+                "Yearly Kickoff",
+                "Advertising",
+                "$13,550",
+                "Higher",
+                "+201%"
+            ],
+            [
+                "Yearly Kickoff",
+                "Advertising",
+                "$36,130",
+                "Higher",
+                "+501%"
+            ],
+            [
+                "Yearly Kickoff",
+                "Advertising",
+                "$31,590",
+                "Higher",
+                "+601%"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-533-533": {
+        "title": [
+            "Show Name",
+            "Attendance"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Show Attendance Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the average attendance across all shows.",
+        "data": [
+            [
+                "Show A",
+                "150"
+            ],
+            [
+                "Show B",
+                "200"
+            ],
+            [
+                "Show C",
+                "175"
+            ],
+            [
+                "Show D",
+                "225"
+            ],
+            [
+                "Show E",
+                "180"
+            ]
+        ]
+    }
+}

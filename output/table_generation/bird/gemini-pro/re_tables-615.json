@@ -1,0 +1,45 @@
+{
+    "table-615-615": {
+        "title": [
+            "Badge Name",
+            "Number of Users",
+            "Percentage of Users"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "User Badge Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the users who obtained the \"Teacher\" badge, calculate their percentage of users",
+        "data": [
+            [
+                "Teacher",
+                "150",
+                "15%"
+            ],
+            [
+                "Student",
+                "250",
+                "25%"
+            ],
+            [
+                "Helper",
+                "300",
+                "30%"
+            ],
+            [
+                "Expert",
+                "200",
+                "20%"
+            ],
+            [
+                "Beginner",
+                "100",
+                "10%"
+            ]
+        ]
+    }
+}

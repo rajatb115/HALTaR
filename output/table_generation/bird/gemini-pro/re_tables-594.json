@@ -1,0 +1,45 @@
+{
+    "table-594-594": {
+        "title": [
+            "Location",
+            "Badge Type",
+            "Number of Users"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "User Badge Statistics by Location",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users from New York have a teacher and supporter badge?",
+        "data": [
+            [
+                "New York",
+                "Teacher",
+                "150"
+            ],
+            [
+                "New York",
+                "Supporter",
+                "200"
+            ],
+            [
+                "New York",
+                "Both",
+                "75"
+            ],
+            [
+                "Chicago",
+                "Both",
+                "60"
+            ],
+            [
+                "Los Angeles",
+                "Both",
+                "80"
+            ]
+        ]
+    }
+}

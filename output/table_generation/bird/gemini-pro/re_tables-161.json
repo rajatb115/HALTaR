@@ -1,0 +1,46 @@
+{
+    "table-161-161": {
+        "title": [
+            "Account ID",
+            "Issuance Week",
+            "Loan Amount"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Weekly Loan Issuance Accounts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the weekly issuance accounts, how many have a loan of under 200000?",
+        "data": [
+            [
+                "12345",
+                "2024-01-05",
+                "150000"
+            ],
+            [
+                "67890",
+                "2024-01-05",
+                "250000"
+            ],
+            [
+                "24680",
+                "2024-01-12",
+                "175000"
+            ],
+            [
+                "13579",
+                "2024-01-12",
+                "100000"
+            ],
+            [
+                "98765",
+                "2024-01-19",
+                "300000"
+            ]
+        ]
+    }
+}

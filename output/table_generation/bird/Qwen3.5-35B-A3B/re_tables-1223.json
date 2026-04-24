@@ -1,0 +1,69 @@
+{
+    "table-1223-1223": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Creatinine Index Status",
+            "Value Range",
+            "Clinical Note"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male patients are are with creatinine index out of the normal range?",
+        "data": [
+            [
+                "P-1042",
+                "Male",
+                "Out of Normal Range",
+                "High",
+                "Requires monitoring"
+            ],
+            [
+                "P-1105",
+                "Male",
+                "Out of Normal Low",
+                "Low",
+                "Mild dehydration suspected"
+            ],
+            [
+                "P1230",
+                "Male",
+                "Normal",
+                "Within Limits",
+                "Routine checkup passed"
+            ],
+            [
+                "-",
+                "Male",
+                "",
+                "High",
+                "Data entry pending review"
+            ],
+            [
+                "-P-1456",
+                "Female",
+                "Out Of Normal Range",
+                "High",
+                "Referred for specialist"
+            ],
+            [
+                "--",
+                "Male",
+                "--",
+                "N/A",
+                "Sample insufficient"
+            ],
+            [
+                "+P-2011",
+                "Male++",
+                "Outofnormalrange",
+                "Veryhigh",
+                "Immediate intervention needed"
+            ]
+        ]
+    }
+}

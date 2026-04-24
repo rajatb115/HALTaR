@@ -1,0 +1,77 @@
+{
+    "table-1254-1254": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "Gender",
+            "IgA Level (mg/dL)",
+            "Normal Range (mg/dL)",
+            "Diagnosis"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who has the highest Ig A within the normal range, what is his or her diagnosis?",
+        "data": [
+            [
+                "P001",
+                "45",
+                "Male",
+                "340",
+                "80-350",
+                "Mild Allergic Rhinitis"
+            ],
+            [
+                "P002",
+                "32",
+                "Female",
+                "210",
+                "80-350",
+                "Seasonal Allergies"
+            ],
+            [
+                "P003",
+                "60",
+                "Male",
+                "95",
+                "80-350",
+                "Routine Physical"
+            ],
+            [
+                "P004",
+                "28",
+                "Female",
+                "325",
+                "80-350",
+                "Asthma"
+            ],
+            [
+                "P005",
+                "55",
+                "Male",
+                "280",
+                "80-350",
+                "Gastroesophageal Reflux Disease"
+            ],
+            [
+                "P006",
+                "19",
+                "Female",
+                "160",
+                "80-350",
+                "Common Cold"
+            ],
+            [
+                "P007",
+                "48",
+                "Male",
+                "348",
+                "80-350",
+                "Autoimmune Thyroiditis (controlled)"
+            ]
+        ]
+    }
+}

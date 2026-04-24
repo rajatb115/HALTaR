@@ -1,0 +1,77 @@
+{
+    "table-247-247": {
+        "title": [
+            "Match ID",
+            "Winner Rank",
+            "Loser Rank",
+            "Highest Loser Achieved?",
+            "Tournament Stage",
+            "Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the highest rank of losers in all matches.",
+        "data": [
+            [
+                "MCH-0042",
+                "3",
+                "7",
+                "No",
+                "Round of 16",
+                "04/12/2023"
+            ],
+            [
+                "MCH-1105",
+                "1",
+                "4",
+                "Yes",
+                "Quarterfinals",
+                "5/15/23"
+            ],
+            [
+                "MCT-2290",
+                "5",
+                "9",
+                "No",
+                "Semifinals",
+                "6/22/19"
+            ],
+            [
+                "MCR-3311",
+                "2",
+                "6",
+                "No",
+                "Finals",
+                "7/30/21"
+            ],
+            [
+                "MCV-4422",
+                "8",
+                "8",
+                "Yes",
+                "Group Stage",
+                "8/14/24"
+            ],
+            [
+                "MDT-5533",
+                "4",
+                "10",
+                "No",
+                "Rounds",
+                "9/01/25"
+            ],
+            [
+                "MEW-6644",
+                "9",
+                "11",
+                "",
+                "Playoffs",
+                "12"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-247-247": {
+        "title": [
+            "Bond Type",
+            "Bond ID"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the bond type and the bond ID of the atom 45.",
+        "data": [
+            [
+                "Single",
+                "101"
+            ],
+            [
+                "Double",
+                "102"
+            ],
+            [
+                "Triple",
+                "103"
+            ],
+            [
+                "Aromatic",
+                "104"
+            ],
+            [
+                "Single",
+                "105"
+            ],
+            [
+                "Double",
+                "106"
+            ],
+            [
+                "Single",
+                "107"
+            ]
+        ]
+    }
+}

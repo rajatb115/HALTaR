@@ -1,0 +1,85 @@
+{
+    "table-630-630": {
+        "title": [
+            "Breed Category",
+            "Size Classification",
+            "Typical Weight Range",
+            "Common Activity Level",
+            "Average Lifespan",
+            "Origin Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are all the possible breed type and size type combinations?",
+        "data": [
+            [
+                "Small Toy Group",
+                "Small",
+                "Under 7 kg",
+                "Low",
+                "12\u201314 years",
+                "Europe"
+            ],
+            [
+                "Medium Working Group",
+                "Medium",
+                "7\u201325 kg",
+                "High",
+                "10\u201312 years",
+                "North America"
+            ],
+            [
+                "Large Herding Group",
+                "Large",
+                "30\u201345 kg",
+                "Very High",
+                "12\u201314 years",
+                "Asia"
+            ],
+            [
+                "Giant Mastiff Type",
+                "Giant",
+                "Over 50 kg",
+                "Moderate",
+                "8\u201310 years",
+                "Africa"
+            ],
+            [
+                "Miniature Spitz",
+                "Extra Small",
+                "0.5\u20133 kg",
+                "Active",
+                "12\u201315 years",
+                "Scandinavia"
+            ],
+            [
+                "Standard Poodle",
+                "Medium-Large",
+                "9\u201332 kg",
+                "Intelligent",
+                "12\u201315 years",
+                "Germany"
+            ],
+            [
+                "Bulldog Variant",
+                "Stocky-Medium",
+                "16\u201323 kg (varies)",
+                "Sedentary",
+                "8\u201310 years",
+                "United Kingdom"
+            ],
+            [
+                "Siberian Husky",
+                "Athletic-Medium to Large",
+                "Up to 27 kg (male)",
+                "Extreme",
+                "12\u201314 years",
+                "Russia"
+            ]
+        ]
+    }
+}

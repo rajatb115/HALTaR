@@ -1,0 +1,53 @@
+{
+    "table-213-213": {
+        "title": [
+            "Teacher Name",
+            "Age",
+            "Hometown"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the age and hometown of every teacher?",
+        "data": [
+            [
+                "Ms. Emily Chen",
+                "34",
+                "San Francisco, CA"
+            ],
+            [
+                "Mr. David Lee",
+                "48",
+                "Austin, TX"
+            ],
+            [
+                "Dr. Sarah Miller",
+                "55",
+                "Boston, MA"
+            ],
+            [
+                "Mr. John Smith",
+                "29",
+                "Seattle, WA"
+            ],
+            [
+                "Mrs. Maria Garcia",
+                "41",
+                "Miami, FL"
+            ],
+            [
+                "Mr. Robert Johnson",
+                "62",
+                "Chicago, IL"
+            ],
+            [
+                "Ms. Jessica Brown",
+                "31",
+                "Denver, CO"
+            ]
+        ]
+    }
+}

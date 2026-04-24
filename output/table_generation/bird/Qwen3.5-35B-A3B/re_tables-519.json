@@ -1,0 +1,77 @@
+{
+    "table-519-519": {
+        "title": [
+            "Play Format",
+            "Card Name",
+            "Ban Status Count",
+            "Total Cards in Set",
+            "Last Updated",
+            "Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which of the play formats has the highest number of banned status? Indicate the play format and the name of the card.",
+        "data": [
+            [
+                "Standard",
+                "Black Lotus",
+                "45",
+                "320",
+                "6/15/2024",
+                "North America"
+            ],
+            [
+                "Modern",
+                "Force of Will",
+                "52",
+                "890",
+                "June 15, 2024",
+                "Global"
+            ],
+            [
+                "Vintage",
+                "Ancestral Recall",
+                "78",
+                "950",
+                "Jun 14, 8pm EST",
+                "Worldwide"
+            ],
+            [
+                "Legacy",
+                "Dark Ritual",
+                "0",
+                "N/A",
+                "N/D/N",
+                "Europe"
+            ],
+            [
+                "Commander",
+                "Sol Ring",
+                "N/A",
+                "N/A",
+                "N/A",
+                "Asia Pacific"
+            ],
+            [
+                "Pioneer",
+                "Lightning Strike",
+                "0",
+                "N/A",
+                "N/A",
+                "South America"
+            ],
+            [
+                "Future Sight",
+                "Time Walk",
+                "None",
+                "No Data",
+                "Unknown",
+                "Africa"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-1350-1350": {
+        "title": [
+            "Event ID",
+            "Event Name",
+            "Month",
+            "Budget Category",
+            "Amount ($)",
+            "Currency",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the total number of the budget amount for \"September Speaker\" event.",
+        "data": [
+            [
+                "EVT-2024-SEP-01",
+                "September Speaker",
+                "SEP",
+                "Planning",
+                "12500",
+                "USD",
+                "Approved"
+            ],
+            [
+                "EVT-22-SEP-VENUE",
+                "Venue Rental",
+                "SEP",
+                "Venue Rental",
+                "4207",
+                "USD",
+                "Confirmed"
+            ],
+            [
+                "VAT-24-AUDIT",
+                "Audit Fees",
+                "SEP",
+                "Audit Fees",
+                "850",
+                "EUR",
+                "Pending"
+            ],
+            [
+                "MKT-SEPT-SOCIAL",
+                "Social Media Ads",
+                "SEP",
+                "Social Media Ads",
+                "3100",
+                "GBP",
+                "Active"
+            ],
+            [
+                "SPK-HONORARY",
+                "Speaker Honorariums",
+                "SEP",
+                "Speaker Honorariums",
+                "6750",
+                "CAD",
+                "Committed"
+            ],
+            [
+                "TRAVL-GUESTS",
+                "Guest Travel Costs",
+                "SEP",
+                "Guest Travel Costs",
+                "2400",
+                "JPY",
+                "On Hold"
+            ],
+            [
+                "SUPP-CATERING",
+                "Catering Supplies",
+                "SEP",
+                "Catering Supplies",
+                "5920",
+                "AUD",
+                "Finalized"
+            ]
+        ]
+    }
+}

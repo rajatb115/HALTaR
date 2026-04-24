@@ -1,0 +1,37 @@
+{
+    "table-1445-1445": {
+        "title": [
+            "Expense Category",
+            "Average Spending"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "High Average Expenses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the expenses that spend more than fifty dollars on average.",
+        "data": [
+            [
+                "Groceries",
+                "$150.00"
+            ],
+            [
+                "Dining Out",
+                "$80.00"
+            ],
+            [
+                "Entertainment",
+                "$60.00"
+            ],
+            [
+                "Transportation",
+                "$40.00"
+            ],
+            [
+                "Utilities",
+                "$120.00"
+            ]
+        ]
+    }
+}

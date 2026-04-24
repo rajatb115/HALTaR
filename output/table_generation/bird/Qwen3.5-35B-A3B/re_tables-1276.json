@@ -1,0 +1,62 @@
+{
+    "table-1276-1276": {
+        "title": [
+            "Patient ID",
+            "Anti-Centromere Status",
+            "Anti-SSb Status",
+            "Gender",
+            "Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients who has a normal level of anti-centromere and a normal level of anti-SSB, how many of them are male?",
+        "data": [
+            [
+                "P-1042",
+                "Normal",
+                "Normal",
+                "Male",
+                "67"
+            ],
+            [
+                "P-1105",
+                "Normal",
+                "Normal",
+                "Male",
+                "12"
+            ],
+            [
+                "P-2231",
+                "Normal",
+                "",
+                "Female",
+                "0"
+            ],
+            [
+                "P-A892",
+                "Normal",
+                "",
+                "Male",
+                "45"
+            ],
+            [
+                "P-B334",
+                "Normal",
+                "",
+                "Female",
+                "0"
+            ],
+            [
+                "P-D901",
+                "Normal",
+                "N/A",
+                "Male",
+                "N/A"
+            ]
+        ]
+    }
+}

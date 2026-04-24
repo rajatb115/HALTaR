@@ -1,0 +1,45 @@
+{
+    "table-1278-1278": {
+        "title": [
+            "Patient ID",
+            "Anti-DNA Level",
+            "Data Recorded"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Anti-DNA Level Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients have a normal anti-DNA level, yet their data are not recorded.",
+        "data": [
+            [
+                "1234",
+                "Normal",
+                "No"
+            ],
+            [
+                "5678",
+                "Normal",
+                "No"
+            ],
+            [
+                "9101",
+                "Elevated",
+                "Yes"
+            ],
+            [
+                "1121",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "3141",
+                "Elevated",
+                "No"
+            ]
+        ]
+    }
+}

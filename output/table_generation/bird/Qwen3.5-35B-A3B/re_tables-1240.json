@@ -1,0 +1,77 @@
+{
+    "table-1240-1240": {
+        "title": [
+            "Patient_ID",
+            "Age",
+            "Hematocrit_Level",
+            "Normal_Range_Max",
+            "Examination_Count",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the ID and age of patient with two or more laboratory examinations which show their hematoclit level exceeded the normal range.",
+        "data": [
+            [
+                "P_4021",
+                "67",
+                "54.2%",
+                "48.0%",
+                "",
+                "Elevated"
+            ],
+            [
+                "P_A892",
+                "72",
+                "N/A",
+                "0.00%",
+                "",
+                "Pending Review"
+            ],
+            [
+                "B_1103",
+                "81",
+                "N/A",
+                "39.0%",
+                "",
+                "Abnormal"
+            ],
+            [
+                "C_5544",
+                "90",
+                "",
+                "",
+                "",
+                "Incomplete Data"
+            ],
+            [
+                "D_2210",
+                "",
+                "",
+                "",
+                "",
+                "Missing Info"
+            ],
+            [
+                "E_7733",
+                "",
+                "",
+                "",
+                "",
+                "Unverified"
+            ],
+            [
+                "F_9988",
+                "",
+                "",
+                "",
+                "",
+                "Error State"
+            ]
+        ]
+    }
+}

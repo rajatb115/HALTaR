@@ -1,0 +1,46 @@
+{
+    "table-621-621": {
+        "title": [
+            "User ID",
+            "Badge Date",
+            "View Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "User Badge and View Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the number of views of users who obtained the badge on 7/19/2010 7:39:08 PM.",
+        "data": [
+            [
+                "123",
+                "2010-07-19 19:39:08",
+                "4567"
+            ],
+            [
+                "456",
+                "2010-07-19 19:39:08",
+                "1234"
+            ],
+            [
+                "789",
+                "2010-07-19 19:39:08",
+                "7890"
+            ],
+            [
+                "101",
+                "2010-07-19 19:39:08",
+                "9876"
+            ],
+            [
+                "112",
+                "2010-07-19 19:39:08",
+                "5432"
+            ]
+        ]
+    }
+}

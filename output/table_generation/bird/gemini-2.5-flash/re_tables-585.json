@@ -1,0 +1,69 @@
+{
+    "table-585-585": {
+        "title": [
+            "Comment ID",
+            "Username",
+            "Comment Text",
+            "Timestamp",
+            "Upvotes"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write all the comments left by users who edited the post titled 'Why square the difference instead of taking the absolute value in standard deviation?'",
+        "data": [
+            [
+                "C101",
+                "StatsGuru",
+                "Squaring makes the function differentiable, which is crucial for optimization.",
+                "2023-10-26 14:35",
+                "18"
+            ],
+            [
+                "C102",
+                "MathWhiz",
+                "It also gives more weight to larger deviations, reflecting their greater impact.",
+                "2023-10-26 14:42",
+                "12"
+            ],
+            [
+                "C103",
+                "DataNovice",
+                "So, it's not just about making everything positive, but also about calculus?",
+                "2023-10-26 15:01",
+                "7"
+            ],
+            [
+                "C104",
+                "ProfStats",
+                "Exactly. The L2 norm (squaring) is preferred for its mathematical properties.",
+                "2023-10-26 15:15",
+                "25"
+            ],
+            [
+                "C105",
+                "CuriousMind",
+                "Is there any situation where using absolute value would be more appropriate?",
+                "2023-10-26 15:30",
+                "9"
+            ],
+            [
+                "C106",
+                "AnalystX",
+                "For robustness against outliers, mean absolute deviation (MAD) can sometimes be used.",
+                "2023-10-26 15:45",
+                "14"
+            ],
+            [
+                "C107",
+                "LearnFast",
+                "This explanation really clarifies a long-standing confusion for me. Thanks!",
+                "2023-10-26 16:05",
+                "6"
+            ]
+        ]
+    }
+}

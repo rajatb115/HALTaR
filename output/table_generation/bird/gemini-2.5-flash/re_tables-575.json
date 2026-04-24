@@ -1,0 +1,62 @@
+{
+    "table-575-575": {
+        "title": [
+            "User ID",
+            "Username",
+            "Website URL",
+            "Reputation",
+            "Account Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user has the website URL listed at 'http://stackoverflow.com'",
+        "data": [
+            [
+                "1001",
+                "AliceSmith",
+                "http://stackoverflow.com",
+                "15230",
+                "Active"
+            ],
+            [
+                "1002",
+                "BobJohnson",
+                "https://github.com/bobj",
+                "8765",
+                "Active"
+            ],
+            [
+                "1003",
+                "CharlieBrown",
+                "https://www.linkedin.com/in/charlieb",
+                "2100",
+                "Active"
+            ],
+            [
+                "1004",
+                "DianaPrince",
+                "http://dianaprince.blog",
+                "540",
+                "Active"
+            ],
+            [
+                "1005",
+                "EveAdams",
+                "N/A",
+                "120",
+                "Inactive"
+            ],
+            [
+                "1006",
+                "FrankWhite",
+                "https://www.example.com",
+                "3450",
+                "Active"
+            ]
+        ]
+    }
+}

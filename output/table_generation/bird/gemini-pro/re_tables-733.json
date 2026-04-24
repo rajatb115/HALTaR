@@ -1,0 +1,43 @@
+{
+    "table-733-733": {
+        "title": [
+            "Superhero",
+            "Publisher",
+            "Speed"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Superhero Speed by Publisher",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which publisher published the slowest superhero?",
+        "data": [
+            [
+                "Squirrel Girl",
+                "Marvel",
+                "Slow"
+            ],
+            [
+                "Matter-Eater Lad",
+                "DC",
+                "Slow"
+            ],
+            [
+                "Captain Triumph",
+                "Hillman",
+                "Average"
+            ],
+            [
+                "Superman",
+                "DC",
+                "Fast"
+            ],
+            [
+                "Flash",
+                "DC",
+                "Very Fast"
+            ]
+        ]
+    }
+}

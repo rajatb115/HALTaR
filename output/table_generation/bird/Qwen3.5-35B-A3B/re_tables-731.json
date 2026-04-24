@@ -1,0 +1,29 @@
+{
+    "table-731-731": {
+        "title": [
+            "Superhero Name",
+            "Publisher",
+            "Has Super Strength?",
+            "Power Category",
+            "First Appearance Year",
+            "Total Known Powers Count"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the superheroes from Marvel Comics, what is the percentage of those who have the super power of \"Super Strength\"?",
+        "data": [
+            [
+                "Thor",
+                "Marvel",
+                "Yes",
+                "Physical Enhancement",
+                "647",
+                "5"
+            ]
+        ]
+    }
+}

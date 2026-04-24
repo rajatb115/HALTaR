@@ -1,0 +1,77 @@
+{
+    "table-316-316": {
+        "title": [
+            "Molecule ID",
+            "Chemical Formula",
+            "Element Cl Present",
+            "Carcinogenic Status",
+            "Source Category",
+            "Risk Level"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the molecules which contain \"cl\" element, which of them are carcinogenic?",
+        "data": [
+            [
+                "MOL_042",
+                "CCl\u2084",
+                "Yes",
+                "Confirmed Carcinogen",
+                "Industrial Solvent",
+                "High"
+            ],
+            [
+                "MOL_117",
+                "CHCl\u2083",
+                "Yes",
+                "Probable Carcinogen",
+                "Laboratory Reagent",
+                "Medium"
+            ],
+            [
+                "MOL_203",
+                "C\u2082H\u2085Cl",
+                "Yes",
+                "",
+                "Agricultural Chemical",
+                "Low"
+            ],
+            [
+                "MOL_330",
+                "C\u2081\u2080H\u2088Cl\u2082O",
+                "Yes",
+                "",
+                "Pesticide Metabolite",
+                "Unknown"
+            ],
+            [
+                "MOL_456",
+                "C\u2086H\u2087ClN\u2082O\u2082S",
+                "Yes",
+                "Confirmed Carcinogen",
+                "Pharmaceutical Intermediate",
+                "High"
+            ],
+            [
+                "MCL_589",
+                "C\u2089H\u2086ClNO",
+                "Yes",
+                "",
+                "Dioxin Derivative",
+                "Very High"
+            ],
+            [
+                "MCL_612",
+                "C\u2088H\u2084Cl\u2082F\u2082N\u2082",
+                "Yes",
+                "Suspected Carcinogen",
+                "Herbicide Component",
+                "Medium"
+            ]
+        ]
+    }
+}

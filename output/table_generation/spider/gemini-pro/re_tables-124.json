@@ -1,0 +1,49 @@
+{
+    "table-124-124": {
+        "title": [
+            "Airline",
+            "Flight Number",
+            "Departure Time",
+            "Destination"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Airlines Departing from AHD",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are airlines that have some flight departing from airport 'AHD'?",
+        "data": [
+            [
+                "United Airlines",
+                "UA 3723",
+                "07:00",
+                "IAH"
+            ],
+            [
+                "American Airlines",
+                "AA 2981",
+                "08:15",
+                "DFW"
+            ],
+            [
+                "Southwest Airlines",
+                "WN 1245",
+                "09:30",
+                "DAL"
+            ],
+            [
+                "United Airlines",
+                "UA 4859",
+                "11:00",
+                "DEN"
+            ],
+            [
+                "American Airlines",
+                "AA 3102",
+                "13:45",
+                "CLT"
+            ]
+        ]
+    }
+}

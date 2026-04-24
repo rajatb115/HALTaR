@@ -1,0 +1,53 @@
+{
+    "table-63-63": {
+        "title": [
+            "Model",
+            "Weight_kg",
+            "Average_Weight_kg"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the model for the car with a weight smaller than the average?",
+        "data": [
+            [
+                "Toyota Corolla",
+                "7460",
+                "8500"
+            ],
+            [
+                "Honda Civic",
+                "6900",
+                "N/A"
+            ],
+            [
+                "Mazda MX-5",
+                "5740",
+                "None"
+            ],
+            [
+                "Fiat 501A",
+                "4800",
+                "Approximate"
+            ],
+            [
+                "Mini Cooper S",
+                "1360",
+                "Varies by year"
+            ],
+            [
+                "Smart Fortwo",
+                "905",
+                "> 100% heavier models exist"
+            ],
+            [
+                "Tesla Roadster Gen 1",
+                "0",
+                "Not applicable due to error in source"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-35-35": {
+        "title": [
+            "Student Age Range",
+            "School Operator",
+            "Free Rate Status",
+            "Eligibility Criteria",
+            "Annual Enrollment",
+            "Notes"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the free rate for students between the ages of 5 and 17 at the school run by Kacey Gibson?",
+        "data": [
+            [
+                "5\u20136 years old",
+                "Kacey Academy",
+                "Fully Funded",
+                "Resident within district",
+                "45",
+                "Includes breakfast program"
+            ],
+            [
+                "7\u201310 years old",
+                "Kacey Academy",
+                "Fully Funded",
+                "Resident within district",
+                "120",
+                "Standard curriculum access"
+            ],
+            [
+                "11\u201314 years old",
+                "",
+                "Partially Subsidized",
+                "Income threshold met",
+                "95",
+                "Transportation included"
+            ],
+            [
+                "-17 years old",
+                "",
+                "",
+                "",
+                "Full Tuition Waiver",
+                "Low-income households only"
+            ],
+            [
+                "All Ages (5-17)",
+                "Kacey Charter",
+                "Conditional Grant",
+                "Application approved annually",
+                "210",
+                "Requires parent consent form"
+            ],
+            [
+                "5\u201317 Years Old",
+                "Gibson District Schools",
+                "Variable Based on Income",
+                "Federal guidelines applied",
+                "340",
+                "State funding supplement available"
+            ]
+        ]
+    }
+}

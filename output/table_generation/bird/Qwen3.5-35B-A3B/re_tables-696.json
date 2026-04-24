@@ -1,0 +1,85 @@
+{
+    "table-696-696": {
+        "title": [
+            "Badge_Name",
+            "Awarded_Date",
+            "User_ID",
+            "Total_Count",
+            "Region",
+            "Status",
+            "Verified_By"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users were awarded with 'Citizen Patrol' badge?",
+        "data": [
+            [
+                "Citizen Patrol",
+                "4/12/2023",
+                "U_10045",
+                "762",
+                "North America",
+                "Active",
+                "Admin_Smith"
+            ],
+            [
+                "Citizen_Patrol",
+                "5/01/23",
+                "U_11203",
+                "765",
+                "Europe",
+                "Active",
+                "Admin_Jones"
+            ],
+            [
+                "Citizenship_Certified",
+                "6/15/22",
+                "U_A9921",
+                "1240",
+                "Asia",
+                "Inactive",
+                "System_Bot"
+            ],
+            [
+                "Community_Guardian",
+                "3/30/24",
+                "U_B8812",
+                "530",
+                "South America",
+                "Pending",
+                "Mod_Lee"
+            ],
+            [
+                "Safety_First",
+                "8/10/19",
+                "U_C7741",
+                "2105",
+                "Africa",
+                "Archived",
+                "Sys_Admin"
+            ],
+            [
+                "Patrol_Veteran",
+                "9/05/18",
+                "D_55211",
+                "890",
+                "Oceania",
+                "Suspended",
+                "Audit_Team"
+            ],
+            [
+                "Local_Hero",
+                "01-15-",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

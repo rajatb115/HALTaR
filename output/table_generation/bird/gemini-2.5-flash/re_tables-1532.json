@@ -1,0 +1,61 @@
+{
+    "table-1532-1532": {
+        "title": [
+            "Customer Name",
+            "Total Lifetime Spend",
+            "Average Item Price",
+            "Currency"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the top spending customer and how much is the average price per single item purchased by this customer? What currency was being used?",
+        "data": [
+            [
+                "John Doe",
+                "125000.75",
+                "155.20",
+                "USD"
+            ],
+            [
+                "Jane Smith",
+                "118900.50",
+                "120.85",
+                "EUR"
+            ],
+            [
+                "Robert Johnson",
+                "105600.20",
+                "180.10",
+                "USD"
+            ],
+            [
+                "Emily White",
+                "98750.00",
+                "95.50",
+                "GBP"
+            ],
+            [
+                "Michael Brown",
+                "92300.15",
+                "130.75",
+                "USD"
+            ],
+            [
+                "Sarah Davis",
+                "88120.90",
+                "110.30",
+                "CAD"
+            ],
+            [
+                "David Lee",
+                "85000.00",
+                "145.00",
+                "AUD"
+            ]
+        ]
+    }
+}

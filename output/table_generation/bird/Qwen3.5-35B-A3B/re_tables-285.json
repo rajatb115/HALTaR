@@ -1,0 +1,77 @@
+{
+    "table-285-285": {
+        "title": [
+            "Compound Formula",
+            "Element Symbol",
+            "Bond Type",
+            "Electronegativity Diff",
+            "State at STP",
+            "Common Usage"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Determine the bond type that is formed in the chemical compound containing element Tellurium.",
+        "data": [
+            [
+                "TeO\u2082",
+                "Te",
+                "Ionic/Covalent Hybrid",
+                "0.67",
+                "Solid",
+                "Optical lenses"
+            ],
+            [
+                "H\u2082Te",
+                "Te & H",
+                "Polar Covalent",
+                "4.0",
+                "Gas",
+                "Semiconductor doping"
+            ],
+            [
+                "Na\u2082Te\u2084",
+                "Na & Te",
+                "Metallic/Ionic",
+                "N/A",
+                "Solid",
+                "Alloy component"
+            ],
+            [
+                "TeCl\u2084",
+                "Te & Cl",
+                "Polar covalent",
+                "1.5",
+                "Liquid",
+                "Catalyst precursor"
+            ],
+            [
+                "K\u2082TeO\u2083",
+                "K & Te",
+                "Ionic",
+                "2.1",
+                "Solid",
+                "Glass manufacturing"
+            ],
+            [
+                "TeF\u2086",
+                "Te & F",
+                "Nonpolar covalent",
+                "3.0",
+                "Gas",
+                "Etching agent"
+            ],
+            [
+                "Bi\u2082Te\u2083",
+                "Bi & Te",
+                "Mixed metallic/covalent",
+                "",
+                "Solid",
+                "Thermoelectric materials"
+            ]
+        ]
+    }
+}

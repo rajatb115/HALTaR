@@ -1,0 +1,46 @@
+{
+    "table-704-704": {
+        "title": [
+            "Tag ID",
+            "Tag Name",
+            "Post Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Tag Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the tags with tag ID below 15, how many of them have 20 count of posts and below?",
+        "data": [
+            [
+                "1",
+                "technology",
+                "25"
+            ],
+            [
+                "5",
+                "science",
+                "15"
+            ],
+            [
+                "8",
+                "sports",
+                "30"
+            ],
+            [
+                "12",
+                "travel",
+                "10"
+            ],
+            [
+                "14",
+                "food",
+                "20"
+            ]
+        ]
+    }
+}

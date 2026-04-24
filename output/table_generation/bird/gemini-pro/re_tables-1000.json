@@ -1,0 +1,43 @@
+{
+    "table-1000-1000": {
+        "title": [
+            "Race Name",
+            "Fastest Lap Time",
+            "Racer Name"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Fastest Lap Records in Races",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In terms of the fastest lap time, what is the name of the race which recorded the fastest lap speed by a racer?",
+        "data": [
+            [
+                "Monaco Grand Prix",
+                "1:12.909",
+                "Lewis Hamilton"
+            ],
+            [
+                "Italian Grand Prix",
+                "1:21.046",
+                "Rubens Barrichello"
+            ],
+            [
+                "Japanese Grand Prix",
+                "1:31.540",
+                "Kimi R\u00e4ikk\u00f6nen"
+            ],
+            [
+                "British Grand Prix",
+                "1:30.687",
+                "Nigel Mansell"
+            ],
+            [
+                "German Grand Prix",
+                "1:14.273",
+                "Michael Schumacher"
+            ]
+        ]
+    }
+}

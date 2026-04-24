@@ -1,0 +1,53 @@
+{
+    "table-1176-1176": {
+        "title": [
+            "Patient ID",
+            "Age at Examination",
+            "Hemoglobin Count (g/dL)",
+            "Diagnosis"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Patient Hemoglobin and Diagnosis Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How old was the patient who had the highest hemoglobin count at the time of the examination, and what is the doctor's diagnosis?",
+        "data": [
+            [
+                "123",
+                "45",
+                "16.2",
+                "Polycythemia Vera"
+            ],
+            [
+                "456",
+                "62",
+                "15.8",
+                "COPD"
+            ],
+            [
+                "789",
+                "38",
+                "15.5",
+                "Dehydration"
+            ],
+            [
+                "101",
+                "55",
+                "15.1",
+                "Sleep Apnea"
+            ],
+            [
+                "202",
+                "29",
+                "14.9",
+                "Healthy"
+            ]
+        ]
+    }
+}

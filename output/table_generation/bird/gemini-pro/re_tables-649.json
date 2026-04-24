@@ -1,0 +1,45 @@
+{
+    "table-649-649": {
+        "title": [
+            "Display Name",
+            "Website URL",
+            "Favorite Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Popular Posts with User Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the users' display names and available website URLs of the post with favorite count of more than 150.",
+        "data": [
+            [
+                "JohnDoe",
+                "johndoe.com",
+                "155"
+            ],
+            [
+                "JaneSmith",
+                "janesmith.net",
+                "162"
+            ],
+            [
+                "AliceWonder",
+                "alice.org",
+                "180"
+            ],
+            [
+                "BobTheBuilder",
+                "bob.dev",
+                "201"
+            ],
+            [
+                "CharlieBrown",
+                "null",
+                "151"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-1478-1478": {
+        "title": [
+            "Region",
+            "Currency",
+            "Gas Consumption (GWh)",
+            "Total Cost (EUR)",
+            "Payment Method",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which year recorded the most gas use paid in EUR?",
+        "data": [
+            [
+                "Northern Europe",
+                "EUR",
+                "45,203",
+                "67,804,500",
+                "Direct Debit",
+                "Completed"
+            ],
+            [
+                "Southern Europe",
+                "EUR",
+                "38,912",
+                "58,230,100",
+                "Credit Card",
+                "Completed"
+            ],
+            [
+                "Western Europe",
+                "EUR",
+                "52,140",
+                "78,450,220",
+                "Bank Transfer",
+                "Pending"
+            ],
+            [
+                "Eastern Europe",
+                "EUR",
+                "31,567",
+                "94,210,000",
+                "Invoice",
+                "Overdue"
+            ],
+            [
+                "Central Europe",
+                "EUR",
+                "89,302",
+                "0",
+                "N/A",
+                "Cancelled"
+            ],
+            [
+                "Northern Asia",
+                "EUR",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Southern America",
+                "EUR",
+                "12,045",
+                "102,330",
+                "Cash",
+                "Rejected"
+            ],
+            [
+                "Oceania",
+                "EUR",
+                "",
+                "5,110",
+                "Wire",
+                "Failed"
+            ]
+        ]
+    }
+}

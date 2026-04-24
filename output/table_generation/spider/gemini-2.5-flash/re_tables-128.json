@@ -1,0 +1,77 @@
+{
+    "table-128-128": {
+        "title": [
+            "Airline Name",
+            "Origin Airport Code",
+            "Destination Airport Code",
+            "Flight Number",
+            "Aircraft Type",
+            "Departure Time"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find all airlines that have flights from both airports 'APG' and 'CVO'.",
+        "data": [
+            [
+                "Regional Connect",
+                "APG",
+                "BWI",
+                "RC123",
+                "Embraer 175",
+                "07:30"
+            ],
+            [
+                "SkyLink Express",
+                "CVO",
+                "PHL",
+                "SL456",
+                "Cessna 208B",
+                "08:45"
+            ],
+            [
+                "AeroPath Airways",
+                "APG",
+                "DCA",
+                "AP789",
+                "Bombardier CRJ",
+                "09:15"
+            ],
+            [
+                "Regional Connect",
+                "CVO",
+                "IAD",
+                "RC125",
+                "Embraer 175",
+                "10:00"
+            ],
+            [
+                "Horizon Air",
+                "APG",
+                "EWR",
+                "HZ201",
+                "De Havilland Dash 8",
+                "11:30"
+            ],
+            [
+                "SkyLink Express",
+                "APG",
+                "JFK",
+                "SL458",
+                "Cessna 208B",
+                "13:00"
+            ],
+            [
+                "AeroPath Airways",
+                "CVO",
+                "ORD",
+                "AP791",
+                "Bombardier CRJ",
+                "14:15"
+            ]
+        ]
+    }
+}

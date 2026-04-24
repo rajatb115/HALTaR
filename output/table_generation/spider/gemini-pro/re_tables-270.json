@@ -1,0 +1,39 @@
+{
+    "table-270-270": {
+        "title": [
+            "Player Name",
+            "Average Ranking"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Player Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the first names of all players, and their average rankings?",
+        "data": [
+            [
+                "John",
+                "4.2"
+            ],
+            [
+                "Alice",
+                "2.8"
+            ],
+            [
+                "Bob",
+                "5.1"
+            ],
+            [
+                "Emily",
+                "3.5"
+            ],
+            [
+                "David",
+                "4.9"
+            ]
+        ]
+    }
+}

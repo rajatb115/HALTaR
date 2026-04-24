@@ -1,0 +1,57 @@
+{
+    "table-1207-1207": {
+        "title": [
+            "Patient ID",
+            "Examination Date",
+            "Test",
+            "Result",
+            "Normal Range"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Laboratory Examination Records",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When is the laboratory examination of patient '48473' where his/her AST glutamic oxaloacetic transaminase (GOT) index is above the normal range.",
+        "data": [
+            [
+                "48473",
+                "2023-03-08",
+                "AST (GOT)",
+                "65 U/L",
+                "10-40 U/L"
+            ],
+            [
+                "48473",
+                "2023-06-15",
+                "AST (GOT)",
+                "72 U/L",
+                "10-40 U/L"
+            ],
+            [
+                "48473",
+                "2023-09-22",
+                "AST (GOT)",
+                "58 U/L",
+                "10-40 U/L"
+            ],
+            [
+                "48473",
+                "2023-12-29",
+                "AST (GOT)",
+                "35 U/L",
+                "10-40 U/L"
+            ],
+            [
+                "48473",
+                "2024-03-07",
+                "AST (GOT)",
+                "80 U/L",
+                "10-40 U/L"
+            ]
+        ]
+    }
+}

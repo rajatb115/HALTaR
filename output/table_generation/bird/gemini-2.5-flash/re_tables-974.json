@@ -1,0 +1,77 @@
+{
+    "table-974-974": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Birth Year",
+            "Race Event",
+            "Lap Time",
+            "Team"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out top 10 Spanish drivers who were born before 1982 and have the latest lap time.",
+        "data": [
+            [
+                "Pedro de la Rosa",
+                "Spanish",
+                "1971",
+                "Bahrain Grand Prix",
+                "1:32.123",
+                "Sauber"
+            ],
+            [
+                "Marc Gen\u00e9",
+                "Spanish",
+                "1974",
+                "Italian Grand Prix",
+                "1:26.456",
+                "Williams"
+            ],
+            [
+                "Adri\u00e1n Campos",
+                "Spanish",
+                "1960",
+                "Spanish Grand Prix",
+                "1:29.789",
+                "Minardi"
+            ],
+            [
+                "Luis P\u00e9rez-Sala",
+                "Spanish",
+                "1959",
+                "Monaco Grand Prix",
+                "1:31.012",
+                "Minardi"
+            ],
+            [
+                "Emilio de Villota",
+                "Spanish",
+                "1946",
+                "British Grand Prix",
+                "1:19.345",
+                "McLaren"
+            ],
+            [
+                "Alex Soler-Roig",
+                "Spanish",
+                "1932",
+                "Jarama Grand Prix",
+                "1:22.678",
+                "March"
+            ],
+            [
+                "Paco Godia",
+                "Spanish",
+                "1921",
+                "N\u00fcrburgring Grand Prix",
+                "9:05.901",
+                "Maserati"
+            ]
+        ]
+    }
+}

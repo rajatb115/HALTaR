@@ -1,0 +1,77 @@
+{
+    "table-1349-1349": {
+        "title": [
+            "Meeting Name",
+            "Date",
+            "Department",
+            "Budgeted Amount",
+            "Actual Spend",
+            "Exceeded Budget?"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the budgets for \"November Meeting\", how many of them had exceeded the budget?",
+        "data": [
+            [
+                "November Meeting",
+                "2023-11-15",
+                "Marketing",
+                "5000",
+                "5200",
+                "Yes"
+            ],
+            [
+                "November Meeting",
+                "2022-11-20",
+                "Sales",
+                "3000",
+                "2800",
+                "No"
+            ],
+            [
+                "November Meeting",
+                "2023-11-10",
+                "HR",
+                "2500",
+                "2650",
+                "Yes"
+            ],
+            [
+                "November Planning Session",
+                "2023-11-01",
+                "Operations",
+                "4000",
+                "3900",
+                "No"
+            ],
+            [
+                "Q4 Strategy Meeting",
+                "2023-11-25",
+                "Executive",
+                "10000",
+                "11000",
+                "Yes"
+            ],
+            [
+                "November Team Huddle",
+                "2023-11-05",
+                "IT",
+                "1500",
+                "1450",
+                "No"
+            ],
+            [
+                "November Project Review",
+                "2023-11-18",
+                "R&D",
+                "7000",
+                "7300",
+                "Yes"
+            ]
+        ]
+    }
+}

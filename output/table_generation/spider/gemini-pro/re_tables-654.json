@@ -1,0 +1,45 @@
+{
+    "table-654-654": {
+        "title": [
+            "Singer Name",
+            "Citizenship",
+            "Birth Year"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Singer Citizenship and Birth Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the citizenship shared by singers with birth year before 1945 and after 1955.",
+        "data": [
+            [
+                "Frank Sinatra",
+                "American",
+                "1915"
+            ],
+            [
+                "Elvis Presley",
+                "American",
+                "1935"
+            ],
+            [
+                "Johnny Cash",
+                "American",
+                "1932"
+            ],
+            [
+                "Chuck Berry",
+                "American",
+                "1926"
+            ],
+            [
+                "Ella Fitzgerald",
+                "American",
+                "1917"
+            ]
+        ]
+    }
+}

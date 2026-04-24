@@ -1,0 +1,76 @@
+{
+    "table-18-18": {
+        "title": [
+            "Stadium_Name",
+            "City",
+            "Capacity",
+            "Last_Concert_Date",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the stadiums without any concerts?",
+        "data": [
+            [
+                "Wembley Arena",
+                "London",
+                "46000",
+                "N/A",
+                "No Concerts Scheduled"
+            ],
+            [
+                "Madison Square Garden",
+                "New York",
+                "70050",
+                "3/15/2023",
+                "Active"
+            ],
+            [
+                "The O2",
+                "London*",
+                "50070",
+                "*No Data Available",
+                "Pending Review"
+            ],
+            [
+                "Staples Center",
+                "Los Angeles",
+                "60720",
+                "**Active**",
+                "Active Event Venue"
+            ],
+            [
+                "Barclays Center",
+                "Brooklyn",
+                "80060",
+                "Recent Tour Stop",
+                "High Activity"
+            ],
+            [
+                "Allianz Arena",
+                "Munich",
+                "0",
+                "Never Hosted",
+                "Zero Events Recorded"
+            ],
+            [
+                "Rogers Place",
+                "Edmonton",
+                "90020 2",
+                "Cancelled Season",
+                "Temporarily Closed"
+            ],
+            [
+                "TD Garden",
+                "Boston",
+                "",
+                "/",
+                "Under Renovation"
+            ]
+        ]
+    }
+}

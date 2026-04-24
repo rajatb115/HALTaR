@@ -1,0 +1,39 @@
+{
+    "table-1314-1314": {
+        "title": [
+            "College",
+            "Number of Students"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Student Club Membership by College",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many students in the Student_Club are from the College of Engineering?",
+        "data": [
+            [
+                "Engineering",
+                "15"
+            ],
+            [
+                "Arts & Sciences",
+                "22"
+            ],
+            [
+                "Business",
+                "18"
+            ],
+            [
+                "Education",
+                "12"
+            ],
+            [
+                "Health Professions",
+                "8"
+            ]
+        ]
+    }
+}

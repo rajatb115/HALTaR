@@ -1,0 +1,37 @@
+{
+    "table-627-627": {
+        "title": [
+            "Charge Type",
+            "Charge Amount"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Charge Type Costs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the charge amount of the most expensive charge type?",
+        "data": [
+            [
+                "Type A",
+                "$10.00"
+            ],
+            [
+                "Type B",
+                "$15.00"
+            ],
+            [
+                "Type C",
+                "$20.00"
+            ],
+            [
+                "Type D",
+                "$12.00"
+            ],
+            [
+                "Type E",
+                "$18.00"
+            ]
+        ]
+    }
+}

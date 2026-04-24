@@ -1,0 +1,43 @@
+{
+    "table-241-241": {
+        "title": [
+            "First Name",
+            "Birth Date",
+            "Country Code"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Player Information by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the first name and birth date of all players from the country with code USA.",
+        "data": [
+            [
+                "John",
+                "1990-05-10",
+                "USA"
+            ],
+            [
+                "Emily",
+                "1988-12-01",
+                "USA"
+            ],
+            [
+                "Michael",
+                "1992-07-15",
+                "USA"
+            ],
+            [
+                "Jessica",
+                "1991-03-22",
+                "USA"
+            ],
+            [
+                "David",
+                "1989-11-08",
+                "USA"
+            ]
+        ]
+    }
+}

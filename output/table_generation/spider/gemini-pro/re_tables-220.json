@@ -1,0 +1,37 @@
+{
+    "table-220-220": {
+        "title": [
+            "Teacher Name",
+            "Course Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Teacher Course Assignments",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show names of teachers and the courses they are arranged to teach.",
+        "data": [
+            [
+                "Ms. Anderson",
+                "Algebra I"
+            ],
+            [
+                "Mr. Davis",
+                "Biology"
+            ],
+            [
+                "Ms. Wilson",
+                "Chemistry"
+            ],
+            [
+                "Mr. Garcia",
+                "Physics"
+            ],
+            [
+                "Ms. Lee",
+                "Geometry"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1146-1146": {
+        "title": [
+            "League Name",
+            "Sport",
+            "Season",
+            "Total Games",
+            "Country/Region"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which league had the most games in the 2015\u20132016 season?",
+        "data": [
+            [
+                "MLB",
+                "Baseball",
+                "2015-2016",
+                "2430",
+                "USA/Canada"
+            ],
+            [
+                "NBA",
+                "Basketball",
+                "2015-2016",
+                "1230",
+                "USA/Canada"
+            ],
+            [
+                "NHL",
+                "Ice Hockey",
+                "2015-2016",
+                "1230",
+                "USA/Canada"
+            ],
+            [
+                "Premier League",
+                "Soccer",
+                "2015-2016",
+                "380",
+                "England"
+            ],
+            [
+                "La Liga",
+                "Soccer",
+                "2015-2016",
+                "380",
+                "Spain"
+            ],
+            [
+                "Bundesliga",
+                "Soccer",
+                "2015-2016",
+                "306",
+                "Germany"
+            ],
+            [
+                "NFL",
+                "American Football",
+                "2015-2016",
+                "256",
+                "USA"
+            ]
+        ]
+    }
+}

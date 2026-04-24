@@ -1,0 +1,62 @@
+{
+    "table-672-672": {
+        "title": [
+            "User_Display_Name",
+            "Badge_Acquired_Date",
+            "Total_Badges_Earned",
+            "Account_Creation_Year",
+            "Last_Login_Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the display name of the user who acquired the first Autobiographer badge?",
+        "data": [
+            [
+                "FirstAutobiographer",
+                "4/17/2016",
+                "3",
+                "5",
+                "Active"
+            ],
+            [
+                "EarlyContributor",
+                "6/22/2106",
+                "N/A",
+                "8",
+                "Inactive"
+            ],
+            [
+                "ProfileMaster",
+                "9/10/2306",
+                "",
+                "12",
+                "Pending"
+            ],
+            [
+                "BioWriter",
+                "7/15/2406",
+                "1",
+                "0",
+                "Deleted"
+            ],
+            [
+                "StoryTeller",
+                "",
+                "2",
+                "",
+                "Unknown"
+            ],
+            [
+                "BadgeHunter",
+                "/2026",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

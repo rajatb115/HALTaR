@@ -1,0 +1,94 @@
+{
+    "table-1043-1043": {
+        "title": [
+            "League Name",
+            "Season",
+            "Avg Home Goals",
+            "Avg Away Goals",
+            "Difference",
+            "Status",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of leagues in which the average goals by the home team is higher than the away team in the 2009/2010 season.",
+        "data": [
+            [
+                "English Premier League",
+                "09-10",
+                "46",
+                "37",
+                "+9",
+                "Active",
+                "Europe"
+            ],
+            [
+                "Spanish La Liga",
+                "09-10",
+                "52",
+                "61",
+                "-9",
+                "Inactive",
+                "Europe"
+            ],
+            [
+                "German Bundesliga",
+                "08-09",
+                "78",
+                "",
+                "N/A",
+                "Pending",
+                "Europe"
+            ],
+            [
+                "Italian Serie A",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "French Ligue 1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Portuguese Primeira Liga",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Dutch Eredivisie",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Belgian Pro League",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

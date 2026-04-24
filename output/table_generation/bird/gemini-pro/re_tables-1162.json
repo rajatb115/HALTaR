@@ -1,0 +1,45 @@
+{
+    "table-1162-1162": {
+        "title": [
+            "Age Group",
+            "Antibody Type",
+            "Average Concentration (Units)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Anti-Cardiolipin Antibody (IgG) Concentrations in In-Patients",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For in-patient age 50 and above, what is their average anti-cardiolipin antibody (IgG) concentration?",
+        "data": [
+            [
+                "50-59",
+                "IgG",
+                "25"
+            ],
+            [
+                "60-69",
+                "IgG",
+                "30"
+            ],
+            [
+                "70-79",
+                "IgG",
+                "35"
+            ],
+            [
+                "80-89",
+                "IgG",
+                "40"
+            ],
+            [
+                "90+",
+                "IgG",
+                "45"
+            ]
+        ]
+    }
+}

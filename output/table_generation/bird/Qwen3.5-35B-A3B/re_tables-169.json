@@ -1,0 +1,85 @@
+{
+    "table-169-169": {
+        "title": [
+            "District ID",
+            "Avg Salary",
+            "Total Clients Opened",
+            "Female Clients",
+            "Percentage Women",
+            "Account Status",
+            "Region Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of clients who opened their accounts in the district with an average salary of over 10000 are women?",
+        "data": [
+            [
+                "D-4012",
+                "$12,450",
+                "342",
+                "",
+                "67%",
+                "Active",
+                "R-North"
+            ],
+            [
+                "D-4105",
+                "$9,800",
+                "",
+                "N/A",
+                "",
+                "Inactive",
+                "S-South"
+            ],
+            [
+                "D-A992",
+                "$15,203",
+                "89",
+                "",
+                "44%",
+                "Pending",
+                "E-East"
+            ],
+            [
+                "B-2210",
+                "$11,102",
+                "156",
+                "",
+                "52%",
+                "Closed",
+                "W-West"
+            ],
+            [
+                "C-7731",
+                "$10,500",
+                "212",
+                "",
+                "48%",
+                "Closed",
+                "C-Central"
+            ],
+            [
+                "F-3344",
+                "$13,890",
+                "128",
+                "",
+                "55%",
+                "Pending",
+                "R-North"
+            ],
+            [
+                "G-8821",
+                "$9,250",
+                "",
+                "N/A",
+                "",
+                "Inactive",
+                "S-South"
+            ]
+        ]
+    }
+}

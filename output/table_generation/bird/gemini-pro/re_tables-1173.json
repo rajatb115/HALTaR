@@ -1,0 +1,52 @@
+{
+    "table-1173-1173": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Total Bilirubin (mg/dL)",
+            "Elevated Bilirubin"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Patient Demographics and Bilirubin Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male patients have elevated total bilirubin count?",
+        "data": [
+            [
+                "12345",
+                "Male",
+                "2.5",
+                "Yes"
+            ],
+            [
+                "67890",
+                "Female",
+                "0.8",
+                "No"
+            ],
+            [
+                "24680",
+                "Male",
+                "1.2",
+                "No"
+            ],
+            [
+                "13579",
+                "Male",
+                "3.1",
+                "Yes"
+            ],
+            [
+                "11223",
+                "Female",
+                "0.5",
+                "No"
+            ]
+        ]
+    }
+}

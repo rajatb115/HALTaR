@@ -1,0 +1,46 @@
+{
+    "table-1076-1076": {
+        "title": [
+            "Player Name",
+            "Balance Score",
+            "Potential Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Football Players with Specific Balance and Potential Scores",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the football player with the highest balance score and potential score of 61.",
+        "data": [
+            [
+                "John Smith",
+                "61",
+                "61"
+            ],
+            [
+                "David Lee",
+                "61",
+                "61"
+            ],
+            [
+                "Michael Brown",
+                "61",
+                "61"
+            ],
+            [
+                "Robert Davis",
+                "61",
+                "61"
+            ],
+            [
+                "Chris Wilson",
+                "61",
+                "61"
+            ]
+        ]
+    }
+}

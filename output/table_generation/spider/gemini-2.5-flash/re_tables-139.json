@@ -1,0 +1,69 @@
+{
+    "table-139-139": {
+        "title": [
+            "Flight Number",
+            "Departure Airport",
+            "Destination Airport",
+            "Departure Time",
+            "Airline"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the flight numbers of flights leaving from Aberdeen.",
+        "data": [
+            [
+                "BA1309",
+                "Aberdeen (ABZ)",
+                "London Heathrow (LHR)",
+                "07:15",
+                "British Airways"
+            ],
+            [
+                "EZY671",
+                "Aberdeen (ABZ)",
+                "London Gatwick (LGW)",
+                "09:30",
+                "easyJet"
+            ],
+            [
+                "KL1234",
+                "Aberdeen (ABZ)",
+                "Amsterdam (AMS)",
+                "11:00",
+                "KLM"
+            ],
+            [
+                "AF9876",
+                "Aberdeen (ABZ)",
+                "Paris Charles de Gaulle (CDG)",
+                "13:45",
+                "Air France"
+            ],
+            [
+                "LH5432",
+                "Aberdeen (ABZ)",
+                "Frankfurt (FRA)",
+                "15:20",
+                "Lufthansa"
+            ],
+            [
+                "FR8765",
+                "Aberdeen (ABZ)",
+                "Dublin (DUB)",
+                "17:05",
+                "Ryanair"
+            ],
+            [
+                "BE123",
+                "Aberdeen (ABZ)",
+                "Manchester (MAN)",
+                "19:10",
+                "Loganair"
+            ]
+        ]
+    }
+}

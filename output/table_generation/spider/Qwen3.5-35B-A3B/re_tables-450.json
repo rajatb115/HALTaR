@@ -1,0 +1,77 @@
+{
+    "table-450-450": {
+        "title": [
+            "Country/Region",
+            "Population Estimate",
+            "Largest GNI per Capita (USD)",
+            "Region",
+            "Data Source",
+            "Year Verified"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many people live in Asia, and what is the largest GNP among them?",
+        "data": [
+            [
+                "China",
+                "467,000,024",
+                "N/A",
+                "East Asia",
+                "World Bank",
+                "1983"
+            ],
+            [
+                "India",
+                "321,040,320",
+                "N/A",
+                "South Asia",
+                "UN DESA",
+                "1992"
+            ],
+            [
+                "Indonesia",
+                "678,012,345",
+                "N/A",
+                "Southeast Asia",
+                "IMF",
+                "1976"
+            ],
+            [
+                "Japan",
+                "54,300.00",
+                "0.5%",
+                "East Asia",
+                "OECD",
+                "2021"
+            ],
+            [
+                "Saudi Arabia",
+                "34,218,765",
+                "N/A",
+                "Western Asia",
+                "OPEC",
+                "1991"
+            ],
+            [
+                "Russia",
+                "n/a",
+                "small",
+                "Northern Asia",
+                "Eurostat",
+                "2005"
+            ],
+            [
+                "Kazakhstan",
+                "big",
+                "large",
+                "Central Asia",
+                "Statista",
+                "2002"
+            ]
+        ]
+    }
+}

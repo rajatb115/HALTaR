@@ -1,0 +1,39 @@
+{
+    "table-1097-1097": {
+        "title": [
+            "Customer Name",
+            "Rating"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Customer Ratings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average overall rating of Pietro Marino.",
+        "data": [
+            [
+                "Pietro Marino",
+                "4.5"
+            ],
+            [
+                "John Smith",
+                "3.2"
+            ],
+            [
+                "Alice Brown",
+                "4.8"
+            ],
+            [
+                "Pietro Marino",
+                "3.9"
+            ],
+            [
+                "David Lee",
+                "4.1"
+            ]
+        ]
+    }
+}

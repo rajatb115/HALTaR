@@ -1,0 +1,61 @@
+{
+    "table-119-119": {
+        "title": [
+            "Airport Name",
+            "IATA Code",
+            "City",
+            "Country"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the city and country for the Alton airport.",
+        "data": [
+            [
+                "St. Louis Regional Airport",
+                "ALN",
+                "Alton",
+                "USA"
+            ],
+            [
+                "Chicago O'Hare International",
+                "ORD",
+                "Chicago",
+                "USA"
+            ],
+            [
+                "Lambert-St. Louis International",
+                "STL",
+                "St. Louis",
+                "USA"
+            ],
+            [
+                "Alton Downs Airport",
+                "N/A",
+                "Rockhampton",
+                "Australia"
+            ],
+            [
+                "Alton Towers Airfield",
+                "N/A",
+                "Stoke-on-Trent",
+                "United Kingdom"
+            ],
+            [
+                "Springfield-Branson National",
+                "SGF",
+                "Springfield",
+                "USA"
+            ],
+            [
+                "Indianapolis International",
+                "IND",
+                "Indianapolis",
+                "USA"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-231-231": {
+        "title": [
+            "MuseumID",
+            "MuseumName",
+            "LocationCity",
+            "StaffCount",
+            "AnnualVisitors"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the id and name of the museum that has the most staff members?",
+        "data": [
+            [
+                "101",
+                "The Louvre Museum",
+                "Paris",
+                "2500",
+                "9000000"
+            ],
+            [
+                "102",
+                "Metropolitan Museum of Art",
+                "New York",
+                "2000",
+                "7000000"
+            ],
+            [
+                "103",
+                "British Museum",
+                "London",
+                "1500",
+                "6000000"
+            ],
+            [
+                "104",
+                "Smithsonian National Museum of Natural History",
+                "Washington D.C.",
+                "1200",
+                "4000000"
+            ],
+            [
+                "105",
+                "Rijksmuseum",
+                "Amsterdam",
+                "800",
+                "2500000"
+            ],
+            [
+                "106",
+                "Uffizi Gallery",
+                "Florence",
+                "600",
+                "2000000"
+            ],
+            [
+                "107",
+                "Acropolis Museum",
+                "Athens",
+                "300",
+                "1500000"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-868-868": {
+        "title": [
+            "Driver Name",
+            "Race ID",
+            "Fastest Lap Speed (km/h)",
+            "Origin Country",
+            "Team"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the driver who set the fastest lap speed in race No.933, where does he come from?",
+        "data": [
+            [
+                "Max Verstappen",
+                "933",
+                "248.5",
+                "Netherlands",
+                "Red Bull Racing"
+            ],
+            [
+                "Lewis Hamilton",
+                "933",
+                "247.9",
+                "United Kingdom",
+                "Mercedes"
+            ],
+            [
+                "Charles Leclerc",
+                "934",
+                "245.1",
+                "Monaco",
+                "Ferrari"
+            ],
+            [
+                "Fernando Alonso",
+                "932",
+                "239.7",
+                "Spain",
+                "Aston Martin"
+            ],
+            [
+                "Lando Norris",
+                "935",
+                "242.3",
+                "United Kingdom",
+                "McLaren"
+            ],
+            [
+                "Sergio Perez",
+                "933",
+                "246.2",
+                "Mexico",
+                "Red Bull Racing"
+            ],
+            [
+                "George Russell",
+                "934",
+                "244.8",
+                "United Kingdom",
+                "Mercedes"
+            ]
+        ]
+    }
+}

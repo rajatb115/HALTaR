@@ -1,0 +1,39 @@
+{
+    "table-1425-1425": {
+        "title": [
+            "T-Shirt Size",
+            "Number of Members"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "T-Shirt Size Distribution Among Members",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the members, how many of them have an extra large t-shirt size?",
+        "data": [
+            [
+                "Small",
+                "15"
+            ],
+            [
+                "Medium",
+                "32"
+            ],
+            [
+                "Large",
+                "28"
+            ],
+            [
+                "Extra Large",
+                "12"
+            ],
+            [
+                "XX-Large",
+                "5"
+            ]
+        ]
+    }
+}

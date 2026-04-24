@@ -1,0 +1,58 @@
+{
+    "table-484-484": {
+        "title": [
+            "Country",
+            "FoundingYear",
+            "OfficialLanguagesCount",
+            "PrimaryLanguage",
+            "Region",
+            "PopulationEstimate",
+            "GDPPerCapitaUSD"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total number of unique official languages spoken in the countries that are founded before 1930?",
+        "data": [
+            [
+                "France",
+                "486",
+                "7",
+                "French",
+                "Europe",
+                "67000",
+                "3900"
+            ],
+            [
+                "Germany",
+                "962",
+                "5",
+                "German",
+                "Europe*",
+                "8300**",
+                "00***"
+            ],
+            [
+                "Japan",
+                "660 BCE",
+                "1",
+                "Japanese",
+                "Asia",
+                "",
+                ""
+            ],
+            [
+                "United Kingdom",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

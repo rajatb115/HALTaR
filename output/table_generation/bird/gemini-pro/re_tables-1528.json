@@ -1,0 +1,52 @@
+{
+    "table-1528-1528": {
+        "title": [
+            "Gas Station",
+            "Revenue ($)",
+            "Location",
+            "Number of Pumps"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            3
+        ],
+        "pgTitle": "Gas Station Revenue Comparison",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which gas station has the highest amount of revenue?",
+        "data": [
+            [
+                "Shell",
+                "1,200,000",
+                "Main St",
+                "12"
+            ],
+            [
+                "Chevron",
+                "1,150,000",
+                "Oak Ave",
+                "10"
+            ],
+            [
+                "Exxon",
+                "1,000,000",
+                "Pine St",
+                "8"
+            ],
+            [
+                "Mobil",
+                "900,000",
+                "Elm St",
+                "6"
+            ],
+            [
+                "Speedway",
+                "850,000",
+                "Maple Ave",
+                "8"
+            ]
+        ]
+    }
+}

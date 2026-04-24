@@ -1,0 +1,43 @@
+{
+    "table-523-523": {
+        "title": [
+            "Country Name",
+            "Country Code",
+            "Predominant Language"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Country Codes and Predominant Languages",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the country codes of the different countries, and what are the languages spoken by the greatest percentage of people for each?",
+        "data": [
+            [
+                "United States",
+                "US",
+                "English"
+            ],
+            [
+                "China",
+                "CN",
+                "Mandarin Chinese"
+            ],
+            [
+                "India",
+                "IN",
+                "Hindi"
+            ],
+            [
+                "Brazil",
+                "BR",
+                "Portuguese"
+            ],
+            [
+                "Germany",
+                "DE",
+                "German"
+            ]
+        ]
+    }
+}

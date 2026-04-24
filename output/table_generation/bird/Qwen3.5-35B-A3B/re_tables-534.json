@@ -1,0 +1,94 @@
+{
+    "table-534-534": {
+        "title": [
+            "User_ID",
+            "Last_Access_Date",
+            "Access_Status",
+            "Device_Type",
+            "Session_Duration_Minutes",
+            "Region_Code",
+            "Account_Tier"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users last accessed the website after 2014/9/1?",
+        "data": [
+            [
+                "U_7821",
+                "9/2/2024",
+                "Active",
+                "Desktop",
+                "45",
+                "US-EAST",
+                "Premium"
+            ],
+            [
+                "U_B992",
+                "8/15/2024",
+                "Inactive",
+                "Mobile",
+                "0",
+                "EU-WEST",
+                "Basic"
+            ],
+            [
+                "C_4410",
+                "7/30/2022",
+                "Pending",
+                "Tablet",
+                "30",
+                "ASIA-PAC",
+                "Enterprise"
+            ],
+            [
+                "D_1102",
+                "None",
+                "Suspended",
+                "Desktop",
+                "NA",
+                "US-CENTRAL",
+                "Free"
+            ],
+            [
+                "E_5533",
+                "6/12/2019",
+                "Expired",
+                "Laptop",
+                "5",
+                "LATAM-NORTH",
+                "Standard"
+            ],
+            [
+                "F_8822",
+                "May 1st, 2224",
+                "Active",
+                "Smartphone",
+                "12",
+                "UK-LONDON",
+                "Gold"
+            ],
+            [
+                "G_3311",
+                "Jan 15th, 1899",
+                "Archived",
+                "PC",
+                "0",
+                "CA-TORONTO",
+                "Silver"
+            ],
+            [
+                "H_6644",
+                "Dec 31st, 2100",
+                "Active",
+                "Server",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

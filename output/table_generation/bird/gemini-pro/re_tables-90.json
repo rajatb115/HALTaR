@@ -1,0 +1,45 @@
+{
+    "table-90-90": {
+        "title": [
+            "Region",
+            "Issuance After Transaction",
+            "Account Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Account Issuance and Regional Distribution",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts who choose issuance after transaction are staying in East Bohemia region?",
+        "data": [
+            [
+                "East Bohemia",
+                "Yes",
+                "125"
+            ],
+            [
+                "Central Bohemia",
+                "Yes",
+                "87"
+            ],
+            [
+                "North Bohemia",
+                "Yes",
+                "62"
+            ],
+            [
+                "South Bohemia",
+                "Yes",
+                "45"
+            ],
+            [
+                "Prague",
+                "Yes",
+                "112"
+            ]
+        ]
+    }
+}

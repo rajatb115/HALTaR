@@ -1,0 +1,55 @@
+{
+    "table-210-210": {
+        "title": [
+            "Teacher Name",
+            "Subject Taught",
+            "Age",
+            "Grade Level"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of teachers in ascending order of age.",
+        "data": [
+            [
+                "Alice Smith",
+                "Mathematics",
+                "28",
+                "9th Grade"
+            ],
+            [
+                "Bob Johnson",
+                "English Literature",
+                "32",
+                "10th Grade"
+            ],
+            [
+                "Carol White",
+                "Biology",
+                "35",
+                "7th Grade"
+            ],
+            [
+                "David Green",
+                "World History",
+                "41",
+                "11th Grade"
+            ],
+            [
+                "Emily Brown",
+                "Art & Design",
+                "48",
+                "K-5"
+            ],
+            [
+                "Frank Black",
+                "Physical Education",
+                "55",
+                "6th Grade"
+            ]
+        ]
+    }
+}

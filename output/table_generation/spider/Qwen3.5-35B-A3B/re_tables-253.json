@@ -1,0 +1,61 @@
+{
+    "table-253-253": {
+        "title": [
+            "Winner Name",
+            "Sport",
+            "First Win Year",
+            "Second Win Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of all winners who played in both 2013 and 2016.",
+        "data": [
+            [
+                "Novak Djokovic",
+                "Tennis",
+                "47",
+                "50"
+            ],
+            [
+                "LeBron James",
+                "Basketball",
+                "33",
+                "60"
+            ],
+            [
+                "Roger Federer",
+                "Tennis",
+                "46",
+                "73"
+            ],
+            [
+                "Tom Brady",
+                "Football",
+                "8",
+                "9"
+            ],
+            [
+                "Michael Phelps",
+                "Swimming",
+                "0",
+                ""
+            ],
+            [
+                "Serena Williams",
+                "Tennis",
+                "",
+                ""
+            ],
+            [
+                "Lionel Messi",
+                "Soccer",
+                "",
+                ""
+            ]
+        ]
+    }
+}

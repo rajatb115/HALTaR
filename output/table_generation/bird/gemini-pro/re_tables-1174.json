@@ -1,0 +1,45 @@
+{
+    "table-1174-1174": {
+        "title": [
+            "Illness",
+            "Number of Patients",
+            "Percentage of Total Patients"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Common Illnesses Diagnosed Between 1985 and 1995",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the most common illness that doctors identified among the patients whose lab work was done between 1/1/1985, and 12/31/1995?",
+        "data": [
+            [
+                "Influenza",
+                "1250",
+                "25%"
+            ],
+            [
+                "Common Cold",
+                "1000",
+                "20%"
+            ],
+            [
+                "Hypertension",
+                "750",
+                "15%"
+            ],
+            [
+                "Diabetes",
+                "500",
+                "10%"
+            ],
+            [
+                "Bronchitis",
+                "300",
+                "6%"
+            ]
+        ]
+    }
+}

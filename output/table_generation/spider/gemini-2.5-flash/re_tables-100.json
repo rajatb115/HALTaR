@@ -1,0 +1,55 @@
+{
+    "table-100-100": {
+        "title": [
+            "Make ID",
+            "Make Name",
+            "Horsepower (hp)",
+            "Cylinders"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the cars with more than lowest horsepower, which ones do not have more than 3 cylinders? List the car makeid and make name.",
+        "data": [
+            [
+                "101",
+                "Honda",
+                "98",
+                "3"
+            ],
+            [
+                "102",
+                "Toyota",
+                "82",
+                "3"
+            ],
+            [
+                "103",
+                "Mini",
+                "100",
+                "3"
+            ],
+            [
+                "104",
+                "Fiat",
+                "75",
+                "2"
+            ],
+            [
+                "105",
+                "Smart",
+                "89",
+                "3"
+            ],
+            [
+                "106",
+                "Mitsubishi",
+                "110",
+                "3"
+            ]
+        ]
+    }
+}

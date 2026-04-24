@@ -1,0 +1,77 @@
+{
+    "table-1288-1288": {
+        "title": [
+            "Patient ID",
+            "Visit Date",
+            "Alkaline Phosphatase (U/L)",
+            "Reference Range (U/L)",
+            "Level Status",
+            "Clinic Department"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients followed at the outpatient clinic, how many of them have a normal level of alkaliphophatase?",
+        "data": [
+            [
+                "1001",
+                "2023-10-26",
+                "85",
+                "40-120",
+                "Normal",
+                "General Medicine"
+            ],
+            [
+                "1002",
+                "2023-10-26",
+                "135",
+                "40-120",
+                "High",
+                "Gastroenterology"
+            ],
+            [
+                "1003",
+                "2023-10-25",
+                "55",
+                "40-120",
+                "Normal",
+                "Endocrinology"
+            ],
+            [
+                "1004",
+                "2023-10-25",
+                "32",
+                "40-120",
+                "Low",
+                "Nephrology"
+            ],
+            [
+                "1005",
+                "2023-10-24",
+                "98",
+                "40-120",
+                "Normal",
+                "Cardiology"
+            ],
+            [
+                "1006",
+                "2023-10-24",
+                "110",
+                "40-120",
+                "Normal",
+                "General Medicine"
+            ],
+            [
+                "1007",
+                "2023-10-23",
+                "150",
+                "40-120",
+                "High",
+                "Oncology"
+            ]
+        ]
+    }
+}

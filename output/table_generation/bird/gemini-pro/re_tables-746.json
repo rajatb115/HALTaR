@@ -1,0 +1,39 @@
+{
+    "table-746-746": {
+        "title": [
+            "Title",
+            "Publisher ID"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "List of Publishers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the publisher ID of Star Trek.",
+        "data": [
+            [
+                "Star Trek",
+                "101"
+            ],
+            [
+                "The Lord of the Rings",
+                "102"
+            ],
+            [
+                "Harry Potter",
+                "103"
+            ],
+            [
+                "Game of Thrones",
+                "104"
+            ],
+            [
+                "The Chronicles of Narnia",
+                "105"
+            ]
+        ]
+    }
+}

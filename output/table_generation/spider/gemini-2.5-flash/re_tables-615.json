@@ -1,0 +1,55 @@
+{
+    "table-615-615": {
+        "title": [
+            "First Name",
+            "Last Name",
+            "Email",
+            "State"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the first name, last name and email of the owners living in a state whose name contains the substring 'North'.",
+        "data": [
+            [
+                "John",
+                "Doe",
+                "john.doe@example.com",
+                "North Carolina"
+            ],
+            [
+                "Jane",
+                "Smith",
+                "jane.smith@example.com",
+                "North Dakota"
+            ],
+            [
+                "Robert",
+                "Johnson",
+                "robert.j@example.com",
+                "North Carolina"
+            ],
+            [
+                "Emily",
+                "Davis",
+                "emily.d@example.com",
+                "North Dakota"
+            ],
+            [
+                "Michael",
+                "Brown",
+                "michael.b@example.com",
+                "North Carolina"
+            ],
+            [
+                "Sarah",
+                "Wilson",
+                "sarah.w@example.com",
+                "North Dakota"
+            ]
+        ]
+    }
+}

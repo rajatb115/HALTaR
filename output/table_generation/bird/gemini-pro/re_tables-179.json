@@ -1,0 +1,39 @@
+{
+    "table-179-179": {
+        "title": [
+            "Client Number",
+            "Credit Card Type"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Client Credit Card Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which kind of credit card does client number 9 possess?",
+        "data": [
+            [
+                "1",
+                "Visa"
+            ],
+            [
+                "5",
+                "Mastercard"
+            ],
+            [
+                "7",
+                "American Express"
+            ],
+            [
+                "9",
+                "Discover"
+            ],
+            [
+                "12",
+                "Visa"
+            ]
+        ]
+    }
+}

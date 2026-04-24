@@ -1,0 +1,77 @@
+{
+    "table-1237-1237": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Age",
+            "RBC Count (x10^6/uL)",
+            "RBC Status",
+            "Admitted to Hospital"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the female patient age 50 and above, who has abnormal red blood cell count. State if they were admitted to hospital.",
+        "data": [
+            [
+                "P101",
+                "Female",
+                "55",
+                "3.8",
+                "Low",
+                "Yes"
+            ],
+            [
+                "P102",
+                "Female",
+                "62",
+                "5.9",
+                "High",
+                "No"
+            ],
+            [
+                "P103",
+                "Female",
+                "70",
+                "3.5",
+                "Low",
+                "Yes"
+            ],
+            [
+                "P104",
+                "Female",
+                "51",
+                "6.1",
+                "High",
+                "Yes"
+            ],
+            [
+                "P105",
+                "Female",
+                "58",
+                "3.9",
+                "Low",
+                "No"
+            ],
+            [
+                "P106",
+                "Female",
+                "65",
+                "5.7",
+                "High",
+                "Yes"
+            ],
+            [
+                "P107",
+                "Female",
+                "53",
+                "3.7",
+                "Low",
+                "Yes"
+            ]
+        ]
+    }
+}

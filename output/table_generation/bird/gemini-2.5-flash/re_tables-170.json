@@ -1,0 +1,76 @@
+{
+    "table-170-170": {
+        "title": [
+            "Client ID",
+            "Gender",
+            "Year",
+            "Total Loan Amount (USD)",
+            "Annual Growth Rate (%)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the growth rate of the total amount of loans across all accounts for a male client between 1996 and 1997?",
+        "data": [
+            [
+                "C001",
+                "Male",
+                "1996",
+                "50000",
+                "N/A"
+            ],
+            [
+                "C001",
+                "Male",
+                "1997",
+                "55000",
+                "10.0"
+            ],
+            [
+                "C002",
+                "Male",
+                "1996",
+                "120000",
+                "N/A"
+            ],
+            [
+                "C002",
+                "Male",
+                "1997",
+                "126000",
+                "5.0"
+            ],
+            [
+                "C003",
+                "Male",
+                "1996",
+                "80000",
+                "N/A"
+            ],
+            [
+                "C003",
+                "Male",
+                "1997",
+                "88000",
+                "10.0"
+            ],
+            [
+                "C004",
+                "Male",
+                "1996",
+                "65000",
+                "N/A"
+            ],
+            [
+                "C004",
+                "Male",
+                "1997",
+                "68250",
+                "5.0"
+            ]
+        ]
+    }
+}

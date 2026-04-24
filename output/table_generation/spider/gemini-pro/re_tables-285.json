@@ -1,0 +1,53 @@
+{
+    "table-285-285": {
+        "title": [
+            "Tonnage (t)",
+            "Total Incidents",
+            "Fatalities",
+            "Injuries"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Ship Accident Statistics by Tonnage",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the death and injury situations caused by the ship with tonnage 't'?",
+        "data": [
+            [
+                "0-1000",
+                "150",
+                "15",
+                "45"
+            ],
+            [
+                "1001-10000",
+                "320",
+                "40",
+                "120"
+            ],
+            [
+                "10001-50000",
+                "250",
+                "30",
+                "90"
+            ],
+            [
+                "50001-100000",
+                "180",
+                "20",
+                "60"
+            ],
+            [
+                "100001+",
+                "100",
+                "10",
+                "30"
+            ]
+        ]
+    }
+}

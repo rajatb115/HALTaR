@@ -1,0 +1,69 @@
+{
+    "table-337-337": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Triple Bonds Present",
+            "Carcinogenic Status",
+            "Molecular Weight (g/mol)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "in molecules with triple bonds, how many of them are not carcinogenic?",
+        "data": [
+            [
+                "Acetylene",
+                "C2H2",
+                "Yes",
+                "No",
+                "26.04"
+            ],
+            [
+                "Hydrogen Cyanide",
+                "HCN",
+                "Yes",
+                "No",
+                "27.03"
+            ],
+            [
+                "Acrylonitrile",
+                "C3H3N",
+                "Yes",
+                "Suspected",
+                "53.06"
+            ],
+            [
+                "Nitrogen",
+                "N2",
+                "Yes",
+                "No",
+                "28.01"
+            ],
+            [
+                "Carbon Monoxide",
+                "CO",
+                "Yes",
+                "No",
+                "28.01"
+            ],
+            [
+                "Propyne",
+                "C3H4",
+                "Yes",
+                "No",
+                "40.06"
+            ],
+            [
+                "Vinylacetylene",
+                "C4H4",
+                "Yes",
+                "No",
+                "52.08"
+            ]
+        ]
+    }
+}

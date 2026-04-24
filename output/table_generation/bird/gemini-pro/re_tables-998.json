@@ -1,0 +1,45 @@
+{
+    "table-998-998": {
+        "title": [
+            "Nationality",
+            "Number of Drivers",
+            "Percentage"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Driver Nationalities in Racing",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which citizenship do the vast majority of the drivers hold?",
+        "data": [
+            [
+                "British",
+                "45",
+                "22.5%"
+            ],
+            [
+                "American",
+                "30",
+                "15.0%"
+            ],
+            [
+                "German",
+                "25",
+                "12.5%"
+            ],
+            [
+                "Italian",
+                "20",
+                "10.0%"
+            ],
+            [
+                "French",
+                "15",
+                "7.5%"
+            ]
+        ]
+    }
+}

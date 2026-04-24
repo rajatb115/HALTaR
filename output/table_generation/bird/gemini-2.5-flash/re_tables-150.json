@@ -1,0 +1,61 @@
+{
+    "table-150-150": {
+        "title": [
+            "Account Type",
+            "Loan Eligibility Status",
+            "District Name",
+            "Average District Income"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the account types that are not eligible for loans, and the average income of residents in the district where the account is located exceeds $8000 but is no more than $9000.",
+        "data": [
+            [
+                "Minor Savings",
+                "Not Eligible",
+                "Northwood",
+                "$8,350"
+            ],
+            [
+                "Trust Fund (Irrevocable)",
+                "Not Eligible",
+                "Eastside",
+                "$8,700"
+            ],
+            [
+                "Custodial Account",
+                "Not Eligible",
+                "Westview",
+                "$8,100"
+            ],
+            [
+                "Business Checking (Non-Profit)",
+                "Not Eligible",
+                "Southgate",
+                "$8,950"
+            ],
+            [
+                "Escrow Account",
+                "Not Eligible",
+                "Lakeside",
+                "$8,600"
+            ],
+            [
+                "Government Agency Account",
+                "Not Eligible",
+                "Midtown",
+                "$8,200"
+            ],
+            [
+                "Restricted Savings",
+                "Not Eligible",
+                "Hillcrest",
+                "$8,800"
+            ]
+        ]
+    }
+}

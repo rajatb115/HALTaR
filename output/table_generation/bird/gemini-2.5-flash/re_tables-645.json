@@ -1,0 +1,62 @@
+{
+    "table-645-645": {
+        "title": [
+            "Post ID",
+            "Post Title",
+            "Last Edit Date",
+            "Last Edit User ID",
+            "Edit Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the last edit date and last edit user ID for the post \"Detecting a given face in a database of facial images\".",
+        "data": [
+            [
+                "101",
+                "Detecting a given face in a database of facial images",
+                "2023-10-26",
+                "501",
+                "Content Update"
+            ],
+            [
+                "102",
+                "Real-time Facial Recognition Systems: Challenges and Solutions",
+                "2023-10-20",
+                "503",
+                "Minor Edit"
+            ],
+            [
+                "103",
+                "Deep Learning Approaches for Image Classification",
+                "2023-09-15",
+                "502",
+                "Major Revision"
+            ],
+            [
+                "104",
+                "Ethical Considerations in AI-Powered Surveillance",
+                "2023-10-01",
+                "501",
+                "Grammar Fix"
+            ],
+            [
+                "105",
+                "Optimizing Database Queries for Large Datasets",
+                "2023-08-22",
+                "504",
+                "Tag Update"
+            ],
+            [
+                "106",
+                "Understanding Convolutional Neural Networks",
+                "2023-10-10",
+                "503",
+                "Content Update"
+            ]
+        ]
+    }
+}

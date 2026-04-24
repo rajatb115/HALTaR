@@ -1,0 +1,37 @@
+{
+    "table-1464-1464": {
+        "title": [
+            "Event Name",
+            "Budgeted Amount"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Event Budget Allocation for Food",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the event names which were budgeted for the food.",
+        "data": [
+            [
+                "Conference A",
+                "$5,000"
+            ],
+            [
+                "Workshop B",
+                "$2,500"
+            ],
+            [
+                "Seminar C",
+                "$1,000"
+            ],
+            [
+                "Networking Event D",
+                "$3,000"
+            ],
+            [
+                "Training Session E",
+                "$1,500"
+            ]
+        ]
+    }
+}

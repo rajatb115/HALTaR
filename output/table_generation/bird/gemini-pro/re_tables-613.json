@@ -1,0 +1,43 @@
+{
+    "table-613-613": {
+        "title": [
+            "User Display Name",
+            "Badge Name",
+            "Date Obtained"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "User Badges",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of badge that the user whose display name is \"Pierre\" obtained?",
+        "data": [
+            [
+                "Pierre",
+                "Strunk & White",
+                "2023-03-15"
+            ],
+            [
+                "Pierre",
+                "Copy Editor",
+                "2023-04-01"
+            ],
+            [
+                "Jon Skeet",
+                "Guru",
+                "2010-01-01"
+            ],
+            [
+                "Grace Hopper",
+                "Necromancer",
+                "1960-01-01"
+            ],
+            [
+                "Alan Turing",
+                "Lifeboat",
+                "1950-01-01"
+            ]
+        ]
+    }
+}

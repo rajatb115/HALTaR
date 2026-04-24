@@ -1,0 +1,85 @@
+{
+    "table-971-971": {
+        "title": [
+            "Driver Name",
+            "Birth Year",
+            "Nationality",
+            "Lap Time (s)",
+            "Team",
+            "Track",
+            "Event Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out top 3 German drivers who were born from 1980-1990 and have the earliest lap time.",
+        "data": [
+            [
+                "Sebastian Vettel",
+                "1987",
+                "Germany",
+                "64.21",
+                "Red Bull Racing",
+                "Monza GP",
+                "09/09"
+            ],
+            [
+                "Michael Schumacher",
+                "1970",
+                "Germany",
+                "58.45",
+                "Ferrari",
+                "Spa-Francorchamps",
+                "30/08"
+            ],
+            [
+                "Nico H\u00fclkenberg",
+                "1990",
+                "Germany",
+                "45.12",
+                "Force India",
+                "Silverstone",
+                "14/07"
+            ],
+            [
+                "Max Verstappen",
+                "",
+                "Netherlands",
+                "N/A",
+                "Red Bull Racing",
+                "Zandvoort",
+                "25/06"
+            ],
+            [
+                "Lewis Hamilton",
+                "",
+                "United Kingdom",
+                "",
+                "Mercedes",
+                "Silverstone",
+                "15/10"
+            ],
+            [
+                "Kimi R\u00e4ikk\u00f6nen",
+                "",
+                "Finland",
+                "",
+                "Ferrari",
+                "Monza",
+                "02/05"
+            ],
+            [
+                "Fernando Alonso",
+                "",
+                "Spain",
+                "",
+                "Renault",
+                "Barcelona",
+                "May 1st"
+            ]
+        ]
+    }
+}

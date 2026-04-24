@@ -1,0 +1,69 @@
+{
+    "table-142-142": {
+        "title": [
+            "Airport Name",
+            "IATA Code",
+            "City",
+            "Country",
+            "Operational Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name of airports which do not have any flight in and out.",
+        "data": [
+            [
+                "Desert Sands Airstrip",
+                "DSA",
+                "Aridville",
+                "Fictionaland",
+                "Inactive"
+            ],
+            [
+                "Old Mountain Airfield",
+                "OMA",
+                "Summit City",
+                "Mountainia",
+                "Closed"
+            ],
+            [
+                "Coastal Breeze Landing",
+                "CBL",
+                "Seaport",
+                "Island Nation",
+                "No Scheduled Flights"
+            ],
+            [
+                "Abandoned Air Base X",
+                "ABX",
+                "Remote Outpost",
+                "Wasteland",
+                "Decommissioned"
+            ],
+            [
+                "Fictional Valley Airport",
+                "FVA",
+                "Green Valley",
+                "Farmland",
+                "Temporarily Closed"
+            ],
+            [
+                "Ghost Town Airstrip",
+                "GTA",
+                "Silent Springs",
+                "Old West Territory",
+                "Unused"
+            ],
+            [
+                "Forgotten Field",
+                "FGT",
+                "Lost City",
+                "Ancient Lands",
+                "Mothballed"
+            ]
+        ]
+    }
+}

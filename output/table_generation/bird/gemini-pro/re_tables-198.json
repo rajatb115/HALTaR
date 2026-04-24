@@ -1,0 +1,52 @@
+{
+    "table-198-198": {
+        "title": [
+            "Molecule",
+            "Chemical Formula",
+            "Number of Oxygen Atoms",
+            "Number of Single Bonds"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Oxygen Atoms in Single-Bonded Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average number of oxygen atoms in single-bonded molecules.",
+        "data": [
+            [
+                "Water",
+                "H\u2082O",
+                "1",
+                "2"
+            ],
+            [
+                "Ethanol",
+                "C\u2082H\u2085OH",
+                "1",
+                "7"
+            ],
+            [
+                "Methanol",
+                "CH\u2083OH",
+                "1",
+                "5"
+            ],
+            [
+                "Acetic Acid",
+                "CH\u2083COOH",
+                "2",
+                "6"
+            ],
+            [
+                "Hydrogen Peroxide",
+                "H\u2082O\u2082",
+                "2",
+                "1"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-447-447": {
+        "title": [
+            "Card Name",
+            "Converted Mana Cost",
+            "Set Name"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Cards in Abyssal Horror with CMC of 10",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is percentage of the cards with a converted Mana Cost of 10 in set of Abyssal Horror?",
+        "data": [
+            [
+                "Emrakul, the Promised End",
+                "13",
+                "Eldritch Moon"
+            ],
+            [
+                "Kozilek, Butcher of Truth",
+                "10",
+                "Rise of the Eldrazi"
+            ],
+            [
+                "Kozilek, the Great Distortion",
+                "10",
+                "Oath of the Gatewatch"
+            ],
+            [
+                "Ulamog, the Ceaseless Hunger",
+                "10",
+                "Battle for Zendikar"
+            ],
+            [
+                "Ulamog, the Infinite Gyre",
+                "10",
+                "Rise of the Eldrazi"
+            ]
+        ]
+    }
+}

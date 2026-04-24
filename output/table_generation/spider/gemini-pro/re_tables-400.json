@@ -1,0 +1,37 @@
+{
+    "table-400-400": {
+        "title": [
+            "Player Name",
+            "Country"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "List of Poker Players",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of poker players?",
+        "data": [
+            [
+                "Phil Ivey",
+                "United States"
+            ],
+            [
+                "Daniel Negreanu",
+                "Canada"
+            ],
+            [
+                "Doyle Brunson",
+                "United States"
+            ],
+            [
+                "Phil Hellmuth",
+                "United States"
+            ],
+            [
+                "Tom Dwan",
+                "United States"
+            ]
+        ]
+    }
+}

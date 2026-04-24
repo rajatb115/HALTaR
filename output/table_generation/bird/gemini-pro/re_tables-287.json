@@ -1,0 +1,45 @@
+{
+    "table-287-287": {
+        "title": [
+            "Compound Class",
+            "Number of Compounds",
+            "Percentage with Triple Bond"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Chemical Compounds with Triple Bonds",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all chemical compounds identified in the database, what percent of compounds form a triple-bond.",
+        "data": [
+            [
+                "Alkynes",
+                "1500",
+                "95%"
+            ],
+            [
+                "Nitriles",
+                "800",
+                "98%"
+            ],
+            [
+                "Cyanates",
+                "300",
+                "99%"
+            ],
+            [
+                "Isonitriles",
+                "200",
+                "97%"
+            ],
+            [
+                "Carbodimides",
+                "100",
+                "85%"
+            ]
+        ]
+    }
+}

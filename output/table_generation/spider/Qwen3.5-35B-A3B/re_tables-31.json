@@ -1,0 +1,53 @@
+{
+    "table-31-31": {
+        "title": [
+            "Pet_Type",
+            "Max_Weight_Lbs",
+            "Category"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the maximum weight and type for each type of pet.",
+        "data": [
+            [
+                "Dog",
+                "346",
+                "Mammal"
+            ],
+            [
+                "Cat",
+                "57",
+                "Mammal"
+            ],
+            [
+                "Horse",
+                "400",
+                "Mammal"
+            ],
+            [
+                "Rabbit",
+                "6",
+                "Rodent"
+            ],
+            [
+                "Hamster",
+                "0.5",
+                "Rodent"
+            ],
+            [
+                "Guinea Pig",
+                "7",
+                "Rodent"
+            ],
+            [
+                "Parrot",
+                "8",
+                "Bird"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-601-601": {
+        "title": [
+            "Dog ID",
+            "Arrival Date",
+            "Departure Date",
+            "Treatment Received",
+            "Status",
+            "Clinic Location"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the arriving date and the departing date of the dogs that received a treatment.",
+        "data": [
+            [
+                "D-1042",
+                "7/12/2023",
+                "8/05/2023",
+                "Vaccination",
+                "Completed",
+                "Downtown Branch"
+            ],
+            [
+                "D-BB99",
+                "6/15/2019",
+                "",
+                "Vaccination",
+                "Discharged",
+                "Westside Facility"
+            ],
+            [
+                "K-205",
+                "9/01/2022",
+                "",
+                "Surgery",
+                "In Recovery",
+                "North Animal Center"
+            ],
+            [
+                "P-881",
+                "3/21/2018",
+                "",
+                "Dental Cleaning",
+                "Pending Follow-up",
+                "East Side Vet"
+            ],
+            [
+                "M-334",
+                "5/09/2024",
+                "",
+                "Antibiotic Therapy",
+                "Admitted",
+                "Central Hospital"
+            ],
+            [
+                "R-772",
+                "N/A",
+                "",
+                "Surgery",
+                "Emergency Admission",
+                "Trauma Unit"
+            ],
+            [
+                "L-110",
+                "4/10/2025",
+                "",
+                "Spay Procedure",
+                "Scheduled",
+                "Mobile Clinic"
+            ]
+        ]
+    }
+}

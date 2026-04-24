@@ -1,0 +1,63 @@
+{
+    "table-196-196": {
+        "title": [
+            "Template ID",
+            "Description",
+            "Code",
+            "Category",
+            "Status",
+            "Created Date",
+            "Last Modified",
+            "Version"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the template type code for template type description \"Book\".",
+        "data": [
+            [
+                "TPL_0042",
+                "Book",
+                "BK",
+                "Literature",
+                "Active",
+                "01/15/2020",
+                "3/10/24",
+                "v2.1"
+            ],
+            [
+                "TPL_0105",
+                "E-book",
+                "EBK",
+                "Digital Media",
+                "Active",
+                "6/22/21",
+                "7/1/23",
+                "v1.0"
+            ],
+            [
+                "TPL_BK_OLD",
+                "Legacy Book Format",
+                "LBK",
+                "Archive",
+                "Deprecated",
+                "12/01/2015",
+                "1/05/16",
+                "v1a"
+            ],
+            [
+                "TPL_ACADEMIC",
+                "Academic Textbook",
+                "ATB",
+                "Education",
+                "Active",
+                "9/2/18",
+                "11/30/19",
+                "v3.0"
+            ]
+        ]
+    }
+}

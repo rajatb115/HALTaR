@@ -1,0 +1,85 @@
+{
+    "table-801-801": {
+        "title": [
+            "Superhero ID",
+            "Eye Color",
+            "Total Count in Group",
+            "Percentage Calculation",
+            "Final Percentage",
+            "Status Verified"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of superheroes with blue eyes.",
+        "data": [
+            [
+                "SH-0042",
+                "Blue",
+                "45",
+                "(45 / 120) * 100",
+                "37.5%",
+                "Yes"
+            ],
+            [
+                "SH-0118",
+                "Brown",
+                "60",
+                "N/A",
+                "N/A",
+                "No"
+            ],
+            [
+                "Superheroes with Blue Eyes",
+                "",
+                "52",
+                "0.6117",
+                "72.3%",
+                "Pending Review"
+            ],
+            [
+                "Superheroes with Green Eyes",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "SH-BLUE-Alpha",
+                "Blue Variant",
+                "99",
+                "(99/205)*10",
+                "Not Applicable",
+                "Flagged for Audit"
+            ],
+            [
+                "Total Sample Size",
+                "All Colors",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Blue-Eye Subgroup Avg Age",
+                "Years",
+                "Average Value",
+                "Mean Statistic",
+                "Data Point Validated",
+                ""
+            ],
+            [
+                "Estimated Global Population",
+                "Millions",
+                "Projected Figure",
+                "Scaling Factor Applied",
+                "Confidence Interval High",
+                ""
+            ]
+        ]
+    }
+}

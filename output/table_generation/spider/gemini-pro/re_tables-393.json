@@ -1,0 +1,45 @@
+{
+    "table-393-393": {
+        "title": [
+            "Player Name",
+            "Final Tables",
+            "Best Finish"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Poker Player Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the final tables made and best finishes for all poker players?",
+        "data": [
+            [
+                "John Doe",
+                "5",
+                "1st"
+            ],
+            [
+                "Jane Smith",
+                "3",
+                "2nd"
+            ],
+            [
+                "Peter Jones",
+                "8",
+                "1st"
+            ],
+            [
+                "Alice Brown",
+                "2",
+                "3rd"
+            ],
+            [
+                "Bob White",
+                "6",
+                "1st"
+            ]
+        ]
+    }
+}

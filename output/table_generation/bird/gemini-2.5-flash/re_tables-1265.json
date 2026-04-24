@@ -1,0 +1,77 @@
+{
+    "table-1265-1265": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "Complement 4 Level (mg/dL)",
+            "Complement 4 Status",
+            "Age",
+            "Gender"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients have blood clots in veins, how many of them have a normal level of complement 4?",
+        "data": [
+            [
+                "P001",
+                "Deep Vein Thrombosis",
+                "28",
+                "Normal",
+                "55",
+                "Female"
+            ],
+            [
+                "P002",
+                "Pulmonary Embolism",
+                "12",
+                "Low",
+                "72",
+                "Male"
+            ],
+            [
+                "P003",
+                "Deep Vein Thrombosis",
+                "35",
+                "Normal",
+                "48",
+                "Female"
+            ],
+            [
+                "P004",
+                "Hypertension",
+                "48",
+                "High",
+                "63",
+                "Male"
+            ],
+            [
+                "P005",
+                "Deep Vein Thrombosis",
+                "18",
+                "Low",
+                "39",
+                "Female"
+            ],
+            [
+                "P006",
+                "Varicose Veins",
+                "40",
+                "Normal",
+                "68",
+                "Male"
+            ],
+            [
+                "P007",
+                "Pulmonary Embolism",
+                "22",
+                "Normal",
+                "77",
+                "Female"
+            ]
+        ]
+    }
+}

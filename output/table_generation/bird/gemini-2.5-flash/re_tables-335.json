@@ -1,0 +1,85 @@
+{
+    "table-335-335": {
+        "title": [
+            "Atom ID",
+            "Element Name",
+            "Atomic Number",
+            "Molecule Name",
+            "Molecule ID",
+            "Carcinogenic Status",
+            "Molecular Weight (g/mol)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the element with the atom ID of TR004_7 in molecule that is not carcinogenic?",
+        "data": [
+            [
+                "TR004_7",
+                "Carbon",
+                "6",
+                "Glucose",
+                "MOL_GLU_001",
+                "No",
+                "180.16"
+            ],
+            [
+                "TR004_8",
+                "Oxygen",
+                "8",
+                "Water",
+                "MOL_H2O_001",
+                "No",
+                "18.02"
+            ],
+            [
+                "TR005_1",
+                "Hydrogen",
+                "1",
+                "Ethanol",
+                "MOL_ETOH_001",
+                "No",
+                "46.07"
+            ],
+            [
+                "TR006_3",
+                "Nitrogen",
+                "7",
+                "Caffeine",
+                "MOL_CAF_001",
+                "No",
+                "194.19"
+            ],
+            [
+                "TR007_2",
+                "Carbon",
+                "6",
+                "Vitamin C",
+                "MOL_VITC_001",
+                "No",
+                "176.12"
+            ],
+            [
+                "TR008_5",
+                "Oxygen",
+                "8",
+                "Sucrose",
+                "MOL_SUC_001",
+                "No",
+                "342.30"
+            ],
+            [
+                "TR009_1",
+                "Sulfur",
+                "16",
+                "Penicillin G",
+                "MOL_PEN_001",
+                "No",
+                "334.39"
+            ]
+        ]
+    }
+}

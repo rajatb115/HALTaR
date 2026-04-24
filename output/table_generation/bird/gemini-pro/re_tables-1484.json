@@ -1,0 +1,49 @@
+{
+    "table-1484-1484": {
+        "title": [
+            "Customer ID",
+            "Month",
+            "Year",
+            "Consumption"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Customer Consumption Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much did customer 6 consume in total between August and November 2013?",
+        "data": [
+            [
+                "6",
+                "August",
+                "2013",
+                "150"
+            ],
+            [
+                "6",
+                "September",
+                "2013",
+                "175"
+            ],
+            [
+                "6",
+                "October",
+                "2013",
+                "200"
+            ],
+            [
+                "6",
+                "November",
+                "2013",
+                "180"
+            ],
+            [
+                "**Total**",
+                "",
+                "",
+                "**705**"
+            ]
+        ]
+    }
+}

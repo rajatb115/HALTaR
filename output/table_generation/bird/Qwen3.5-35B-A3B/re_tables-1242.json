@@ -1,0 +1,69 @@
+{
+    "table-1242-1242": {
+        "title": [
+            "Patient ID",
+            "Platelet Status",
+            "Count Lower Than Normal",
+            "Count Higher Than Normal Comparison",
+            "Date Recorded",
+            "Lab Site"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patients with abnormal platelet level, state the number of patients with lower than normal range. How is it compare to the number of patients with higher than normal range?",
+        "data": [
+            [
+                "P-1042",
+                "Abnormal Low",
+                "45",
+                "Significantly fewer cases observed in this group compared to high levels",
+                "06/12/2023",
+                "North Wing"
+            ],
+            [
+                "P-A77B",
+                "Abnormally High",
+                "32",
+                "Total count for low levels was approximately half of those recorded here",
+                "6/22/1923",
+                "South Wing"
+            ],
+            [
+                "P-B9C1",
+                "Borderline Elevated",
+                "58",
+                "Slightly more instances found below reference limits during screening",
+                "7/01/1899",
+                "East Clinic"
+            ],
+            [
+                "D-22X",
+                "Severe Thrombocytopenia",
+                "89",
+                "This category represents the largest deviation from standard ranges on record",
+                "9/15/2100",
+                "West Unit"
+            ],
+            [
+                "E-F4K2",
+                "Mild Leukemia Induced Drop",
+                "",
+                "N/A",
+                "Data collection paused due to equipment calibration error",
+                ""
+            ],
+            [
+                "F-G5L3",
+                "Reactive Thromboembolism",
+                "12",
+                "No significant difference noted between elevated",
+                "",
+                ""
+            ]
+        ]
+    }
+}

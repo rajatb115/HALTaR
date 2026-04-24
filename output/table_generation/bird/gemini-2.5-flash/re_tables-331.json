@@ -1,0 +1,41 @@
+{
+    "table-331-331": {
+        "title": [
+            "Molecule Name",
+            "Carcinogenic Status",
+            "Molecular Weight (g/mol)",
+            "Number of Triple Bonds",
+            "Has Terminal Alkynyl H"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of carcinogenic molecules with triple bonded Hidrogen atoms.",
+        "data": [
+            [
+                "Acrylonitrile",
+                "Suspected",
+                "53.06",
+                "1",
+                "No"
+            ],
+            [
+                "Acetylene",
+                "None",
+                "26.04",
+                "1",
+                "Yes"
+            ],
+            [
+                "Benzene",
+                "Known",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

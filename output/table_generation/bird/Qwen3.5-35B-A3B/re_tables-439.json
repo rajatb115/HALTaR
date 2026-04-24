@@ -1,0 +1,45 @@
+{
+    "table-439-439": {
+        "title": [
+            "Set ID",
+            "Language Code",
+            "Full Language Name",
+            "Region",
+            "Status",
+            "Last Updated"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Point out the language of set id \"174\"?",
+        "data": [
+            [
+                "173",
+                "en-US",
+                "English (United States)",
+                "North America",
+                "Active",
+                "6/1/2024"
+            ],
+            [
+                "175",
+                "es-ES",
+                "Spanish (Spain)",
+                "Europe",
+                "Active",
+                "6/2/2124"
+            ],
+            [
+                "N/A",
+                "fr-FR",
+                "French (France)",
+                "Western Europe",
+                "Archived",
+                "5/15/24"
+            ]
+        ]
+    }
+}

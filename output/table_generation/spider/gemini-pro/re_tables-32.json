@@ -1,0 +1,39 @@
+{
+    "table-32-32": {
+        "title": [
+            "Pet Type",
+            "Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Pet Type Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the number of distinct type of pets.",
+        "data": [
+            [
+                "Dog",
+                "15"
+            ],
+            [
+                "Cat",
+                "12"
+            ],
+            [
+                "Bird",
+                "5"
+            ],
+            [
+                "Fish",
+                "8"
+            ],
+            [
+                "Hamster",
+                "3"
+            ]
+        ]
+    }
+}

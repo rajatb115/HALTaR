@@ -1,0 +1,45 @@
+{
+    "table-328-328": {
+        "title": [
+            "Molecule Name",
+            "Formula",
+            "Atom Count",
+            "Carcinogen Status",
+            "Primary Application",
+            "CAS Number"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which non-carcinogenic molecules consisted more than 5 atoms?",
+        "data": [
+            [
+                "Ethanol",
+                "C\u2082H\u2086O",
+                "9",
+                "Non-Carcinogen",
+                "Solvent",
+                "64-17-5"
+            ],
+            [
+                "Methane",
+                "CH\u2084",
+                "5",
+                "Non-Carcinogen",
+                "Fuel Source",
+                "74-82-8"
+            ],
+            [
+                "Ribose",
+                "C\u2085H\u2081\u2080O\u2085",
+                "20",
+                "Non-Carcinogen",
+                "Biological Sugar",
+                "50-69-1"
+            ]
+        ]
+    }
+}

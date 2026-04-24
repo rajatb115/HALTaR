@@ -1,0 +1,43 @@
+{
+    "table-1333-1333": {
+        "title": [
+            "Member Name",
+            "Item Purchased",
+            "Cost"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "September Meeting Food Expenses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much did the Student_Club members spend on food in September Meeting?",
+        "data": [
+            [
+                "Alice Smith",
+                "Pizza",
+                "$25.00"
+            ],
+            [
+                "Bob Johnson",
+                "Drinks",
+                "$12.50"
+            ],
+            [
+                "Carol Williams",
+                "Snacks",
+                "$8.75"
+            ],
+            [
+                "David Brown",
+                "Plates/Napkins",
+                "$5.00"
+            ],
+            [
+                "Emily Davis",
+                "Cake",
+                "$15.00"
+            ]
+        ]
+    }
+}

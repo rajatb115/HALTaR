@@ -1,0 +1,52 @@
+{
+    "table-1495-1495": {
+        "title": [
+            "Country",
+            "Gas Stations",
+            "Premium Gas Stations",
+            "Percentage Premium"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Gas Station Details by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of Slovakian gas stations are premium?",
+        "data": [
+            [
+                "Slovakia",
+                "2,500",
+                "500",
+                "20%"
+            ],
+            [
+                "Germany",
+                "14,000",
+                "7,000",
+                "50%"
+            ],
+            [
+                "Austria",
+                "3,000",
+                "1,200",
+                "40%"
+            ],
+            [
+                "Hungary",
+                "2,000",
+                "300",
+                "15%"
+            ],
+            [
+                "Czech Rep",
+                "4,000",
+                "800",
+                "20%"
+            ]
+        ]
+    }
+}

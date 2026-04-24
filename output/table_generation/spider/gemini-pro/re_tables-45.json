@@ -1,0 +1,52 @@
+{
+    "table-45-45": {
+        "title": [
+            "Animal",
+            "Type",
+            "Age (Years)",
+            "Weight (lbs)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Animal Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What type of pet is the youngest animal, and how much does it weigh?",
+        "data": [
+            [
+                "Fluffy",
+                "Dog",
+                "3",
+                "25"
+            ],
+            [
+                "Mittens",
+                "Cat",
+                "5",
+                "10"
+            ],
+            [
+                "Bubbles",
+                "Fish",
+                "1",
+                "0.2"
+            ],
+            [
+                "Rosie",
+                "Hamster",
+                "2",
+                "0.5"
+            ],
+            [
+                "Charlie",
+                "Bird",
+                "4",
+                "0.1"
+            ]
+        ]
+    }
+}

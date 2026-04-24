@@ -1,0 +1,53 @@
+{
+    "table-163-163": {
+        "title": [
+            "District",
+            "Min_Products_Sold",
+            "Max_Products_sold",
+            "Shop_Count_Low",
+            "Shop_COUNT_High",
+            "Data_Source",
+            "Last_Updated",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the districts in which there are both shops selling less than 3000 products and shops selling more than 10000 products.",
+        "data": [
+            [
+                "Central Metro",
+                "450",
+                "320",
+                "Yes",
+                "No",
+                "Internal Audit",
+                "06/15/2023",
+                "Verified"
+            ],
+            [
+                "North Valley",
+                "780",
+                "None",
+                "Yes No",
+                "N/A",
+                "Regional Report",
+                "6/2/23 Pending Review",
+                ""
+            ],
+            [
+                "East Harbor",
+                "92012050YesYesField Survey6/30/2ActiveWest Ridge",
+                "500",
+                "N.A.",
+                "YesNoInternal Database",
+                "8/1/22VerifiedSouth Plains",
+                "",
+                ""
+            ]
+        ]
+    }
+}

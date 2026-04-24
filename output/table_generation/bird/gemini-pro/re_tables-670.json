@@ -1,0 +1,45 @@
+{
+    "table-670-670": {
+        "title": [
+            "User",
+            "Post ID",
+            "Vote Timestamp"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "First Post Votes by User",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When did \"chl\" cast its first vote in a post?",
+        "data": [
+            [
+                "chl",
+                "12345",
+                "2023-01-15 10:00:00"
+            ],
+            [
+                "chl",
+                "67890",
+                "2023-02-20 14:30:00"
+            ],
+            [
+                "chl",
+                "24680",
+                "2023-03-10 08:15:00"
+            ],
+            [
+                "chl",
+                "13579",
+                "2023-04-05 12:45:00"
+            ],
+            [
+                "chl",
+                "98765",
+                "2023-05-12 16:20:00"
+            ]
+        ]
+    }
+}

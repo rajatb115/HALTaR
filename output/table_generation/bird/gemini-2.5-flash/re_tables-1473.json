@@ -1,0 +1,69 @@
+{
+    "table-1473-1473": {
+        "title": [
+            "Country",
+            "Year",
+            "Sector",
+            "Energy Consumption (GWh)",
+            "Per Capita (MWh)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In 2012, who had the least consumption in LAM?",
+        "data": [
+            [
+                "Colombia",
+                "2012",
+                "Residential",
+                "18.5",
+                "0.04"
+            ],
+            [
+                "Chile",
+                "2012",
+                "Agricultural",
+                "9.2",
+                "0.05"
+            ],
+            [
+                "Ecuador",
+                "2012",
+                "Residential",
+                "12.8",
+                "0.08"
+            ],
+            [
+                "Peru",
+                "2012",
+                "Industrial",
+                "30.1",
+                "0.10"
+            ],
+            [
+                "Paraguay",
+                "2012",
+                "Agricultural",
+                "8.7",
+                "0.12"
+            ],
+            [
+                "Bolivia",
+                "2012",
+                "Residential",
+                "15.3",
+                "0.15"
+            ],
+            [
+                "Uruguay",
+                "2012",
+                "Commercial",
+                "25.5",
+                "0.75"
+            ]
+        ]
+    }
+}

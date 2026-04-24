@@ -1,0 +1,85 @@
+{
+    "table-112-112": {
+        "title": [
+            "Airline Name",
+            "Abbreviation",
+            "Country",
+            "IATA Code",
+            "Status",
+            "Founded",
+            "Headquarters"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all airline names and their abbreviations in \"USA\".",
+        "data": [
+            [
+                "American Airlines",
+                "AA",
+                "USA",
+                "AA",
+                "Active",
+                "1934",
+                "Dallas/Fort Worth"
+            ],
+            [
+                "Delta Air Lines",
+                "DL",
+                "USA",
+                "DL",
+                "Active",
+                "1924",
+                "Atlanta"
+            ],
+            [
+                "United Airlines",
+                "UA",
+                "USA",
+                "UA",
+                "Active",
+                "1926",
+                "Chicago"
+            ],
+            [
+                "Southwest Airlines",
+                "WN",
+                "USA",
+                "WN",
+                "Active",
+                "1967",
+                "Dallas"
+            ],
+            [
+                "JetBlue Airways",
+                "B6",
+                "USA",
+                "B6",
+                "Active",
+                "1999",
+                "New York City"
+            ],
+            [
+                "Alaska Airlines",
+                "AS",
+                "USA",
+                "AS",
+                "Active",
+                "1932",
+                "Seattle"
+            ],
+            [
+                "Hawaiian Airlines",
+                "HA",
+                "USA",
+                "HA",
+                "Active",
+                "1929",
+                "Honolulu"
+            ]
+        ]
+    }
+}

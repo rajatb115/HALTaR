@@ -1,0 +1,85 @@
+{
+    "table-710-710": {
+        "title": [
+            "Post_ID",
+            "Score",
+            "View_Count",
+            "Comment_Status",
+            "Has_Answer",
+            "Author_Rep"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In comments with 0 score, how many of the posts have view count lower than 5?",
+        "data": [
+            [
+                "P1042",
+                "0",
+                "3",
+                "Active",
+                "No",
+                "45"
+            ],
+            [
+                "P2193",
+                "7",
+                "6",
+                "Archived",
+                "Yes",
+                "890"
+            ],
+            [
+                "P3055",
+                "-2",
+                "N/A",
+                "Deleted",
+                "No",
+                "N/A"
+            ],
+            [
+                "P4102",
+                "-1",
+                "5",
+                "Pending",
+                "No",
+                "12"
+            ],
+            [
+                "P5288",
+                "9",
+                "1",
+                "Closed",
+                "Yes",
+                "1500"
+            ],
+            [
+                "P6341",
+                "-5",
+                "",
+                "Open",
+                "No",
+                "22"
+            ],
+            [
+                "P7009",
+                "-3",
+                "N/A",
+                "Locked",
+                "No",
+                "5"
+            ],
+            [
+                "P8112",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

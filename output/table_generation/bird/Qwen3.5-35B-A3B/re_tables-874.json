@@ -1,0 +1,73 @@
+{
+    "table-874-874": {
+        "title": [
+            "Race ID",
+            "Driver",
+            "Finish Time",
+            "Position",
+            "Team",
+            "Status",
+            "Date",
+            "Track"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the actual finish time for Bruce McLaren in the race No.743?",
+        "data": [
+            [
+                "742",
+                "Jim Clark",
+                "01:42:15",
+                "3rd",
+                "Lotus-Climax",
+                "Completed",
+                "6/10/1968",
+                "Brands Hatch"
+            ],
+            [
+                "744",
+                "Bruce McLaren",
+                "01:43:02",
+                "5th",
+                "Cooper-Maserati",
+                "Completed",
+                "6/24/1968",
+                "Silverstone"
+            ],
+            [
+                "745",
+                "Dan Gurney",
+                "45:30",
+                "DNF",
+                "Eagle-Weslake",
+                "Mechanical Failure",
+                "7/01/1968",
+                "Spa-Francorchamps"
+            ],
+            [
+                "?",
+                "Bruce McLaren",
+                "N/A",
+                "N/D",
+                "Cooper-Maserati",
+                "Did Not Start",
+                "6/17/1968",
+                "Zandvoort"
+            ],
+            [
+                "743",
+                "Bruce McLaren",
+                "1:38:45",
+                "2nd",
+                "McLaren-Ford",
+                "Finished",
+                "6/18/1968",
+                "Monaco Grand Prix"
+            ]
+        ]
+    }
+}

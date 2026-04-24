@@ -1,0 +1,37 @@
+{
+    "table-280-280": {
+        "title": [
+            "Bond ID",
+            "Label"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Bond Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the label for bond ID TR001_10_11?",
+        "data": [
+            [
+                "TR001_10_01",
+                "Label A"
+            ],
+            [
+                "TR001_10_02",
+                "Label B"
+            ],
+            [
+                "TR001_10_11",
+                "Label C"
+            ],
+            [
+                "TR002_10_01",
+                "Label D"
+            ],
+            [
+                "TR002_10_02",
+                "Label E"
+            ]
+        ]
+    }
+}

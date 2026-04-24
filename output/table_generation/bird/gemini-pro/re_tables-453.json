@@ -1,0 +1,37 @@
+{
+    "table-453-453": {
+        "title": [
+            "Card Name",
+            "Text Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Cards with Text Descriptions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the names of the cards that have a text box.",
+        "data": [
+            [
+                "Ancestral Recall",
+                "Draw three cards."
+            ],
+            [
+                "Lightning Bolt",
+                "Lightning Bolt deals 3 damage to any target."
+            ],
+            [
+                "Dark Ritual",
+                "Add {B}{B}{B} to your mana pool."
+            ],
+            [
+                "Time Walk",
+                "Take an extra turn after this one."
+            ],
+            [
+                "Giant Growth",
+                "Target creature gets +3/+3 until end of turn."
+            ]
+        ]
+    }
+}

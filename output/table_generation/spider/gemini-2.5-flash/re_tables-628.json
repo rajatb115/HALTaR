@@ -1,0 +1,61 @@
+{
+    "table-628-628": {
+        "title": [
+            "Professional Name",
+            "Email",
+            "Cell Phone",
+            "Home Phone"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the email, cell phone and home phone of all the professionals.",
+        "data": [
+            [
+                "Alice Smith",
+                "alice.smith@example.com",
+                "+1-555-123-4567",
+                "+1-555-987-6543"
+            ],
+            [
+                "Bob Johnson",
+                "bob.j@example.org",
+                "+1-555-234-5678",
+                "N/A"
+            ],
+            [
+                "Carol White",
+                "carol.w@example.net",
+                "+1-555-345-6789",
+                "+1-555-876-5432"
+            ],
+            [
+                "David Green",
+                "david.g@example.com",
+                "+1-555-456-7890",
+                "+1-555-765-4321"
+            ],
+            [
+                "Emily Brown",
+                "emily.b@example.org",
+                "+1-555-567-8901",
+                "+1-555-654-3210"
+            ],
+            [
+                "Frank Black",
+                "frank.b@example.net",
+                "+1-555-678-9012",
+                "N/A"
+            ],
+            [
+                "Grace Lee",
+                "grace.l@example.com",
+                "+1-555-789-0123",
+                "+1-555-543-2109"
+            ]
+        ]
+    }
+}

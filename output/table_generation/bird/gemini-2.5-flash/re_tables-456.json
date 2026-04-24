@@ -1,0 +1,69 @@
+{
+    "table-456-456": {
+        "title": [
+            "Card Name",
+            "Promotion Category",
+            "Art Medium",
+            "Features Multiple Faces",
+            "Number of Faces"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which of the cards that are a promotional painting have multiple faces on the same card? Please list their names.",
+        "data": [
+            [
+                "Twin Gaze Oracle",
+                "Launch Event Promo",
+                "Oil Painting",
+                "Yes",
+                "2"
+            ],
+            [
+                "Whispering Council",
+                "Store Championship",
+                "Acrylic Painting",
+                "Yes",
+                "3"
+            ],
+            [
+                "United Front Vanguard",
+                "Pre-Release Kit",
+                "Digital Painting",
+                "No",
+                "1"
+            ],
+            [
+                "Mirrored Reflection",
+                "Convention Exclusive",
+                "Watercolor Painting",
+                "Yes",
+                "2"
+            ],
+            [
+                "Solitary Sentinel",
+                "Magazine Insert",
+                "Ink Drawing",
+                "No",
+                "1"
+            ],
+            [
+                "Ancient Mural Fragment",
+                "Art Book Promo",
+                "Fresco Painting",
+                "Yes",
+                "4"
+            ],
+            [
+                "Hero's Resolve",
+                "Game Day Promo",
+                "Oil Painting",
+                "No",
+                "1"
+            ]
+        ]
+    }
+}

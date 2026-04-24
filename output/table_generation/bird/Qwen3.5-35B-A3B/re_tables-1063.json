@@ -1,0 +1,76 @@
+{
+    "table-1063-1063": {
+        "title": [
+            "Player Name",
+            "Overall Rating",
+            "Season Start",
+            "Season End",
+            "Position",
+            "Club",
+            "Nationality"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which players had an overall rating of over 80 from 2008 to 2010? Please list player names.",
+        "data": [
+            [
+                "Lionel Messi",
+                "86",
+                "07/08",
+                "09/10",
+                "Forward",
+                "Barcelona",
+                "Argentina"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "74",
+                "06/07",
+                "05/11",
+                "Forward",
+                "Manchester United",
+                "Portugal"
+            ],
+            [
+                "Zlatan Ibrahimovi\u0107",
+                "",
+                "04/05",
+                "03/09",
+                "Striker",
+                "Inter Milan",
+                "Sweden"
+            ],
+            [
+                "Xavi Hern\u00e1ndez",
+                "82",
+                "08/09",
+                "",
+                "Midfielder",
+                "Barcelona",
+                "Spain"
+            ],
+            [
+                "Andr\u00e9s Iniesta",
+                "",
+                "",
+                "",
+                "Midfielder",
+                "Barcelona",
+                "Spain"
+            ],
+            [
+                "Sergio Ramos",
+                "",
+                "08/09",
+                "",
+                "Defender",
+                "Real Madrid",
+                "Spain"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-626-626": {
+        "title": [
+            "State",
+            "User Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "User Demographics by Location",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users were from New York?",
+        "data": [
+            [
+                "New York",
+                "1250"
+            ],
+            [
+                "California",
+                "1800"
+            ],
+            [
+                "Texas",
+                "1500"
+            ],
+            [
+                "Florida",
+                "900"
+            ],
+            [
+                "Illinois",
+                "750"
+            ]
+        ]
+    }
+}

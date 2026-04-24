@@ -1,0 +1,85 @@
+{
+    "table-1059-1059": {
+        "title": [
+            "Player Name",
+            "Height_cm",
+            "Weight_kg",
+            "Avg_Finishing_Rate_Percent",
+            "Position",
+            "League",
+            "Season_Year"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who has the highest average finishing rate between the highest and shortest football player?",
+        "data": [
+            [
+                "Lionel Messi",
+                "74",
+                "67",
+                "58.4",
+                "Forward",
+                "La Liga",
+                "98"
+            ],
+            [
+                "Erling Haaland",
+                "88",
+                "45",
+                "32.1",
+                "Striker",
+                "Premier League",
+                "00"
+            ],
+            [
+                "Kylian Mbapp\u00e9",
+                "76",
+                "",
+                "",
+                "Forward",
+                "Ligue 1",
+                ""
+            ],
+            [
+                "Robert Lewandowski",
+                "",
+                "",
+                "",
+                "Center Forward",
+                "Bundesliga",
+                ""
+            ],
+            [
+                "Harry Kane",
+                "",
+                "",
+                "",
+                "Striking Midfielder",
+                "Championship",
+                ""
+            ],
+            [
+                "Mohamed Salah",
+                "",
+                "",
+                "",
+                "Right Winger",
+                "Serie A",
+                ""
+            ],
+            [
+                "Cristiano Ronaldo",
+                "",
+                "",
+                "",
+                "Left Wingback",
+                "Eredivisie",
+                ""
+            ]
+        ]
+    }
+}

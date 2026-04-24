@@ -1,0 +1,47 @@
+{
+    "table-570-570": {
+        "title": [
+            "Student ID",
+            "Number of Friends",
+            "Average Grade"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Student Grade Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average grade of all students who have some friends.",
+        "data": [
+            [
+                "123",
+                "5",
+                "85"
+            ],
+            [
+                "456",
+                "2",
+                "92"
+            ],
+            [
+                "789",
+                "10",
+                "78"
+            ],
+            [
+                "101",
+                "1",
+                "88"
+            ],
+            [
+                "112",
+                "7",
+                "95"
+            ]
+        ]
+    }
+}

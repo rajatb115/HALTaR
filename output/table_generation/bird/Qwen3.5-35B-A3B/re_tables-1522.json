@@ -1,0 +1,77 @@
+{
+    "table-1522-1522": {
+        "title": [
+            "Transaction ID",
+            "Timestamp",
+            "Country Code",
+            "Amount USD",
+            "Status",
+            "Merchant Category"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the transactions happened during 8:00-9:00 in 2012/8/26, how many happened in CZE?",
+        "data": [
+            [
+                "TXN_4401",
+                "2024-08-26T08:15:02Z",
+                "CZE",
+                "1250.00",
+                "Completed",
+                "Retail"
+            ],
+            [
+                "TXN_A7B2",
+                "2204-12-01T09:45:11Z",
+                "DEU",
+                "890.50",
+                "Pending",
+                "Electronics"
+            ],
+            [
+                "2088-03-15T07:30:05Z",
+                "FRA",
+                "2100.75",
+                "Failed",
+                "Travel",
+                ""
+            ],
+            [
+                "-",
+                "---",
+                "-",
+                "",
+                "",
+                ""
+            ],
+            [
+                "$",
+                "TXM_99X1",
+                "19240-05-20T06:01:09Z",
+                "GBR",
+                "45000.",
+                "Cancelled"
+            ],
+            [
+                "$",
+                "TXP_C3D4",
+                "23002-11-10T10:22:33Z",
+                "ESP",
+                "330.25",
+                "Verified"
+            ],
+            [
+                "$$",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

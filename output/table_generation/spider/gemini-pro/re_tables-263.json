@@ -1,0 +1,45 @@
+{
+    "table-263-263": {
+        "title": [
+            "First Name",
+            "Country Code",
+            "Number of Tours"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Player Tour Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name and country code of the player who did the most number of tours.",
+        "data": [
+            [
+                "Rafael",
+                "ESP",
+                "120"
+            ],
+            [
+                "Roger",
+                "SUI",
+                "110"
+            ],
+            [
+                "Novak",
+                "SRB",
+                "100"
+            ],
+            [
+                "Andy",
+                "GBR",
+                "90"
+            ],
+            [
+                "Pete",
+                "USA",
+                "80"
+            ]
+        ]
+    }
+}

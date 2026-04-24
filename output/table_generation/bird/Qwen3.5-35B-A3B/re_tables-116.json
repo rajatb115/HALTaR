@@ -1,0 +1,67 @@
+{
+    "table-116-116": {
+        "title": [
+            "Branch Location",
+            "Region",
+            "Total Inhabitants",
+            "Male Clients Count",
+            "Female Clients Count %",
+            "Percentage of Male Clients",
+            "Data Source Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the branch which located in the south Bohemia with biggest number of inhabitants, what is the percentage of the male clients?",
+        "data": [
+            [
+                "South Bohemia - \u010cesk\u00e9 Bud\u011bjovice",
+                "South Bohemia",
+                "94677",
+                "4820",
+                "51.2%",
+                "32.5%",
+                "Jan 24, 25"
+            ],
+            [
+                "South Moravia - Brno",
+                "South Moravia",
+                "62061",
+                "8900",
+                "N/A",
+                "0.0%",
+                "Feb 10, 12"
+            ],
+            [
+                "Central Bohemia \u2013 Prague Suburbia",
+                "Central Bohemia",
+                "75000",
+                "",
+                "",
+                "",
+                "Mar 05, 09"
+            ],
+            [
+                "Plze\u0148 Region - Plze\u0148",
+                "West Bohemia",
+                "",
+                "",
+                "",
+                "",
+                "Apr 15,"
+            ],
+            [
+                "Liberec Region - Liberec",
+                "North East Czech",
+                "",
+                "",
+                "",
+                "",
+                "May 22, 30"
+            ]
+        ]
+    }
+}

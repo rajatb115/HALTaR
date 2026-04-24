@@ -1,0 +1,77 @@
+{
+    "table-1081-1081": {
+        "title": [
+            "Player Name",
+            "Preferred Foot",
+            "Primary Position",
+            "Attacking Behavior",
+            "Team",
+            "Overall Rating"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the players whose preferred foot was the left foot when attacking, how many of them would remain in his position when the team attacked?",
+        "data": [
+            [
+                "David Alaba",
+                "Left",
+                "CB",
+                "Stays in Position",
+                "Real Madrid",
+                "86"
+            ],
+            [
+                "Bernardo Silva",
+                "Left",
+                "CM",
+                "Roams",
+                "Manchester City",
+                "88"
+            ],
+            [
+                "Paulo Dybala",
+                "Left",
+                "CAM",
+                "Pushes Forward",
+                "AS Roma",
+                "86"
+            ],
+            [
+                "Theo Hern\u00e1ndez",
+                "Left",
+                "LB",
+                "Pushes Forward",
+                "AC Milan",
+                "85"
+            ],
+            [
+                "Rodri",
+                "Right",
+                "CDM",
+                "Stays in Position",
+                "Manchester City",
+                "89"
+            ],
+            [
+                "Antoine Griezmann",
+                "Left",
+                "ST",
+                "Roams",
+                "Atl\u00e9tico Madrid",
+                "87"
+            ],
+            [
+                "Marcelo Brozovi\u0107",
+                "Right",
+                "CDM",
+                "Stays in Position",
+                "Al Nassr",
+                "83"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1209-1209": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Last ALT (GPT) (U/L)",
+            "Normal Range Max (U/L)",
+            "History of Elevated ALT",
+            "Date of Last Elevated Reading"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide IDs for male patients with ALT glutamic pylvic transaminase (GPT) that have history of ALT glutamic pylvic transaminase (GPT) exceed the normal range.",
+        "data": [
+            [
+                "P001",
+                "Male",
+                "65",
+                "50",
+                "Yes",
+                "2023-10-15"
+            ],
+            [
+                "P002",
+                "Male",
+                "45",
+                "50",
+                "Yes",
+                "2022-03-20"
+            ],
+            [
+                "P003",
+                "Male",
+                "80",
+                "50",
+                "Yes",
+                "2024-01-05"
+            ],
+            [
+                "P004",
+                "Male",
+                "52",
+                "50",
+                "Yes",
+                "2023-11-10"
+            ],
+            [
+                "P005",
+                "Male",
+                "38",
+                "50",
+                "Yes",
+                "2023-01-25"
+            ],
+            [
+                "P006",
+                "Male",
+                "70",
+                "50",
+                "Yes",
+                "2024-03-01"
+            ],
+            [
+                "P007",
+                "Male",
+                "49",
+                "50",
+                "Yes",
+                "2022-09-18"
+            ]
+        ]
+    }
+}

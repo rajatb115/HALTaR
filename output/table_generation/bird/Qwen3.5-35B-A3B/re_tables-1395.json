@@ -1,0 +1,76 @@
+{
+    "table-1395-1395": {
+        "title": [
+            "Club_Name",
+            "Major",
+            "Member_Count",
+            "Status",
+            "Enrollment_Year",
+            "Region",
+            "Contact_Email"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many members of the Student_Club have major in 'Physics Teaching'?",
+        "data": [
+            [
+                "Student_Club",
+                "Physics Teaching",
+                "42",
+                "Active",
+                "7/15/2021",
+                "North America",
+                "physics@studentclub.edu"
+            ],
+            [
+                "Science_Alliance",
+                "Physics Education",
+                "38",
+                "Inactive",
+                "6/22/2021",
+                "Europe",
+                "science@example.org"
+            ],
+            [
+                "Future_Educators",
+                "STEM Pedagogy",
+                "55",
+                "Active",
+                "",
+                "Asia",
+                "future@edu.net"
+            ],
+            [
+                "Quantum_Society",
+                "Applied Physics",
+                "0",
+                "Suspended",
+                "9/01/2024",
+                "South America",
+                "quantum@soc.io"
+            ],
+            [
+                "Teaching_Fellows",
+                "Secondary Science",
+                "",
+                "",
+                "",
+                "Africa",
+                "fellows@teach.com"
+            ],
+            [
+                "Research_Groups",
+                "Experimental Phys",
+                "12",
+                "Dormant",
+                "",
+                "Oceania",
+                "research@group.net"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-55-55": {
+        "title": [
+            "Student ID",
+            "Last Name",
+            "First Name",
+            "Pet ID",
+            "Pet Name",
+            "Species",
+            "Owner Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the id of the pet owned by the student whose last name is 'Smith'?",
+        "data": [
+            [
+                "STU_402",
+                "Smith",
+                "John",
+                "PET_7712",
+                "Max",
+                "Dog",
+                "Active"
+            ],
+            [
+                "PET_7654",
+                "Johnson",
+                "Sarah",
+                "N/A",
+                "Bella",
+                "Cat",
+                "Inactive"
+            ],
+            [
+                "PETS_9921",
+                "Williams",
+                "Emily",
+                "Charlie",
+                "Bird",
+                "01/15/2023",
+                "Yes"
+            ],
+            [
+                "S_T_5501234",
+                "Brown",
+                "Michael",
+                "Luna",
+                "Rabbit",
+                "3/10/2224",
+                "No"
+            ],
+            [
+                "STD_88210",
+                "Davis",
+                "Oliver",
+                "Rocky",
+                "Hamster",
+                "5/12/2125",
+                "Pending"
+            ],
+            [
+                "USER_REF_1122",
+                "Miller",
+                "James",
+                "Daisy",
+                "Fish",
+                "7/23/242",
+                ""
+            ]
+        ]
+    }
+}

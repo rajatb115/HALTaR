@@ -1,0 +1,46 @@
+{
+    "table-351-351": {
+        "title": [
+            "Channel Name",
+            "Series Count",
+            "Content Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "TV Channel Series and Content Overview",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different series and contents are listed in the TV Channel table?",
+        "data": [
+            [
+                "Channel A",
+                "15",
+                "120"
+            ],
+            [
+                "Channel B",
+                "8",
+                "85"
+            ],
+            [
+                "Channel C",
+                "22",
+                "210"
+            ],
+            [
+                "Channel D",
+                "10",
+                "95"
+            ],
+            [
+                "Channel E",
+                "18",
+                "150"
+            ]
+        ]
+    }
+}

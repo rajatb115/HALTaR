@@ -1,0 +1,52 @@
+{
+    "table-1294-1294": {
+        "title": [
+            "Patient ID",
+            "ANA Concentration (titer)",
+            "Creatinine Level (mg/dL)",
+            "Result"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Anti-Nuclear Antibody Concentrations vs. Creatinine Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the highest anti-nucleus antibody concentration level of a patient with a normal creatinine level?",
+        "data": [
+            [
+                "1234",
+                "1:80",
+                "0.9",
+                "Positive"
+            ],
+            [
+                "5678",
+                "1:160",
+                "1.0",
+                "Positive"
+            ],
+            [
+                "9012",
+                "1:40",
+                "0.8",
+                "Positive"
+            ],
+            [
+                "3456",
+                "1:320",
+                "0.9",
+                "Positive"
+            ],
+            [
+                "7890",
+                "<1:40",
+                "1.1",
+                "Negative"
+            ]
+        ]
+    }
+}

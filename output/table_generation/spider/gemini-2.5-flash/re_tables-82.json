@@ -1,0 +1,77 @@
+{
+    "table-82-82": {
+        "title": [
+            "Model",
+            "Make",
+            "Year",
+            "MPG (City)",
+            "MPG (Highway)",
+            "MPG (Combined)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which model saves the most gasoline? That is to say, have the maximum miles per gallon.",
+        "data": [
+            [
+                "Prius Prime",
+                "Toyota",
+                "2023",
+                "55",
+                "53",
+                "54"
+            ],
+            [
+                "Elantra Hybrid",
+                "Hyundai",
+                "2024",
+                "53",
+                "56",
+                "54"
+            ],
+            [
+                "Civic Hybrid",
+                "Honda",
+                "2025",
+                "50",
+                "49",
+                "50"
+            ],
+            [
+                "Corolla Hybrid",
+                "Toyota",
+                "2024",
+                "50",
+                "43",
+                "47"
+            ],
+            [
+                "Ioniq Hybrid",
+                "Hyundai",
+                "2022",
+                "58",
+                "60",
+                "59"
+            ],
+            [
+                "Insight",
+                "Honda",
+                "2022",
+                "55",
+                "49",
+                "52"
+            ],
+            [
+                "Camry Hybrid",
+                "Toyota",
+                "2024",
+                "51",
+                "53",
+                "52"
+            ]
+        ]
+    }
+}

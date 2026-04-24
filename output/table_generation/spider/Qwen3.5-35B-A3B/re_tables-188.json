@@ -1,0 +1,77 @@
+{
+    "table-188-188": {
+        "title": [
+            "Document ID",
+            "Template Code",
+            "Template Type",
+            "Status",
+            "Created Date",
+            "Owner"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all document names using templates with template type code BK.",
+        "data": [
+            [
+                "DOC-1042",
+                "BK",
+                "Standard Form",
+                "Active",
+                "06/15/2023",
+                "J. Smith"
+            ],
+            [
+                "DOC_7781",
+                "BK_v2",
+                "Revised Form",
+                "Draft",
+                "08/22/2023",
+                "M. Johnson"
+            ],
+            [
+                "BK_DOC_99",
+                "BK_legacy",
+                "Archive Version",
+                "Archived",
+                "03/10/2021",
+                "System Admin"
+            ],
+            [
+                "FORM-BK-005",
+                "BK_custom",
+                "Custom Layout",
+                "Pending Review",
+                "09/01/2024",
+                "L. Davis"
+            ],
+            [
+                "TEMP_BK_XYZ",
+                "BK_temporary",
+                "Temporary Hold",
+                "Inactive",
+                "N/A",
+                "R. Wilson"
+            ],
+            [
+                "DOCBK_FINAL",
+                "BK_standard",
+                "Final Release",
+                "Published",
+                "05/30/1975",
+                "K. Brown"
+            ],
+            [
+                "BATCH_BK_A1",
+                "Batch_Template",
+                "Bulk Process",
+                "Processing",
+                "04/12/1899",
+                ""
+            ]
+        ]
+    }
+}

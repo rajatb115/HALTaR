@@ -1,0 +1,51 @@
+{
+    "table-963-963": {
+        "title": [
+            "Year",
+            "Birth Year Before 1985",
+            "Lap Number Over 50",
+            "Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Driver Statistics by Lap and Birth Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From 2000 to 2005, what percentage of drivers who were born before 1985 and the lap numbers were over 50?",
+        "data": [
+            [
+                "2000",
+                "Yes",
+                "Yes",
+                "65%"
+            ],
+            [
+                "2001",
+                "Yes",
+                "Yes",
+                "68%"
+            ],
+            [
+                "2002",
+                "Yes",
+                "Yes",
+                "70%"
+            ],
+            [
+                "2003",
+                "Yes",
+                "Yes",
+                "72%"
+            ],
+            [
+                "2004",
+                "Yes",
+                "Yes",
+                "75%"
+            ]
+        ]
+    }
+}

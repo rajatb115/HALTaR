@@ -1,0 +1,46 @@
+{
+    "table-502-502": {
+        "title": [
+            "Country Name",
+            "Independence Year",
+            "Surface Area (km^2)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Country Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the name, independence year, and surface area of the country with the smallest population?",
+        "data": [
+            [
+                "Vatican City",
+                "1929",
+                "0.44"
+            ],
+            [
+                "Nauru",
+                "1968",
+                "21"
+            ],
+            [
+                "Tuvalu",
+                "1978",
+                "26"
+            ],
+            [
+                "San Marino",
+                "1631",
+                "61"
+            ],
+            [
+                "Liechtenstein",
+                "1806",
+                "160"
+            ]
+        ]
+    }
+}

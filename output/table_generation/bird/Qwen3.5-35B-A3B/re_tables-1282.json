@@ -1,0 +1,69 @@
+{
+    "table-1282-1282": {
+        "title": [
+            "Patient ID",
+            "Glutamic Oxaloacetic Transaminase Level",
+            "Abnormal Status",
+            "Date of Birth",
+            "Age at Diagnosis"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients who have an abnormal level of glutamic oxaloacetic transaminase, when was the youngest of them born?",
+        "data": [
+            [
+                "P-4021",
+                "High",
+                "Yes",
+                "06/15/1978",
+                "45 years old"
+            ],
+            [
+                "P-4105",
+                "Normal",
+                "No",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "P-Patient-A",
+                "Elevated",
+                "Yes",
+                "03/22/1895",
+                "128 years old"
+            ],
+            [
+                "Patient-B",
+                "Mildly High",
+                "Yes",
+                "11/05/2010",
+                "3 years old"
+            ],
+            [
+                "Patient-C",
+                "Severe",
+                "Yes",
+                "09/30/1654",
+                "369 years old"
+            ],
+            [
+                "Patient-D",
+                "Borderline",
+                "No",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "Patient-E",
+                "Low",
+                "No",
+                "n/a",
+                "n/a"
+            ]
+        ]
+    }
+}

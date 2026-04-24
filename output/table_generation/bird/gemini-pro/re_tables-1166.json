@@ -1,0 +1,53 @@
+{
+    "table-1166-1166": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "Triglyceride Level (mg/dL)",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Patient Age and Triglyceride Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the age gap between the youngest and oldest patient with a normal triglyceride recorded?",
+        "data": [
+            [
+                "123",
+                "25",
+                "140",
+                "Normal"
+            ],
+            [
+                "456",
+                "60",
+                "130",
+                "Normal"
+            ],
+            [
+                "789",
+                "30",
+                "150",
+                "Normal"
+            ],
+            [
+                "101",
+                "45",
+                "100",
+                "Normal"
+            ],
+            [
+                "202",
+                "35",
+                "120",
+                "Normal"
+            ]
+        ]
+    }
+}

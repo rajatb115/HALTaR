@@ -1,0 +1,49 @@
+{
+    "table-385-385": {
+        "title": [
+            "Channel Name",
+            "Pixel Aspect Ratio",
+            "Country of Origin",
+            "Language"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Non-English TV Channel Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the pixel aspect ratio and country of origin for all TV channels that do not use English?",
+        "data": [
+            [
+                "Canal+",
+                "1.78:1",
+                "France",
+                "French"
+            ],
+            [
+                "ZDF",
+                "1.78:1",
+                "Germany",
+                "German"
+            ],
+            [
+                "NHK",
+                "1.33:1",
+                "Japan",
+                "Japanese"
+            ],
+            [
+                "RAI 1",
+                "1.33:1",
+                "Italy",
+                "Italian"
+            ],
+            [
+                "TVE",
+                "1.78:1",
+                "Spain",
+                "Spanish"
+            ]
+        ]
+    }
+}

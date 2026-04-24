@@ -1,0 +1,62 @@
+{
+    "table-965-965": {
+        "title": [
+            "Driver Code",
+            "Driver Name",
+            "Nationality",
+            "Primary Series",
+            "Team"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the code for drivers who have nationality in America.",
+        "data": [
+            [
+                "DRV001",
+                "Alexander Rossi",
+                "American",
+                "IndyCar",
+                "Arrow McLaren"
+            ],
+            [
+                "DRV002",
+                "Josef Newgarden",
+                "American",
+                "IndyCar",
+                "Team Penske"
+            ],
+            [
+                "DRV003",
+                "Colton Herta",
+                "American",
+                "IndyCar",
+                "Andretti Global"
+            ],
+            [
+                "DRV004",
+                "Kyle Kirkwood",
+                "American",
+                "IndyCar",
+                "Andretti Global"
+            ],
+            [
+                "DRV005",
+                "Graham Rahal",
+                "American",
+                "IndyCar",
+                "Rahal Letterman Lanigan Racing"
+            ],
+            [
+                "DRV006",
+                "Santino Ferrucci",
+                "American",
+                "IndyCar",
+                "AJ Foyt Racing"
+            ]
+        ]
+    }
+}

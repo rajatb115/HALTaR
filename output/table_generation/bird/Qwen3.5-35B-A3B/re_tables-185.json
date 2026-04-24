@@ -1,0 +1,67 @@
+{
+    "table-185-185": {
+        "title": [
+            "Customer ID",
+            "Gender",
+            "Card Tier",
+            "Account Status",
+            "Enrollment Date",
+            "Credit Limit",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female customers have a junior credit card?",
+        "data": [
+            [
+                "CUST_1042",
+                "Female",
+                "Junior",
+                "Active",
+                "06/15/2021",
+                "$2,500",
+                "North America"
+            ],
+            [
+                "CUSTA_2098",
+                "Male",
+                "Senior",
+                "Inactive",
+                "3/22/219",
+                "N/A",
+                "Europe"
+            ],
+            [
+                "CUSF_3371",
+                "Female",
+                "Junior",
+                "Pending",
+                "9/10/23",
+                "$1,550",
+                "Asia Pacific"
+            ],
+            [
+                "CUSS_4412",
+                "Non-Binary",
+                "Standard",
+                "Active",
+                "1/05/197",
+                "$5,000",
+                "South America"
+            ],
+            [
+                "CUSW_5589",
+                "Female",
+                "Junior",
+                "Active",
+                "12/01/24",
+                "$2,050",
+                "North America"
+            ]
+        ]
+    }
+}

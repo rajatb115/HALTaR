@@ -1,0 +1,53 @@
+{
+    "table-508-508": {
+        "title": [
+            "Continent",
+            "Average Life Expectancy (Years)",
+            "Total Population"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average life expectancy and total population for each continent where the average life expectancy is shorter than 72?",
+        "data": [
+            [
+                "Africa",
+                "64",
+                "1,400,000,000"
+            ],
+            [
+                "Southern Asia",
+                "69",
+                "1,900,000,000"
+            ],
+            [
+                "Southeast Asia",
+                "71",
+                "680,000,000"
+            ],
+            [
+                "Oceania",
+                "70",
+                "45,000,000"
+            ],
+            [
+                "South America",
+                "71",
+                "440,000,000"
+            ],
+            [
+                "Central America",
+                "70",
+                "200,000,000"
+            ],
+            [
+                "Eastern Europe",
+                "71",
+                "150,000,000"
+            ]
+        ]
+    }
+}

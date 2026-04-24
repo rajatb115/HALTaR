@@ -1,0 +1,85 @@
+{
+    "table-1407-1407": {
+        "title": [
+            "Category",
+            "Subcategory",
+            "Budgeted Amount",
+            "Currency",
+            "Fiscal Year",
+            "Department",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the budgets for Food, which one has the highest budgeted amount?",
+        "data": [
+            [
+                "Food",
+                "Catering Services",
+                "$45,207",
+                "USD",
+                "6",
+                "Events Team",
+                "Approved"
+            ],
+            [
+                "Food",
+                "Procurement Supplies",
+                "$32,150",
+                "USD",
+                "6",
+                "Operations Dept",
+                "Active"
+            ],
+            [
+                "Food",
+                "Retail Inventory",
+                "$28,900",
+                "USD",
+                "5",
+                "Sales Division",
+                "Pending"
+            ],
+            [
+                "Food",
+                "Maintenance & Cleaning",
+                "$12,450",
+                "USD",
+                "6",
+                "Facilities Mgmt",
+                "Approved"
+            ],
+            [
+                "Food",
+                "Training Materials",
+                "$8,300",
+                "EUR",
+                "6",
+                "HR",
+                "Active"
+            ],
+            [
+                "Food",
+                "Logistics Transport Costs",
+                "$15,600",
+                "GBP",
+                "6",
+                "Supply Chain",
+                "Pending"
+            ],
+            [
+                "Food",
+                "Emergency Reserve Fund",
+                "$50,000",
+                "USD",
+                "5",
+                "Finance Committee",
+                "Draft"
+            ]
+        ]
+    }
+}

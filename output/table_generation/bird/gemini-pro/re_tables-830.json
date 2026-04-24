@@ -1,0 +1,37 @@
+{
+    "table-830-830": {
+        "title": [
+            "Publisher",
+            "Number of Superheroes"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Superhero Count by Publisher",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which publisher created more superheroes: DC or Marvel Comics? Find the difference in the number of superheroes.",
+        "data": [
+            [
+                "DC Comics",
+                "7000+"
+            ],
+            [
+                "Marvel Comics",
+                "5000+"
+            ],
+            [
+                "Image Comics",
+                "1000+"
+            ],
+            [
+                "Dark Horse Comics",
+                "500+"
+            ],
+            [
+                "IDW Publishing",
+                "200+"
+            ]
+        ]
+    }
+}

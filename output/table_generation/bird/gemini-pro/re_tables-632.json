@@ -1,0 +1,39 @@
+{
+    "table-632-632": {
+        "title": [
+            "Author Name",
+            "Number of Posts"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Posts by Author",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts were created by Daniel Vassallo?",
+        "data": [
+            [
+                "Daniel Vassallo",
+                "15"
+            ],
+            [
+                "John Doe",
+                "22"
+            ],
+            [
+                "Jane Smith",
+                "18"
+            ],
+            [
+                "Peter Jones",
+                "12"
+            ],
+            [
+                "Alice Brown",
+                "25"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-198-198": {
+        "title": [
+            "Template Type ID",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Template Type Descriptions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the distinct template type descriptions for the templates ever used by any document?",
+        "data": [
+            [
+                "1",
+                "Report"
+            ],
+            [
+                "2",
+                "Invoice"
+            ],
+            [
+                "3",
+                "Letter"
+            ],
+            [
+                "4",
+                "Memo"
+            ],
+            [
+                "5",
+                "Contract"
+            ]
+        ]
+    }
+}

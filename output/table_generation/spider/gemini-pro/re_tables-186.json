@@ -1,0 +1,39 @@
+{
+    "table-186-186": {
+        "title": [
+            "Document Name",
+            "Template Type Code"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Document Template Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the template type code of the template used by document with the name \"Data base\"?",
+        "data": [
+            [
+                "Data base",
+                "123"
+            ],
+            [
+                "Document A",
+                "456"
+            ],
+            [
+                "Document B",
+                "789"
+            ],
+            [
+                "Document C",
+                "101"
+            ],
+            [
+                "Document D",
+                "112"
+            ]
+        ]
+    }
+}

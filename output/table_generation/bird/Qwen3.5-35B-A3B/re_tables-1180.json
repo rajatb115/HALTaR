@@ -1,0 +1,69 @@
+{
+    "table-1180-1180": {
+        "title": [
+            "Patient ID",
+            "Diagnosis Date",
+            "Test Date",
+            "Antibody Type",
+            "Concentration Status",
+            "Unit"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who was diagnosed with SLE on 1994/2/19, what was his/her anti-Cardiolipin antibody concentration status on 1993/11/12?",
+        "data": [
+            [
+                "P-7742",
+                "02/01/94",
+                "30/10/93",
+                "Anti-CARDIOLIPIN IgG",
+                "Negative",
+                "IU/mL"
+            ],
+            [
+                "P-X991",
+                "06/15/92",
+                "N/A",
+                "ANA Screen",
+                "Positive",
+                "Titer"
+            ],
+            [
+                "M-3321",
+                "N/D",
+                "05/01/88",
+                "Rheumatoid Factor",
+                "Elevated",
+                "U/L"
+            ],
+            [
+                "J-1102",
+                "Jan 10, 1895",
+                "Dec 01, 932",
+                "Complement C3",
+                "Low",
+                "mg/dL"
+            ],
+            [
+                "S-5544",
+                "Nov 11, -10",
+                "Oct 15, 0002024",
+                "dsDNA",
+                "Borderline",
+                "AU/ml"
+            ],
+            [
+                "K-8821",
+                "Mar 14, 333",
+                "Apr 1st, 444",
+                "May 5th, 555",
+                "Jun 6th, June 6",
+                ""
+            ]
+        ]
+    }
+}

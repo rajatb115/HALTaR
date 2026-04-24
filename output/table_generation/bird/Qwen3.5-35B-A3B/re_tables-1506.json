@@ -1,0 +1,85 @@
+{
+    "table-1506-1506": {
+        "title": [
+            "Customer ID",
+            "Currency",
+            "Monthly Consumption",
+            "Status",
+            "Region",
+            "Account Age",
+            "Last Payment Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the customers who paid in euro, how many of them have a monthly consumption of over 1000?",
+        "data": [
+            [
+                "CUST_1042",
+                "EUR",
+                "6750",
+                "Active",
+                "Germany",
+                "3 years",
+                "01/15/2023"
+            ],
+            [
+                "CUS_T_2091",
+                "EUR",
+                "420",
+                "Inactive",
+                "France",
+                "N/A",
+                ""
+            ],
+            [
+                "CUS_T_3305",
+                "EUR",
+                "8900",
+                "Pending",
+                "Spain",
+                "5 months",
+                ""
+            ],
+            [
+                "CUS_E_4412",
+                "EUR",
+                "9500",
+                "Active",
+                "Italy",
+                "7 years",
+                "02/28/2023"
+            ],
+            [
+                "CU_S_5567",
+                "EUR",
+                "-120",
+                "Suspended",
+                "Belgium",
+                "N/A",
+                ""
+            ],
+            [
+                "CS_U_6689",
+                "EUR",
+                "1250",
+                "Active",
+                "Netherlands",
+                "Years",
+                ""
+            ],
+            [
+                "CT_US_7721",
+                "EUR",
+                "1105",
+                "Active",
+                "Austria",
+                "Months",
+                ""
+            ]
+        ]
+    }
+}

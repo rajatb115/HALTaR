@@ -1,0 +1,69 @@
+{
+    "table-535-535": {
+        "title": [
+            "User ID",
+            "Display Name",
+            "Views",
+            "Posts",
+            "Last Active"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the display name of the user who has the most number of views?",
+        "data": [
+            [
+                "1001",
+                "DataExplorer",
+                "152345",
+                "210",
+                "2023-10-26"
+            ],
+            [
+                "1002",
+                "CodeMaster",
+                "87650",
+                "155",
+                "2023-10-25"
+            ],
+            [
+                "1003",
+                "InfoSeeker",
+                "34567",
+                "80",
+                "2023-10-20"
+            ],
+            [
+                "1004",
+                "AnalyticsPro",
+                "110987",
+                "190",
+                "2023-10-27"
+            ],
+            [
+                "1005",
+                "QueryGuru",
+                "56789",
+                "120",
+                "2023-10-24"
+            ],
+            [
+                "1006",
+                "ReportWizard",
+                "78901",
+                "130",
+                "2023-10-23"
+            ],
+            [
+                "1007",
+                "InsightHunter",
+                "99876",
+                "165",
+                "2023-10-26"
+            ]
+        ]
+    }
+}

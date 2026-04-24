@@ -1,0 +1,76 @@
+{
+    "table-148-148": {
+        "title": [
+            "Store ID",
+            "Product Count Min",
+            "Product Max",
+            "Category Focus",
+            "Region",
+            "Last Updated",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the minimum and maximum number of products of all stores.",
+        "data": [
+            [
+                "Store_004",
+                "45",
+                "67",
+                "Electronics",
+                "North",
+                "01/15/2024",
+                "Active"
+            ],
+            [
+                "Store_A12",
+                "32",
+                "",
+                "Clothing",
+                "South",
+                "",
+                "Inactive"
+            ],
+            [
+                "Warehouse_X",
+                "50",
+                "90",
+                "Mixed Goods",
+                "East",
+                "",
+                "Pending"
+            ],
+            [
+                "Outlet_ZZ",
+                "",
+                "N/A",
+                "Home & Garden",
+                "West",
+                "",
+                "Closed"
+            ],
+            [
+                "Hub_Central",
+                "",
+                "",
+                "",
+                "Automotive",
+                "Central",
+                "Audit"
+            ],
+            [
+                "Branch_Delta",
+                "",
+                "",
+                "",
+                "Office Supplies",
+                "North-East",
+                "Reviewing"
+            ]
+        ]
+    }
+}

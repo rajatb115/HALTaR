@@ -1,0 +1,39 @@
+{
+    "table-272-272": {
+        "title": [
+            "Player Name",
+            "Ranking Points"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Player Ranking Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the first names of all players, and their total ranking points?",
+        "data": [
+            [
+                "John",
+                "2500"
+            ],
+            [
+                "Emily",
+                "2300"
+            ],
+            [
+                "David",
+                "2100"
+            ],
+            [
+                "Sarah",
+                "1900"
+            ],
+            [
+                "Michael",
+                "1800"
+            ]
+        ]
+    }
+}

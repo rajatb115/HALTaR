@@ -1,0 +1,57 @@
+{
+    "table-522-522": {
+        "title": [
+            "Card Name",
+            "Artist",
+            "Frame Style",
+            "Legal in Legacy",
+            "Security Notice"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Magic: The Gathering Card Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the cards whose version of frame style is 1997, what is the status of the card illustrated by D. Alexander Gregory in legacy play format that has sensitive content or Wizards of the Coast?",
+        "data": [
+            [
+                "Example 1",
+                "D. Alexander Gregory",
+                "1997",
+                "Legal",
+                "Sensitive Content"
+            ],
+            [
+                "Example 2",
+                "D. Alexander Gregory",
+                "1997",
+                "Banned",
+                "WotC Content"
+            ],
+            [
+                "Example 3",
+                "Other Artist",
+                "2003",
+                "Legal",
+                "None"
+            ],
+            [
+                "Example 4",
+                "D. Alexander Gregory",
+                "1997",
+                "Legal",
+                "None"
+            ],
+            [
+                "Example 5",
+                "Other Artist",
+                "1997",
+                "Banned",
+                "Sensitive Content"
+            ]
+        ]
+    }
+}

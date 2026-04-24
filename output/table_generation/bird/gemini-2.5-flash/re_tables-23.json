@@ -1,0 +1,69 @@
+{
+    "table-23-23": {
+        "title": [
+            "School Name",
+            "City",
+            "School District",
+            "Number of Test Takers",
+            "Data Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which school in Contra Costa has the highest number of test takers?",
+        "data": [
+            [
+                "Dougherty Valley High School",
+                "San Ramon",
+                "San Ramon Valley Unified",
+                "1850",
+                "2023"
+            ],
+            [
+                "California High School",
+                "San Ramon",
+                "San Ramon Valley Unified",
+                "1780",
+                "2023"
+            ],
+            [
+                "San Ramon Valley High School",
+                "Danville",
+                "San Ramon Valley Unified",
+                "1690",
+                "2023"
+            ],
+            [
+                "Clayton Valley Charter High School",
+                "Concord",
+                "Mt. Diablo Unified",
+                "1550",
+                "2023"
+            ],
+            [
+                "Las Lomas High School",
+                "Walnut Creek",
+                "Acalanes Union High",
+                "1420",
+                "2023"
+            ],
+            [
+                "Northgate High School",
+                "Walnut Creek",
+                "Mt. Diablo Unified",
+                "1380",
+                "2023"
+            ],
+            [
+                "Deer Valley High School",
+                "Antioch",
+                "Antioch Unified",
+                "1310",
+                "2023"
+            ]
+        ]
+    }
+}

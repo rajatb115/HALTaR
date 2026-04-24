@@ -1,0 +1,69 @@
+{
+    "table-1442-1442": {
+        "title": [
+            "Member ID",
+            "Member Name",
+            "Member Type",
+            "Major",
+            "College",
+            "Enrollment Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many members have education major in the College of Education & Human Services?",
+        "data": [
+            [
+                "1001",
+                "Alice Smith",
+                "Student",
+                "Education",
+                "College of Education & Human Services",
+                "2022"
+            ],
+            [
+                "1002",
+                "Bob Johnson",
+                "Student",
+                "Education",
+                "College of Education & Human Services",
+                "2021"
+            ],
+            [
+                "1003",
+                "Carol White",
+                "Student",
+                "Human Development",
+                "College of Education & Human Services",
+                "2023"
+            ],
+            [
+                "1004",
+                "David Green",
+                "Student",
+                "Education",
+                "College of Arts & Sciences",
+                "2022"
+            ],
+            [
+                "1005",
+                "Emily Brown",
+                "Faculty",
+                "Education",
+                "College of Education & Human Services",
+                "2018"
+            ],
+            [
+                "1006",
+                "Frank Black",
+                "Student",
+                "Counseling",
+                "College of Education & Human Services",
+                "2020"
+            ]
+        ]
+    }
+}

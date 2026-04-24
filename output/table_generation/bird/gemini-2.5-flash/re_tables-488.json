@@ -1,0 +1,85 @@
+{
+    "table-488-488": {
+        "title": [
+            "Card Name",
+            "Card Type",
+            "Mana Cost",
+            "Rarity",
+            "Power/Toughness",
+            "Impact Score (1-5)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of incredibly powerful cards in the set Coldsnap?",
+        "data": [
+            [
+                "Dark Depths",
+                "Land",
+                "0",
+                "Rare",
+                "N/A",
+                "5"
+            ],
+            [
+                "Counterbalance",
+                "Enchantment",
+                "UU",
+                "Rare",
+                "N/A",
+                "4"
+            ],
+            [
+                "Rite of Flame",
+                "Sorcery",
+                "R",
+                "Common",
+                "N/A",
+                "3"
+            ],
+            [
+                "Jokulmorder",
+                "Creature",
+                "8UU",
+                "Rare",
+                "10/10",
+                "3"
+            ],
+            [
+                "Lightning Storm",
+                "Instant",
+                "1R",
+                "Uncommon",
+                "N/A",
+                "2"
+            ],
+            [
+                "Boreal Druid",
+                "Creature",
+                "G",
+                "Common",
+                "0/1",
+                "2"
+            ],
+            [
+                "Adarkar Valkyrie",
+                "Creature",
+                "4WW",
+                "Rare",
+                "4/5",
+                "3"
+            ],
+            [
+                "Krovikan Mist",
+                "Creature",
+                "1U",
+                "Common",
+                "*/*",
+                "1"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-558-558": {
+        "title": [
+            "Score Threshold",
+            "User Age Group",
+            "Percentage of Posts"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Posts Score and User Age Group",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts with a score of over 20, what is the percentage of them being owned by an elder user?",
+        "data": [
+            [
+                "Over 20",
+                "Elder",
+                "15%"
+            ],
+            [
+                "Over 20",
+                "Non-Elder",
+                "85%"
+            ],
+            [
+                "Total Posts",
+                "All Users",
+                "100%"
+            ],
+            [
+                "All Posts",
+                "Elder",
+                "5%"
+            ],
+            [
+                "All Posts",
+                "Non-Elder",
+                "95%"
+            ]
+        ]
+    }
+}

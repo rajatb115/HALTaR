@@ -1,0 +1,61 @@
+{
+    "table-83-83": {
+        "title": [
+            "School Name",
+            "Longitude",
+            "Latitude",
+            "Grade Span"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the grade span offered in the school with the highest longitude?",
+        "data": [
+            [
+                "Pacific Rim Academy",
+                "175.23",
+                "52.10",
+                "K-8"
+            ],
+            [
+                "Mountain View High",
+                "-122.08",
+                "37.38",
+                "9-12"
+            ],
+            [
+                "Ocean Breeze Elementary",
+                "-74.00",
+                "40.71",
+                "K-5"
+            ],
+            [
+                "Desert Sands Middle",
+                "-112.07",
+                "33.45",
+                "6-8"
+            ],
+            [
+                "Aurora Borealis School",
+                "-149.49",
+                "64.83",
+                "K-12"
+            ],
+            [
+                "Eastern Seaboard Prep",
+                "-71.05",
+                "42.36",
+                "9-12"
+            ],
+            [
+                "Island Discovery School",
+                "171.74",
+                "7.45",
+                "K-6"
+            ]
+        ]
+    }
+}

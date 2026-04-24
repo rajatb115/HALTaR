@@ -1,0 +1,77 @@
+{
+    "table-1194-1194": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Birth Year",
+            "ANA Pattern",
+            "Visit Date",
+            "Clinic Location"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Excluding all P only ANA Pattern patients, how many of the remainder are women born between 1980 and 1989?",
+        "data": [
+            [
+                "P101",
+                "Female",
+                "1985",
+                "Speckled",
+                "2023-01-15",
+                "Main Campus"
+            ],
+            [
+                "P102",
+                "Male",
+                "1982",
+                "Homogeneous",
+                "2023-02-20",
+                "Downtown Clinic"
+            ],
+            [
+                "P103",
+                "Female",
+                "1978",
+                "Nucleolar",
+                "2023-03-10",
+                "Satellite A"
+            ],
+            [
+                "P104",
+                "Female",
+                "1988",
+                "P only",
+                "2023-04-05",
+                "Main Campus"
+            ],
+            [
+                "P105",
+                "Female",
+                "1983",
+                "Centromere",
+                "2023-05-12",
+                "Downtown Clinic"
+            ],
+            [
+                "P106",
+                "Male",
+                "1991",
+                "N/A",
+                "2023-06-18",
+                "Satellite B"
+            ],
+            [
+                "P107",
+                "Female",
+                "1980",
+                "Fine Speckled",
+                "2023-07-25",
+                "Main Campus"
+            ]
+        ]
+    }
+}

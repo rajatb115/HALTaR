@@ -1,0 +1,52 @@
+{
+    "table-170-170": {
+        "title": [
+            "Document ID",
+            "Template ID",
+            "Description",
+            "Document Name"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Document Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the document id, template id and description for document named \"Robbin CV\"?",
+        "data": [
+            [
+                "1234",
+                "5678",
+                "CV",
+                "Robbin CV"
+            ],
+            [
+                "9012",
+                "3456",
+                "Contract",
+                "Example Contract"
+            ],
+            [
+                "7890",
+                "1234",
+                "Invoice",
+                "Sample Invoice"
+            ],
+            [
+                "5432",
+                "9876",
+                "Report",
+                "Monthly Report"
+            ],
+            [
+                "1122",
+                "3344",
+                "Proposal",
+                "Project Proposal"
+            ]
+        ]
+    }
+}

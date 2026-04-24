@@ -1,0 +1,39 @@
+{
+    "table-653-653": {
+        "title": [
+            "Post ID",
+            "Badge Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "User Badges in 2013",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the post IDs and badge names of the user Samuel in 2013.",
+        "data": [
+            [
+                "1234",
+                "Nice Answer"
+            ],
+            [
+                "1245",
+                "Good Answer"
+            ],
+            [
+                "1356",
+                "Teacher"
+            ],
+            [
+                "1467",
+                "Explainer"
+            ],
+            [
+                "1578",
+                "Enthusiast"
+            ]
+        ]
+    }
+}

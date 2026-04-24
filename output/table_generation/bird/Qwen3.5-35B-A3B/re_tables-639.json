@@ -1,0 +1,85 @@
+{
+    "table-639-639": {
+        "title": [
+            "User ID",
+            "Username",
+            "Badge Type",
+            "Award Date",
+            "Event Category",
+            "Status",
+            "Points Earned"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the name of users that obtained the Organizer Badges.",
+        "data": [
+            [
+                "U1042",
+                "Sarah Jenkins",
+                "Organizer",
+                "7/15/2023",
+                "Tech Conference",
+                "Active",
+                "500"
+            ],
+            [
+                "U2091",
+                "Michael Chen",
+                "Organizer Badge",
+                "8/22/2021",
+                "Community Meetup",
+                "Inactive",
+                "450"
+            ],
+            [
+                "B3305",
+                "Elena Rodriguez",
+                "Organizer Gold",
+                "6/10/2023",
+                "Annual Summit",
+                "Active",
+                "750"
+            ],
+            [
+                "D4412",
+                "James Wilson",
+                "Platinum Organizer",
+                "9/05/2022",
+                "Global Forum",
+                "Pending",
+                "900"
+            ],
+            [
+                "F5523",
+                "Priya Patel",
+                "Silver Organizer",
+                "11/12/2021",
+                "Local Workshop",
+                "Active",
+                "300"
+            ],
+            [
+                "G6634",
+                "David Kim",
+                "Bronze Organizer",
+                "3/18/2023",
+                "Startup Pitch Day",
+                "Expired",
+                "150"
+            ],
+            [
+                "H7745",
+                "Amanda Foster",
+                "Diamond Organizer",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

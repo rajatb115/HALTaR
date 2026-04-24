@@ -1,0 +1,49 @@
+{
+    "table-414-414": {
+        "title": [
+            "Card Name",
+            "Rarity",
+            "Ruling Text",
+            "Ruling Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Card Rulings by Date and Rarity",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards with print rarity have ruling text printed on 10/01/2009?",
+        "data": [
+            [
+                "Card A",
+                "Common",
+                "This card can only be activated during your Main Phase.",
+                "2009-10-01"
+            ],
+            [
+                "Card B",
+                "Rare",
+                "You can discard this card to negate the attack of a monster.",
+                "2009-10-01"
+            ],
+            [
+                "Card C",
+                "Ultra Rare",
+                "This card gains 500 ATK for each monster on your opponent's side of the field.",
+                "2009-10-01"
+            ],
+            [
+                "Card D",
+                "Secret Rare",
+                "This card cannot be destroyed by battle.",
+                "2009-10-01"
+            ],
+            [
+                "Card E",
+                "Super Rare",
+                "When this card is Normal Summoned: You can add 1 Spell Card from your Deck to your hand.",
+                "2009-10-01"
+            ]
+        ]
+    }
+}

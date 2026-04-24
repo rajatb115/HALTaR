@@ -1,0 +1,55 @@
+{
+    "table-428-428": {
+        "title": [
+            "Vote Date",
+            "Voter State",
+            "Voter Phone Number",
+            "Contestant Voted For"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the create dates, states, and phone numbers of the votes that were for the contestant named 'Tabatha Gehling'?",
+        "data": [
+            [
+                "2023-10-26",
+                "CA",
+                "(555) 123-4567",
+                "Tabatha Gehling"
+            ],
+            [
+                "2023-10-26",
+                "NY",
+                "(555) 234-5678",
+                "Tabatha Gehling"
+            ],
+            [
+                "2023-10-25",
+                "TX",
+                "(555) 345-6789",
+                "Tabatha Gehling"
+            ],
+            [
+                "2023-10-25",
+                "FL",
+                "(555) 456-7890",
+                "Tabatha Gehling"
+            ],
+            [
+                "2023-10-24",
+                "IL",
+                "(555) 567-8901",
+                "Tabatha Gehling"
+            ],
+            [
+                "2023-10-24",
+                "WA",
+                "(555) 678-9012",
+                "Tabatha Gehling"
+            ]
+        ]
+    }
+}

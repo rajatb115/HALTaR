@@ -1,0 +1,39 @@
+{
+    "table-623-623": {
+        "title": [
+            "Dog Name",
+            "Age (Years)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Dog Age Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Tell me the age of the oldest dog.",
+        "data": [
+            [
+                "Max",
+                "12"
+            ],
+            [
+                "Bella",
+                "8"
+            ],
+            [
+                "Charlie",
+                "10"
+            ],
+            [
+                "Lucy",
+                "14"
+            ],
+            [
+                "Cooper",
+                "7"
+            ]
+        ]
+    }
+}

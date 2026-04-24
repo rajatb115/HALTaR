@@ -1,0 +1,61 @@
+{
+    "table-60-60": {
+        "title": [
+            "Make",
+            "Model",
+            "Year",
+            "Horsepower (HP)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which model of the car has the minimum horsepower?",
+        "data": [
+            [
+                "Smart",
+                "Fortwo Pure",
+                "2015",
+                "70"
+            ],
+            [
+                "Mitsubishi",
+                "Mirage ES",
+                "2023",
+                "78"
+            ],
+            [
+                "Chevrolet",
+                "Spark LS",
+                "2022",
+                "98"
+            ],
+            [
+                "Nissan",
+                "Versa S",
+                "2024",
+                "122"
+            ],
+            [
+                "Honda",
+                "Civic LX",
+                "2023",
+                "158"
+            ],
+            [
+                "Toyota",
+                "Corolla LE",
+                "2024",
+                "169"
+            ],
+            [
+                "Mazda",
+                "Mazda3 2.5 S",
+                "2023",
+                "191"
+            ]
+        ]
+    }
+}

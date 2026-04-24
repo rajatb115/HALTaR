@@ -1,0 +1,45 @@
+{
+    "table-1204-1204": {
+        "title": [
+            "Gender",
+            "WBC Count Below 3.5",
+            "Number of Patients"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Patient White Blood Cell Analysis by Gender",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients who were female got white blood cells that were below 3.5?",
+        "data": [
+            [
+                "Female",
+                "Yes",
+                "15"
+            ],
+            [
+                "Female",
+                "No",
+                "62"
+            ],
+            [
+                "Male",
+                "Yes",
+                "12"
+            ],
+            [
+                "Male",
+                "No",
+                "58"
+            ],
+            [
+                "Unknown",
+                "Yes",
+                "3"
+            ]
+        ]
+    }
+}

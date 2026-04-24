@@ -1,0 +1,37 @@
+{
+    "table-378-378": {
+        "title": [
+            "Card Name",
+            "Subtype"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Cards with \"Summon - Angel\" Type and Non-\"Angel\" Subtype",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards with original type of \"Summon - Angel\" have subtype other than \"Angel\"?",
+        "data": [
+            [
+                "Archangel of Thune",
+                "Angel"
+            ],
+            [
+                "Avacyn, Angel of Hope",
+                "Angel"
+            ],
+            [
+                "Iona, Shield of Emeria",
+                "Angel"
+            ],
+            [
+                "Linvala, Keeper of Silence",
+                "Angel"
+            ],
+            [
+                "Baneslayer Angel",
+                "Angel"
+            ]
+        ]
+    }
+}

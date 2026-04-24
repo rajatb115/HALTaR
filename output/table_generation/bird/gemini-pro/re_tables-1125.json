@@ -1,0 +1,39 @@
+{
+    "table-1125-1125": {
+        "title": [
+            "Player Name",
+            "Number of Attacking Moves"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Players Participating in Attacking Moves",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who are the players that tend to be attacking when their mates were doing attack moves? List down their name.",
+        "data": [
+            [
+                "Lionel Messi",
+                "150"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "145"
+            ],
+            [
+                "Neymar Jr.",
+                "140"
+            ],
+            [
+                "Kylian Mbapp\u00e9",
+                "135"
+            ],
+            [
+                "Mohamed Salah",
+                "130"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-31-31": {
+        "title": [
+            "City",
+            "State",
+            "Total Enrollment (Grades 1-12)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Cities with Lowest Student Enrollment",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which cities have the top 5 lowest enrollment number for students in grades 1 through 12?",
+        "data": [
+            [
+                "Harmony",
+                "ME",
+                "75"
+            ],
+            [
+                "Lost Springs",
+                "WY",
+                "82"
+            ],
+            [
+                "Monowi",
+                "NE",
+                "88"
+            ],
+            [
+                "Centralia",
+                "PA",
+                "91"
+            ],
+            [
+                "Hibberts Gore",
+                "ME",
+                "94"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-154-154": {
+        "title": [
+            "Card Name",
+            "Card Tier",
+            "Eligibility Status",
+            "Max Loan Amount",
+            "Annual Fee"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many 'classic' cards are eligible for loan?",
+        "data": [
+            [
+                "Classic Visa",
+                "Standard",
+                "Eligible",
+                "$5,000",
+                "$50"
+            ],
+            [
+                "Classic Mastercard",
+                "Standard",
+                "Eligible",
+                "$7,500",
+                "$0"
+            ],
+            [
+                "Classic Amex",
+                "Standard",
+                "Not Eligible",
+                "N/A",
+                "$75"
+            ],
+            [
+                "Classic Discover",
+                "Standard",
+                "Eligible",
+                "$4,000",
+                "$25"
+            ],
+            [
+                "Premium Classic Visa",
+                "Enhanced",
+                "Review Required",
+                "$10,000",
+                "$100"
+            ],
+            [
+                "Classic Rewards Mastercard",
+                "Standard",
+                "Eligible",
+                "$6,000",
+                "$0"
+            ],
+            [
+                "Classic Secured Card",
+                "Standard",
+                "Eligible",
+                "$2,000",
+                "$30"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-34-34": {
+        "title": [
+            "School Name",
+            "Website Address",
+            "Free Meal Count",
+            "Student Age Range"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "School Websites with Free Meal Programs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "If there are any, what are the websites address of the schools with a free meal count of 1,900-2,000 to students aged 5-17? Include the name of the school.",
+        "data": [
+            [
+                "School A",
+                "www.schoolA.edu",
+                "1925",
+                "5-17"
+            ],
+            [
+                "School B",
+                "www.schoolB.org",
+                "1980",
+                "5-17"
+            ],
+            [
+                "School C",
+                "www.schoolC.com",
+                "2000",
+                "5-17"
+            ],
+            [
+                "School D",
+                "www.schoolD.net",
+                "1950",
+                "5-17"
+            ],
+            [
+                "School E",
+                "www.schoolE.edu",
+                "1999",
+                "5-17"
+            ]
+        ]
+    }
+}

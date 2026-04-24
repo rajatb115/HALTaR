@@ -1,0 +1,39 @@
+{
+    "table-80-80": {
+        "title": [
+            "County",
+            "Schools Without Physical Building"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "California Schooling Options by County",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Between San Diego and Santa Barbara, which county offers the most number of schools that does not offer physical building? Indicate the amount.",
+        "data": [
+            [
+                "San Diego",
+                "15"
+            ],
+            [
+                "Santa Barbara",
+                "7"
+            ],
+            [
+                "Los Angeles",
+                "22"
+            ],
+            [
+                "Orange",
+                "10"
+            ],
+            [
+                "Riverside",
+                "5"
+            ]
+        ]
+    }
+}

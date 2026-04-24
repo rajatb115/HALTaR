@@ -1,0 +1,69 @@
+{
+    "table-880-880": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Fastest Lap Time",
+            "Grand Prix",
+            "Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the driver who set the fastest lap speed, what is his nationality?",
+        "data": [
+            [
+                "Max Verstappen",
+                "Dutch",
+                "1:21.386",
+                "Spanish Grand Prix",
+                "2023"
+            ],
+            [
+                "Lewis Hamilton",
+                "British",
+                "1:20.509",
+                "British Grand Prix",
+                "2023"
+            ],
+            [
+                "Charles Leclerc",
+                "Mon\u00e9gasque",
+                "1:22.105",
+                "Monaco Grand Prix",
+                "2022"
+            ],
+            [
+                "Sergio P\u00e9rez",
+                "Mexican",
+                "1:30.123",
+                "Saudi Arabian Grand Prix",
+                "2023"
+            ],
+            [
+                "Fernando Alonso",
+                "Spanish",
+                "1:29.876",
+                "Bahrain Grand Prix",
+                "2023"
+            ],
+            [
+                "George Russell",
+                "British",
+                "1:23.456",
+                "Hungarian Grand Prix",
+                "2022"
+            ],
+            [
+                "Valtteri Bottas",
+                "Finnish",
+                "1:24.001",
+                "Emilia Romagna Grand Prix",
+                "2021"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-81-81": {
+        "title": [
+            "School Name",
+            "Latitude",
+            "School Type"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Schools with Highest Latitude",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the school type of the school with the highest latitude? Indicate the name of the school as well as the latitude coordinates.",
+        "data": [
+            [
+                "New Nunavut School",
+                "70.45",
+                "Public"
+            ],
+            [
+                "Old Nunavut School",
+                "69.87",
+                "Private"
+            ],
+            [
+                "Yukon High School",
+                "65.23",
+                "Public"
+            ],
+            [
+                "Northwest Territories School",
+                "64.12",
+                "Public"
+            ],
+            [
+                "Alaska School",
+                "63.56",
+                "Private"
+            ]
+        ]
+    }
+}

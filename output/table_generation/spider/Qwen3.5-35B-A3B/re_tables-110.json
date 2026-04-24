@@ -1,0 +1,76 @@
+{
+    "table-110-110": {
+        "title": [
+            "Airline Name",
+            "IATA Code",
+            "ICAO Code",
+            "Country",
+            "Founded",
+            "Status",
+            "Hub City"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the abbreviation of Airline \"JetBlue Airways\"?",
+        "data": [
+            [
+                "JetBlue Airways",
+                "B6",
+                "JBU",
+                "United States",
+                "9/11/2014",
+                "Active",
+                "New York"
+            ],
+            [
+                "Delta Air Lines",
+                "DL",
+                "DAL",
+                "United States",
+                "7/1/1924",
+                "Active",
+                "Atlanta"
+            ],
+            [
+                "American Airlines",
+                "AA",
+                "AAL",
+                "United States",
+                "3/15/1890",
+                "Active",
+                "Dallas"
+            ],
+            [
+                "United Airlines",
+                "UA",
+                "UAL",
+                "United States",
+                "6/12/1926",
+                "Active",
+                "Chicago"
+            ],
+            [
+                "Southwest Airlines",
+                "WN",
+                "SWA",
+                "United States",
+                "4/10/1967",
+                "Active",
+                "Houston"
+            ],
+            [
+                "Alaska Airlines",
+                "AS",
+                "ASA",
+                "United States",
+                "8/13/1932",
+                "Active",
+                "Seattle"
+            ]
+        ]
+    }
+}

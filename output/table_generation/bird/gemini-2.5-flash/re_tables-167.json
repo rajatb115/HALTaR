@@ -1,0 +1,85 @@
+{
+    "table-167-167": {
+        "title": [
+            "Account ID",
+            "Account Name",
+            "District",
+            "City",
+            "Account Type",
+            "Creation Date",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the accounts are from Jesenik district?",
+        "data": [
+            [
+                "ACC001",
+                "Jesenik Steel Co.",
+                "Jesenik",
+                "Jesenik",
+                "Business",
+                "2018-03-15",
+                "Active"
+            ],
+            [
+                "ACC002",
+                "Olomouc Retail Ltd.",
+                "Olomouc",
+                "Olomouc",
+                "Business",
+                "2020-01-20",
+                "Active"
+            ],
+            [
+                "ACC003",
+                "Mountain View Resort",
+                "Jesenik",
+                "Karlova Stud\u00e1nka",
+                "Hospitality",
+                "2019-07-01",
+                "Active"
+            ],
+            [
+                "ACC004",
+                "Sumperk Logistics",
+                "Sumperk",
+                "Sumperk",
+                "Logistics",
+                "2021-05-10",
+                "Active"
+            ],
+            [
+                "ACC005",
+                "Jesenik Local Council",
+                "Jesenik",
+                "Jesenik",
+                "Government",
+                "2017-11-22",
+                "Active"
+            ],
+            [
+                "ACC006",
+                "Bruntal Agri-Farm",
+                "Bruntal",
+                "Bruntal",
+                "Agriculture",
+                "2022-02-28",
+                "Active"
+            ],
+            [
+                "ACC007",
+                "Olomouc University",
+                "Olomouc",
+                "Olomouc",
+                "Education",
+                "2015-09-01",
+                "Active"
+            ]
+        ]
+    }
+}

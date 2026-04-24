@@ -1,0 +1,49 @@
+{
+    "table-375-375": {
+        "title": [
+            "Title",
+            "Production Code",
+            "Channel",
+            "Air Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Recent Cartoon Productions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the produdction code and channel of the most recent cartoon ?",
+        "data": [
+            [
+                "Cartoon A",
+                "ABC-123",
+                "Network 1",
+                "2024-01-15"
+            ],
+            [
+                "Cartoon B",
+                "DEF-456",
+                "Streaming Service X",
+                "2024-01-22"
+            ],
+            [
+                "Cartoon C",
+                "GHI-789",
+                "Cable Channel Y",
+                "2024-01-29"
+            ],
+            [
+                "Cartoon D",
+                "JKL-012",
+                "Network 2",
+                "2024-02-05"
+            ],
+            [
+                "Cartoon E",
+                "MNO-345",
+                "Streaming Service Z",
+                "2024-02-12"
+            ]
+        ]
+    }
+}

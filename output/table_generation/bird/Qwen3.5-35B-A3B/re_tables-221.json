@@ -1,0 +1,41 @@
+{
+    "table-221-221": {
+        "title": [
+            "Element ID",
+            "Toxicological Category",
+            "Observed Effect",
+            "Severity Level",
+            "Study Reference"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list top three elements of the toxicology of the molecule TR000 in alphabetical order.",
+        "data": [
+            [
+                "ALDOLASE_INHIBITION",
+                "Enzyme Inhibition",
+                "Reduced metabolic clearance",
+                "Moderate",
+                "TOX-TR004-A"
+            ],
+            [
+                "CARDIOTOXICITY",
+                "Organ System Impact",
+                "Arrhythmia induction",
+                "High",
+                "CLINICAL-TR-09"
+            ],
+            [
+                "NEUROTOXIC_EFFECTS",
+                "Nervous System",
+                "Peripheral neuropathy",
+                "Severe",
+                "ANIMAL-STUDY-B7"
+            ]
+        ]
+    }
+}

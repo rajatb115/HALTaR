@@ -1,0 +1,83 @@
+{
+    "table-661-661": {
+        "title": [
+            "Post ID",
+            "Owner User ID",
+            "Content Summary",
+            "Value Score",
+            "Status",
+            "Created At",
+            "Platform",
+            "Category"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the owner user id of the most valuable post?",
+        "data": [
+            [
+                "P_7482",
+                "U_9921",
+                "Rare vintage camera listing",
+                "9850",
+                "Active",
+                "06/15/2023",
+                "Marketplace",
+                "Electronics"
+            ],
+            [
+                "P_A102",
+                "N/A",
+                "Community event announcement",
+                "420",
+                "Archived",
+                "03/10/2022",
+                "Forum",
+                "Events"
+            ],
+            [
+                "B_3391",
+                "U_BobSmith",
+                "High-end gaming laptop review",
+                "8700",
+                "Draft",
+                "07/02/2023",
+                "Blog",
+                "Tech Reviews"
+            ],
+            [
+                "S_5501",
+                "U_SarahJ",
+                "Organic skincare product launch",
+                "6100",
+                "Pending",
+                "05/18/2024",
+                "Social Media",
+                "Beauty"
+            ],
+            [
+                "M_1129",
+                "U_DaveK",
+                "Local farmers market schedule",
+                "320",
+                "Published",
+                "04/01/2023",
+                "News Site",
+                "Agriculture"
+            ],
+            [
+                "T_8821",
+                "U_TechGuru",
+                "AI software development tutorial",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

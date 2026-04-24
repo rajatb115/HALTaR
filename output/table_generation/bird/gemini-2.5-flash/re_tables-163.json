@@ -1,0 +1,69 @@
+{
+    "table-163-163": {
+        "title": [
+            "Client ID",
+            "Client Name",
+            "Region",
+            "Country",
+            "Account Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the region of the client with the id 3541 from?",
+        "data": [
+            [
+                "3539",
+                "Global Tech",
+                "Asia",
+                "India",
+                "Active"
+            ],
+            [
+                "3540",
+                "Innovate Solutions",
+                "North America",
+                "USA",
+                "Active"
+            ],
+            [
+                "3541",
+                "Beta Dynamics",
+                "Europe",
+                "Germany",
+                "Active"
+            ],
+            [
+                "3542",
+                "Zenith Corp",
+                "South America",
+                "Brazil",
+                "Pending"
+            ],
+            [
+                "3543",
+                "Horizon Systems",
+                "Africa",
+                "South Africa",
+                "Active"
+            ],
+            [
+                "3544",
+                "Apex Innovations",
+                "Oceania",
+                "Australia",
+                "Active"
+            ],
+            [
+                "3545",
+                "Quantum Enterprises",
+                "Europe",
+                "UK",
+                "Inactive"
+            ]
+        ]
+    }
+}

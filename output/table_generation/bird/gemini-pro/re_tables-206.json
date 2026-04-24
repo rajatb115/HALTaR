@@ -1,0 +1,51 @@
+{
+    "table-206-206": {
+        "title": [
+            "Molecule ID",
+            "Chemical Formula",
+            "Molecular Weight (g/mol)",
+            "Common Name"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Silicon-Containing Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify by their ID the molecules in which there is silicon.",
+        "data": [
+            [
+                "CID:24418",
+                "SiH4",
+                "32.12",
+                "Silane"
+            ],
+            [
+                "CID:24436",
+                "SiO2",
+                "60.08",
+                "Silicon Dioxide"
+            ],
+            [
+                "CID:6334",
+                "SiC",
+                "40.11",
+                "Silicon Carbide"
+            ],
+            [
+                "CID:14084",
+                "SiCl4",
+                "169.90",
+                "Silicon Tetrachloride"
+            ],
+            [
+                "CID:24432",
+                "Si2H6",
+                "62.23",
+                "Disilane"
+            ]
+        ]
+    }
+}

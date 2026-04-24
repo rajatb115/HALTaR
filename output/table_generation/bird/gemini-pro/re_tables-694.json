@@ -1,0 +1,53 @@
+{
+    "table-694-694": {
+        "title": [
+            "User ID",
+            "Creation Date",
+            "Post Count",
+            "Comment Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2,
+            3
+        ],
+        "pgTitle": "Latest User Activity",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the number of posts and comments left by the user, who has the latest created user account.",
+        "data": [
+            [
+                "123",
+                "2024-01-01",
+                "10",
+                "5"
+            ],
+            [
+                "456",
+                "2024-01-05",
+                "5",
+                "2"
+            ],
+            [
+                "789",
+                "2024-01-10",
+                "2",
+                "1"
+            ],
+            [
+                "101",
+                "2024-01-15",
+                "7",
+                "3"
+            ],
+            [
+                "112",
+                "2024-01-20",
+                "12",
+                "8"
+            ]
+        ]
+    }
+}

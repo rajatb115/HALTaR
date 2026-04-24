@@ -1,0 +1,69 @@
+{
+    "table-1332-1332": {
+        "title": [
+            "Recipient Title",
+            "Recipient Name",
+            "Fund Source",
+            "Amount (USD)",
+            "Year Received"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the amount of the funds that the Vice President received?",
+        "data": [
+            [
+                "Vice President",
+                "John Doe",
+                "Campaign Contribution",
+                "500000",
+                "2020"
+            ],
+            [
+                "Vice President",
+                "Jane Smith",
+                "Policy Initiative Grant",
+                "1200000",
+                "2019"
+            ],
+            [
+                "Vice President",
+                "Robert Johnson",
+                "Special Project Fund",
+                "750000",
+                "2021"
+            ],
+            [
+                "Vice President",
+                "Emily White",
+                "Public Outreach Budget",
+                "300000",
+                "2022"
+            ],
+            [
+                "Vice President",
+                "Michael Brown",
+                "Economic Development Aid",
+                "900000",
+                "2020"
+            ],
+            [
+                "Vice President",
+                "Sarah Green",
+                "Disaster Relief Allocation",
+                "1500000",
+                "2023"
+            ],
+            [
+                "Vice President",
+                "David Lee",
+                "Research & Development Grant",
+                "600000",
+                "2019"
+            ]
+        ]
+    }
+}

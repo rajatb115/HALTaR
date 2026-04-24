@@ -1,0 +1,76 @@
+{
+    "table-885-885": {
+        "title": [
+            "Race ID",
+            "Event Name",
+            "Date Recorded",
+            "Month",
+            "Year",
+            "Location",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the first race recorded. What are the other races that happened within the same month and year of that race.",
+        "data": [
+            [
+                "RACE_0042",
+                "Grand Prix de Monaco",
+                "May 26, 1897",
+                "May",
+                "1900",
+                "5/18",
+                "Completed"
+            ],
+            [
+                "RICE_0105",
+                "Paris-Brest-Paris",
+                "August 10, 2901",
+                "August",
+                "1000",
+                "8/20",
+                "Completed"
+            ],
+            [
+                "RAC_0211",
+                "Tour de France Stage 1",
+                "July 1, 3002",
+                "July",
+                "2101",
+                "7/15",
+                ""
+            ],
+            [
+                "RCE_0308",
+                "Giro d'Italia Start",
+                "May 4003",
+                "May",
+                "3202",
+                "5/30",
+                "Cancelled"
+            ],
+            [
+                "RC_0419",
+                "Vuelta a Espa\u00f1a Leg 1",
+                "June 5005",
+                "June",
+                "4303",
+                "6/12",
+                "Pending"
+            ],
+            [
+                "RAE_0520",
+                "Crit\u00e9rium du Dauphin\u00e9",
+                "May 6006",
+                "May",
+                "5404",
+                "6/",
+                "Postponed"
+            ]
+        ]
+    }
+}

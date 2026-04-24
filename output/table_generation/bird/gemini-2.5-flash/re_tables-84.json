@@ -1,0 +1,77 @@
+{
+    "table-84-84": {
+        "title": [
+            "City",
+            "School Name",
+            "Grade Span Offered",
+            "Offers Magnet Program",
+            "Provision Type",
+            "K-8 Schools in City"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of the schools that offers a magnet program serving a grade span of Kindergarten to 8th grade, how many offers Multiple Provision Types? List the number of cities that offers a Kindergarten to 8th grade span and indicate how many schools are there serving such grade span for each city.",
+        "data": [
+            [
+                "Springfield",
+                "Springfield Elementary",
+                "K-8",
+                "Yes",
+                "Multiple",
+                "3"
+            ],
+            [
+                "Springfield",
+                "Central Academy",
+                "K-8",
+                "Yes",
+                "Single",
+                "3"
+            ],
+            [
+                "Springfield",
+                "Northwood Prep",
+                "K-8",
+                "No",
+                "Single",
+                "3"
+            ],
+            [
+                "Rivertown",
+                "Rivertown K-8 Magnet",
+                "K-8",
+                "Yes",
+                "Multiple",
+                "2"
+            ],
+            [
+                "Rivertown",
+                "Lakeside Charter",
+                "K-8",
+                "No",
+                "Single",
+                "2"
+            ],
+            [
+                "Metroville",
+                "Metroville Arts K-8",
+                "K-8",
+                "Yes",
+                "Multiple",
+                "4"
+            ],
+            [
+                "Metroville",
+                "Tech Innovators K-8",
+                "K-8",
+                "Yes",
+                "Single",
+                "4"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-1299-1299": {
+        "title": [
+            "Patient ID",
+            "Total Cholesterol (mg/dL)",
+            "Cholesterol Range",
+            "ANA Pattern"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients whose total cholesterol is within the normal range, how many of them have a P pattern observed in the sheet of ANA examination?",
+        "data": [
+            [
+                "P001",
+                "185",
+                "Normal",
+                "P"
+            ],
+            [
+                "P002",
+                "192",
+                "Normal",
+                "Homogeneous"
+            ],
+            [
+                "P003",
+                "230",
+                "High",
+                "P"
+            ],
+            [
+                "P004",
+                "178",
+                "Normal",
+                "P"
+            ],
+            [
+                "P005",
+                "199",
+                "Normal",
+                "Speckled"
+            ],
+            [
+                "P006",
+                "215",
+                "High",
+                "Nucleolar"
+            ],
+            [
+                "P007",
+                "188",
+                "Normal",
+                "P"
+            ]
+        ]
+    }
+}

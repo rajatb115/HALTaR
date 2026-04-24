@@ -1,0 +1,46 @@
+{
+    "table-277-277": {
+        "title": [
+            "Molecule Type",
+            "Atom 1 ID",
+            "Atom 2 ID"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Triple Bond Atom IDs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write down the atom IDs of the first and second atoms of triple bond type molecules.",
+        "data": [
+            [
+                "Ethyne",
+                "1",
+                "2"
+            ],
+            [
+                "Propyne",
+                "1",
+                "2"
+            ],
+            [
+                "2-Butyne",
+                "2",
+                "3"
+            ],
+            [
+                "Carbon Dioxide",
+                "1",
+                "2"
+            ],
+            [
+                "Hydrogen Cyanide",
+                "1",
+                "2"
+            ]
+        ]
+    }
+}

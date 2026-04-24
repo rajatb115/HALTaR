@@ -1,0 +1,66 @@
+{
+    "table-1241-1241": {
+        "title": [
+            "Patient ID",
+            "Date of Examination",
+            "Hematocrit Level",
+            "Normal Range Lower Bound",
+            "Normal Range Upper Bound",
+            "Within Normal Range"
+        ],
+        "numCols": 6,
+        "numericColumns": [
+            0,
+            2,
+            3,
+            4
+        ],
+        "pgTitle": "1991 Laboratory Examination Results",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From laboratory examinations in 1991, what is the average hematoclit level that is lower than the normal range.",
+        "data": [
+            [
+                "12345",
+                "1991-03-15",
+                "35",
+                "37",
+                "47",
+                "No"
+            ],
+            [
+                "67890",
+                "1991-05-22",
+                "36",
+                "37",
+                "47",
+                "No"
+            ],
+            [
+                "24680",
+                "1991-07-10",
+                "42",
+                "37",
+                "47",
+                "Yes"
+            ],
+            [
+                "13579",
+                "1991-09-01",
+                "34",
+                "37",
+                "47",
+                "No"
+            ],
+            [
+                "98765",
+                "1991-11-18",
+                "45",
+                "37",
+                "47",
+                "Yes"
+            ]
+        ]
+    }
+}

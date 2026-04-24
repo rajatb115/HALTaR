@@ -1,0 +1,73 @@
+{
+    "table-427-427": {
+        "title": [
+            "Vote ID",
+            "State",
+            "Create Time",
+            "Voter Count",
+            "Status",
+            "Region Code",
+            "Priority Level",
+            "Source System"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the distinct states and create time of all votes?",
+        "data": [
+            [
+                "VOTE_0004",
+                "Active",
+                "06/15/2023 09:30 AM",
+                "452",
+                "Open",
+                "US-EAST-1",
+                "High",
+                "CRM_Main"
+            ],
+            [
+                "VOT_E_0721",
+                "Pending",
+                "6/22/23 at 14:15 UTC",
+                "89",
+                "Draft",
+                "US-WEST-2",
+                "Low",
+                "Legacy_DB"
+            ],
+            [
+                "VTG_1103",
+                "Completed",
+                "7/01/24 11:00 PM",
+                "320",
+                "Closed",
+                "EU-CENTRAL",
+                "Medium",
+                "API_Gateway"
+            ],
+            [
+                "VRB_2298",
+                "Cancelled",
+                "5/10/21 08:45 AM",
+                "N/A",
+                "Rejected",
+                "AP-SOUTH",
+                "Critical",
+                "Mobile_App"
+            ],
+            [
+                "VLK_3345",
+                "Active",
+                "9/30/19 16:20 EST",
+                "12",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

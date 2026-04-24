@@ -1,0 +1,46 @@
+{
+    "table-135-135": {
+        "title": [
+            "Branch Name",
+            "Total Crimes (1996)",
+            "Number of Accounts Opened (1996)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Bank Branch Crime and Account Statistics (1996)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the branch where the largest number of crimes were committed in 1996, how many accounts were opened?",
+        "data": [
+            [
+                "Downtown Branch",
+                "150",
+                "325"
+            ],
+            [
+                "Uptown Branch",
+                "120",
+                "280"
+            ],
+            [
+                "Midtown Branch",
+                "185",
+                "410"
+            ],
+            [
+                "Westside Branch",
+                "95",
+                "210"
+            ],
+            [
+                "Eastside Branch",
+                "130",
+                "300"
+            ]
+        ]
+    }
+}

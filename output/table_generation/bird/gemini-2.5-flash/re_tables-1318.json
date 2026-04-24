@@ -1,0 +1,69 @@
+{
+    "table-1318-1318": {
+        "title": [
+            "Student Name",
+            "Club",
+            "Event Attended",
+            "T-shirt Wanted",
+            "T-shirt Size"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the students from the Student_Club who attended the event \"Women's Soccer\", how many of them want a T-shirt that's in medium size?",
+        "data": [
+            [
+                "Alice Smith",
+                "Student_Club",
+                "Women's Soccer",
+                "Yes",
+                "Medium"
+            ],
+            [
+                "Bob Johnson",
+                "Student_Club",
+                "Women's Soccer",
+                "Yes",
+                "Medium"
+            ],
+            [
+                "Carol White",
+                "Student_Club",
+                "Women's Soccer",
+                "Yes",
+                "Large"
+            ],
+            [
+                "David Green",
+                "Student_Club",
+                "Women's Soccer",
+                "No",
+                "N/A"
+            ],
+            [
+                "Emily Brown",
+                "Student_Club",
+                "Chess Tournament",
+                "Yes",
+                "Small"
+            ],
+            [
+                "Frank Black",
+                "Debate Club",
+                "Women's Soccer",
+                "Yes",
+                "Medium"
+            ],
+            [
+                "Grace Lee",
+                "Student_Club",
+                "Women's Soccer",
+                "Yes",
+                "Medium"
+            ]
+        ]
+    }
+}

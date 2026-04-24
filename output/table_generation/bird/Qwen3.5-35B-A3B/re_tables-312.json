@@ -1,0 +1,69 @@
+{
+    "table-312-312": {
+        "title": [
+            "Molecule ID",
+            "Formula",
+            "Has Sulfur",
+            "Double Bond Count",
+            "Classification"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many molecules without sulphur element is not having double bond?",
+        "data": [
+            [
+                "MOL_004",
+                "C6H14",
+                "No",
+                "0",
+                "Alkane"
+            ],
+            [
+                "mol_772",
+                "CH4O",
+                "No",
+                "-1",
+                "Single Bond Only"
+            ],
+            [
+                "xyl_99",
+                "C8H18",
+                "No",
+                "",
+                "Saturated Hydrocarbon"
+            ],
+            [
+                "hcx_101",
+                "C10H22",
+                "No",
+                "null",
+                "Non-Sulphur Alkane"
+            ],
+            [
+                "rct_205",
+                "C5H12",
+                "False",
+                "None",
+                "Simple Molecule"
+            ],
+            [
+                "int_330",
+                "C7H16",
+                "Absent",
+                "Zero",
+                "Pure Carbon Chain"
+            ],
+            [
+                "min_441",
+                "SiH4",
+                "Missing",
+                "Inactive",
+                "Inorganic Compound"
+            ]
+        ]
+    }
+}

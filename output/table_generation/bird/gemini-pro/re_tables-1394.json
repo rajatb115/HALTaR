@@ -1,0 +1,43 @@
+{
+    "table-1394-1394": {
+        "title": [
+            "Role",
+            "Full Name",
+            "Email Address"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Student Club Contacts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the full name and email address of the Student_Club's Secretary.",
+        "data": [
+            [
+                "President",
+                "Alice Wonderland",
+                "alice.wonderland@email.com"
+            ],
+            [
+                "Secretary",
+                "Bob The Builder",
+                "bob.builder@email.com"
+            ],
+            [
+                "Treasurer",
+                "Charlie Chaplin",
+                "charlie.chaplin@email.com"
+            ],
+            [
+                "Member",
+                "Diana Prince",
+                "diana.prince@email.com"
+            ],
+            [
+                "Member",
+                "Ethan Hunt",
+                "ethan.hunt@email.com"
+            ]
+        ]
+    }
+}

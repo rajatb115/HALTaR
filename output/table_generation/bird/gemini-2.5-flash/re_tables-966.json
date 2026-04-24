@@ -1,0 +1,69 @@
+{
+    "table-966-966": {
+        "title": [
+            "Race ID",
+            "Race Name",
+            "Year",
+            "Location",
+            "Category"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the Id number of races which were hold in 2009.",
+        "data": [
+            [
+                "101",
+                "City Marathon",
+                "2009",
+                "New York",
+                "Marathon"
+            ],
+            [
+                "102",
+                "Desert Dash",
+                "2009",
+                "Sahara",
+                "Ultra-Marathon"
+            ],
+            [
+                "103",
+                "Coastal Triathlon",
+                "2009",
+                "California",
+                "Triathlon"
+            ],
+            [
+                "104",
+                "Mountain Challenge",
+                "2009",
+                "Alps",
+                "Cycling"
+            ],
+            [
+                "105",
+                "Urban Sprint",
+                "2009",
+                "London",
+                "Running"
+            ],
+            [
+                "106",
+                "River Run",
+                "2009",
+                "Amazon",
+                "Trail Run"
+            ],
+            [
+                "107",
+                "Forest Trail Race",
+                "2009",
+                "Black Forest",
+                "Obstacle Race"
+            ]
+        ]
+    }
+}

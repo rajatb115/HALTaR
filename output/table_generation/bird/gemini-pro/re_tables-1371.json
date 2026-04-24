@@ -1,0 +1,57 @@
+{
+    "table-1371-1371": {
+        "title": [
+            "Date",
+            "Description",
+            "Amount (USD)",
+            "Category",
+            "Notes"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Vice President's Expenses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the expenses incurred by the vice president.",
+        "data": [
+            [
+                "2023-01-15",
+                "Travel to Conference",
+                "1200.00",
+                "Travel",
+                "Airfare and Accommodation"
+            ],
+            [
+                "2023-02-20",
+                "Staff Lunch",
+                "75.00",
+                "Meals & Entertainment",
+                "Meeting with Team Leads"
+            ],
+            [
+                "2023-03-01",
+                "Office Supplies",
+                "150.00",
+                "Office Supplies",
+                "Pens, Paper, Folders"
+            ],
+            [
+                "2023-03-10",
+                "Training Workshop",
+                "500.00",
+                "Professional Development",
+                "Leadership Training"
+            ],
+            [
+                "2023-04-05",
+                "Client Dinner",
+                "250.00",
+                "Meals & Entertainment",
+                "Dinner with Key Client"
+            ]
+        ]
+    }
+}

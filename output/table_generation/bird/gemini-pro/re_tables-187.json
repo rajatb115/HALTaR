@@ -1,0 +1,43 @@
+{
+    "table-187-187": {
+        "title": [
+            "Gender",
+            "Statement Frequency",
+            "Percentage"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Client Statement Preferences by Gender",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of male clients request for weekly statements to be issued?",
+        "data": [
+            [
+                "Male",
+                "Weekly",
+                "15%"
+            ],
+            [
+                "Male",
+                "Monthly",
+                "60%"
+            ],
+            [
+                "Male",
+                "Quarterly",
+                "10%"
+            ],
+            [
+                "Male",
+                "Annually",
+                "5%"
+            ],
+            [
+                "Male",
+                "No Statement",
+                "10%"
+            ]
+        ]
+    }
+}

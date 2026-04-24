@@ -1,0 +1,85 @@
+{
+    "table-1-1": {
+        "title": [
+            "School Name",
+            "District",
+            "County",
+            "Academic Year",
+            "School Type",
+            "Total Enrollment",
+            "Free/Reduced Meal Eligibility Rate (%)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the highest eligible free rate for K-12 students in the schools in Alameda County?",
+        "data": [
+            [
+                "Acorn Creek Elementary",
+                "Oakland Unified",
+                "Alameda",
+                "2022-2023",
+                "Elementary",
+                "485",
+                "88"
+            ],
+            [
+                "Golden Gate High School",
+                "Berkeley Unified",
+                "Alameda",
+                "2022-2023",
+                "High School",
+                "1520",
+                "65"
+            ],
+            [
+                "Bayview Middle School",
+                "Hayward Unified",
+                "Alameda",
+                "2022-2023",
+                "Middle School",
+                "710",
+                "91"
+            ],
+            [
+                "Piedmont Hills K-8",
+                "Piedmont Unified",
+                "Alameda",
+                "2022-2023",
+                "K-8",
+                "550",
+                "28"
+            ],
+            [
+                "Eastside Charter High",
+                "Oakland Unified",
+                "Alameda",
+                "2022-2023",
+                "High School",
+                "890",
+                "79"
+            ],
+            [
+                "Willow Creek Elementary",
+                "Fremont Unified",
+                "Alameda",
+                "2022-2023",
+                "Elementary",
+                "620",
+                "52"
+            ],
+            [
+                "Sunset Valley Middle School",
+                "Newark Unified",
+                "Alameda",
+                "2022-2023",
+                "Middle School",
+                "680",
+                "85"
+            ]
+        ]
+    }
+}

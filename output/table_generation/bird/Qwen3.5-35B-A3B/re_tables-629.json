@@ -1,0 +1,85 @@
+{
+    "table-629-629": {
+        "title": [
+            "User_ID",
+            "Username",
+            "Total_Views",
+            "Last_Active_Date",
+            "Account_Status",
+            "Region",
+            "Content_Type"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which users have the highest number of views?",
+        "data": [
+            [
+                "U1042",
+                "sarah_jones",
+                "45230",
+                "6/15/2024",
+                "Active",
+                "North America",
+                "Video"
+            ],
+            [
+                "U2091",
+                "mike_dev",
+                "38750",
+                "N/A",
+                "Inactive",
+                "Europe",
+                "Article"
+            ],
+            [
+                "U3312",
+                "lisa_chen",
+                "52100",
+                "June 14, 2024",
+                "Premium",
+                "Asia Pacific",
+                "Image"
+            ],
+            [
+                "U4405",
+                "alex_smith",
+                "98000",
+                "July 1, 2023",
+                "Standard",
+                "South America",
+                "Blog Post"
+            ],
+            [
+                "U5529",
+                "jordan_kim",
+                "76420",
+                "May 30, 2022",
+                "Trial",
+                "Africa",
+                "Documentary"
+            ],
+            [
+                "U6618",
+                "emma_wilson",
+                "88900",
+                "August 2, 2021",
+                "Pro",
+                "Oceania",
+                "Podcast"
+            ],
+            [
+                "U7733",
+                "david_brown",
+                "0",
+                "January 1, 2015",
+                "Suspended",
+                "Middle East",
+                "None"
+            ]
+        ]
+    }
+}

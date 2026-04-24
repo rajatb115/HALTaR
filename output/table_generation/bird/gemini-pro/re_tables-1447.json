@@ -1,0 +1,35 @@
+{
+    "table-1447-1447": {
+        "title": [
+            "Zip Code Type",
+            "Count",
+            "Percentage"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Zip Code Analysis",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of zip codes that are PO boxes.",
+        "data": [
+            [
+                "PO Box",
+                "1500",
+                "1.5%"
+            ],
+            [
+                "Standard",
+                "98500",
+                "98.5%"
+            ],
+            [
+                "Total",
+                "100000",
+                "100%"
+            ]
+        ]
+    }
+}

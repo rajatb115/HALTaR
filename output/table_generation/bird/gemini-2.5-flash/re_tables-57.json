@@ -1,0 +1,77 @@
+{
+    "table-57-57": {
+        "title": [
+            "School ID",
+            "School Name",
+            "State",
+            "County",
+            "Status",
+            "Type"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of all the schools with a mailing state address in California, how many are active in San Joaquin?",
+        "data": [
+            [
+                "1001",
+                "Delta High School",
+                "CA",
+                "San Joaquin",
+                "Active",
+                "Public"
+            ],
+            [
+                "1002",
+                "Stockton Academy",
+                "CA",
+                "San Joaquin",
+                "Active",
+                "Charter"
+            ],
+            [
+                "1003",
+                "Golden Valley Prep",
+                "CA",
+                "Sacramento",
+                "Active",
+                "Private"
+            ],
+            [
+                "1004",
+                "Lodi Unified School",
+                "CA",
+                "San Joaquin",
+                "Active",
+                "Public"
+            ],
+            [
+                "1005",
+                "Central Valley College",
+                "CA",
+                "Fresno",
+                "Active",
+                "Public"
+            ],
+            [
+                "1006",
+                "San Joaquin Arts",
+                "CA",
+                "San Joaquin",
+                "Inactive",
+                "Private"
+            ],
+            [
+                "1007",
+                "Pacific University",
+                "CA",
+                "San Joaquin",
+                "Active",
+                "Private"
+            ]
+        ]
+    }
+}

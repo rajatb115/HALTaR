@@ -1,0 +1,52 @@
+{
+    "table-1194-1194": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Birth Year",
+            "ANA Pattern"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Patient Demographics and ANA Pattern Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Excluding all P only ANA Pattern patients, how many of the remainder are women born between 1980 and 1989?",
+        "data": [
+            [
+                "12345",
+                "Female",
+                "1985",
+                "Speckled"
+            ],
+            [
+                "67890",
+                "Male",
+                "1975",
+                "Homogeneous"
+            ],
+            [
+                "24680",
+                "Female",
+                "1982",
+                "Nucleolar"
+            ],
+            [
+                "13579",
+                "Male",
+                "1990",
+                "Negative"
+            ],
+            [
+                "11223",
+                "Female",
+                "1988",
+                "Centromere"
+            ]
+        ]
+    }
+}

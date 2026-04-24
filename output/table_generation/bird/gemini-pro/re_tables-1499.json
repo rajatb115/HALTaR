@@ -1,0 +1,39 @@
+{
+    "table-1499-1499": {
+        "title": [
+            "Month",
+            "Consumption"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Monthly Consumption Data in 2012",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the highest monthly consumption in the year 2012?",
+        "data": [
+            [
+                "January",
+                "100"
+            ],
+            [
+                "February",
+                "120"
+            ],
+            [
+                "March",
+                "110"
+            ],
+            [
+                "April",
+                "130"
+            ],
+            [
+                "May",
+                "140"
+            ]
+        ]
+    }
+}

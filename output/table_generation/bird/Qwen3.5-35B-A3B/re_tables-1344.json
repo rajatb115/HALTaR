@@ -1,0 +1,53 @@
+{
+    "table-1344-1344": {
+        "title": [
+            "Category",
+            "Budget Amount",
+            "Remaining Balance",
+            "Project Status",
+            "Department",
+            "Fiscal Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "With the biggest budget for the \"Food\", what was the remaining of it?",
+        "data": [
+            [
+                "Food",
+                "$450,000",
+                "$12,500.00",
+                "Completed",
+                "Operations",
+                ""
+            ],
+            [
+                "Food",
+                "$320,550",
+                "N/A",
+                "Pending",
+                "Logistics",
+                ""
+            ],
+            [
+                "Food Services",
+                "$285,020",
+                "-$5,400",
+                "Overrun",
+                "Procurement",
+                "Q3"
+            ],
+            [
+                "Catering",
+                "$510,900",
+                "$18,20.50",
+                "Active",
+                "Finance",
+                "Q4"
+            ]
+        ]
+    }
+}

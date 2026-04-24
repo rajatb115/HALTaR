@@ -1,0 +1,39 @@
+{
+    "table-537-537": {
+        "title": [
+            "Nationality",
+            "Conductor Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Conductor Nationalities",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of different nationalities of conductors.",
+        "data": [
+            [
+                "American",
+                "15"
+            ],
+            [
+                "British",
+                "12"
+            ],
+            [
+                "German",
+                "10"
+            ],
+            [
+                "French",
+                "8"
+            ],
+            [
+                "Italian",
+                "7"
+            ]
+        ]
+    }
+}

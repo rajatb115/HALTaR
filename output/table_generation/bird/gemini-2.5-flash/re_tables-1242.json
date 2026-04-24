@@ -1,0 +1,61 @@
+{
+    "table-1242-1242": {
+        "title": [
+            "Platelet Abnormality Type",
+            "Number of Patients",
+            "Average Platelet Count (x10^9/L)",
+            "Associated Condition"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patients with abnormal platelet level, state the number of patients with lower than normal range. How is it compare to the number of patients with higher than normal range?",
+        "data": [
+            [
+                "Lower than Normal",
+                "125",
+                "95",
+                "Increased bleeding risk"
+            ],
+            [
+                "Higher than Normal",
+                "80",
+                "620",
+                "Increased clotting risk"
+            ],
+            [
+                "Normal Range",
+                "450",
+                "280",
+                "Healthy"
+            ],
+            [
+                "Mild Thrombocytopenia",
+                "70",
+                "120",
+                "Viral infection"
+            ],
+            [
+                "Severe Thrombocytopenia",
+                "55",
+                "40",
+                "Chemotherapy side effect"
+            ],
+            [
+                "Reactive Thrombocytosis",
+                "45",
+                "580",
+                "Acute inflammation"
+            ],
+            [
+                "Essential Thrombocytosis",
+                "35",
+                "750",
+                "Myeloproliferative neoplasm"
+            ]
+        ]
+    }
+}

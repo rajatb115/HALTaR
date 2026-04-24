@@ -1,0 +1,69 @@
+{
+    "table-641-641": {
+        "title": [
+            "Post ID",
+            "Author",
+            "View Count",
+            "Post Date",
+            "Topic"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the difference in view count from post posted by mornington and view count from posts posted by Amos.",
+        "data": [
+            [
+                "P001",
+                "mornington",
+                "1250",
+                "2023-10-26",
+                "Data Science Trends"
+            ],
+            [
+                "P002",
+                "Amos",
+                "980",
+                "2023-10-25",
+                "AI Ethics"
+            ],
+            [
+                "P003",
+                "mornington",
+                "1520",
+                "2023-10-24",
+                "Cloud Computing Basics"
+            ],
+            [
+                "P004",
+                "Amos",
+                "1100",
+                "2023-10-23",
+                "Machine Learning Algorithms"
+            ],
+            [
+                "P005",
+                "mornington",
+                "890",
+                "2023-10-22",
+                "Database Optimization"
+            ],
+            [
+                "P006",
+                "Amos",
+                "1350",
+                "2023-10-21",
+                "Cybersecurity Best Practices"
+            ],
+            [
+                "P007",
+                "Jane Doe",
+                "750",
+                "2023-10-20",
+                "Software Development"
+            ]
+        ]
+    }
+}

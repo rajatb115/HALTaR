@@ -1,0 +1,69 @@
+{
+    "table-1249-1249": {
+        "title": [
+            "Patient ID",
+            "Date of Birth",
+            "Fibrinogen Level (mg/dL)",
+            "Fibrinogen Status",
+            "Visit Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients born after 1980/1/1 have an abnormal fibrinogen level?",
+        "data": [
+            [
+                "P001",
+                "1985-03-15",
+                "150",
+                "Abnormal",
+                "2023-10-20"
+            ],
+            [
+                "P002",
+                "1992-11-01",
+                "320",
+                "Normal",
+                "2023-10-20"
+            ],
+            [
+                "P003",
+                "1975-06-20",
+                "550",
+                "Abnormal",
+                "2023-10-19"
+            ],
+            [
+                "P004",
+                "1981-01-05",
+                "180",
+                "Abnormal",
+                "2023-10-18"
+            ],
+            [
+                "P005",
+                "1990-07-22",
+                "280",
+                "Normal",
+                "2023-10-18"
+            ],
+            [
+                "P006",
+                "1968-02-10",
+                "350",
+                "Normal",
+                "2023-10-17"
+            ],
+            [
+                "P007",
+                "1995-04-30",
+                "480",
+                "Abnormal",
+                "2023-10-17"
+            ]
+        ]
+    }
+}

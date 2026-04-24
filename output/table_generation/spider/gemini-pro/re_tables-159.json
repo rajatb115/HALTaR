@@ -1,0 +1,39 @@
+{
+    "table-159-159": {
+        "title": [
+            "Shop Name",
+            "Employee Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Shops Without Employees",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which shops run with no employees? Find the shop names",
+        "data": [
+            [
+                "Corner Store",
+                "0"
+            ],
+            [
+                "Online Market",
+                "0"
+            ],
+            [
+                "Quick Stop",
+                "0"
+            ],
+            [
+                "Self-Serve Kiosk",
+                "0"
+            ],
+            [
+                "Automated Vendor",
+                "0"
+            ]
+        ]
+    }
+}

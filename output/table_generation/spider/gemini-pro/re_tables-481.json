@@ -1,0 +1,45 @@
+{
+    "table-481-481": {
+        "title": [
+            "Country",
+            "Official Language",
+            "Population"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Country Demographics by Language",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many people live in countries that do not speak English?",
+        "data": [
+            [
+                "China",
+                "Mandarin Chinese",
+                "1,453,500,000"
+            ],
+            [
+                "India",
+                "Hindi",
+                "1,407,500,000"
+            ],
+            [
+                "Indonesia",
+                "Indonesian",
+                "273,500,000"
+            ],
+            [
+                "Pakistan",
+                "Urdu, English",
+                "231,400,000"
+            ],
+            [
+                "Brazil",
+                "Portuguese",
+                "214,700,000"
+            ]
+        ]
+    }
+}

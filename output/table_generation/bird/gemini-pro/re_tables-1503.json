@@ -1,0 +1,37 @@
+{
+    "table-1503-1503": {
+        "title": [
+            "Chain Name",
+            "Accepts Euro"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Gas Station Chains Accepting Euro",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the chains of the gas stations with transactions in euro.",
+        "data": [
+            [
+                "Shell",
+                "Yes"
+            ],
+            [
+                "BP",
+                "Yes"
+            ],
+            [
+                "TotalEnergies",
+                "Yes"
+            ],
+            [
+                "Aral",
+                "Yes"
+            ],
+            [
+                "Esso",
+                "Yes"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-597-597": {
+        "title": [
+            "Username",
+            "Comments Posted",
+            "Badge"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which users have posted the most comments. List out the user's badge?",
+        "data": [
+            [
+                "DataMaster",
+                "1850",
+                "Gold"
+            ],
+            [
+                "CodeWhisperer",
+                "1520",
+                "Gold"
+            ],
+            [
+                "QueryQueen",
+                "1310",
+                "Silver"
+            ],
+            [
+                "TableTurner",
+                "1105",
+                "Silver"
+            ],
+            [
+                "ChartChaser",
+                "980",
+                "Bronze"
+            ],
+            [
+                "InsightSeeker",
+                "875",
+                "Bronze"
+            ],
+            [
+                "ReportRunner",
+                "750",
+                "Member"
+            ]
+        ]
+    }
+}

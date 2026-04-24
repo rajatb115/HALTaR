@@ -1,0 +1,45 @@
+{
+    "table-281-281": {
+        "title": [
+            "Bond ID",
+            "Molecule Type",
+            "Carcinogenic"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Triple Bond Molecules and Carcinogenicity",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Enumerate the bond ID of triple bond type molecules and tell me if they are carcinogenic or not.",
+        "data": [
+            [
+                "1001",
+                "Acetylene",
+                "Yes"
+            ],
+            [
+                "1002",
+                "Hydrogen Cyanide",
+                "Yes"
+            ],
+            [
+                "1003",
+                "Propyne",
+                "No"
+            ],
+            [
+                "1004",
+                "But-2-yne",
+                "No"
+            ],
+            [
+                "1005",
+                "Carbon Monoxide",
+                "No"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-321-321": {
+        "title": [
+            "First_Name",
+            "Middle_Initial",
+            "Last_Name",
+            "Registration_Date",
+            "Student_ID",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the first, middle, and last name of the first student to register?",
+        "data": [
+            [
+                "John",
+                "Q",
+                "Smith",
+                "04/01/2023",
+                "STU000",
+                "Active"
+            ],
+            [
+                "Sarah",
+                "L",
+                "Johnson",
+                "4/1/1976",
+                "STUA1B",
+                "Inactive"
+            ],
+            [
+                "Michael",
+                "R",
+                "Davis",
+                "3/15/1899",
+                "STUCDE",
+                "Pending"
+            ],
+            [
+                "Emily",
+                "K",
+                "Wilson",
+                "5/22/2100",
+                "STUEFG",
+                "Completed"
+            ],
+            [
+                "David",
+                "P",
+                "Brown",
+                "6/30/1066",
+                "STRHIJ",
+                "Suspended"
+            ],
+            [
+                "Jessica",
+                "M",
+                "Taylor",
+                "7/14/2500",
+                "STRKLM",
+                "Withdrawn"
+            ],
+            [
+                "Robert",
+                "T",
+                "Anderson",
+                "8/05/333",
+                "STRNOP",
+                "Expired"
+            ]
+        ]
+    }
+}

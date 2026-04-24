@@ -1,0 +1,69 @@
+{
+    "table-692-692": {
+        "title": [
+            "User ID",
+            "Username",
+            "Age",
+            "Total Upvotes Cast",
+            "Account Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the number of adult users who have cast over 5000 upvotes.",
+        "data": [
+            [
+                "1001",
+                "JohnDoe",
+                "34",
+                "6200",
+                "Active"
+            ],
+            [
+                "1002",
+                "JaneSmith",
+                "28",
+                "4850",
+                "Active"
+            ],
+            [
+                "1003",
+                "AlexK",
+                "45",
+                "7100",
+                "Active"
+            ],
+            [
+                "1004",
+                "MariaP",
+                "22",
+                "5150",
+                "Active"
+            ],
+            [
+                "1005",
+                "BobT",
+                "17",
+                "5500",
+                "Active"
+            ],
+            [
+                "1006",
+                "ChrisW",
+                "50",
+                "8900",
+                "Active"
+            ],
+            [
+                "1007",
+                "SarahL",
+                "30",
+                "3200",
+                "Inactive"
+            ]
+        ]
+    }
+}

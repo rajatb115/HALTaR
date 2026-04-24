@@ -1,0 +1,58 @@
+{
+    "table-581-581": {
+        "title": [
+            "User ID",
+            "Username",
+            "Badge Name",
+            "Badge ID",
+            "Awarded Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Users with Necromancer Badge",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name 10 users with the badge name 'Necromancer.'",
+        "data": [
+            [
+                "12345",
+                "GraveDigger",
+                "Necromancer",
+                "987",
+                "2023-03-15"
+            ],
+            [
+                "67890",
+                "BoneCollector",
+                "Necromancer",
+                "987",
+                "2023-04-01"
+            ],
+            [
+                "24680",
+                "ShadowMancer",
+                "Necromancer",
+                "987",
+                "2023-05-20"
+            ],
+            [
+                "13579",
+                "SoulReaper",
+                "Necromancer",
+                "987",
+                "2023-06-10"
+            ],
+            [
+                "98765",
+                "DeathWhisper",
+                "Necromancer",
+                "987",
+                "2023-07-04"
+            ]
+        ]
+    }
+}

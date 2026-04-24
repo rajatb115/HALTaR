@@ -1,0 +1,55 @@
+{
+    "table-617-617": {
+        "title": [
+            "Treatment Type",
+            "Date",
+            "Cost ($)",
+            "Patient ID"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show me the cost of the most recently performed treatment.",
+        "data": [
+            [
+                "Dental Cleaning",
+                "2023-01-15",
+                "120.00",
+                "1001"
+            ],
+            [
+                "X-Ray (Chest)",
+                "2023-03-22",
+                "85.00",
+                "1002"
+            ],
+            [
+                "Physical Therapy",
+                "2023-08-10",
+                "150.00",
+                "1003"
+            ],
+            [
+                "Blood Test",
+                "2023-10-28",
+                "60.00",
+                "1005"
+            ],
+            [
+                "Consultation",
+                "2023-11-05",
+                "75.00",
+                "1004"
+            ],
+            [
+                "Vaccination",
+                "2023-09-12",
+                "90.00",
+                "1006"
+            ]
+        ]
+    }
+}

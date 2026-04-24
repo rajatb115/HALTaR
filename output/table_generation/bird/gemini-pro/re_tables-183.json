@@ -1,0 +1,58 @@
+{
+    "table-183-183": {
+        "title": [
+            "Customer ID",
+            "Gender",
+            "Birth Year",
+            "Payment Amount",
+            "Home Payment"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Customer Payment Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male customers who were born between 1974 and 1976 have made a payment on their home in excess of $4000?",
+        "data": [
+            [
+                "12345",
+                "Male",
+                "1975",
+                "$4500",
+                "Yes"
+            ],
+            [
+                "67890",
+                "Male",
+                "1974",
+                "$5200",
+                "Yes"
+            ],
+            [
+                "24680",
+                "Female",
+                "1976",
+                "$3800",
+                "Yes"
+            ],
+            [
+                "13579",
+                "Male",
+                "1976",
+                "$4100",
+                "Yes"
+            ],
+            [
+                "11223",
+                "Female",
+                "1975",
+                "$2900",
+                "No"
+            ]
+        ]
+    }
+}

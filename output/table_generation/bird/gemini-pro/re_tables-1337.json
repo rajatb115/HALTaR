@@ -1,0 +1,43 @@
+{
+    "table-1337-1337": {
+        "title": [
+            "Student Name",
+            "Major",
+            "Department"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Student Majors by Department",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What department offers the major that Pierce and Guidi took?",
+        "data": [
+            [
+                "Pierce",
+                "Psychology",
+                "Behavioral Sciences"
+            ],
+            [
+                "Guidi",
+                "Psychology",
+                "Behavioral Sciences"
+            ],
+            [
+                "Chen",
+                "Biology",
+                "Natural Sciences"
+            ],
+            [
+                "Ramirez",
+                "History",
+                "Humanities"
+            ],
+            [
+                "Ito",
+                "Sociology",
+                "Social Sciences"
+            ]
+        ]
+    }
+}

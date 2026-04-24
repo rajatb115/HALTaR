@@ -1,0 +1,77 @@
+{
+    "table-1416-1416": {
+        "title": [
+            "Member ID",
+            "Full Name",
+            "Position Joined",
+            "Department",
+            "Join Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the position of members who joined major of Business.",
+        "data": [
+            [
+                "M1042",
+                "Sarah Jenkins",
+                "Senior Analyst",
+                "Finance & Strategy",
+                "06/15/2021",
+                "Active"
+            ],
+            [
+                "M1055",
+                "David Chen",
+                "Associate Consultant",
+                "Operations Management",
+                "07/22/2021",
+                "Active"
+            ],
+            [
+                "M0988",
+                "Emily Rodriguez",
+                "Project Coordinator",
+                "Strategic Planning",
+                "",
+                "Pending Review"
+            ],
+            [
+                "M1102",
+                "Michael Thompson",
+                "Data Specialist",
+                "Market Research",
+                "",
+                "Inactive"
+            ],
+            [
+                "M1115",
+                "Jessica Wu",
+                "Team Lead",
+                "Corporate Development",
+                "",
+                "Active"
+            ],
+            [
+                "M1089",
+                "Robert Lee",
+                "Junior Advisor",
+                "Risk Assessment",
+                "-09-01-20",
+                "On Leave"
+            ],
+            [
+                "M1201",
+                "Amanda Foster",
+                "Business Intelligence Intern",
+                "Data Analytics",
+                "",
+                "Probationary"
+            ]
+        ]
+    }
+}

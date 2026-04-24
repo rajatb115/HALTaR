@@ -1,0 +1,76 @@
+{
+    "table-1423-1423": {
+        "title": [
+            "Event ID",
+            "Category",
+            "Date Held",
+            "Location Code",
+            "Organizer",
+            "Status",
+            "Attendance"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the category of events were held at MU 215.",
+        "data": [
+            [
+                "EVT-4012",
+                "Academic Lecture",
+                "06/15/2023",
+                "MU 101A",
+                "Dr. Smith",
+                "Completed",
+                "45"
+            ],
+            [
+                "EVE-4105",
+                "Student Workshop",
+                "07/22/2024",
+                "MU Room C",
+                "Campus Club",
+                "Scheduled",
+                "N/A"
+            ],
+            [
+                "EVV-3398",
+                "Research Seminar",
+                "08/10/2025",
+                "MU Hallway",
+                "Prof. Lee",
+                "Cancelled",
+                "30"
+            ],
+            [
+                "EWK-2211",
+                "Career Fair Prep",
+                "09/05/2012",
+                "Building D",
+                "HR Dept",
+                "Ongoing",
+                "60"
+            ],
+            [
+                "EMT-5544",
+                "Guest Speaker Series",
+                "05/30/2011",
+                "Main Auditorium",
+                "Alumni Assoc",
+                "Upcoming",
+                ""
+            ],
+            [
+                "ECM-6677",
+                "Department Meeting",
+                "",
+                "Conference Rm",
+                "Admin Team",
+                "",
+                ""
+            ]
+        ]
+    }
+}

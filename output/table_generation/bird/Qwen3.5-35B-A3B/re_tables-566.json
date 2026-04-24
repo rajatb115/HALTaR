@@ -1,0 +1,93 @@
+{
+    "table-566-566": {
+        "title": [
+            "Post_ID",
+            "User_No",
+            "Comment_Time",
+            "Date",
+            "Status_Check",
+            "Completion_Level",
+            "Verified_By",
+            "Notes"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "User No.23853 gave a comment to a post at 9:08:18 on 2013/7/12, was that post well-finished?",
+        "data": [
+            [
+                "POST_4421",
+                "98210",
+                "09:15:22",
+                "6/15/2023",
+                "Yes",
+                "Complete",
+                "System_Auto",
+                "Standard review passed"
+            ],
+            [
+                "POST_BB99",
+                "77332",
+                "None",
+                "N/A",
+                "Pending",
+                "Incomplete",
+                "Admin_X",
+                "Missing final section"
+            ],
+            [
+                "POS_TT12",
+                "NULL",
+                "8:45:00",
+                "July 12th",
+                "Reviewing",
+                "Draft",
+                "Editor_Y",
+                "Needs formatting check"
+            ],
+            [
+                "PST_KK88",
+                "55119",
+                "Not Applicable",
+                "June 30th",
+                "Failed",
+                "Partial",
+                "QA_Z",
+                "Content flagged for revision"
+            ],
+            [
+                "POW_MM33",
+                "44008",
+                "Unknown",
+                "May 22nd",
+                "Skipped",
+                "Unverified",
+                "Bot_C",
+                "Automated scan skipped"
+            ],
+            [
+                "PRJ_LL77",
+                "33997",
+                "Midnight",
+                "April 1st",
+                "Approved",
+                "Finalized",
+                "Manager_D",
+                "All criteria met successfully"
+            ],
+            [
+                "DOC_NN22",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

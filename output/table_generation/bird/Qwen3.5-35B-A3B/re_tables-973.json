@@ -1,0 +1,93 @@
+{
+    "table-973-973": {
+        "title": [
+            "Driver ID",
+            "Code",
+            "Birth Year",
+            "Fastest Lap Time",
+            "Race Event",
+            "Team",
+            "Position",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which drivers who were born in 1971 and has the fastest lap time on the race? Give id and code of these drivers.",
+        "data": [
+            [
+                "DRV_4021",
+                "VET",
+                "1971",
+                "01:26.452",
+                "Monaco GP",
+                "Red Bull Racing",
+                "3rd",
+                "Active"
+            ],
+            [
+                "DRV_A109",
+                "HAM",
+                "1983",
+                "99.999",
+                "Silverstone GP",
+                "Mercedes AMG",
+                "5th",
+                "Injured"
+            ],
+            [
+                "DRV_B204",
+                "NOR",
+                "1969",
+                "45.123",
+                "Spa-Francorchamps",
+                "McLaren F1",
+                "N/A",
+                "Retired"
+            ],
+            [
+                "DRV_C305",
+                "VER",
+                "1975",
+                "",
+                "Suzuka Circuit",
+                "Honda Racing",
+                "DNF",
+                "Suspended"
+            ],
+            [
+                "RAC_D406",
+                "ALB",
+                "",
+                "",
+                "Interlagos",
+                "Aston Martin",
+                "DNS",
+                "Medical Leave"
+            ],
+            [
+                "PIL_E507",
+                "RUS",
+                "",
+                "",
+                "Bahrain Grand Prix",
+                "Williams Racing",
+                "P1",
+                "Eligible"
+            ],
+            [
+                "FIA_F608",
+                "BOT",
+                "",
+                "",
+                "Jeddah Corniche",
+                "Alfa Romeo",
+                "P",
+                ""
+            ]
+        ]
+    }
+}

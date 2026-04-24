@@ -1,0 +1,37 @@
+{
+    "table-729-729": {
+        "title": [
+            "Superhero",
+            "Eye Color"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Marvel Superheroes by Eye Color",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the superheroes from Marvel Comics, how many of them have blue eyes?",
+        "data": [
+            [
+                "Captain America",
+                "Blue"
+            ],
+            [
+                "Thor",
+                "Blue"
+            ],
+            [
+                "Jean Grey",
+                "Blue"
+            ],
+            [
+                "Beast",
+                "Blue"
+            ],
+            [
+                "Cyclops",
+                "Brown"
+            ]
+        ]
+    }
+}

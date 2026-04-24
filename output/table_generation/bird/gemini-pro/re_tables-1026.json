@@ -1,0 +1,39 @@
+{
+    "table-1026-1026": {
+        "title": [
+            "League",
+            "Total Goals"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Top Goal-Scoring Leagues in 2016",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which league had the most goals in the 2016 season?",
+        "data": [
+            [
+                "La Liga (Spain)",
+                "1032"
+            ],
+            [
+                "Premier League (England)",
+                "1026"
+            ],
+            [
+                "Bundesliga (Germany)",
+                "866"
+            ],
+            [
+                "Serie A (Italy)",
+                "978"
+            ],
+            [
+                "Ligue 1 (France)",
+                "827"
+            ]
+        ]
+    }
+}

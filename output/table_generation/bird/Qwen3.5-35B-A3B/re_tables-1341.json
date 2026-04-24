@@ -1,0 +1,77 @@
+{
+    "table-1341-1341": {
+        "title": [
+            "Event_ID",
+            "Club_Name",
+            "Year_Total_Spent",
+            "Expense_Category",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the difference of the total amount spent in all events by the Student_Club in year 2019 and 2020.",
+        "data": [
+            [
+                "EVT_2045",
+                "Student_Clubs",
+                "$12,450",
+                "Annual_Conference",
+                "Completed",
+                "Includes venue costs"
+            ],
+            [
+                "EWT_2102",
+                "Student_Gaming",
+                "$8,300",
+                "Tournament_Prizes",
+                "Completed",
+                "Regional qualifiers only"
+            ],
+            [
+                "EVW_3319",
+                "Science_Forum",
+                "$6,750",
+                "Guest_Lectures",
+                "Pending",
+                "Speaker fees pending approval"
+            ],
+            [
+                "EXV_4421",
+                "Arts_Collective",
+                "$9,20",
+                "Art_Materials",
+                "Completed",
+                "Bulk purchase discount applied"
+            ],
+            [
+                "EWX_5532",
+                "Debate_Team",
+                "$4,100",
+                "Travel_Logistics",
+                "Completed",
+                "International trip expenses included"
+            ],
+            [
+                "ETY_6643",
+                "Robotics_Eng",
+                "$7,850",
+                "Machinery_Parts",
+                "In_Progress",
+                "Prototype development phase"
+            ],
+            [
+                "EZU_7754",
+                "Music_Band",
+                "$3,900",
+                "Rental_Audio",
+                "Completed",
+                "Equipment rental for spring concert"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "table-325-325": {
+        "title": [
+            "Student ID",
+            "First Name",
+            "Permanent Address",
+            "Current Address",
+            "Status",
+            "Enrollment Date",
+            "GPA",
+            "Major"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the first name of the student whose permanent address is different from his or her current one?",
+        "data": [
+            [
+                "S1042",
+                "Liam",
+                "742 Maple Ave, Springfield",
+                "89 Oak St, Chicago",
+                "Mismatched",
+                "06/15/2021",
+                "3.8",
+                "Computer Science"
+            ],
+            [
+                "S2105",
+                "Emma",
+                "45 Pine Rd, Austin",
+                "99 Cedar Ln, Dallas",
+                "Matched",
+                "",
+                "",
+                "Biology"
+            ],
+            [
+                "S3319",
+                "Noah",
+                "67 Birch Blvd, Seattle",
+                "55 Elm Dr, Portland",
+                "Matched",
+                "",
+                "",
+                "Engineering"
+            ],
+            [
+                "S4482",
+                "Olivia",
+                "12 Willow Way, Miami",
+                "33 Spruce Ct, Tampa",
+                "Mismatched",
+                "",
+                "",
+                "History"
+            ],
+            [
+                "S5561",
+                "Ava",
+                "#8 Aspen Pl, Denver",
+                "#8 Aspen Pl, Boulder",
+                "Matched",
+                "",
+                "",
+                ""
+            ],
+            [
+                "S6723",
+                "Ethan",
+                "$21 Poplar St, Boston",
+                "$22 Poplar St, Cambridge",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

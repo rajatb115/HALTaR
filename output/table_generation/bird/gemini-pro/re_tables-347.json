@@ -1,0 +1,51 @@
+{
+    "table-347-347": {
+        "title": [
+            "Card ID",
+            "Artist",
+            "Power",
+            "Legality (Commander)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Commander Legal Cards with Unknown Power and Artist Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the card id and artist with unknown power which are legal for commander play format.",
+        "data": [
+            [
+                "12345",
+                "John Avon",
+                "Unknown",
+                "Legal"
+            ],
+            [
+                "67890",
+                "Rebecca Guay",
+                "Unknown",
+                "Legal"
+            ],
+            [
+                "24680",
+                "Terese Nielsen",
+                "Unknown",
+                "Legal"
+            ],
+            [
+                "13579",
+                "Seb McKinnon",
+                "Unknown",
+                "Legal"
+            ],
+            [
+                "98765",
+                "Chris Rahn",
+                "Unknown",
+                "Legal"
+            ]
+        ]
+    }
+}

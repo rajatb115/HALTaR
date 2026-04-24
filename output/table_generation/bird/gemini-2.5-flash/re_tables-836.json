@@ -1,0 +1,61 @@
+{
+    "table-836-836": {
+        "title": [
+            "Superhero Name",
+            "Primary Alignment",
+            "Team Affiliation",
+            "First Appearance Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all superheroes in Marvel Comics, identify the percentage of 'good' superheroes.",
+        "data": [
+            [
+                "Spider-Man",
+                "Good",
+                "Avengers",
+                "1962"
+            ],
+            [
+                "Doctor Doom",
+                "Bad",
+                "Latveria",
+                "1962"
+            ],
+            [
+                "Wolverine",
+                "Anti-Hero",
+                "X-Men",
+                "1974"
+            ],
+            [
+                "Captain America",
+                "Good",
+                "Avengers",
+                "1941"
+            ],
+            [
+                "Magneto",
+                "Anti-Hero",
+                "Brotherhood of Mutants",
+                "1963"
+            ],
+            [
+                "Iron Man",
+                "Good",
+                "Avengers",
+                "1963"
+            ],
+            [
+                "Thanos",
+                "Bad",
+                "Black Order",
+                "1973"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "table-393-393": {
+        "title": [
+            "Card Name",
+            "Rarity",
+            "Ruling Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Uncommon Cards Sorted by Ruling Date",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Pick 3 cards with rarity of uncommon, list down name these cards according to ascending order of it's ruling date.",
+        "data": [
+            [
+                "Card A",
+                "Uncommon",
+                "2022-01-15"
+            ],
+            [
+                "Card B",
+                "Uncommon",
+                "2022-05-20"
+            ],
+            [
+                "Card C",
+                "Uncommon",
+                "2023-03-10"
+            ]
+        ]
+    }
+}

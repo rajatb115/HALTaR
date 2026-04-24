@@ -1,0 +1,46 @@
+{
+    "table-579-579": {
+        "title": [
+            "Dog Name",
+            "Owner ID",
+            "Treatment Cost"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Dogs and Owners with Treatment Costs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the dogs for which the owner has not spend more than 1000 for treatment ?",
+        "data": [
+            [
+                "Buddy",
+                "101",
+                "750"
+            ],
+            [
+                "Bella",
+                "102",
+                "900"
+            ],
+            [
+                "Charlie",
+                "103",
+                "1000"
+            ],
+            [
+                "Lucy",
+                "104",
+                "600"
+            ],
+            [
+                "Max",
+                "105",
+                "800"
+            ]
+        ]
+    }
+}

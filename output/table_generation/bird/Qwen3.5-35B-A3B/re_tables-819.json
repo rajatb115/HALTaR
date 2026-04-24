@@ -1,0 +1,85 @@
+{
+    "table-819-819": {
+        "title": [
+            "Superhero Name",
+            "Alignment",
+            "Gender",
+            "Percentage Contribution",
+            "Origin Universe",
+            "Villain Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the bad superheroes, what is the percentage of female superheroes?",
+        "data": [
+            [
+                "Maleficent",
+                "Bad",
+                "Female",
+                "4.2%",
+                "Disney Multiverse",
+                "Active"
+            ],
+            [
+                "Black Widow",
+                "Neutral-Bad",
+                "Female",
+                "",
+                "Marvel Cinematic",
+                "Defector"
+            ],
+            [
+                "Poison Ivy",
+                "Bad",
+                "Female",
+                "",
+                "DC Comics",
+                "Active"
+            ],
+            [
+                "Catwoman",
+                "Anti-Villain",
+                "Female",
+                "",
+                "DC Comics",
+                "Rogue"
+            ],
+            [
+                "Harley Quinn",
+                "Chaotic Evil",
+                "Female",
+                "",
+                "DC Animated",
+                "Joker's Partner"
+            ],
+            [
+                "Scarlet Witch",
+                "Unstable Good",
+                "Female",
+                "",
+                "Marvel Comics",
+                "Reality Warper"
+            ],
+            [
+                "Magneto",
+                "Pure Evil",
+                "Male",
+                "",
+                "X-Men",
+                "Mutant Leader"
+            ],
+            [
+                "Doctor Doom",
+                "Lawful Evil",
+                "Male",
+                "",
+                "Fantastic Four",
+                "Ruler of Latveria"
+            ]
+        ]
+    }
+}

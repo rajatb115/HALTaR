@@ -1,0 +1,49 @@
+{
+    "table-488-488": {
+        "title": [
+            "Card Name",
+            "Power Level",
+            "Percentage in Set",
+            "Card Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Coldsnap Card Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of incredibly powerful cards in the set Coldsnap?",
+        "data": [
+            [
+                "\u09c0\u09acDark Depths",
+                "Very High",
+                "0.5%",
+                "Land"
+            ],
+            [
+                "Rite of Flame",
+                "Very High",
+                "0.5%",
+                "Sorcery"
+            ],
+            [
+                "Counterbalance",
+                "High",
+                "0.5%",
+                "Enchantment"
+            ],
+            [
+                "Allosaurus Rider",
+                "High",
+                "0.5%",
+                "Creature"
+            ],
+            [
+                "Boreal Druid",
+                "Medium",
+                "0.5%",
+                "Creature"
+            ]
+        ]
+    }
+}

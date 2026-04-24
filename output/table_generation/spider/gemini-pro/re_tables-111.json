@@ -1,0 +1,37 @@
+{
+    "table-111-111": {
+        "title": [
+            "Airline Name",
+            "Abbreviation"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Airline Abbreviations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which abbreviation corresponds to Jetblue Airways?",
+        "data": [
+            [
+                "Jetblue Airways",
+                "JBU"
+            ],
+            [
+                "United Airlines",
+                "UAL"
+            ],
+            [
+                "Delta Air Lines",
+                "DAL"
+            ],
+            [
+                "American Airlines",
+                "AAL"
+            ],
+            [
+                "Southwest Airlines",
+                "WN"
+            ]
+        ]
+    }
+}

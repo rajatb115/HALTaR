@@ -1,0 +1,61 @@
+{
+    "table-38-38": {
+        "title": [
+            "Student Name",
+            "Major",
+            "Age",
+            "Pet Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the major and age of students who do not have a cat pet.",
+        "data": [
+            [
+                "Alice Smith",
+                "Computer Science",
+                "20",
+                "Dog"
+            ],
+            [
+                "Bob Johnson",
+                "Biology",
+                "21",
+                "Fish"
+            ],
+            [
+                "Carol White",
+                "History",
+                "19",
+                "None"
+            ],
+            [
+                "David Green",
+                "Engineering",
+                "22",
+                "Hamster"
+            ],
+            [
+                "Emily Brown",
+                "Psychology",
+                "20",
+                "Bird"
+            ],
+            [
+                "Frank Black",
+                "Art",
+                "23",
+                "None"
+            ],
+            [
+                "Grace Lee",
+                "Business",
+                "21",
+                "Dog"
+            ]
+        ]
+    }
+}

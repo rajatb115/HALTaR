@@ -1,0 +1,53 @@
+{
+    "table-289-289": {
+        "title": [
+            "Molecule ID",
+            "Atom Symbol",
+            "Is Carcinogenic",
+            "Source Database",
+            "Last Verified",
+            "Risk Level"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify whether the molecule that contains atom TR001_1 is carcinogenic.",
+        "data": [
+            [
+                "MOL_TR0042",
+                "TR0067",
+                "Yes",
+                "PubChem",
+                "2023-11-15",
+                "High"
+            ],
+            [
+                "MOL_TR109",
+                "TR011",
+                "No",
+                "ChEMBL",
+                "2023-01-01",
+                "Medium"
+            ],
+            [
+                "MOL_AZ8821",
+                "TR9901",
+                "Unknown",
+                "DrugBank",
+                "",
+                "Low"
+            ],
+            [
+                "MOL_BETA",
+                "TR022",
+                "Yes",
+                "ToxBase",
+                "2020-2024",
+                "High"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-272-272": {
+        "title": [
+            "Bond ID",
+            "Element Detected",
+            "Presence Status",
+            "Confidence Score",
+            "Analysis Date",
+            "Analyst Notes"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Does bond id TR001_1_8 have both element of chlorine and carbon?",
+        "data": [
+            [
+                "TR004_2_7",
+                "Chlorine",
+                "Present",
+                "0.98",
+                "Verified in sample batch",
+                "Carbon also detected"
+            ],
+            [
+                "TR992_A_B",
+                "Carbon",
+                "Absent",
+                "96%",
+                "N/A",
+                "Sample purity confirmed"
+            ],
+            [
+                "TXZ_101_X",
+                "Chloride Ion",
+                "Partial",
+                "88%",
+                "Pending re-test",
+                "Trace amounts found"
+            ],
+            [
+                "C-H-BOND-012",
+                "Hydrogen",
+                "Present - High",
+                "4.2 ppm",
+                "Standard protocol",
+                "Primary solvent component"
+            ],
+            [
+                "NaCl-SYNTH-05",
+                "Sodium",
+                "Not Found",
+                "<0.01%",
+                "Quality control check",
+                "Pure chloride form only"
+            ],
+            [
+                "CO2-MIX-VAR",
+                "Oxygen",
+                "Co-detected",
+                "Yes",
+                "Gas chromatography",
+                "Linked to carbon source"
+            ],
+            [
+                "Unknown-ID-X",
+                "Unknown Element",
+                "Inconclusive",
+                "N/D",
+                "Instrument error",
+                "Requires manual review"
+            ]
+        ]
+    }
+}

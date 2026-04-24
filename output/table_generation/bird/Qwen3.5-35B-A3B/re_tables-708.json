@@ -1,0 +1,69 @@
+{
+    "table-708-708": {
+        "title": [
+            "Post ID",
+            "View Count",
+            "Comment Score",
+            "Top Commenter",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts with views ranging from 100 to 150, what is the comment with the highest score?",
+        "data": [
+            [
+                "P-4012",
+                "76",
+                "N/A",
+                "Inactive",
+                "Archived"
+            ],
+            [
+                "P-4105",
+                "92",
+                "-12 (Lowest)",
+                "User_99",
+                "Deleted"
+            ],
+            [
+                "P-4201",
+                "104",
+                "+89 (Highest)",
+                "Expert_Mike",
+                "Active"
+            ],
+            [
+                "Post-4201",
+                "118",
+                "+45",
+                "Newbie_Joe",
+                "Active"
+            ],
+            [
+                "Post-P-4309",
+                "132",
+                "+33",
+                "Regular_Sam",
+                "Pending"
+            ],
+            [
+                "P-A-4400",
+                "149",
+                "+28",
+                "Guest_User",
+                "Archived"
+            ],
+            [
+                "Q-B-4501",
+                "-15",
+                "N/A",
+                "Unknown",
+                "Error"
+            ]
+        ]
+    }
+}

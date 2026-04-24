@@ -1,0 +1,93 @@
+{
+    "table-312-312": {
+        "title": [
+            "Semester_Name",
+            "Status",
+            "Enrolled_Students",
+            "Last_Activity_Date",
+            "Department_Code",
+            "Course_Count",
+            "Instructor_Assigned",
+            "Notes"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which semesters do not have any student enrolled? List the semester name.",
+        "data": [
+            [
+                "Fall 24",
+                "Open",
+                "N/A",
+                "N/D",
+                "CS",
+                "0",
+                "No",
+                "Empty enrollment"
+            ],
+            [
+                "Spring 25",
+                "Cancelled",
+                "42",
+                "9/1/2024 - Pending Review",
+                "MATH",
+                "3",
+                "Yes",
+                "Low registration"
+            ],
+            [
+                "Summer 26",
+                "Closed",
+                "89",
+                "7/15/24 Finalized",
+                "ENG",
+                "5",
+                "Yes",
+                "Full capacity"
+            ],
+            [
+                "Winter 27",
+                "On Hold",
+                "67",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Fall 28",
+                "Active",
+                "N/A",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Spring 29",
+                "Draft",
+                "0",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Summer 30",
+                "Planned",
+                "None",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

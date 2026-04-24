@@ -1,0 +1,83 @@
+{
+    "table-610-610": {
+        "title": [
+            "Professional ID",
+            "Full Name",
+            "Role",
+            "Treatment Performed",
+            "Dog Breed Treated",
+            "Date of Service",
+            "Total Sessions",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many professionals have performed any treatment to dogs?",
+        "data": [
+            [
+                "PROF_0042",
+                "Sarah Jenkins",
+                "Veterinarian",
+                "Dental Cleaning",
+                "Golden Retriever",
+                "06/15/2023",
+                "3",
+                "Completed"
+            ],
+            [
+                "PROC_0118",
+                "Michael Chen",
+                "Veterinary Technician",
+                "Wound Dressing",
+                "German Shepherd",
+                "07/22/2023",
+                "5",
+                "In Progress"
+            ],
+            [
+                "VET_0993",
+                "Emily Ross",
+                "General Practitioner",
+                "Vaccination",
+                "Labrador Mix",
+                "08/01/2024",
+                "4",
+                "Completed"
+            ],
+            [
+                "TRT_0221",
+                "David Kim",
+                "Behaviorist",
+                "Anxiety Therapy",
+                "Border Collie",
+                "09/10/2025",
+                "6",
+                "Scheduled"
+            ],
+            [
+                "MED_0445",
+                "Lisa Wong",
+                "Surgeon",
+                "Spay Surgery",
+                "Poodle",
+                "10/05/2019",
+                "1",
+                "Completed"
+            ],
+            [
+                "CARE_0772",
+                "James O'Neil",
+                "Groomer",
+                "Nail Trimming & Bath",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

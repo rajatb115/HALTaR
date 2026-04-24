@@ -1,0 +1,45 @@
+{
+    "table-531-531": {
+        "title": [
+            "Orchestra",
+            "Record Company",
+            "Founded (Year)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Orchestras and Their Record Labels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the record companies of orchestras, sorted descending by the years in which they were founded.",
+        "data": [
+            [
+                "Vienna Philharmonic",
+                "Deutsche Grammophon",
+                "1842"
+            ],
+            [
+                "New York Philharmonic",
+                "Deutsche Grammophon",
+                "1842"
+            ],
+            [
+                "Boston Symphony Orchestra",
+                "BMG/RCA Victor Red Seal",
+                "1881"
+            ],
+            [
+                "Royal Concertgebouw Orchestra",
+                "Decca",
+                "1888"
+            ],
+            [
+                "Chicago Symphony Orchestra",
+                "RCA Victor",
+                "1891"
+            ]
+        ]
+    }
+}

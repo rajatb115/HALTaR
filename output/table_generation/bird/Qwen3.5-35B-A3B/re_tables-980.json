@@ -1,0 +1,77 @@
+{
+    "table-980-980": {
+        "title": [
+            "Race Number",
+            "Event Category",
+            "Total Finishers",
+            "Status",
+            "Date",
+            "Location"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What race number has the most finishers?",
+        "data": [
+            [
+                "402",
+                "Marathon",
+                "3,450",
+                "Completed",
+                "06/15/2023",
+                "Boston"
+            ],
+            [
+                "415",
+                "Half-Marathon",
+                "4,120",
+                "Cancelled",
+                "N/A",
+                "Chicago"
+            ],
+            [
+                "427",
+                "Ultra-Distance",
+                "890",
+                "In Progress",
+                "Ongoing",
+                "Denver"
+            ],
+            [
+                "301",
+                "Sprint Series",
+                "5,203",
+                "Completed",
+                "05/01/2023",
+                "New York City"
+            ],
+            [
+                "550",
+                "Trail Run",
+                "675",
+                "Postponed",
+                "TBA",
+                "Seattle"
+            ],
+            [
+                "112",
+                "Relay Team",
+                "980",
+                "Pending Results",
+                "TBD",
+                "Austin"
+            ],
+            [
+                "228",
+                "Charity Walk",
+                "7,100",
+                "Scheduled",
+                "07/22/2024",
+                "Miami Beach"
+            ]
+        ]
+    }
+}

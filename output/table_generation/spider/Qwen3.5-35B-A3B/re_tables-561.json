@@ -1,0 +1,62 @@
+{
+    "table-561-561": {
+        "title": [
+            "Friend_Name",
+            "Relationship_Type",
+            "School_Grade",
+            "Known_Age",
+            "Last_Contact_Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of friends of the high school student Kyle.",
+        "data": [
+            [
+                "Stan Marsh",
+                "Best Friend",
+                "Junior",
+                "47",
+                "6/15/2023"
+            ],
+            [
+                "Kenny McCormick",
+                "Classmate",
+                "Senior",
+                "N/A",
+                "5/30/2023"
+            ],
+            [
+                "Butters Stotch",
+                "Neighbor",
+                "Sophomore",
+                "32",
+                "7/1/2024"
+            ],
+            [
+                "Cartman Eric",
+                "Rival/Friend",
+                "Freshman",
+                "89",
+                "9/10/2019"
+            ],
+            [
+                "Token Black",
+                "Acquaintance",
+                "Junior",
+                "12",
+                "N/A"
+            ],
+            [
+                "Jimmy Valmer",
+                "Band Member",
+                "Graduate",
+                "0",
+                ""
+            ]
+        ]
+    }
+}

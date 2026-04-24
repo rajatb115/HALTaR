@@ -1,0 +1,45 @@
+{
+    "table-207-207": {
+        "title": [
+            "Document Name",
+            "Paragraph Number",
+            "Paragraph Text"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Paragraph Texts from Documents",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the paragraph texts for the document with the name 'Customer reviews'?",
+        "data": [
+            [
+                "Customer Reviews",
+                "1",
+                "This document analyzes customer reviews for our product."
+            ],
+            [
+                "Customer Reviews",
+                "2",
+                "We collected reviews from various online platforms."
+            ],
+            [
+                "Customer Reviews",
+                "3",
+                "Overall, customers seem satisfied with the product's performance."
+            ],
+            [
+                "Customer Reviews",
+                "4",
+                "However, some users reported issues with the product's durability."
+            ],
+            [
+                "Customer Reviews",
+                "5",
+                "We are working on addressing these concerns in future versions."
+            ]
+        ]
+    }
+}

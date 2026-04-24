@@ -1,0 +1,39 @@
+{
+    "table-158-158": {
+        "title": [
+            "Shop Name",
+            "Number of Employees"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Shops Without Employees",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name of the shops that do not hire any employee.",
+        "data": [
+            [
+                "Shop A",
+                "0"
+            ],
+            [
+                "Shop B",
+                "3"
+            ],
+            [
+                "Shop C",
+                "0"
+            ],
+            [
+                "Shop D",
+                "5"
+            ],
+            [
+                "Shop E",
+                "0"
+            ]
+        ]
+    }
+}

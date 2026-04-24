@@ -1,0 +1,55 @@
+{
+    "table-382-382": {
+        "title": [
+            "Series Name",
+            "Country",
+            "Director",
+            "Channel Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the series name and country of the tv channel that is playing some cartoons directed by Ben Jones and Michael Chang?",
+        "data": [
+            [
+                "The Adventures of Zog",
+                "United Kingdom",
+                "Ben Jones",
+                "Active"
+            ],
+            [
+                "Cosmic Pals",
+                "Canada",
+                "Michael Chang",
+                "Active"
+            ],
+            [
+                "Neon City Kids",
+                "Australia",
+                "Ben Jones",
+                "Pending"
+            ],
+            [
+                "Space Cadets",
+                "New Zealand",
+                "Michael Chang",
+                "Archived"
+            ],
+            [
+                "Robot Rascals",
+                "Ireland",
+                "Ben Jones",
+                "Discontinued"
+            ],
+            [
+                "Starlight Squad",
+                "South Korea",
+                "Michael Chang",
+                "Rebooting"
+            ]
+        ]
+    }
+}

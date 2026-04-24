@@ -1,0 +1,48 @@
+{
+    "table-1235-1235": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Birthday"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the patient ID, sex and birthday who has abnormal white blood cell count. Group them by sex and list the patient by age in ascending order.",
+        "data": [
+            [
+                "P103",
+                "Female",
+                "2000-08-12"
+            ],
+            [
+                "P107",
+                "Female",
+                "1995-04-20"
+            ],
+            [
+                "P101",
+                "Female",
+                "1988-01-05"
+            ],
+            [
+                "P105",
+                "Male",
+                "2002-11-11"
+            ],
+            [
+                "P102",
+                "Male",
+                "1993-06-18"
+            ],
+            [
+                "P106",
+                "Male",
+                "1980-02-29"
+            ]
+        ]
+    }
+}

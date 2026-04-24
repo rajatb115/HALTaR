@@ -1,0 +1,69 @@
+{
+    "table-125-125": {
+        "title": [
+            "Loan_ID",
+            "District",
+            "Average_Salary",
+            "Duration_Months",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the loan ID, district and average salary for loan with duration of 60 months.",
+        "data": [
+            [
+                "LND_4002",
+                "Prague_Center",
+                "75000",
+                "6",
+                "Active"
+            ],
+            [
+                "LNE_8821",
+                "Brno_North",
+                "52030",
+                "-60",
+                "Approved"
+            ],
+            [
+                "LOA_1193",
+                "Ostrava_East",
+                "48900",
+                "-60",
+                "Pending"
+            ],
+            [
+                "LMK_3342",
+                "Plzen_West",
+                "81205",
+                "60",
+                "Completed"
+            ],
+            [
+                "LPQ_5501",
+                "Liberec_Central",
+                "3950",
+                "N/A",
+                "Rejected"
+            ],
+            [
+                "LRV_7729",
+                "Hradec_Kralove",
+                "92100",
+                "-60",
+                "Active"
+            ],
+            [
+                "LSW_9912",
+                "Usti_nad_Labem",
+                "",
+                "6",
+                "Cancelled"
+            ]
+        ]
+    }
+}

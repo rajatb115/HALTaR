@@ -1,0 +1,43 @@
+{
+    "table-1361-1361": {
+        "title": [
+            "Budget Item",
+            "Budget Amount",
+            "Percentage of Total Budget"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "November Speaker Budget Breakdown",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage was the budget for Parking to the total budget for the \"November Speaker\"?",
+        "data": [
+            [
+                "Speaker Fee",
+                "$5,000",
+                "62.5%"
+            ],
+            [
+                "Venue Rental",
+                "$2,000",
+                "25.0%"
+            ],
+            [
+                "Marketing",
+                "$500",
+                "6.25%"
+            ],
+            [
+                "Parking",
+                "$500",
+                "6.25%"
+            ],
+            [
+                "Miscellaneous",
+                "$0",
+                "0.0%"
+            ]
+        ]
+    }
+}

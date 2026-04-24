@@ -1,0 +1,45 @@
+{
+    "table-1312-1312": {
+        "title": [
+            "Thrombosis Severity",
+            "Prothrombin Time Result",
+            "Number of Patients"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Thrombosis and Prothrombin Time",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with severe thrombosis have a normal prothrombin time?",
+        "data": [
+            [
+                "Severe",
+                "Normal",
+                "15"
+            ],
+            [
+                "Severe",
+                "Prolonged",
+                "85"
+            ],
+            [
+                "Moderate",
+                "Normal",
+                "40"
+            ],
+            [
+                "Moderate",
+                "Prolonged",
+                "60"
+            ],
+            [
+                "Mild",
+                "Normal",
+                "70"
+            ]
+        ]
+    }
+}

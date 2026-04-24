@@ -1,0 +1,73 @@
+{
+    "table-804-804": {
+        "title": [
+            "Power ID",
+            "Ability Name",
+            "Element",
+            "Rank Level",
+            "Status",
+            "User Count",
+            "Origin Source",
+            "Last Updated"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the power ID of cryokinesis?",
+        "data": [
+            [
+                "PK-742",
+                "Cryokinesis",
+                "Ice",
+                "S-Tier",
+                "Active",
+                "45",
+                "Genetic Mutation",
+                "06/15/2023"
+            ],
+            [
+                "PK-739",
+                "Pyrokinesis",
+                "Fire",
+                "S+ Tier",
+                "Inactive",
+                "32",
+                "Ancient Artifact",
+                "05/01/2022"
+            ],
+            [
+                "PK-A11",
+                "Hydrokinesis",
+                "Water",
+                "A-Tier",
+                "Active",
+                "120",
+                "Natural Evolution",
+                "01/10/2024"
+            ],
+            [
+                "PK-B05",
+                "Terrakinesis",
+                "Earth",
+                "D-Rank",
+                "Dormant",
+                "8",
+                "Unknown Relic",
+                "11/30/2019"
+            ],
+            [
+                "PK-C99",
+                "Electrokinesis",
+                "Lightning",
+                "C-Tier",
+                "Suspended",
+                "67",
+                "Experimental Lab",
+                "03/21/2009"
+            ]
+        ]
+    }
+}

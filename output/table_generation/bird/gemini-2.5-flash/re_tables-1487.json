@@ -1,0 +1,69 @@
+{
+    "table-1487-1487": {
+        "title": [
+            "Country",
+            "Primary Operating Currency",
+            "SMEs Primarily Using Currency (Thousands)",
+            "Avg. Annual Payment Value (M EUR)",
+            "Data Source Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Is it true that more SMEs pay in Czech koruna than in euros? If so, how many more?",
+        "data": [
+            [
+                "Czech Republic",
+                "CZK",
+                "450",
+                "1200",
+                "2023"
+            ],
+            [
+                "Germany",
+                "EUR",
+                "2800",
+                "8500",
+                "2023"
+            ],
+            [
+                "France",
+                "EUR",
+                "2500",
+                "7800",
+                "2023"
+            ],
+            [
+                "Slovakia",
+                "EUR",
+                "220",
+                "600",
+                "2023"
+            ],
+            [
+                "Poland",
+                "PLN",
+                "1500",
+                "3500",
+                "2023"
+            ],
+            [
+                "Austria",
+                "EUR",
+                "380",
+                "1100",
+                "2023"
+            ],
+            [
+                "Hungary",
+                "HUF",
+                "600",
+                "1500",
+                "2023"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-1125-1125": {
+        "title": [
+            "Player_Name",
+            "Team_Opponent",
+            "Attack_Moves_Count",
+            "Defensive_Returns",
+            "Success_Rate_Percent",
+            "Match_Date",
+            "Position"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who are the players that tend to be attacking when their mates were doing attack moves? List down their name.",
+        "data": [
+            [
+                "Marcus Silva",
+                "FC United",
+                "42",
+                "8",
+                "76.5%",
+                "04/12/2023",
+                "Forward"
+            ],
+            [
+                "Elena Rodriguez",
+                "City Stars",
+                "38",
+                "None",
+                "N/A",
+                "05/13/2023",
+                ""
+            ],
+            [
+                "James O'Connor",
+                "Athletic West",
+                "65",
+                "9",
+                "82.1%",
+                "June 1, 2023",
+                ""
+            ],
+            [
+                "Sofia Chen",
+                "Metro Reds",
+                "51",
+                "N/A",
+                "78.9%",
+                "June 10, 2023",
+                ""
+            ],
+            [
+                "David Kim",
+                "Northside FC",
+                "44",
+                "12",
+                "80.0%",
+                "June 15, 2024",
+                ""
+            ],
+            [
+                "Lucas Brown",
+                "East Enders",
+                "39",
+                "5",
+                "79.5%",
+                "July 2, 2025",
+                ""
+            ],
+            [
+                "Anna Kowalski",
+                "South Bay Utd",
+                "60",
+                "None",
+                "N/A",
+                "",
+                ""
+            ]
+        ]
+    }
+}

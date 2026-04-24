@@ -1,0 +1,76 @@
+{
+    "table-567-567": {
+        "title": [
+            "Post ID",
+            "Owner Username",
+            "Reputation Points",
+            "Account Status",
+            "Join Date",
+            "Last Active",
+            "Badges Earned"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the owner user of post No. 65041, what is his/her reputation points?",
+        "data": [
+            [
+                "64998",
+                "tech_guru_99",
+                "4520",
+                "Verified",
+                "07/12/2018",
+                "Today",
+                "Expert, Scholar"
+            ],
+            [
+                "65041",
+                "data_wizard_x",
+                "3850",
+                "Active",
+                "09/15/2019",
+                "Yesterday",
+                "Guru, Civic Duty"
+            ],
+            [
+                "65102",
+                "code_ninja_01",
+                "12050",
+                "Verified",
+                "Jan 22, 2017",
+                "Now",
+                "Legendary, Teacher"
+            ],
+            [
+                "64887",
+                "query_master",
+                "890",
+                "Pending",
+                "Nov 30, 1999",
+                "N/A",
+                "Student"
+            ],
+            [
+                "65005",
+                "sys_admin_z",
+                "6700",
+                "Suspended",
+                "Mar 10, 2020",
+                "Offline",
+                "Moderator"
+            ],
+            [
+                "65042",
+                "help_desk_y",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

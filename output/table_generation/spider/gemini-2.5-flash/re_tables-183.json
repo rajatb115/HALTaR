@@ -1,0 +1,45 @@
+{
+    "table-183-183": {
+        "title": [
+            "Version Number",
+            "Template Type Code"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the version numbers and template type codes of templates with a version number greater than 5.",
+        "data": [
+            [
+                "6",
+                "EMAIL"
+            ],
+            [
+                "7",
+                "SMS"
+            ],
+            [
+                "8",
+                "WEB"
+            ],
+            [
+                "6",
+                "PDF"
+            ],
+            [
+                "9",
+                "DOC"
+            ],
+            [
+                "10",
+                "EMAIL"
+            ],
+            [
+                "7",
+                "WEB"
+            ]
+        ]
+    }
+}

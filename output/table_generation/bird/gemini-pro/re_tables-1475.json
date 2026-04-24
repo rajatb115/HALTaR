@@ -1,0 +1,53 @@
+{
+    "table-1475-1475": {
+        "title": [
+            "Customer ID",
+            "Consumption (m3)",
+            "Payment Currency",
+            "Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            3
+        ],
+        "pgTitle": "Top Gas Consumers Paying in CZK in 2011",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which customers, paying in CZK, consumed the most gas in 2011?",
+        "data": [
+            [
+                "12345",
+                "1500",
+                "CZK",
+                "2011"
+            ],
+            [
+                "67890",
+                "1450",
+                "CZK",
+                "2011"
+            ],
+            [
+                "24680",
+                "1400",
+                "CZK",
+                "2011"
+            ],
+            [
+                "13579",
+                "1350",
+                "CZK",
+                "2011"
+            ],
+            [
+                "98765",
+                "1300",
+                "CZK",
+                "2011"
+            ]
+        ]
+    }
+}

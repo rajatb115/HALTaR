@@ -1,0 +1,39 @@
+{
+    "table-1422-1422": {
+        "title": [
+            "Member ID",
+            "Major"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Mathematics Majors Membership",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of members who are major Mathematics in the list?",
+        "data": [
+            [
+                "1",
+                "Mathematics"
+            ],
+            [
+                "2",
+                "Physics"
+            ],
+            [
+                "3",
+                "Mathematics"
+            ],
+            [
+                "4",
+                "Chemistry"
+            ],
+            [
+                "5",
+                "Mathematics"
+            ]
+        ]
+    }
+}

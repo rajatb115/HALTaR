@@ -1,0 +1,51 @@
+{
+    "table-243-243": {
+        "title": [
+            "Molecule Name",
+            "CAS Number",
+            "Atomic Number",
+            "Carcinogenicity"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Carcinogenic Molecules with Atomic Numbers 21-25",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all the atoms from 21 to 25, list all the molecules that are carcinogenic.",
+        "data": [
+            [
+                "Vanadium pentoxide",
+                "1314-62-1",
+                "23",
+                "Probable human carcinogen"
+            ],
+            [
+                "Titanium dioxide",
+                "13463-67-7",
+                "22",
+                "Possible human carcinogen"
+            ],
+            [
+                "Chromium(VI) compounds",
+                "Varies",
+                "24",
+                "Known human carcinogen"
+            ],
+            [
+                "Manganese oxide",
+                "1344-43-0",
+                "25",
+                "Possible human carcinogen"
+            ],
+            [
+                "Scandium(III) chloride",
+                "10367-48-5",
+                "21",
+                "No data"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-320-320": {
+        "title": [
+            "First_Name",
+            "Middle_Name",
+            "Last_Name",
+            "Registration_Date",
+            "Student_ID",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the first student to register? List the first name, middle name and last name.",
+        "data": [
+            [
+                "John",
+                "Michael",
+                "Smith",
+                "04/01/2024",
+                "STU00098765",
+                "Active"
+            ],
+            [
+                "Sarah",
+                "Elizabeth",
+                "Johnson",
+                "4/1/1923",
+                "STJ00234567",
+                "Inactive"
+            ],
+            [
+                "Michael",
+                "James",
+                "Williams",
+                "3/15/1899",
+                "MWI00341231",
+                "Deceased"
+            ],
+            [
+                "Emily",
+                "Rose",
+                "Brown",
+                "5/22/1776",
+                "EBR00451298",
+                "Historical Record"
+            ],
+            [
+                "David",
+                "Alan",
+                "Davis",
+                "6/10/1654",
+                "DDA00562309",
+                "Archived"
+            ],
+            [
+                "Jennifer",
+                "Lynn",
+                "Miller",
+                "7/4/2100",
+                "JMI00673420",
+                "Future Entry"
+            ],
+            [
+                "Robert",
+                "Thomas",
+                "Wilson",
+                "8/12/2350",
+                "RWL00784531",
+                "Pending Enrollment"
+            ]
+        ]
+    }
+}

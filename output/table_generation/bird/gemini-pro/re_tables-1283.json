@@ -1,0 +1,46 @@
+{
+    "table-1283-1283": {
+        "title": [
+            "Patient ID",
+            "Birthday",
+            "GPT Value"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Patient Information with Normal Glutamic Pyruvic Transaminase",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the top three patients' birthdays with the highest glutamic pylvic transaminase in the normal range.",
+        "data": [
+            [
+                "12345",
+                "1990-05-10",
+                "40"
+            ],
+            [
+                "67890",
+                "1985-12-25",
+                "38"
+            ],
+            [
+                "24680",
+                "1978-07-04",
+                "35"
+            ],
+            [
+                "13579",
+                "1992-02-15",
+                "32"
+            ],
+            [
+                "98765",
+                "1980-09-30",
+                "30"
+            ]
+        ]
+    }
+}

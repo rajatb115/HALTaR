@@ -1,0 +1,46 @@
+{
+    "table-559-559": {
+        "title": [
+            "User ID",
+            "Date",
+            "Votes Received"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "User Voting Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many votes did the user No.58 take on 2010/7/19?",
+        "data": [
+            [
+                "58",
+                "2010-07-19",
+                "23"
+            ],
+            [
+                "12",
+                "2010-07-19",
+                "15"
+            ],
+            [
+                "58",
+                "2010-07-20",
+                "10"
+            ],
+            [
+                "12",
+                "2010-07-20",
+                "5"
+            ],
+            [
+                "58",
+                "2010-07-21",
+                "18"
+            ]
+        ]
+    }
+}

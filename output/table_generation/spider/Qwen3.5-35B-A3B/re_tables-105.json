@@ -1,0 +1,55 @@
+{
+    "table-105-105": {
+        "title": [
+            "Model Name",
+            "Manufacturer",
+            "Weight lbs",
+            "Production Start",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the different models wthat are lighter than 3500 but were not built by the Ford Motor Company?",
+        "data": [
+            [
+                "Civic EX-L",
+                "Honda",
+                "3467",
+                "9/1/2022",
+                "Active"
+            ],
+            [
+                "Corolla XSE",
+                "Toyota",
+                "4000",
+                "8/15/2021",
+                "Active"
+            ],
+            [
+                "Camry SE",
+                "Toyota",
+                "3340",
+                "1/10/2022",
+                "Active"
+            ],
+            [
+                "Altima SV",
+                "Nissan",
+                "7005",
+                "6/12/2023",
+                "Discontinued"
+            ],
+            [
+                "Sentra S",
+                "Nissan",
+                "2900",
+                "3/14/2024",
+                "Active"
+            ]
+        ]
+    }
+}

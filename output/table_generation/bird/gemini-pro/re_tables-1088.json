@@ -1,0 +1,46 @@
+{
+    "table-1088-1088": {
+        "title": [
+            "Player Name",
+            "Height (cm)",
+            "Volley Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Player Statistics Based on Height and Volley Score",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the players whose height is over 180, how many of them have a volley score of over 70?",
+        "data": [
+            [
+                "Player A",
+                "185",
+                "75"
+            ],
+            [
+                "Player B",
+                "190",
+                "80"
+            ],
+            [
+                "Player C",
+                "182",
+                "72"
+            ],
+            [
+                "Player D",
+                "188",
+                "68"
+            ],
+            [
+                "Player E",
+                "195",
+                "78"
+            ]
+        ]
+    }
+}

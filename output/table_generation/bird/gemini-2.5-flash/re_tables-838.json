@@ -1,0 +1,61 @@
+{
+    "table-838-838": {
+        "title": [
+            "Hero ID",
+            "Hero Name",
+            "Attribute Name",
+            "Attribute Value"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the hero ID of superhero with the lowest attribute value.",
+        "data": [
+            [
+                "H001",
+                "Captain Comet",
+                "Strength",
+                "75"
+            ],
+            [
+                "H002",
+                "Nightshade",
+                "Agility",
+                "88"
+            ],
+            [
+                "H003",
+                "Ironclad",
+                "Speed",
+                "22"
+            ],
+            [
+                "H004",
+                "Swiftwing",
+                "Durability",
+                "35"
+            ],
+            [
+                "H005",
+                "Mindbender",
+                "Intelligence",
+                "92"
+            ],
+            [
+                "H006",
+                "Stonefist",
+                "Agility",
+                "18"
+            ],
+            [
+                "H007",
+                "Sparkplug",
+                "Stamina",
+                "60"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-22-22": {
+        "title": [
+            "Concert ID",
+            "Venue City",
+            "Date",
+            "Singer Name",
+            "Genre",
+            "Ticket Sales",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all singer names in concerts in year 2014.",
+        "data": [
+            [
+                "C000",
+                "New York",
+                "01/15/2024",
+                "Taylor Swift",
+                "Pop",
+                "Sold Out",
+                "Completed"
+            ],
+            [
+                "C102",
+                "London",
+                "03/22/2024",
+                "Ed Sheeran",
+                "Folk-Pop",
+                "65,002",
+                "Active"
+            ],
+            [
+                "A205",
+                "Tokyo",
+                "05/10/2021",
+                "Adele",
+                "Soul",
+                "N/A",
+                "Cancelled"
+            ],
+            [
+                "B309",
+                "Los Angeles",
+                "07/04/2025",
+                "Bruno Mars",
+                "R&B",
+                "42,100",
+                "Pending"
+            ],
+            [
+                "D411",
+                "Paris",
+                "09/18/2026",
+                "Beyonc\u00e9",
+                "Hip-Hop",
+                "N/A",
+                "Postponed"
+            ],
+            [
+                "E523",
+                "Sydney",
+                "08/30/2014",
+                "Coldplay",
+                "Alternative Rock",
+                "\u00bd Capacity",
+                "Completed"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-1040-1040": {
+        "title": [
+            "Player Name",
+            "Statistic",
+            "Value"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Player Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average number of long-shot done by Ahmed Samir Farag.",
+        "data": [
+            [
+                "Ahmed Samir Farag",
+                "Long-Shots Attempted",
+                "15"
+            ],
+            [
+                "Ahmed Samir Farag",
+                "Long-Shots Made",
+                "3"
+            ],
+            [
+                "Ahmed Samir Farag",
+                "Accuracy",
+                "20%"
+            ],
+            [
+                "All Players Average",
+                "Long-Shots Made",
+                "1.2"
+            ],
+            [
+                "All Players Average",
+                "Accuracy",
+                "11%"
+            ]
+        ]
+    }
+}

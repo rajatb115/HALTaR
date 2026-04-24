@@ -1,0 +1,46 @@
+{
+    "table-518-518": {
+        "title": [
+            "Country",
+            "Population",
+            "Area (km\u00b2)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "North American Country Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total population and average area of countries in the continent of North America whose area is bigger than 3000 ?",
+        "data": [
+            [
+                "Canada",
+                "38,246,108",
+                "9,984,670"
+            ],
+            [
+                "United States",
+                "334,805,269",
+                "9,833,520"
+            ],
+            [
+                "Mexico",
+                "128,455,567",
+                "1,972,550"
+            ],
+            [
+                "Greenland",
+                "56,770",
+                "2,166,086"
+            ],
+            [
+                "Nicaragua",
+                "6,942,398",
+                "130,370"
+            ]
+        ]
+    }
+}

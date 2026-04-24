@@ -1,0 +1,45 @@
+{
+    "table-1083-1083": {
+        "title": [
+            "League ID",
+            "League Name",
+            "Country",
+            "Division Level",
+            "Season Start",
+            "Active Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the leagues from Germany.",
+        "data": [
+            [
+                "DEU-BL1",
+                "Bundesliga",
+                "Germany",
+                "",
+                "01/07/2024",
+                "Yes"
+            ],
+            [
+                "DEU-BR2",
+                "3. Liga",
+                "Germany",
+                "",
+                "06/08/2024",
+                "No"
+            ],
+            [
+                "DEUTOP",
+                "Regionalliga Nordost",
+                "Germany",
+                "",
+                "15/09/2023",
+                "Yes"
+            ]
+        ]
+    }
+}

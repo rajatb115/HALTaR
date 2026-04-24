@@ -1,0 +1,49 @@
+{
+    "table-1532-1532": {
+        "title": [
+            "Customer_ID",
+            "Top_Spender_Name",
+            "Total_Amount_spent",
+            "Average_Price_per_Item",
+            "Currency_Code",
+            "Transaction_Count",
+            "Last_Purchase_Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the top spending customer and how much is the average price per single item purchased by this customer? What currency was being used?",
+        "data": [
+            [
+                "CUST_1042",
+                "Elena Rodriguez",
+                "$12,450.75",
+                "$45.20",
+                "USD",
+                "6",
+                "3/15/2024"
+            ],
+            [
+                "CUS_2091",
+                "Marcus Chen",
+                "$8,320.00",
+                "$32.50",
+                "EUR",
+                "4",
+                "5/10/2404"
+            ],
+            [
+                "CUS_3305",
+                "Sarah Johnson",
+                "$6,100.55",
+                "\u00a328.90",
+                "GBP",
+                "9",
+                "7/22/2504"
+            ]
+        ]
+    }
+}

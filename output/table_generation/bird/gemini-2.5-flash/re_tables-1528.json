@@ -1,0 +1,69 @@
+{
+    "table-1528-1528": {
+        "title": [
+            "Gas Station Name",
+            "Location",
+            "Annual Revenue (USD)",
+            "Fuel Types Offered",
+            "Number of Pumps",
+            "Customer Rating"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which gas station has the highest amount of revenue?",
+        "data": [
+            [
+                "PetroMart Express",
+                "Houston, TX",
+                "12,500,000",
+                "Regular, Premium, Diesel",
+                "12",
+                "4.5"
+            ],
+            [
+                "Speedway #345",
+                "Chicago, IL",
+                "11,800,000",
+                "Regular, Premium, Diesel, E85",
+                "10",
+                "4.2"
+            ],
+            [
+                "Chevron Station 101",
+                "Los Angeles, CA",
+                "13,200,000",
+                "Regular, Premium, Diesel",
+                "14",
+                "4.7"
+            ],
+            [
+                "BP Connect",
+                "Miami, FL",
+                "10,900,000",
+                "Regular, Premium, Diesel",
+                "8",
+                "4.0"
+            ],
+            [
+                "Shell Food Mart",
+                "Seattle, WA",
+                "11,500,000",
+                "Regular, Premium",
+                "10",
+                "4.3"
+            ],
+            [
+                "ExxonMobil Plaza",
+                "Dallas, TX",
+                "12,900,000",
+                "Regular, Premium, Diesel",
+                "12",
+                "4.6"
+            ]
+        ]
+    }
+}

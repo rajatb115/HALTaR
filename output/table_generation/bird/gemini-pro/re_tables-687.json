@@ -1,0 +1,46 @@
+{
+    "table-687-687": {
+        "title": [
+            "Post ID",
+            "View Count",
+            "Above Average"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "High-Performing Posts Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the total number of posts with views above average.",
+        "data": [
+            [
+                "1",
+                "1500",
+                "Yes"
+            ],
+            [
+                "2",
+                "900",
+                "No"
+            ],
+            [
+                "3",
+                "1200",
+                "Yes"
+            ],
+            [
+                "4",
+                "800",
+                "No"
+            ],
+            [
+                "5",
+                "1800",
+                "Yes"
+            ]
+        ]
+    }
+}

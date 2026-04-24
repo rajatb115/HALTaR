@@ -1,0 +1,39 @@
+{
+    "table-611-611": {
+        "title": [
+            "Badge Name",
+            "User Reputation"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Badges Awarded to High Reputation Users",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of badges that users who have the highest reputation obtained?",
+        "data": [
+            [
+                "Strunk & White",
+                "10000"
+            ],
+            [
+                "Guru",
+                "5000"
+            ],
+            [
+                "Legendary",
+                "50000"
+            ],
+            [
+                "Famous Question",
+                "1000"
+            ],
+            [
+                "Populist",
+                "1000"
+            ]
+        ]
+    }
+}

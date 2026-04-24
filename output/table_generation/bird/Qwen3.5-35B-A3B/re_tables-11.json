@@ -1,0 +1,53 @@
+{
+    "table-11-11": {
+        "title": [
+            "School ID",
+            "School Name",
+            "Avg Reading Score",
+            "Total Students Age 5\u201317",
+            "FRPM Count Age 4\u201318",
+            "State District",
+            "Enrollment Status",
+            "Data Source Date"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the school with the highest average score in Reading in the SAT test, what is its FRPM count for students aged 5-17?",
+        "data": [
+            [
+                "SCH_0042",
+                "Lincoln Heights Academy",
+                "685",
+                "412",
+                "389",
+                "CA-Los Angeles",
+                "Public Active",
+                "06/15/2023"
+            ],
+            [
+                "SCH_A109",
+                "Westview Charter High",
+                "712",
+                "520",
+                "98",
+                "TX-Dallas",
+                "Private Non-Profit",
+                "08/22/2023"
+            ],
+            [
+                "SCH_B205",
+                "Oakridge Middle School",
+                "698",
+                "340",
+                "310",
+                "NY-New York City",
+                "Public Inactive",
+                "Sep 10, 2023"
+            ]
+        ]
+    }
+}

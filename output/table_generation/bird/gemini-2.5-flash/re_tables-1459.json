@@ -1,0 +1,62 @@
+{
+    "table-1459-1459": {
+        "title": [
+            "State",
+            "Total Members",
+            "State Population",
+            "Membership Rate (%)",
+            "Data Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the difference in the percentage of members in Maine and Vermont.",
+        "data": [
+            [
+                "Maine",
+                "150000",
+                "1360000",
+                "11.03",
+                "2023"
+            ],
+            [
+                "Vermont",
+                "85000",
+                "647000",
+                "13.14",
+                "2023"
+            ],
+            [
+                "New Hampshire",
+                "165000",
+                "1395000",
+                "11.83",
+                "2023"
+            ],
+            [
+                "Massachusetts",
+                "780000",
+                "7000000",
+                "11.14",
+                "2023"
+            ],
+            [
+                "Connecticut",
+                "390000",
+                "3620000",
+                "10.77",
+                "2023"
+            ],
+            [
+                "Rhode Island",
+                "125000",
+                "1095000",
+                "11.42",
+                "2023"
+            ]
+        ]
+    }
+}

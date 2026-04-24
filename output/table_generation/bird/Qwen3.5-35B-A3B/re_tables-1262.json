@@ -1,0 +1,61 @@
+{
+    "table-1262-1262": {
+        "title": [
+            "Patient ID",
+            "Rheumatoid Factor Status",
+            "Thrombosis Present",
+            "Count Category"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal RF don't have thrombosis?",
+        "data": [
+            [
+                "P-1042",
+                "Normal",
+                "No",
+                "Included in Query Target"
+            ],
+            [
+                "P-1105",
+                "Normal",
+                "No",
+                "Included in Query Target"
+            ],
+            [
+                "P-2291",
+                "Normal",
+                "Yes",
+                "Excluded from Query Target"
+            ],
+            [
+                "P-P-3347",
+                "Normal",
+                "",
+                "Included in Query Target"
+            ],
+            [
+                "P-A-4412",
+                "Elevated",
+                "No",
+                "Irrelevant to Query Condition"
+            ],
+            [
+                "B-B-5568",
+                "Normal",
+                "",
+                "Data Entry Error"
+            ],
+            [
+                "C-C-6623",
+                "Normal",
+                "No",
+                "Confirmed Case for Analysis"
+            ]
+        ]
+    }
+}

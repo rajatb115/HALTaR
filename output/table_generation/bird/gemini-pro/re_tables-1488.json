@@ -1,0 +1,45 @@
+{
+    "table-1488-1488": {
+        "title": [
+            "Customer",
+            "Currency",
+            "Consumption (October 2013)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "LAM Customer Consumption in October 2013",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which LAM customer used the Euro as their currency and had the highest consumption in October 2013?",
+        "data": [
+            [
+                "LAM123",
+                "USD",
+                "1500"
+            ],
+            [
+                "LAM456",
+                "EUR",
+                "2000"
+            ],
+            [
+                "LAM789",
+                "GBP",
+                "1200"
+            ],
+            [
+                "LAM101",
+                "EUR",
+                "2500"
+            ],
+            [
+                "LAM112",
+                "JPY",
+                "1800"
+            ]
+        ]
+    }
+}

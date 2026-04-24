@@ -1,0 +1,69 @@
+{
+    "table-401-401": {
+        "title": [
+            "Player_Name",
+            "Nationality",
+            "Career_Start",
+            "Major_Wins",
+            "Total_Earnings_USD"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of all the poker players.",
+        "data": [
+            [
+                "Daniel Negreanu",
+                "Canada",
+                "1976",
+                "6",
+                "$42,500,000"
+            ],
+            [
+                "Phil Ivey",
+                "USA",
+                "1988",
+                "7",
+                "$25,800,000"
+            ],
+            [
+                "Doyle Brunson",
+                "USA",
+                "1970",
+                "10",
+                "$12,300,000"
+            ],
+            [
+                "Johnny Chan",
+                "USA",
+                "1980",
+                "5",
+                "$9,100,000"
+            ],
+            [
+                "Bjorn Eklund",
+                "Sweden",
+                "2004",
+                "3",
+                "$5,400,000"
+            ],
+            [
+                "Annette Obrestad",
+                "Norway",
+                "2004",
+                "1",
+                "$3,200,000"
+            ],
+            [
+                "Joe Hachem",
+                "Australia",
+                "2005",
+                "1",
+                "$7,500,000"
+            ]
+        ]
+    }
+}

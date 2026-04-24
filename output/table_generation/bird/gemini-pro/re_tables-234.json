@@ -1,0 +1,36 @@
+{
+    "table-234-234": {
+        "title": [
+            "Bond Type",
+            "Partner Molecule",
+            "Bond Strength",
+            "Bond Length (\u00c5)",
+            "Occurrence"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "TR006 Molecule Bonds",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list top two bonds that happened with the molecule TR006 in alphabetical order.",
+        "data": [
+            [
+                "Alpha Bond",
+                "Molecule A",
+                "4.2 eV",
+                "1.54",
+                "High"
+            ],
+            [
+                "Beta Bond",
+                "Molecule B",
+                "3.8 eV",
+                "1.62",
+                "Medium"
+            ]
+        ]
+    }
+}

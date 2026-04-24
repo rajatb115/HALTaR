@@ -1,0 +1,69 @@
+{
+    "table-350-350": {
+        "title": [
+            "Series Name",
+            "Genre",
+            "Content Description",
+            "Number of Seasons",
+            "Channel"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the number of different series names and contents in the TV Channel table.",
+        "data": [
+            [
+                "The Galactic Odyssey",
+                "Sci-Fi",
+                "Explorers journey through space",
+                "7",
+                "SpaceNet"
+            ],
+            [
+                "Mystery Manor",
+                "Drama",
+                "Solving crimes in an old estate",
+                "5",
+                "PrimeTime"
+            ],
+            [
+                "Cooking with Chef Leo",
+                "Food",
+                "Culinary adventures and recipes",
+                "12",
+                "FoodieTV"
+            ],
+            [
+                "Wild Wonders",
+                "Documentary",
+                "Nature and wildlife exploration",
+                "8",
+                "EcoChannel"
+            ],
+            [
+                "Tech Trends Today",
+                "News",
+                "Latest in technology and gadgets",
+                "3",
+                "InfoHub"
+            ],
+            [
+                "Ancient Civilizations",
+                "History",
+                "Uncovering past societies",
+                "6",
+                "HistoryNow"
+            ],
+            [
+                "Kids' Corner Adventures",
+                "Animation",
+                "Educational stories for children",
+                "4",
+                "PlayZone"
+            ]
+        ]
+    }
+}

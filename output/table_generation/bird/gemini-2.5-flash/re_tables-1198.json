@@ -1,0 +1,77 @@
+{
+    "table-1198-1198": {
+        "title": [
+            "Patient ID",
+            "First Documented Date",
+            "Diagnosis",
+            "Gender",
+            "Attending Physician",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When was the medical information on patient number 48473 first documented, and what disease did she have?",
+        "data": [
+            [
+                "48473",
+                "2021-03-15",
+                "Type 2 Diabetes",
+                "Female",
+                "Dr. A. Sharma",
+                "Stable"
+            ],
+            [
+                "48474",
+                "2022-01-20",
+                "Hypertension",
+                "Male",
+                "Dr. L. Chen",
+                "Managed"
+            ],
+            [
+                "48475",
+                "2020-11-01",
+                "Asthma",
+                "Female",
+                "Dr. M. Patel",
+                "Controlled"
+            ],
+            [
+                "48476",
+                "2023-05-10",
+                "Migraine",
+                "Female",
+                "Dr. A. Sharma",
+                "Chronic"
+            ],
+            [
+                "48477",
+                "2019-07-22",
+                "Osteoarthritis",
+                "Male",
+                "Dr. S. Kim",
+                "Improving"
+            ],
+            [
+                "48478",
+                "2021-09-05",
+                "Depression",
+                "Female",
+                "Dr. L. Chen",
+                "Under Treatment"
+            ],
+            [
+                "48479",
+                "2022-04-18",
+                "Hypothyroidism",
+                "Female",
+                "Dr. M. Patel",
+                "Stable"
+            ]
+        ]
+    }
+}

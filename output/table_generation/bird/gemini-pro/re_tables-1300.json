@@ -1,0 +1,39 @@
+{
+    "table-1300-1300": {
+        "title": [
+            "Symptom",
+            "Number of Patients"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Patients with Normal Triglyceride Levels and Observed Symptoms",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients with the normal level of triglyceride, how many of them have other symptoms observed?",
+        "data": [
+            [
+                "Headache",
+                "15"
+            ],
+            [
+                "Fatigue",
+                "22"
+            ],
+            [
+                "Dizziness",
+                "10"
+            ],
+            [
+                "Nausea",
+                "5"
+            ],
+            [
+                "No Other Symptoms",
+                "48"
+            ]
+        ]
+    }
+}

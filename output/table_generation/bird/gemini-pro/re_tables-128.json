@@ -1,0 +1,51 @@
+{
+    "table-128-128": {
+        "title": [
+            "Account ID",
+            "Statement Frequency",
+            "Last Statement Date",
+            "Statement Delivery Method"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Account Statement Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the account IDs with monthly issuance of statements.",
+        "data": [
+            [
+                "12345",
+                "Monthly",
+                "2024-01-15",
+                "Email"
+            ],
+            [
+                "67890",
+                "Monthly",
+                "2024-01-20",
+                "Mail"
+            ],
+            [
+                "24680",
+                "Monthly",
+                "2024-01-22",
+                "Email"
+            ],
+            [
+                "13579",
+                "Monthly",
+                "2024-01-25",
+                "Online"
+            ],
+            [
+                "98765",
+                "Monthly",
+                "2024-01-28",
+                "Email"
+            ]
+        ]
+    }
+}

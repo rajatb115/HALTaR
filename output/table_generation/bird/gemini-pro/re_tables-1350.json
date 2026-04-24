@@ -1,0 +1,43 @@
+{
+    "table-1350-1350": {
+        "title": [
+            "Event Name",
+            "Month",
+            "Budget Amount"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Event Budget Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the total number of the budget amount for \"September Speaker\" event.",
+        "data": [
+            [
+                "September Speaker",
+                "September",
+                "$15,000"
+            ],
+            [
+                "October Workshop",
+                "October",
+                "$10,000"
+            ],
+            [
+                "November Conference",
+                "November",
+                "$25,000"
+            ],
+            [
+                "December Social",
+                "December",
+                "$5,000"
+            ],
+            [
+                "August Seminar",
+                "August",
+                "$12,000"
+            ]
+        ]
+    }
+}

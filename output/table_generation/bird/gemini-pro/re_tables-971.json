@@ -1,0 +1,45 @@
+{
+    "table-971-971": {
+        "title": [
+            "Driver Name",
+            "Birth Year",
+            "Lap Time"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "German Race Car Driver Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out top 3 German drivers who were born from 1980-1990 and have the earliest lap time.",
+        "data": [
+            [
+                "Sebastian Vettel",
+                "1987",
+                "1:21.099"
+            ],
+            [
+                "Nico H\u00fclkenberg",
+                "1987",
+                "1:21.543"
+            ],
+            [
+                "Nico Rosberg",
+                "1985",
+                "1:21.987"
+            ],
+            [
+                "Timo Glock",
+                "1982",
+                "1:22.345"
+            ],
+            [
+                "Adrian Sutil",
+                "1983",
+                "1:22.678"
+            ]
+        ]
+    }
+}

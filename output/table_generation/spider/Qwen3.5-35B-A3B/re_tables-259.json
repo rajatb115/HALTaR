@@ -1,0 +1,53 @@
+{
+    "table-259-259": {
+        "title": [
+            "First_Name",
+            "Last_Name",
+            "Birth_Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the first and last name of all players in the order of birth date.",
+        "data": [
+            [
+                "John",
+                "Smith",
+                "4/12/1976"
+            ],
+            [
+                "Maria",
+                "Garcia",
+                "7/23/1895"
+            ],
+            [
+                "David",
+                "Chen",
+                "9/15/1788"
+            ],
+            [
+                "Sarah",
+                "Johnson",
+                "3/30/1654"
+            ],
+            [
+                "Michael",
+                "Brown",
+                "6/11/1432"
+            ],
+            [
+                "Emily",
+                "Davis",
+                "8/22/2010"
+            ],
+            [
+                "Robert",
+                "Wilson",
+                "5/5/2100"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-592-592": {
+        "title": [
+            "Treatment Name",
+            "Treatment Type",
+            "Cost"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the cost of each treatment and the corresponding treatment type description.",
+        "data": [
+            [
+                "Dental Filling",
+                "Dental",
+                "$150"
+            ],
+            [
+                "Annual Check-up",
+                "Preventive",
+                "$100"
+            ],
+            [
+                "Physical Therapy Session",
+                "Rehabilitation",
+                "$75"
+            ],
+            [
+                "Appendectomy",
+                "Surgical",
+                "$8000"
+            ],
+            [
+                "MRI Scan",
+                "Diagnostic",
+                "$600"
+            ],
+            [
+                "Flu Shot",
+                "Vaccination",
+                "$30"
+            ],
+            [
+                "Cataract Surgery",
+                "Ophthalmic",
+                "$3500"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-480-480": {
+        "title": [
+            "Country",
+            "Official Language(s)",
+            "Population"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Population of Nations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total number of people living in the nations that do not use English?",
+        "data": [
+            [
+                "China",
+                "Mandarin Chinese",
+                "1,453,500,000"
+            ],
+            [
+                "India",
+                "Hindi, English",
+                "1,407,600,000"
+            ],
+            [
+                "Indonesia",
+                "Indonesian",
+                "273,523,600"
+            ],
+            [
+                "Pakistan",
+                "Urdu, English",
+                "231,402,117"
+            ],
+            [
+                "Brazil",
+                "Portuguese",
+                "214,754,000"
+            ]
+        ]
+    }
+}

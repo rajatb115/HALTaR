@@ -1,0 +1,85 @@
+{
+    "table-809-809": {
+        "title": [
+            "Superhero_Name",
+            "Weight_kg",
+            "Height_cm",
+            "Race",
+            "Affiliation",
+            "First_Appearance_Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the race of the superhero who weighs 108kg and is 188cm tall.",
+        "data": [
+            [
+                "Superman",
+                "76",
+                "4'11\"",
+                "Kryptonian",
+                "Justice League",
+                "1938"
+            ],
+            [
+                "Batman",
+                "95",
+                "6'2\"",
+                "Human",
+                "Batman Family",
+                "1989"
+            ],
+            [
+                "Wonder Woman",
+                "68",
+                "5'10\"",
+                "Amazon",
+                "Justice Society",
+                "1940"
+            ],
+            [
+                "Green Lantern",
+                "",
+                "",
+                "Green Corps",
+                "",
+                ""
+            ],
+            [
+                "The Flash",
+                "",
+                "Speedster",
+                "Central City Police Dept",
+                "1956",
+                ""
+            ],
+            [
+                "Aquaman",
+                "",
+                "Atlantean",
+                "Atlantis Royal Guard",
+                "",
+                ""
+            ],
+            [
+                "Black Panther",
+                "",
+                "Dora Milaje",
+                "Wakanda",
+                "",
+                ""
+            ],
+            [
+                "Hulk",
+                "",
+                "Gamma Mutate",
+                "Avengers",
+                "",
+                ""
+            ]
+        ]
+    }
+}

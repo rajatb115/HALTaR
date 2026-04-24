@@ -1,0 +1,39 @@
+{
+    "table-539-539": {
+        "title": [
+            "Conductor Name",
+            "Years Worked"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Conductors by Years of Experience",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of conductors, sorted descending by the number of years they have worked?",
+        "data": [
+            [
+                "John Williams",
+                "54"
+            ],
+            [
+                "Herbert von Karajan",
+                "50"
+            ],
+            [
+                "Leonard Bernstein",
+                "47"
+            ],
+            [
+                "Georg Solti",
+                "42"
+            ],
+            [
+                "Claudio Abbado",
+                "41"
+            ]
+        ]
+    }
+}

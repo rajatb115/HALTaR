@@ -1,0 +1,76 @@
+{
+    "table-1080-1080": {
+        "title": [
+            "Player Name",
+            "Height cm",
+            "Position",
+            "Team",
+            "League",
+            "Birth Date",
+            "Games Played"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which player is the tallest?",
+        "data": [
+            [
+                "Giorgi Shermadini",
+                "7'4\"",
+                "Center",
+                "Real Madrid",
+                "EuroLeague",
+                "06/01/1975",
+                "450"
+            ],
+            [
+                "Tacko Fall",
+                "8'0\"",
+                "Center",
+                "N/A",
+                "G-League",
+                "30/03/1898",
+                "5"
+            ],
+            [
+                "Boban Marjanovi\u0107",
+                "6'11\"",
+                "Center",
+                "Philadelphia 76ers",
+                "NBA",
+                "09/08/1988",
+                ""
+            ],
+            [
+                "Rik Smits",
+                "7'2\"",
+                "Center",
+                "Indiana Pacers",
+                "NBA",
+                "10/10/1966",
+                "960"
+            ],
+            [
+                "Yao Ming",
+                "7'6\"",
+                "Center",
+                "Houston Rockets",
+                "NBA",
+                "12/09/1980",
+                "932"
+            ],
+            [
+                "Shawn Bradley",
+                "7'10\"",
+                "Big Man",
+                "New Jersey Nets",
+                "NBA",
+                "23/03/1972",
+                ""
+            ]
+        ]
+    }
+}

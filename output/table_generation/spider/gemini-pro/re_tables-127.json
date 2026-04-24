@@ -1,0 +1,49 @@
+{
+    "table-127-127": {
+        "title": [
+            "Airline",
+            "Flight Number",
+            "Departure Airport",
+            "Arrival Airport"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Airlines Serving AHD Airport",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airlines have a flight with destination airport AHD?",
+        "data": [
+            [
+                "United Airlines",
+                "UA 123",
+                "IAH",
+                "AHD"
+            ],
+            [
+                "American Airlines",
+                "AA 456",
+                "DFW",
+                "AHD"
+            ],
+            [
+                "Delta Airlines",
+                "DL 789",
+                "ATL",
+                "AHD"
+            ],
+            [
+                "Southwest Airlines",
+                "WN 101",
+                "HOU",
+                "AHD"
+            ],
+            [
+                "Frontier Airlines",
+                "F9 222",
+                "DEN",
+                "AHD"
+            ]
+        ]
+    }
+}

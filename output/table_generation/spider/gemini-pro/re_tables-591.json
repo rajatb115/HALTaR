@@ -1,0 +1,37 @@
+{
+    "table-591-591": {
+        "title": [
+            "Treatment Date",
+            "Professional First Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Treatment Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the date and the operating professional's first name of each treatment?",
+        "data": [
+            [
+                "2023-01-15",
+                "John"
+            ],
+            [
+                "2023-02-20",
+                "Alice"
+            ],
+            [
+                "2023-03-10",
+                "Robert"
+            ],
+            [
+                "2023-04-05",
+                "Emily"
+            ],
+            [
+                "2023-05-12",
+                "Michael"
+            ]
+        ]
+    }
+}

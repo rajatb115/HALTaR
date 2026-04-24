@@ -1,0 +1,49 @@
+{
+    "table-576-576": {
+        "title": [
+            "User Name",
+            "Badge Name",
+            "Date Obtained",
+            "Badge Description"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "User Badges Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the badge name that user 'SilentGhost' obtained?",
+        "data": [
+            [
+                "SilentGhost",
+                "Contributor",
+                "2023-03-15",
+                "Awarded for contributing to the project."
+            ],
+            [
+                "AwesomeDev",
+                "Master Coder",
+                "2023-01-20",
+                "Achieved top rank in coding challenges."
+            ],
+            [
+                "NewbieUser",
+                "First Post",
+                "2023-05-01",
+                "Awarded for creating first discussion post."
+            ],
+            [
+                "SilentGhost",
+                "Active User",
+                "2023-04-01",
+                "Awarded for logging in for 30 consecutive days."
+            ],
+            [
+                "CodingKing",
+                "Bug Hunter",
+                "2022-11-10",
+                "Awarded for reporting and fixing bugs."
+            ]
+        ]
+    }
+}

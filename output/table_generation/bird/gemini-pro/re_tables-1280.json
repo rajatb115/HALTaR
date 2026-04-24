@@ -1,0 +1,45 @@
+{
+    "table-1280-1280": {
+        "title": [
+            "Patient ID",
+            "GOT Level",
+            "SLE Diagnosis"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "SLE Patients with Abnormal Glutamic Oxaloacetic Transaminase Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of patient who has a abnormal level of glutamic oxaloacetic transaminase level, yet he or she is diagnosed with SLE?",
+        "data": [
+            [
+                "1234",
+                "High",
+                "Yes"
+            ],
+            [
+                "5678",
+                "Normal",
+                "No"
+            ],
+            [
+                "9101",
+                "High",
+                "Yes"
+            ],
+            [
+                "1121",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "3141",
+                "High",
+                "No"
+            ]
+        ]
+    }
+}

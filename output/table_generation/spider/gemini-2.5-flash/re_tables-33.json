@@ -1,0 +1,69 @@
+{
+    "table-33-33": {
+        "title": [
+            "Pet Type",
+            "Common Species",
+            "Average Lifespan (Years)",
+            "Diet Type",
+            "Care Level"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different types of pet are there?",
+        "data": [
+            [
+                "Mammal",
+                "Dog",
+                "10-13",
+                "Omnivore",
+                "Moderate"
+            ],
+            [
+                "Mammal",
+                "Cat",
+                "12-15",
+                "Carnivore",
+                "Easy"
+            ],
+            [
+                "Bird",
+                "Parrot",
+                "50-70",
+                "Omnivore",
+                "Expert"
+            ],
+            [
+                "Reptile",
+                "Ball Python",
+                "20-30",
+                "Carnivore",
+                "Moderate"
+            ],
+            [
+                "Fish",
+                "Goldfish",
+                "10-15",
+                "Omnivore",
+                "Easy"
+            ],
+            [
+                "Amphibian",
+                "Axolotl",
+                "10-15",
+                "Carnivore",
+                "Moderate"
+            ],
+            [
+                "Invertebrate",
+                "Tarantula",
+                "10-20",
+                "Carnivore",
+                "Easy"
+            ]
+        ]
+    }
+}

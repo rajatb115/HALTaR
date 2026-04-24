@@ -1,0 +1,62 @@
+{
+    "table-1179-1179": {
+        "title": [
+            "Patient ID",
+            "Diagnosis Date",
+            "Condition",
+            "Gender",
+            "Age at Diagnosis"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the gender of the first AORTITIS diagnosed patient?",
+        "data": [
+            [
+                "P-1042",
+                "06/17/1952",
+                "Giant Cell Arteritis",
+                "Male",
+                "68"
+            ],
+            [
+                "P-1105",
+                "03/12/1853",
+                "Takayasu's Arteritis",
+                "Female",
+                "42"
+            ],
+            [
+                "P-A099",
+                "09/22/2023",
+                "IgG4-related Disease",
+                "Non-binary",
+                "55"
+            ],
+            [
+                "P-B201",
+                "11/05/1600",
+                "Syphilitic Aortitis",
+                "Male",
+                "71"
+            ],
+            [
+                "P-C334",
+                "07/30/1492",
+                "Congenital Aortic Stenosis",
+                "Female",
+                "29"
+            ],
+            [
+                "P-D445",
+                "01/15/2100",
+                "Kawasaki Syndrome",
+                "Male",
+                "4"
+            ]
+        ]
+    }
+}

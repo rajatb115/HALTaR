@@ -1,0 +1,45 @@
+{
+    "table-1056-1056": {
+        "title": [
+            "Player Name",
+            "Overall Rating",
+            "Date of Birth"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Top Football Players and Their Birthdays",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When is the birthday of the football player who has the highest overall rating?",
+        "data": [
+            [
+                "Lionel Messi",
+                "94",
+                "June 24, 1987"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "93",
+                "February 5, 1985"
+            ],
+            [
+                "Robert Lewandowski",
+                "91",
+                "August 21, 1988"
+            ],
+            [
+                "Kevin De Bruyne",
+                "91",
+                "June 28, 1991"
+            ],
+            [
+                "Kylian Mbapp\u00e9",
+                "91",
+                "December 20, 1998"
+            ]
+        ]
+    }
+}

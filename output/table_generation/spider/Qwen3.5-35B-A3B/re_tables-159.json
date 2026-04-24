@@ -1,0 +1,67 @@
+{
+    "table-159-159": {
+        "title": [
+            "Shop ID",
+            "Shop Name",
+            "Employee Count",
+            "Status",
+            "Location",
+            "Last Audit Date",
+            "Manager Assigned"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which shops run with no employees? Find the shop names",
+        "data": [
+            [
+                "SHP-104",
+                "Silent Corner Books",
+                "0",
+                "Active",
+                "Downtown",
+                "7/12/2023",
+                "N/A"
+            ],
+            [
+                "SHP-219",
+                "Automated Grocers",
+                "6",
+                "Closed",
+                "Northside",
+                "8/01/23",
+                ""
+            ],
+            [
+                "SMP-305",
+                "Robo Bakery Express",
+                "3",
+                "Open",
+                "West End",
+                "9/15/22",
+                ""
+            ],
+            [
+                "SHO-412",
+                "Self-Serve Pharmacy",
+                "5",
+                "Suspended",
+                "East Bay",
+                "4/30/24",
+                ""
+            ],
+            [
+                "SHT-501",
+                "Digital Kiosk Hub",
+                "",
+                "Pending",
+                "Southport",
+                "",
+                ""
+            ]
+        ]
+    }
+}

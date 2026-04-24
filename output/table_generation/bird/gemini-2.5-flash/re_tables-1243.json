@@ -1,0 +1,85 @@
+{
+    "table-1243-1243": {
+        "title": [
+            "Patient ID",
+            "Patient Name",
+            "Age",
+            "Exam Date",
+            "Test Type",
+            "Platelet Count (x10^3/uL)",
+            "Platelet Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For laboratory examinations take in 1984, list all patients below 50 years old with normal platelet level.",
+        "data": [
+            [
+                "P001",
+                "Alice Johnson",
+                "35",
+                "1984-01-15",
+                "CBC",
+                "280",
+                "Normal"
+            ],
+            [
+                "P002",
+                "Robert Smith",
+                "42",
+                "1984-03-22",
+                "CBC",
+                "350",
+                "Normal"
+            ],
+            [
+                "P003",
+                "Emily White",
+                "28",
+                "1984-06-01",
+                "CBC",
+                "190",
+                "Normal"
+            ],
+            [
+                "P004",
+                "David Green",
+                "48",
+                "1984-09-10",
+                "CBC",
+                "410",
+                "Normal"
+            ],
+            [
+                "P005",
+                "Sarah Brown",
+                "22",
+                "1984-11-05",
+                "CBC",
+                "220",
+                "Normal"
+            ],
+            [
+                "P006",
+                "Michael Davis",
+                "39",
+                "1984-02-28",
+                "CBC",
+                "300",
+                "Normal"
+            ],
+            [
+                "P007",
+                "Jessica Miller",
+                "31",
+                "1984-07-19",
+                "CBC",
+                "260",
+                "Normal"
+            ]
+        ]
+    }
+}

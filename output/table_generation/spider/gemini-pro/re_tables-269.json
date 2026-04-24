@@ -1,0 +1,46 @@
+{
+    "table-269-269": {
+        "title": [
+            "Player ID",
+            "First Name",
+            "Average Ranking"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Player Rankings and Names",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average ranking for each player and their first name.",
+        "data": [
+            [
+                "1",
+                "Alice",
+                "2.5"
+            ],
+            [
+                "2",
+                "Bob",
+                "3.0"
+            ],
+            [
+                "3",
+                "Charlie",
+                "1.8"
+            ],
+            [
+                "4",
+                "David",
+                "4.2"
+            ],
+            [
+                "5",
+                "Eve",
+                "2.9"
+            ]
+        ]
+    }
+}

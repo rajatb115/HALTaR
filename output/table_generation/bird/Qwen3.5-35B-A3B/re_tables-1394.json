@@ -1,0 +1,77 @@
+{
+    "table-1394-1394": {
+        "title": [
+            "Club_Name",
+            "Role",
+            "Full_Name",
+            "Email_Address",
+            "Department",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the full name and email address of the Student_Club's Secretary.",
+        "data": [
+            [
+                "Student_Club",
+                "President",
+                "Alice Johnson",
+                "alice.j@university.edu",
+                "Engineering",
+                "Active"
+            ],
+            [
+                "Student_Club",
+                "Vice_President",
+                "Bob Smith",
+                "bob.s@universe.edu",
+                "Arts",
+                "Active"
+            ],
+            [
+                "Student_Clubs",
+                "Treasurer",
+                "Carol White",
+                "carol.w@campus.net",
+                "Science",
+                "Inactive"
+            ],
+            [
+                "Student_Union",
+                "Secretary",
+                "David Brown",
+                "david.b@student.org",
+                "Business",
+                "Active"
+            ],
+            [
+                "Campus_Groups",
+                "Secretary_Elect",
+                "Emma Davis",
+                "emma.d@greenlife.com",
+                "Biology",
+                "Pending"
+            ],
+            [
+                "University_Societies",
+                "Secretary_Fallback",
+                "Frank Miller",
+                "frank.m@alumni.net",
+                "History",
+                "Retired"
+            ],
+            [
+                "College_Assembly",
+                "Acting_Secretary",
+                "Grace Lee",
+                "grace.l@freshman.edu",
+                "Math",
+                "Temporary"
+            ]
+        ]
+    }
+}

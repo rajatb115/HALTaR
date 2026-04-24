@@ -1,0 +1,76 @@
+{
+    "table-624-624": {
+        "title": [
+            "Charge_Type",
+            "Amount_Currency",
+            "Cost_Amount",
+            "Unit_of_Measure",
+            "Billing_Frequency",
+            "Status",
+            "Last_Updated_Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much does each charge type costs? List both charge type and amount.",
+        "data": [
+            [
+                "Standard_Rate",
+                "USD",
+                "45.00",
+                "Hourly",
+                "Monthly",
+                "Active",
+                "06/15/2023"
+            ],
+            [
+                "Premium_Service",
+                "USD / EUR",
+                "75.50",
+                "Per_Project",
+                "One-Time",
+                "Active - Pending Review",
+                "6/2/23"
+            ],
+            [
+                "Emergency_Response",
+                "GBP",
+                "320.0",
+                "Incident",
+                "As_Needed",
+                "Inactive",
+                "5/30/24"
+            ],
+            [
+                "Bulk_Discount_Tier",
+                "JPY",
+                "8500.",
+                "Quantity_Based",
+                "Quarterly",
+                "Active",
+                "01/10/ 24"
+            ],
+            [
+                "Consulting_Advisory",
+                "CAD",
+                "95.25",
+                "Hour",
+                "Weekly",
+                "On_Hold",
+                "N/A"
+            ],
+            [
+                "Late_Payment_Fee",
+                "AUD",
+                "$15. 00",
+                "Flat",
+                "Monthly",
+                "Active",
+                "June 1, 23"
+            ]
+        ]
+    }
+}

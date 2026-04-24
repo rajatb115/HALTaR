@@ -1,0 +1,77 @@
+{
+    "table-1418-1418": {
+        "title": [
+            "Event ID",
+            "Event Name",
+            "Category",
+            "Total Budget",
+            "Remaining Budget",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the type of events which have remaining budget more than 30 USD.",
+        "data": [
+            [
+                "EVT-1042",
+                "Tech Summit 24",
+                "Conference",
+                "$15,000",
+                "$4,205",
+                "Active"
+            ],
+            [
+                "EVT-2091",
+                "Charity Gala Night",
+                "Fundraiser",
+                "$8,500",
+                "$6,750",
+                "Active"
+            ],
+            [
+                "EVT-3315",
+                "Summer Music Fest",
+                "Entertainment",
+                "$22,050",
+                "$12,300",
+                "Scheduled"
+            ],
+            [
+                "EVT-4402",
+                "Local Art Show",
+                "Exhibition",
+                "$3,250",
+                "$3,100",
+                "Scheduled"
+            ],
+            [
+                "EVT-5589",
+                "Corporate Workshop",
+                "Training",
+                "$5,600",
+                "$4,120",
+                "Completed"
+            ],
+            [
+                "EVE-6621",
+                "Community Run",
+                "Sports",
+                "$9,800",
+                "$8,950",
+                "Cancelled"
+            ],
+            [
+                "Evt-7734",
+                "Product Launch Party",
+                "Marketing",
+                "$6,400",
+                "$5,210",
+                "Planning"
+            ]
+        ]
+    }
+}

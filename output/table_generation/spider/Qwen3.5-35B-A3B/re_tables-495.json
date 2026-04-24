@@ -1,0 +1,85 @@
+{
+    "table-495-495": {
+        "title": [
+            "Country Code",
+            "Language Spoken",
+            "Region",
+            "Population Estimate",
+            "Primary Script",
+            "ISO Standard"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the country codes for countries in which people speak langauges that are not English.",
+        "data": [
+            [
+                "US",
+                "English",
+                "North America",
+                "331M",
+                "Latin",
+                "EN-US"
+            ],
+            [
+                "CN",
+                "Mandarin Chinese",
+                "Asia",
+                "1.4B",
+                "Hanzi",
+                "ZH-CN"
+            ],
+            [
+                "FR",
+                "French",
+                "Europe",
+                "68M",
+                "Latin",
+                "FR-FR"
+            ],
+            [
+                "JP",
+                "Japanese",
+                "Asia",
+                "125M",
+                "Kanji/Kana",
+                "JA-JP"
+            ],
+            [
+                "BR",
+                "Portuguese",
+                "South America",
+                "215M",
+                "Latin",
+                "PT-BR"
+            ],
+            [
+                "DE",
+                "German",
+                "Europe",
+                "83M",
+                "Latin",
+                "DE-DE"
+            ],
+            [
+                "IN",
+                "Hindi",
+                "Asia",
+                "1.4B",
+                "Devanagari",
+                "HI-IN"
+            ],
+            [
+                "RU",
+                "Russian",
+                "Eurasia",
+                "144M",
+                "Cyrillic",
+                "RU-RU"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-514-514": {
+        "title": [
+            "Country Name",
+            "Population"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Countries by Population (Smallest)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the nations with the 3 lowest populations?",
+        "data": [
+            [
+                "Vatican City",
+                "825"
+            ],
+            [
+                "Nauru",
+                "10,876"
+            ],
+            [
+                "Tuvalu",
+                "11,396"
+            ],
+            [
+                "Palau",
+                "18,058"
+            ],
+            [
+                "San Marino",
+                "33,642"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "table-44-44": {
+        "title": [
+            "Pet Name",
+            "Type",
+            "Weight (lbs)",
+            "Age (Years)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Pet Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the type and weight of the youngest pet.",
+        "data": [
+            [
+                "Max",
+                "Dog",
+                "25",
+                "3"
+            ],
+            [
+                "Bella",
+                "Cat",
+                "10",
+                "1"
+            ],
+            [
+                "Charlie",
+                "Bird",
+                "0.5",
+                "2"
+            ],
+            [
+                "Lucy",
+                "Dog",
+                "60",
+                "5"
+            ],
+            [
+                "Cooper",
+                "Rabbit",
+                "7",
+                "4"
+            ]
+        ]
+    }
+}

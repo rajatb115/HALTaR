@@ -1,0 +1,69 @@
+{
+    "table-1161-1161": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Total Protein Level",
+            "Normal Range Status",
+            "Percentage Contribution"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of female patient had total protein not within the normal range?",
+        "data": [
+            [
+                "P-1042",
+                "Female",
+                "6.2 g/dL",
+                "Low",
+                "4.5%"
+            ],
+            [
+                "P-A773",
+                "Female",
+                "8.9 g/dL",
+                "High",
+                "3.2%"
+            ],
+            [
+                "P-B291",
+                "Male",
+                "7.1 g/dL",
+                "Within",
+                "N/A"
+            ],
+            [
+                "C-D882",
+                "Female",
+                "5.8 g/dL",
+                "Low",
+                "0.8%"
+            ],
+            [
+                "E-F119",
+                "Female",
+                "9.4 g/dL",
+                "High",
+                "1.1%"
+            ],
+            [
+                "G-H334",
+                "Male",
+                "82 mg/dL",
+                "Within",
+                "N/A"
+            ],
+            [
+                "I-J556",
+                "Female",
+                "6.5 g/dL",
+                "Normal",
+                "N/A"
+            ]
+        ]
+    }
+}

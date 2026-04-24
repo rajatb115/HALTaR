@@ -1,0 +1,77 @@
+{
+    "table-1339-1339": {
+        "title": [
+            "Expense ID",
+            "Description",
+            "Date",
+            "Amount",
+            "Status",
+            "Approver"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Was each expense in October Meeting on October 8, 2019 approved?",
+        "data": [
+            [
+                "EXP001",
+                "Catering Service",
+                "2019-10-08",
+                "1250.00",
+                "Approved",
+                "John Doe"
+            ],
+            [
+                "EXP002",
+                "Venue Rental Fee",
+                "2019-10-08",
+                "2500.00",
+                "Approved",
+                "Jane Smith"
+            ],
+            [
+                "EXP003",
+                "Projector Rental",
+                "2019-10-08",
+                "150.00",
+                "Pending",
+                "N/A"
+            ],
+            [
+                "EXP004",
+                "Speaker Travel",
+                "2019-10-08",
+                "480.50",
+                "Approved",
+                "John Doe"
+            ],
+            [
+                "EXP005",
+                "Coffee & Snacks",
+                "2019-10-08",
+                "210.75",
+                "Approved",
+                "Jane Smith"
+            ],
+            [
+                "EXP006",
+                "Marketing Materials",
+                "2019-10-08",
+                "320.00",
+                "Rejected",
+                "John Doe"
+            ],
+            [
+                "EXP007",
+                "IT Support",
+                "2019-10-08",
+                "300.00",
+                "Approved",
+                "Jane Smith"
+            ]
+        ]
+    }
+}

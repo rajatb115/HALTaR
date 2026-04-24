@@ -1,0 +1,37 @@
+{
+    "table-645-645": {
+        "title": [
+            "Citizenship",
+            "Maximum Net Worth"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Maximum Net Worth by Citizenship",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For each citizenship, what is the maximum net worth?",
+        "data": [
+            [
+                "USA",
+                "$100 Billion"
+            ],
+            [
+                "China",
+                "$80 Billion"
+            ],
+            [
+                "India",
+                "$70 Billion"
+            ],
+            [
+                "Germany",
+                "$60 Billion"
+            ],
+            [
+                "UK",
+                "$50 Billion"
+            ]
+        ]
+    }
+}

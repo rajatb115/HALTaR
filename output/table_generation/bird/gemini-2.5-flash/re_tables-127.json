@@ -1,0 +1,69 @@
+{
+    "table-127-127": {
+        "title": [
+            "AccountID",
+            "District",
+            "OpenedYear",
+            "Type",
+            "BalanceUSD"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of account from 'Decin' district for all accounts are opened in 1993.",
+        "data": [
+            [
+                "1001",
+                "Decin",
+                "1993",
+                "Savings",
+                "12500"
+            ],
+            [
+                "1002",
+                "Usti nad Labem",
+                "1993",
+                "Checking",
+                "8700"
+            ],
+            [
+                "1003",
+                "Decin",
+                "1994",
+                "Business",
+                "55000"
+            ],
+            [
+                "1004",
+                "Litomerice",
+                "1993",
+                "Savings",
+                "3200"
+            ],
+            [
+                "1005",
+                "Decin",
+                "1993",
+                "Checking",
+                "15000"
+            ],
+            [
+                "1006",
+                "Teplice",
+                "1992",
+                "Savings",
+                "9800"
+            ],
+            [
+                "1007",
+                "Usti nad Labem",
+                "1993",
+                "Business",
+                "75000"
+            ]
+        ]
+    }
+}

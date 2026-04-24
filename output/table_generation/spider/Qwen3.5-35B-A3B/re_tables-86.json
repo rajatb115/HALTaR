@@ -1,0 +1,76 @@
+{
+    "table-86-86": {
+        "title": [
+            "Model",
+            "Brand",
+            "EDISPL Value",
+            "Unit",
+            "Measurement Date",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average edispl of the cars of model volvo?",
+        "data": [
+            [
+                "Volvo S60",
+                "Volvo",
+                "4.2",
+                "Liters/Year",
+                "01-Jan-2023",
+                "Active",
+                "Standard configuration"
+            ],
+            [
+                "Volvo V70",
+                "Volvo",
+                "3.8",
+                "Liters/Year",
+                "15-Feb-2023",
+                "Inactive",
+                "Hybrid variant"
+            ],
+            [
+                "Volvo XC90",
+                "Volvo",
+                "5.1",
+                "Liters/Year",
+                "10-Mar-2023",
+                "Active",
+                "Diesel engine"
+            ],
+            [
+                "Volvo C30",
+                "Volvo",
+                "3.5",
+                "Liters/Year",
+                "20-Apr-2023",
+                "Active",
+                "Electric drivetrain"
+            ],
+            [
+                "Volvo S80",
+                "Volvo",
+                "4.5",
+                "Liters/Year",
+                "05-May-2023",
+                "Inactive",
+                "Petrol only"
+            ],
+            [
+                "Volvo XC60",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

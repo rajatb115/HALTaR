@@ -1,0 +1,69 @@
+{
+    "table-1162-1162": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "In-patient Status",
+            "IgG Concentration (MPL U/mL)",
+            "Diagnosis"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For in-patient age 50 and above, what is their average anti-cardiolipin antibody (IgG) concentration?",
+        "data": [
+            [
+                "P1001",
+                "62",
+                "In-patient",
+                "25.3",
+                "Systemic Lupus Erythematosus"
+            ],
+            [
+                "P1002",
+                "55",
+                "In-patient",
+                "12.1",
+                "Deep Vein Thrombosis"
+            ],
+            [
+                "P1003",
+                "71",
+                "In-patient",
+                "48.7",
+                "Antiphospholipid Syndrome"
+            ],
+            [
+                "P1004",
+                "50",
+                "In-patient",
+                "8.9",
+                "Routine Check-up"
+            ],
+            [
+                "P1005",
+                "68",
+                "In-patient",
+                "33.5",
+                "Ischemic Stroke"
+            ],
+            [
+                "P1006",
+                "59",
+                "In-patient",
+                "15.0",
+                "Autoimmune Hepatitis"
+            ],
+            [
+                "P1007",
+                "75",
+                "In-patient",
+                "60.2",
+                "Recurrent Thrombosis"
+            ]
+        ]
+    }
+}

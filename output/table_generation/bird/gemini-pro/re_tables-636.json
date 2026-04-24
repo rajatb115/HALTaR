@@ -1,0 +1,45 @@
+{
+    "table-636-636": {
+        "title": [
+            "Author",
+            "Post Title",
+            "Vote Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Posts by Matt Parker with High Vote Counts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts by Matt Parker have more than 4 votes?",
+        "data": [
+            [
+                "Matt Parker",
+                "Prime Number Patterns",
+                "5"
+            ],
+            [
+                "Matt Parker",
+                "The Banach-Tarski Paradox",
+                "7"
+            ],
+            [
+                "Matt Parker",
+                "Understanding Infinity",
+                "6"
+            ],
+            [
+                "Matt Parker",
+                "The Monty Hall Problem",
+                "8"
+            ],
+            [
+                "Matt Parker",
+                "Calculating Pi with Darts",
+                "4"
+            ]
+        ]
+    }
+}

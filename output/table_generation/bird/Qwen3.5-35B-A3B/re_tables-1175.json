@@ -1,0 +1,62 @@
+{
+    "table-1175-1175": {
+        "title": [
+            "Patient ID",
+            "Examination Date",
+            "Age",
+            "Lab Test Type",
+            "Result Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average age of patients examined in the laboratory for the October of the year 1991?",
+        "data": [
+            [
+                "P-4012",
+                "01-Oct-1967",
+                "45",
+                "Hematology",
+                "Normal"
+            ],
+            [
+                "P-4105",
+                "31-Dec-1899",
+                "62",
+                "Chemistry",
+                "Abnormal"
+            ],
+            [
+                "P-4220",
+                "05-May-1776",
+                "78",
+                "Microbiology",
+                "Pending"
+            ],
+            [
+                "P-4333",
+                "09-Nov-1600",
+                "N/A",
+                "Radiology",
+                "Completed"
+            ],
+            [
+                "P-5002",
+                "",
+                "",
+                "Pathology",
+                "Error"
+            ],
+            [
+                "",
+                "",
+                "",
+                "Immunology",
+                "Rejected"
+            ]
+        ]
+    }
+}

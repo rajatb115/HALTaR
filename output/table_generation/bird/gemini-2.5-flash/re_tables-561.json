@@ -1,0 +1,62 @@
+{
+    "table-561-561": {
+        "title": [
+            "Badge Name",
+            "Tier",
+            "Unlock Condition",
+            "Date Introduced",
+            "Number Awarded"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the number of \"Revival\" badges.",
+        "data": [
+            [
+                "Revival",
+                "I",
+                "Complete 1st \"Revival\" questline",
+                "2023-01-15",
+                "12500"
+            ],
+            [
+                "Revival",
+                "II",
+                "Complete 2nd \"Revival\" questline",
+                "2023-03-20",
+                "8700"
+            ],
+            [
+                "Revival",
+                "III",
+                "Complete all \"Revival\" questlines",
+                "2023-05-10",
+                "4100"
+            ],
+            [
+                "Revivalist",
+                "Event",
+                "Participate in \"Revival\" community event",
+                "2023-02-01",
+                "18300"
+            ],
+            [
+                "Grand Revival",
+                "Master",
+                "Achieve top 1% in \"Revival\" leaderboard",
+                "2023-05-10",
+                "150"
+            ],
+            [
+                "Legacy Revival",
+                "Special",
+                "Log in during \"Revival\" anniversary week",
+                "2024-01-15",
+                "21000"
+            ]
+        ]
+    }
+}

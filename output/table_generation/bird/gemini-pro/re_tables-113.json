@@ -1,0 +1,57 @@
+{
+    "table-113-113": {
+        "title": [
+            "Client ID",
+            "Birth Date",
+            "Gender",
+            "Account Open Date",
+            "District"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Client Account Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the female client who was born in 1976/1/29, which district did she opened her account?",
+        "data": [
+            [
+                "12345",
+                "1976-01-29",
+                "Female",
+                "2010-03-15",
+                "Downtown"
+            ],
+            [
+                "67890",
+                "1982-05-10",
+                "Male",
+                "2015-07-22",
+                "Uptown"
+            ],
+            [
+                "24680",
+                "1990-11-01",
+                "Female",
+                "2018-12-01",
+                "Midtown"
+            ],
+            [
+                "13579",
+                "1976-01-29",
+                "Male",
+                "2020-04-05",
+                "Westside"
+            ],
+            [
+                "98765",
+                "1985-08-18",
+                "Female",
+                "2022-09-10",
+                "Eastside"
+            ]
+        ]
+    }
+}

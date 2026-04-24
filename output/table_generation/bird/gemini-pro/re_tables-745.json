@@ -1,0 +1,37 @@
+{
+    "table-745-745": {
+        "title": [
+            "Publisher",
+            "Number of Superheroes"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Superhero Publication Comparison: DC vs. Marvel",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Between DC and Marvel Comics, which publisher has published more superheroes? Find the difference in the number of superheroes they have published.",
+        "data": [
+            [
+                "DC Comics",
+                "1,800"
+            ],
+            [
+                "Marvel Comics",
+                "7,000"
+            ],
+            [
+                "Difference",
+                "5,200"
+            ],
+            [
+                "Data Source",
+                "Fandom.com"
+            ],
+            [
+                "Last Updated",
+                "Oct 7, 2024"
+            ]
+        ]
+    }
+}

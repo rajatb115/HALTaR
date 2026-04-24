@@ -1,0 +1,53 @@
+{
+    "table-171-171": {
+        "title": [
+            "Document ID",
+            "Template ID",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the document id, template id, and description for the document with the name Robbin CV.",
+        "data": [
+            [
+                "DOC_7482",
+                "TPL_CV_STD",
+                "Standard resume layout for professional profiles"
+            ],
+            [
+                "DOC_A1B2C3",
+                "TCV_EXEC",
+                "Executive summary format with contact details"
+            ],
+            [
+                "DOCS_99X",
+                "TEMPL_GEN",
+                "Generic cover letter structure"
+            ],
+            [
+                "D_2023_ROBBIN",
+                "TC_V2_BASIC",
+                "Basic curriculum vitae design for entry-level roles"
+            ],
+            [
+                "RVD_8821",
+                "TBL_RESUME",
+                "Resume builder template with skills section"
+            ],
+            [
+                "DRV_4402",
+                "TC_PROFESSIONAL",
+                "Professional portfolio style document"
+            ],
+            [
+                "DCV_1122",
+                "TB_LATEST",
+                "Updated version of standard CV template"
+            ]
+        ]
+    }
+}

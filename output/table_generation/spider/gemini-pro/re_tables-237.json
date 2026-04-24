@@ -1,0 +1,46 @@
+{
+    "table-237-237": {
+        "title": [
+            "Visitor Name",
+            "Age",
+            "Tickets Purchased"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Visitors and Ticket Purchases",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name and age of the visitor who bought the most tickets at once.",
+        "data": [
+            [
+                "John Smith",
+                "32",
+                "5"
+            ],
+            [
+                "Alice Brown",
+                "24",
+                "3"
+            ],
+            [
+                "David Lee",
+                "45",
+                "5"
+            ],
+            [
+                "Emily White",
+                "28",
+                "2"
+            ],
+            [
+                "Michael Gray",
+                "38",
+                "4"
+            ]
+        ]
+    }
+}

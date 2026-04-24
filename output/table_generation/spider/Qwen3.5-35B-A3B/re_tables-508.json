@@ -1,0 +1,85 @@
+{
+    "table-508-508": {
+        "title": [
+            "Continent",
+            "Average Life Expectancy",
+            "Total Population",
+            "Region Code",
+            "Data Source",
+            "Last Updated",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average life expectancy and total population for each continent where the average life expectancy is shorter than 72?",
+        "data": [
+            [
+                "Africa",
+                "64.2",
+                "4.1B",
+                "AF",
+                "WHO",
+                "01/01/YYYY",
+                "Verified"
+            ],
+            [
+                "Asia",
+                "71.5",
+                "3.8B",
+                "AS",
+                "UN",
+                "5/15/YYYY",
+                "Pending Review"
+            ],
+            [
+                "South America",
+                "81.3",
+                "N/A",
+                "SA",
+                "PAHO",
+                "9/30/YYYY",
+                "Incomplete"
+            ],
+            [
+                "Oceania",
+                "N/A",
+                "44M",
+                "OC",
+                "AUSTRALIA GOV",
+                "",
+                "Missing Data"
+            ],
+            [
+                "North America",
+                "N.A.",
+                ".59B",
+                "NA",
+                "CDC",
+                "",
+                ""
+            ],
+            [
+                "Europe",
+                "N/A",
+                "-747M",
+                "EU",
+                "EUROSTAT",
+                "/",
+                "Error in Record"
+            ],
+            [
+                "Antarctica",
+                "None",
+                "No Permanent Residents",
+                "AN",
+                "SCAR",
+                "Not Applicable",
+                "Excluded from Analysis"
+            ]
+        ]
+    }
+}

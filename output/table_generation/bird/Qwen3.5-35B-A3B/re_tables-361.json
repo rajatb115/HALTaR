@@ -1,0 +1,85 @@
+{
+    "table-361-361": {
+        "title": [
+            "Card_Name",
+            "Set_Code",
+            "Language_Available",
+            "Region",
+            "Release_Year",
+            "Status",
+            "Publisher"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "cards are not directly linked to language but through table 'set'. you need to add set in covered table & rephrase your question\nWhat are the languages available for the set that card 'Angel of Mercy' is in?",
+        "data": [
+            [
+                "Angel of Mercy",
+                "M14",
+                "English",
+                "North America",
+                "2014",
+                "Active",
+                "Wizards of the Coast"
+            ],
+            [
+                "Soul's Attendant",
+                "MDS",
+                "Spanish",
+                "Europe",
+                "2012",
+                "Active",
+                "Wizards of the Coast"
+            ],
+            [
+                "Wingmate Roc",
+                "MRA",
+                "French",
+                "Asia Pacific",
+                "2015",
+                "Active",
+                "Wizards of the Coast"
+            ],
+            [
+                "Guardian Idol",
+                "MRS",
+                "German",
+                "Latin America",
+                "2015",
+                "Active",
+                "Wizards of the Coast"
+            ],
+            [
+                "Mistral Singer",
+                "MRR",
+                "Italian",
+                "Africa Middle East",
+                "2015",
+                "Active",
+                "Wizards of the Coast"
+            ],
+            [
+                "Seraphic Giant",
+                "MRD",
+                "Japanese",
+                "Oceania",
+                "2015",
+                "Active",
+                "Wizards of the Coast"
+            ],
+            [
+                "Archangel Avacyn",
+                "AVA",
+                "Portuguese",
+                "Global",
+                "2015",
+                "Active",
+                "Wizards of the Coast"
+            ]
+        ]
+    }
+}

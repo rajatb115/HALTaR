@@ -1,0 +1,37 @@
+{
+    "table-300-300": {
+        "title": [
+            "Department",
+            "Offers Degree"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Departments Offering Degrees",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many departments offer any degree?",
+        "data": [
+            [
+                "Biology",
+                "Yes"
+            ],
+            [
+                "Chemistry",
+                "Yes"
+            ],
+            [
+                "Physics",
+                "Yes"
+            ],
+            [
+                "Mathematics",
+                "Yes"
+            ],
+            [
+                "Engineering",
+                "Yes"
+            ]
+        ]
+    }
+}

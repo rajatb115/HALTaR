@@ -1,0 +1,58 @@
+{
+    "table-812-812": {
+        "title": [
+            "Superhero Name",
+            "Alignment",
+            "Primary Superpower",
+            "Secondary Ability",
+            "Affiliation",
+            "First Appearance",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the alignment and superpowers of the superhero named Atom IV.",
+        "data": [
+            [
+                "Atom IV",
+                "Chaotic Good",
+                "Microscopic Size Manipulation",
+                "Molecular Density Control",
+                "Justice League International",
+                "",
+                "Active"
+            ],
+            [
+                "Quantum Man",
+                "Neutral Good",
+                "Quantum Tunneling",
+                "Energy Projection",
+                "Outsiders",
+                "",
+                "Retired"
+            ],
+            [
+                "Micro-Man",
+                "Lawful Evil",
+                "Shrinkage & Growth",
+                "Insect Communication",
+                "LexCorp Labs",
+                "",
+                "Deceased"
+            ],
+            [
+                "Sub-Micro",
+                "True Neutral",
+                "Phase Shifting",
+                "Intangibility",
+                "Independent",
+                "",
+                "Active"
+            ]
+        ]
+    }
+}

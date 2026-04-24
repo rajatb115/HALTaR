@@ -1,0 +1,40 @@
+{
+    "table-967-967": {
+        "title": [
+            "Race ID",
+            "Driver ID"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Race Participants",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many driver participated in race ID number 18?",
+        "data": [
+            [
+                "18",
+                "23"
+            ],
+            [
+                "18",
+                "35"
+            ],
+            [
+                "18",
+                "42"
+            ],
+            [
+                "18",
+                "51"
+            ],
+            [
+                "18",
+                "68"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-330-330": {
+        "title": [
+            "Carcinogen",
+            "Chemical Formula",
+            "Number of Atoms"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Carcinogenic Molecules by Atom Count",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which carcinogenic molecule have the highest number of atoms consisted in it?",
+        "data": [
+            [
+                "Benzo[a]pyrene",
+                "C20H12",
+                "32"
+            ],
+            [
+                "Aflatoxin B1",
+                "C17H12O6",
+                "35"
+            ],
+            [
+                "Dibenz[a,h]anthracene",
+                "C22H14",
+                "36"
+            ],
+            [
+                "7,12-Dimethylbenz[a]anthracene",
+                "C20H16",
+                "36"
+            ],
+            [
+                "N-Nitrosodimethylamine",
+                "C2H6N2O",
+                "11"
+            ]
+        ]
+    }
+}

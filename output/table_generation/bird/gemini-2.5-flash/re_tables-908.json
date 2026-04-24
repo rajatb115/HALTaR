@@ -1,0 +1,76 @@
+{
+    "table-908-908": {
+        "title": [
+            "Race Name",
+            "Date",
+            "Country",
+            "Race Type",
+            "Location"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all races in 2017 and the hosting country order by date of the event.",
+        "data": [
+            [
+                "Dakar Rally (Start)",
+                "2017-01-02",
+                "Paraguay",
+                "Rally Raid",
+                "Asunci\u00f3n"
+            ],
+            [
+                "Australian Grand Prix",
+                "2017-03-26",
+                "Australia",
+                "Formula 1",
+                "Melbourne"
+            ],
+            [
+                "Boston Marathon",
+                "2017-04-17",
+                "USA",
+                "Running",
+                "Boston"
+            ],
+            [
+                "Indy 500",
+                "2017-05-28",
+                "USA",
+                "IndyCar",
+                "Indianapolis"
+            ],
+            [
+                "24 Hours of Le Mans",
+                "2017-06-17",
+                "France",
+                "Endurance Racing",
+                "Le Mans"
+            ],
+            [
+                "Tour de France (Stage 1)",
+                "2017-07-01",
+                "Germany",
+                "Cycling",
+                "D\u00fcsseldorf"
+            ],
+            [
+                "Berlin Marathon",
+                "2017-09-24",
+                "Germany",
+                "Running",
+                "Berlin"
+            ],
+            [
+                "Japanese Grand Prix",
+                "2017-10-08",
+                "Japan",
+                "Formula 1",
+                "Suzuka"
+            ]
+        ]
+    }
+}

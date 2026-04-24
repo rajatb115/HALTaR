@@ -1,0 +1,45 @@
+{
+    "table-578-578": {
+        "title": [
+            "Dog Name",
+            "Breed",
+            "Treatment Cost"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Dog Treatment Costs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which dogs have not cost their owner more than 1000 for treatment ? List the dog names .",
+        "data": [
+            [
+                "Buddy",
+                "Golden Retriever",
+                "750"
+            ],
+            [
+                "Lucy",
+                "Labrador",
+                "900"
+            ],
+            [
+                "Max",
+                "German Shepherd",
+                "1200"
+            ],
+            [
+                "Daisy",
+                "Beagle",
+                "600"
+            ],
+            [
+                "Charlie",
+                "Poodle",
+                "1100"
+            ]
+        ]
+    }
+}

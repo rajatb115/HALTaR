@@ -1,0 +1,52 @@
+{
+    "table-84-84": {
+        "title": [
+            "Year",
+            "Make",
+            "Model",
+            "Horsepower"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Car Specifications by Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average horsepower of the cars before 1980?",
+        "data": [
+            [
+                "1970",
+                "Ford",
+                "Mustang",
+                "250"
+            ],
+            [
+                "1973",
+                "Chevrolet",
+                "Impala",
+                "145"
+            ],
+            [
+                "1976",
+                "AMC",
+                "Pacer",
+                "100"
+            ],
+            [
+                "1978",
+                "Pontiac",
+                "Trans Am",
+                "185"
+            ],
+            [
+                "1979",
+                "Oldsmobile",
+                "Cutlass",
+                "160"
+            ]
+        ]
+    }
+}

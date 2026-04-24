@@ -1,0 +1,46 @@
+{
+    "table-519-519": {
+        "title": [
+            "Country",
+            "Population",
+            "Surface Area (km^2)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "North American Countries by Population and Area",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the total population and average surface area corresponding to countries in North America that have a surface area greater than 3000 .",
+        "data": [
+            [
+                "Canada",
+                "38,246,108",
+                "9,984,670"
+            ],
+            [
+                "United States",
+                "334,805,269",
+                "9,833,520"
+            ],
+            [
+                "Mexico",
+                "128,455,567",
+                "1,972,550"
+            ],
+            [
+                "Greenland (Denmark)",
+                "56,421",
+                "2,166,086"
+            ],
+            [
+                "Guatemala",
+                "18,092,026",
+                "108,890"
+            ]
+        ]
+    }
+}

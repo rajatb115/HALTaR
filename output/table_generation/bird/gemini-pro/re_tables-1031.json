@@ -1,0 +1,52 @@
+{
+    "table-1031-1031": {
+        "title": [
+            "League",
+            "Number of Draws",
+            "Total Matches",
+            "Draw Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "League Draw Statistics in 2016",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which League had the most matches end as draw in the 2016 season?",
+        "data": [
+            [
+                "La Liga",
+                "92",
+                "380",
+                "24.2%"
+            ],
+            [
+                "Premier League",
+                "74",
+                "380",
+                "19.5%"
+            ],
+            [
+                "Bundesliga",
+                "68",
+                "306",
+                "22.2%"
+            ],
+            [
+                "Serie A",
+                "97",
+                "380",
+                "25.5%"
+            ],
+            [
+                "Ligue 1",
+                "85",
+                "380",
+                "22.4%"
+            ]
+        ]
+    }
+}

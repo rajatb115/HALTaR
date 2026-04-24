@@ -1,0 +1,76 @@
+{
+    "table-1170-1170": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Uric Acid Level (mg/dL)",
+            "Uric Acid Status",
+            "Age (Years)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the ratio of male to female patients among all those with abnormal uric acid counts?",
+        "data": [
+            [
+                "P001",
+                "Male",
+                "8.1",
+                "Abnormal",
+                "58"
+            ],
+            [
+                "P002",
+                "Female",
+                "7.2",
+                "Abnormal",
+                "65"
+            ],
+            [
+                "P003",
+                "Male",
+                "5.5",
+                "Normal",
+                "42"
+            ],
+            [
+                "P004",
+                "Female",
+                "9.3",
+                "Abnormal",
+                "71"
+            ],
+            [
+                "P005",
+                "Male",
+                "7.8",
+                "Abnormal",
+                "39"
+            ],
+            [
+                "P006",
+                "Female",
+                "5.2",
+                "Normal",
+                "33"
+            ],
+            [
+                "P007",
+                "Male",
+                "8.5",
+                "Abnormal",
+                "68"
+            ],
+            [
+                "P008",
+                "Female",
+                "6.9",
+                "Abnormal",
+                "51"
+            ]
+        ]
+    }
+}

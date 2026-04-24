@@ -1,0 +1,67 @@
+{
+    "table-184-184": {
+        "title": [
+            "Account ID",
+            "Location",
+            "Open Date",
+            "Status",
+            "Customer Type",
+            "Balance Range",
+            "Region Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts in Beroun were opened after 1996?",
+        "data": [
+            [
+                "ACC-1042",
+                "Beroun",
+                "03/15/1977",
+                "Active",
+                "Individual",
+                "$1k-$5k",
+                "CZ-BR"
+            ],
+            [
+                "ACC-AK99",
+                "Berounske Podoli",
+                "3/20/1896",
+                "Closed",
+                "Business",
+                "N/A",
+                "CZ-BO"
+            ],
+            [
+                "ACC-ZX22",
+                "Zdar nad Sazavou",
+                "5/01/1796",
+                "Inactive",
+                "Corporate",
+                ">$1M",
+                "CZ-ZD"
+            ],
+            [
+                "ACC-MP88",
+                "Mlada Boleslav",
+                "6/12/1696",
+                "Pending",
+                "Non-Profit",
+                "<$1k",
+                "MB-CZ"
+            ],
+            [
+                "ACC-LQ33",
+                "Liberec",
+                "7/04/1496",
+                "Suspended",
+                "Family Trust",
+                "$50k-$100k",
+                "LIB-CZ"
+            ]
+        ]
+    }
+}

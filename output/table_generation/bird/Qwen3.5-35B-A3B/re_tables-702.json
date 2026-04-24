@@ -1,0 +1,93 @@
+{
+    "table-702-702": {
+        "title": [
+            "User_ID",
+            "Username",
+            "Total_Posts",
+            "High_Score_Count",
+            "Percentage_Above_50",
+            "Influence_Rank",
+            "Platform",
+            "Date_Analyzed"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all the posts posted by the most influential user, identify the percentage with a score above 50.",
+        "data": [
+            [
+                "U_742",
+                "TechGuru_Official",
+                "45",
+                "32",
+                "71%",
+                "#1",
+                "Reddit",
+                "06/15/2024"
+            ],
+            [
+                "U_B91",
+                "DataWizard_X",
+                "60",
+                "55",
+                "N/A",
+                "#2",
+                "Twitter",
+                "9/1/24"
+            ],
+            [
+                "C_33A",
+                "MarketMover_Pro",
+                "88",
+                "",
+                "%",
+                "#3",
+                "LinkedIn",
+                "24/05/10"
+            ],
+            [
+                "K_L22",
+                "ViralKing_Daily",
+                ";",
+                "",
+                "",
+                "#4",
+                "TikTok",
+                "/ /"
+            ],
+            [
+                "P_Q9Z",
+                "InsightSeeker",
+                ",",
+                ", ,",
+                "%,",
+                "#5",
+                "Medium",
+                "-/-/--"
+            ],
+            [
+                "R_T1X",
+                "TrendSpotter_AI",
+                ".",
+                ". ,",
+                "%.",
+                "#6",
+                "Quora",
+                "--/--/--"
+            ],
+            [
+                "S_W4Y",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

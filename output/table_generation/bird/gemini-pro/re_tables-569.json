@@ -1,0 +1,39 @@
+{
+    "table-569-569": {
+        "title": [
+            "Vote ID",
+            "User Display Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "User Vote Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the display name of the user who made the vote No.6347.",
+        "data": [
+            [
+                "6345",
+                "John Doe"
+            ],
+            [
+                "6346",
+                "Jane Smith"
+            ],
+            [
+                "6347",
+                "Robert Jones"
+            ],
+            [
+                "6348",
+                "Alice Brown"
+            ],
+            [
+                "6349",
+                "David Lee"
+            ]
+        ]
+    }
+}

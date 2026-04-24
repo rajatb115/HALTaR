@@ -1,0 +1,52 @@
+{
+    "table-1171-1171": {
+        "title": [
+            "Patient ID",
+            "Initial Visit Date",
+            "Examination Date",
+            "Time to Examination (Years)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Patient Examination Timelines",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients hadn't undergone a medical examination until at least a year following their initial hospital visit?",
+        "data": [
+            [
+                "1234",
+                "2022-01-15",
+                "2023-02-20",
+                "1.09"
+            ],
+            [
+                "5678",
+                "2021-05-10",
+                "2022-06-12",
+                "1.01"
+            ],
+            [
+                "9012",
+                "2020-11-01",
+                "2022-12-05",
+                "2.10"
+            ],
+            [
+                "3456",
+                "2023-03-22",
+                "2024-04-25",
+                "1.09"
+            ],
+            [
+                "7890",
+                "2022-09-07",
+                "2023-10-10",
+                "1.01"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-185-185": {
+        "title": [
+            "Version Number",
+            "Template Type Code",
+            "Release Date",
+            "Status",
+            "Description"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the lowest version number, along with its corresponding template type code.",
+        "data": [
+            [
+                "1.0.0",
+                "TPL-A",
+                "2022-01-15",
+                "Stable",
+                "Initial stable release"
+            ],
+            [
+                "0.9.0",
+                "TPL-B",
+                "2021-11-01",
+                "Beta",
+                "Early access template"
+            ],
+            [
+                "1.1.0",
+                "TPL-A",
+                "2022-03-20",
+                "Stable",
+                "Minor feature update"
+            ],
+            [
+                "0.8.5",
+                "TPL-C",
+                "2021-09-10",
+                "Deprecated",
+                "Legacy reporting template"
+            ],
+            [
+                "2.0.0",
+                "TPL-D",
+                "2023-05-01",
+                "Stable",
+                "Major overhaul template"
+            ],
+            [
+                "0.7.0",
+                "TPL-B",
+                "2021-07-01",
+                "Alpha",
+                "Internal testing template"
+            ],
+            [
+                "1.0.1",
+                "TPL-A",
+                "2022-02-01",
+                "Stable",
+                "Bug fix release"
+            ]
+        ]
+    }
+}

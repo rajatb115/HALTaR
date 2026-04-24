@@ -1,0 +1,37 @@
+{
+    "table-1338-1338": {
+        "title": [
+            "Category",
+            "Budgeted Amount"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Budgeted Amounts by Category for October Speaker Event",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total budgeted amount for all category in \"October Speaker\" event?",
+        "data": [
+            [
+                "Venue",
+                "$5,000"
+            ],
+            [
+                "Speaker Fees",
+                "$10,000"
+            ],
+            [
+                "Marketing",
+                "$2,000"
+            ],
+            [
+                "Catering",
+                "$3,000"
+            ],
+            [
+                "Travel",
+                "$1,000"
+            ]
+        ]
+    }
+}

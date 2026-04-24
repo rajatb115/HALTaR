@@ -1,0 +1,77 @@
+{
+    "table-204-204": {
+        "title": [
+            "Element Name",
+            "Symbol",
+            "Atomic Number",
+            "Group",
+            "Period",
+            "Is Bromine?"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In how many atoms is there no bromine?",
+        "data": [
+            [
+                "Hydrogen",
+                "H",
+                "1",
+                "Nonmetal",
+                "1",
+                "No"
+            ],
+            [
+                "Oxygen",
+                "O",
+                "8",
+                "Chalcogen",
+                "2",
+                "No"
+            ],
+            [
+                "Carbon",
+                "C",
+                "6",
+                "Nonmetal",
+                "2",
+                "No"
+            ],
+            [
+                "Chlorine",
+                "Cl",
+                "17",
+                "Halogen",
+                "3",
+                "No"
+            ],
+            [
+                "Bromine",
+                "Br",
+                "35",
+                "Halogen",
+                "4",
+                "Yes"
+            ],
+            [
+                "Iron",
+                "Fe",
+                "26",
+                "Transition Metal",
+                "4",
+                "No"
+            ],
+            [
+                "Helium",
+                "He",
+                "2",
+                "Noble Gas",
+                "1",
+                "No"
+            ]
+        ]
+    }
+}

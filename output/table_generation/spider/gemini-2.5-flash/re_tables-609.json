@@ -1,0 +1,77 @@
+{
+    "table-609-609": {
+        "title": [
+            "Dog ID",
+            "Dog Name",
+            "Breed",
+            "Treatment Type",
+            "Treatment Date",
+            "Treatment Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of dogs that went through a treatment.",
+        "data": [
+            [
+                "D001",
+                "Max",
+                "Golden Retriever",
+                "Vaccination",
+                "2023-01-15",
+                "Completed"
+            ],
+            [
+                "D002",
+                "Bella",
+                "Labrador",
+                "Spay Surgery",
+                "2023-02-20",
+                "Completed"
+            ],
+            [
+                "D003",
+                "Charlie",
+                "German Shepherd",
+                "Dental Cleaning",
+                "2023-03-10",
+                "Completed"
+            ],
+            [
+                "D004",
+                "Lucy",
+                "Poodle",
+                "Allergy Medication",
+                "2023-04-05",
+                "Ongoing"
+            ],
+            [
+                "D005",
+                "Cooper",
+                "Beagle",
+                "Wound Care",
+                "2023-05-12",
+                "Completed"
+            ],
+            [
+                "D006",
+                "Daisy",
+                "Bulldog",
+                "Eye Infection",
+                "2023-06-01",
+                "Completed"
+            ],
+            [
+                "D007",
+                "Rocky",
+                "Boxer",
+                "Physical Therapy",
+                "2023-07-18",
+                "Scheduled"
+            ]
+        ]
+    }
+}

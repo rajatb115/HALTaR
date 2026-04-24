@@ -1,0 +1,43 @@
+{
+    "table-108-108": {
+        "title": [
+            "Branch",
+            "Avg Salary",
+            "Oldest Client Gender"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Client Demographics by Branch Salary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the gender of the oldest client who opened his/her account in the highest average salary branch?",
+        "data": [
+            [
+                "Branch A",
+                "$85,000",
+                "Male"
+            ],
+            [
+                "Branch B",
+                "$82,000",
+                "Female"
+            ],
+            [
+                "Branch C",
+                "$78,000",
+                "Male"
+            ],
+            [
+                "Branch D",
+                "$75,000",
+                "Female"
+            ],
+            [
+                "Branch E",
+                "$72,000",
+                "Male"
+            ]
+        ]
+    }
+}

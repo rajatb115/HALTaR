@@ -1,0 +1,77 @@
+{
+    "table-40-40": {
+        "title": [
+            "StudentID",
+            "FullName",
+            "PetType",
+            "HasCatPet",
+            "EnrollmentYear",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the id of students who do not have a cat pet.",
+        "data": [
+            [
+                "S1042",
+                "Alice Johnson",
+                "Dog",
+                "No",
+                "976",
+                "Active"
+            ],
+            [
+                "S1055",
+                "Bob Smith",
+                "None",
+                "No",
+                "982",
+                "Active"
+            ],
+            [
+                "S1103",
+                "Carol Davis",
+                "Rabbit",
+                "No",
+                "991",
+                "Inactive"
+            ],
+            [
+                "S2014",
+                "David Lee",
+                "Fish",
+                "No",
+                "",
+                "Pending"
+            ],
+            [
+                "T3022",
+                "Eva Martinez",
+                "Bird",
+                "Yes",
+                "005",
+                "Active"
+            ],
+            [
+                "U4011",
+                "Frank Wilson",
+                "Dog",
+                "No",
+                "-12",
+                "Graduated"
+            ],
+            [
+                "V5008",
+                "Grace Kim",
+                "None",
+                "No",
+                "null",
+                "Transferred"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-1128-1128": {
+        "title": [
+            "Player Name",
+            "Vision Score",
+            "Country"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "High Vision Score Players",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Locate players with vision scores of 90 and above, state the country of these players.",
+        "data": [
+            [
+                "Faker",
+                "95",
+                "South Korea"
+            ],
+            [
+                "Chovy",
+                "92",
+                "South Korea"
+            ],
+            [
+                "Caps",
+                "91",
+                "Denmark"
+            ],
+            [
+                "Rookie",
+                "90",
+                "South Korea"
+            ],
+            [
+                "ShowMaker",
+                "90",
+                "South Korea"
+            ]
+        ]
+    }
+}

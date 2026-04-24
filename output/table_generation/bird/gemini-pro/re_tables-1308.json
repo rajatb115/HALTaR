@@ -1,0 +1,45 @@
+{
+    "table-1308-1308": {
+        "title": [
+            "Patient ID",
+            "Red Blood Cell Level",
+            "Clinic Type"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patients with Abnormal Red Blood Cell Levels in Outpatient Clinic",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the patient's ID if he or she has an abnormal level of red blood cell and is followed at the outpatient clinic.",
+        "data": [
+            [
+                "12345",
+                "High",
+                "Outpatient"
+            ],
+            [
+                "67890",
+                "Low",
+                "Outpatient"
+            ],
+            [
+                "24680",
+                "High",
+                "Outpatient"
+            ],
+            [
+                "13579",
+                "Low",
+                "Outpatient"
+            ],
+            [
+                "98765",
+                "High",
+                "Outpatient"
+            ]
+        ]
+    }
+}

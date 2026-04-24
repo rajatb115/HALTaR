@@ -1,0 +1,45 @@
+{
+    "table-1279-1279": {
+        "title": [
+            "Patient ID",
+            "Anti-DNA-II Level",
+            "Hospital Admission"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Anti-DNA-II Levels and Hospital Admissions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of the patients with an abnormal level of anti-DNA-II, how many of them admitted to the hospital?",
+        "data": [
+            [
+                "1234",
+                "Abnormal",
+                "Yes"
+            ],
+            [
+                "5678",
+                "Abnormal",
+                "No"
+            ],
+            [
+                "9012",
+                "Normal",
+                "No"
+            ],
+            [
+                "3456",
+                "Abnormal",
+                "Yes"
+            ],
+            [
+                "7890",
+                "Normal",
+                "Yes"
+            ]
+        ]
+    }
+}

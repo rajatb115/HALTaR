@@ -1,0 +1,55 @@
+{
+    "table-250-250": {
+        "title": [
+            "Player ID",
+            "Country",
+            "League",
+            "Season",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many distinct countries do players come from?",
+        "data": [
+            [
+                "P0042",
+                "Brazil",
+                "Premier League",
+                "7",
+                "Active"
+            ],
+            [
+                "P1093",
+                "Germany",
+                "La Liga",
+                "6",
+                "Injured"
+            ],
+            [
+                "F2210",
+                "France",
+                "Bundesliga",
+                "5",
+                "Suspended"
+            ],
+            [
+                "M8831",
+                "Argentina",
+                "Serie A",
+                "N/A",
+                "Retired"
+            ],
+            [
+                "K4402",
+                "Japan",
+                "J-League",
+                "4",
+                "Active"
+            ]
+        ]
+    }
+}

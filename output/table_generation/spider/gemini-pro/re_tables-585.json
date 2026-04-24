@@ -1,0 +1,43 @@
+{
+    "table-585-585": {
+        "title": [
+            "Treatment Type",
+            "Description",
+            "Total Cost"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Treatment Type Cost Comparison",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give me the description of the treatment type whose total cost is the lowest.",
+        "data": [
+            [
+                "Type A",
+                "Description A",
+                "\\$100"
+            ],
+            [
+                "Type B",
+                "Description B",
+                "\\$150"
+            ],
+            [
+                "Type C",
+                "Description C",
+                "\\$200"
+            ],
+            [
+                "Type D",
+                "Description D",
+                "\\$120"
+            ],
+            [
+                "Type E",
+                "Description E",
+                "\\$180"
+            ]
+        ]
+    }
+}

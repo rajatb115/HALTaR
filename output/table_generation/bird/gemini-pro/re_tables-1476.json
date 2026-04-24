@@ -1,0 +1,52 @@
+{
+    "table-1476-1476": {
+        "title": [
+            "Customer ID",
+            "Region",
+            "Consumption (2012)",
+            "Consumption Tier"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Customer Consumption Details in KAM - 2012",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many customers in KAM had a consumption of less than 30,000 for the year 2012?",
+        "data": [
+            [
+                "12345",
+                "KAM",
+                "25,000",
+                "Low"
+            ],
+            [
+                "67890",
+                "EMEA",
+                "35,000",
+                "Medium"
+            ],
+            [
+                "13579",
+                "KAM",
+                "15,000",
+                "Low"
+            ],
+            [
+                "24680",
+                "NAM",
+                "45,000",
+                "High"
+            ],
+            [
+                "98765",
+                "KAM",
+                "28,000",
+                "Low"
+            ]
+        ]
+    }
+}

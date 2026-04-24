@@ -1,0 +1,103 @@
+{
+    "table-75-75": {
+        "title": [
+            "Car Model",
+            "Cylinders",
+            "Production Year",
+            "Weight (lbs)",
+            "Manufacturer",
+            "Fuel Efficiency (MPG)",
+            "Body Style",
+            "Engine Displacement (L)"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the minimum weight of the car with 8 cylinders produced in 1974 ?",
+        "data": [
+            [
+                "Ford Pinto",
+                "6",
+                "74",
+                "3000",
+                "Ford",
+                "40",
+                "Sedan",
+                "0.8"
+            ],
+            [
+                "Chevrolet Vega",
+                "8",
+                "54",
+                "-",
+                "Chevrolet",
+                "N/A",
+                "Hatchback",
+                "9.83"
+            ],
+            [
+                "Dodge Dart",
+                "",
+                "",
+                "",
+                "Dodge",
+                "",
+                "-",
+                ""
+            ],
+            [
+                "Plymouth Valiant",
+                "/",
+                "7",
+                "Plymouth",
+                "-",
+                "Coupe",
+                "",
+                ""
+            ],
+            [
+                "AMC Hornet",
+                "V8",
+                "AMC",
+                "MPG",
+                "Wagon",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Buick Apollo",
+                "L",
+                "Buick",
+                "City/Highway",
+                "Convertible",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Oldsmobile Omega",
+                "I4",
+                "Olds",
+                "Highway Only",
+                "Hardtop",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Pontiac Ventura",
+                "Inline-6",
+                "Pontiac",
+                "Combined Avg",
+                "Station Wagon",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

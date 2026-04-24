@@ -1,0 +1,37 @@
+{
+    "table-651-651": {
+        "title": [
+            "Singer Name",
+            "Total Sales"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Singer Song Sales",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For each singer name, what is the total sales for their songs?",
+        "data": [
+            [
+                "Taylor Swift",
+                "200 Million"
+            ],
+            [
+                "Elvis Presley",
+                "300 Million"
+            ],
+            [
+                "Michael Jackson",
+                "400 Million"
+            ],
+            [
+                "The Beatles",
+                "600 Million"
+            ],
+            [
+                "Rihanna",
+                "250 Million"
+            ]
+        ]
+    }
+}

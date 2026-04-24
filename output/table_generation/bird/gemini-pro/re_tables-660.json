@@ -1,0 +1,39 @@
+{
+    "table-660-660": {
+        "title": [
+            "Tag Name",
+            "Post Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Tag Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many tags have post count between 5,000 to 7,000?",
+        "data": [
+            [
+                "tag_a",
+                "5200"
+            ],
+            [
+                "tag_b",
+                "6800"
+            ],
+            [
+                "tag_c",
+                "5900"
+            ],
+            [
+                "tag_d",
+                "6100"
+            ],
+            [
+                "tag_e",
+                "5500"
+            ]
+        ]
+    }
+}

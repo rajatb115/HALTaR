@@ -1,0 +1,69 @@
+{
+    "table-802-802": {
+        "title": [
+            "Superhero Group",
+            "Count",
+            "Ratio Component",
+            "Total Heroes",
+            "Gender Balance Score",
+            "Source Database"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the ratio between male superheroes and female superheroes.",
+        "data": [
+            [
+                "Male Superheroes",
+                "42",
+                "Numerator",
+                "N/A",
+                "Positive",
+                "Marvel Archive"
+            ],
+            [
+                "Female Superheroes",
+                "16",
+                "Denominator",
+                "Negative",
+                "Negative",
+                "DC Comics Index"
+            ],
+            [
+                "Total Male/Female",
+                "58",
+                "Combined",
+                "500",
+                "Mixed",
+                "Global Hero Registry"
+            ],
+            [
+                "Ratio Value",
+                "0.76",
+                "Calculated",
+                "N/A",
+                "Balanced",
+                "Statistical Model"
+            ],
+            [
+                "Sample Size",
+                "3000",
+                "Verified",
+                "N/A",
+                "High Confidence",
+                "Research Team"
+            ],
+            [
+                "Data Collection Date",
+                "24 Oct 23",
+                "Recorded",
+                "N/A",
+                "Current",
+                "Official Report"
+            ]
+        ]
+    }
+}

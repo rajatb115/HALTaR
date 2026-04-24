@@ -1,0 +1,39 @@
+{
+    "table-535-535": {
+        "title": [
+            "Display Name",
+            "View Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Top Users by View Count",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the display name of the user who has the most number of views?",
+        "data": [
+            [
+                "User A",
+                "12345"
+            ],
+            [
+                "User B",
+                "10000"
+            ],
+            [
+                "User C",
+                "9876"
+            ],
+            [
+                "User D",
+                "7000"
+            ],
+            [
+                "User E",
+                "6543"
+            ]
+        ]
+    }
+}

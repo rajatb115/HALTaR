@@ -1,0 +1,83 @@
+{
+    "table-1380-1380": {
+        "title": [
+            "Event ID",
+            "Date Held",
+            "Meeting Title",
+            "Attendee Count",
+            "Status",
+            "Duration Minutes",
+            "Location Code",
+            "Organizer"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many meeting events were held in 2020?",
+        "data": [
+            [
+                "EVT-2041",
+                "06/15/2017",
+                "Q2 Financial Review",
+                "45",
+                "Completed",
+                "90",
+                "NYC-HQ",
+                "Sarah Jenkins"
+            ],
+            [
+                "EVT-2103",
+                "30/09/2021",
+                "Annual Strategy Summit",
+                "82",
+                "Completed - Cancelled",
+                "60",
+                "Remote",
+                "Michael Ross"
+            ],
+            [
+                "EVE-2215",
+                "05/01/2022",
+                "Product Launch Prep",
+                "70",
+                "Completed Pending Approval",
+                "120",
+                "LON-OFFICE",
+                "Emily Chen"
+            ],
+            [
+                "EVD-2308",
+                "01/12/2023",
+                "Board Quarterly Update",
+                "12",
+                "Scheduled",
+                "TBD",
+                "NY-CENTRAL",
+                "David Lee"
+            ],
+            [
+                "EVF-2419",
+                "14/03/2024",
+                "Client Onboarding Session",
+                "",
+                "Scheduled",
+                "N/A",
+                "REMOTE-ZOOM",
+                "Jessica Wu"
+            ],
+            [
+                "EVG-2502",
+                "02/06/2025",
+                "Tech Infrastructure Audit",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "table-1003-1003": {
+        "title": [
+            "Racer Name",
+            "Age",
+            "Nationality",
+            "First Race Joined"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "As of the present, what is the full name of the youngest racer? Indicate her nationality and the name of the race to which he/she first joined.",
+        "data": [
+            [
+                "Sofia Rossi",
+                "19",
+                "Italian",
+                "Rookie Challenge Cup"
+            ],
+            [
+                "Kai Tanaka",
+                "24",
+                "Japanese",
+                "Super GT Series"
+            ],
+            [
+                "Chloe Dubois",
+                "22",
+                "French",
+                "Le Mans Prototype Cup"
+            ],
+            [
+                "Liam O'Connell",
+                "20",
+                "Irish",
+                "British Touring Car"
+            ],
+            [
+                "Elena Petrova",
+                "27",
+                "Russian",
+                "Moscow Raceway Sprint"
+            ],
+            [
+                "Anya Sharma",
+                "21",
+                "Indian",
+                "Asian Formula 3"
+            ]
+        ]
+    }
+}

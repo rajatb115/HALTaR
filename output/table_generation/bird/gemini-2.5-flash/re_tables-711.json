@@ -1,0 +1,85 @@
+{
+    "table-711-711": {
+        "title": [
+            "Post ID",
+            "Post Title",
+            "Number of Comments",
+            "Comment ID",
+            "Comment Score",
+            "Comment Author",
+            "Comment Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In posts with 1 comment, how many of the comments have 0 score?",
+        "data": [
+            [
+                "P101",
+                "New Feature Discussion",
+                "1",
+                "C001",
+                "5",
+                "Alice",
+                "2023-10-26"
+            ],
+            [
+                "P102",
+                "Bug Report: Login Flow",
+                "1",
+                "C002",
+                "0",
+                "Bob",
+                "2023-10-26"
+            ],
+            [
+                "P103",
+                "Question about API Usage",
+                "1",
+                "C003",
+                "2",
+                "Charlie",
+                "2023-10-27"
+            ],
+            [
+                "P104",
+                "Feedback on UI Redesign",
+                "1",
+                "C004",
+                "0",
+                "David",
+                "2023-10-27"
+            ],
+            [
+                "P105",
+                "Suggestion for Documentation",
+                "1",
+                "C005",
+                "1",
+                "Eve",
+                "2023-10-28"
+            ],
+            [
+                "P106",
+                "Performance Issue on Mobile",
+                "1",
+                "C006",
+                "0",
+                "Frank",
+                "2023-10-28"
+            ],
+            [
+                "P107",
+                "General Inquiry",
+                "1",
+                "C007",
+                "3",
+                "Grace",
+                "2023-10-29"
+            ]
+        ]
+    }
+}

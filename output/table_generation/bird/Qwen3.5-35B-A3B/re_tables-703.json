@@ -1,0 +1,76 @@
+{
+    "table-703-703": {
+        "title": [
+            "Post ID",
+            "Score",
+            "Category",
+            "Author Status",
+            "Date Posted",
+            "View Count",
+            "Comment Count"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts have a score less than 20?",
+        "data": [
+            [
+                "P-1042",
+                "5",
+                "General Discussion",
+                "Verified User",
+                "06/15/2023",
+                "3420",
+                "87"
+            ],
+            [
+                "P-1109",
+                "9",
+                "Technical Support",
+                "New Member",
+                "06/22/2023",
+                "450",
+                ""
+            ],
+            [
+                "P-1205",
+                "-3",
+                "Off Topic",
+                "Unverified",
+                "07/01/2024",
+                "",
+                ""
+            ],
+            [
+                "P-2011",
+                "12",
+                "News Update",
+                "Moderator",
+                "07/10/2024",
+                "12",
+                "1"
+            ],
+            [
+                "P-3004",
+                "-1",
+                "Spam Report",
+                "System Bot",
+                "08/01/1999",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "P-4055",
+                "",
+                "None",
+                "Guest",
+                "09/15/2000",
+                "",
+                ""
+            ]
+        ]
+    }
+}

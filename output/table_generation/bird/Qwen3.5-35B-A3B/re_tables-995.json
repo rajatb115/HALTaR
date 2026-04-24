@@ -1,0 +1,85 @@
+{
+    "table-995-995": {
+        "title": [
+            "Constructor",
+            "Points Scored",
+            "Nationality",
+            "Race Location",
+            "Season Range",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which constructor scored most points from Monaco Grand Prix between 1980 and 2010? List the score, name and nationality of this team.",
+        "data": [
+            [
+                "Williams-Renault",
+                "467",
+                "British",
+                "Monaco",
+                "30 Years",
+                "Champion",
+                "Dominant era in F1 history"
+            ],
+            [
+                "> Ferrari",
+                "512",
+                "Italian",
+                "Monaco > 3 Decades",
+                "Active",
+                "Strong historical performance",
+                ""
+            ],
+            [
+                "McLaren-Mercedes",
+                "890",
+                "British/Monaco",
+                "Global Circuit",
+                "Long-term",
+                "High consistency record",
+                ""
+            ],
+            [
+                "Lotus-Cosworth",
+                "620",
+                "French/Italian",
+                "Historic Track",
+                "Vintage Era",
+                "Peak performance period",
+                ""
+            ],
+            [
+                "Brabham-Ford",
+                "750",
+                "Australian/British",
+                "Classic Venue",
+                "Mid-century",
+                "Notable technical achievements",
+                ""
+            ],
+            [
+                "Tyrrell-Ford Cosworth",
+                "N/A",
+                "Irish/Britain",
+                "Regional Event",
+                "Declining Phase",
+                "Limited recent success",
+                ""
+            ],
+            [
+                "Benetton-Ford HRT",
+                "0",
+                "German/Spanish",
+                "Modern Grid",
+                "Rebranding",
+                "Transition phase challenges",
+                ""
+            ]
+        ]
+    }
+}

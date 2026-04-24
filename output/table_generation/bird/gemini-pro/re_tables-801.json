@@ -1,0 +1,45 @@
+{
+    "table-801-801": {
+        "title": [
+            "Eye Color",
+            "Number of Superheroes",
+            "Percentage"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Superhero Eye Color Distribution",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of superheroes with blue eyes.",
+        "data": [
+            [
+                "Blue",
+                "150",
+                "30%"
+            ],
+            [
+                "Brown",
+                "200",
+                "40%"
+            ],
+            [
+                "Green",
+                "50",
+                "10%"
+            ],
+            [
+                "Other",
+                "100",
+                "20%"
+            ],
+            [
+                "Total",
+                "500",
+                "100%"
+            ]
+        ]
+    }
+}

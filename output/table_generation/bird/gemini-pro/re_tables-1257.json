@@ -1,0 +1,51 @@
+{
+    "table-1257-1257": {
+        "title": [
+            "CRP Level",
+            "Data Recorded",
+            "Number of Patients",
+            "Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Patient Data Analysis Based on C-Reactive Protein Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal C-reactive protein don't have their data recorded?",
+        "data": [
+            [
+                "Normal",
+                "Yes",
+                "1500",
+                "75%"
+            ],
+            [
+                "Normal",
+                "No",
+                "500",
+                "25%"
+            ],
+            [
+                "Elevated",
+                "Yes",
+                "800",
+                "80%"
+            ],
+            [
+                "Elevated",
+                "No",
+                "200",
+                "20%"
+            ],
+            [
+                "Total",
+                "",
+                "3000",
+                "100%"
+            ]
+        ]
+    }
+}

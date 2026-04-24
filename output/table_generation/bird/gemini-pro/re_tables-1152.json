@@ -1,0 +1,52 @@
+{
+    "table-1152-1152": {
+        "title": [
+            "Birth Year",
+            "Patient Count",
+            "Inpatient Count",
+            "Inpatient Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Inpatient Statistics for Specific Birth Year Range",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patient born between Year 1930 to 1940, how many percent of them were inpatient?",
+        "data": [
+            [
+                "1930",
+                "120",
+                "72",
+                "60.0%"
+            ],
+            [
+                "1931-1935",
+                "600",
+                "330",
+                "55.0%"
+            ],
+            [
+                "1936-1940",
+                "550",
+                "303",
+                "55.1%"
+            ],
+            [
+                "1930-1940",
+                "1270",
+                "705",
+                "55.5%"
+            ],
+            [
+                "Overall",
+                "10000",
+                "5000",
+                "50.0%"
+            ]
+        ]
+    }
+}

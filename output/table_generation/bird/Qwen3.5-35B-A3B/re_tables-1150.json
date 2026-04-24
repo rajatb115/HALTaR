@@ -1,0 +1,93 @@
+{
+    "table-1150-1150": {
+        "title": [
+            "Patient_Type",
+            "Gender",
+            "Count",
+            "Percentage_Deviation",
+            "Status",
+            "Region",
+            "Department",
+            "Date_Recorded"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Are there more in-patient or outpatient who were male? What is the deviation in percentage?",
+        "data": [
+            [
+                "In-Patient",
+                "Male",
+                "452",
+                "+12.5%",
+                "Active",
+                "North",
+                "Cardiology",
+                "06/15/2023"
+            ],
+            [
+                "Outpatient",
+                "Male",
+                "387",
+                "-12%",
+                "Discharged",
+                "South",
+                "Orthopedics",
+                "06/22/2023"
+            ],
+            [
+                "In-Patient",
+                "Female",
+                "310",
+                "N/A",
+                "Admitted",
+                "East",
+                "Neurology",
+                "06/25/2023"
+            ],
+            [
+                "Outpatient",
+                "Female",
+                "405",
+                "N/A",
+                "Closed",
+                "West",
+                "Pediatrics",
+                "07/01/2024"
+            ],
+            [
+                "In-Patient",
+                "Male",
+                "298",
+                "+5.2%",
+                "Pending",
+                "Central",
+                "Oncology",
+                "07/01/2024"
+            ],
+            [
+                "Outpatient",
+                "Male",
+                "510",
+                "-8.1%",
+                "Completed",
+                "North",
+                "Dermatology",
+                "07/05/2024"
+            ],
+            [
+                "In-Patient",
+                "Female",
+                "890",
+                "+22%",
+                "Open",
+                "South",
+                "General Medicine",
+                "07/10/2024"
+            ]
+        ]
+    }
+}

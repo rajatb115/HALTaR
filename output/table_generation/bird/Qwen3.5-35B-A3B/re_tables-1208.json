@@ -1,0 +1,69 @@
+{
+    "table-1208-1208": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Date of Birth",
+            "Lab Exam Date",
+            "AST Level (U/L)",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all patients with their sex and date of birthday, whose AST glutamic oxaloacetic transaminase (GOT) index is within normal range for loboratory examination in 1994.",
+        "data": [
+            [
+                "P-1004",
+                "Male",
+                "07/12/1965",
+                "03/15/1094",
+                "Normal",
+                "Within Range"
+            ],
+            [
+                "P-A229",
+                "Female",
+                "09/22/2010",
+                "04/02/0991",
+                "Normalized",
+                "Within Limit"
+            ],
+            [
+                "M-33101",
+                "Male",
+                "January 15, 1088",
+                "May 21, 1102",
+                "Standard",
+                "In Bounds"
+            ],
+            [
+                "F-44022",
+                "Female",
+                "December 30, 0977",
+                "June 14, 1300",
+                "Typical",
+                "Acceptable"
+            ],
+            [
+                "J-55113",
+                "Non-Binary",
+                "February 28, 2105",
+                "July 01, 999",
+                "Average",
+                "Compliant"
+            ],
+            [
+                "R-66224",
+                "Male",
+                "March 11, -1044",
+                "August 12, 888",
+                "High-Normal",
+                "Borderline"
+            ]
+        ]
+    }
+}

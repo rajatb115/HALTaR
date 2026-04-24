@@ -1,0 +1,39 @@
+{
+    "table-148-148": {
+        "title": [
+            "Store ID",
+            "Product Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Store Product Count Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the minimum and maximum number of products of all stores.",
+        "data": [
+            [
+                "Store A",
+                "150"
+            ],
+            [
+                "Store B",
+                "275"
+            ],
+            [
+                "Store C",
+                "90"
+            ],
+            [
+                "Store D",
+                "310"
+            ],
+            [
+                "Store E",
+                "185"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "table-339-339": {
+        "title": [
+            "Molecule_ID",
+            "Atom_Type",
+            "Bond_Order",
+            "Element",
+            "Atom_ID",
+            "Charge",
+            "Hybridization"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the atom ID of double bonded carbon in TR012 molecule?",
+        "data": [
+            [
+                "TR014",
+                "Carbon",
+                "Double",
+                "C",
+                "76",
+                "0",
+                "sp\u00b2"
+            ],
+            [
+                "RX009",
+                "Oxygen",
+                "Single",
+                "O",
+                "",
+                "0.5",
+                "sp\u00b3"
+            ],
+            [
+                "RF221",
+                "Nitrogen",
+                "Triple",
+                "N",
+                "42",
+                "+1",
+                "sp"
+            ],
+            [
+                "MZ883",
+                "Sulfur",
+                "Double",
+                "S",
+                "105",
+                "0",
+                "sp\u2074"
+            ]
+        ]
+    }
+}

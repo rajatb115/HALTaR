@@ -1,0 +1,46 @@
+{
+    "table-535-535": {
+        "title": [
+            "Performance Type",
+            "Max Shares",
+            "Min Shares"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Performance Share Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the maximum and minimum shares for performances that do not have the type \"Live final\".",
+        "data": [
+            [
+                "Qualifying",
+                "9876",
+                "1234"
+            ],
+            [
+                "Semi-final",
+                "8765",
+                "2345"
+            ],
+            [
+                "Quarter-final",
+                "7654",
+                "3456"
+            ],
+            [
+                "Wildcard",
+                "6543",
+                "4567"
+            ],
+            [
+                "Other",
+                "5432",
+                "5678"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-920-920": {
+        "title": [
+            "Event",
+            "Year",
+            "Circuit Used",
+            "Location",
+            "Winner",
+            "Lap Count",
+            "Distance (km)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which circuit did the 2009 Spanish Grand Prix use?",
+        "data": [
+            [
+                "Spanish Grand Prix",
+                "",
+                "Circuit de Barcelona-Catalunya",
+                "Barcelona-Catalunya",
+                "Lewis Hamilton",
+                "66",
+                "307.104"
+            ],
+            [
+                "French Grand Prix (Same Season)",
+                "",
+                "Magny-Cours",
+                "France",
+                "Jenson Button",
+                "70",
+                "0.000"
+            ],
+            [
+                "Monaco Grand Prix Same Season",
+                "",
+                "Circuit de Monaco",
+                "Monaco",
+                "Sebastian Vettel",
+                "80",
+                "N/A"
+            ],
+            [
+                "British Grand Prix Next Season",
+                "",
+                "Silverstone",
+                "UK",
+                "",
+                "",
+                "N/A"
+            ],
+            [
+                "Italian Grand Prix Nearby Season",
+                "",
+                "Monza",
+                "Italy",
+                "Michael Schumacher",
+                "53",
+                "N/A"
+            ]
+        ]
+    }
+}

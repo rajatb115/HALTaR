@@ -1,0 +1,69 @@
+{
+    "table-180-180": {
+        "title": [
+            "Client ID",
+            "Transaction ID",
+            "Transaction Date",
+            "Service Type",
+            "Amount Paid (USD)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much, in total, did client number 617 pay for all of the transactions in 1998?",
+        "data": [
+            [
+                "617",
+                "T1998-001",
+                "1998-01-15",
+                "Consulting",
+                "1250.00"
+            ],
+            [
+                "617",
+                "T1998-005",
+                "1998-03-22",
+                "Software License",
+                "3500.00"
+            ],
+            [
+                "617",
+                "T1998-012",
+                "1998-06-10",
+                "Data Analysis",
+                "875.50"
+            ],
+            [
+                "618",
+                "T1998-015",
+                "1998-07-01",
+                "Project Management",
+                "2100.00"
+            ],
+            [
+                "617",
+                "T1998-020",
+                "1998-09-05",
+                "Support Contract",
+                "1500.00"
+            ],
+            [
+                "617",
+                "T1997-033",
+                "1997-11-12",
+                "Training Session",
+                "600.00"
+            ],
+            [
+                "619",
+                "T1998-025",
+                "1998-10-20",
+                "Hardware Purchase",
+                "4200.00"
+            ]
+        ]
+    }
+}

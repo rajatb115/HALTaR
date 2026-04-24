@@ -1,0 +1,46 @@
+{
+    "table-617-617": {
+        "title": [
+            "Post Creation Date",
+            "Comment ID",
+            "Rating Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Post Comment Ratings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the comment's rating score of the post which was created on 7/19/2010 7:19:56 PM",
+        "data": [
+            [
+                "7/19/2010 7:19:56 PM",
+                "1234",
+                "4.5"
+            ],
+            [
+                "7/19/2010 7:19:56 PM",
+                "5678",
+                "3.2"
+            ],
+            [
+                "7/19/2010 7:19:56 PM",
+                "9101",
+                "4.8"
+            ],
+            [
+                "7/19/2010 7:19:56 PM",
+                "1121",
+                "2.9"
+            ],
+            [
+                "7/19/2010 7:19:56 PM",
+                "3456",
+                "5.0"
+            ]
+        ]
+    }
+}

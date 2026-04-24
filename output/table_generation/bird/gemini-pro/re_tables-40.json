@@ -1,0 +1,52 @@
+{
+    "table-40-40": {
+        "title": [
+            "School Name",
+            "Opening Date",
+            "Number of Test Takers",
+            "Average Score"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Test Taker Statistics for Fresno Schools Opened in 1980",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average number of test takers from Fresno schools that opened between 1/1/1980 and 12/31/1980?",
+        "data": [
+            [
+                "Fresno High",
+                "03/15/1980",
+                "250",
+                "72"
+            ],
+            [
+                "Edison HS",
+                "09/01/1980",
+                "300",
+                "75"
+            ],
+            [
+                "Hoover HS",
+                "11/10/1980",
+                "280",
+                "70"
+            ],
+            [
+                "McLane HS",
+                "05/22/1980",
+                "220",
+                "68"
+            ],
+            [
+                "Sunnyside HS",
+                "07/08/1980",
+                "310",
+                "78"
+            ]
+        ]
+    }
+}

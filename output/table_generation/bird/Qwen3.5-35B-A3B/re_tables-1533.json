@@ -1,0 +1,85 @@
+{
+    "table-1533-1533": {
+        "title": [
+            "Country",
+            "Product ID",
+            "Unit Price",
+            "Station Location",
+            "Currency",
+            "Date Recorded",
+            "Rank by Price"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country had the gas station that sold the most expensive product id No.2 for one unit?",
+        "data": [
+            [
+                "Germany",
+                "002",
+                "\u20ac4.89",
+                "Berlin-Mitte",
+                "EUR",
+                "7/15/2023",
+                "3rd Highest"
+            ],
+            [
+                "France",
+                "6021",
+                "$5.12",
+                "Paris-Centre",
+                "USD",
+                "8/02/2023",
+                "4th Highest"
+            ],
+            [
+                "Japan",
+                "99022",
+                "\u00a5780",
+                "Tokyo-Shibuya",
+                "JPY",
+                "5/10/2024",
+                "2nd Highest"
+            ],
+            [
+                "USA",
+                "#0003",
+                "$6.45",
+                "New York-Manhattan",
+                "USD",
+                "9/01/2022",
+                "1st Highest"
+            ],
+            [
+                "UK",
+                "GBX-02",
+                "\u00a34.20",
+                "London-Westminster",
+                "GBP",
+                "/11/11",
+                "N/A"
+            ],
+            [
+                "Australia",
+                "AU-0092",
+                "$A$7.10",
+                "Sydney-Downtown",
+                "AUD",
+                "",
+                "Top Seller"
+            ],
+            [
+                "Canada",
+                "CA-GAS-2",
+                "C$5.90",
+                "Toronto-Core",
+                "CAD",
+                "-0",
+                ""
+            ]
+        ]
+    }
+}

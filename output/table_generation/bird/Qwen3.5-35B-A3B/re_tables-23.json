@@ -1,0 +1,61 @@
+{
+    "table-23-23": {
+        "title": [
+            "School Name",
+            "Location",
+            "Total Test Takers",
+            "Average Score",
+            "Graduation Rate",
+            "State Ranking"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which school in Contra Costa has the highest number of test takers?",
+        "data": [
+            [
+                "Antioch High School",
+                "Antioch",
+                "487",
+                "612",
+                "82%",
+                "Tier 3"
+            ],
+            [
+                "Concord Academy",
+                "Concord",
+                "542",
+                "635",
+                "88%",
+                "Tier 2"
+            ],
+            [
+                "Brentwood Union HS",
+                "Brentwood",
+                "398",
+                "N/A",
+                "79%",
+                ""
+            ],
+            [
+                "Martinez High School",
+                "Martinez",
+                "0",
+                "",
+                "91%",
+                "Tier 1"
+            ],
+            [
+                "Richmond High School",
+                "Richmond",
+                "412",
+                "N/A",
+                "",
+                ""
+            ]
+        ]
+    }
+}

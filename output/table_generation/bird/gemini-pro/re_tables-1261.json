@@ -1,0 +1,46 @@
+{
+    "table-1261-1261": {
+        "title": [
+            "Patient ID",
+            "RF Result",
+            "Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Patient Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the ID of the patient whose RF is normal and who is older than 60.",
+        "data": [
+            [
+                "12345",
+                "Normal",
+                "65"
+            ],
+            [
+                "67890",
+                "Normal",
+                "72"
+            ],
+            [
+                "24680",
+                "Normal",
+                "61"
+            ],
+            [
+                "13579",
+                "High",
+                "58"
+            ],
+            [
+                "98765",
+                "Normal",
+                "68"
+            ]
+        ]
+    }
+}

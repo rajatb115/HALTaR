@@ -1,0 +1,76 @@
+{
+    "table-1362-1362": {
+        "title": [
+            "Event ID",
+            "Pizza Count",
+            "Unit Price ($)",
+            "Total Cost ($)",
+            "Payment Status",
+            "Vendor",
+            "Date Ordered"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total cost of the pizzas for all the events?",
+        "data": [
+            [
+                "EVT-0042",
+                "45",
+                "67.50",
+                "3037.00",
+                "Paid",
+                "Tony's Pizzeria",
+                "03/12/2023"
+            ],
+            [
+                "EVE-0118",
+                "82",
+                "675.00",
+                "5515.50",
+                "Pending",
+                "Slice Masters Inc",
+                "05/22/1923"
+            ],
+            [
+                "EVD-0339",
+                "9",
+                "125.25",
+                "2254.55",
+                "Completed",
+                "Local Pie Shop",
+                "07/14/2300"
+            ],
+            [
+                "EVF-0552",
+                "",
+                "",
+                "",
+                "Cancelled",
+                "Unknown Supplier",
+                ""
+            ],
+            [
+                "EVG-0771",
+                "",
+                "100.00",
+                "15000.00",
+                "Approved",
+                "Big Cheese Co",
+                "12-31-2099"
+            ],
+            [
+                "EVH-0984",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

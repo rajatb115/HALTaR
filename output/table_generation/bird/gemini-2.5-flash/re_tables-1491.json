@@ -1,0 +1,69 @@
+{
+    "table-1491-1491": {
+        "title": [
+            "CustomerID",
+            "Segment",
+            "ConsumptionAmount",
+            "ConsumptionMetric",
+            "BillingPeriod"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many percent of LAM customer consumed more than 46.73?",
+        "data": [
+            [
+                "C1001",
+                "LAM",
+                "55.2",
+                "Units",
+                "2023-11"
+            ],
+            [
+                "C1002",
+                "LAM",
+                "32.5",
+                "Units",
+                "2023-11"
+            ],
+            [
+                "C1003",
+                "Enterprise",
+                "78.9",
+                "Units",
+                "2023-11"
+            ],
+            [
+                "C1004",
+                "LAM",
+                "61.8",
+                "Units",
+                "2023-11"
+            ],
+            [
+                "C1005",
+                "LAM",
+                "41.9",
+                "Units",
+                "2023-11"
+            ],
+            [
+                "C1006",
+                "SMB",
+                "28.0",
+                "Units",
+                "2023-11"
+            ],
+            [
+                "C1007",
+                "LAM",
+                "48.1",
+                "Units",
+                "2023-11"
+            ]
+        ]
+    }
+}

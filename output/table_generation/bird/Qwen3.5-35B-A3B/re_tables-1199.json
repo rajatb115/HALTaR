@@ -1,0 +1,37 @@
+{
+    "table-1199-1199": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Diagnosis Code",
+            "Diagnosis Description",
+            "Date Diagnosed",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female patients were given an APS diagnosis?",
+        "data": [
+            [
+                "P-4021",
+                "Female",
+                "APS-004",
+                "Antiphospholipid Syndrome",
+                "06/15/2023",
+                "Active"
+            ],
+            [
+                "P-4105",
+                "Female",
+                "APS-012",
+                "Secondary Antiphospholipid Syndrome",
+                "",
+                ""
+            ]
+        ]
+    }
+}

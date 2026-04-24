@@ -1,0 +1,43 @@
+{
+    "table-316-316": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Carcinogenicity"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenic Chlorine-Containing Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the molecules which contain \"cl\" element, which of them are carcinogenic?",
+        "data": [
+            [
+                "Vinyl Chloride",
+                "C2H3Cl",
+                "Known Carcinogen"
+            ],
+            [
+                "Chloroform",
+                "CHCl3",
+                "Possible Carcinogen"
+            ],
+            [
+                "Carbon Tetrachloride",
+                "CCl4",
+                "Possible Carcinogen"
+            ],
+            [
+                "Dichloromethane (Methylene Chloride)",
+                "CH2Cl2",
+                "Possible Carcinogen"
+            ],
+            [
+                "Tetrachloroethylene (Perchloroethylene)",
+                "C2Cl4",
+                "Possible Carcinogen"
+            ]
+        ]
+    }
+}

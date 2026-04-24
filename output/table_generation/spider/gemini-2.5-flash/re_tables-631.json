@@ -1,0 +1,45 @@
+{
+    "table-631-631": {
+        "title": [
+            "Breed Type",
+            "Size Type"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the distinct breed type and size type combinations for dogs.",
+        "data": [
+            [
+                "Herding",
+                "Large"
+            ],
+            [
+                "Toy",
+                "Small"
+            ],
+            [
+                "Working",
+                "Giant"
+            ],
+            [
+                "Terrier",
+                "Medium"
+            ],
+            [
+                "Hound",
+                "Large"
+            ],
+            [
+                "Sporting",
+                "Medium"
+            ],
+            [
+                "Non-Sporting",
+                "Small"
+            ]
+        ]
+    }
+}

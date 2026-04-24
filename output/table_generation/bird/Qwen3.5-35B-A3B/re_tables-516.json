@@ -1,0 +1,48 @@
+{
+    "table-516-516": {
+        "title": [
+            "Card Name",
+            "Release Date",
+            "Set Code",
+            "Legal Formats",
+            "Rarity"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When was the oldest mythic card released and what are its legal play formats?",
+        "data": [
+            [
+                "Black Lotus",
+                "April 1, 1476",
+                "Alpha",
+                "Legacy, Vintage, Commander",
+                "Rare"
+            ],
+            [
+                "Ancestral Recall",
+                "September 15, 2100",
+                "Unlimited",
+                "Modern, Standard, Pioneer",
+                "Uncommon"
+            ],
+            [
+                "Time Walk",
+                "June 22, 3005",
+                "Revised",
+                "Historic, Pauper, Explorer",
+                "Common"
+            ],
+            [
+                "Mox Pearl",
+                "January 10, 4500",
+                "Beta",
+                "Eternal, Casual, Draft",
+                "Mythic Rare"
+            ]
+        ]
+    }
+}

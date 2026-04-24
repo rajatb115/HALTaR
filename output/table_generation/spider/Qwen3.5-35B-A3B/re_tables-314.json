@@ -1,0 +1,85 @@
+{
+    "table-314-314": {
+        "title": [
+            "Course ID",
+            "Course Name",
+            "Department",
+            "Enrollment Status",
+            "Last Active Semester",
+            "Credits",
+            "Instructor"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are all the course names of the courses which ever have students enrolled in?",
+        "data": [
+            [
+                "CS101A",
+                "Introduction to Computer Science",
+                "Engineering",
+                "Enrolled",
+                "Fall 24",
+                "3",
+                "Dr. Smith"
+            ],
+            [
+                "MATH202B",
+                "Linear Algebra II",
+                "Mathematics",
+                "Enrollments Paused",
+                "Spring 23",
+                "4",
+                "Prof. Johnson"
+            ],
+            [
+                "HIST105C",
+                "World History Survey",
+                "Humanities",
+                "Not Currently Enrolled",
+                "N/A",
+                "6",
+                "Dr. Williams"
+            ],
+            [
+                "BIOL301D",
+                "Molecular Biology Lab",
+                "Sciences",
+                "Enrollees Waiting List",
+                "Fall 24",
+                "5",
+                "Prof. Davis"
+            ],
+            [
+                "ENG110E",
+                "Technical Writing I",
+                "Communications",
+                "Enrolling Soon",
+                "Winter 25",
+                "7",
+                "Ms. Lee"
+            ],
+            [
+                "PHYS205F",
+                "Classical Mechanics",
+                "Physics",
+                "No Current Students",
+                "Fall 19",
+                "8",
+                "Dr. Brown"
+            ],
+            [
+                "ARTS100G",
+                "Digital Art Fundamentals",
+                "Arts",
+                "Enrollment Open",
+                "Spring 25",
+                "9",
+                "Mr. Green"
+            ]
+        ]
+    }
+}

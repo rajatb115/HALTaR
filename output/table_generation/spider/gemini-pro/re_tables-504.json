@@ -1,0 +1,51 @@
+{
+    "table-504-504": {
+        "title": [
+            "Country",
+            "Area (sq km)",
+            "Population",
+            "Leader"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Countries by Area, Population, and Leader",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the population, name and leader of the country with the largest area?",
+        "data": [
+            [
+                "Russia",
+                "17,098,242",
+                "144.4 million",
+                "Vladimir Putin"
+            ],
+            [
+                "Canada",
+                "9,984,670",
+                "38.2 million",
+                "Justin Trudeau"
+            ],
+            [
+                "China",
+                "9,706,961",
+                "1.4 billion",
+                "Xi Jinping"
+            ],
+            [
+                "United States",
+                "9,372,610",
+                "333 million",
+                "Joe Biden"
+            ],
+            [
+                "Brazil",
+                "8,515,767",
+                "214 million",
+                "Luiz In\u00e1cio Lula da Silva"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-580-580": {
+        "title": [
+            "Commenter",
+            "Comment Text",
+            "Timestamp"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Comments on Boosting Algorithms",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write all comments made on the post titled 'How does gentle boosting differ from AdaBoost?'",
+        "data": [
+            [
+                "User A",
+                "Gentle boosting is less sensitive to noisy data.",
+                "2024-01-01 10:00:00"
+            ],
+            [
+                "User B",
+                "AdaBoost gives higher weights to misclassified instances.",
+                "2024-01-01 10:15:00"
+            ],
+            [
+                "User C",
+                "Gentle boosting uses a different loss function.",
+                "2024-01-01 10:30:00"
+            ],
+            [
+                "User D",
+                "Does that mean gentle boosting can be faster?",
+                "2024-01-01 10:45:00"
+            ],
+            [
+                "User A",
+                "Yes, in some cases gentle boosting can be faster than AdaBoost.",
+                "2024-01-01 11:00:00"
+            ]
+        ]
+    }
+}

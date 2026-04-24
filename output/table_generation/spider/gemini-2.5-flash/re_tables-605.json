@@ -1,0 +1,55 @@
+{
+    "table-605-605": {
+        "title": [
+            "Professional Name",
+            "Email",
+            "State",
+            "Profession"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the emails of the professionals living in either the state of Hawaii or the state of Wisconsin?",
+        "data": [
+            [
+                "John Smith",
+                "john.smith@techcorp.com",
+                "Hawaii",
+                "Software Developer"
+            ],
+            [
+                "Emily White",
+                "emily.white@medgroup.org",
+                "Wisconsin",
+                "Physician"
+            ],
+            [
+                "David Lee",
+                "david.lee@legalpartners.net",
+                "Hawaii",
+                "Attorney"
+            ],
+            [
+                "Sarah Chen",
+                "sarah.chen@designstudio.co",
+                "Wisconsin",
+                "Graphic Designer"
+            ],
+            [
+                "Michael Brown",
+                "michael.brown@financepros.com",
+                "Hawaii",
+                "Financial Analyst"
+            ],
+            [
+                "Jessica Green",
+                "jessica.green@eduinstitute.edu",
+                "Wisconsin",
+                "Professor"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-601-601": {
+        "title": [
+            "Related Post ID",
+            "Title",
+            "Popularity Score",
+            "Category",
+            "Date Posted"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out all post that are related to post ID 61217 and what is the popularity of this post?",
+        "data": [
+            [
+                "61218",
+                "Advanced SQL Techniques for Analysts",
+                "85",
+                "Database",
+                "2023-10-26"
+            ],
+            [
+                "61219",
+                "Data Visualization Best Practices",
+                "92",
+                "Data Science",
+                "2023-10-25"
+            ],
+            [
+                "61220",
+                "Understanding Machine Learning Models",
+                "78",
+                "AI/ML",
+                "2023-10-24"
+            ],
+            [
+                "61221",
+                "Cloud Data Warehousing Solutions",
+                "88",
+                "Cloud Computing",
+                "2023-10-23"
+            ],
+            [
+                "61222",
+                "Ethical Considerations in AI",
+                "95",
+                "Ethics",
+                "2023-10-22"
+            ],
+            [
+                "61223",
+                "Real-time Data Streaming Architectures",
+                "81",
+                "Big Data",
+                "2023-10-21"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "table-893-893": {
+        "title": [
+            "Rank",
+            "Driver Name",
+            "Points",
+            "Team"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Formula 1 Driver Standings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the driver with the most points scored. Find his full name with that points.",
+        "data": [
+            [
+                "1",
+                "Max Verstappen",
+                "575",
+                "Red Bull Racing"
+            ],
+            [
+                "2",
+                "Sergio P\u00e9rez",
+                "285",
+                "Red Bull Racing"
+            ],
+            [
+                "3",
+                "Lewis Hamilton",
+                "275",
+                "Mercedes"
+            ],
+            [
+                "4",
+                "Fernando Alonso",
+                "206",
+                "Aston Martin"
+            ],
+            [
+                "5",
+                "Charles Leclerc",
+                "188",
+                "Ferrari"
+            ]
+        ]
+    }
+}

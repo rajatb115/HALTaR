@@ -1,0 +1,77 @@
+{
+    "table-1240-1240": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "Lab Exams Count",
+            "Abnormal Hematocrit Exams",
+            "Last HCT Value (%)",
+            "Last HCT Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the ID and age of patient with two or more laboratory examinations which show their hematoclit level exceeded the normal range.",
+        "data": [
+            [
+                "P101",
+                "45",
+                "5",
+                "3",
+                "55.2",
+                "2023-11-15"
+            ],
+            [
+                "P102",
+                "62",
+                "4",
+                "2",
+                "53.8",
+                "2024-01-22"
+            ],
+            [
+                "P103",
+                "38",
+                "3",
+                "1",
+                "49.1",
+                "2023-12-01"
+            ],
+            [
+                "P104",
+                "51",
+                "6",
+                "0",
+                "44.5",
+                "2024-02-10"
+            ],
+            [
+                "P105",
+                "70",
+                "2",
+                "2",
+                "56.0",
+                "2023-10-05"
+            ],
+            [
+                "P106",
+                "29",
+                "7",
+                "4",
+                "54.1",
+                "2024-01-03"
+            ],
+            [
+                "P107",
+                "58",
+                "3",
+                "0",
+                "46.7",
+                "2023-11-28"
+            ]
+        ]
+    }
+}

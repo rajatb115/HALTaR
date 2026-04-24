@@ -1,0 +1,53 @@
+{
+    "table-82-82": {
+        "title": [
+            "Model",
+            "MPG (City)",
+            "MPG (Highway)",
+            "Combined MPG"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Vehicle Fuel Efficiency",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which model saves the most gasoline? That is to say, have the maximum miles per gallon.",
+        "data": [
+            [
+                "Toyota Prius",
+                "58",
+                "53",
+                "56"
+            ],
+            [
+                "Hyundai Ioniq",
+                "57",
+                "59",
+                "58"
+            ],
+            [
+                "Honda Insight",
+                "55",
+                "49",
+                "52"
+            ],
+            [
+                "Ford Maverick",
+                "42",
+                "33",
+                "37"
+            ],
+            [
+                "Toyota Camry Hybrid",
+                "51",
+                "53",
+                "52"
+            ]
+        ]
+    }
+}

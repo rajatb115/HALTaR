@@ -1,0 +1,52 @@
+{
+    "table-859-859": {
+        "title": [
+            "Race Number",
+            "Constructor",
+            "Points",
+            "Country"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Formula 1 Constructor Standings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country is the constructor which got 1 point in the race No. 24 from?",
+        "data": [
+            [
+                "22",
+                "Ferrari",
+                "320",
+                "Italy"
+            ],
+            [
+                "23",
+                "Red Bull",
+                "450",
+                "Austria"
+            ],
+            [
+                "24",
+                "McLaren",
+                "1",
+                "UK"
+            ],
+            [
+                "25",
+                "Mercedes",
+                "280",
+                "Germany"
+            ],
+            [
+                "26",
+                "Alpine",
+                "100",
+                "France"
+            ]
+        ]
+    }
+}

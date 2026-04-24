@@ -1,0 +1,69 @@
+{
+    "table-1355-1355": {
+        "title": [
+            "Role",
+            "Name",
+            "Term Start",
+            "Department",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the major name for the Vice President of the club.",
+        "data": [
+            [
+                "Vice President",
+                "Alice Smith",
+                "2023-01-01",
+                "Membership",
+                "Active"
+            ],
+            [
+                "President",
+                "Bob Johnson",
+                "2023-01-01",
+                "Executive",
+                "Active"
+            ],
+            [
+                "Secretary",
+                "Carol White",
+                "2023-01-01",
+                "Administration",
+                "Active"
+            ],
+            [
+                "Treasurer",
+                "David Green",
+                "2023-01-01",
+                "Finance",
+                "Active"
+            ],
+            [
+                "Vice President",
+                "Emily Brown",
+                "2022-01-01",
+                "Events",
+                "Inactive"
+            ],
+            [
+                "Vice President",
+                "Frank Black",
+                "2021-01-01",
+                "Communications",
+                "Inactive"
+            ],
+            [
+                "Vice President",
+                "Grace Lee",
+                "2024-01-01",
+                "Fundraising",
+                "Active"
+            ]
+        ]
+    }
+}

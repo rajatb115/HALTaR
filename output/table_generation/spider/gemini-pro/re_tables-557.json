@@ -1,0 +1,46 @@
+{
+    "table-557-557": {
+        "title": [
+            "Student ID",
+            "Name",
+            "Grade"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "High School Students",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of all high schoolers in grade 10?",
+        "data": [
+            [
+                "101",
+                "John Smith",
+                "10"
+            ],
+            [
+                "102",
+                "Alice Johnson",
+                "10"
+            ],
+            [
+                "103",
+                "Robert Williams",
+                "10"
+            ],
+            [
+                "104",
+                "Emily Brown",
+                "10"
+            ],
+            [
+                "105",
+                "Michael Davis",
+                "10"
+            ]
+        ]
+    }
+}

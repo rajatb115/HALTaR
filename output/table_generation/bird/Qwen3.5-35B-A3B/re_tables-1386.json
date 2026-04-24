@@ -1,0 +1,76 @@
+{
+    "table-1386-1386": {
+        "title": [
+            "Student ID",
+            "Full Name",
+            "Income Generated ($)",
+            "Date Earned",
+            "Source Category",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which student was able to generate income more than $40?",
+        "data": [
+            [
+                "S1042",
+                "Alice Johnson",
+                "45.50",
+                "06/12/2023",
+                "Freelance Writing",
+                "Verified",
+                "Completed three articles"
+            ],
+            [
+                "S1055",
+                "Bob Smith",
+                "52.75",
+                "06/25/2023",
+                "Tutoring Session",
+                "Pending Review",
+                "One-on-one math help"
+            ],
+            [
+                "S0988",
+                "Clara Davis",
+                "38.20",
+                "07/01/2024",
+                "Online Survey",
+                "Rejected",
+                "Did not meet threshold"
+            ],
+            [
+                "S2103",
+                "David Lee",
+                "89.00",
+                "08/15/2008",
+                "Graphic Design Project",
+                "Approved",
+                "Logo design for local business"
+            ],
+            [
+                "S3341",
+                "Emma Wilson",
+                "72.15",
+                "09/10/2024",
+                "Social Media Management",
+                "Active",
+                "Managed campaign for two weeks"
+            ],
+            [
+                "S4492",
+                "Frank Brown",
+                "95.00",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

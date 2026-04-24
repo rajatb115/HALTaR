@@ -1,0 +1,43 @@
+{
+    "table-469-469": {
+        "title": [
+            "Continent",
+            "Chinese Speakers (Estimated)",
+            "Official Language"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Chinese Language Distribution by Continent",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the number of distinct continents where Chinese is spoken?",
+        "data": [
+            [
+                "Asia",
+                "High",
+                "Yes (China, Taiwan, Singapore)"
+            ],
+            [
+                "North America",
+                "Moderate",
+                "No"
+            ],
+            [
+                "Europe",
+                "Low",
+                "No"
+            ],
+            [
+                "Australia",
+                "Low",
+                "No"
+            ],
+            [
+                "Africa",
+                "Very Low",
+                "No"
+            ]
+        ]
+    }
+}

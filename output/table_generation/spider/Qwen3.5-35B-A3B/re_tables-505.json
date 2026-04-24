@@ -1,0 +1,93 @@
+{
+    "table-505-505": {
+        "title": [
+            "Country",
+            "Area_km\u00b2",
+            "Population",
+            "Head_of_State",
+            "Continent",
+            "Capital_City",
+            "Currency_Code",
+            "GDP_Billion_USD"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the name, population, and head of state for the country that has the largest area.",
+        "data": [
+            [
+                "Russia",
+                "6475000",
+                "730050",
+                "Vladimir Putin",
+                "Europe/Asia",
+                "Moscow",
+                "RUB",
+                "5800"
+            ],
+            [
+                "Canada",
+                "9984670",
+                "38000000",
+                "Charles III",
+                "North America",
+                "Ottawa",
+                "CAD",
+                "805"
+            ],
+            [
+                "United States",
+                "3796742",
+                "400806",
+                "Joe Biden",
+                "North America",
+                "Washington D.C.",
+                "USD",
+                "25000"
+            ],
+            [
+                "China",
+                "9596961",
+                "141203",
+                "Xi Jinping",
+                "Asia",
+                "Beijing",
+                "CNY",
+                "17700"
+            ],
+            [
+                "Brazil",
+                "",
+                "Brazil",
+                "Luiz In\u00e1cio Lula da Silva",
+                "South America",
+                "Bras\u00edlia",
+                "BRL",
+                "1600"
+            ],
+            [
+                "Australia",
+                "",
+                "",
+                "Australia",
+                "",
+                "Canberra",
+                "AUD",
+                ""
+            ],
+            [
+                "India",
+                "3287263",
+                "",
+                "Narendra Modi",
+                "Asia",
+                "New Delhi",
+                "INR",
+                "3380"
+            ]
+        ]
+    }
+}

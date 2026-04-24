@@ -1,0 +1,52 @@
+{
+    "table-101-101": {
+        "title": [
+            "Make ID",
+            "Car Name",
+            "Horsepower",
+            "Cylinders"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Car Details with Low Horsepower and Cylinder Count",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the cars that do not have the minimum horsepower , what are the make ids and names of all those with less than 4 cylinders ?",
+        "data": [
+            [
+                "audi",
+                "audi 100 ls",
+                "85",
+                "4"
+            ],
+            [
+                "bmw",
+                "bmw 2002",
+                "100",
+                "4"
+            ],
+            [
+                "fiat",
+                "fiat 128",
+                "60",
+                "4"
+            ],
+            [
+                "honda",
+                "honda civic 1500 gl",
+                "76",
+                "4"
+            ],
+            [
+                "renault",
+                "renault 12",
+                "69",
+                "4"
+            ]
+        ]
+    }
+}

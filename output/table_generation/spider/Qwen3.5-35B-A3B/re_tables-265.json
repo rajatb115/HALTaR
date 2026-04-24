@@ -1,0 +1,43 @@
+{
+    "table-265-265": {
+        "title": [
+            "Player Name",
+            "Tournament",
+            "Rank Points",
+            "Result Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name of the winner who has the highest rank points and participated in the Australian Open tourney.",
+        "data": [
+            [
+                "Novak Djokovic",
+                "Australian Open",
+                "9800",
+                "Winner"
+            ],
+            [
+                "Carlos Alcaraz",
+                "Australian Open",
+                "8760",
+                "Runner-up"
+            ],
+            [
+                "Daniil Medvedev",
+                "Australian Open",
+                "7450",
+                "Semi-finalist"
+            ],
+            [
+                "Jannik Sinner",
+                "Australian Open",
+                "6920",
+                "Quarter-finalist"
+            ]
+        ]
+    }
+}

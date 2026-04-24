@@ -1,0 +1,52 @@
+{
+    "table-1205-1205": {
+        "title": [
+            "Patient ID",
+            "Arrival Time",
+            "Evaluation Start Time",
+            "Time to Evaluation (minutes)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Patient Evaluation Timings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How long did it take after patient number 821298 arrived at the hospital for the first time before her evaluation began?",
+        "data": [
+            [
+                "821295",
+                "2024-03-15 08:00",
+                "2024-03-15 08:15",
+                "15"
+            ],
+            [
+                "821296",
+                "2024-03-15 08:05",
+                "2024-03-15 08:25",
+                "20"
+            ],
+            [
+                "821297",
+                "2024-03-15 08:10",
+                "2024-03-15 08:30",
+                "20"
+            ],
+            [
+                "821298",
+                "2024-03-15 08:15",
+                "2024-03-15 08:40",
+                "25"
+            ],
+            [
+                "821299",
+                "2024-03-15 08:20",
+                "2024-03-15 08:45",
+                "25"
+            ]
+        ]
+    }
+}

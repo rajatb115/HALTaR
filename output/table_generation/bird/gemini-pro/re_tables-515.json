@@ -1,0 +1,39 @@
+{
+    "table-515-515": {
+        "title": [
+            "Card Name",
+            "Unconverted Mana Cost"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Top Cards by Unconverted Mana Cost in Duels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In duels, what are the top 10 cards with the highest uncoverted mana cost?",
+        "data": [
+            [
+                "Colossus of Akros",
+                "8"
+            ],
+            [
+                "Blightsteel Colossus",
+                "12"
+            ],
+            [
+                "Emrakul, the Aeons Torn",
+                "15"
+            ],
+            [
+                "Ugin, the Spirit Dragon",
+                "8"
+            ],
+            [
+                "Kozilek, Butcher of Truth",
+                "10"
+            ]
+        ]
+    }
+}

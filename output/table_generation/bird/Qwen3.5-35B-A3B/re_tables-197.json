@@ -1,0 +1,29 @@
+{
+    "table-197-197": {
+        "title": [
+            "Molecule ID",
+            "Formula",
+            "Chlorine Count",
+            "Toxicity Status",
+            "Source Compound",
+            "Analysis Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the non-carcinogenic molecules, how many contain chlorine atoms?",
+        "data": [
+            [
+                "MOL_402",
+                "C6H5Cl",
+                "1",
+                "Non-Carcinogen",
+                "Benzene Derivative",
+                "2023-11-15"
+            ]
+        ]
+    }
+}

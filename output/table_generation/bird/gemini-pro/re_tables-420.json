@@ -1,0 +1,45 @@
+{
+    "table-420-420": {
+        "title": [
+            "Color",
+            "Border",
+            "Rank > 12000 Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Color Card Statistics on EDHRec",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many color cards with no borders have been ranked higher than 12000 on EDHRec?",
+        "data": [
+            [
+                "White",
+                "Bordered",
+                "250"
+            ],
+            [
+                "Blue",
+                "Bordered",
+                "300"
+            ],
+            [
+                "Black",
+                "Bordered",
+                "200"
+            ],
+            [
+                "Red",
+                "Bordered",
+                "280"
+            ],
+            [
+                "Green",
+                "Bordered",
+                "320"
+            ]
+        ]
+    }
+}

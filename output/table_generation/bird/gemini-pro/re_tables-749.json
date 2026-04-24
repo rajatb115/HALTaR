@@ -1,0 +1,45 @@
+{
+    "table-749-749": {
+        "title": [
+            "Superhero ID",
+            "Superhero Name",
+            "Eye Color"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Superhero Eye Colors",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the eye colour of superhero with superhero ID 75?",
+        "data": [
+            [
+                "12",
+                "Captain Valor",
+                "Blue"
+            ],
+            [
+                "45",
+                "Night Weaver",
+                "Brown"
+            ],
+            [
+                "75",
+                "Azure Comet",
+                "Green"
+            ],
+            [
+                "91",
+                "Crimson Dynamo",
+                "Hazel"
+            ],
+            [
+                "102",
+                "Silver Sentinel",
+                "Grey"
+            ]
+        ]
+    }
+}

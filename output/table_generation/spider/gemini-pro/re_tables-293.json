@@ -1,0 +1,45 @@
+{
+    "table-293-293": {
+        "title": [
+            "Event ID",
+            "Event Date",
+            "Notes"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Death Event Notes Containing \"East\"",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the notes of the death events which has substring 'East'?",
+        "data": [
+            [
+                "123",
+                "2023-01-15",
+                "Deceased in Southeast region."
+            ],
+            [
+                "456",
+                "2023-03-20",
+                "Cause of death: Pneumonia in East Wing"
+            ],
+            [
+                "789",
+                "2023-05-10",
+                "Accident occurred on the East side of town"
+            ],
+            [
+                "101",
+                "2023-07-04",
+                "Found deceased near Eastern riverbank"
+            ],
+            [
+                "112",
+                "2023-09-12",
+                "Eastern European descent"
+            ]
+        ]
+    }
+}

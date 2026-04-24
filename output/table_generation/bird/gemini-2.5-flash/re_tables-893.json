@@ -1,0 +1,69 @@
+{
+    "table-893-893": {
+        "title": [
+            "Driver Name",
+            "Points Scored",
+            "Team",
+            "Season",
+            "Races Won"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the driver with the most points scored. Find his full name with that points.",
+        "data": [
+            [
+                "Max Verstappen",
+                "454",
+                "Red Bull Racing",
+                "2023",
+                "19"
+            ],
+            [
+                "Sergio P\u00e9rez",
+                "285",
+                "Red Bull Racing",
+                "2023",
+                "2"
+            ],
+            [
+                "Lewis Hamilton",
+                "234",
+                "Mercedes",
+                "2023",
+                "0"
+            ],
+            [
+                "Fernando Alonso",
+                "206",
+                "Aston Martin",
+                "2023",
+                "0"
+            ],
+            [
+                "Charles Leclerc",
+                "206",
+                "Ferrari",
+                "2023",
+                "0"
+            ],
+            [
+                "Lando Norris",
+                "205",
+                "McLaren",
+                "2023",
+                "0"
+            ],
+            [
+                "Carlos Sainz",
+                "200",
+                "Ferrari",
+                "2023",
+                "1"
+            ]
+        ]
+    }
+}

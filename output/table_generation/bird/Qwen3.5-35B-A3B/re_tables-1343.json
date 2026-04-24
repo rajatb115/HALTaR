@@ -1,0 +1,76 @@
+{
+    "table-1343-1343": {
+        "title": [
+            "Date",
+            "Item Category",
+            "Unit Cost ($)",
+            "Quantity Sold",
+            "Total Revenue ($)",
+            "Supplier ID",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the cost for the \"Posters\" on 2019/9/4?",
+        "data": [
+            [
+                "21-Sep-2026",
+                "Posters",
+                "12.50",
+                "45",
+                "562.75",
+                "SUP-8821",
+                "Completed"
+            ],
+            [
+                "20-Sep-1926",
+                "Posters",
+                "11.00",
+                "30",
+                "330.01",
+                "SUP-8745",
+                "Completed"
+            ],
+            [
+                "19-Sep-3024",
+                "Posters",
+                "13.25",
+                "60",
+                "795.02",
+                "SUP-A102",
+                "Retail Only"
+            ],
+            [
+                "22-Sep-4022",
+                "Posters",
+                "10.70",
+                "25",
+                "267.51",
+                "BULK-X99",
+                "Pending"
+            ],
+            [
+                "04-Sep-5021",
+                "Posters",
+                "14.05",
+                "55",
+                "772.81",
+                "LOG-Y44",
+                "Shipped"
+            ],
+            [
+                "30-Aug-6020",
+                "Postcards",
+                "9.95",
+                "100",
+                "994.99",
+                "MISC-ZZ",
+                "Cancelled"
+            ]
+        ]
+    }
+}

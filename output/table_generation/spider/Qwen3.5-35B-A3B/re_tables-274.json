@@ -1,0 +1,85 @@
+{
+    "table-274-274": {
+        "title": [
+            "Ranking Date",
+            "Total Tours",
+            "Active Venues",
+            "New Registrations",
+            "Cancellations",
+            "Net Change",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many total tours were there for each ranking date?",
+        "data": [
+            [
+                "24 Jan 26",
+                "42",
+                "38",
+                "7",
+                "5",
+                "+2",
+                "Stable"
+            ],
+            [
+                "01 Feb 27",
+                "45",
+                "40",
+                "6",
+                "3",
+                "+3",
+                "Growing"
+            ],
+            [
+                "08 Mar 28",
+                "48",
+                "42",
+                "5",
+                "2",
+                "+1",
+                "Stable"
+            ],
+            [
+                "15 Apr 29",
+                "51",
+                "44",
+                "4",
+                "1",
+                "+2",
+                "Expanding"
+            ],
+            [
+                "22 May 30",
+                "53",
+                "45",
+                "3",
+                "2",
+                "-1",
+                "Declining"
+            ],
+            [
+                "30 Jun 31",
+                "55",
+                "46",
+                "4",
+                "1",
+                "+3",
+                "Growth"
+            ],
+            [
+                "Jul 05 32",
+                "58",
+                "50",
+                "5",
+                "2",
+                "+3",
+                "Rapid Growth"
+            ]
+        ]
+    }
+}

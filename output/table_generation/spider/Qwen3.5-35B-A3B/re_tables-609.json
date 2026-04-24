@@ -1,0 +1,77 @@
+{
+    "table-609-609": {
+        "title": [
+            "Dog ID",
+            "Treatment Date",
+            "Procedure Type",
+            "Status",
+            "Owner Name",
+            "Clinic Location"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of dogs that went through a treatment.",
+        "data": [
+            [
+                "D-1042",
+                "06/15/2023",
+                "Vaccination",
+                "Completed",
+                "Sarah Jenkins",
+                "Northside Vet"
+            ],
+            [
+                "D-A77B",
+                "03/22/2024",
+                "Dental Cleaning",
+                "In Progress",
+                "Mike Ross",
+                "Downtown Animal Care"
+            ],
+            [
+                "C-99X",
+                "04/10/2023",
+                "Spay",
+                "Scheduled",
+                "Emily Chen",
+                "West End Pet Hospital"
+            ],
+            [
+                "F-22Z",
+                "05/01/2021",
+                "Heartworm Test",
+                "Pending",
+                "David Lee",
+                "Citywide Veterinary"
+            ],
+            [
+                "G-55K",
+                "07/12/2019",
+                "Antibiotic Course",
+                "Discharged",
+                "Lisa Wong",
+                "Green Valley Clinics"
+            ],
+            [
+                "H-88M",
+                "08/30/2018",
+                "X-Ray Exam",
+                "Cancelled",
+                "Tom Baker",
+                "Metro Pets & More"
+            ],
+            [
+                "J-11P",
+                "09/05/2017",
+                "Flea Treatment",
+                "Completed",
+                "",
+                "Southgate Vets"
+            ]
+        ]
+    }
+}

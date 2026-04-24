@@ -1,0 +1,85 @@
+{
+    "table-574-574": {
+        "title": [
+            "State",
+            "Owner Count",
+            "Professional Count",
+            "Total Residents",
+            "Data Source",
+            "Last Updated",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which states have both owners and professionals living there?",
+        "data": [
+            [
+                "California",
+                "450",
+                "670",
+                "N/A",
+                "Census Bureau",
+                "01/15/2024",
+                "Active"
+            ],
+            [
+                "Texas",
+                "320",
+                "n/a",
+                "580",
+                "Local Registry",
+                "",
+                "Verified"
+            ],
+            [
+                "New York",
+                "7800",
+                "-",
+                "92012",
+                "Federal Database",
+                "",
+                "Pending Review"
+            ],
+            [
+                "Florida",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Incomplete"
+            ],
+            [
+                "Illinois",
+                "120",
+                "150",
+                "270",
+                "US Govt",
+                "Validated",
+                "Confirmed"
+            ],
+            [
+                "Ohio",
+                "N/A",
+                "210",
+                "330",
+                "State Portal",
+                "",
+                "Rejected"
+            ],
+            [
+                "Washington",
+                "",
+                "",
+                "",
+                "System Outage",
+                "",
+                "Unavailable"
+            ]
+        ]
+    }
+}

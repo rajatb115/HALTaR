@@ -1,0 +1,69 @@
+{
+    "table-787-787": {
+        "title": [
+            "Hero Name",
+            "Strength Value",
+            "Agility Value",
+            "Intelligence Value",
+            "Primary Attribute"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many heroes have the highest attribute value in strength?",
+        "data": [
+            [
+                "Axe",
+                "28",
+                "18",
+                "16",
+                "Strength"
+            ],
+            [
+                "Sven",
+                "26",
+                "21",
+                "17",
+                "Strength"
+            ],
+            [
+                "Pudge",
+                "25",
+                "14",
+                "13",
+                "Strength"
+            ],
+            [
+                "Kunkka",
+                "24",
+                "14",
+                "18",
+                "Strength"
+            ],
+            [
+                "Tiny",
+                "29",
+                "9",
+                "17",
+                "Strength"
+            ],
+            [
+                "Dragon Knight",
+                "22",
+                "19",
+                "18",
+                "Strength"
+            ],
+            [
+                "Wraith King",
+                "20",
+                "18",
+                "18",
+                "Strength"
+            ]
+        ]
+    }
+}

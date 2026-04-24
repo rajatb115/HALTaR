@@ -1,0 +1,67 @@
+{
+    "table-935-935": {
+        "title": [
+            "Driver Forename",
+            "Driver Surname",
+            "Grid Position",
+            "Race Event",
+            "Season",
+            "Team",
+            "Result Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which driver was in the no. 4 grid formation when starting the race in 2008's Australian Grand Prix? Please give his forename and surname.",
+        "data": [
+            [
+                "Lewis",
+                "Hamilton",
+                "4",
+                "Australian Grand Prix",
+                "2008",
+                "McLaren-Mercedes",
+                "Finished"
+            ],
+            [
+                "Felipe",
+                "Massa",
+                "6",
+                "Australian Grand Prix",
+                "2008",
+                "Ferrari",
+                "Finished"
+            ],
+            [
+                "Kimi R\u00e4ikk\u00f6nen",
+                "",
+                "7",
+                "Australian Grand Prix",
+                "2008",
+                "Ferrari",
+                "Retired"
+            ],
+            [
+                "Heikki Kovalainen",
+                "",
+                "5",
+                "Australian Grand Prix",
+                "2008",
+                "Renault",
+                "DNF"
+            ],
+            [
+                "Robert Kubica",
+                "",
+                "3",
+                "Australian Grand Prix",
+                "2008",
+                "BMW Sauber",
+                "Finished"
+            ]
+        ]
+    }
+}

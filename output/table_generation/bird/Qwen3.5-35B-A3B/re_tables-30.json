@@ -1,0 +1,58 @@
+{
+    "table-30-30": {
+        "title": [
+            "School Name",
+            "Grade Range",
+            "Enrollment Count",
+            "Opening Year",
+            "Location",
+            "District Size",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When did the first-through-twelfth-grade school with the largest enrollment open?",
+        "data": [
+            [
+                "Lincoln Heights Academy",
+                "K-12",
+                "4,250",
+                "July 15, 1962",
+                "Springfield",
+                "Large",
+                "Active"
+            ],
+            [
+                "Riverside Unified High",
+                "K-12",
+                "3,890",
+                "March 10, 1895",
+                "Riverside",
+                "Medium",
+                "Active"
+            ],
+            [
+                "Oakwood Valley Institute",
+                "K-12",
+                "5,100",
+                "September 1, 2103",
+                "Oakwood",
+                "Very Large",
+                "Planned"
+            ],
+            [
+                "Meadowbrook Comprehensive",
+                "All Grades",
+                "6,720",
+                "January 22, 987",
+                "Meadowbrook",
+                "Huge",
+                "Historical"
+            ]
+        ]
+    }
+}

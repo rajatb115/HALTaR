@@ -1,0 +1,52 @@
+{
+    "table-1500-1500": {
+        "title": [
+            "Customer ID",
+            "Currency",
+            "Month",
+            "Consumption"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Customer Consumption Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the biggest monthly consumption of the customers who use euro as their currency?",
+        "data": [
+            [
+                "123",
+                "EUR",
+                "Jan",
+                "150"
+            ],
+            [
+                "124",
+                "USD",
+                "Jan",
+                "200"
+            ],
+            [
+                "123",
+                "EUR",
+                "Feb",
+                "160"
+            ],
+            [
+                "124",
+                "USD",
+                "Feb",
+                "210"
+            ],
+            [
+                "123",
+                "EUR",
+                "Mar",
+                "170"
+            ]
+        ]
+    }
+}

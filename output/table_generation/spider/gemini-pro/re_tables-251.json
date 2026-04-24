@@ -1,0 +1,39 @@
+{
+    "table-251-251": {
+        "title": [
+            "Name",
+            "Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Distinct Loser Names",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the number of distinct name of losers.",
+        "data": [
+            [
+                "Alice",
+                "1"
+            ],
+            [
+                "Bob",
+                "1"
+            ],
+            [
+                "Charlie",
+                "1"
+            ],
+            [
+                "David",
+                "1"
+            ],
+            [
+                "Eve",
+                "1"
+            ]
+        ]
+    }
+}

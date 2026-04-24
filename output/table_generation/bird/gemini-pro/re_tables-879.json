@@ -1,0 +1,45 @@
+{
+    "table-879-879": {
+        "title": [
+            "Race Number",
+            "Driver Name",
+            "Best Lap Time"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Race Results and Driver Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who was the driver that got the best lap time in the race No. 348? Give his full name.",
+        "data": [
+            [
+                "346",
+                "Max Verstappen",
+                "1:24.304"
+            ],
+            [
+                "347",
+                "Charles Leclerc",
+                "1:23.876"
+            ],
+            [
+                "348",
+                "Lewis Hamilton",
+                "1:22.543"
+            ],
+            [
+                "349",
+                "Sergio Perez",
+                "1:25.987"
+            ],
+            [
+                "350",
+                "George Russell",
+                "1:23.123"
+            ]
+        ]
+    }
+}

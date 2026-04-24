@@ -1,0 +1,67 @@
+{
+    "table-754-754": {
+        "title": [
+            "Superhero Name",
+            "Height_cm",
+            "Eye Color Status",
+            "Affiliation",
+            "First Appearance",
+            "Power Level",
+            "Origin World"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the superheroes with height from 170 to 190, list the names of the superheroes with no eye color.",
+        "data": [
+            [
+                "Daredevil",
+                "64",
+                "None",
+                "New York City Heroes",
+                "5",
+                "High",
+                "Earth-616"
+            ],
+            [
+                "Moon Knight",
+                "70",
+                "None (Prosthetic)",
+                "Midnight Sons",
+                "4",
+                "Medium",
+                "Earth-Mainstream"
+            ],
+            [
+                "Unknown",
+                "68",
+                "None",
+                "Unknown",
+                "3",
+                "Low",
+                "Alternate Reality"
+            ],
+            [
+                "Unknown",
+                "Unknown",
+                "None",
+                "Independent",
+                "8",
+                "Very High",
+                "Multiverse"
+            ],
+            [
+                "Moonstone",
+                "90",
+                "None",
+                "Thunderbolts",
+                "3",
+                "High",
+                "Earth-Prime"
+            ]
+        ]
+    }
+}

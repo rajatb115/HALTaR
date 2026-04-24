@@ -1,0 +1,76 @@
+{
+    "table-1325-1325": {
+        "title": [
+            "Meeting ID",
+            "Date",
+            "Department",
+            "Attendance Count",
+            "Total Invited",
+            "Average Duration Min",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average attendance of meetings in 2020?",
+        "data": [
+            [
+                "MTK-2045",
+                "06/15/20",
+                "Q1 Review",
+                "42",
+                "50",
+                "75",
+                "Completed"
+            ],
+            [
+                "MTK-2103",
+                "03/22/22",
+                "Q Strategy",
+                "68",
+                "80",
+                "",
+                "Completed"
+            ],
+            [
+                "MKT-2219",
+                "09/10/22",
+                "Y Sales Update",
+                "35",
+                "40",
+                "60",
+                "Cancelled"
+            ],
+            [
+                "MRG-2301",
+                "11/05/22",
+                "Z Annual Planning",
+                "88",
+                "90",
+                "120",
+                "Completed"
+            ],
+            [
+                "MHR-2412",
+                "12/18/22",
+                "Q Team Building",
+                "25",
+                "30",
+                "45",
+                "Completed"
+            ],
+            [
+                "MLT-2504",
+                "02/02/22",
+                "X Project Kickoff",
+                "55",
+                "60",
+                "95",
+                "Completed"
+            ]
+        ]
+    }
+}

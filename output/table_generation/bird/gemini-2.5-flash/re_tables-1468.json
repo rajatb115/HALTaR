@@ -1,0 +1,77 @@
+{
+    "table-1468-1468": {
+        "title": [
+            "Event Name",
+            "Event Date",
+            "Number of Speakers",
+            "Gift Item",
+            "Total Gift Cost",
+            "Budget Allocated"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total amount spent on speaker gifts and list the name of the event they were spent on.",
+        "data": [
+            [
+                "Annual Tech Summit",
+                "2023-10-15",
+                "12",
+                "Custom Mugs",
+                "600.00",
+                "1000.00"
+            ],
+            [
+                "Marketing Masterclass",
+                "2024-03-22",
+                "8",
+                "Branded Notebooks",
+                "320.00",
+                "500.00"
+            ],
+            [
+                "Developer Conference",
+                "2023-07-10",
+                "25",
+                "Premium Pens",
+                "1250.00",
+                "1500.00"
+            ],
+            [
+                "Leadership Forum",
+                "2024-01-18",
+                "6",
+                "Gift Vouchers",
+                "900.00",
+                "1200.00"
+            ],
+            [
+                "Startup Pitch Day",
+                "2023-11-05",
+                "10",
+                "Local Delicacies",
+                "450.00",
+                "700.00"
+            ],
+            [
+                "Design Workshop",
+                "2024-04-01",
+                "5",
+                "Art Supplies Kit",
+                "250.00",
+                "400.00"
+            ],
+            [
+                "Data Science Symposium",
+                "2023-09-20",
+                "15",
+                "Tech Gadgets",
+                "1800.00",
+                "2000.00"
+            ]
+        ]
+    }
+}

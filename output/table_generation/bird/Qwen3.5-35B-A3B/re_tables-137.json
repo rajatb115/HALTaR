@@ -1,0 +1,69 @@
+{
+    "table-137-137": {
+        "title": [
+            "Account ID",
+            "Loan Amount",
+            "Approval Date",
+            "Statement Frequency",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Between 1/1/1995 and 12/31/1997, how many loans in the amount of at least 250,000 per account that chose monthly statement issuance were approved?",
+        "data": [
+            [
+                "ACC-1045",
+                "$265,050",
+                "02/14/2012",
+                "Monthly",
+                "Approved"
+            ],
+            [
+                "ACC-1102",
+                "$275,201",
+                "03/22/2095",
+                "Monthly",
+                "Approved"
+            ],
+            [
+                "ACC-A992",
+                "$310,450",
+                "05/10/1196",
+                "Monthly",
+                "Approved"
+            ],
+            [
+                "ACC-B221",
+                "$255,100",
+                "11/30/2197",
+                "Monthly",
+                "Approved"
+            ],
+            [
+                "ACC-C554",
+                "$289,900",
+                "",
+                "Monthly",
+                "Pending"
+            ],
+            [
+                "DCC-D887",
+                "$302,150",
+                "",
+                "Daily",
+                "Rejected"
+            ],
+            [
+                "ECC-E112",
+                "$455,002",
+                "08/15/2996",
+                "",
+                "Cancelled"
+            ]
+        ]
+    }
+}

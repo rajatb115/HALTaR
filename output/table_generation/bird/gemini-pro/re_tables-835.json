@@ -1,0 +1,43 @@
+{
+    "table-835-835": {
+        "title": [
+            "Superhero Name",
+            "Creator",
+            "Gender"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Superhero Gender Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all superheroes created by George Lucas, identify the percentage of female superheroes.",
+        "data": [
+            [
+                "Mace Windu",
+                "George Lucas",
+                "Male"
+            ],
+            [
+                "Leia Organa",
+                "George Lucas",
+                "Female"
+            ],
+            [
+                "Darth Vader",
+                "George Lucas",
+                "Male"
+            ],
+            [
+                "Padm\u00e9 Amidala",
+                "George Lucas",
+                "Female"
+            ],
+            [
+                "Han Solo",
+                "George Lucas",
+                "Male"
+            ]
+        ]
+    }
+}

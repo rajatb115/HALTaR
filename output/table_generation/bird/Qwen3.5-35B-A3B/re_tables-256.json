@@ -1,0 +1,77 @@
+{
+    "table-256-256": {
+        "title": [
+            "Compound Class",
+            "Bond Type",
+            "Carcinogenicity Status",
+            "Proportion Affected (%)",
+            "Study Source",
+            "Risk Level"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What proportion of single bonds are carcinogenic?",
+        "data": [
+            [
+                "Alkyl Halides",
+                "Single C-X",
+                "Confirmed",
+                "45.2",
+                "IARC Monograph Vol 71",
+                "High"
+            ],
+            [
+                "Polycyclic Hydrocarbons",
+                "Single Ar-C",
+                "Suspected",
+                "62.8",
+                "EPA IRIS Database",
+                "Moderate"
+            ],
+            [
+                "Nitrosamines",
+                "Single N-N",
+                "Confined",
+                "88.5",
+                "WHO Cancer Report 21",
+                "Very High"
+            ],
+            [
+                "Aromatic Amines",
+                "Single Ph-NH2",
+                "Probable",
+                "34.1",
+                "NTP Toxicology Review",
+                "Low-Moderate"
+            ],
+            [
+                "Vinyl Compounds",
+                "Single Vinyl-H",
+                "Unlikely",
+                "5.3",
+                "ATSDR Case Studies",
+                "Negligible"
+            ],
+            [
+                "Saturated Fatty Acids",
+                "Single Alkane",
+                "None Known",
+                "0.0",
+                "FDA Safety Assessment",
+                "Safe"
+            ],
+            [
+                "Industrial Solvents",
+                "Single Ether-O",
+                "Variable",
+                "7.4",
+                "OSHA Exposure Limits",
+                "Low"
+            ]
+        ]
+    }
+}

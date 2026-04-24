@@ -1,0 +1,52 @@
+{
+    "table-1189-1189": {
+        "title": [
+            "Patient ID",
+            "Birth Year",
+            "Gender",
+            "Admission Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Patients Admitted to Hospital by Demographics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female patients born in 1964 were admitted to the hospital? List them by ID.",
+        "data": [
+            [
+                "12345",
+                "1964",
+                "Female",
+                "2023-01-15"
+            ],
+            [
+                "67890",
+                "1964",
+                "Female",
+                "2023-03-20"
+            ],
+            [
+                "24680",
+                "1964",
+                "Female",
+                "2023-05-10"
+            ],
+            [
+                "13579",
+                "1964",
+                "Female",
+                "2023-07-01"
+            ],
+            [
+                "98765",
+                "1964",
+                "Female",
+                "2023-09-25"
+            ]
+        ]
+    }
+}

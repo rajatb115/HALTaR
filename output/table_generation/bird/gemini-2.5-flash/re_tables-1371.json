@@ -1,0 +1,77 @@
+{
+    "table-1371-1371": {
+        "title": [
+            "Expense ID",
+            "Date",
+            "Category",
+            "Description",
+            "Amount",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the expenses incurred by the vice president.",
+        "data": [
+            [
+                "1001",
+                "2023-10-26",
+                "Travel",
+                "Business Class Flight to NYC",
+                "1250.00",
+                "Approved"
+            ],
+            [
+                "1002",
+                "2023-10-26",
+                "Meals",
+                "Client Dinner Meeting",
+                "345.50",
+                "Approved"
+            ],
+            [
+                "1003",
+                "2023-10-27",
+                "Accommodation",
+                "Hotel Stay - 3 Nights",
+                "980.00",
+                "Approved"
+            ],
+            [
+                "1004",
+                "2023-10-28",
+                "Entertainment",
+                "Client Event Tickets",
+                "500.00",
+                "Pending"
+            ],
+            [
+                "1005",
+                "2023-11-01",
+                "Office Supplies",
+                "New Monitor for Home Office",
+                "450.00",
+                "Approved"
+            ],
+            [
+                "1006",
+                "2023-11-05",
+                "Professional Dev",
+                "Leadership Conference Fee",
+                "1500.00",
+                "Approved"
+            ],
+            [
+                "1007",
+                "2023-11-08",
+                "Transportation",
+                "Taxi Fares - Client Visits",
+                "120.75",
+                "Pending"
+            ]
+        ]
+    }
+}

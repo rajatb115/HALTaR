@@ -1,0 +1,62 @@
+{
+    "table-386-386": {
+        "title": [
+            "Card Name",
+            "Ruling Topic",
+            "Ruling Text",
+            "Ruling Date",
+            "Source"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write down the ruling of Beacon of Immortality.",
+        "data": [
+            [
+                "Beacon of Immortality",
+                "Negative Life Totals",
+                "If the target player's life total is negative, doubling it will result in a larger negative number. For example, -5 becomes -10.",
+                "2004-06-01",
+                "Gatherer Rulings"
+            ],
+            [
+                "Beacon of Immortality",
+                "Life Gain Triggers",
+                "If a player's life total increases as a result of Beacon of Immortality, abilities that trigger \"whenever you gain life\" will trigger.",
+                "2004-06-01",
+                "Gatherer Rulings"
+            ],
+            [
+                "Beacon of Immortality",
+                "Targeting",
+                "You can target any player, including yourself or an opponent. The effect applies to the targeted player's current life total.",
+                "2004-06-01",
+                "Gatherer Rulings"
+            ],
+            [
+                "Beacon of Immortality",
+                "Shuffle Effect Timing",
+                "The \"shuffle Beacon of Immortality into its owner's library\" effect happens as the last part of the spell's resolution.",
+                "2004-06-01",
+                "Gatherer Rulings"
+            ],
+            [
+                "Beacon of Immortality",
+                "Commander Damage",
+                "Doubling a player's life total does not affect the amount of commander damage they have taken.",
+                "2010-09-20",
+                "Commander Rules Committee"
+            ],
+            [
+                "Beacon of Immortality",
+                "Multiple Beacons",
+                "If multiple copies of Beacon of Immortality resolve targeting the same player, each will double that player's current life total independently.",
+                "2004-06-01",
+                "Gatherer Rulings"
+            ]
+        ]
+    }
+}

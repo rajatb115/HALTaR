@@ -1,0 +1,46 @@
+{
+    "table-842-842": {
+        "title": [
+            "Superhero ID",
+            "Weight (lbs)",
+            "Race"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Superhero Physical Attributes and Race",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the weight and race of the superhero with superhero ID 40.",
+        "data": [
+            [
+                "1",
+                "200",
+                "Kryptonian"
+            ],
+            [
+                "10",
+                "220",
+                "Asgardian"
+            ],
+            [
+                "25",
+                "150",
+                "Human"
+            ],
+            [
+                "40",
+                "185",
+                "Mutant"
+            ],
+            [
+                "100",
+                "300",
+                "Atlantean"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-190-190": {
+        "title": [
+            "Template Type Code",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Unused Template Type Codes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all template type codes that are not used by any document.",
+        "data": [
+            [
+                "TEMP_001",
+                "Generic Template"
+            ],
+            [
+                "TEMP_005",
+                "Invoice Template"
+            ],
+            [
+                "TEMP_009",
+                "Report Template"
+            ],
+            [
+                "TEMP_012",
+                "Form Template"
+            ],
+            [
+                "TEMP_015",
+                "Email Template"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "table-650-650": {
+        "title": [
+            "Post Title",
+            "Edit Count",
+            "Last Edited Date",
+            "Author Role",
+            "Status",
+            "View Count",
+            "Score",
+            "Tags"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the post history counts and last edit date of the post title \"What is the best introductory Bayesian statistics textbook?\"",
+        "data": [
+            [
+                "What is the most effective way to learn Python?",
+                "4",
+                "7/12/2023",
+                "Contributor",
+                "Opened",
+                "320",
+                "5",
+                "python, learning"
+            ],
+            [
+                "What is your favorite open-source database tool?",
+                "-1",
+                "N/A",
+                "Moderator",
+                "Closed",
+                "89",
+                "0",
+                "databases, tools"
+            ],
+            [
+                "How to optimize SQL queries for large datasets?",
+                "+2",
+                "6/30/2023",
+                "Expert",
+                "Accepted",
+                "950",
+                "+12",
+                "sql, performance"
+            ],
+            [
+                "Best practices for writing unit tests in Java?",
+                "",
+                "",
+                "Guest User",
+                "Draft",
+                "",
+                "",
+                "java, testing"
+            ],
+            [
+                "Introduction to machine learning algorithms explained simply",
+                "+3",
+                "8/01/2023",
+                "Senior Dev",
+                "Published",
+                "120",
+                ".8",
+                "ml, basics"
+            ],
+            [
+                "Recommended resources for studying quantum physics at home",
+                "-2",
+                "N/A",
+                "Newbie",
+                "Deleted",
+                "n/a",
+                "-5",
+                "science, education"
+            ]
+        ]
+    }
+}

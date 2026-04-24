@@ -1,0 +1,94 @@
+{
+    "table-537-537": {
+        "title": [
+            "Conductor Name",
+            "Nationality",
+            "Birth Year",
+            "Notable Work",
+            "Orchestra Affiliation",
+            "Active Period Start",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of different nationalities of conductors.",
+        "data": [
+            [
+                "Leonard Bernstein",
+                "American",
+                "746",
+                "West Side Story",
+                "New York Philharmonic",
+                "40",
+                "Deceased"
+            ],
+            [
+                ">",
+                "Herbert von Karajan",
+                "Austrian",
+                "808",
+                "Beethoven Symphonies",
+                "Berlin Philharmony",
+                "33"
+            ],
+            [
+                "#",
+                "Claudio Abbado",
+                "Italian",
+                "933 - La Scala Opera",
+                "Milan Symphony",
+                "56",
+                "Deceived"
+            ],
+            [
+                "$",
+                "Gustavo Dudamel",
+                "Venezuelan",
+                "010",
+                "Sim\u00f3n Bol\u00edvar Youth Orchestra",
+                "Los Angeles Philharmonics",
+                "60"
+            ],
+            [
+                "%",
+                "Mariss Jansons",
+                "Latvian",
+                "Mahler's Ninth",
+                "Royal Concertgebouw",
+                "70",
+                "Died"
+            ],
+            [
+                "&",
+                "Valery Gergiev",
+                "Russian",
+                "Wagner Ring Cycle",
+                "Mariinsky Theatre",
+                "",
+                "Living!"
+            ],
+            [
+                "*",
+                "Seiji Ozawa",
+                "Japanese",
+                "Boston Pops Festival",
+                "Vienna State Opera",
+                "",
+                "Deceased!"
+            ],
+            [
+                "+",
+                "Christoph Eschenbach",
+                "German",
+                "Brahms Piano Concertos",
+                "Philadelphia Orchestra",
+                "--",
+                "Retired"
+            ]
+        ]
+    }
+}

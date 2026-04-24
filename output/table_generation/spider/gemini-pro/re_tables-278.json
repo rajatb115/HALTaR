@@ -1,0 +1,52 @@
+{
+    "table-278-278": {
+        "title": [
+            "Player Name",
+            "Handedness",
+            "Championship Wins",
+            "Championship Appearances"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "WTA Championship Player Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the number of left handed winners who participated in the WTA Championships.",
+        "data": [
+            [
+                "Martina Navratilova",
+                "Left-handed",
+                "8",
+                "14"
+            ],
+            [
+                "Monica Seles",
+                "Left-handed",
+                "3",
+                "5"
+            ],
+            [
+                "Evonne Goolagong",
+                "Right-handed",
+                "2",
+                "7"
+            ],
+            [
+                "Steffi Graf",
+                "Right-handed",
+                "5",
+                "10"
+            ],
+            [
+                "Chris Evert",
+                "Right-handed",
+                "4",
+                "9"
+            ]
+        ]
+    }
+}

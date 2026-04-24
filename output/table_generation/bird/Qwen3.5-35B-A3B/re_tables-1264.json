@@ -1,0 +1,69 @@
+{
+    "table-1264-1264": {
+        "title": [
+            "Patient_ID",
+            "Hematocrit_Status",
+            "Anti_Cardiolipin_Ab_Concentration_U/mL",
+            "Diagnosis_Category",
+            "Sample_Date",
+            "Lab_Result_Flag"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients whose level of Hematoclit isn't normal, which patient has the highest anti-Cardiolipin antibody concentration? Please list his or her ID.",
+        "data": [
+            [
+                "P-4021",
+                "Abnormal_Low",
+                "45.2",
+                "Autoimmune_Disorder",
+                "06/12/2023",
+                "Positive"
+            ],
+            [
+                "P-X992",
+                "Normal_High",
+                "32.1",
+                "Healthy_Control",
+                "07/15/2022",
+                "Negative"
+            ],
+            [
+                "M-1103",
+                "Abnormal_High_Extreme",
+                "89.7",
+                "Antiphospholipid_Syndrome",
+                "09/01/2023",
+                "High_Risk"
+            ],
+            [
+                "F-3344",
+                "Abnormal_Moderate",
+                "61.5",
+                "SLE_Patient",
+                "05/30/2024",
+                "Elevated"
+            ],
+            [
+                "J-7788",
+                "Normal_Baseline",
+                "<10.0",
+                "Routine_Checkup",
+                "01/10/2023",
+                "Low"
+            ],
+            [
+                "R-2211",
+                "Irregular_Variance",
+                "N/A",
+                "Pending_Test",
+                "TBD",
+                "Inconclusive"
+            ]
+        ]
+    }
+}

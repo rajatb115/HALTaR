@@ -1,0 +1,69 @@
+{
+    "table-787-787": {
+        "title": [
+            "Hero Name",
+            "Strength Value",
+            "Class",
+            "Level",
+            "Region"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many heroes have the highest attribute value in strength?",
+        "data": [
+            [
+                "Ares",
+                "99",
+                "Warrior",
+                "75",
+                "Olympus"
+            ],
+            [
+                "Thor",
+                "88",
+                "God-King",
+                "64",
+                "Asgard"
+            ],
+            [
+                "Hercules",
+                "55",
+                "Demi-God",
+                "42",
+                "Greece"
+            ],
+            [
+                "Atlas",
+                "33",
+                "Titan",
+                "0",
+                "Tartarus"
+            ],
+            [
+                "Goliath",
+                "22",
+                "Giant",
+                "",
+                "Philistia"
+            ],
+            [
+                "Spartacus",
+                "",
+                "Gladiator",
+                "",
+                "Thrace"
+            ],
+            [
+                "Zeno",
+                "",
+                "Monk",
+                "",
+                "Persis"
+            ]
+        ]
+    }
+}

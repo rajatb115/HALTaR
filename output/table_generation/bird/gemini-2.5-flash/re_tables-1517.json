@@ -1,0 +1,77 @@
+{
+    "table-1517-1517": {
+        "title": [
+            "Transaction ID",
+            "Transaction Date",
+            "Transaction Time",
+            "Currency",
+            "Amount",
+            "Payment Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many transactions were paid in EUR in the morning of 2012/8/26?",
+        "data": [
+            [
+                "10012345",
+                "2012-08-26",
+                "09:15:30",
+                "EUR",
+                "125.50",
+                "Completed"
+            ],
+            [
+                "10012346",
+                "2012-08-26",
+                "11:05:10",
+                "EUR",
+                "49.99",
+                "Completed"
+            ],
+            [
+                "10012347",
+                "2012-08-26",
+                "08:45:00",
+                "USD",
+                "75.00",
+                "Completed"
+            ],
+            [
+                "10012348",
+                "2012-08-26",
+                "14:30:20",
+                "EUR",
+                "210.25",
+                "Completed"
+            ],
+            [
+                "10012349",
+                "2012-08-25",
+                "10:00:05",
+                "EUR",
+                "30.00",
+                "Pending"
+            ],
+            [
+                "10012350",
+                "2012-08-26",
+                "07:55:15",
+                "EUR",
+                "15.75",
+                "Completed"
+            ],
+            [
+                "10012351",
+                "2012-08-26",
+                "16:10:00",
+                "GBP",
+                "99.99",
+                "Failed"
+            ]
+        ]
+    }
+}

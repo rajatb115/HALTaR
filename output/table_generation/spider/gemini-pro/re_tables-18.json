@@ -1,0 +1,37 @@
+{
+    "table-18-18": {
+        "title": [
+            "Stadium Name",
+            "Concerts Held"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Stadiums Without Concerts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the stadiums without any concerts?",
+        "data": [
+            [
+                "Wembley Stadium",
+                "No"
+            ],
+            [
+                "Camp Nou",
+                "No"
+            ],
+            [
+                "Eden Park",
+                "No"
+            ],
+            [
+                "Lord's Cricket Ground",
+                "No"
+            ],
+            [
+                "Melbourne Cricket Ground",
+                "No"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-408-408": {
+        "title": [
+            "Player_Name",
+            "Height_Inches",
+            "Money_Rank_Global",
+            "Total_Live_Earnings_USD",
+            "Event_Count",
+            "Best_Result_Tournament"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the money rank of the tallest poker player?",
+        "data": [
+            [
+                "Phil Ivey",
+                "74",
+                "3",
+                "$42,600,000",
+                "450",
+                "WSOP Main Event Runner-up"
+            ],
+            [
+                "Daniel Negreanu",
+                "69",
+                "5",
+                "$38,205,050",
+                "520",
+                "Six-Max Championship Winner"
+            ],
+            [
+                "Erik Seidel",
+                "80",
+                "",
+                "$27,500,000",
+                "380",
+                "WSOP Bracelet #10"
+            ],
+            [
+                "Antonio Esfandiari",
+                "90",
+                "12",
+                "$25,100,000",
+                "290",
+                "Big One for One Drop Winner"
+            ],
+            [
+                "Brynn Kenney",
+                "",
+                "",
+                "24,800,000",
+                "310",
+                "World Series Poker Champion"
+            ],
+            [
+                "Tom Dwan",
+                "",
+                "",
+                "",
+                "280",
+                "High Stakes Cash Game Legend"
+            ],
+            [
+                "Joe Hachem",
+                "",
+                "",
+                "",
+                "",
+                "$12,076,722"
+            ]
+        ]
+    }
+}

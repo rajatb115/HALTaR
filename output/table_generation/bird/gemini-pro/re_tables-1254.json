@@ -1,0 +1,46 @@
+{
+    "table-1254-1254": {
+        "title": [
+            "Patient ID",
+            "IgA Level",
+            "Diagnosis"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Patient Data with IgA Levels and Diagnoses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who has the highest Ig A within the normal range, what is his or her diagnosis?",
+        "data": [
+            [
+                "12345",
+                "3.45",
+                "Hypertension"
+            ],
+            [
+                "67890",
+                "3.20",
+                "Diabetes"
+            ],
+            [
+                "24680",
+                "3.01",
+                "Osteoarthritis"
+            ],
+            [
+                "13579",
+                "2.88",
+                "Asthma"
+            ],
+            [
+                "98765",
+                "2.55",
+                "Migraine"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "table-582-582": {
+        "title": [
+            "Professional ID",
+            "Role",
+            "Email",
+            "Treatment Status for Dogs",
+            "Last Dog Interaction Date",
+            "Certification Level",
+            "Department",
+            "Active Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which professional did not operate any treatment on dogs? List the professional's id, role and email.",
+        "data": [
+            [
+                "PROF_0042",
+                "Veterinary Assistant",
+                "j.miller@vetcare.com",
+                "None",
+                "N/A",
+                "Basic",
+                "Emergency Care",
+                "Inactive"
+            ],
+            [
+                "PROJ_0115",
+                "Animal Behaviorist",
+                "s.chen@behaviorlab.org",
+                "None (Cats Only)",
+                "N/A",
+                "Advanced",
+                "Behavioral Health",
+                "Active"
+            ],
+            [
+                "PROC_0789",
+                "Radiology Technician",
+                "d.williams@imaging.net",
+                "No Direct Contact",
+                "N/A",
+                "Specialized",
+                "Diagnostics",
+                "On Leave"
+            ],
+            [
+                "PRAC_0331",
+                "General Practitioner",
+                "l.thompson@gpclinic.co.uk",
+                "Performed Treatments",
+                "6 months ago",
+                "Licensed",
+                "Primary Care",
+                "Active"
+            ]
+        ]
+    }
+}

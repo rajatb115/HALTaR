@@ -1,0 +1,76 @@
+{
+    "table-1441-1441": {
+        "title": [
+            "Email Address",
+            "Transaction Date",
+            "Amount Paid ($)",
+            "Status",
+            "Payment Method",
+            "Customer ID",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List emails of people who paid more than 20 dollars from 9/10/2019 to 11/19/2019.",
+        "data": [
+            [
+                "john.doe@example.com",
+                "09/04/21",
+                "76.50",
+                "Completed",
+                "Credit Card",
+                "CUST_1004",
+                "North America"
+            ],
+            [
+                "sarah.smith@domain.net",
+                "09/15/21",
+                "22.00",
+                "Pending",
+                "PayPal",
+                "CUST_1102",
+                "Europe"
+            ],
+            [
+                "mike.jones@test.org",
+                "08/30/01",
+                "-15.00",
+                "Refunded",
+                "Debit Card",
+                "CUSTOMER_55",
+                "Asia Pacific"
+            ],
+            [
+                "lisa.brown@mail.co",
+                "04/05/21",
+                "33.25",
+                "Failed",
+                "Bank Transfer",
+                "C_9982",
+                "South America"
+            ],
+            [
+                "david.wilson@email.io",
+                "05/12/22",
+                "67.80",
+                "Processed",
+                "Crypto Wallet",
+                "USER_7721",
+                "Africa"
+            ],
+            [
+                "emma.taylor@webmail.com",
+                "10/20/18",
+                "12.50",
+                "Cancelled",
+                "Gift Card",
+                "",
+                ""
+            ]
+        ]
+    }
+}

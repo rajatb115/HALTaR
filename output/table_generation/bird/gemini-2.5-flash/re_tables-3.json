@@ -1,0 +1,55 @@
+{
+    "table-3-3": {
+        "title": [
+            "School Name",
+            "Zip Code",
+            "Authorizer",
+            "School Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the zip code of all the charter schools in Fresno County Office of Education.",
+        "data": [
+            [
+                "Aspire Gateway Academy",
+                "93706",
+                "Fresno County Office of Education",
+                "Charter"
+            ],
+            [
+                "University High School",
+                "93740",
+                "Fresno County Office of Education",
+                "Charter"
+            ],
+            [
+                "Carter G. Woodson Public Charter School",
+                "93702",
+                "Fresno County Office of Education",
+                "Charter"
+            ],
+            [
+                "Stonegate Charter School",
+                "93722",
+                "Fresno County Office of Education",
+                "Charter"
+            ],
+            [
+                "Golden Valley Charter School",
+                "93611",
+                "Fresno County Office of Education",
+                "Charter"
+            ],
+            [
+                "Edison Computech Charter School",
+                "93728",
+                "Fresno County Office of Education",
+                "Charter"
+            ]
+        ]
+    }
+}

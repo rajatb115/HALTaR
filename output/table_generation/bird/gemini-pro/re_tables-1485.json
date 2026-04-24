@@ -1,0 +1,39 @@
+{
+    "table-1485-1485": {
+        "title": [
+            "Country",
+            "Gas Stations with \"Discount\" in Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Discount Gas Stations in Europe",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many more \"discount\" gas stations does the Czech Republic have compared to Slovakia?",
+        "data": [
+            [
+                "Czech Republic",
+                "150"
+            ],
+            [
+                "Slovakia",
+                "50"
+            ],
+            [
+                "Poland",
+                "200"
+            ],
+            [
+                "Germany",
+                "300"
+            ],
+            [
+                "Hungary",
+                "75"
+            ]
+        ]
+    }
+}

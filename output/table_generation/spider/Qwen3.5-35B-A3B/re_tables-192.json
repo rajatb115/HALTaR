@@ -1,0 +1,43 @@
+{
+    "table-192-192": {
+        "title": [
+            "Template Code",
+            "Description",
+            "Category",
+            "Version",
+            "Status",
+            "Last Updated",
+            "Owner ID",
+            "Usage Count"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all template type codes and descriptions.",
+        "data": [
+            [
+                "TPL_0042",
+                "Standard Invoice Layout",
+                "Financial",
+                "v2.1",
+                "Active",
+                "06/15/2023",
+                "ENG_77",
+                "4521"
+            ],
+            [
+                "TBL_0193",
+                "Quarterly Sales Report",
+                "Analytics",
+                "v1.0",
+                "Deprecated",
+                "03/01/2022",
+                "DATA_12",
+                "890"
+            ]
+        ]
+    }
+}

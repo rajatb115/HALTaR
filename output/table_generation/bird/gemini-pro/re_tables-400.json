@@ -1,0 +1,43 @@
+{
+    "table-400-400": {
+        "title": [
+            "Card Type",
+            "Description",
+            "Examples"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Magic: The Gathering Arena Card Types",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Lists all types of cards available in arena.",
+        "data": [
+            [
+                "Creature",
+                "Represents a creature on the battlefield.",
+                "Grizzly Bears, Serra Angel"
+            ],
+            [
+                "Instant",
+                "A spell that can be cast at almost any time.",
+                "Lightning Bolt, Counterspell"
+            ],
+            [
+                "Sorcery",
+                "A spell that can only be cast during your main phase when the stack is empty.",
+                "Overrun, Time Warp"
+            ],
+            [
+                "Enchantment",
+                "A permanent spell that modifies the game state.",
+                "Pacifism, Leyline of Sanctity"
+            ],
+            [
+                "Land",
+                "A card that produces mana.",
+                "Forest, Island"
+            ]
+        ]
+    }
+}

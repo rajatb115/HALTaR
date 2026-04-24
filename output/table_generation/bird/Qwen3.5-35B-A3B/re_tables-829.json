@@ -1,0 +1,69 @@
+{
+    "table-829-829": {
+        "title": [
+            "Superhero Name",
+            "Speed Rating (mph)",
+            "Primary Power Source",
+            "First Appearance Year",
+            "Affiliation"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the fastest superheroes.",
+        "data": [
+            [
+                "The Flash",
+                "746,000,023",
+                "Speed Force",
+                "1954",
+                "Justice League"
+            ],
+            [
+                "Quicksilver",
+                "3,050",
+                "Mutant Gene",
+                "1964",
+                "X-Men"
+            ],
+            [
+                "Momentum",
+                "5,080",
+                "Cosmic Energy",
+                "1969",
+                "Defenders"
+            ],
+            [
+                "Booster Gold",
+                "8,500",
+                "Future Tech Suit",
+                "1986",
+                "Justice Society"
+            ],
+            [
+                "Sonic the Hedgehog",
+                "~186,282",
+                "Chaos Emeralds",
+                "1991",
+                "Freedom Fighters"
+            ],
+            [
+                "Velocity Nine",
+                "~192",
+                "Genetic Modification",
+                "1941",
+                "Young Allies"
+            ],
+            [
+                "Jupiter Jones",
+                "23",
+                "Enhanced Physiology",
+                "2014",
+                "Independent"
+            ]
+        ]
+    }
+}

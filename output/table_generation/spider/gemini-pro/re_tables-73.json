@@ -1,0 +1,53 @@
+{
+    "table-73-73": {
+        "title": [
+            "Car Model",
+            "Cylinders",
+            "MPG (City)",
+            "MPG (Highway)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Fuel Efficiency by Cylinder Count",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average miles per gallon of all the cards with 4 cylinders?",
+        "data": [
+            [
+                "Toyota Camry",
+                "4",
+                "28",
+                "39"
+            ],
+            [
+                "Honda Civic",
+                "4",
+                "30",
+                "42"
+            ],
+            [
+                "Mazda 3",
+                "4",
+                "28",
+                "36"
+            ],
+            [
+                "Subaru Impreza",
+                "4",
+                "28",
+                "36"
+            ],
+            [
+                "Hyundai Elantra",
+                "4",
+                "33",
+                "43"
+            ]
+        ]
+    }
+}

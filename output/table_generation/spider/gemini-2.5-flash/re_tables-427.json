@@ -1,0 +1,45 @@
+{
+    "table-427-427": {
+        "title": [
+            "State",
+            "Create Time"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the distinct states and create time of all votes?",
+        "data": [
+            [
+                "Pending",
+                "2023-10-26 10:00:00"
+            ],
+            [
+                "Approved",
+                "2023-10-25 14:30:00"
+            ],
+            [
+                "Rejected",
+                "2023-10-24 09:15:00"
+            ],
+            [
+                "Withdrawn",
+                "2023-10-23 11:00:00"
+            ],
+            [
+                "Expired",
+                "2023-10-22 16:45:00"
+            ],
+            [
+                "Pending",
+                "2023-10-21 08:00:00"
+            ],
+            [
+                "Approved",
+                "2023-10-20 13:00:00"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-670-670": {
+        "title": [
+            "Voter",
+            "Post ID",
+            "Post Title",
+            "Vote Type",
+            "Vote Timestamp",
+            "Post Category"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When did \"chl\" cast its first vote in a post?",
+        "data": [
+            [
+                "chl",
+                "P101",
+                "Introduction to Machine Learning",
+                "Upvote",
+                "2023-03-10 09:15:22",
+                "AI"
+            ],
+            [
+                "chl",
+                "P102",
+                "Data Cleaning Techniques",
+                "Upvote",
+                "2023-03-10 11:45:01",
+                "Data Science"
+            ],
+            [
+                "chl",
+                "P103",
+                "SQL vs NoSQL Databases",
+                "Downvote",
+                "2023-03-11 14:00:30",
+                "Databases"
+            ],
+            [
+                "chl",
+                "P104",
+                "Python for Web Development",
+                "Upvote",
+                "2023-03-12 08:30:15",
+                "Programming"
+            ],
+            [
+                "chl",
+                "P105",
+                "Cloud Computing Basics",
+                "Upvote",
+                "2023-03-12 16:20:05",
+                "Technology"
+            ],
+            [
+                "chl",
+                "P106",
+                "Ethical AI Considerations",
+                "Upvote",
+                "2023-03-13 10:05:10",
+                "Ethics"
+            ],
+            [
+                "chl",
+                "P107",
+                "Advanced Data Visualization",
+                "Upvote",
+                "2023-03-13 15:55:40",
+                "Data Science"
+            ]
+        ]
+    }
+}

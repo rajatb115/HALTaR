@@ -1,0 +1,76 @@
+{
+    "table-1332-1332": {
+        "title": [
+            "Recipient Title",
+            "Fund Source",
+            "Amount Received ($)",
+            "Date Received",
+            "Currency",
+            "Status",
+            "Transaction ID"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the amount of the funds that the Vice President received?",
+        "data": [
+            [
+                "Vice President",
+                "Federal Grant Allocation",
+                "45000",
+                "06/15/2023",
+                "USD",
+                "Disbursed",
+                "TXN-VP-0092"
+            ],
+            [
+                "Vance Office",
+                "State Infrastructure Bond",
+                "750",
+                "",
+                "USD",
+                "Pending Review",
+                "TXP-VS-1104"
+            ],
+            [
+                "Deputy VP",
+                "Emergency Relief Fund",
+                "320",
+                "Jan 22, 2024",
+                "EUR",
+                "Completed",
+                "TRX-EU-8821"
+            ],
+            [
+                "Executive Team Lead",
+                "Corporate Sponsorship",
+                "50000.00",
+                "Dec 10, 1999",
+                "INR",
+                "Verified",
+                "TRL-IN-3342"
+            ],
+            [
+                "Senior Advisor",
+                "Private Donation Pool",
+                "850.50",
+                "Mar 03, 2018",
+                "GBP",
+                "Processed",
+                "TRA-GB-7719"
+            ],
+            [
+                "Chief Operating Officer",
+                "Venture Capital Round",
+                "95020",
+                "Jul 30, 1999",
+                "CAD",
+                "Approved",
+                "TOC-CA-5566"
+            ]
+        ]
+    }
+}

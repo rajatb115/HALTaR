@@ -1,0 +1,40 @@
+{
+    "table-1181-1181": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Test Date",
+            "ALT Level",
+            "Unit",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Was the patient a man or a women whose ALT glutamic pylvic transaminase status got 9 on 1992-6-12?",
+        "data": [
+            [
+                "P-4092",
+                "Male",
+                "9/12/1972",
+                "45",
+                "U/L",
+                "Normal",
+                "Routine checkup"
+            ],
+            [
+                "P-4105",
+                "Female",
+                "6/15/1892",
+                "N/A",
+                "N/U",
+                "Pending",
+                "Data entry error"
+            ]
+        ]
+    }
+}

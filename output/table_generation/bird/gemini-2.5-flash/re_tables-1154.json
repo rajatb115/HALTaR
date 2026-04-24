@@ -1,0 +1,62 @@
+{
+    "table-1154-1154": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "Lab Test Type",
+            "Lab Test Date",
+            "Test Result"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the disease patient '30609' diagnosed with. List all the date of laboratory tests done for this patient.",
+        "data": [
+            [
+                "30609",
+                "Type 2 Diabetes",
+                "Blood Glucose",
+                "2023-01-15",
+                "Elevated"
+            ],
+            [
+                "30609",
+                "Type 2 Diabetes",
+                "HbA1c",
+                "2023-02-01",
+                "7.2%"
+            ],
+            [
+                "30609",
+                "Type 2 Diabetes",
+                "Lipid Panel",
+                "2023-03-10",
+                "Within Range"
+            ],
+            [
+                "30609",
+                "Type 2 Diabetes",
+                "Kidney Function",
+                "2023-04-05",
+                "Normal"
+            ],
+            [
+                "30609",
+                "Type 2 Diabetes",
+                "Blood Glucose",
+                "2023-05-20",
+                "Stable"
+            ],
+            [
+                "30610",
+                "Hypertension",
+                "Blood Pressure",
+                "2023-06-01",
+                "140/90 mmHg"
+            ]
+        ]
+    }
+}

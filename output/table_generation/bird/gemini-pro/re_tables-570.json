@@ -1,0 +1,51 @@
+{
+    "table-570-570": {
+        "title": [
+            "Post Title",
+            "Author",
+            "Date Published",
+            "Vote Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Example Post Vote Counts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the number of votes for the post about data visualization.",
+        "data": [
+            [
+                "Data Visualization Best Practices",
+                "John Doe",
+                "2023-01-15",
+                "125"
+            ],
+            [
+                "Introduction to Data Science",
+                "Jane Smith",
+                "2022-11-01",
+                "90"
+            ],
+            [
+                "Machine Learning Algorithms Explained",
+                "Peter Jones",
+                "2023-03-10",
+                "150"
+            ],
+            [
+                "The Future of AI",
+                "Alice Brown",
+                "2023-02-20",
+                "110"
+            ],
+            [
+                "Data Engineering Fundamentals",
+                "David Lee",
+                "2022-12-05",
+                "85"
+            ]
+        ]
+    }
+}

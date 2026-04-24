@@ -1,0 +1,62 @@
+{
+    "table-1453-1453": {
+        "title": [
+            "Position Title",
+            "Student ID",
+            "Amount Paid ($)",
+            "Payment Date",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average amount paid by students in a position other than a member?",
+        "data": [
+            [
+                "Research Assistant",
+                "STU_4021",
+                "450.00",
+                "06/15/2023",
+                "Completed"
+            ],
+            [
+                "Lab Coordinator",
+                "ST_7732",
+                "320.50",
+                "06/20/2023",
+                "Pending"
+            ],
+            [
+                "Event Volunteer Lead",
+                "ST-9910",
+                "500.25",
+                "07/01/2023",
+                "Active"
+            ],
+            [
+                "Tutoring Supervisor",
+                "ST_U_112",
+                "",
+                "08/10/2024",
+                "Inactive"
+            ],
+            [
+                "Project Manager Intern",
+                "ST_VV_334",
+                "610.75",
+                "09/05/2024",
+                "On Hold"
+            ],
+            [
+                "Workshop Facilitator",
+                "ST_WW_556",
+                "550.00",
+                "10/01/2025",
+                "Cancelled"
+            ]
+        ]
+    }
+}

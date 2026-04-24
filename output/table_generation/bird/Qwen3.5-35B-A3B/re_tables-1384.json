@@ -1,0 +1,85 @@
+{
+    "table-1384-1384": {
+        "title": [
+            "Student ID",
+            "First Name",
+            "Last Name",
+            "City",
+            "State",
+            "Enrollment Status",
+            "Major"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the name of students from Georgetown, South Carolina.",
+        "data": [
+            [
+                "STU0042",
+                "Marcus",
+                "Johnson",
+                "Georgetown",
+                "SC",
+                "Active",
+                "Business Administration"
+            ],
+            [
+                "STU0156",
+                "Elena",
+                "Rodriguez",
+                "Georgetown",
+                "SC",
+                "Active",
+                "Computer Science"
+            ],
+            [
+                "STO0789",
+                "David",
+                "Chen",
+                "Georgetown",
+                "SC",
+                "",
+                "History"
+            ],
+            [
+                "STA0231",
+                "Sarah",
+                "Mitchell",
+                "Georgiana",
+                "SC",
+                "Inactive",
+                "Biology"
+            ],
+            [
+                "SUT0992",
+                "James",
+                "Williams",
+                "Mount Pleasant",
+                "SC",
+                "Active",
+                "Engineering"
+            ],
+            [
+                "SUW0445",
+                "Aisha",
+                "Patel",
+                "Hilton Head",
+                "SC",
+                "Pending",
+                "Psychology"
+            ],
+            [
+                "SUP0112",
+                "Robert",
+                "Davis",
+                "Charleston",
+                "SC",
+                "Inactive",
+                "Economics"
+            ]
+        ]
+    }
+}

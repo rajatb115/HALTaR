@@ -1,0 +1,69 @@
+{
+    "table-1308-1308": {
+        "title": [
+            "Patient ID",
+            "RBC Status",
+            "Clinic Type",
+            "Last Visit Date",
+            "Physician ID"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the patient's ID if he or she has an abnormal level of red blood cell and is followed at the outpatient clinic.",
+        "data": [
+            [
+                "1001",
+                "Abnormal",
+                "Outpatient",
+                "2023-10-15",
+                "P101"
+            ],
+            [
+                "1002",
+                "Normal",
+                "Outpatient",
+                "2023-11-01",
+                "P102"
+            ],
+            [
+                "1003",
+                "Abnormal",
+                "Inpatient",
+                "2023-09-20",
+                "P103"
+            ],
+            [
+                "1004",
+                "Abnormal",
+                "Outpatient",
+                "2023-12-05",
+                "P101"
+            ],
+            [
+                "1005",
+                "Normal",
+                "Emergency",
+                "2023-11-10",
+                "P104"
+            ],
+            [
+                "1006",
+                "Abnormal",
+                "Outpatient",
+                "2023-10-25",
+                "P105"
+            ],
+            [
+                "1007",
+                "Normal",
+                "Outpatient",
+                "2023-12-10",
+                "P102"
+            ]
+        ]
+    }
+}

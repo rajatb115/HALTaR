@@ -1,0 +1,57 @@
+{
+    "table-147-147": {
+        "title": [
+            "Account ID",
+            "Name",
+            "Gender",
+            "Credit Card",
+            "Loan"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Female Account Holders with Credit Cards and Loans",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who are the female account holders who own credit cards and also have loans?",
+        "data": [
+            [
+                "12345",
+                "Alice Smith",
+                "Female",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "67890",
+                "Jane Doe",
+                "Female",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "24680",
+                "Carol White",
+                "Female",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "13579",
+                "Eve Black",
+                "Female",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "98765",
+                "Mallory Green",
+                "Female",
+                "Yes",
+                "Yes"
+            ]
+        ]
+    }
+}

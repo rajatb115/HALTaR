@@ -1,0 +1,52 @@
+{
+    "table-547-547": {
+        "title": [
+            "Orchestra Name",
+            "City",
+            "Founding Year",
+            "Number of Performances"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Orchestras with No Performances",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the orchestras that do not have any performances?",
+        "data": [
+            [
+                "Example Orchestra A",
+                "New York",
+                "1920",
+                "0"
+            ],
+            [
+                "Example Orchestra B",
+                "London",
+                "1880",
+                "0"
+            ],
+            [
+                "Example Orchestra C",
+                "Paris",
+                "1950",
+                "0"
+            ],
+            [
+                "Example Orchestra D",
+                "Berlin",
+                "2000",
+                "0"
+            ],
+            [
+                "Example Orchestra E",
+                "Vienna",
+                "1842",
+                "0"
+            ]
+        ]
+    }
+}

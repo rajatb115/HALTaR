@@ -1,0 +1,57 @@
+{
+    "table-1180-1180": {
+        "title": [
+            "Patient ID",
+            "Diagnosis Date",
+            "Test Date",
+            "Anti-Cardiolipin Antibody Concentration",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Anti-Cardiolipin Antibody Status",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who was diagnosed with SLE on 1994/2/19, what was his/her anti-Cardiolipin antibody concentration status on 1993/11/12?",
+        "data": [
+            [
+                "12345",
+                "1994-02-19",
+                "1993-11-12",
+                "20 GPL",
+                "Negative"
+            ],
+            [
+                "67890",
+                "1994-02-19",
+                "1993-11-12",
+                "85 GPL",
+                "Positive"
+            ],
+            [
+                "24680",
+                "1994-02-19",
+                "1993-11-12",
+                "40 GPL",
+                "Borderline"
+            ],
+            [
+                "13579",
+                "1994-02-19",
+                "1993-11-12",
+                "10 GPL",
+                "Negative"
+            ],
+            [
+                "98765",
+                "1994-02-19",
+                "1993-11-12",
+                "60 GPL",
+                "Positive"
+            ]
+        ]
+    }
+}

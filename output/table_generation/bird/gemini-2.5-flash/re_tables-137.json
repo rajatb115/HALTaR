@@ -1,0 +1,77 @@
+{
+    "table-137-137": {
+        "title": [
+            "Loan ID",
+            "Approval Date",
+            "Loan Amount",
+            "Account ID",
+            "Statement Frequency",
+            "Loan Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Between 1/1/1995 and 12/31/1997, how many loans in the amount of at least 250,000 per account that chose monthly statement issuance were approved?",
+        "data": [
+            [
+                "L-1995-001",
+                "1995-03-15",
+                "325000",
+                "ACC-001",
+                "Monthly",
+                "Approved"
+            ],
+            [
+                "L-1996-005",
+                "1996-07-22",
+                "280000",
+                "ACC-002",
+                "Monthly",
+                "Approved"
+            ],
+            [
+                "L-1997-012",
+                "1997-11-01",
+                "450000",
+                "ACC-003",
+                "Monthly",
+                "Approved"
+            ],
+            [
+                "L-1995-002",
+                "1995-04-10",
+                "290000",
+                "ACC-004",
+                "Quarterly",
+                "Approved"
+            ],
+            [
+                "L-1996-008",
+                "1996-09-05",
+                "310000",
+                "ACC-005",
+                "Monthly",
+                "Denied"
+            ],
+            [
+                "L-1997-015",
+                "1997-02-28",
+                "180000",
+                "ACC-006",
+                "Monthly",
+                "Approved"
+            ],
+            [
+                "L-1996-010",
+                "1996-12-10",
+                "250000",
+                "ACC-007",
+                "Monthly",
+                "Approved"
+            ]
+        ]
+    }
+}

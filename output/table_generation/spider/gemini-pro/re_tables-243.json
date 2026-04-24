@@ -1,0 +1,39 @@
+{
+    "table-243-243": {
+        "title": [
+            "Match Result",
+            "Average Age"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Average Age of Match Participants",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average age of losers and winners of all matches.",
+        "data": [
+            [
+                "Winner",
+                "25.3"
+            ],
+            [
+                "Loser",
+                "24.8"
+            ],
+            [
+                "Average",
+                "25.05"
+            ],
+            [
+                "Youngest",
+                "18"
+            ],
+            [
+                "Oldest",
+                "32"
+            ]
+        ]
+    }
+}

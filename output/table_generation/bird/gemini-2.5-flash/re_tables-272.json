@@ -1,0 +1,77 @@
+{
+    "table-272-272": {
+        "title": [
+            "Bond ID",
+            "Compound Name",
+            "Contains Carbon",
+            "Contains Chlorine",
+            "Bond Type",
+            "Molecular Weight (g/mol)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Does bond id TR001_1_8 have both element of chlorine and carbon?",
+        "data": [
+            [
+                "TR001_1_8",
+                "Tetrachloromethane",
+                "Yes",
+                "Yes",
+                "Covalent",
+                "153.82"
+            ],
+            [
+                "TR002_2_5",
+                "Methane",
+                "Yes",
+                "No",
+                "Covalent",
+                "16.04"
+            ],
+            [
+                "TR003_3_1",
+                "Sodium Chloride",
+                "No",
+                "Yes",
+                "Ionic",
+                "58.44"
+            ],
+            [
+                "TR004_4_9",
+                "Water",
+                "No",
+                "No",
+                "Covalent",
+                "18.02"
+            ],
+            [
+                "TR005_5_2",
+                "Chloroform",
+                "Yes",
+                "Yes",
+                "Covalent",
+                "119.38"
+            ],
+            [
+                "TR006_6_7",
+                "Glucose",
+                "Yes",
+                "No",
+                "Covalent",
+                "180.16"
+            ],
+            [
+                "TR007_7_3",
+                "Potassium Iodide",
+                "No",
+                "No",
+                "Ionic",
+                "166.00"
+            ]
+        ]
+    }
+}

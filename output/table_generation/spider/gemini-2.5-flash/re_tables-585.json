@@ -1,0 +1,61 @@
+{
+    "table-585-585": {
+        "title": [
+            "Treatment Type",
+            "Description",
+            "Average Duration",
+            "Total Cost"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give me the description of the treatment type whose total cost is the lowest.",
+        "data": [
+            [
+                "Oral Medication",
+                "Prescription drugs to manage symptoms or condition.",
+                "2-4 weeks",
+                "$350"
+            ],
+            [
+                "Physical Therapy",
+                "Exercises and manual techniques to restore function.",
+                "6-12 weeks",
+                "$1,800"
+            ],
+            [
+                "Acupuncture",
+                "Traditional Chinese medicine using fine needles.",
+                "4-8 sessions",
+                "$750"
+            ],
+            [
+                "Minor Surgery",
+                "Outpatient procedure to correct a specific issue.",
+                "1-2 days",
+                "$7,500"
+            ],
+            [
+                "Chiropractic Care",
+                "Spinal adjustments and other manual therapies.",
+                "3-6 months",
+                "$1,100"
+            ],
+            [
+                "Counseling Sessions",
+                "Talk therapy to address mental health concerns.",
+                "8-12 weeks",
+                "$900"
+            ],
+            [
+                "Diagnostic Imaging",
+                "MRI, CT scans, or X-rays for diagnosis.",
+                "1-2 days",
+                "$2,200"
+            ]
+        ]
+    }
+}

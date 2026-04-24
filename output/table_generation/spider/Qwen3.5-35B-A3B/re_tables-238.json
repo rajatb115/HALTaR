@@ -1,0 +1,76 @@
+{
+    "table-238-238": {
+        "title": [
+            "Visit ID",
+            "Total Tickets Bought",
+            "Average per Customer",
+            "Maximum Single Transaction",
+            "Date Recorded",
+            "Location Branch",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the average and maximum number of tickets bought in all visits?",
+        "data": [
+            [
+                "VST-1042",
+                "45",
+                "7.5",
+                "None",
+                "06/15/2023",
+                "Downtown Hub",
+                "Completed"
+            ],
+            [
+                "VSS-2091",
+                "32",
+                "N/A",
+                "8",
+                "6/22/23 / 23:00",
+                "Westside Mall",
+                "Pending Review"
+            ],
+            [
+                "VTX-3305",
+                "N/D",
+                "5.2",
+                "None / Error",
+                "July 1st, 24",
+                "North Gate Station",
+                "Cancelled"
+            ],
+            [
+                "VRP-4412",
+                "-12 (Refund)",
+                "9.0",
+                "None",
+                "07/10/24",
+                "Central Plaza",
+                "Processed"
+            ],
+            [
+                "VSU-5523",
+                "120",
+                "15.0",
+                "25",
+                "August 5th,  2 4",
+                "East Terminal",
+                "Verified"
+            ],
+            [
+                "VMC-6634",
+                "8",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

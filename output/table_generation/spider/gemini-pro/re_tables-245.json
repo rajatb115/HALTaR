@@ -1,0 +1,40 @@
+{
+    "table-245-245": {
+        "title": [
+            "Match ID",
+            "Winner Rank"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Average Rank of Match Winners",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average rank of winners in all matches.",
+        "data": [
+            [
+                "1",
+                "1"
+            ],
+            [
+                "2",
+                "3"
+            ],
+            [
+                "3",
+                "1"
+            ],
+            [
+                "4",
+                "2"
+            ],
+            [
+                "5",
+                "1"
+            ]
+        ]
+    }
+}

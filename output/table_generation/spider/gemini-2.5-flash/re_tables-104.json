@@ -1,0 +1,61 @@
+{
+    "table-104-104": {
+        "title": [
+            "Model",
+            "Manufacturer",
+            "Weight (lbs)",
+            "Model Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which models are lighter than 3500 but not built by the 'Ford Motor Company'?",
+        "data": [
+            [
+                "Civic Sport",
+                "Honda",
+                "2950",
+                "2023"
+            ],
+            [
+                "Corolla LE",
+                "Toyota",
+                "3010",
+                "2022"
+            ],
+            [
+                "MX-5 Miata",
+                "Mazda",
+                "2341",
+                "2024"
+            ],
+            [
+                "Impreza Base",
+                "Subaru",
+                "3150",
+                "2023"
+            ],
+            [
+                "Golf GTI",
+                "Volkswagen",
+                "3200",
+                "2021"
+            ],
+            [
+                "Elantra SEL",
+                "Hyundai",
+                "2890",
+                "2023"
+            ],
+            [
+                "Cruze LT",
+                "General Motors",
+                "3080",
+                "2018"
+            ]
+        ]
+    }
+}

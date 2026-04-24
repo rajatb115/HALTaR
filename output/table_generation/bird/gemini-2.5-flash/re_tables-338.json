@@ -1,0 +1,45 @@
+{
+    "table-338-338": {
+        "title": [
+            "Molecule ID",
+            "Element",
+            "Bond Type",
+            "Bond Order",
+            "Molecular Formula",
+            "Structure Class"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the element and bond type included in the molecule with molecule ID of TR016.",
+        "data": [
+            [
+                "TR016",
+                "Carbon",
+                "Covalent",
+                "Single",
+                "C2H6O",
+                "Organic"
+            ],
+            [
+                "TR016",
+                "Hydrogen",
+                "Covalent",
+                "Single",
+                "C2H6O",
+                "Organic"
+            ],
+            [
+                "TR",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

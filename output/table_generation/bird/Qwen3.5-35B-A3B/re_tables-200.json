@@ -1,0 +1,77 @@
+{
+    "table-200-200": {
+        "title": [
+            "Molecule Formula",
+            "Sodium Count",
+            "Carcinogen Status",
+            "Source Classification",
+            "Regulatory ID",
+            "Safety Rating"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the molecule containing sodium atoms, how many are non-carcinogenic?",
+        "data": [
+            [
+                "NaCl",
+                "1",
+                "Non-Carcinogenic",
+                "Food Additive",
+                "E300",
+                "Safe"
+            ],
+            [
+                "NaNH\u2082",
+                "1",
+                "",
+                "Chemical Reagent",
+                "CAS-7685-48-7",
+                "Restricted"
+            ],
+            [
+                "CH\u2083COONa",
+                "1",
+                "Acetate",
+                "Industrial Solvent",
+                "UN1789",
+                "Low Risk"
+            ],
+            [
+                "Ca(ClO)\u2082\u00b7xNaOH",
+                "2",
+                "Unknown",
+                "Bleaching Agent",
+                "CAS-N/A",
+                "Pending Review"
+            ],
+            [
+                "KNO\u2083 + NaCl Mixture",
+                "1+",
+                "Mixed Profile",
+                "Fertilizer Blend",
+                "AGR-992",
+                "Moderate"
+            ],
+            [
+                "LiFePO\u2084 / Na-ion Battery",
+                "Variable",
+                "Non-Toxic Component",
+                "Energy Storage",
+                "ISO-12405",
+                "Approved"
+            ],
+            [
+                "Pharmaceutical Grade Saline",
+                "100%",
+                "Benign Solution",
+                "Medical Device",
+                "FDA-GRAS",
+                "High Safety"
+            ]
+        ]
+    }
+}

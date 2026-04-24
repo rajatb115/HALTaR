@@ -1,0 +1,47 @@
+{
+    "table-410-410": {
+        "title": [
+            "Player ID",
+            "Height (cm)",
+            "Earnings ($)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Poker Player Earnings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average earnings of poker players with height higher than 200?",
+        "data": [
+            [
+                "1",
+                "203",
+                "150000"
+            ],
+            [
+                "2",
+                "201",
+                "220000"
+            ],
+            [
+                "3",
+                "205",
+                "180000"
+            ],
+            [
+                "4",
+                "200",
+                "100000"
+            ],
+            [
+                "5",
+                "202",
+                "250000"
+            ]
+        ]
+    }
+}

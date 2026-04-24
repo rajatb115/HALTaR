@@ -1,0 +1,76 @@
+{
+    "table-474-474": {
+        "title": [
+            "City",
+            "Country",
+            "Primary Language",
+            "Population (Millions)",
+            "English Official Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the city with the largest population that uses English.",
+        "data": [
+            [
+                "London",
+                "United Kingdom",
+                "English",
+                "9.0",
+                "Official"
+            ],
+            [
+                "New York City",
+                "United States",
+                "English",
+                "8.5",
+                "Official"
+            ],
+            [
+                "Los Angeles",
+                "United States",
+                "English",
+                "3.9",
+                "Official"
+            ],
+            [
+                "Sydney",
+                "Australia",
+                "English",
+                "5.3",
+                "Official"
+            ],
+            [
+                "Toronto",
+                "Canada",
+                "English",
+                "2.9",
+                "Official"
+            ],
+            [
+                "Mumbai",
+                "India",
+                "Marathi",
+                "20.7",
+                "Official"
+            ],
+            [
+                "Lagos",
+                "Nigeria",
+                "Yoruba",
+                "15.3",
+                "Official"
+            ],
+            [
+                "Singapore",
+                "Singapore",
+                "English",
+                "5.7",
+                "Official"
+            ]
+        ]
+    }
+}

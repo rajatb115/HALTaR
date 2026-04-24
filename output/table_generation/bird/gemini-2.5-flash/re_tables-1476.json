@@ -1,0 +1,61 @@
+{
+    "table-1476-1476": {
+        "title": [
+            "Customer Name",
+            "Account Segment",
+            "Annual Consumption (kWh)",
+            "Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many customers in KAM had a consumption of less than 30,000 for the year 2012?",
+        "data": [
+            [
+                "Alpha Corp",
+                "KAM",
+                "28500",
+                "2012"
+            ],
+            [
+                "Beta Solutions",
+                "SMB",
+                "15200",
+                "2012"
+            ],
+            [
+                "Gamma Ltd",
+                "KAM",
+                "32100",
+                "2012"
+            ],
+            [
+                "Delta Inc",
+                "KAM",
+                "22900",
+                "2012"
+            ],
+            [
+                "Epsilon Group",
+                "KAM",
+                "19800",
+                "2011"
+            ],
+            [
+                "Zeta Enterprises",
+                "KAM",
+                "41000",
+                "2012"
+            ],
+            [
+                "Eta Innovations",
+                "KAM",
+                "29500",
+                "2012"
+            ]
+        ]
+    }
+}

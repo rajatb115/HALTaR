@@ -1,0 +1,46 @@
+{
+    "table-15-15": {
+        "title": [
+            "Stadium Name",
+            "Capacity",
+            "Average Attendance"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Stadium Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name and capacity for the stadium with highest average attendance?",
+        "data": [
+            [
+                "Example A",
+                "50000",
+                "45000"
+            ],
+            [
+                "Example B",
+                "60000",
+                "55000"
+            ],
+            [
+                "Example C",
+                "70000",
+                "65000"
+            ],
+            [
+                "Example D",
+                "80000",
+                "75000"
+            ],
+            [
+                "Example E",
+                "90000",
+                "85000"
+            ]
+        ]
+    }
+}

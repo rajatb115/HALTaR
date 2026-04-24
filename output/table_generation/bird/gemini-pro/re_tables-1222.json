@@ -1,0 +1,57 @@
+{
+    "table-1222-1222": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Birthday",
+            "UN Index",
+            "Diagnosis"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Rheumatoid Arthritis Patient Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the ID, sex, birthday of all patients diagnosed with 'RA' that are within the UN normal index.",
+        "data": [
+            [
+                "12345",
+                "M",
+                "1970-01-15",
+                "Normal",
+                "RA"
+            ],
+            [
+                "67890",
+                "F",
+                "1982-05-20",
+                "Normal",
+                "RA"
+            ],
+            [
+                "24680",
+                "F",
+                "1990-11-03",
+                "Normal",
+                "RA"
+            ],
+            [
+                "13579",
+                "M",
+                "1975-03-28",
+                "Normal",
+                "RA"
+            ],
+            [
+                "98765",
+                "M",
+                "1988-09-10",
+                "Normal",
+                "RA"
+            ]
+        ]
+    }
+}

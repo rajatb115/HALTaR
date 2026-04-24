@@ -1,0 +1,37 @@
+{
+    "table-635-635": {
+        "title": [
+            "Singer Name",
+            "Net Worth (USD)"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Singers and Their Net Worth",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of singers ordered by ascending net worth?",
+        "data": [
+            [
+                "Taylor Swift",
+                "400 Million"
+            ],
+            [
+                "Rihanna",
+                "1.4 Billion"
+            ],
+            [
+                "Madonna",
+                "850 Million"
+            ],
+            [
+                "Beyonce",
+                "500 Million"
+            ],
+            [
+                "Jay-Z",
+                "2.5 Billion"
+            ]
+        ]
+    }
+}

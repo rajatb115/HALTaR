@@ -1,0 +1,39 @@
+{
+    "table-622-622": {
+        "title": [
+            "Badge Name",
+            "User Reputation"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Badges Awarded to Users with Lowest Reputation",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the name of badges that users who have the lowest reputation obtained?",
+        "data": [
+            [
+                "Autobiographer",
+                "1"
+            ],
+            [
+                "Citizen Patrol",
+                "1"
+            ],
+            [
+                "Commentator",
+                "1"
+            ],
+            [
+                "First Answer",
+                "1"
+            ],
+            [
+                "First Question",
+                "1"
+            ]
+        ]
+    }
+}

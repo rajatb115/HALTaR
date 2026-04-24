@@ -1,0 +1,61 @@
+{
+    "table-1250-1250": {
+        "title": [
+            "Patient ID",
+            "Disease Name",
+            "Proteinuria Level (mg/dL)",
+            "Diagnosis Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the disease names of the patients that have a proteinuria level higher than normal.",
+        "data": [
+            [
+                "P001",
+                "Diabetic Nephropathy",
+                "185",
+                "2023-03-15"
+            ],
+            [
+                "P002",
+                "Glomerulonephritis",
+                "320",
+                "2024-01-22"
+            ],
+            [
+                "P003",
+                "Lupus Nephritis",
+                "250",
+                "2023-11-01"
+            ],
+            [
+                "P004",
+                "Hypertensive Nephrosclerosis",
+                "160",
+                "2022-09-10"
+            ],
+            [
+                "P005",
+                "Multiple Myeloma",
+                "410",
+                "2024-02-28"
+            ],
+            [
+                "P006",
+                "Preeclampsia",
+                "305",
+                "2023-07-05"
+            ],
+            [
+                "P007",
+                "Amyloidosis",
+                "580",
+                "2023-10-19"
+            ]
+        ]
+    }
+}

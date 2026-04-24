@@ -1,0 +1,85 @@
+{
+    "table-1274-1274": {
+        "title": [
+            "Patient ID",
+            "Anti-SSA Status",
+            "Anti-Ssb Status",
+            "Diagnosis",
+            "Examination Date",
+            "Result Count",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients have a normal anti-SSB and are diagnosed with SLE in the examination?",
+        "data": [
+            [
+                "P-1042",
+                "Positive",
+                "Normal",
+                "Systemic Lupus Erythematosus",
+                "06/15/2023",
+                "45",
+                "Confirmed via ELISA"
+            ],
+            [
+                "P-1109",
+                "Negative",
+                "Normal",
+                "Systemic Lupuses Erythematous",
+                "",
+                "78",
+                "Routine screening"
+            ],
+            [
+                "S-2033",
+                "Indeterminate",
+                "Normal",
+                "SLE",
+                "",
+                "32",
+                "Follow-up visit"
+            ],
+            [
+                "T-4451",
+                "Positive/Negative",
+                "Normal",
+                "Lupus",
+                "",
+                "N/A",
+                "Pending review"
+            ],
+            [
+                "U-5562",
+                "Weakly Reactive",
+                "Normal",
+                "Diagnosed SLE",
+                "",
+                "N/A",
+                "Initial consult"
+            ],
+            [
+                "V-6678",
+                "High Titer",
+                "Normal",
+                "Confirmed Case",
+                "",
+                "89",
+                "Specialist referral"
+            ],
+            [
+                "W-7791",
+                "Low Level",
+                "Normal",
+                "Possible SLE",
+                "",
+                "12",
+                "Re-evaluation required"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-249-249": {
+        "title": [
+            "Player ID",
+            "Player Name",
+            "Country Code",
+            "Country Name",
+            "Continent"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the number of distinct country codes of all players.",
+        "data": [
+            [
+                "P001",
+                "Alice Smith",
+                "USA",
+                "United States",
+                "North America"
+            ],
+            [
+                "P002",
+                "Bob Johnson",
+                "GBR",
+                "United Kingdom",
+                "Europe"
+            ],
+            [
+                "P003",
+                "Carol White",
+                "FRA",
+                "France",
+                "Europe"
+            ],
+            [
+                "P004",
+                "David Lee",
+                "JPN",
+                "Japan",
+                "Asia"
+            ],
+            [
+                "P005",
+                "Eva Green",
+                "IND",
+                "India",
+                "Asia"
+            ],
+            [
+                "P006",
+                "Frank Black",
+                "BRA",
+                "Brazil",
+                "South America"
+            ],
+            [
+                "P007",
+                "Grace Hall",
+                "AUS",
+                "Australia",
+                "Oceania"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "table-455-455": {
+        "title": [
+            "Municipality",
+            "Region",
+            "Estimated_Population",
+            "Land_Area_km2",
+            "Pop_Density",
+            "Source_Yr",
+            "Update_Freq",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many people live in Gelderland district?",
+        "data": [
+            [
+                "Arnhem",
+                "East_Gelderland",
+                "41615",
+                "60",
+                "N/A",
+                "Municipal Registry",
+                "83",
+                "9.2"
+            ]
+        ]
+    }
+}

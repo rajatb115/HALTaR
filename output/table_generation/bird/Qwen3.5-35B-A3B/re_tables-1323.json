@@ -1,0 +1,83 @@
+{
+    "table-1323-1323": {
+        "title": [
+            "Event_ID",
+            "Event_Name",
+            "Total_Attendees",
+            "Is_Meeting",
+            "Club_Affiliation",
+            "Date_Held",
+            "Location",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the events attended by more than 10 members of the Student_Club, how many of them are meetings?",
+        "data": [
+            [
+                "EVT_004",
+                "Budget Review Session",
+                "45",
+                "Yes",
+                "Student_Clubs",
+                "06/15/2023",
+                "Room 3B",
+                "Completed"
+            ],
+            [
+                "EPT_012",
+                "Annual General Assembly",
+                "78",
+                "No",
+                "Student_Governance",
+                "3/22/24",
+                "Main Hall",
+                "Upcoming"
+            ],
+            [
+                "MEE_089",
+                "Project Planning Workshop",
+                "52",
+                "Yes",
+                "Student_Tech",
+                "09/10/23",
+                "Lab 2",
+                "Scheduled"
+            ],
+            [
+                "GAL_033",
+                "Spring Social Mixer",
+                "65",
+                "No",
+                "Social_Committee",
+                "4/05/3",
+                "Gymnasium",
+                "Cancelled"
+            ],
+            [
+                "MEC_101",
+                "Strategic Vision Meeting",
+                "88",
+                "Yes",
+                "Executive_Council",
+                "11/12/33",
+                "Boardroom",
+                "Ongoing"
+            ],
+            [
+                "WKS_055",
+                "Leadership Training Seminar",
+                "41",
+                "No",
+                "HR_Department",
+                "02/14/",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-1318-1318": {
+        "title": [
+            "Student ID",
+            "Event Name",
+            "Club Name",
+            "T-Shirt Size"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Event Attendees and T-Shirt Sizes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the students from the Student_Club who attended the event \"Women's Soccer\", how many of them want a T-shirt that's in medium size?",
+        "data": [
+            [
+                "123",
+                "Women's Soccer",
+                "Student_Club",
+                "Medium"
+            ],
+            [
+                "456",
+                "Women's Soccer",
+                "Student_Club",
+                "Large"
+            ],
+            [
+                "789",
+                "Women's Soccer",
+                "Student_Club",
+                "Medium"
+            ],
+            [
+                "101",
+                "Women's Soccer",
+                "Drama_Club",
+                "Small"
+            ],
+            [
+                "112",
+                "Women's Soccer",
+                "Student_Club",
+                "Small"
+            ]
+        ]
+    }
+}

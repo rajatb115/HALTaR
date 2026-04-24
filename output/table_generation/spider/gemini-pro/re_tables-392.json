@@ -1,0 +1,57 @@
+{
+    "table-392-392": {
+        "title": [
+            "Player Name",
+            "Event",
+            "Year",
+            "Finish",
+            "Prize (USD)"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Poker Player Final Table Results",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the final tables made and the best finishes of poker players.",
+        "data": [
+            [
+                "Phil Ivey",
+                "WSOP Main Event",
+                "2009",
+                "7th",
+                "$1,318,085"
+            ],
+            [
+                "Daniel Negreanu",
+                "WSOP Europe Main Event",
+                "2013",
+                "4th",
+                "$370,820"
+            ],
+            [
+                "Stu Ungar",
+                "WSOP Main Event",
+                "1997",
+                "1st",
+                "$1,000,000"
+            ],
+            [
+                "Doyle Brunson",
+                "WSOP Main Event",
+                "1977",
+                "1st",
+                "$340,000"
+            ],
+            [
+                "Johnny Chan",
+                "WSOP Main Event",
+                "1988",
+                "1st",
+                "$700,000"
+            ]
+        ]
+    }
+}

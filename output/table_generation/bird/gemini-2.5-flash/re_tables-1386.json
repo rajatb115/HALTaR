@@ -1,0 +1,61 @@
+{
+    "table-1386-1386": {
+        "title": [
+            "Student Name",
+            "Project/Activity",
+            "Income Generated ($)",
+            "Date Achieved"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which student was able to generate income more than $40?",
+        "data": [
+            [
+                "Alice Smith",
+                "Tutoring",
+                "75.00",
+                "2023-10-15"
+            ],
+            [
+                "Bob Johnson",
+                "Freelance Design",
+                "120.50",
+                "2023-11-01"
+            ],
+            [
+                "Carol White",
+                "Babysitting",
+                "35.00",
+                "2023-10-20"
+            ],
+            [
+                "David Green",
+                "Online Surveys",
+                "22.75",
+                "2023-11-05"
+            ],
+            [
+                "Emily Brown",
+                "Craft Sales",
+                "90.25",
+                "2023-10-28"
+            ],
+            [
+                "Frank Black",
+                "Dog Walking",
+                "50.00",
+                "2023-11-10"
+            ],
+            [
+                "Grace Lee",
+                "Blog Monetization",
+                "150.00",
+                "2023-11-12"
+            ]
+        ]
+    }
+}

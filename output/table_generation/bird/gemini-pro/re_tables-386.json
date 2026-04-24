@@ -1,0 +1,37 @@
+{
+    "table-386-386": {
+        "title": [
+            "Ruling",
+            "Details"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Beacon of Immortality Rulings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write down the ruling of Beacon of Immortality.",
+        "data": [
+            [
+                "Life Total Adjustment",
+                "If a player's life total is less than 0 when Beacon of Immortality resolves, their life total becomes twice their current life total, which will still be less than 0."
+            ],
+            [
+                "Replacement Effects",
+                "Replacement effects (like those from Platinum Angel or Worship) may modify the effect of Beacon of Immortality."
+            ],
+            [
+                "Targeting",
+                "Beacon of Immortality targets a player. If that player becomes an illegal target before Beacon of Immortality resolves, the spell will be countered."
+            ],
+            [
+                "Copying the Spell",
+                "If Beacon of Immortality is copied (e.g., with Twincast), the copy will affect a different target. Each copy resolves independently, doubling the respective target's life total."
+            ],
+            [
+                "Multiple Resolutions",
+                "Resolving multiple Beacon of Immortality spells on the same player will double their life total each time, resulting in exponential growth."
+            ]
+        ]
+    }
+}

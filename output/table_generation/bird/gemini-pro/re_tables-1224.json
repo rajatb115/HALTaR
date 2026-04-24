@@ -1,0 +1,35 @@
+{
+    "table-1224-1224": {
+        "title": [
+            "Gender",
+            "Normal Creatinine",
+            "Abnormal Creatinine",
+            "Total Patients"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Creatinine Levels by Gender",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Are there more male patients with creatinine not within the normal range than female? True or False?",
+        "data": [
+            [
+                "Male",
+                "150",
+                "200",
+                "350"
+            ],
+            [
+                "Female",
+                "180",
+                "120",
+                "300"
+            ]
+        ]
+    }
+}

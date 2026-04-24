@@ -1,0 +1,62 @@
+{
+    "table-89-89": {
+        "title": [
+            "Cylinder ID",
+            "Max Acceleration (m/s\u00b2)",
+            "Engine Model",
+            "Test Condition",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum accelerate for all the different cylinders?",
+        "data": [
+            [
+                "Cyl-004",
+                "9.81",
+                "V6-Turbo",
+                "Standard Load",
+                "Verified"
+            ],
+            [
+                "Cylinder-A7",
+                "8.45",
+                "Inline-Four",
+                "High RPM",
+                "Verified"
+            ],
+            [
+                "Cyl-X92",
+                "7.92",
+                "Diesel-V8",
+                "Cold Start",
+                "Pending"
+            ],
+            [
+                "Cyl-B11",
+                "6.33",
+                "Hybrid-Six",
+                "Eco Mode",
+                "Verified"
+            ],
+            [
+                "Cyl-Z05",
+                "N/A",
+                "Electric-Motor",
+                "Regenerative",
+                "Failed"
+            ],
+            [
+                "Cyl-K22",
+                "",
+                "Prototype-I",
+                "Stress Test",
+                "Incomplete"
+            ]
+        ]
+    }
+}

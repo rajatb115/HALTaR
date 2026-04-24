@@ -1,0 +1,77 @@
+{
+    "table-1153-1153": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "Treatment Setting",
+            "Follow-up Visits",
+            "Status",
+            "Last Follow-up"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the ratio of outpatient to inpatient followed up treatment among all the 'SLE' diagnosed patient?",
+        "data": [
+            [
+                "SLE-001",
+                "SLE",
+                "Outpatient",
+                "15",
+                "Active",
+                "2023-11-20"
+            ],
+            [
+                "SLE-002",
+                "SLE",
+                "Inpatient",
+                "3",
+                "Discharged",
+                "2023-10-05"
+            ],
+            [
+                "SLE-003",
+                "SLE",
+                "Outpatient",
+                "22",
+                "Active",
+                "2023-12-01"
+            ],
+            [
+                "SLE-004",
+                "SLE",
+                "Outpatient",
+                "8",
+                "Completed",
+                "2023-09-10"
+            ],
+            [
+                "SLE-005",
+                "SLE",
+                "Inpatient",
+                "5",
+                "Active",
+                "2023-11-25"
+            ],
+            [
+                "SLE-006",
+                "SLE",
+                "Outpatient",
+                "10",
+                "Active",
+                "2023-11-18"
+            ],
+            [
+                "SLE-007",
+                "SLE",
+                "Outpatient",
+                "18",
+                "Active",
+                "2023-12-03"
+            ]
+        ]
+    }
+}

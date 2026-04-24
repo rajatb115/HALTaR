@@ -1,0 +1,62 @@
+{
+    "table-586-586": {
+        "title": [
+            "Post Title",
+            "Post ID",
+            "Bounty Amount",
+            "Bounty Status",
+            "Date Posted"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much is the total bounty amount of the post titled about 'data'",
+        "data": [
+            [
+                "Understanding Data Normalization",
+                "1001",
+                "$75",
+                "Active",
+                "2023-10-26"
+            ],
+            [
+                "Big Data Analytics Trends",
+                "1002",
+                "$150",
+                "Claimed",
+                "2023-09-15"
+            ],
+            [
+                "Data Visualization Best Practices",
+                "1003",
+                "$50",
+                "Expired",
+                "2023-11-01"
+            ],
+            [
+                "Machine Learning with Data Streams",
+                "1004",
+                "$200",
+                "Active",
+                "2023-12-05"
+            ],
+            [
+                "Ethical Considerations in Data Science",
+                "1005",
+                "$100",
+                "Claimed",
+                "2023-08-20"
+            ],
+            [
+                "Data Governance Frameworks",
+                "1006",
+                "$125",
+                "Active",
+                "2023-11-10"
+            ]
+        ]
+    }
+}

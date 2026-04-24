@@ -1,0 +1,58 @@
+{
+    "table-118-118": {
+        "title": [
+            "Airport Code",
+            "City",
+            "Country",
+            "IATA Code",
+            "Region",
+            "Status",
+            "Coordinates"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which city and country is the Alton airport at?",
+        "data": [
+            [
+                "ALTN",
+                "Altona",
+                "Canada",
+                "ALN",
+                "Manitoba",
+                "Active",
+                "49.876\u00b0 N, 97.123\u00b0 W"
+            ],
+            [
+                "YATL",
+                "Atlanta",
+                "United States",
+                "ATL",
+                "Georgia",
+                "Major Hub",
+                "33.640\u00b0 N"
+            ],
+            [
+                "YYTO",
+                "Toronto",
+                "Canada",
+                "YTO",
+                "Ontario",
+                "International",
+                "50.100\u00b0 S, -105.201 E"
+            ],
+            [
+                "KORD",
+                "Chicago",
+                "United States",
+                "ORD",
+                "Illinois",
+                "Busy Terminal",
+                "60.000 N, -80.500 W"
+            ]
+        ]
+    }
+}

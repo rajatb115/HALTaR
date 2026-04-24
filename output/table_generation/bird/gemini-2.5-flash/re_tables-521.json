@@ -1,0 +1,62 @@
+{
+    "table-521-521": {
+        "title": [
+            "Illustrator Name",
+            "Cards Illustrated Count",
+            "Primary Card Format",
+            "Secondary Card Format",
+            "First Card Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the illustrator that illustrated the least amount of cards? List the format of play of the cards that he/she illustrated.",
+        "data": [
+            [
+                "Jane Smith",
+                "8",
+                "Commander",
+                "N/A",
+                "2022"
+            ],
+            [
+                "David Lee",
+                "12",
+                "Draft",
+                "Standard",
+                "2021"
+            ],
+            [
+                "John Doe",
+                "15",
+                "Standard",
+                "Draft",
+                "2021"
+            ],
+            [
+                "Maria Garcia",
+                "25",
+                "Standard",
+                "Digital Only",
+                "2020"
+            ],
+            [
+                "Alex Chen",
+                "42",
+                "Modern",
+                "Legacy",
+                "2018"
+            ],
+            [
+                "Sarah Brown",
+                "55",
+                "Legacy",
+                "Modern",
+                "2017"
+            ]
+        ]
+    }
+}

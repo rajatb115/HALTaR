@@ -1,0 +1,58 @@
+{
+    "table-317-317": {
+        "title": [
+            "Student ID",
+            "Last Name",
+            "State",
+            "Degree Registration Status",
+            "Enrollment Date",
+            "Program Code",
+            "GPA"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the last name of the students who live in North Carolina but have not registered in any degree programs?",
+        "data": [
+            [
+                "S1042",
+                "Anderson",
+                "North Carolina",
+                "None",
+                "N/A",
+                "",
+                "0.00"
+            ],
+            [
+                "S1056",
+                "Bennett",
+                "North Carolina",
+                "None",
+                "N/A",
+                "",
+                "0.00"
+            ],
+            [
+                "S2103",
+                "Carter",
+                "North Carolina",
+                "None",
+                "N/A",
+                "",
+                "1.75"
+            ],
+            [
+                "S3019",
+                "Davis",
+                "North Carolina",
+                "Not Registered",
+                "N/A",
+                "",
+                "2.10"
+            ]
+        ]
+    }
+}

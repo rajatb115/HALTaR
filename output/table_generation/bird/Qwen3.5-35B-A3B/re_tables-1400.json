@@ -1,0 +1,85 @@
+{
+    "table-1400-1400": {
+        "title": [
+            "Event Category",
+            "Participant Name",
+            "Attendance Status",
+            "Date Attended",
+            "Location",
+            "Score/Result",
+            "Coach"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Did Maya Mclean attend the 'Women's Soccer' event?",
+        "data": [
+            [
+                "Women's Soccer",
+                "Maya McLean",
+                "Yes",
+                "4 May 24",
+                "City Stadium",
+                "Win 2-1",
+                "Sarah Jenkins"
+            ],
+            [
+                "Men's Basketball",
+                "John Doe",
+                "No",
+                "N/A",
+                "Arena One",
+                "Loss 88-90",
+                "Mike Ross"
+            ],
+            [
+                "Volleyball",
+                "Emily White",
+                "Yes",
+                "6 June 23",
+                "Gymnasium X",
+                "Draw 21-21",
+                "Tom Baker"
+            ],
+            [
+                "Swimming",
+                "David Lee",
+                "Yes*",
+                "7 July 22",
+                "Pool Central",
+                "Gold Medal",
+                "Lisa Ray"
+            ],
+            [
+                "Tennis",
+                "Clara Brown",
+                "No*",
+                "N/R",
+                "Court Y",
+                "Walkover",
+                "Steve Hill"
+            ],
+            [
+                "Athletics",
+                "Mark Green",
+                "Yes**",
+                "8 Aug 25",
+                "Track Field",
+                "Silver Medal",
+                "Anna Fox"
+            ],
+            [
+                "Hockey",
+                "Susan Black",
+                "No***",
+                "N/D",
+                "Ice Rink Z",
+                "Cancelled",
+                "Bob King"
+            ]
+        ]
+    }
+}

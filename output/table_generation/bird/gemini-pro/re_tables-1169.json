@@ -1,0 +1,46 @@
+{
+    "table-1169-1169": {
+        "title": [
+            "Patient ID",
+            "Date of Lab Work",
+            "Age at Admission"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Oldest SJS Patient Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "The oldest SJS patient's medical laboratory work was completed on what date, and what age was the patient when they initially arrived at the hospital?",
+        "data": [
+            [
+                "12345",
+                "2023-03-15",
+                "78"
+            ],
+            [
+                "67890",
+                "2022-11-01",
+                "65"
+            ],
+            [
+                "24680",
+                "2023-07-20",
+                "52"
+            ],
+            [
+                "13579",
+                "2022-09-10",
+                "48"
+            ],
+            [
+                "98765",
+                "2023-05-05",
+                "82"
+            ]
+        ]
+    }
+}

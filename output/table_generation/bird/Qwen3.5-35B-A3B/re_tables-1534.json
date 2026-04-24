@@ -1,0 +1,53 @@
+{
+    "table-1534-1534": {
+        "title": [
+            "Customer ID",
+            "Product ID",
+            "Unit Price",
+            "Consumption Status",
+            "Month",
+            "Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the people who paid more than 29.00 per unit of product id No.5. Give their consumption status in the August of 2012.",
+        "data": [
+            [
+                "CUST_4021",
+                "5",
+                "$32.50",
+                "Active Subscriber",
+                "August",
+                "7/16/2023"
+            ],
+            [
+                "CUST_A892",
+                "9",
+                "N/A",
+                "Inactive Account",
+                "August",
+                "7/22/2023"
+            ],
+            [
+                "CUST_B103",
+                "3",
+                "$28.05",
+                "Pending Review",
+                "August / September",
+                "8/15/2022"
+            ],
+            [
+                "CUST_D554",
+                "6",
+                "$45.01",
+                "Cancelled Subscription",
+                "August - October",
+                "4/12/2019"
+            ]
+        ]
+    }
+}

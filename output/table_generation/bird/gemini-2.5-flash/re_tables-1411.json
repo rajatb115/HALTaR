@@ -1,0 +1,62 @@
+{
+    "table-1411-1411": {
+        "title": [
+            "Member ID",
+            "Full Name",
+            "Membership Type",
+            "Total Cost",
+            "Last Activity Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the full name and total cost that member id \"rec4BLdZHS2Blfp4v\" incurred?",
+        "data": [
+            [
+                "rec4BLdZHS2Blfp4v",
+                "Alice Wonderland",
+                "Premium",
+                "$1,250.75",
+                "2023-10-26"
+            ],
+            [
+                "mem9XyZ123AbCdeF",
+                "Bob The Builder",
+                "Standard",
+                "$345.20",
+                "2023-11-01"
+            ],
+            [
+                "usr7PqR456GhIjkL",
+                "Charlie Chaplin",
+                "Gold",
+                "$2,100.50",
+                "2023-10-15"
+            ],
+            [
+                "id2MnP890StUvWxY",
+                "Diana Prince",
+                "Basic",
+                "$180.00",
+                "2023-09-28"
+            ],
+            [
+                "rec1AbC234DeF567",
+                "Eve Harrington",
+                "Premium",
+                "$980.10",
+                "2023-11-05"
+            ],
+            [
+                "mem5FgH678IjK901",
+                "Frank Sinatra",
+                "Standard",
+                "$75.50",
+                "2023-10-20"
+            ]
+        ]
+    }
+}

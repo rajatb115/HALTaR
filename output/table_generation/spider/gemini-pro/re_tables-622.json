@@ -1,0 +1,45 @@
+{
+    "table-622-622": {
+        "title": [
+            "Name",
+            "Breed",
+            "Age (Years)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Dog Age Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the age of the oldest dog?",
+        "data": [
+            [
+                "Buddy",
+                "Labrador",
+                "15"
+            ],
+            [
+                "Max",
+                "German Shepherd",
+                "12"
+            ],
+            [
+                "Lucy",
+                "Poodle",
+                "10"
+            ],
+            [
+                "Charlie",
+                "Beagle",
+                "13"
+            ],
+            [
+                "Daisy",
+                "Golden Retriever",
+                "11"
+            ]
+        ]
+    }
+}

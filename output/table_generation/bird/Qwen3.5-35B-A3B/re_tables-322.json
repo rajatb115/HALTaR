@@ -1,0 +1,76 @@
+{
+    "table-322-322": {
+        "title": [
+            "Molecule ID",
+            "Atom ID",
+            "Element Symbol",
+            "Charge State",
+            "Bond Count",
+            "Location",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the molecule of atom id \"TR000_2\" and atom id 2 \"TR000_4\"?",
+        "data": [
+            [
+                "MOLEC_A",
+                "TR076_2",
+                "C",
+                "+1",
+                "4",
+                "Active Site",
+                "Confirmed"
+            ],
+            [
+                "MOL_BETA",
+                "TR77_4",
+                "O",
+                "-2",
+                "2",
+                "Ligand Binding",
+                "Verified"
+            ],
+            [
+                "RIBOSOME_X",
+                "TR88_2_N",
+                "P",
+                "0",
+                "5",
+                "Core Structure",
+                "Pending Review"
+            ],
+            [
+                "RFID_MOLECULE",
+                "TR99_4_H",
+                "H",
+                "+0",
+                "1",
+                "Surface Layer",
+                "Stable"
+            ],
+            [
+                "#UNKNOWN#",
+                "TR100_C",
+                "Cl",
+                "-1",
+                "1",
+                "Molecular Edge",
+                "Anomaly Detected"
+            ],
+            [
+                "#DATA_MISSING",
+                "TR202_2_S",
+                "S",
+                "0",
+                "",
+                "Internal Loop",
+                "Unresolved"
+            ]
+        ]
+    }
+}

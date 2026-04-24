@@ -1,0 +1,67 @@
+{
+    "table-88-88": {
+        "title": [
+            "School ID",
+            "School Name",
+            "County",
+            "District",
+            "Opening Date",
+            "School Types",
+            "Administrator Email"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the e-mail address of the administrator of the school located in the San Bernardino county, District of San Bernardino City Unified that opened between 1/1/2009 to 12/31/2010 whose school types are public Intermediate/Middle Schools and Unified Scools?",
+        "data": [
+            [
+                "CA-SB-4002",
+                "San Bernardino Middle Academy",
+                "San Bernadino",
+                "San Berdardino City Unified",
+                "06/15/2100",
+                "Public Intermediate/Middle Schools",
+                "j.martinez@sbcity.k12.ca.us"
+            ],
+            [
+                "CA-SB-City-77",
+                "Central Valley High Prep",
+                "San Bernardine",
+                "San Bernhardino City Unified District",
+                "09/12/2009",
+                "Unified Schools",
+                "r.thompson@sbcd.edu"
+            ],
+            [
+                "SB-MID-2023",
+                "Eastside Community Junior High",
+                "San Bernardo",
+                "San Barnardino City Unified",
+                "03/10/2029",
+                "Public Intermediate/Middle Schools",
+                "l.chen@sbcu.org"
+            ],
+            [
+                "SAN-BERN-UNIF-01",
+                "North Hills Unified Charter",
+                "San Bernardino",
+                "San Bernardino City Unified District",
+                "08/25/2009",
+                "Unified Schools",
+                "k.williams@nhucsd.net"
+            ],
+            [
+                "SBCU-PREP-11",
+                "Westview Preparatory Institute",
+                "San Bernardino",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

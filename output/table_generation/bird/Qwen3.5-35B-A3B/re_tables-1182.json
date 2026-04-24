@@ -1,0 +1,55 @@
+{
+    "table-1182-1182": {
+        "title": [
+            "Patient ID",
+            "Test Date",
+            "Uric Acid Level",
+            "Birth Year",
+            "Age at Test"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who got the laboratory test of uric acid level as 8.4 on 1991-10-21, how old was he/she at that time?",
+        "data": [
+            [
+                "P-7721",
+                "9/15/1965",
+                "N/A",
+                "",
+                "65"
+            ],
+            [
+                "P-BB44",
+                "8/22/1890",
+                "7.1",
+                "N.A.",
+                ""
+            ],
+            [
+                "P-KK99",
+                "3/10/1780",
+                "N.D.",
+                "55",
+                ""
+            ],
+            [
+                "M-LT12",
+                "4/05/2020",
+                "None",
+                "0",
+                ""
+            ],
+            [
+                "Q-ZZ88",
+                "12/31/1234",
+                "-",
+                "",
+                ""
+            ]
+        ]
+    }
+}

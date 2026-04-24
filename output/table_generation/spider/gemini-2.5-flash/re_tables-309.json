@@ -1,0 +1,62 @@
+{
+    "table-309-309": {
+        "title": [
+            "Department Name",
+            "Department ID",
+            "Description",
+            "Head",
+            "Location"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the department description for the one whose name has the word computer?",
+        "data": [
+            [
+                "Computer Science",
+                "CS001",
+                "Focuses on theoretical foundations of computation and practical techniques for implementing and applying computer systems.",
+                "Dr. Alice Smith",
+                "Building A, Floor 3"
+            ],
+            [
+                "Computer Engineering",
+                "CE002",
+                "Integrates electrical engineering and computer science to develop computer hardware and software.",
+                "Prof. Bob Johnson",
+                "Building B, Floor 2"
+            ],
+            [
+                "Information Technology & Computer Support",
+                "IT003",
+                "Provides technical support, network administration, and system maintenance for all organizational computer systems.",
+                "Ms. Carol White",
+                "Main Office, Ground Floor"
+            ],
+            [
+                "Computational Biology",
+                "CB004",
+                "Applies computer science, statistics, and mathematics to solve biological problems.",
+                "Dr. David Green",
+                "Research Lab 1, Wing C"
+            ],
+            [
+                "Computer Graphics & Visualization",
+                "CG005",
+                "Specializes in creating and manipulating images and animations using computer technology.",
+                "Prof. Emily Brown",
+                "Studio D, Floor 4"
+            ],
+            [
+                "Advanced Computer Systems",
+                "ACS006",
+                "Researches and develops next-generation computer architectures and high-performance computing solutions.",
+                "Dr. Frank Black",
+                "Innovation Hub, Lab 7"
+            ]
+        ]
+    }
+}

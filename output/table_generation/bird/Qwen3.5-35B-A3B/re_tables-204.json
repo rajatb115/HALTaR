@@ -1,0 +1,85 @@
+{
+    "table-204-204": {
+        "title": [
+            "Atom_ID",
+            "Element_Symbol",
+            "Atomic_Number",
+            "Has_Bromine",
+            "Mass_Amount_u",
+            "Isotope_Status",
+            "Stability_Classification"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In how many atoms is there no bromine?",
+        "data": [
+            [
+                "ATM_004",
+                "Carbon",
+                "6",
+                "No",
+                "7.016",
+                "Stable",
+                "Non-radioactive"
+            ],
+            [
+                "ATP_012",
+                "Oxygen",
+                "8",
+                "No",
+                "9.000",
+                "Unstable",
+                "Radioactive"
+            ],
+            [
+                "ATH_023",
+                "Nitrogen",
+                "5",
+                "No",
+                "4.026",
+                "Metastable",
+                "Short-lived"
+            ],
+            [
+                "ATL_055",
+                "Helium",
+                "3",
+                "Yes",
+                "0.0",
+                "N/A",
+                "Inert_gas"
+            ],
+            [
+                "ATK_089",
+                "Lithium",
+                "",
+                "No",
+                "",
+                "Variable",
+                "Alkali_metal"
+            ],
+            [
+                "ATB_102",
+                "Neon",
+                "10",
+                "No",
+                "",
+                "Stable",
+                "Noble_gas"
+            ],
+            [
+                "ATS_115",
+                "Fluorine",
+                "",
+                "No",
+                "",
+                "Reactive",
+                "Halogen_variant"
+            ]
+        ]
+    }
+}

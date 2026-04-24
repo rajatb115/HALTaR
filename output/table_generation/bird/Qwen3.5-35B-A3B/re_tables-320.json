@@ -1,0 +1,93 @@
+{
+    "table-320-320": {
+        "title": [
+            "Bond_ID",
+            "Element_Type",
+            "Quantity",
+            "Unit_Price_Currency",
+            "Total_Value",
+            "Status",
+            "Last_Update_Date",
+            "Verified_By"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many elements are contained in bond_id TR001_3_4?",
+        "data": [
+            [
+                "TR002_A_B",
+                "Copper_Alloy",
+                "7",
+                "USD",
+                "450.00",
+                "Active",
+                "06/15/2023",
+                "J_Smith"
+            ],
+            [
+                "TR301_X_Y",
+                "Silver_Composite",
+                "3",
+                "EUR",
+                "890.50",
+                "Pending",
+                "6/22/23 / 23:00:01 UTC",
+                "M_Doe"
+            ],
+            [
+                "T_R005_M_N",
+                "Gold_Platinum",
+                "5",
+                "GBP",
+                "920.75",
+                "Inactive",
+                "05/10/24",
+                "K_Lee"
+            ],
+            [
+                "BOND_TR009_Z_W",
+                "Titanium_Fiber",
+                "",
+                "N/A",
+                "N/A",
+                "Cancelled",
+                "-",
+                "R_Taylor"
+            ],
+            [
+                "BondID_TR012_Q_E",
+                "Nickel_Base",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "bond_tr003_H_J",
+                "Cobalt_Chrome",
+                "+",
+                "$",
+                "%",
+                "?",
+                "*",
+                "#"
+            ],
+            [
+                "tr004_K_L",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

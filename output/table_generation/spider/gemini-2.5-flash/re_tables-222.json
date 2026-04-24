@@ -1,0 +1,45 @@
+{
+    "table-222-222": {
+        "title": [
+            "Teacher Name",
+            "Course"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show names of teachers and the courses they are arranged to teach in ascending alphabetical order of the teacher's name.",
+        "data": [
+            [
+                "Alice Johnson",
+                "Algebra I"
+            ],
+            [
+                "Bob Williams",
+                "World History"
+            ],
+            [
+                "Carol Davis",
+                "English Literature"
+            ],
+            [
+                "David Lee",
+                "Chemistry Basics"
+            ],
+            [
+                "Emily Chen",
+                "Art Fundamentals"
+            ],
+            [
+                "Frank Miller",
+                "Physical Education"
+            ],
+            [
+                "Grace Taylor",
+                "Calculus II"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-532-532": {
+        "title": [
+            "Show Title",
+            "Date",
+            "Venue",
+            "Capacity",
+            "Actual Attendance",
+            "Attendance Rate (%)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average attendance of shows?",
+        "data": [
+            [
+                "The Grand Illusion",
+                "2023-10-26",
+                "City Arena",
+                "15000",
+                "12500",
+                "83.3"
+            ],
+            [
+                "Mystery of the Ages",
+                "2023-11-01",
+                "Opera House",
+                "2000",
+                "1850",
+                "92.5"
+            ],
+            [
+                "Rock Legends Live",
+                "2023-11-15",
+                "Stadium Park",
+                "50000",
+                "45000",
+                "90.0"
+            ],
+            [
+                "Comedy Night Out",
+                "2023-11-20",
+                "Local Club",
+                "300",
+                "280",
+                "93.3"
+            ],
+            [
+                "Classical Serenade",
+                "2023-12-05",
+                "Concert Hall",
+                "1200",
+                "1000",
+                "83.3"
+            ],
+            [
+                "Winter Wonderland Gala",
+                "2023-12-15",
+                "Convention Center",
+                "5000",
+                "3800",
+                "76.0"
+            ],
+            [
+                "New Year's Eve Bash",
+                "2023-12-31",
+                "Grand Ballroom",
+                "800",
+                "750",
+                "93.8"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "table-557-557": {
+        "title": [
+            "User ID",
+            "Number of Badges",
+            "Number of Views"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "User Badge Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average number of badges obtained by a user with over 200 views?",
+        "data": [
+            [
+                "123",
+                "5",
+                "250"
+            ],
+            [
+                "456",
+                "2",
+                "300"
+            ],
+            [
+                "789",
+                "7",
+                "210"
+            ],
+            [
+                "101",
+                "3",
+                "400"
+            ],
+            [
+                "112",
+                "6",
+                "220"
+            ]
+        ]
+    }
+}

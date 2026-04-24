@@ -1,0 +1,69 @@
+{
+    "table-1218-1218": {
+        "title": [
+            "Patient ID",
+            "Birth Year",
+            "Albumin Level (g/dL)",
+            "Normal Range Status",
+            "Lab Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all patient born in 1982, state if their albumin is within normal range.",
+        "data": [
+            [
+                "P-4021",
+                "82",
+                "4.2",
+                "Within Range",
+                "03/15/2023"
+            ],
+            [
+                "P-B992",
+                "",
+                "N/A",
+                "Unknown",
+                ""
+            ],
+            [
+                "M-7731",
+                "",
+                "N/D",
+                "Out of Range",
+                ""
+            ],
+            [
+                "F-1102",
+                "",
+                "3.1",
+                "Low",
+                "06/22/2023"
+            ],
+            [
+                "J-8821",
+                "",
+                "5.5",
+                "High",
+                "09/10/2024"
+            ],
+            [
+                "K-3321",
+                "",
+                "7.8",
+                "Critical",
+                "01/01/2025"
+            ],
+            [
+                "R-9912",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

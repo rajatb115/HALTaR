@@ -1,0 +1,45 @@
+{
+    "table-71-71": {
+        "title": [
+            "Model",
+            "Year",
+            "Acceleration (0-60 mph)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "AMC Hornet Sportabout Acceleration Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much does the car accelerate that makes amc hornet sportabout (sw)?",
+        "data": [
+            [
+                "Hornet Sportabout",
+                "1971",
+                "13.5 seconds"
+            ],
+            [
+                "Hornet Sportabout",
+                "1972",
+                "13.8 seconds"
+            ],
+            [
+                "Hornet Sportabout",
+                "1973",
+                "14.2 seconds"
+            ],
+            [
+                "Hornet Sportabout",
+                "1974",
+                "14.5 seconds"
+            ],
+            [
+                "Hornet Sportabout",
+                "1975",
+                "15.0 seconds"
+            ]
+        ]
+    }
+}

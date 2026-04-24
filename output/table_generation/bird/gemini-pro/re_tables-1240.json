@@ -1,0 +1,47 @@
+{
+    "table-1240-1240": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "Number of Elevated Hematocrit Tests"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Patients with Elevated Hematocrit Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the ID and age of patient with two or more laboratory examinations which show their hematoclit level exceeded the normal range.",
+        "data": [
+            [
+                "12345",
+                "62",
+                "3"
+            ],
+            [
+                "67890",
+                "48",
+                "2"
+            ],
+            [
+                "24680",
+                "75",
+                "4"
+            ],
+            [
+                "13579",
+                "54",
+                "2"
+            ],
+            [
+                "98765",
+                "68",
+                "5"
+            ]
+        ]
+    }
+}

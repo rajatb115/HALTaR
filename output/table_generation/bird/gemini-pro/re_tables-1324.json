@@ -1,0 +1,45 @@
+{
+    "table-1324-1324": {
+        "title": [
+            "Event Name",
+            "Date",
+            "Attendance"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Student Club Events with High Attendance",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the names of all the events of the Student_Club that had an attendance of over 20 students.",
+        "data": [
+            [
+                "Hackathon",
+                "2023-10-26",
+                "35"
+            ],
+            [
+                "Workshop",
+                "2023-11-15",
+                "25"
+            ],
+            [
+                "Game Night",
+                "2023-12-01",
+                "42"
+            ],
+            [
+                "Movie Night",
+                "2024-01-10",
+                "22"
+            ],
+            [
+                "Guest Speaker",
+                "2024-02-18",
+                "30"
+            ]
+        ]
+    }
+}

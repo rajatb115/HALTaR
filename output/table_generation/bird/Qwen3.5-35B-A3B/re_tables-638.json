@@ -1,0 +1,62 @@
+{
+    "table-638-638": {
+        "title": [
+            "Post ID",
+            "Author",
+            "Tags",
+            "Comment Count",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State all the tags used by Mark Meckes in his posts that doesn't have comments.",
+        "data": [
+            [
+                "P1042",
+                "Mark Meekes",
+                "python, debugging",
+                "0",
+                "Unanswered"
+            ],
+            [
+                "P1055",
+                "Mark Meekes",
+                "algorithm, optimization",
+                "3",
+                "Active"
+            ],
+            [
+                "P1067",
+                "Mark Meekes",
+                "machine learning, neural net",
+                "5",
+                "Resolved"
+            ],
+            [
+                "P1089",
+                "Mark Meekes",
+                "api design, restful",
+                "8",
+                "Closed"
+            ],
+            [
+                "P1102",
+                "Mark Meekes",
+                "database, sql injection",
+                "4",
+                "Pending"
+            ],
+            [
+                "",
+                "N/A",
+                "N/A",
+                "-1",
+                "Error"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-1452-1452": {
+        "title": [
+            "Member Name",
+            "Event Name",
+            "Expense Date",
+            "Expense Category",
+            "Amount Paid"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the members who incurred expenses in more than one event, who paid the most amount?",
+        "data": [
+            [
+                "Alice Smith",
+                "Annual Gala",
+                "2023-10-15",
+                "Catering",
+                "150.00"
+            ],
+            [
+                "Bob Johnson",
+                "Charity Run",
+                "2023-09-20",
+                "Registration Fee",
+                "100.00"
+            ],
+            [
+                "Carol White",
+                "Tech Conference",
+                "2023-11-01",
+                "Travel",
+                "120.00"
+            ],
+            [
+                "Alice Smith",
+                "Tech Conference",
+                "2023-11-02",
+                "Accommodation",
+                "200.00"
+            ],
+            [
+                "Bob Johnson",
+                "Annual Gala",
+                "2023-10-16",
+                "Venue Rental",
+                "300.00"
+            ],
+            [
+                "Carol White",
+                "Charity Run",
+                "2023-09-21",
+                "Equipment",
+                "180.00"
+            ],
+            [
+                "David Green",
+                "Annual Gala",
+                "2023-10-15",
+                "Marketing",
+                "500.00"
+            ],
+            [
+                "Carol White",
+                "Annual Gala",
+                "2023-10-15",
+                "Decorations",
+                "250.00"
+            ]
+        ]
+    }
+}

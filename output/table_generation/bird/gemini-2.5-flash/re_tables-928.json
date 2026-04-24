@@ -1,0 +1,61 @@
+{
+    "table-928-928": {
+        "title": [
+            "Forename",
+            "Surname",
+            "Fastest Lap Speed (km/h)",
+            "Race/Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which driver created the fastest lap speed in a Formula_1 race? Please give both his forename and surname.",
+        "data": [
+            [
+                "Max",
+                "Verstappen",
+                "255.0",
+                "Bahrain GP 2023"
+            ],
+            [
+                "Lewis",
+                "Hamilton",
+                "253.8",
+                "Silverstone 2022"
+            ],
+            [
+                "Michael",
+                "Schumacher",
+                "248.5",
+                "Monza 2004"
+            ],
+            [
+                "Ayrton",
+                "Senna",
+                "239.2",
+                "Monaco 1990"
+            ],
+            [
+                "Sebastian",
+                "Vettel",
+                "245.1",
+                "Suzuka 2017"
+            ],
+            [
+                "Kimi",
+                "R\u00e4ikk\u00f6nen",
+                "247.3",
+                "Spa-Francorchamps 2009"
+            ],
+            [
+                "Juan Manuel",
+                "Fangio",
+                "205.7",
+                "N\u00fcrburgring 1957"
+            ]
+        ]
+    }
+}

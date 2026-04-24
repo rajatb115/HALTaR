@@ -1,0 +1,43 @@
+{
+    "table-819-819": {
+        "title": [
+            "Superhero Name",
+            "Gender",
+            "Alignment"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Female Representation Among Anti-Hero Superheroes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the bad superheroes, what is the percentage of female superheroes?",
+        "data": [
+            [
+                "Homelander",
+                "Male",
+                "Evil"
+            ],
+            [
+                "Queen Maeve",
+                "Female",
+                "Neutral"
+            ],
+            [
+                "The Deep",
+                "Male",
+                "Evil"
+            ],
+            [
+                "Stormfront",
+                "Female",
+                "Evil"
+            ],
+            [
+                "Black Noir",
+                "Male",
+                "Evil"
+            ]
+        ]
+    }
+}

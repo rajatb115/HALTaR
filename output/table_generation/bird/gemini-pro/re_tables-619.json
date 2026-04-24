@@ -1,0 +1,45 @@
+{
+    "table-619-619": {
+        "title": [
+            "Username",
+            "Age",
+            "Badge"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Users in Vienna with Badges",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the age of users who located in Vienna, Austria obtained the badge?",
+        "data": [
+            [
+                "User1",
+                "25",
+                "Gold"
+            ],
+            [
+                "User2",
+                "30",
+                "Silver"
+            ],
+            [
+                "User3",
+                "22",
+                "Bronze"
+            ],
+            [
+                "User4",
+                "41",
+                "Gold"
+            ],
+            [
+                "User5",
+                "28",
+                "Silver"
+            ]
+        ]
+    }
+}

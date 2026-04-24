@@ -1,0 +1,85 @@
+{
+    "table-650-650": {
+        "title": [
+            "Singer_Name",
+            "Total_Sales_Units",
+            "Genre",
+            "Active_Years_Start",
+            "Country_of_Residence",
+            "Top_Charting_Song",
+            "Record_Label"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the names of singers and the total sales of their songs.",
+        "data": [
+            [
+                "Adele",
+                "47000",
+                "Pop Soul",
+                "6",
+                "United Kingdom",
+                "Hello",
+                "XL Recordings"
+            ],
+            [
+                "Taylor Swift",
+                "520",
+                "Country Pop",
+                "8",
+                "United States",
+                "Shake It Off",
+                "Republic Records"
+            ],
+            [
+                "Ed Sheeran",
+                "380",
+                "Folk Pop",
+                "",
+                "Ireland",
+                "Shape of You",
+                "Atlantic Records"
+            ],
+            [
+                "Beyonc\u00e9",
+                "950",
+                "R&B Hip Hop",
+                "0",
+                "United States",
+                "Halo",
+                "Columbia Records"
+            ],
+            [
+                "Drake",
+                "720",
+                "Rap Trap",
+                "",
+                "Canada",
+                "God's Plan",
+                "OVO Sound"
+            ],
+            [
+                "Rihanna",
+                "230",
+                "Dancehall Reggae",
+                "",
+                "Barbados",
+                "Umbrella",
+                "Roc Nation"
+            ],
+            [
+                "Bruno Mars",
+                "",
+                "Funk Disco",
+                "",
+                "Puerto Rico",
+                "Just the Way You Are",
+                "Atlantic Music Group"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "table-151-151": {
+        "title": [
+            "Account ID",
+            "Region",
+            "Partner Bank",
+            "Transaction Date",
+            "Transaction Amount"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            4
+        ],
+        "pgTitle": "Account Transactions in North Bohemia with Partner Bank AB",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts in North Bohemia has made a transaction with the partner's bank being AB?",
+        "data": [
+            [
+                "12345",
+                "North Bohemia",
+                "AB",
+                "2023-01-15",
+                "150.00"
+            ],
+            [
+                "67890",
+                "North Bohemia",
+                "AB",
+                "2023-02-20",
+                "200.00"
+            ],
+            [
+                "24680",
+                "North Bohemia",
+                "AB",
+                "2023-03-10",
+                "75.50"
+            ],
+            [
+                "13579",
+                "North Bohemia",
+                "AB",
+                "2023-04-05",
+                "300.00"
+            ],
+            [
+                "98765",
+                "North Bohemia",
+                "AB",
+                "2023-05-12",
+                "120.00"
+            ]
+        ]
+    }
+}

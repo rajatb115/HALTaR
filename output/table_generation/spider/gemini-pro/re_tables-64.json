@@ -1,0 +1,45 @@
+{
+    "table-64-64": {
+        "title": [
+            "Manufacturer",
+            "Year",
+            "Model"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Car Manufacturers by Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name of the makers that produced some cars in the year of 1970?",
+        "data": [
+            [
+                "Ford",
+                "1970",
+                "Mustang"
+            ],
+            [
+                "Chevrolet",
+                "1970",
+                "Camaro"
+            ],
+            [
+                "Plymouth",
+                "1970",
+                "Barracuda"
+            ],
+            [
+                "Dodge",
+                "1970",
+                "Challenger"
+            ],
+            [
+                "Pontiac",
+                "1970",
+                "Firebird"
+            ]
+        ]
+    }
+}

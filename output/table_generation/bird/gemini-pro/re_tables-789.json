@@ -1,0 +1,45 @@
+{
+    "table-789-789": {
+        "title": [
+            "Publisher",
+            "Gender",
+            "Number of Heroes"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Female Superheroes by Publisher",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many percent of female heroes were published by Marvel Comics?",
+        "data": [
+            [
+                "Marvel Comics",
+                "Female",
+                "250"
+            ],
+            [
+                "DC Comics",
+                "Female",
+                "180"
+            ],
+            [
+                "Image Comics",
+                "Female",
+                "50"
+            ],
+            [
+                "Dark Horse Comics",
+                "Female",
+                "30"
+            ],
+            [
+                "Other",
+                "Female",
+                "40"
+            ]
+        ]
+    }
+}

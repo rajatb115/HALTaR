@@ -1,0 +1,83 @@
+{
+    "table-597-597": {
+        "title": [
+            "User_ID",
+            "Username",
+            "Total_Comments",
+            "Top_Badge",
+            "Badge_Level",
+            "Last_Active_Date",
+            "Reputation_Score",
+            "Comment_Rank"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which users have posted the most comments. List out the user's badge?",
+        "data": [
+            [
+                "U_1042",
+                "DataMiner99",
+                "4521",
+                "Gold",
+                "Expert",
+                "7/15/2023",
+                "8900",
+                "3rd"
+            ],
+            [
+                "U_A77B",
+                "CodeWhisper",
+                "6892",
+                "Platinum",
+                "Master",
+                "9/22/2024",
+                "54000+",
+                "0th"
+            ],
+            [
+                "C_99X",
+                "QueryQueen",
+                "3105",
+                "Silver",
+                "Pro",
+                "11/01/2023",
+                "12500",
+                "5th"
+            ],
+            [
+                "M_22L",
+                "ThreadStarter",
+                "",
+                "Bronze",
+                "Novice",
+                "N/A",
+                "N/A",
+                ""
+            ],
+            [
+                "R_55K",
+                "LogicLoop",
+                "N/A",
+                "Diamond",
+                "Legend",
+                "/20/25",
+                ">100k",
+                "-st"
+            ],
+            [
+                "T_88P",
+                "BugHunter_X",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

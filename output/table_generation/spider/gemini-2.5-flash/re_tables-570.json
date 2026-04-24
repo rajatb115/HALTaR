@@ -1,0 +1,61 @@
+{
+    "table-570-570": {
+        "title": [
+            "Student ID",
+            "Student Name",
+            "Grade",
+            "Number of Friends"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average grade of all students who have some friends.",
+        "data": [
+            [
+                "101",
+                "Alice Smith",
+                "88",
+                "5"
+            ],
+            [
+                "102",
+                "Bob Johnson",
+                "72",
+                "0"
+            ],
+            [
+                "103",
+                "Carol White",
+                "95",
+                "3"
+            ],
+            [
+                "104",
+                "David Green",
+                "65",
+                "1"
+            ],
+            [
+                "105",
+                "Eve Brown",
+                "91",
+                "8"
+            ],
+            [
+                "106",
+                "Frank Black",
+                "78",
+                "0"
+            ],
+            [
+                "107",
+                "Grace Lee",
+                "83",
+                "2"
+            ]
+        ]
+    }
+}

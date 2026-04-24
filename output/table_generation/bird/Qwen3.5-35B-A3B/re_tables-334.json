@@ -1,0 +1,76 @@
+{
+    "table-334-334": {
+        "title": [
+            "Molecule ID",
+            "Element Symbol",
+            "Atom Count",
+            "Bonding Environment",
+            "Isotopic Variant",
+            "Charge State",
+            "Confidence Score"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the molecule TR008, how many carbons are present?",
+        "data": [
+            [
+                "TR007",
+                "C",
+                "46",
+                "sp\u00b2 hybridized",
+                "\u00b9\u00b2C",
+                "Neutral",
+                "High"
+            ],
+            [
+                "**TR012**",
+                "C",
+                "52",
+                "Mixed sp\u00b3/sp\u00b2",
+                "\u00b9\u00b3C enriched",
+                "-1",
+                "Medium"
+            ],
+            [
+                "*TR025*",
+                "C**,**",
+                "48",
+                "Aromatic rings only",
+                "Natural abundance",
+                "+2",
+                "Low"
+            ],
+            [
+                "MOL-X9",
+                "C",
+                "",
+                "Aliphatic chain dominant",
+                "Deuterated",
+                "Neutral",
+                ""
+            ],
+            [
+                "Compound Z",
+                "C",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Reference Std",
+                "C",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

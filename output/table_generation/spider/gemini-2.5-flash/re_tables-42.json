@@ -1,0 +1,61 @@
+{
+    "table-42-42": {
+        "title": [
+            "First Name",
+            "Age",
+            "Has Dog",
+            "Has Cat"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name and age of students who have a dog but do not have a cat as a pet.",
+        "data": [
+            [
+                "Alice",
+                "20",
+                "Yes",
+                "No"
+            ],
+            [
+                "Bob",
+                "22",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Charlie",
+                "19",
+                "No",
+                "No"
+            ],
+            [
+                "Diana",
+                "21",
+                "Yes",
+                "No"
+            ],
+            [
+                "Eve",
+                "23",
+                "No",
+                "Yes"
+            ],
+            [
+                "Frank",
+                "20",
+                "Yes",
+                "No"
+            ],
+            [
+                "Grace",
+                "18",
+                "Yes",
+                "Yes"
+            ]
+        ]
+    }
+}

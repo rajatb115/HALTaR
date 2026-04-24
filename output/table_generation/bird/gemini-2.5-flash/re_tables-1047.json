@@ -1,0 +1,69 @@
+{
+    "table-1047-1047": {
+        "title": [
+            "Player Role",
+            "Pitch Zone",
+            "Movement Metric",
+            "Metric Value",
+            "Tactical Style"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the ADO Den Haag team freedom of movement in the 1st two thirds of the pitch?",
+        "data": [
+            [
+                "Center Back",
+                "Defensive Third",
+                "Avg. Positional Deviation (m)",
+                "4.8",
+                "Structured Build-up"
+            ],
+            [
+                "Defensive Midfielder",
+                "Midfield Third (Center)",
+                "Avg. Area Covered (sqm)",
+                "115",
+                "Ball Retention"
+            ],
+            [
+                "Central Midfielder",
+                "Midfield Third (Left)",
+                "Progressive Carries (per 90)",
+                "7",
+                "Fluid Movement"
+            ],
+            [
+                "Left Winger",
+                "Midfield Third (Left)",
+                "Lateral Movement (m/90)",
+                "145",
+                "Attacking Width"
+            ],
+            [
+                "Striker",
+                "Midfield Third (Center)",
+                "Link-up Passes (per 90)",
+                "11",
+                "False 9"
+            ],
+            [
+                "Right Back",
+                "Defensive Third",
+                "Overlapping Runs (per 90)",
+                "3",
+                "Defensive Solidity"
+            ],
+            [
+                "Attacking Midfielder",
+                "Midfield Third (Center)",
+                "Key Passes (per 90)",
+                "2",
+                "Creative Freedom"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-131-131": {
+        "title": [
+            "Airline",
+            "Operates CVO",
+            "Operates APG",
+            "Main Hub",
+            "Fleet Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airlines have departures from CVO but not from APG airports?",
+        "data": [
+            [
+                "Regional Connect",
+                "Yes",
+                "No",
+                "DEN",
+                "45"
+            ],
+            [
+                "SkyLink Express",
+                "Yes",
+                "No",
+                "ORD",
+                "78"
+            ],
+            [
+                "AeroPathways",
+                "No",
+                "Yes",
+                "ATL",
+                "62"
+            ],
+            [
+                "Horizon Air",
+                "Yes",
+                "Yes",
+                "SEA",
+                "100"
+            ],
+            [
+                "Frontier Airlines",
+                "No",
+                "No",
+                "DEN",
+                "130"
+            ],
+            [
+                "Mountain Air",
+                "Yes",
+                "No",
+                "SLC",
+                "32"
+            ],
+            [
+                "Coastline Carriers",
+                "No",
+                "No",
+                "LAX",
+                "55"
+            ]
+        ]
+    }
+}

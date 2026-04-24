@@ -1,0 +1,59 @@
+{
+    "table-955-955": {
+        "title": [
+            "Driver Name",
+            "Year",
+            "Races Entered",
+            "Races Completed",
+            "Completion Percentage"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Race Completion Statistics of Japanese Drivers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please calculate the race completion percentage of Japanese drivers from 2007 to 2009.",
+        "data": [
+            [
+                "Takuma Sato",
+                "2007",
+                "17",
+                "13",
+                "76.47%"
+            ],
+            [
+                "Takuma Sato",
+                "2008",
+                "17",
+                "11",
+                "64.71%"
+            ],
+            [
+                "Takuma Sato",
+                "2009",
+                "0",
+                "0",
+                "0.00%"
+            ],
+            [
+                "Kazuki Nakajima",
+                "2008",
+                "9",
+                "7",
+                "77.78%"
+            ],
+            [
+                "Kazuki Nakajima",
+                "2009",
+                "17",
+                "13",
+                "76.47%"
+            ]
+        ]
+    }
+}

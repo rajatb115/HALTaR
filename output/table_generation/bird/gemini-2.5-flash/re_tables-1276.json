@@ -1,0 +1,77 @@
+{
+    "table-1276-1276": {
+        "title": [
+            "Patient ID",
+            "Anti-Centromere Level",
+            "Anti-SSB Level",
+            "Gender",
+            "Age (Years)",
+            "Primary Diagnosis"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients who has a normal level of anti-centromere and a normal level of anti-SSB, how many of them are male?",
+        "data": [
+            [
+                "P001",
+                "Normal",
+                "Normal",
+                "Male",
+                "45",
+                "Rheumatoid Arthritis"
+            ],
+            [
+                "P002",
+                "Normal",
+                "Normal",
+                "Female",
+                "58",
+                "Sjogren's Syndrome"
+            ],
+            [
+                "P003",
+                "High",
+                "Normal",
+                "Male",
+                "62",
+                "Systemic Sclerosis"
+            ],
+            [
+                "P004",
+                "Normal",
+                "Positive",
+                "Female",
+                "39",
+                "Lupus"
+            ],
+            [
+                "P005",
+                "Normal",
+                "Normal",
+                "Male",
+                "51",
+                "Undifferentiated CTD"
+            ],
+            [
+                "P006",
+                "Normal",
+                "Normal",
+                "Female",
+                "70",
+                "Osteoarthritis"
+            ],
+            [
+                "P007",
+                "Low",
+                "Negative",
+                "Male",
+                "33",
+                "Fibromyalgia"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-976-976": {
+        "title": [
+            "Driver",
+            "Lap Time (s)",
+            "Speed (km/h)",
+            "Track Location",
+            "Date",
+            "Car Model"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which year has the lowest speed of lap time?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "74.62",
+                "320.5",
+                "Silverstone",
+                "05/Jul/2020",
+                "Mercedes W11"
+            ],
+            [
+                "Max Verstappen",
+                "82.15",
+                "98.2",
+                "Spa-Francorchamps",
+                "06/Sep/2021",
+                "Red Bull RB16B"
+            ],
+            [
+                "Charles Leclerc",
+                "58.90",
+                "410.3",
+                "Monaco",
+                "27/May/2022",
+                "Ferrari SF22"
+            ],
+            [
+                "Valtteri Bottas",
+                "",
+                "",
+                "Monza",
+                "Sep/2023",
+                "Alfa Romeo C42"
+            ],
+            [
+                "Fernando Alonso",
+                "",
+                "",
+                "Suzuka",
+                "Oct/2024",
+                "Aston Martin AMR23"
+            ],
+            [
+                "George Russell",
+                "",
+                "",
+                "Interlagos",
+                "Nov/2025",
+                "Williams FW45"
+            ],
+            [
+                "Sergio Perez",
+                "",
+                "",
+                "Bahrain",
+                "Dec/2026",
+                "Racing Point RP20"
+            ]
+        ]
+    }
+}

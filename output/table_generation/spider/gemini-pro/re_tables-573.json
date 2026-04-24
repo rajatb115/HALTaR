@@ -1,0 +1,39 @@
+{
+    "table-573-573": {
+        "title": [
+            "Grade",
+            "Number of Students with No Friends"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Students With No Friends by Grade",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the lowest grade of students who do not have any friends?",
+        "data": [
+            [
+                "9",
+                "5"
+            ],
+            [
+                "10",
+                "3"
+            ],
+            [
+                "11",
+                "2"
+            ],
+            [
+                "12",
+                "1"
+            ],
+            [
+                "Ungraded",
+                "0"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-720-720": {
+        "title": [
+            "Superhero",
+            "Power Set",
+            "Height_cm",
+            "Weight_kg",
+            "Origin",
+            "Affiliation",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the superheroes with the super power of \"Super Strength\", how many of them have a height of over 200cm?",
+        "data": [
+            [
+                "Hercules",
+                "Super Strength, Immortality",
+                "640",
+                "720",
+                "Greek Mythology",
+                "Avengers",
+                "Active"
+            ],
+            [
+                "Thor",
+                "Super Strength",
+                "580",
+                "N/A",
+                "Asgardian",
+                "Thor Corps",
+                "Active"
+            ],
+            [
+                "Superman",
+                "Super Speed, Heat Vision",
+                "420",
+                "",
+                "Kryptonian",
+                "Justice League",
+                "Deceased"
+            ],
+            [
+                "Thor",
+                "Lightning Control, Flight",
+                "360",
+                "",
+                "Asgardian",
+                "Avengers",
+                "Active"
+            ],
+            [
+                "Captain America",
+                "Enhanced Agility, Shield Mastery",
+                "0",
+                "",
+                "USA",
+                "S.H.I.E.L.D.",
+                "Retired"
+            ],
+            [
+                "Hercules",
+                "Super strength, Immunity",
+                "80",
+                "9",
+                "Earth",
+                "None",
+                "Inactive"
+            ]
+        ]
+    }
+}

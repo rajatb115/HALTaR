@@ -1,0 +1,69 @@
+{
+    "table-978-978": {
+        "title": [
+            "Race Number",
+            "Finisher ID",
+            "Finished Position",
+            "Disqualified",
+            "Disqualification Reason"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From race no. 50 to 100, how many finishers have been disqualified?",
+        "data": [
+            [
+                "50",
+                "101",
+                "1",
+                "No",
+                "N/A"
+            ],
+            [
+                "55",
+                "203",
+                "3",
+                "Yes",
+                "Course Violation"
+            ],
+            [
+                "62",
+                "315",
+                "2",
+                "No",
+                "N/A"
+            ],
+            [
+                "70",
+                "401",
+                "1",
+                "Yes",
+                "Doping Violation"
+            ],
+            [
+                "78",
+                "522",
+                "5",
+                "No",
+                "N/A"
+            ],
+            [
+                "85",
+                "607",
+                "4",
+                "Yes",
+                "Equipment Infraction"
+            ],
+            [
+                "92",
+                "711",
+                "2",
+                "No",
+                "N/A"
+            ]
+        ]
+    }
+}

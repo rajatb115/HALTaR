@@ -1,0 +1,61 @@
+{
+    "table-778-778": {
+        "title": [
+            "Hero ID",
+            "Full Name",
+            "Gender Identity",
+            "Affiliation",
+            "First Appearance",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the gender of Agent 13 hero?",
+        "data": [
+            [
+                "AGT-13",
+                "Peggy Carter",
+                "Female",
+                "S.H.I.E.L.D.",
+                "Captain America: The First Avenger",
+                "Active"
+            ],
+            [
+                "SHIELD-04",
+                "Maria Hill",
+                "Female / Non-binary",
+                "S.T.R.I.K.E.",
+                "Iron Man 2",
+                "Retired"
+            ],
+            [
+                "AVENGERS-X",
+                "Natasha Romanoff",
+                "Female",
+                "Black Widow",
+                "Iron Man 2",
+                "Deceased"
+            ],
+            [
+                "MARVEL-Y",
+                "Sharon Carter",
+                "Male / Transgender",
+                "Strategic Operations Division",
+                "Captain America: Winter Soldier",
+                "Active"
+            ],
+            [
+                "FALCON-Z",
+                "Sam Wilson",
+                "Male",
+                "United States Air Force",
+                "Captain America: Civil War",
+                "Active"
+            ]
+        ]
+    }
+}

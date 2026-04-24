@@ -1,0 +1,49 @@
+{
+    "table-150-150": {
+        "title": [
+            "Shop_Name",
+            "Location",
+            "District",
+            "Product_Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the name, location and district of all shops in descending order of number of products.",
+        "data": [
+            [
+                "Urban Outfitters",
+                "Downtown Plaza",
+                "Central",
+                "4520"
+            ],
+            [
+                "GreenLeaf Market",
+                "Riverside Ave",
+                "Northside",
+                "3890"
+            ],
+            [
+                "TechHaven Store",
+                "Mall of America",
+                "Westview",
+                "6750"
+            ],
+            [
+                "Bella's Boutique",
+                "Main Street",
+                "Eastgate",
+                "5100"
+            ],
+            [
+                "BookWorm Corner",
+                "Library Lane",
+                "Southbank",
+                "8920"
+            ]
+        ]
+    }
+}

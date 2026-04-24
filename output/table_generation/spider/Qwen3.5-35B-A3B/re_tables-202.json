@@ -1,0 +1,58 @@
+{
+    "table-202-202": {
+        "title": [
+            "Paragraph ID",
+            "Text Snippet",
+            "Author",
+            "Date Created",
+            "Word Count",
+            "Status",
+            "Section Title"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show paragraph details for paragraph with text 'Korea ' .",
+        "data": [
+            [
+                "P-4021",
+                "Korea is known for its technology...",
+                "J. Kim",
+                "06/15/2023",
+                "45",
+                "Published",
+                "Asian Economies"
+            ],
+            [
+                "P-4105",
+                "Historical trade routes in Korea were vital...",
+                "S. Lee",
+                "3/22/24",
+                "78",
+                "Draft",
+                "Regional History"
+            ],
+            [
+                "P-KR-99",
+                "Modern Korean cuisine has gained global popularity...",
+                "M. Park",
+                "8/10/23",
+                "62",
+                "Archived",
+                "Cultural Trends"
+            ],
+            [
+                "P-COR-12",
+                "North Korea's nuclear program remains a topic...",
+                "D. Smith",
+                "9/01/21",
+                "112",
+                "Active",
+                "Geopolitics"
+            ]
+        ]
+    }
+}

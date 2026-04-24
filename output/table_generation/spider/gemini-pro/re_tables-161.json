@@ -1,0 +1,52 @@
+{
+    "table-161-161": {
+        "title": [
+            "Evaluation ID",
+            "Employee ID",
+            "Bonus Amount",
+            "Evaluation Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Evaluation Bonuses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the total amount of bonus given in all the evaluations.",
+        "data": [
+            [
+                "1",
+                "101",
+                "$500",
+                "2023-01-15"
+            ],
+            [
+                "2",
+                "102",
+                "$750",
+                "2023-02-20"
+            ],
+            [
+                "3",
+                "101",
+                "$600",
+                "2023-03-10"
+            ],
+            [
+                "4",
+                "103",
+                "$400",
+                "2023-04-05"
+            ],
+            [
+                "5",
+                "102",
+                "$800",
+                "2023-05-12"
+            ]
+        ]
+    }
+}

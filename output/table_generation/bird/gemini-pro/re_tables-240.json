@@ -1,0 +1,45 @@
+{
+    "table-240-240": {
+        "title": [
+            "Atom",
+            "Atomic Number",
+            "Number of Connections"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Atomic Properties",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many connections does the atom 19 have?",
+        "data": [
+            [
+                "Hydrogen",
+                "1",
+                "1"
+            ],
+            [
+                "Oxygen",
+                "8",
+                "2"
+            ],
+            [
+                "Nitrogen",
+                "7",
+                "3"
+            ],
+            [
+                "Carbon",
+                "6",
+                "4"
+            ],
+            [
+                "Potassium",
+                "19",
+                "Variable"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-106-106": {
+        "title": [
+            "Loan ID",
+            "Approval Date",
+            "Account Opening Branch",
+            "District ID",
+            "Status",
+            "Amount Approved",
+            "Currency"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "There was a loan approved in 1994/8/25, where was that account opened, give the district Id of the branch.",
+        "data": [
+            [
+                "LN-192837",
+                "25-Aug-94",
+                "Downtown Main Office",
+                "DIST-402",
+                "Active",
+                "$150,000",
+                "USD"
+            ],
+            [
+                "LN-102938",
+                "06-Mar-12",
+                "Westside Plaza",
+                "DIST-A11",
+                "Closed",
+                "$45,050",
+                "EUR"
+            ],
+            [
+                "LN-LK9921",
+                "03-Nov-88",
+                "Northgate Center",
+                "DIST-NX9",
+                "Pending",
+                "\u20ac22,100",
+                "GBP"
+            ],
+            [
+                "LQ-MP4412",
+                "15-Jan-99",
+                "Harbor View Branch",
+                "DIST-HV2",
+                "Active",
+                "$89,025",
+                "USD"
+            ],
+            [
+                "LP-QR7731",
+                "02-Dec-05",
+                "Eastwood Mall",
+                "DIST-EW4",
+                "Closed",
+                "$12,500",
+                "CAD"
+            ],
+            [
+                "LR-TY8842",
+                "11-Feb-18",
+                "Central Station Hub",
+                "DIST-CS1",
+                "Active",
+                "\u00a334,200",
+                "GBP"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-228-228": {
+        "title": [
+            "Molecule Name",
+            "CAS Registry Number",
+            "Carcinogenic Classification",
+            "IARC Group",
+            "Primary Exposure Route"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of molecules that are carcinogenic?",
+        "data": [
+            [
+                "Benzene",
+                "71-43-2",
+                "Known Human Carcinogen",
+                "Group 1",
+                "Inhalation"
+            ],
+            [
+                "Formaldehyde",
+                "50-00-0",
+                "Known Human Carcinogen",
+                "Group 1",
+                "Inhalation"
+            ],
+            [
+                "Caffeine",
+                "58-08-2",
+                "Not Carcinogenic",
+                "Group 3",
+                "Ingestion"
+            ],
+            [
+                "Acrylamide",
+                "79-06-1",
+                "Probable Human Carcinogen",
+                "Group 2A",
+                "Ingestion"
+            ],
+            [
+                "Ethanol",
+                "64-17-5",
+                "Known Human Carcinogen",
+                "Group 1",
+                "Ingestion"
+            ],
+            [
+                "Paracetamol",
+                "103-90-2",
+                "Not Classifiable",
+                "Group 3",
+                "Ingestion"
+            ],
+            [
+                "Asbestos",
+                "1332-21-4",
+                "Known Human Carcinogen",
+                "Group 1",
+                "Inhalation"
+            ]
+        ]
+    }
+}

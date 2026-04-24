@@ -1,0 +1,83 @@
+{
+    "table-640-640": {
+        "title": [
+            "Post_ID",
+            "Author_Type",
+            "Language_Used",
+            "Is_R_Language",
+            "Total_Posts_In_Sample",
+            "Posts_Using_R",
+            "Percentage_Calculation",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Based on posts posted by Community, calculate the percentage of posts that use the R language.",
+        "data": [
+            [
+                "P1042",
+                "Community",
+                "Python",
+                "No",
+                "500",
+                "N/A",
+                "N/50 * 100 = 0%",
+                "Verified"
+            ],
+            [
+                "P2056",
+                "Community",
+                "JavaScript",
+                "No",
+                "750",
+                "N",
+                "N/N * 0",
+                "Validated"
+            ],
+            [
+                "P3091",
+                "Community",
+                "Java",
+                "No",
+                "620",
+                "N",
+                "N/M * 2",
+                "Checked"
+            ],
+            [
+                "P4103",
+                "Community",
+                "C++",
+                "No",
+                "480",
+                "N",
+                "N/K * 5",
+                "Audited"
+            ],
+            [
+                "P5217",
+                "Community",
+                "R",
+                "Yes",
+                "50",
+                "12",
+                "(12 / 5) * 4%",
+                "Confirmed"
+            ],
+            [
+                "P6329",
+                "Community",
+                "SQL",
+                "Yes*",
+                "20",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

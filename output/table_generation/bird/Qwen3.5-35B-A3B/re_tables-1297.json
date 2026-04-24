@@ -1,0 +1,45 @@
+{
+    "table-1297-1297": {
+        "title": [
+            "Patient ID",
+            "Total Bilirubin (mg/dL)",
+            "Anti-Nucleus Antibody Concentration (IU/mL)",
+            "Test Date",
+            "Lab Status",
+            "Reference Range Upper Limit"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the anti-nucleus antibody concentration of the patient whose total bilirubin is the highest in the normal range?",
+        "data": [
+            [
+                "P-1042",
+                "0.6",
+                "45.2",
+                "N/A",
+                "Normal",
+                "7.0"
+            ],
+            [
+                "P-1105",
+                "3.8",
+                "52.1",
+                "N/A",
+                "Normal",
+                "8.0"
+            ],
+            [
+                "P-A209",
+                "6.2",
+                "98.5",
+                "N/A",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "table-1288-1288": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "Gender",
+            "Alkaliphosphatase Level",
+            "Level Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Alkaliphosphatase Levels in Outpatient Clinic Patients",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients followed at the outpatient clinic, how many of them have a normal level of alkaliphophatase?",
+        "data": [
+            [
+                "12345",
+                "62",
+                "Male",
+                "85 U/L",
+                "Normal"
+            ],
+            [
+                "67890",
+                "48",
+                "Female",
+                "110 U/L",
+                "Elevated"
+            ],
+            [
+                "24680",
+                "55",
+                "Male",
+                "70 U/L",
+                "Normal"
+            ],
+            [
+                "13579",
+                "71",
+                "Female",
+                "92 U/L",
+                "Normal"
+            ],
+            [
+                "98765",
+                "39",
+                "Male",
+                "125 U/L",
+                "Elevated"
+            ]
+        ]
+    }
+}

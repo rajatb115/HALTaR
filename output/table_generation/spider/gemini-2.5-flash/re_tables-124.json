@@ -1,0 +1,69 @@
+{
+    "table-124-124": {
+        "title": [
+            "Airline Name",
+            "IATA Code",
+            "Primary Hub Airport",
+            "Route Focus",
+            "Common Aircraft Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are airlines that have some flight departing from airport 'AHD'?",
+        "data": [
+            [
+                "Regional Connect",
+                "RC",
+                "AHD",
+                "Regional Domestic",
+                "ATR 72"
+            ],
+            [
+                "SkyLink Express",
+                "SX",
+                "ORD",
+                "Domestic Feeder",
+                "Embraer E175"
+            ],
+            [
+                "National Air",
+                "NA",
+                "ATL",
+                "Major Domestic",
+                "Boeing 737"
+            ],
+            [
+                "Budget Fly",
+                "BF",
+                "LAS",
+                "Low-Cost Domestic",
+                "Airbus A320"
+            ],
+            [
+                "Horizon Wings",
+                "HW",
+                "DEN",
+                "Domestic & Charter",
+                "Bombardier CRJ-900"
+            ],
+            [
+                "AeroSwift",
+                "AS",
+                "DFW",
+                "Regional & Cargo",
+                "Dash 8 Q400"
+            ],
+            [
+                "Starline Airways",
+                "SA",
+                "LAX",
+                "Domestic & Leisure",
+                "Boeing 717"
+            ]
+        ]
+    }
+}

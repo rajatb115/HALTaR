@@ -1,0 +1,76 @@
+{
+    "table-1312-1312": {
+        "title": [
+            "Patient ID",
+            "Diagnosis Severity",
+            "Prothrombins Time Status",
+            "PT Value (seconds)",
+            "INR Level",
+            "Treatment Protocol",
+            "Outcome"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with severe thrombosis have a normal prothrombin time?",
+        "data": [
+            [
+                "P-4021",
+                "Severe Thrombosis",
+                "Normal",
+                "67.0",
+                "N/A",
+                "Anticoagulation Therapy",
+                "Stable"
+            ],
+            [
+                "P-4105",
+                "Severe Thrombotic Event",
+                "Normalized",
+                "72.00",
+                "0.95",
+                "Heparin Regimen",
+                "Discharged Home"
+            ],
+            [
+                "P-A992",
+                "Acute Deep Vein Thrombus",
+                "Within Reference Range",
+                "81.05",
+                "1.1",
+                "Warfarin Initiation",
+                "Monitoring Required"
+            ],
+            [
+                "B-3310",
+                "Pulmonary Embolism Complication",
+                "Standard Coag Profile",
+                "59.0",
+                "0.88",
+                "LMWH Injection",
+                "Recovery Phase"
+            ],
+            [
+                "C-7741",
+                "Extensive Arterial Clotting",
+                "Unremarkable Result",
+                "95.02",
+                "1.02",
+                "Direct Oral Anticoagulants",
+                "Follow-up Scheduled"
+            ],
+            [
+                "D-1128",
+                "Recurrent Venous Occlusion",
+                "Baseline Values Met",
+                "48.0",
+                "NA",
+                "Antiplatelet Adjunctive Care",
+                ""
+            ]
+        ]
+    }
+}

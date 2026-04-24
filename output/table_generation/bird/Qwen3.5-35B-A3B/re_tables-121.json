@@ -1,0 +1,76 @@
+{
+    "table-121-121": {
+        "title": [
+            "Account_ID",
+            "Holder_Name",
+            "Region",
+            "Statement_Frequency",
+            "Start_Date",
+            "End_Date",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From Year 1995 to 2000, who are the accounts holders from 'east Bohemia'. State the account ID the frequency of statement issuance.",
+        "data": [
+            [
+                "A-4921",
+                "Jan Novak",
+                "East Bohemia",
+                "Monthly",
+                "01/01/YYYY",
+                "31/12/YEAR",
+                "Active"
+            ],
+            [
+                "B-7732",
+                "Petra Svoboda",
+                "East Bohemia",
+                "Quarterly",
+                "6/15/19YY",
+                "5/30/2YYY",
+                "Inactive"
+            ],
+            [
+                "C-1105",
+                "Tomas Dvorak",
+                "Eastern Bohemia Bioregion",
+                "Annual",
+                "9/1/YYYY",
+                "8/31/YEAR+1",
+                "Pending"
+            ],
+            [
+                "D-8843",
+                "Lenka Cerny",
+                "East Bohemia",
+                "Semi-Monthly",
+                "4/10/1Y",
+                "7/22/2Y",
+                "Closed"
+            ],
+            [
+                "E-3391",
+                "Martin Kral",
+                "East-Bohemian Zone",
+                "Weekly",
+                "",
+                "",
+                "Suspended"
+            ],
+            [
+                "F-5567",
+                "Eva Hlavacova",
+                "East Bohemia District",
+                "Daily",
+                "",
+                "N/A",
+                "Open"
+            ]
+        ]
+    }
+}

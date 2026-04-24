@@ -1,0 +1,52 @@
+{
+    "table-430-430": {
+        "title": [
+            "Contestant ID",
+            "Contestant Name",
+            "Age",
+            "City"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Contestant Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of the contestants whose names contain the substring 'Al' .",
+        "data": [
+            [
+                "1",
+                "Alice Smith",
+                "25",
+                "New York"
+            ],
+            [
+                "2",
+                "Bob Johnson",
+                "32",
+                "Los Angeles"
+            ],
+            [
+                "3",
+                "Alan Williams",
+                "28",
+                "Chicago"
+            ],
+            [
+                "4",
+                "Mallory Brown",
+                "21",
+                "Houston"
+            ],
+            [
+                "5",
+                "Albert Davis",
+                "35",
+                "Phoenix"
+            ]
+        ]
+    }
+}

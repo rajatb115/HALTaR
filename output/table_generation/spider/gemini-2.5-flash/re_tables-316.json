@@ -1,0 +1,61 @@
+{
+    "table-316-316": {
+        "title": [
+            "LastName",
+            "State",
+            "RegisteredInProgram",
+            "StudentID"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the last name of the students who currently live in the state of North Carolina but have not registered in any degree program.",
+        "data": [
+            [
+                "Smith",
+                "NC",
+                "No",
+                "1001"
+            ],
+            [
+                "Jones",
+                "NC",
+                "Yes",
+                "1002"
+            ],
+            [
+                "Williams",
+                "SC",
+                "No",
+                "1003"
+            ],
+            [
+                "Brown",
+                "NC",
+                "No",
+                "1004"
+            ],
+            [
+                "Davis",
+                "VA",
+                "Yes",
+                "1005"
+            ],
+            [
+                "Miller",
+                "NC",
+                "No",
+                "1006"
+            ],
+            [
+                "Wilson",
+                "GA",
+                "No",
+                "1007"
+            ]
+        ]
+    }
+}

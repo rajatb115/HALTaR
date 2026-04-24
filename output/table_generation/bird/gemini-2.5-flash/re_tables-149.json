@@ -1,0 +1,77 @@
+{
+    "table-149-149": {
+        "title": [
+            "Account ID",
+            "Customer Name",
+            "District",
+            "Loan Eligibility",
+            "Credit Score",
+            "Loan Limit ($)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the accounts whose district is Tabor that are eligible for loans.",
+        "data": [
+            [
+                "100123",
+                "John Smith",
+                "Tabor",
+                "Yes",
+                "780",
+                "50000"
+            ],
+            [
+                "100124",
+                "Jane Doe",
+                "Tabor",
+                "Yes",
+                "720",
+                "35000"
+            ],
+            [
+                "100125",
+                "Peter Jones",
+                "Tabor",
+                "No",
+                "610",
+                "N/A"
+            ],
+            [
+                "100126",
+                "Sarah Lee",
+                "Tabor",
+                "Yes",
+                "810",
+                "75000"
+            ],
+            [
+                "100127",
+                "Michael Brown",
+                "Tabor",
+                "Yes",
+                "690",
+                "20000"
+            ],
+            [
+                "100128",
+                "Emily White",
+                "Tabor",
+                "No",
+                "590",
+                "N/A"
+            ],
+            [
+                "100129",
+                "David Green",
+                "Tabor",
+                "Yes",
+                "750",
+                "40000"
+            ]
+        ]
+    }
+}

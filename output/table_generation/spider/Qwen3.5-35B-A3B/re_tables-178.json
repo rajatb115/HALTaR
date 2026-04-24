@@ -1,0 +1,73 @@
+{
+    "table-178-178": {
+        "title": [
+            "Template ID",
+            "Template Code",
+            "Category",
+            "Status",
+            "Created Date",
+            "Last Modified",
+            "Owner",
+            "Version"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all distinct template type codes for all templates.",
+        "data": [
+            [
+                "TPL-0042",
+                "DOC_GEN_01_DRAFT",
+                "Document Generation",
+                "Active",
+                "06/15/2023",
+                "30/07/2024",
+                "J. Smith",
+                "v1.2"
+            ],
+            [
+                "TPL-0105",
+                "INV_CREATE_V2_PROD",
+                "Invoice Creation",
+                "Archived",
+                "04/12/2022",
+                "05/01/2025",
+                "M. Johnson",
+                "v2.0"
+            ],
+            [
+                "TPP-0219",
+                "EMAIL_WELCOME_NEW",
+                "Email Marketing",
+                "Active",
+                "09/10/2021",
+                "08/11/2019",
+                "S. Lee",
+                "v3.1"
+            ],
+            [
+                "TPT-0334",
+                "REPORT_MONTHLY_STD",
+                "Reporting Tools",
+                "Inactive",
+                "07/03/2018",
+                "06/02/2017",
+                "K. Davis",
+                "v4.0"
+            ],
+            [
+                "TPLQ-0441",
+                "FORM_SUBMIT_WEB",
+                "Form Processing",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

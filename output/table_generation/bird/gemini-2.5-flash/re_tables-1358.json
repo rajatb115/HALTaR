@@ -1,0 +1,69 @@
+{
+    "table-1358-1358": {
+        "title": [
+            "Member Name",
+            "Payment Date",
+            "Dues Period",
+            "Amount Paid",
+            "Payment Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the date Connor Hilton paid his/her dues.",
+        "data": [
+            [
+                "Connor Hilton",
+                "2023-12-15",
+                "2024 Annual",
+                "150.00",
+                "Paid"
+            ],
+            [
+                "Emily Chen",
+                "2024-01-05",
+                "2024 Annual",
+                "150.00",
+                "Paid"
+            ],
+            [
+                "David Lee",
+                "2023-11-20",
+                "2024 Annual",
+                "150.00",
+                "Paid"
+            ],
+            [
+                "Sarah Miller",
+                "2024-02-10",
+                "Q1 2024",
+                "40.00",
+                "Paid"
+            ],
+            [
+                "Michael Brown",
+                "2023-10-01",
+                "2023 Annual",
+                "150.00",
+                "Paid"
+            ],
+            [
+                "Jessica White",
+                "2024-01-25",
+                "2024 Annual",
+                "150.00",
+                "Pending"
+            ],
+            [
+                "Robert Green",
+                "2023-09-15",
+                "2023 Annual",
+                "150.00",
+                "Overdue"
+            ]
+        ]
+    }
+}

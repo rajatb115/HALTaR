@@ -1,0 +1,63 @@
+{
+    "table-442-442": {
+        "title": [
+            "Region",
+            "Population Estimate",
+            "Life Expectancy (Years)",
+            "Data Source",
+            "Year Recorded",
+            "Growth Rate (%)",
+            "Urbanization %",
+            "GDP per Capita ($)"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give me Brazil\u2019s population and life expectancies.",
+        "data": [
+            [
+                "S\u00e3o Paulo State",
+                "46,649,170",
+                "78.2",
+                "IBGE",
+                "5/2023",
+                "0.85",
+                "87.5",
+                "$14,205"
+            ],
+            [
+                "Rio de Janeiro State",
+                "17,264,943",
+                "77.9",
+                "IBGE",
+                "5/5/1973",
+                "0.72",
+                "94.1",
+                "$13,890"
+            ],
+            [
+                "Minas Gerais State",
+                "21,168,791",
+                "76.5",
+                "IBGE",
+                "5/6/1873",
+                "0.68",
+                "82.3",
+                "$10,450"
+            ],
+            [
+                "Bahia State",
+                "14,800,000",
+                "75.1",
+                "IBGE",
+                "5/7/1893",
+                "1.12",
+                "76.4",
+                "$8,920"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-48-48": {
+        "title": [
+            "Pet Name",
+            "Pet Type",
+            "Age (Years)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average and maximum age for each type of pet.",
+        "data": [
+            [
+                "Buddy",
+                "Dog",
+                "5"
+            ],
+            [
+                "Whiskers",
+                "Cat",
+                "8"
+            ],
+            [
+                "Max",
+                "Dog",
+                "2"
+            ],
+            [
+                "Polly",
+                "Bird",
+                "3"
+            ],
+            [
+                "Luna",
+                "Cat",
+                "10"
+            ],
+            [
+                "Goldie",
+                "Fish",
+                "1"
+            ],
+            [
+                "Daisy",
+                "Dog",
+                "7"
+            ]
+        ]
+    }
+}

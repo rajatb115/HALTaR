@@ -1,0 +1,76 @@
+{
+    "table-322-322": {
+        "title": [
+            "First Name",
+            "Middle Name",
+            "Last Name",
+            "Graduation Year",
+            "Degree",
+            "Major",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the earliest graduate of the school? List the first name, middle name and last name.",
+        "data": [
+            [
+                "John",
+                "Michael",
+                "Smith",
+                "1947",
+                "Bachelor's",
+                "Liberal Arts",
+                "Deceased"
+            ],
+            [
+                "Sarah",
+                "Elizabeth",
+                "Johnson",
+                "1951",
+                "Master's",
+                "Philosophy",
+                "N/A"
+            ],
+            [
+                "Robert",
+                "James",
+                "Williams",
+                "1960",
+                "Doctorate",
+                "Astronomy",
+                "Active"
+            ],
+            [
+                "Emily",
+                "Rose",
+                "Davis",
+                "1972",
+                "Bachelor's",
+                "Medicine",
+                "Retired"
+            ],
+            [
+                "Michael",
+                "Thomas",
+                "Brown",
+                "1983",
+                "Master's",
+                "Law",
+                "Inactive"
+            ],
+            [
+                "Jennifer",
+                "Anne",
+                "Miller",
+                "1991",
+                "PhD",
+                "History",
+                "Active"
+            ]
+        ]
+    }
+}

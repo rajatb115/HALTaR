@@ -1,0 +1,61 @@
+{
+    "table-404-404": {
+        "title": [
+            "Card Name",
+            "Language",
+            "Percentage of Total Cards",
+            "Release Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of cards in Spanish. List them by name.",
+        "data": [
+            [
+                "El Drag\u00f3n Dorado",
+                "Spanish",
+                "12.5%",
+                "2018"
+            ],
+            [
+                "La Hechicera Oscura",
+                "Spanish",
+                "12.5%",
+                "2019"
+            ],
+            [
+                "The Ancient Guardian",
+                "English",
+                "25.0%",
+                "2017"
+            ],
+            [
+                "El Caballero Valiente",
+                "Spanish",
+                "12.5%",
+                "2020"
+            ],
+            [
+                "Le Sorcier Mystique",
+                "French",
+                "12.5%",
+                "2021"
+            ],
+            [
+                "La Bestia Alada",
+                "Spanish",
+                "12.5%",
+                "2022"
+            ],
+            [
+                "The Shadow Assassin",
+                "English",
+                "12.5%",
+                "2023"
+            ]
+        ]
+    }
+}

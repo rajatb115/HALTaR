@@ -1,0 +1,77 @@
+{
+    "table-18-18": {
+        "title": [
+            "Stadium Name",
+            "City",
+            "Capacity",
+            "Primary Sport",
+            "Last Event Type",
+            "Concerts Hosted (Last 12 Months)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the stadiums without any concerts?",
+        "data": [
+            [
+                "Grand Arena",
+                "Springfield",
+                "45000",
+                "Soccer",
+                "Sporting Event",
+                "0"
+            ],
+            [
+                "Metro Dome",
+                "Capital City",
+                "30000",
+                "Basketball",
+                "Trade Show",
+                "0"
+            ],
+            [
+                "Riverside Park",
+                "Lakeside",
+                "20000",
+                "Baseball",
+                "Community Fair",
+                "0"
+            ],
+            [
+                "Olympic Stadium",
+                "Metropolis",
+                "60000",
+                "Athletics",
+                "Sporting Event",
+                "2"
+            ],
+            [
+                "Central Field",
+                "Townsville",
+                "25000",
+                "Rugby",
+                "Corporate Gala",
+                "0"
+            ],
+            [
+                "Harbor Arena",
+                "Portside",
+                "18000",
+                "Ice Hockey",
+                "Monster Truck Rally",
+                "0"
+            ],
+            [
+                "Skyview Stadium",
+                "Mountainview",
+                "50000",
+                "Football",
+                "Sporting Event",
+                "3"
+            ]
+        ]
+    }
+}

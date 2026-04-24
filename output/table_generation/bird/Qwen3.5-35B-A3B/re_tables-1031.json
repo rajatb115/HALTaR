@@ -1,0 +1,53 @@
+{
+    "table-1031-1031": {
+        "title": [
+            "Season",
+            "League",
+            "Total Matches",
+            "Drawn Matches",
+            "Win Rate %",
+            "Top Scorer Goals"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which League had the most matches end as draw in the 2016 season?",
+        "data": [
+            [
+                "2nd Division",
+                "45",
+                "78",
+                "32",
+                "65%",
+                "0"
+            ],
+            [
+                "Premier League",
+                "52",
+                "None",
+                "89",
+                "95%",
+                ""
+            ],
+            [
+                "Championship",
+                "48",
+                "None",
+                "82",
+                "88%",
+                ""
+            ],
+            [
+                "La Liga",
+                "",
+                "None",
+                "76",
+                "85%",
+                ""
+            ]
+        ]
+    }
+}

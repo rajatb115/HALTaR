@@ -1,0 +1,55 @@
+{
+    "table-340-340": {
+        "title": [
+            "Atom_ID",
+            "Element_Symbol",
+            "Is_Carcinogen",
+            "Contains_Oxygen",
+            "Molecular_Formula"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the atom ID of the carcinogenic molecule that contains oxygen?",
+        "data": [
+            [
+                "ATOM_7492",
+                "O",
+                "Yes",
+                "True",
+                "C6H5NO2"
+            ],
+            [
+                "ATOM_7501",
+                "O",
+                "Yes",
+                "True",
+                "C7H5ClO2"
+            ],
+            [
+                "ATOM_NA",
+                "O",
+                "Mildly Suspect",
+                "True",
+                ""
+            ],
+            [
+                "ATOM_BETA",
+                "O",
+                "",
+                "False",
+                "C8H8O3"
+            ],
+            [
+                "ATM_GAMMA",
+                "O",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

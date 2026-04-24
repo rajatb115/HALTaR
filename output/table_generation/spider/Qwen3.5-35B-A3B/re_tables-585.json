@@ -1,0 +1,61 @@
+{
+    "table-585-585": {
+        "title": [
+            "Treatment ID",
+            "Description",
+            "Total Cost ($)",
+            "Duration (Days)",
+            "Provider",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give me the description of the treatment type whose total cost is the lowest.",
+        "data": [
+            [
+                "T-104",
+                "Minor Skin Lesion Removal",
+                "450",
+                "7",
+                "DermCare Clinic",
+                "Completed"
+            ],
+            [
+                "T-A22",
+                "Routine Blood Panel Analysis",
+                "620",
+                "N/A",
+                "LabWorks Inc",
+                "Pending"
+            ],
+            [
+                "B-309",
+                "Standard Dental Cleaning",
+                "890",
+                "None",
+                "BrightSmile DDS",
+                "Scheduled"
+            ],
+            [
+                "M-551",
+                "Acute Bronchitis Antibiotic Course",
+                "950",
+                "",
+                "Primary Care Meds",
+                "Active"
+            ],
+            [
+                "R-772",
+                "X-Ray Imaging for Fracture Check",
+                "320",
+                "",
+                "Radiology Plus",
+                "Completed"
+            ]
+        ]
+    }
+}

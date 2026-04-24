@@ -1,0 +1,85 @@
+{
+    "table-567-567": {
+        "title": [
+            "Student_ID",
+            "Has_Friends",
+            "Is_Liked",
+            "Friend_Count",
+            "Like_Count",
+            "Status",
+            "Last_Active_Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the ids of students who both have friends and are liked?",
+        "data": [
+            [
+                "S_1042",
+                "Yes",
+                "Yes",
+                "7",
+                "3",
+                "Active",
+                "6/15/2023"
+            ],
+            [
+                "S_1105",
+                "Yes",
+                "Yes",
+                "4",
+                "5",
+                "Active",
+                "6/12/2022"
+            ],
+            [
+                "S_20",
+                "Yes",
+                "No",
+                "N/A",
+                "N",
+                "Inactive",
+                "8/22/2023"
+            ],
+            [
+                "",
+                "Yes",
+                "Yes",
+                "0",
+                "9",
+                "Active",
+                "7/01/2023"
+            ],
+            [
+                "S",
+                "Yes",
+                "Yes",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "S",
+                "Yes",
+                "Yes",
+                "2",
+                "None",
+                "Pending",
+                "N/A"
+            ],
+            [
+                "",
+                "Yes",
+                "Yes",
+                "1",
+                "1",
+                "Active",
+                "5/30/2023"
+            ]
+        ]
+    }
+}

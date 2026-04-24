@@ -1,0 +1,61 @@
+{
+    "table-430-430": {
+        "title": [
+            "Contestant Name",
+            "Contestant ID",
+            "Region",
+            "Score"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of the contestants whose names contain the substring 'Al' .",
+        "data": [
+            [
+                "Alice Smith",
+                "101",
+                "North",
+                "85"
+            ],
+            [
+                "Alan Johnson",
+                "102",
+                "South",
+                "92"
+            ],
+            [
+                "Albert Lee",
+                "103",
+                "East",
+                "78"
+            ],
+            [
+                "Mallory King",
+                "104",
+                "West",
+                "65"
+            ],
+            [
+                "Brenda Chen",
+                "105",
+                "Central",
+                "90"
+            ],
+            [
+                "Alex Rodriguez",
+                "106",
+                "North",
+                "72"
+            ],
+            [
+                "Carl Davis",
+                "107",
+                "South",
+                "88"
+            ]
+        ]
+    }
+}

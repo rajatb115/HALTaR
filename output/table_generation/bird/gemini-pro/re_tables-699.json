@@ -1,0 +1,46 @@
+{
+    "table-699-699": {
+        "title": [
+            "User",
+            "Comments",
+            "Answers"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "User Interaction Metrics on 'Clustering 1D data' Post",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many comments and answers were left by the users on the post with the title 'Clustering 1D data'?",
+        "data": [
+            [
+                "User A",
+                "3",
+                "1"
+            ],
+            [
+                "User B",
+                "1",
+                "0"
+            ],
+            [
+                "User C",
+                "0",
+                "2"
+            ],
+            [
+                "User D",
+                "2",
+                "1"
+            ],
+            [
+                "User E",
+                "1",
+                "1"
+            ]
+        ]
+    }
+}

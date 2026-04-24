@@ -1,0 +1,39 @@
+{
+    "table-1474-1474": {
+        "title": [
+            "Month",
+            "Average Consumption (Units)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "SME Customer Consumption in 2013",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the average monthly consumption of customers in SME for the year 2013?",
+        "data": [
+            [
+                "January",
+                "1250"
+            ],
+            [
+                "February",
+                "1100"
+            ],
+            [
+                "March",
+                "1300"
+            ],
+            [
+                "April",
+                "1400"
+            ],
+            [
+                "May",
+                "1200"
+            ]
+        ]
+    }
+}

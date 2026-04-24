@@ -1,0 +1,53 @@
+{
+    "table-241-241": {
+        "title": [
+            "First Name",
+            "Birth Date",
+            "Country Code"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the first name and birth date of all players from the country with code USA.",
+        "data": [
+            [
+                "Michael",
+                "1963-02-17",
+                "USA"
+            ],
+            [
+                "Serena",
+                "1981-09-26",
+                "USA"
+            ],
+            [
+                "LeBron",
+                "1984-12-30",
+                "USA"
+            ],
+            [
+                "Megan",
+                "1985-07-05",
+                "USA"
+            ],
+            [
+                "Tom",
+                "1977-08-03",
+                "USA"
+            ],
+            [
+                "Katie",
+                "1997-02-24",
+                "USA"
+            ],
+            [
+                "Simone",
+                "1997-03-14",
+                "USA"
+            ]
+        ]
+    }
+}

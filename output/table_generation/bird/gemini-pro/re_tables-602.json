@@ -1,0 +1,46 @@
+{
+    "table-602-602": {
+        "title": [
+            "Post ID",
+            "Score",
+            "Link Type ID"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Post Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the score and the link type ID for post ID 395?",
+        "data": [
+            [
+                "392",
+                "0",
+                ""
+            ],
+            [
+                "393",
+                "0",
+                ""
+            ],
+            [
+                "394",
+                "0",
+                ""
+            ],
+            [
+                "395",
+                "0",
+                "3"
+            ],
+            [
+                "396",
+                "1",
+                ""
+            ]
+        ]
+    }
+}

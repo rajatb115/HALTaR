@@ -1,0 +1,43 @@
+{
+    "table-150-150": {
+        "title": [
+            "Account Type",
+            "District Avg. Income",
+            "Loan Eligibility"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Ineligible Account Types Based on District Income",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the account types that are not eligible for loans, and the average income of residents in the district where the account is located exceeds $8000 but is no more than $9000.",
+        "data": [
+            [
+                "Checking",
+                "$8,500",
+                "No"
+            ],
+            [
+                "Savings",
+                "$8,200",
+                "No"
+            ],
+            [
+                "Money Market",
+                "$8,800",
+                "No"
+            ],
+            [
+                "Student",
+                "$8,100",
+                "No"
+            ],
+            [
+                "Basic Checking",
+                "$8,900",
+                "No"
+            ]
+        ]
+    }
+}

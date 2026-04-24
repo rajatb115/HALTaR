@@ -1,0 +1,93 @@
+{
+    "table-314-314": {
+        "title": [
+            "Molecule ID",
+            "Atom Count",
+            "Element Types",
+            "Status",
+            "Last Updated",
+            "Source System",
+            "Validation Score",
+            "Notes"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many atoms belong to molecule id TR005?",
+        "data": [
+            [
+                "TR004",
+                "127",
+                "\"C,H,O,N\"",
+                "Verified",
+                "2023-11-15",
+                "ChemDB v2",
+                "0.98",
+                "Standard configuration"
+            ],
+            [
+                "RF006",
+                "142",
+                "\"P,S,Ca,Mg\"",
+                "Pending Review",
+                "2-20-24",
+                "SpectroLab",
+                "0-92",
+                "Isomer variant detected"
+            ],
+            [
+                "RQ003",
+                "115",
+                "\"Fe,Zn,Cu\"",
+                "Archived",
+                "22/05/2019",
+                "Legacy DB",
+                "085",
+                "Historical record only"
+            ],
+            [
+                "138",
+                "\"Li,B,Al\"",
+                "Active",
+                "Jan 10 244",
+                "QuantumCore",
+                "099",
+                "High precision model",
+                ""
+            ],
+            [
+                "Missing metadata for this entry",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "$#%&*!@",
+                "#ERROR##",
+                "Invalid Data",
+                "Failed Validation",
+                "Never",
+                "System Error",
+                "000",
+                "Corrupted file reference"
+            ],
+            [
+                "%^&*(?)",
+                "150",
+                "\"H,He,L",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-515-515": {
+        "title": [
+            "Country Name",
+            "Population"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Countries by Population",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of the 3 countries with the fewest people.",
+        "data": [
+            [
+                "Vatican City",
+                "825"
+            ],
+            [
+                "Nauru",
+                "10,876"
+            ],
+            [
+                "Tuvalu",
+                "11,396"
+            ],
+            [
+                "Palau",
+                "18,058"
+            ],
+            [
+                "San Marino",
+                "33,642"
+            ]
+        ]
+    }
+}

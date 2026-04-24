@@ -1,0 +1,45 @@
+{
+    "table-194-194": {
+        "title": [
+            "Client ID",
+            "District",
+            "Rights"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Client Information Based on Rights",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all ID and district for clients that can only have the right to issue permanent orders or apply for loans.",
+        "data": [
+            [
+                "123",
+                "Alpha",
+                "Permanent Orders"
+            ],
+            [
+                "456",
+                "Beta",
+                "Loans"
+            ],
+            [
+                "789",
+                "Gamma",
+                "Permanent Orders"
+            ],
+            [
+                "101",
+                "Alpha",
+                "Loans"
+            ],
+            [
+                "112",
+                "Delta",
+                "Permanent Orders, Loans"
+            ]
+        ]
+    }
+}

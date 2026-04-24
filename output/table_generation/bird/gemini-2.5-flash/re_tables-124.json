@@ -1,0 +1,55 @@
+{
+    "table-124-124": {
+        "title": [
+            "Account ID",
+            "District",
+            "Region",
+            "Loan Amount"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the account ID, district and region for loan amount greater than USD300,000.",
+        "data": [
+            [
+                "LNA-001",
+                "Central",
+                "East",
+                "350000"
+            ],
+            [
+                "LNA-002",
+                "Northwood",
+                "West",
+                "420000"
+            ],
+            [
+                "LNA-003",
+                "Lakeside",
+                "South",
+                "310000"
+            ],
+            [
+                "LNA-004",
+                "Riverbend",
+                "East",
+                "500000"
+            ],
+            [
+                "LNA-005",
+                "Hillside",
+                "West",
+                "380000"
+            ],
+            [
+                "LNA-006",
+                "Downtown",
+                "Central",
+                "450000"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-133-133": {
+        "title": [
+            "Gender",
+            "Average Loan Amount"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Average Loan Amounts by Gender",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average loan amount by male borrowers?",
+        "data": [
+            [
+                "Male",
+                "$150,000"
+            ],
+            [
+                "Female",
+                "$120,000"
+            ],
+            [
+                "Non-binary",
+                "$135,000"
+            ],
+            [
+                "Unknown",
+                "$125,000"
+            ],
+            [
+                "All",
+                "$130,000"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-448-448": {
+        "title": [
+            "Country",
+            "Continent",
+            "Life Expectancy (Years)",
+            "Region",
+            "Population (Millions)",
+            "GDP per Capita ($)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the name of the country in Asia with the lowest life expectancy.",
+        "data": [
+            [
+                "Afghanistan",
+                "Asia",
+                "64.7",
+                "South Asia",
+                "N/A",
+                "500"
+            ],
+            [
+                "Timor-Leste",
+                "Asia / Oceania",
+                "70.2",
+                "Southeast Asia",
+                "N/A",
+                "4000"
+            ],
+            [
+                "Yemen",
+                "Asia",
+                "",
+                "West Asia",
+                "N/A",
+                "100"
+            ],
+            [
+                "Syria",
+                "Asia",
+                "",
+                "West Asia",
+                "N/A",
+                "1050"
+            ],
+            [
+                "South Sudan",
+                "Africa",
+                "",
+                "East Africa",
+                "N/A",
+                ""
+            ],
+            [
+                "Central African Republic",
+                "Africa",
+                "",
+                "Central Africa",
+                "N/A",
+                ""
+            ],
+            [
+                "Chad",
+                "Africa",
+                "",
+                "N/A",
+                "",
+                ""
+            ],
+            [
+                "Burundi",
+                "Africa",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

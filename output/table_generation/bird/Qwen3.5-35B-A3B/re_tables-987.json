@@ -1,0 +1,77 @@
+{
+    "table-987-987": {
+        "title": [
+            "Race Event",
+            "Track Location",
+            "Fastest Lap Time (ms)",
+            "Driver",
+            "Car Model",
+            "Date Recorded"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which race did the fastest 1st lap time was recorded? Please indicate the time in milliseconds.",
+        "data": [
+            [
+                "Monaco Grand Prix",
+                "Circuit de Monaco",
+                "74562",
+                "Max Verstappen",
+                "Red Bull RB19",
+                "07 May 23"
+            ],
+            [
+                "Silverstone GP",
+                "British Grand Prix Circuit",
+                "89104",
+                "Lewis Hamilton",
+                "Mercedes W14",
+                "30 Jul 22"
+            ],
+            [
+                "Monza Circuit",
+                "Italian Grand Prix Venue",
+                "68231",
+                "Charles Leclerc",
+                "Ferrari SF-23",
+                "9 Sep 24"
+            ],
+            [
+                "Spa-Francorchamps",
+                "Belgian Grand Prix Track",
+                "52190",
+                "Sergio Perez",
+                "Red Bull RB18",
+                "4 Aug 21"
+            ],
+            [
+                "Suzuka International",
+                "Japanese Grand Prix Course",
+                "145003",
+                "Fernando Alonso",
+                "Aston Martin AMR22",
+                "10 Oct 25"
+            ],
+            [
+                "Interlagos",
+                "Brazilian Grand Prix Site",
+                "",
+                "Lando Norris",
+                "McLaren MCL36",
+                "13 Nov 26"
+            ],
+            [
+                "N\u00fcrburgring",
+                "German Grand Prix Loop",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

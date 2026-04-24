@@ -1,0 +1,45 @@
+{
+    "table-226-226": {
+        "title": [
+            "Teacher Name",
+            "Department",
+            "Years of Experience"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Teachers Without Course Assignments",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of teachers who have not been arranged to teach courses.",
+        "data": [
+            [
+                "John Smith",
+                "Math",
+                "5"
+            ],
+            [
+                "Alice Brown",
+                "English",
+                "10"
+            ],
+            [
+                "David Lee",
+                "Science",
+                "3"
+            ],
+            [
+                "Emily White",
+                "History",
+                "7"
+            ],
+            [
+                "Michael Gray",
+                "Art",
+                "2"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-1192-1192": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "First Presentation Year",
+            "Primary Diagnosis"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of male patients who first presented to the hospital in 1981 were diagnosed with BEHCET?",
+        "data": [
+            [
+                "P1001",
+                "Male",
+                "1981",
+                "BEHCET"
+            ],
+            [
+                "P1002",
+                "Male",
+                "1981",
+                "Hypertension"
+            ],
+            [
+                "P1003",
+                "Female",
+                "1981",
+                "BEHCET"
+            ],
+            [
+                "P1004",
+                "Male",
+                "1982",
+                "Crohn's Disease"
+            ],
+            [
+                "P1005",
+                "Male",
+                "1981",
+                "BEHCET"
+            ],
+            [
+                "P1006",
+                "Male",
+                "1981",
+                "Diabetes Mellitus"
+            ],
+            [
+                "P1007",
+                "Female",
+                "1980",
+                "Asthma"
+            ]
+        ]
+    }
+}

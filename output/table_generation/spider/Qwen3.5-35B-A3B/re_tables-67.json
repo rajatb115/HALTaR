@@ -1,0 +1,93 @@
+{
+    "table-67-67": {
+        "title": [
+            "Car Model",
+            "Maker",
+            "Production Year",
+            "Engine Size",
+            "Fuel Type",
+            "Country Origin",
+            "Price Range",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maker of the carr produced in the earliest year and what year was it?",
+        "data": [
+            [
+                "Model T",
+                "Ford Motor Company",
+                "1908",
+                "4 Cylinder",
+                "Gasoline",
+                "USA",
+                "$600-$700",
+                "Discontinued"
+            ],
+            [
+                "Audi V8",
+                "Audi AG",
+                "1988",
+                "V8",
+                "Petrol",
+                "Germany",
+                "\u20ac45k-\u20ac55k",
+                "Limited Run"
+            ],
+            [
+                "BMW E30 M3",
+                "BMW Group",
+                "1986",
+                "Inline-4 Turbo",
+                "Petrol",
+                "Germany",
+                "DM 45,000+",
+                "Active Market"
+            ],
+            [
+                "Mercedes-Benz W124",
+                "Daimler-Benz",
+                "1985",
+                "Diesel/Petrol",
+                "N/A",
+                "West Germany",
+                "High Demand",
+                "Classic Value"
+            ],
+            [
+                "Porsche 911 Carrera",
+                "Porsche SE",
+                "1976",
+                "Flat-Six Air Cooled",
+                "Petrol",
+                "Germany",
+                "Mark 15k+",
+                "Collector Item"
+            ],
+            [
+                "Toyota Corolla AE86",
+                "Toyota Corporation",
+                "1983",
+                "3-Cylinder Carburetor",
+                "Petrol",
+                "Japan",
+                "\u00a51M - \u00a51.5M",
+                "Enthusiast Favorite"
+            ],
+            [
+                "Honda Civic CRX",
+                "Honda Motors",
+                "1987",
+                "SOHC Four-Cyl",
+                "Petrol",
+                "Japan",
+                "",
+                ""
+            ]
+        ]
+    }
+}

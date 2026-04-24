@@ -1,0 +1,69 @@
+{
+    "table-1376-1376": {
+        "title": [
+            "Member Name",
+            "Role",
+            "Specialization",
+            "Start Year",
+            "Email Suffix"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the members of the \"School of Applied Sciences, Technology and Education\" department.",
+        "data": [
+            [
+                "Dr. Anya Sharma",
+                "Professor",
+                "Artificial Intelligence",
+                "2010",
+                "@uni.edu"
+            ],
+            [
+                "Prof. Ben Carter",
+                "Head of Department",
+                "Renewable Energy Systems",
+                "2005",
+                "@uni.edu"
+            ],
+            [
+                "Dr. Chloe Davis",
+                "Senior Lecturer",
+                "Data Science & Analytics",
+                "2015",
+                "@uni.edu"
+            ],
+            [
+                "Mr. David Evans",
+                "Research Fellow",
+                "Robotics & Automation",
+                "2018",
+                "@uni.edu"
+            ],
+            [
+                "Dr. Emily Foster",
+                "Associate Professor",
+                "Educational Technology",
+                "2012",
+                "@uni.edu"
+            ],
+            [
+                "Ms. Grace Hall",
+                "Lecturer",
+                "Software Engineering",
+                "2019",
+                "@uni.edu"
+            ],
+            [
+                "Dr. Ian Jones",
+                "Postdoctoral Researcher",
+                "Cybersecurity",
+                "2021",
+                "@uni.edu"
+            ]
+        ]
+    }
+}

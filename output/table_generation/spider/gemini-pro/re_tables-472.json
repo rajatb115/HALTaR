@@ -1,0 +1,37 @@
+{
+    "table-472-472": {
+        "title": [
+            "Region",
+            "Language(s) Spoken"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Regions and Languages Spoken",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which regions speak Dutch or English?",
+        "data": [
+            [
+                "Netherlands",
+                "Dutch"
+            ],
+            [
+                "Belgium",
+                "Dutch, French, German"
+            ],
+            [
+                "United States",
+                "English, Spanish"
+            ],
+            [
+                "Canada",
+                "English, French"
+            ],
+            [
+                "Australia",
+                "English"
+            ]
+        ]
+    }
+}

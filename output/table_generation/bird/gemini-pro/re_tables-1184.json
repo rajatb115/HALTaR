@@ -1,0 +1,45 @@
+{
+    "table-1184-1184": {
+        "title": [
+            "Patient ID",
+            "Visit Date",
+            "Diagnosis"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Diagnosis History",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who was diagnosed SLE on 1997/1/27, what was his/her original diagnose when he/she came to the hospital for the first time?",
+        "data": [
+            [
+                "12345",
+                "1996-05-10",
+                "Suspected Viral Infection"
+            ],
+            [
+                "12345",
+                "1996-07-15",
+                "Rule out Autoimmune Disorder"
+            ],
+            [
+                "12345",
+                "1996-11-20",
+                "Joint Pain and Inflammation"
+            ],
+            [
+                "12345",
+                "1997-01-27",
+                "Systemic Lupus Erythematosus (SLE)"
+            ],
+            [
+                "12345",
+                "1997-03-05",
+                "SLE - Confirmed"
+            ]
+        ]
+    }
+}

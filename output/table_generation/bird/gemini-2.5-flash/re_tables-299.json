@@ -1,0 +1,37 @@
+{
+    "table-299-299": {
+        "title": [
+            "Compound",
+            "Formula",
+            "Mol. Weight (g/mol)",
+            "H Atoms",
+            "Total Atoms",
+            "% H (by Atom)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of molecules containing carcinogenic compounds that element is hydrogen.",
+        "data": [
+            [
+                "Benzene",
+                "C6H6",
+                "78.11",
+                "6",
+                "12",
+                "50.00"
+            ],
+            [
+                "Formaldehyde",
+                "CH2",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

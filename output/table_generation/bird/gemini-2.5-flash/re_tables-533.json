@@ -1,0 +1,48 @@
+{
+    "table-533-533": {
+        "title": [
+            "User ID",
+            "Display Name",
+            "Account Creation Year"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the display names of all the users whose accounts were created in the year 2014.",
+        "data": [
+            [
+                "U001234",
+                "Alice Wonderland",
+                "2014"
+            ],
+            [
+                "U001235",
+                "Bob The Builder",
+                "2014"
+            ],
+            [
+                "U001236",
+                "Charlie Chaplin",
+                "2014"
+            ],
+            [
+                "U001237",
+                "Diana Prince",
+                "2014"
+            ],
+            [
+                "U001238",
+                "Eve Harrington",
+                "2014"
+            ],
+            [
+                "U001239",
+                "Frank Sinatra",
+                "2014"
+            ]
+        ]
+    }
+}

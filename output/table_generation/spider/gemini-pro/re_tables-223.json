@@ -1,0 +1,37 @@
+{
+    "table-223-223": {
+        "title": [
+            "Teacher Name",
+            "Course Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Teacher-Course Assignments",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the teachers and the courses they teach in ascending alphabetical order by the name of the teacher?",
+        "data": [
+            [
+                "Alice Smith",
+                "Math 101"
+            ],
+            [
+                "Bob Johnson",
+                "History 201"
+            ],
+            [
+                "Carol Williams",
+                "English 101"
+            ],
+            [
+                "David Brown",
+                "Physics 301"
+            ],
+            [
+                "Emily Davis",
+                "Chemistry 201"
+            ]
+        ]
+    }
+}

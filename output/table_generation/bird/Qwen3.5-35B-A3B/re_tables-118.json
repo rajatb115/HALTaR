@@ -1,0 +1,61 @@
+{
+    "table-118-118": {
+        "title": [
+            "Loan ID",
+            "Total Amount Paid",
+            "Original Principal",
+            "Payment Status",
+            "Issue Count",
+            "Percentage Fully Paid"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of loan amount that has been fully paid with no issue.",
+        "data": [
+            [
+                "LOAN_0042",
+                "$12,500.00",
+                "$25,000",
+                "Complete",
+                "No Issues",
+                "0%"
+            ],
+            [
+                "LOAN_0156",
+                "$48,750.50",
+                "$50,050",
+                "Partial",
+                "Minor Delay",
+                "97.4%"
+            ],
+            [
+                "LOAN_2093",
+                "$9,203.10",
+                "$10,550",
+                "Complete",
+                "No Issues",
+                "0%"
+            ],
+            [
+                "LOAN_X882",
+                "$33,100.00",
+                "$33,000",
+                "Complete",
+                "None",
+                "0%"
+            ],
+            [
+                "LOAN_Y991",
+                "$15,600.00",
+                "$15,000",
+                "Partial",
+                "Minor Error",
+                "99.2%"
+            ]
+        ]
+    }
+}

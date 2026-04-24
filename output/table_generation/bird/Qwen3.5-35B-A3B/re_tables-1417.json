@@ -1,0 +1,76 @@
+{
+    "table-1417-1417": {
+        "title": [
+            "Department",
+            "Shirt Size",
+            "Count",
+            "Status",
+            "Last Updated",
+            "Region",
+            "Manager ID"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many members of Business have the Medium size of tee shirt?",
+        "data": [
+            [
+                "Business",
+                "Small",
+                "45",
+                "Active",
+                "7/16/2024",
+                "North",
+                "MGR-101"
+            ],
+            [
+                "Business",
+                "Medium",
+                "62",
+                "Active",
+                "7/16/2024",
+                "North",
+                "MGR-102"
+            ],
+            [
+                "Business",
+                "Large",
+                "",
+                "Active",
+                "7/16/2024",
+                "South",
+                "MGR-103"
+            ],
+            [
+                "Sales",
+                "Medium",
+                "58",
+                "Inactive",
+                "7/15/2024",
+                "",
+                "MGR-201"
+            ],
+            [
+                "Marketing",
+                "Small",
+                "33",
+                "Pending",
+                "7/16/2024",
+                "East",
+                "MGR-305"
+            ],
+            [
+                "Finance",
+                "Medium",
+                "41",
+                "Active",
+                "7/17/2024",
+                "West",
+                "MGR-402"
+            ]
+        ]
+    }
+}

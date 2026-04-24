@@ -1,0 +1,58 @@
+{
+    "table-120-120": {
+        "title": [
+            "Account ID",
+            "District Name",
+            "District Region",
+            "Statement After Transaction",
+            "Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            4
+        ],
+        "pgTitle": "Account Details with District Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For accounts in 1993 with statement issued after transaction, list the account ID, district name and district region.",
+        "data": [
+            [
+                "12345",
+                "Prague 1",
+                "Central Bohemia",
+                "Yes",
+                "1993"
+            ],
+            [
+                "67890",
+                "Brno-m\u011bsto",
+                "South Moravia",
+                "Yes",
+                "1993"
+            ],
+            [
+                "24680",
+                "Ostrava-m\u011bsto",
+                "North Moravia",
+                "Yes",
+                "1993"
+            ],
+            [
+                "13579",
+                "Plze\u0148-m\u011bsto",
+                "West Bohemia",
+                "Yes",
+                "1993"
+            ],
+            [
+                "98765",
+                "\u010cesk\u00e9 Bud\u011bjovice",
+                "South Bohemia",
+                "Yes",
+                "1993"
+            ]
+        ]
+    }
+}

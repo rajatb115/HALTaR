@@ -1,0 +1,85 @@
+{
+    "table-1370-1370": {
+        "title": [
+            "Event ID",
+            "Event Name",
+            "Category",
+            "Budget Amount ($)",
+            "Currency",
+            "Status",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which event has the highest budget amount?",
+        "data": [
+            [
+                "EVT-1042",
+                "Global Tech Summit",
+                "Technology",
+                "45000",
+                "USD",
+                "Completed",
+                "North America"
+            ],
+            [
+                "EVE-2091",
+                "Summer Music Festival",
+                "Entertainment",
+                "7850",
+                "EUR",
+                "Planned",
+                "Europe"
+            ],
+            [
+                "EVX-3315",
+                "Annual Charity Gala",
+                "Non-Profit",
+                "620",
+                "GBP",
+                "Ongoing",
+                "United Kingdom"
+            ],
+            [
+                "EVA-4402",
+                "International Food Expo",
+                "Commerce",
+                "920",
+                "",
+                "Pending",
+                "Asia Pacific"
+            ],
+            [
+                "EVB-5518",
+                "Regional Science Fair",
+                "Education",
+                "3100",
+                "",
+                "Cancelled",
+                "South America"
+            ],
+            [
+                "ETC-6629",
+                "Corporate Leadership Retreat",
+                "Business",
+                "550",
+                "",
+                "Approved",
+                "Middle East"
+            ],
+            [
+                "EDS-7730",
+                "Local Community Marathon",
+                "Sports",
+                "890",
+                "",
+                "Active",
+                "Oceania"
+            ]
+        ]
+    }
+}

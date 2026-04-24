@@ -1,0 +1,85 @@
+{
+    "table-1322-1322": {
+        "title": [
+            "Student Name",
+            "Club Name",
+            "Event Name",
+            "Event Date",
+            "Attendance Status",
+            "Event Type"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many events of the Student_Club did Sacha Harrison attend in 2019?",
+        "data": [
+            [
+                "Sacha Harrison",
+                "Student_Club",
+                "Annual Gala",
+                "2019-11-15",
+                "Attended",
+                "Social"
+            ],
+            [
+                "Sacha Harrison",
+                "Student_Club",
+                "Workshop: Public Speaking",
+                "2019-03-22",
+                "Attended",
+                "Educational"
+            ],
+            [
+                "Sacha Harrison",
+                "Student_Club",
+                "Volunteer Day",
+                "2019-07-01",
+                "Attended",
+                "Community"
+            ],
+            [
+                "Sacha Harrison",
+                "Student_Club",
+                "Movie Night",
+                "2019-09-10",
+                "Attended",
+                "Social"
+            ],
+            [
+                "Sacha Harrison",
+                "Student_Club",
+                "Career Fair Prep",
+                "2019-10-05",
+                "Absent",
+                "Educational"
+            ],
+            [
+                "Emily Chen",
+                "Student_Club",
+                "Annual Gala",
+                "2019-11-15",
+                "Attended",
+                "Social"
+            ],
+            [
+                "Sacha Harrison",
+                "Debate Club",
+                "Weekly Meeting",
+                "2019-04-12",
+                "Attended",
+                "Academic"
+            ],
+            [
+                "Sacha Harrison",
+                "Student_Club",
+                "End-of-Year Party",
+                "2018-12-10",
+                "Attended",
+                "Social"
+            ]
+        ]
+    }
+}

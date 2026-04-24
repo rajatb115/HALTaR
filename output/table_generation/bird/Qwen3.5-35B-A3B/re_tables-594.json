@@ -1,0 +1,76 @@
+{
+    "table-594-594": {
+        "title": [
+            "User ID",
+            "Location",
+            "Teacher Badge",
+            "Supporter Badge",
+            "Total Badges",
+            "Status",
+            "Last Active Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users from New York have a teacher and supporter badge?",
+        "data": [
+            [
+                "NYU_4021",
+                "New York",
+                "Yes",
+                "Yes",
+                "2",
+                "Verified",
+                "06/15/2023"
+            ],
+            [
+                "NYC_7732",
+                "New Jersey",
+                "No",
+                "Yes",
+                "1",
+                "Pending",
+                "N/A"
+            ],
+            [
+                "BRK_1109",
+                "Brooklyn",
+                "Yes",
+                "No",
+                "1",
+                "Inactive",
+                "3/22/2024"
+            ],
+            [
+                "QUE_8841",
+                "Queens",
+                "Yes",
+                "Yes",
+                "4",
+                "Verified",
+                "8/10/2023"
+            ],
+            [
+                "STO_3392",
+                "Staten Island",
+                "No",
+                "No",
+                "5",
+                "Suspended",
+                "9/01/2021"
+            ],
+            [
+                "MANH_5510",
+                "Manhattan",
+                "Yes",
+                "Yes",
+                "6",
+                "Active",
+                "7/12/2019"
+            ]
+        ]
+    }
+}

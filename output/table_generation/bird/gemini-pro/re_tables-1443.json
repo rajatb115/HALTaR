@@ -1,0 +1,52 @@
+{
+    "table-1443-1443": {
+        "title": [
+            "Event Type",
+            "Number of Events",
+            "Number Over Budget",
+            "Percentage Over Budget"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Event Budget Overruns",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of the events that went over budget?",
+        "data": [
+            [
+                "Conference",
+                "150",
+                "30",
+                "20%"
+            ],
+            [
+                "Workshop",
+                "200",
+                "20",
+                "10%"
+            ],
+            [
+                "Trade Show",
+                "100",
+                "25",
+                "25%"
+            ],
+            [
+                "Seminar",
+                "120",
+                "12",
+                "10%"
+            ],
+            [
+                "Webinar",
+                "80",
+                "4",
+                "5%"
+            ]
+        ]
+    }
+}

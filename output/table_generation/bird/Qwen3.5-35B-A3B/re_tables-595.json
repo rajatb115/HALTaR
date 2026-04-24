@@ -1,0 +1,48 @@
+{
+    "table-595-595": {
+        "title": [
+            "Post_ID",
+            "User_Name",
+            "Reputation_Score",
+            "Account_Status",
+            "Join_Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user created post ID 1 and what is the reputation of this user?",
+        "data": [
+            [
+                "1",
+                "Alice_Explorer",
+                "450",
+                "Active",
+                "06/15/2019"
+            ],
+            [
+                "1",
+                "Bob_Coder",
+                "320",
+                "Inactive",
+                "07/22/2021"
+            ],
+            [
+                "2",
+                "Charlie_Dev",
+                "890",
+                "Suspended",
+                "09/10/2023"
+            ],
+            [
+                "3",
+                "Diana_Analyst",
+                "55",
+                "New_User",
+                "06/25/2019"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-273-273": {
+        "title": [
+            "Ranking Date",
+            "Total Tours"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Tour Count by Ranking Date",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the total number of tours for each ranking date.",
+        "data": [
+            [
+                "2023-01-15",
+                "120"
+            ],
+            [
+                "2023-01-22",
+                "150"
+            ],
+            [
+                "2023-01-29",
+                "135"
+            ],
+            [
+                "2023-02-05",
+                "160"
+            ],
+            [
+                "2023-02-12",
+                "145"
+            ]
+        ]
+    }
+}

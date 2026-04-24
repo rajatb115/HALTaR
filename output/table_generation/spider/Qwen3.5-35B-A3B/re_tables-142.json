@@ -1,0 +1,85 @@
+{
+    "table-142-142": {
+        "title": [
+            "Airport Code",
+            "City",
+            "Country",
+            "Status",
+            "Last Flight Date",
+            "Reason for Inactivity"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name of airports which do not have any flight in and out.",
+        "data": [
+            [
+                "KJFK",
+                "New York",
+                "USA",
+                "Active",
+                "N/A",
+                "Operational Hub"
+            ],
+            [
+                "PAFA",
+                "Nome",
+                "Alaska",
+                "Closed",
+                "04/12/1976",
+                "Runway Erosion"
+            ],
+            [
+                "YKZT",
+                "Toronto",
+                "Canada",
+                "Suspended",
+                "30/06/2023",
+                "Seasonal Closure"
+            ],
+            [
+                "VHHH",
+                "Hong Kong",
+                "China",
+                "Active",
+                "N/A",
+                "Commercial Traffic"
+            ],
+            [
+                "UBBP",
+                "Beijing",
+                "China",
+                "Active",
+                "",
+                "Major International Gateway"
+            ],
+            [
+                "NZAA",
+                "Auckland",
+                "New Zealand",
+                "Active",
+                "",
+                "Primary Entry Point"
+            ],
+            [
+                "LFPG",
+                "Paris",
+                "France",
+                "Active",
+                "",
+                "High Volume Terminal"
+            ],
+            [
+                "EGLL",
+                "London",
+                "United Kingdom",
+                "Active",
+                "",
+                "Global Transit Center"
+            ]
+        ]
+    }
+}

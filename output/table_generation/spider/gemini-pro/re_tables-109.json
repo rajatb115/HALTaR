@@ -1,0 +1,37 @@
+{
+    "table-109-109": {
+        "title": [
+            "Airline Name",
+            "Country of Affiliation"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Airline Affiliations by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What country is Jetblue Airways affiliated with?",
+        "data": [
+            [
+                "Jetblue Airways",
+                "United States"
+            ],
+            [
+                "Air Canada",
+                "Canada"
+            ],
+            [
+                "British Airways",
+                "United Kingdom"
+            ],
+            [
+                "Lufthansa",
+                "Germany"
+            ],
+            [
+                "Qantas",
+                "Australia"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-22-22": {
+        "title": [
+            "Singer Name",
+            "Concert Title",
+            "Date",
+            "Venue",
+            "City"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all singer names in concerts in year 2014.",
+        "data": [
+            [
+                "Taylor Swift",
+                "The Red Tour",
+                "2014-03-19",
+                "O2 Arena",
+                "London"
+            ],
+            [
+                "Ed Sheeran",
+                "X Tour",
+                "2014-08-14",
+                "Madison Square Garden",
+                "New York"
+            ],
+            [
+                "Beyonc\u00e9",
+                "The Mrs. Carter Show World Tour",
+                "2014-02-24",
+                "Ziggo Dome",
+                "Amsterdam"
+            ],
+            [
+                "Bruno Mars",
+                "The Moonshine Jungle Tour",
+                "2014-06-10",
+                "Staples Center",
+                "Los Angeles"
+            ],
+            [
+                "Katy Perry",
+                "Prismatic World Tour",
+                "2014-09-27",
+                "Rod Laver Arena",
+                "Melbourne"
+            ],
+            [
+                "Coldplay",
+                "Ghost Stories Tour",
+                "2014-07-01",
+                "Royal Albert Hall",
+                "London"
+            ],
+            [
+                "Lady Gaga",
+                "ArtRave: The Artpop Ball",
+                "2014-05-06",
+                "Bell Centre",
+                "Montreal"
+            ]
+        ]
+    }
+}

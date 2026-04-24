@@ -1,0 +1,62 @@
+{
+    "table-194-194": {
+        "title": [
+            "Template Type Code",
+            "Template Type Description",
+            "Category",
+            "Status",
+            "Last Updated Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the template type descriptions for template type code \"AD\".",
+        "data": [
+            [
+                "AD",
+                "Advertisement Display Template",
+                "Marketing",
+                "Active",
+                "2024-03-15"
+            ],
+            [
+                "AN",
+                "Announcement Notification Template",
+                "Communication",
+                "Active",
+                "2023-11-01"
+            ],
+            [
+                "AR",
+                "Article Content Template",
+                "Content",
+                "Active",
+                "2024-01-20"
+            ],
+            [
+                "AS",
+                "Asset Management Template",
+                "System",
+                "Deprecated",
+                "2022-09-10"
+            ],
+            [
+                "AC",
+                "Account Creation Template",
+                "User Management",
+                "Active",
+                "2023-12-05"
+            ],
+            [
+                "AF",
+                "Affiliate Program Template",
+                "Marketing",
+                "Draft",
+                "2024-02-28"
+            ]
+        ]
+    }
+}

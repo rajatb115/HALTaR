@@ -1,0 +1,85 @@
+{
+    "table-458-458": {
+        "title": [
+            "Territory",
+            "Mean_GNP_USD_Billions",
+            "Total_Population",
+            "Region",
+            "Status",
+            "Data_Year",
+            "Source_Agency"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the mean GNP and total population of nations which are considered US territory.",
+        "data": [
+            [
+                "Puerto Rico",
+                "76.4",
+                "3286000",
+                "Caribbean",
+                "Unincorporated Territory",
+                "4",
+                "U.S. Census Bureau"
+            ],
+            [
+                "U.S. Virgin Islands",
+                "5.2",
+                "87009",
+                "Caribbean",
+                "Unincorporated Territory",
+                "4",
+                "U.S. Census Bureau"
+            ],
+            [
+                "Guam",
+                "6.1",
+                "9218",
+                "Pacific",
+                "Incorporated Territory",
+                "4",
+                "Office of Insular Affairs"
+            ],
+            [
+                "Northern Mariana Islands",
+                "1.8",
+                "47329",
+                "Pacific",
+                "Commonwealth in Political Union",
+                "4",
+                "American Community Survey"
+            ],
+            [
+                "American Samoa",
+                "0.9",
+                "49710",
+                "Pacific",
+                "Unorganized Territory",
+                "4",
+                "National Center for Health Statistics"
+            ],
+            [
+                "Wake Island",
+                "N/A",
+                "0",
+                "Pacific",
+                "Uninhabited Atoll",
+                "4",
+                "Department of the Interior"
+            ],
+            [
+                "Johnston Atoll",
+                "N/A",
+                "0",
+                "Pacific",
+                "Former Military Base",
+                "4",
+                "Environmental Protection Agency"
+            ]
+        ]
+    }
+}

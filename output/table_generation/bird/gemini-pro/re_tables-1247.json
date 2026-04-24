@@ -1,0 +1,45 @@
+{
+    "table-1247-1247": {
+        "title": [
+            "Patient ID",
+            "aPTT Result",
+            "Thrombosis Severity"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Thrombosis Cases and aPTT Results",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients with an abnormal activated partial prothrom bin time, how many of them have a mild thrombosis?",
+        "data": [
+            [
+                "12345",
+                "Abnormal",
+                "Mild"
+            ],
+            [
+                "67890",
+                "Abnormal",
+                "Severe"
+            ],
+            [
+                "24680",
+                "Normal",
+                "Mild"
+            ],
+            [
+                "13579",
+                "Abnormal",
+                "Mild"
+            ],
+            [
+                "98765",
+                "Normal",
+                "None"
+            ]
+        ]
+    }
+}

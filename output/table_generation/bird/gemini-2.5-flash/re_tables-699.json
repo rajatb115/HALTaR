@@ -1,0 +1,62 @@
+{
+    "table-699-699": {
+        "title": [
+            "Post Title",
+            "Post ID",
+            "Total Comments",
+            "Total Answers",
+            "Last Activity Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many comments and answers were left by the users on the post with the title 'Clustering 1D data'?",
+        "data": [
+            [
+                "Clustering 1D data",
+                "101",
+                "15",
+                "3",
+                "2023-10-26"
+            ],
+            [
+                "K-Means for 2D data",
+                "102",
+                "8",
+                "2",
+                "2023-09-15"
+            ],
+            [
+                "Hierarchical Clustering Explained",
+                "103",
+                "22",
+                "5",
+                "2023-11-01"
+            ],
+            [
+                "DBSCAN on Spatial Data",
+                "104",
+                "10",
+                "1",
+                "2023-08-20"
+            ],
+            [
+                "Evaluating Clustering Performance",
+                "105",
+                "18",
+                "4",
+                "2023-10-10"
+            ],
+            [
+                "Gaussian Mixture Models",
+                "106",
+                "7",
+                "2",
+                "2023-09-28"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-638-638": {
+        "title": [
+            "Singer_Name",
+            "Citizenship",
+            "Genre",
+            "Active_Year_Start",
+            "Album_Count",
+            "Awards_Won",
+            "Record_Label"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of singers whose citizenship is not \"France\".",
+        "data": [
+            [
+                "Adele Smith",
+                "United Kingdom",
+                "Pop Soul",
+                "47",
+                "6",
+                "32",
+                "Columbia Records"
+            ],
+            [
+                "Mario Rossi",
+                "Italy",
+                "Opera Classical",
+                "52",
+                "8",
+                "0",
+                "Decca Classics"
+            ],
+            [
+                "Raj Patel",
+                "India",
+                "Bollywood Fusion",
+                "9",
+                "7",
+                "N/A",
+                "T-Series Music"
+            ],
+            [
+                "Canada",
+                "Folk Rock",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Chloe Dubois",
+                "Switzerland",
+                "Jazz Vocalist",
+                "/",
+                "",
+                "Sony Music",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-22-22": {
+        "title": [
+            "School Name",
+            "District",
+            "K-12 Enrollment",
+            "Free Meals Count",
+            "Free/Reduced Meals Count",
+            "Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In Los Angeles how many schools have more than 500 free meals but less than 700 free or reduced price meals for K-12?",
+        "data": [
+            [
+                "Lincoln High School",
+                "LAUSD",
+                "1250",
+                "580",
+                "680",
+                "2023"
+            ],
+            [
+                "Roosevelt Middle School",
+                "LAUSD",
+                "980",
+                "490",
+                "610",
+                "2023"
+            ],
+            [
+                "Jefferson Elementary",
+                "LAUSD",
+                "720",
+                "510",
+                "690",
+                "2023"
+            ],
+            [
+                "Washington Prep High",
+                "LAUSD",
+                "1400",
+                "620",
+                "750",
+                "2023"
+            ],
+            [
+                "King Elementary School",
+                "LAUSD",
+                "850",
+                "550",
+                "640",
+                "2023"
+            ],
+            [
+                "Grant High School",
+                "LAUSD",
+                "1600",
+                "710",
+                "820",
+                "2023"
+            ],
+            [
+                "Adams Middle School",
+                "LAUSD",
+                "1100",
+                "530",
+                "670",
+                "2023"
+            ]
+        ]
+    }
+}

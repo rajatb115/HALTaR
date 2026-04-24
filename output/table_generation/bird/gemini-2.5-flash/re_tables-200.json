@@ -1,0 +1,69 @@
+{
+    "table-200-200": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Sodium Atoms",
+            "Carcinogenic Status",
+            "Primary Use"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the molecule containing sodium atoms, how many are non-carcinogenic?",
+        "data": [
+            [
+                "Sodium Chloride",
+                "NaCl",
+                "1",
+                "No",
+                "Food Seasoning"
+            ],
+            [
+                "Sodium Bicarbonate",
+                "NaHCO3",
+                "1",
+                "No",
+                "Leavening Agent"
+            ],
+            [
+                "Sodium Hydroxide",
+                "NaOH",
+                "1",
+                "No",
+                "Industrial Cleaner"
+            ],
+            [
+                "Sodium Benzoate",
+                "C7H5NaO2",
+                "1",
+                "No",
+                "Food Preservative"
+            ],
+            [
+                "Sodium Nitrite",
+                "NaNO2",
+                "1",
+                "No",
+                "Meat Curing"
+            ],
+            [
+                "Sodium Fluoride",
+                "NaF",
+                "1",
+                "No",
+                "Dental Health"
+            ],
+            [
+                "Sodium Thiosulfate",
+                "Na2S2O3",
+                "2",
+                "No",
+                "Antidote"
+            ]
+        ]
+    }
+}

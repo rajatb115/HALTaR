@@ -1,0 +1,85 @@
+{
+    "table-540-540": {
+        "title": [
+            "Conductor Name",
+            "Total Years Worked",
+            "Primary Orchestra",
+            "Nationality",
+            "Debut Year",
+            "Retirement Status",
+            "Awards Count"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of the conductor with the most years of work.",
+        "data": [
+            [
+                "Herbert von Karajan",
+                "64",
+                "Berlin Philharmonic",
+                "Austrian",
+                "Retired",
+                "7",
+                ""
+            ],
+            [
+                "Leonard Bernstein",
+                "58",
+                "New York Philharmony",
+                "American",
+                "Retied",
+                "9",
+                ""
+            ],
+            [
+                "Carlos Kleiber",
+                "42",
+                "Vienna State Opera",
+                "German-Austrian",
+                "Retried",
+                "3",
+                ""
+            ],
+            [
+                "Valery Gergiev",
+                "0",
+                "Mariinsky Theatre",
+                "Russian",
+                "Active",
+                "8",
+                ""
+            ],
+            [
+                "Marin Alsop",
+                "-",
+                "Baltimore Symphony",
+                "Romanian-American",
+                "Active",
+                "2",
+                ""
+            ],
+            [
+                "Sir Simon Rattle",
+                "--",
+                "London Symphony",
+                "British",
+                "Active",
+                "",
+                ""
+            ],
+            [
+                "Claudio Abbado",
+                "\u2013",
+                "La Scala",
+                "Italian",
+                "Retire",
+                ".",
+                ""
+            ]
+        ]
+    }
+}

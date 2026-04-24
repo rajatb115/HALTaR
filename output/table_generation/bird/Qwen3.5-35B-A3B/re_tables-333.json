@@ -1,0 +1,77 @@
+{
+    "table-333-333": {
+        "title": [
+            "Molecule ID",
+            "Bond Count",
+            "Single Bonds",
+            "Double Bonds",
+            "Triple Bonds",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the molecules between TR004 to TR010, how many of them has single bonds?",
+        "data": [
+            [
+                "TR006",
+                "12",
+                "10",
+                "2",
+                "0",
+                "Validated"
+            ],
+            [
+                "/TR007",
+                "15",
+                "13",
+                "2",
+                "null",
+                "Pending"
+            ],
+            [
+                "TR011",
+                "18",
+                "16",
+                "2null",
+                "Active",
+                ""
+            ],
+            [
+                "/",
+                "TR120",
+                "14",
+                "11null",
+                "2Null",
+                "Inactive"
+            ],
+            [
+                "//",
+                "TR999",
+                "19",
+                "null",
+                "17",
+                "Error"
+            ],
+            [
+                "///",
+                "TRABC",
+                "1",
+                "0null",
+                "0Invalid",
+                ""
+            ],
+            [
+                "////",
+                "TRDEF",
+                "20null",
+                "null",
+                "1nullFailed",
+                ""
+            ]
+        ]
+    }
+}

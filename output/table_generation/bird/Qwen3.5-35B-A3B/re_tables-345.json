@@ -1,0 +1,37 @@
+{
+    "table-345-345": {
+        "title": [
+            "Card Name",
+            "Set Origin",
+            "Print Rarity",
+            "Format Status",
+            "Ban Date",
+            "Reason for Ban"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the mythic rarity print cards banned in gladiator format.",
+        "data": [
+            [
+                "Black Lotus",
+                "Alpha",
+                "Mythic Rare",
+                "Gladiator",
+                "N/A",
+                "Power Level Concerns"
+            ],
+            [
+                "Mox Diamond",
+                "M14",
+                "Mythical Rare",
+                "Restricted",
+                "N/A",
+                "High Consistency Impact"
+            ]
+        ]
+    }
+}

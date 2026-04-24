@@ -1,0 +1,29 @@
+{
+    "table-70-70": {
+        "title": [
+            "NCES ID",
+            "District ID",
+            "School Name",
+            "Ownership Category",
+            "State",
+            "Enrollment"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide the National Center for Educational Statistics school district identification number for all schools with a School Ownership Code that are part of the State Special Schools.",
+        "data": [
+            [
+                "4706000",
+                "480020",
+                "Alabama Institute for Deaf & Blind",
+                "State Special School",
+                "AL",
+                "350"
+            ]
+        ]
+    }
+}

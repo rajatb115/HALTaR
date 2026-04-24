@@ -1,0 +1,45 @@
+{
+    "table-710-710": {
+        "title": [
+            "Comment Score",
+            "View Count Range",
+            "Number of Posts"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Posts with Low Views and Zero Score Comments",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In comments with 0 score, how many of the posts have view count lower than 5?",
+        "data": [
+            [
+                "0",
+                "< 5",
+                "[Value]"
+            ],
+            [
+                "0",
+                "5-10",
+                "[Value]"
+            ],
+            [
+                "0",
+                "10-20",
+                "[Value]"
+            ],
+            [
+                "0",
+                "20-50",
+                "[Value]"
+            ],
+            [
+                "0",
+                "> 50",
+                "[Value]"
+            ]
+        ]
+    }
+}

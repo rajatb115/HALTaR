@@ -1,0 +1,69 @@
+{
+    "table-1149-1149": {
+        "title": [
+            "Player ID",
+            "Height (cm)",
+            "Strength (Overall)",
+            "Position",
+            "Age"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of players that are under 180 cm who have an overall strength of more than 70?",
+        "data": [
+            [
+                "P101",
+                "175",
+                "78",
+                "Midfielder",
+                "22"
+            ],
+            [
+                "P102",
+                "182",
+                "65",
+                "Defender",
+                "25"
+            ],
+            [
+                "P103",
+                "170",
+                "85",
+                "Forward",
+                "19"
+            ],
+            [
+                "P104",
+                "178",
+                "72",
+                "Goalkeeper",
+                "30"
+            ],
+            [
+                "P105",
+                "185",
+                "75",
+                "Midfielder",
+                "28"
+            ],
+            [
+                "P106",
+                "168",
+                "68",
+                "Forward",
+                "20"
+            ],
+            [
+                "P107",
+                "173",
+                "80",
+                "Defender",
+                "23"
+            ]
+        ]
+    }
+}

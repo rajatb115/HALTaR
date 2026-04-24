@@ -1,0 +1,45 @@
+{
+    "table-767-767": {
+        "title": [
+            "Hero Name",
+            "Full Name",
+            "Strength"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Hero Strength Attributes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the hero's full name with the highest attribute in strength?",
+        "data": [
+            [
+                "Hulk",
+                "Robert Bruce Banner",
+                "200"
+            ],
+            [
+                "Thor",
+                "Thor Odinson",
+                "180"
+            ],
+            [
+                "Hercules",
+                "Hercules",
+                "170"
+            ],
+            [
+                "Superman",
+                "Kal-El",
+                "150"
+            ],
+            [
+                "Colossus",
+                "Piotr Rasputin",
+                "130"
+            ]
+        ]
+    }
+}

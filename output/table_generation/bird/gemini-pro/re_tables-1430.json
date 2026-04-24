@@ -1,0 +1,43 @@
+{
+    "table-1430-1430": {
+        "title": [
+            "Event Name",
+            "Location",
+            "Attendee"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Student Club Social Events",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of the social event that was attended by the vice president of the Student_Club located at 900 E. Washington St.?",
+        "data": [
+            [
+                "Fall Mixer",
+                "900 E. Washington St.",
+                "Vice President"
+            ],
+            [
+                "Spring Fling",
+                "123 Main St.",
+                "President"
+            ],
+            [
+                "Winter Gala",
+                "456 Oak Ave.",
+                "Treasurer"
+            ],
+            [
+                "Summer BBQ",
+                "789 Pine Ln.",
+                "Secretary"
+            ],
+            [
+                "Alumni Reunion",
+                "900 E. Washington St.",
+                "Various Alumni"
+            ]
+        ]
+    }
+}

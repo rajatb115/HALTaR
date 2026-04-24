@@ -1,0 +1,55 @@
+{
+    "table-1323-1323": {
+        "title": [
+            "Event Name",
+            "Event Type",
+            "Date",
+            "Student Club Members Attended"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the events attended by more than 10 members of the Student_Club, how many of them are meetings?",
+        "data": [
+            [
+                "Annual General Meeting",
+                "Meeting",
+                "2023-10-15",
+                "25"
+            ],
+            [
+                "Monthly Board Meeting",
+                "Meeting",
+                "2023-11-01",
+                "12"
+            ],
+            [
+                "Career Fair Prep Session",
+                "Workshop",
+                "2023-10-20",
+                "8"
+            ],
+            [
+                "Fall Social Mixer",
+                "Social Event",
+                "2023-09-28",
+                "35"
+            ],
+            [
+                "Budget Planning Meeting",
+                "Meeting",
+                "2023-11-10",
+                "18"
+            ],
+            [
+                "New Member Welcome",
+                "Orientation",
+                "2023-09-05",
+                "10"
+            ]
+        ]
+    }
+}

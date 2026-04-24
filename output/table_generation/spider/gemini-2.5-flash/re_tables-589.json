@@ -1,0 +1,61 @@
+{
+    "table-589-589": {
+        "title": [
+            "First Name",
+            "Last Name",
+            "Treatment",
+            "Cost ($)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which professionals have operated a treatment that costs less than the average? Give me theor first names and last names.",
+        "data": [
+            [
+                "John",
+                "Doe",
+                "Physical Therapy",
+                "150"
+            ],
+            [
+                "Jane",
+                "Smith",
+                "Chiropractic Adjustment",
+                "120"
+            ],
+            [
+                "Robert",
+                "Johnson",
+                "Acupuncture",
+                "180"
+            ],
+            [
+                "Emily",
+                "White",
+                "Massage Therapy",
+                "95"
+            ],
+            [
+                "Michael",
+                "Brown",
+                "Nutritional Counseling",
+                "250"
+            ],
+            [
+                "Sarah",
+                "Davis",
+                "Speech Therapy",
+                "300"
+            ],
+            [
+                "David",
+                "Green",
+                "Occupational Therapy",
+                "220"
+            ]
+        ]
+    }
+}

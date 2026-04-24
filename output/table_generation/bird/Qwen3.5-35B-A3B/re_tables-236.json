@@ -1,0 +1,69 @@
+{
+    "table-236-236": {
+        "title": [
+            "Molecule ID",
+            "Name",
+            "Element Count",
+            "Carcinogenic Status",
+            "Source",
+            "CAS Number"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many molecules are carcinogenic and have the bromine element?",
+        "data": [
+            [
+                "MOL-BR-004",
+                "Bromobenzene",
+                "1",
+                "Yes",
+                "Industrial Solvent",
+                "108-86-1"
+            ],
+            [
+                "MOL-BRB-012",
+                "Dibromoethane",
+                "2",
+                "Suspected",
+                "Pesticide Intermediate",
+                "179-44-8"
+            ],
+            [
+                "mol-brb-023",
+                "Tribromomethane (Bromoform)",
+                "3",
+                "Confirmed",
+                "Water Disinfection Byproduct",
+                "75-25-0"
+            ],
+            [
+                "min-bra-055",
+                "Benzyl Bromide",
+                "1",
+                "Rat Carcinogen",
+                "Laboratory Reagent",
+                "140-18-3"
+            ],
+            [
+                "int-bro-089",
+                "Ethylene Dibromide",
+                "2",
+                "Mammalian Toxin",
+                "Fumigant Agent",
+                "110-95-6"
+            ],
+            [
+                "xen-bri-102",
+                "Hexabromocyclododecane",
+                "6",
+                "Probable Human Carcinogen",
+                "Flame Retardant",
+                "25637-99-8"
+            ]
+        ]
+    }
+}

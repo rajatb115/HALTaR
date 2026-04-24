@@ -1,0 +1,43 @@
+{
+    "table-244-244": {
+        "title": [
+            "Compound",
+            "Formula",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Phosphorus-Nitrogen Compounds",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the bonds that have phosphorus and nitrogen as their atom elements?",
+        "data": [
+            [
+                "Phosphazenes",
+                "(NPCl2)n",
+                "Cyclic or polymeric compounds with alternating phosphorus and nitrogen atoms."
+            ],
+            [
+                "Phosphoramidates",
+                "R2N-PO(OR')2",
+                "Derivatives of phosphoric acid with a nitrogen atom directly bonded to the phosphorus."
+            ],
+            [
+                "Phosphorus Nitrides",
+                "P3N5",
+                "Solid-state compounds with varying stoichiometries."
+            ],
+            [
+                "Thiophosphoramides",
+                "R2N-PS(OR')2",
+                "Similar to phosphoramidates, but with sulfur replacing oxygen."
+            ],
+            [
+                "PN Adducts",
+                "R3P=NR'",
+                "Compounds formed by the reaction of phosphines with azides or imines."
+            ]
+        ]
+    }
+}

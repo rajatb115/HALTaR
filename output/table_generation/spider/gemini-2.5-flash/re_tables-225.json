@@ -1,0 +1,69 @@
+{
+    "table-225-225": {
+        "title": [
+            "Instructor Name",
+            "Department",
+            "Course Taught",
+            "Specialization",
+            "Years of Experience"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the people who teach math courses?",
+        "data": [
+            [
+                "Dr. Eleanor Vance",
+                "Mathematics",
+                "Calculus I",
+                "Differential Equations",
+                "18"
+            ],
+            [
+                "Prof. Marcus Thorne",
+                "Mathematics",
+                "Linear Algebra",
+                "Abstract Algebra",
+                "12"
+            ],
+            [
+                "Dr. Sophia Ramirez",
+                "Applied Math",
+                "Statistics for Data Science",
+                "Probability Theory",
+                "9"
+            ],
+            [
+                "Prof. Benjamin Carter",
+                "Mathematics",
+                "Discrete Mathematics",
+                "Combinatorics",
+                "25"
+            ],
+            [
+                "Dr. Olivia Kim",
+                "Mathematics Education",
+                "Geometry for Teachers",
+                "K-12 Pedagogy",
+                "7"
+            ],
+            [
+                "Prof. Daniel Hughes",
+                "Mathematics",
+                "Real Analysis",
+                "Functional Analysis",
+                "20"
+            ],
+            [
+                "Dr. Chloe Adams",
+                "Mathematics",
+                "Pre-Calculus",
+                "Trigonometry",
+                "5"
+            ]
+        ]
+    }
+}

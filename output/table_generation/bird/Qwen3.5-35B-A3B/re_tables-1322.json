@@ -1,0 +1,85 @@
+{
+    "table-1322-1322": {
+        "title": [
+            "Event ID",
+            "Club Name",
+            "Attendee Name",
+            "Date Attended",
+            "Attendance Count",
+            "Status",
+            "Location"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many events of the Student_Club did Sacha Harrison attend in 2019?",
+        "data": [
+            [
+                "EVT_2045",
+                "Student_Clubs",
+                "Sacha_Harrison",
+                "03/15/2020",
+                "76",
+                "Confirmed",
+                "Main Hall"
+            ],
+            [
+                "EVE_2102",
+                "Science_Society",
+                "Sach_a_Harrison",
+                "04/22/219",
+                "45 Pending",
+                "Lab Room",
+                ""
+            ],
+            [
+                "EVX_3301",
+                "Arts_Forum",
+                "S.Harrison",
+                "05/10/2919",
+                "120",
+                "Absent",
+                "Auditorium"
+            ],
+            [
+                "ETC_4402",
+                "Debate_Team",
+                "Sacha H.",
+                "06/05",
+                "209",
+                "Cancelled",
+                "Conference Rm"
+            ],
+            [
+                "EDU_5503",
+                "Student_Govt",
+                "Sacha Harrison",
+                "07/12/1920",
+                "",
+                "Confirmed",
+                "Library"
+            ],
+            [
+                "EFM_6604",
+                "Music_Band",
+                "Sasha Harrison",
+                "Aug 15 2119",
+                "",
+                "Pending",
+                "Stage Area"
+            ],
+            [
+                "EGG_7705",
+                "Moot_Court",
+                "Sachar Harrison",
+                "Sep 2",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

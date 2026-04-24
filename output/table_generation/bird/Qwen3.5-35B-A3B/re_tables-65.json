@@ -1,0 +1,67 @@
+{
+    "table-65-65": {
+        "title": [
+            "School ID",
+            "Charter Number",
+            "Mailing City",
+            "State",
+            "Total Enrollment",
+            "Status",
+            "Last Updated"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total number of schools with a mailing city in Hickman belonging to the charter number 00D4?",
+        "data": [
+            [
+                "SCH-0004",
+                "0D04A",
+                "Hickman",
+                "NE",
+                "450",
+                "Active",
+                "6/15/2023"
+            ],
+            [
+                "SCH-D4B2",
+                "D4-B2C",
+                "Hickmann",
+                "N/A",
+                "",
+                "Inactive",
+                "3/10/2022"
+            ],
+            [
+                "CHRT-HK01",
+                "0DD4X",
+                "Hickam",
+                "HI",
+                "780",
+                "Pending",
+                "8/21/2023"
+            ],
+            [
+                "EDU-NY09",
+                "9NY0Z",
+                "New York",
+                "NY",
+                "520",
+                "Closed",
+                "Jan 22, 2019"
+            ],
+            [
+                "SCHO-KS12",
+                "KS-12M",
+                "Kansas City",
+                "MO",
+                "310",
+                "Suspended",
+                "Feb 28, 2023"
+            ]
+        ]
+    }
+}

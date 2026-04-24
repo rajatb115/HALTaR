@@ -1,0 +1,45 @@
+{
+    "table-814-814": {
+        "title": [
+            "Superhero",
+            "Alignment",
+            "Attribute Value"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Superhero Attribute Averages by Alignment",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average attribute value of all neutral superheroes.",
+        "data": [
+            [
+                "Hero A",
+                "Neutral",
+                "75"
+            ],
+            [
+                "Hero B",
+                "Good",
+                "90"
+            ],
+            [
+                "Hero C",
+                "Neutral",
+                "82"
+            ],
+            [
+                "Hero D",
+                "Evil",
+                "68"
+            ],
+            [
+                "Hero E",
+                "Neutral",
+                "78"
+            ]
+        ]
+    }
+}

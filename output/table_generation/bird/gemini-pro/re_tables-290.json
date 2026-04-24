@@ -1,0 +1,49 @@
+{
+    "table-290-290": {
+        "title": [
+            "Molecule",
+            "Carcinogenicity",
+            "Study Type",
+            "Result"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenicity Information of Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Is molecule TR151 carcinogenic?",
+        "data": [
+            [
+                "TR151",
+                "Suspected",
+                "In-vitro",
+                "Positive"
+            ],
+            [
+                "TR151",
+                "No evidence",
+                "In-vivo",
+                "Negative"
+            ],
+            [
+                "TR150",
+                "No evidence",
+                "In-vitro",
+                "Negative"
+            ],
+            [
+                "TR152",
+                "Confirmed",
+                "In-vivo",
+                "Positive"
+            ],
+            [
+                "TR153",
+                "Suspected",
+                "Epidemiological",
+                "Positive"
+            ]
+        ]
+    }
+}

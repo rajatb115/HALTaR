@@ -1,0 +1,39 @@
+{
+    "table-1510-1510": {
+        "title": [
+            "Transaction Date",
+            "Number of Transactions"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Transactions in Czech Republic Gas Stations After 2012-01-01",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the transactions made in the gas stations in the Czech Republic, how many of them are taken place after 2012/1/1?",
+        "data": [
+            [
+                "2012-01-02",
+                "125"
+            ],
+            [
+                "2012-01-03",
+                "132"
+            ],
+            [
+                "2012-01-04",
+                "148"
+            ],
+            [
+                "2012-01-05",
+                "151"
+            ],
+            [
+                "2012-01-06",
+                "163"
+            ]
+        ]
+    }
+}

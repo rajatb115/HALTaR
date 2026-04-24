@@ -1,0 +1,76 @@
+{
+    "table-137-137": {
+        "title": [
+            "Flight Number",
+            "Origin Airport",
+            "Destination",
+            "Scheduled Arrival Time",
+            "Status",
+            "Airline Code",
+            "Aircraft Model"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the flight numbers of flights landing at APG.",
+        "data": [
+            [
+                "FL402",
+                "JFK",
+                "APG",
+                "08:15 AM",
+                "On Time",
+                "AA",
+                "Boeing 737"
+            ],
+            [
+                "DL889",
+                "LAX",
+                "APH",
+                "9:30 PM",
+                "Delayed",
+                "DL",
+                "Airbus A320"
+            ],
+            [
+                "UA112",
+                "ORD",
+                "APA",
+                "6:45 PM",
+                "Cancelled",
+                "UA",
+                "Embraer E175"
+            ],
+            [
+                "SW334",
+                "DEN",
+                "APF",
+                "4:20 PM",
+                "Boarding",
+                "SW",
+                "Boeing MAX 8"
+            ],
+            [
+                "AS556",
+                "SEA",
+                "PDX",
+                "7:10 PM",
+                "Active",
+                "AS",
+                "Bombardier CRJ"
+            ],
+            [
+                "JB221",
+                "BOS",
+                "PVD",
+                "5:55 PM",
+                "Departure",
+                "JB",
+                "Dash 8 Q400"
+            ]
+        ]
+    }
+}

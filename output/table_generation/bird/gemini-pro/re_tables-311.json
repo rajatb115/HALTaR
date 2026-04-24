@@ -1,0 +1,43 @@
+{
+    "table-311-311": {
+        "title": [
+            "Molecule",
+            "Bond Type",
+            "Carcinogenic"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Molecules with Double Bonds and Carcinogenicity",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many molecules have a double bond type and among these molecule, how many are labeled as carcinogenic compound?",
+        "data": [
+            [
+                "Benzene",
+                "Double",
+                "Yes"
+            ],
+            [
+                "Formaldehyde",
+                "Double",
+                "Yes"
+            ],
+            [
+                "Ethylene",
+                "Double",
+                "No"
+            ],
+            [
+                "Acrylamide",
+                "Double",
+                "Yes"
+            ],
+            [
+                "Butadiene",
+                "Double",
+                "Yes"
+            ]
+        ]
+    }
+}

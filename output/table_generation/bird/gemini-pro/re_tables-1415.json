@@ -1,0 +1,37 @@
+{
+    "table-1415-1415": {
+        "title": [
+            "Student Name",
+            "Major"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Student Major Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the name of major that Phillip Cullen has joined.",
+        "data": [
+            [
+                "Phillip Cullen",
+                "Computer Science"
+            ],
+            [
+                "Alice Smith",
+                "Biology"
+            ],
+            [
+                "Bob Johnson",
+                "Engineering"
+            ],
+            [
+                "Emily Davis",
+                "Psychology"
+            ],
+            [
+                "David Brown",
+                "History"
+            ]
+        ]
+    }
+}

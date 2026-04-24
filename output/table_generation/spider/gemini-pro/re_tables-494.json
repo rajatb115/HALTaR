@@ -1,0 +1,43 @@
+{
+    "table-494-494": {
+        "title": [
+            "Country",
+            "Country Code",
+            "Language"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Country Codes and Languages",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the country codes of countries where people use languages other than English?",
+        "data": [
+            [
+                "Spain",
+                "ES",
+                "Spanish"
+            ],
+            [
+                "France",
+                "FR",
+                "French"
+            ],
+            [
+                "Germany",
+                "DE",
+                "German"
+            ],
+            [
+                "Japan",
+                "JP",
+                "Japanese"
+            ],
+            [
+                "China",
+                "CN",
+                "Mandarin"
+            ]
+        ]
+    }
+}

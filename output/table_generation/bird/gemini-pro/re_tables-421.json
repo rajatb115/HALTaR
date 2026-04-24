@@ -1,0 +1,39 @@
+{
+    "table-421-421": {
+        "title": [
+            "Attribute",
+            "Quantity"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "TCG Card Attributes and Quantities",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards are oversized, reprinted, and printed for promotions?",
+        "data": [
+            [
+                "Oversized",
+                "150"
+            ],
+            [
+                "Reprinted",
+                "300"
+            ],
+            [
+                "Promotional",
+                "200"
+            ],
+            [
+                "Foil",
+                "500"
+            ],
+            [
+                "Full Art",
+                "400"
+            ]
+        ]
+    }
+}

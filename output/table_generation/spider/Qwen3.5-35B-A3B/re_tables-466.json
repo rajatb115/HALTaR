@@ -1,0 +1,85 @@
+{
+    "table-466-466": {
+        "title": [
+            "Nation",
+            "Primary Language",
+            "Secondary Language",
+            "Region",
+            "Population Estimate",
+            "Official Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the names of nations that speak both English and French.",
+        "data": [
+            [
+                "Canada",
+                "English",
+                "French",
+                "North America",
+                "40 million",
+                "Both official"
+            ],
+            [
+                "Belgium",
+                "Dutch",
+                "French & German",
+                "Europe",
+                "7 million",
+                "All three official"
+            ],
+            [
+                "Luxembourg",
+                "French/Luxembourgish",
+                "German/English",
+                "Western Europe",
+                "~650k",
+                "Three official languages"
+            ],
+            [
+                "Switzerland",
+                "German/French/Italian/Romansh",
+                "N/A",
+                "Central Europe",
+                ">8.7m",
+                "Four national languages"
+            ],
+            [
+                "Mauritius",
+                "Creole/Multilingual",
+                "English/French",
+                "Indian Ocean",
+                "~1.3m",
+                "No official but used widely"
+            ],
+            [
+                "Seychelles",
+                "Creolized French",
+                "English/Seychellois",
+                "Indian Ocean",
+                "~0.1M",
+                "All recognized"
+            ],
+            [
+                "Madagascar",
+                "Malagasy",
+                "French/English/European",
+                "Africa",
+                "~30m",
+                "French is administrative"
+            ],
+            [
+                "Haiti",
+                "Haitian Creole",
+                "French/Native",
+                "Caribbean",
+                "~8.5m",
+                "Both co-official"
+            ]
+        ]
+    }
+}

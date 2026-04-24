@@ -1,0 +1,77 @@
+{
+    "table-437-437": {
+        "title": [
+            "City",
+            "Country",
+            "Continent",
+            "Region",
+            "Population",
+            "Capital"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which region is the city Kabul located in?",
+        "data": [
+            [
+                "Kabul",
+                "Afghanistan",
+                "Asia",
+                "South Asia",
+                "4600000",
+                "Yes"
+            ],
+            [
+                "Islamabad",
+                "Pakistan",
+                "Asia",
+                "South Asia",
+                "1100000",
+                "Yes"
+            ],
+            [
+                "Tehran",
+                "Iran",
+                "Asia",
+                "West Asia",
+                "8800000",
+                "Yes"
+            ],
+            [
+                "New Delhi",
+                "India",
+                "Asia",
+                "South Asia",
+                "32000000",
+                "Yes"
+            ],
+            [
+                "Tashkent",
+                "Uzbekistan",
+                "Asia",
+                "Central Asia",
+                "2700000",
+                "Yes"
+            ],
+            [
+                "Dushanbe",
+                "Tajikistan",
+                "Asia",
+                "Central Asia",
+                "1200000",
+                "Yes"
+            ],
+            [
+                "Baghdad",
+                "Iraq",
+                "Asia",
+                "West Asia",
+                "8100000",
+                "Yes"
+            ]
+        ]
+    }
+}

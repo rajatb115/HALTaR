@@ -1,0 +1,55 @@
+{
+    "table-230-230": {
+        "title": [
+            "Visitor Name",
+            "Membership Level",
+            "Age",
+            "Last Visit Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name and membership level of the visitors whose membership level is higher than 4, and sort by their age from old to young.",
+        "data": [
+            [
+                "Eleanor Vance",
+                "8",
+                "72",
+                "2023-11-15"
+            ],
+            [
+                "Robert Sterling",
+                "7",
+                "68",
+                "2024-01-22"
+            ],
+            [
+                "Patricia Chen",
+                "9",
+                "55",
+                "2024-02-01"
+            ],
+            [
+                "Michael Davis",
+                "6",
+                "49",
+                "2023-12-10"
+            ],
+            [
+                "Sarah Miller",
+                "5",
+                "41",
+                "2024-01-05"
+            ],
+            [
+                "David Kim",
+                "7",
+                "36",
+                "2024-02-14"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-1376-1376": {
+        "title": [
+            "Name",
+            "Title",
+            "Email"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Department Members",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the members of the \"School of Applied Sciences, Technology and Education\" department.",
+        "data": [
+            [
+                "John Smith",
+                "Professor",
+                "john.smith@example.edu"
+            ],
+            [
+                "Alice Brown",
+                "Associate Professor",
+                "alice.brown@example.edu"
+            ],
+            [
+                "David Lee",
+                "Assistant Professor",
+                "david.lee@example.edu"
+            ],
+            [
+                "Emily Wilson",
+                "Lecturer",
+                "emily.wilson@example.edu"
+            ],
+            [
+                "Michael Garcia",
+                "Teaching Assistant",
+                "michael.garcia@example.edu"
+            ]
+        ]
+    }
+}

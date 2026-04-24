@@ -1,0 +1,52 @@
+{
+    "table-45-45": {
+        "title": [
+            "School Name",
+            "City",
+            "Number of Test Takers (SAT >= 1500)",
+            "Average Writing Score"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "SAT Scores and School Performance",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average writing score of the school who has the highest number of test takers whose total SAT sscores are greater or equal to 1500? Indicate the city to where the school is situated.",
+        "data": [
+            [
+                "School A",
+                "New York",
+                "150",
+                "680"
+            ],
+            [
+                "School B",
+                "Los Angeles",
+                "145",
+                "670"
+            ],
+            [
+                "School C",
+                "Chicago",
+                "140",
+                "690"
+            ],
+            [
+                "School D",
+                "Houston",
+                "135",
+                "660"
+            ],
+            [
+                "School E",
+                "Philadelphia",
+                "130",
+                "700"
+            ]
+        ]
+    }
+}

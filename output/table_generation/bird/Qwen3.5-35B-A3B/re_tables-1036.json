@@ -1,0 +1,112 @@
+{
+    "table-1036-1036": {
+        "title": [
+            "team_name",
+            "build_up_play_speed",
+            "league_position",
+            "market_value_millions",
+            "squad_size",
+            "avg_age",
+            "country"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 10,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the team_fifa_api_id of teams with more than 50 but less than 60 build-up play speed.",
+        "data": [
+            [
+                "Manchester City",
+                "54",
+                "3",
+                "750",
+                "42",
+                "6.2",
+                "England"
+            ],
+            [
+                "Liverpool FC",
+                "8",
+                "9",
+                "0",
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "Real Madrid",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "FC Barcelona",
+                "56",
+                "-",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Bayern Munich",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Paris Saint-Germain",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Juventus FC",
+                "52",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Chelsea FC",
+                "58",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Atletico Madrid",
+                "55",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "AC Milan",
+                "59",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

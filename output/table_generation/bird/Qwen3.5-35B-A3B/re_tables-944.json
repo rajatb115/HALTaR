@@ -1,0 +1,85 @@
+{
+    "table-944-944": {
+        "title": [
+            "Driver",
+            "Team",
+            "Laps Completed",
+            "Total Race Distance",
+            "Status",
+            "Finish Position",
+            "Points Scored"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the rate of drivers completing all the laps in the 2008 Australian Grand Prix?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "McLaren-Mercedes",
+                "57/57",
+                "306.4 km",
+                "Finished",
+                "4th",
+                "8"
+            ],
+            [
+                "Felipe Massa",
+                "Ferrari",
+                "0/58",
+                "N/A",
+                "Did Not Start",
+                "DNF",
+                "6"
+            ],
+            [
+                "Kimi R\u00e4ikk\u00f6nen",
+                "Ferrari-Lotus",
+                "7/1",
+                "9.2 km",
+                "Mechanical Failure",
+                "Retired",
+                "0.5"
+            ],
+            [
+                "Heikki Kovalainen",
+                "McLaren-Honda",
+                "0.25",
+                "0.75",
+                "Engine Failure",
+                "DQ",
+                "0.33"
+            ],
+            [
+                "Jenson Button",
+                "Honda-Bridgestone",
+                "0.67",
+                "150 km",
+                "Gearbox Issue",
+                "Retired",
+                "0"
+            ],
+            [
+                "Robert Kubica",
+                "BMW Sauber-Ferrari",
+                "1.5",
+                "180 km",
+                "Suspension Damage",
+                "Out",
+                "-"
+            ],
+            [
+                "Sebastian Vettel",
+                "Toro Rosso-Ferrari",
+                "4",
+                "220 km",
+                "Hydraulics Fail",
+                "Crash",
+                "-"
+            ]
+        ]
+    }
+}

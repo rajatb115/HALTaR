@@ -1,0 +1,76 @@
+{
+    "table-820-820": {
+        "title": [
+            "Hero Name",
+            "Eye Color",
+            "Weight (kg)",
+            "Gender",
+            "Team Affiliation"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In superheroes with missing weight data, calculate the difference between the number of superheroes with blue eyes and no eye color.",
+        "data": [
+            [
+                "Captain America",
+                "Blue",
+                "N/A",
+                "Male",
+                "Avengers"
+            ],
+            [
+                "Daredevil",
+                "N/A",
+                "N/A",
+                "Male",
+                "Defenders"
+            ],
+            [
+                "Invisible Woman",
+                "Blue",
+                "N/A",
+                "Female",
+                "Fantastic Four"
+            ],
+            [
+                "Iron Man",
+                "Blue",
+                "102",
+                "Male",
+                "Avengers"
+            ],
+            [
+                "Black Widow",
+                "Green",
+                "60",
+                "Female",
+                "Avengers"
+            ],
+            [
+                "Spider-Man",
+                "Brown",
+                "76",
+                "Male",
+                "N/A"
+            ],
+            [
+                "Mystique",
+                "Yellow",
+                "54",
+                "Female",
+                "Brotherhood of Mutants"
+            ],
+            [
+                "Hulk",
+                "Green",
+                "612",
+                "Male",
+                "Avengers"
+            ]
+        ]
+    }
+}

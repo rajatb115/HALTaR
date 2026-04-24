@@ -1,0 +1,69 @@
+{
+    "table-135-135": {
+        "title": [
+            "Flight Number",
+            "Airline",
+            "Departure Airport",
+            "Arrival Airport",
+            "Departure Time",
+            "Aircraft Type"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the flight numbers of flights leaving from APG.",
+        "data": [
+            [
+                "AA1234",
+                "American Airlines",
+                "APG",
+                "BWI",
+                "07:00",
+                "CRJ-200"
+            ],
+            [
+                "DL5678",
+                "Delta",
+                "APG",
+                "PHL",
+                "09:30",
+                "ERJ-175"
+            ],
+            [
+                "UA9012",
+                "United",
+                "APG",
+                "DCA",
+                "11:45",
+                "CRJ-700"
+            ],
+            [
+                "WN3456",
+                "Southwest",
+                "APG",
+                "EWR",
+                "14:00",
+                "B737-700"
+            ],
+            [
+                "B67890",
+                "JetBlue",
+                "APG",
+                "BOS",
+                "16:15",
+                "E190"
+            ],
+            [
+                "AS1122",
+                "Alaska Airlines",
+                "APG",
+                "ORD",
+                "18:30",
+                "A320"
+            ]
+        ]
+    }
+}

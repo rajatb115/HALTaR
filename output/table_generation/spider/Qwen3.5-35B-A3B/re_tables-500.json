@@ -1,0 +1,58 @@
+{
+    "table-500-500": {
+        "title": [
+            "City",
+            "Country",
+            "Official Language Status",
+            "Population Estimate",
+            "Region",
+            "Time Zone",
+            "GDP per Capita (USD)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which unique cities are in Asian countries where Chinese is the official language ?",
+        "data": [
+            [
+                "Shanghai",
+                "China",
+                "Primary",
+                "47M",
+                "East Asia",
+                "UTC+8",
+                "$26,000"
+            ],
+            [
+                "Beijing",
+                "China",
+                "Primary",
+                "21M",
+                "East Asia",
+                "UTC+8",
+                "$24,050"
+            ],
+            [
+                "Singapore",
+                "Singapore",
+                "Primary",
+                "5.7M",
+                "Southeast Asia",
+                "UTC+ 8",
+                "$82,794"
+            ],
+            [
+                "Macau",
+                "China",
+                "Co-official",
+                "680K",
+                "South China Sea",
+                "UTC +8",
+                "$78,040"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-182-182": {
+        "title": [
+            "Client ID",
+            "Gender",
+            "Loan Amount"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Largest Loans by Female Clients",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide the IDs of the 3 female clients with the largest loans.",
+        "data": [
+            [
+                "123",
+                "Female",
+                "$1,000,000"
+            ],
+            [
+                "456",
+                "Female",
+                "$750,000"
+            ],
+            [
+                "789",
+                "Female",
+                "$500,000"
+            ],
+            [
+                "101",
+                "Male",
+                "$400,000"
+            ],
+            [
+                "112",
+                "Female",
+                "$300,000"
+            ]
+        ]
+    }
+}

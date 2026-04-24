@@ -1,0 +1,55 @@
+{
+    "table-1035-1035": {
+        "title": [
+            "Player API ID",
+            "Overall Rating",
+            "League Average",
+            "Difference Above Avg",
+            "Season"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the players' api id who had the highest above average overall ratings in 2010.",
+        "data": [
+            [
+                "P_40291",
+                "76",
+                "68",
+                "+8",
+                "09/10"
+            ],
+            [
+                "P_51823",
+                "82",
+                "58",
+                "-24",
+                "99/00"
+            ],
+            [
+                "P_33912",
+                "",
+                "45",
+                "3",
+                ""
+            ],
+            [
+                "P_67104",
+                "",
+                "55",
+                "1",
+                ""
+            ],
+            [
+                "P_A9281",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-361-361": {
+        "title": [
+            "Episode Title",
+            "Season",
+            "Episode Number",
+            "Rating"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Episode Ratings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are all of the episodes ordered by ratings?",
+        "data": [
+            [
+                "Winter Is Coming",
+                "1",
+                "1",
+                "8.9"
+            ],
+            [
+                "The Rains of Castamere",
+                "3",
+                "9",
+                "9.9"
+            ],
+            [
+                "Battle of the Bastards",
+                "6",
+                "9",
+                "9.8"
+            ],
+            [
+                "The Winds of Winter",
+                "6",
+                "10",
+                "9.9"
+            ],
+            [
+                "The Dragon and the Wolf",
+                "7",
+                "7",
+                "9.4"
+            ]
+        ]
+    }
+}

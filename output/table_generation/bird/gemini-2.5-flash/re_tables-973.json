@@ -1,0 +1,69 @@
+{
+    "table-973-973": {
+        "title": [
+            "Driver ID",
+            "Driver Code",
+            "Driver Name",
+            "Birth Year",
+            "Fastest Lap Time",
+            "Race Name"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which drivers who were born in 1971 and has the fastest lap time on the race? Give id and code of these drivers.",
+        "data": [
+            [
+                "101",
+                "JON",
+                "John Smith",
+                "1971",
+                "1:23.456",
+                "Monaco Grand Prix"
+            ],
+            [
+                "102",
+                "PET",
+                "Peter Jones",
+                "1971",
+                "1:23.501",
+                "Silverstone Circuit"
+            ],
+            [
+                "103",
+                "MAR",
+                "Maria Garcia",
+                "1971",
+                "1:23.488",
+                "Monza Race"
+            ],
+            [
+                "104",
+                "DAV",
+                "David Lee",
+                "1971",
+                "1:23.555",
+                "Suzuka International"
+            ],
+            [
+                "105",
+                "ANA",
+                "Anna M\u00fcller",
+                "1971",
+                "1:23.470",
+                "Spa-Francorchamps"
+            ],
+            [
+                "106",
+                "ROB",
+                "Robert Kim",
+                "1971",
+                "1:23.512",
+                "Circuit of the Americas"
+            ]
+        ]
+    }
+}

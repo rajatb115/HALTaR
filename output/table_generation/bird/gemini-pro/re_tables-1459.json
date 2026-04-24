@@ -1,0 +1,52 @@
+{
+    "table-1459-1459": {
+        "title": [
+            "State",
+            "Total Population",
+            "Number of Members",
+            "Percentage of Members"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "State Membership Percentages",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the difference in the percentage of members in Maine and Vermont.",
+        "data": [
+            [
+                "Maine",
+                "1,362,359",
+                "136,236",
+                "10.00%"
+            ],
+            [
+                "Vermont",
+                "643,077",
+                "77,169",
+                "12.00%"
+            ],
+            [
+                "New Hampshire",
+                "1,377,529",
+                "68,876",
+                "5.00%"
+            ],
+            [
+                "Massachusetts",
+                "7,029,917",
+                "210,898",
+                "3.00%"
+            ],
+            [
+                "Connecticut",
+                "3,605,944",
+                "72,119",
+                "2.00%"
+            ]
+        ]
+    }
+}

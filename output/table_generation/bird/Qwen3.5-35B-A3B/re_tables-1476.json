@@ -1,0 +1,69 @@
+{
+    "table-1476-1476": {
+        "title": [
+            "Customer ID",
+            "Region",
+            "Consumption kWh",
+            "Year Status",
+            "Count Category"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many customers in KAM had a consumption of less than 30,000 for the year 2012?",
+        "data": [
+            [
+                "CUST_1042",
+                "KAM",
+                "4,205",
+                "Active",
+                "Low (<30k)"
+            ],
+            [
+                "CUS_T_8821",
+                "KMA",
+                "67,300",
+                "Inactive",
+                "High (>30K)"
+            ],
+            [
+                "CUS_K_3392",
+                "CAM",
+                "31,500",
+                "Pending",
+                "Medium (~30-50k)"
+            ],
+            [
+                "CUS_M_1102",
+                "MUM",
+                "890",
+                "Active",
+                "Very Low (<10k)"
+            ],
+            [
+                "CUS_P_5541",
+                "PUN",
+                "0",
+                "Suspended",
+                "Zero Usage"
+            ],
+            [
+                "CUS_R_9921",
+                "RAN",
+                "28,400",
+                "Active",
+                "Low (<30 k)"
+            ],
+            [
+                "CUS_L_7721",
+                "LAD",
+                "12,050",
+                "Inactive",
+                "Medium (>10 k)<30 K"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-240-240": {
+        "title": [
+            "Visitor Name",
+            "Museum Name (Before 2009)",
+            "Museum Name (After 2011)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Visitors of Museums with Different Opening Years",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of the visitor who visited both a museum opened before 2009 and a museum opened after 2011?",
+        "data": [
+            [
+                "John Smith",
+                "History Museum",
+                "Modern Art Gallery"
+            ],
+            [
+                "Alice Brown",
+                "Science Museum",
+                "Technology Center"
+            ],
+            [
+                "Bob Williams",
+                "Natural History Museum",
+                "Contemporary Museum"
+            ],
+            [
+                "Carol Davis",
+                "Art Museum",
+                "Innovation Museum"
+            ],
+            [
+                "David Garcia",
+                "Children's Museum",
+                "21st Century Museum"
+            ]
+        ]
+    }
+}

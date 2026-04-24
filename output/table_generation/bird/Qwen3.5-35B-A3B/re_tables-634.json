@@ -1,0 +1,85 @@
+{
+    "table-634-634": {
+        "title": [
+            "Post_ID",
+            "Author",
+            "Title_Snippet",
+            "Answer_Count",
+            "Status",
+            "Created_Date",
+            "Category"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which post by slashnick has the most answers count? State the post ID.",
+        "data": [
+            [
+                "45892",
+                "SlashNick",
+                "Java Memory Leak Fix",
+                "47",
+                "Closed",
+                "06/15/2023",
+                "Development"
+            ],
+            [
+                "45901",
+                "SlashNick",
+                "Swing Component Layout",
+                "32",
+                "Open",
+                "06/16/2023",
+                "UI Design"
+            ],
+            [
+                "46012",
+                "SlashNic",
+                "Database Connection Pool",
+                "28",
+                "Closed",
+                "07/01/2023",
+                "Backend"
+            ],
+            [
+                "46105",
+                "SlashNi",
+                "Thread Safety Issues",
+                "19",
+                "Pending",
+                "08/10/2024",
+                "Concurrency"
+            ],
+            [
+                "46210",
+                "SlashNik",
+                "API Rate Limiting",
+                "15",
+                "Resolved",
+                "09/05/2022",
+                "Security"
+            ],
+            [
+                "46315",
+                "MickSlas",
+                "Legacy Code Refactor",
+                "12",
+                "Merged",
+                "10/12/2021",
+                "Refactoring"
+            ],
+            [
+                "46420",
+                "UserX",
+                "General Inquiry",
+                "5",
+                "Active",
+                "11/03/2021",
+                "Support"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-174-174": {
+        "title": [
+            "Template ID",
+            "Template Name",
+            "Status",
+            "Creation Date",
+            "Last Usage Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show ids for all templates not used by any document.",
+        "data": [
+            [
+                "TPL-001",
+                "Onboarding Form v1",
+                "Deprecated",
+                "2020-01-15",
+                "N/A"
+            ],
+            [
+                "TPL-007",
+                "Project Proposal Draft",
+                "Archived",
+                "2021-03-10",
+                "N/A"
+            ],
+            [
+                "TPL-012",
+                "Expense Report (Old)",
+                "Obsolete",
+                "2019-07-01",
+                "N/A"
+            ],
+            [
+                "TPL-023",
+                "Marketing Campaign Brief",
+                "Unused",
+                "2022-05-20",
+                "N/A"
+            ],
+            [
+                "TPL-030",
+                "Internal Memo Format",
+                "Deprecated",
+                "2018-11-11",
+                "N/A"
+            ],
+            [
+                "TPL-045",
+                "Client Feedback Survey",
+                "Archived",
+                "2023-01-05",
+                "N/A"
+            ]
+        ]
+    }
+}

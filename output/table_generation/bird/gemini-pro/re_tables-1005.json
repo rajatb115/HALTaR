@@ -1,0 +1,46 @@
+{
+    "table-1005-1005": {
+        "title": [
+            "Full Name",
+            "Age",
+            "Wins"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Oldest Racer's Wins",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many wins was achieved by the oldest racer? Indicate his/her full name.",
+        "data": [
+            [
+                "Giuseppe Farina",
+                "46",
+                "5"
+            ],
+            [
+                "Juan Manuel Fangio",
+                "46",
+                "24"
+            ],
+            [
+                "Louis Chiron",
+                "55",
+                "0"
+            ],
+            [
+                "Philippe \u00c9tancelin",
+                "53",
+                "0"
+            ],
+            [
+                "Luigi Fagioli",
+                "53",
+                "1"
+            ]
+        ]
+    }
+}

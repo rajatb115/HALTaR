@@ -1,0 +1,45 @@
+{
+    "table-9-9": {
+        "title": [
+            "Song Name",
+            "Singer Name",
+            "Singer Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Song Information by Singer Demographics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all song names by singers above the average age.",
+        "data": [
+            [
+                "Bohemian Rhapsody",
+                "Freddie Mercury",
+                "45"
+            ],
+            [
+                "Like a Rolling Stone",
+                "Bob Dylan",
+                "70"
+            ],
+            [
+                "Respect",
+                "Aretha Franklin",
+                "76"
+            ],
+            [
+                "Imagine",
+                "John Lennon",
+                "40"
+            ],
+            [
+                "Hey Jude",
+                "Paul McCartney",
+                "80"
+            ]
+        ]
+    }
+}

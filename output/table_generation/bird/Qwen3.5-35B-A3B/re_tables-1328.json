@@ -1,0 +1,76 @@
+{
+    "table-1328-1328": {
+        "title": [
+            "Full_Name",
+            "Club_Membership_Status",
+            "Event_Attended",
+            "Attendance_Date",
+            "Role_in_Event",
+            "Contact_Email",
+            "Phone_Number"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the full name of all the members of the Student_Club who attended the \"Laugh Out Loud\" event.",
+        "data": [
+            [
+                "John Smith",
+                "Active Member",
+                "Laugh Out Loud",
+                "4/12/2023",
+                "Participant",
+                "john.smith@univ.edu",
+                "555-0101"
+            ],
+            [
+                "Sarah Johnson",
+                "Active Officer",
+                "LaughOutLoud",
+                "6/15/2023",
+                "Organizer",
+                "s.johnson@campus.org",
+                "987-6543"
+            ],
+            [
+                "Michael Chen",
+                "Probationary Member",
+                "LOL Event",
+                "8/22/2019",
+                "Guest Speaker",
+                "m.chen@student.net",
+                "333-444-55"
+            ],
+            [
+                "Emily Davis",
+                "Alumni Associate",
+                "Laugh-Out-Loud",
+                "Jan 10, 2023",
+                "Volunteer",
+                "emily.davis@email.com",
+                "N/A"
+            ],
+            [
+                "David Wilson",
+                "Suspended Member",
+                "Laughs & Loops",
+                "Dec 31, 2012",
+                "Attendee",
+                "d.wilson@oldmail.co",
+                "777-888-99"
+            ],
+            [
+                "Lisa Brown",
+                "New Recruit",
+                "LOL Gathering",
+                "Feb 14, 1999",
+                "Performer",
+                "",
+                ""
+            ]
+        ]
+    }
+}

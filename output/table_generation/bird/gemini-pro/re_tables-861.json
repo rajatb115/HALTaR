@@ -1,0 +1,51 @@
+{
+    "table-861-861": {
+        "title": [
+            "Race Number",
+            "Driver",
+            "Q2 Time",
+            "Nationality"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Qualifying Results and Driver Nationalities",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the driver who had the Q2 time as 0:01:40 in the qualifying race No. 355, what is his nationality?",
+        "data": [
+            [
+                "355",
+                "Driver A",
+                "0:01:39",
+                "British"
+            ],
+            [
+                "355",
+                "Driver B",
+                "0:01:40",
+                "German"
+            ],
+            [
+                "355",
+                "Driver C",
+                "0:01:41",
+                "Italian"
+            ],
+            [
+                "356",
+                "Driver D",
+                "0:01:38",
+                "French"
+            ],
+            [
+                "356",
+                "Driver E",
+                "0:01:42",
+                "Spanish"
+            ]
+        ]
+    }
+}

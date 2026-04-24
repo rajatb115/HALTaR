@@ -1,0 +1,77 @@
+{
+    "table-1188-1188": {
+        "title": [
+            "Patient ID",
+            "Examination Date",
+            "GPT Level (U/L)",
+            "ALB Level (g/dL)",
+            "Gender",
+            "Age"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients who were examined between 1987/7/6 and 1996/1/31 had a GPT level greater than 30 and an ALB level less than 4? List them by their ID.",
+        "data": [
+            [
+                "P001",
+                "1990-03-15",
+                "35",
+                "3.8",
+                "Female",
+                "45"
+            ],
+            [
+                "P002",
+                "1995-11-20",
+                "28",
+                "3.5",
+                "Male",
+                "62"
+            ],
+            [
+                "P003",
+                "1986-05-10",
+                "42",
+                "3.5",
+                "Female",
+                "58"
+            ],
+            [
+                "P004",
+                "1992-08-22",
+                "31",
+                "4.1",
+                "Male",
+                "39"
+            ],
+            [
+                "P005",
+                "1994-01-05",
+                "38",
+                "3.7",
+                "Female",
+                "51"
+            ],
+            [
+                "P006",
+                "1997-02-01",
+                "35",
+                "3.9",
+                "Male",
+                "70"
+            ],
+            [
+                "P007",
+                "1988-12-01",
+                "29",
+                "3.8",
+                "Female",
+                "48"
+            ]
+        ]
+    }
+}

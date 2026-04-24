@@ -1,0 +1,43 @@
+{
+    "table-1321-1321": {
+        "title": [
+            "Event Name",
+            "Date",
+            "Location"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Events Attended by Maya Mclean",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the event names of all the events attended by Maya Mclean.",
+        "data": [
+            [
+                "Tech Conference 2023",
+                "2023-03-15",
+                "San Francisco"
+            ],
+            [
+                "AI Summit",
+                "2023-04-22",
+                "New York"
+            ],
+            [
+                "Data Science Workshop",
+                "2023-05-10",
+                "Seattle"
+            ],
+            [
+                "Marketing Seminar",
+                "2023-06-01",
+                "Chicago"
+            ],
+            [
+                "Product Launch",
+                "2023-07-18",
+                "Los Angeles"
+            ]
+        ]
+    }
+}

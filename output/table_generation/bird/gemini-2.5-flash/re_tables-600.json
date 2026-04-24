@@ -1,0 +1,53 @@
+{
+    "table-600-600": {
+        "title": [
+            "Post ID",
+            "History Type ID",
+            "History Type Name",
+            "Event Timestamp",
+            "User ID",
+            "Unique Commenters (Post Total)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the post history type IDs for post ID 3720 and how many unique users have commented on the post?",
+        "data": [
+            [
+                "3720",
+                "1",
+                "Post Created",
+                "2023-03-10 09:00:00",
+                "101",
+                "3"
+            ],
+            [
+                "3720",
+                "2",
+                "Post Edited",
+                "2023-03-10 09:35:00",
+                "101",
+                "3"
+            ],
+            [
+                "3720",
+                "3",
+                "Comment Added",
+                "2023-03-10 10:15:00",
+                "201",
+                "3"
+            ],
+            [
+                "3720",
+                "3",
+                "Comment Added",
+                "2023-03-10 10:4",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-36-36": {
+        "title": [
+            "Student ID",
+            "First Name",
+            "Pet Types",
+            "Enrollment Status",
+            "Last Updated"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name of students who have both cat and dog pets .",
+        "data": [
+            [
+                "S1042",
+                "Alice",
+                "Cat; Dog",
+                "Active",
+                "06/15/2023"
+            ],
+            [
+                "S1055",
+                "Bob",
+                "Cat only",
+                "Inactive",
+                "N/A"
+            ],
+            [
+                "S2011",
+                "Charlie",
+                "Dog; Fish",
+                "Active",
+                "07/01/2023"
+            ],
+            [
+                "S3098",
+                "Diana",
+                "Cat; Bird",
+                "Pending",
+                "08/12/2024"
+            ],
+            [
+                "S4102",
+                "Ethan",
+                "None",
+                "Graduated",
+                "05/30/2022"
+            ],
+            [
+                "S5033",
+                "Fiona",
+                "Cat, Dog",
+                "Suspended",
+                "09/05/2019"
+            ],
+            [
+                "S6077",
+                "George",
+                "Rabbit",
+                "Active",
+                ""
+            ]
+        ]
+    }
+}

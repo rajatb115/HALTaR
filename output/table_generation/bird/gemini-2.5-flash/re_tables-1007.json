@@ -1,0 +1,77 @@
+{
+    "table-1007-1007": {
+        "title": [
+            "Circuit",
+            "Driver",
+            "Team",
+            "Car Model",
+            "Lap Time",
+            "Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all the lap records set on various circuits, what is the time for the fastest one?",
+        "data": [
+            [
+                "Spa-Francorchamps",
+                "Lewis Hamilton",
+                "Mercedes",
+                "Mercedes W11",
+                "1:41.252",
+                "2020"
+            ],
+            [
+                "Monza",
+                "Rubens Barrichello",
+                "Ferrari",
+                "Ferrari F2004",
+                "1:21.046",
+                "2004"
+            ],
+            [
+                "Monaco",
+                "Max Verstappen",
+                "Red Bull Racing",
+                "Red Bull RB19",
+                "1:12.178",
+                "2023"
+            ],
+            [
+                "Silverstone",
+                "Lewis Hamilton",
+                "Mercedes",
+                "Mercedes W11",
+                "1:27.097",
+                "2020"
+            ],
+            [
+                "Suzuka",
+                "Kimi R\u00e4ikk\u00f6nen",
+                "Ferrari",
+                "Ferrari SF70H",
+                "1:30.983",
+                "2017"
+            ],
+            [
+                "Circuit of the Americas",
+                "Charles Leclerc",
+                "Ferrari",
+                "Ferrari SF90",
+                "1:36.169",
+                "2019"
+            ],
+            [
+                "Bahrain International Circuit",
+                "Pedro de la Rosa",
+                "McLaren",
+                "McLaren MP4-20",
+                "1:31.447",
+                "2005"
+            ]
+        ]
+    }
+}

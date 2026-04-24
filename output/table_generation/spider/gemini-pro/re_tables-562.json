@@ -1,0 +1,39 @@
+{
+    "table-562-562": {
+        "title": [
+            "Student ID",
+            "Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Students Without Friends",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show ids of all students who do not have any friends.",
+        "data": [
+            [
+                "101",
+                "Alice"
+            ],
+            [
+                "105",
+                "David"
+            ],
+            [
+                "108",
+                "Grace"
+            ],
+            [
+                "112",
+                "Kevin"
+            ],
+            [
+                "115",
+                "Megan"
+            ]
+        ]
+    }
+}

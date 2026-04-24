@@ -1,0 +1,40 @@
+{
+    "table-86-86": {
+        "title": [
+            "Model",
+            "Avg. Engine Displacement (edispl)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Average Engine Displacement by Volvo Model",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average edispl of the cars of model volvo?",
+        "data": [
+            [
+                "142",
+                "1.986"
+            ],
+            [
+                "144",
+                "1.986"
+            ],
+            [
+                "244",
+                "2.127"
+            ],
+            [
+                "245",
+                "2.127"
+            ],
+            [
+                "264",
+                "2.664"
+            ]
+        ]
+    }
+}

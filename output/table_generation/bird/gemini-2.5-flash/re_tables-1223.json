@@ -1,0 +1,69 @@
+{
+    "table-1223-1223": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Creatinine Level (mg/dL)",
+            "Normal Range (mg/dL)",
+            "Creatinine Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male patients are are with creatinine index out of the normal range?",
+        "data": [
+            [
+                "P001",
+                "Male",
+                "1.1",
+                "0.6 - 1.2",
+                "Normal"
+            ],
+            [
+                "P002",
+                "Female",
+                "0.8",
+                "0.5 - 1.1",
+                "Normal"
+            ],
+            [
+                "P003",
+                "Male",
+                "1.4",
+                "0.6 - 1.2",
+                "High"
+            ],
+            [
+                "P004",
+                "Male",
+                "0.5",
+                "0.6 - 1.2",
+                "Low"
+            ],
+            [
+                "P005",
+                "Female",
+                "1.3",
+                "0.5 - 1.1",
+                "High"
+            ],
+            [
+                "P006",
+                "Male",
+                "0.9",
+                "0.6 - 1.2",
+                "Normal"
+            ],
+            [
+                "P007",
+                "Male",
+                "1.5",
+                "0.6 - 1.2",
+                "High"
+            ]
+        ]
+    }
+}

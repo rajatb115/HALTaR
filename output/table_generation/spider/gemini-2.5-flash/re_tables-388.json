@@ -1,0 +1,76 @@
+{
+    "table-388-388": {
+        "title": [
+            "Channel Name",
+            "Package Option",
+            "Primary Genre",
+            "Cartoon Content",
+            "Featured Cartoon Director"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the package option of the tv channel that do not have any cartoon directed by Ben Jones.",
+        "data": [
+            [
+                "Global News",
+                "Basic",
+                "News",
+                "No",
+                "N/A"
+            ],
+            [
+                "SportsNet Pro",
+                "Premium",
+                "Sports",
+                "No",
+                "N/A"
+            ],
+            [
+                "Cinema Gold",
+                "Standard",
+                "Movies",
+                "No",
+                "N/A"
+            ],
+            [
+                "Family Fun TV",
+                "Family Pack",
+                "General Entertainment",
+                "Limited",
+                "Genndy Tartakovsky"
+            ],
+            [
+                "Discovery World",
+                "Standard",
+                "Documentaries",
+                "No",
+                "N/A"
+            ],
+            [
+                "Kids Zone",
+                "Kids Pack",
+                "Children's",
+                "Yes",
+                "Craig McCracken"
+            ],
+            [
+                "Action Max",
+                "Premium",
+                "Action",
+                "No",
+                "N/A"
+            ],
+            [
+                "Comedy Central",
+                "Standard",
+                "Comedy",
+                "Limited",
+                "Seth MacFarlane"
+            ]
+        ]
+    }
+}

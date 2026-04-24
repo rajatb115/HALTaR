@@ -1,0 +1,53 @@
+{
+    "table-92-92": {
+        "title": [
+            "Car Model",
+            "Production Year",
+            "Weight Lbs",
+            "Manufacturer",
+            "Body Style",
+            "Fuel Type",
+            "Engine Size",
+            "Safety Rating"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which years cars were produced weighing no less than 3000 and no more than 4000 ?",
+        "data": [
+            [
+                "Toyota Camry",
+                "",
+                "3650",
+                "",
+                "Sedan",
+                "Gasoline",
+                "4.0L",
+                "5 Stars"
+            ],
+            [
+                "Honda Accord",
+                "",
+                "",
+                "",
+                "Sedan",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ford Fusion",
+                "",
+                "",
+                "",
+                "Sedan",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

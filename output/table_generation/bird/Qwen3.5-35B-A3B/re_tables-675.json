@@ -1,0 +1,69 @@
+{
+    "table-675-675": {
+        "title": [
+            "Display Name",
+            "Reputation Score",
+            "Platform",
+            "Role",
+            "Last Active Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who has the highest reputation? Please give the display name.",
+        "data": [
+            [
+                "Alice Johnson",
+                "4520",
+                "Stack Overflow",
+                "Developer",
+                "7/16/2024"
+            ],
+            [
+                "Bob Smith",
+                "3890",
+                "GitHub",
+                "Maintainer",
+                "8/1/2024"
+            ],
+            [
+                "Carol Davis",
+                "5100",
+                "Reddit",
+                "Moderator",
+                "9/12/2023"
+            ],
+            [
+                "David Lee",
+                "6250",
+                "Twitter",
+                "Influencer",
+                "1/5/2026"
+            ],
+            [
+                "Eva Martinez",
+                "4105",
+                "LinkedIn",
+                "Executive",
+                "February 14, 2027"
+            ],
+            [
+                "Frank Wilson",
+                "3300",
+                "Medium",
+                "Writer",
+                "March 22, 2028"
+            ],
+            [
+                "Grace Kim",
+                "5500",
+                "YouTube",
+                "Creator",
+                "April 10, 2030"
+            ]
+        ]
+    }
+}

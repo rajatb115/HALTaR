@@ -1,0 +1,45 @@
+{
+    "table-368-368": {
+        "title": [
+            "TV Series Title",
+            "Episode Title",
+            "Weekly Rank"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "TV Series Weekly Rankings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is Weekly Rank of TV series with Episode \"A Love of a Lifetime\"?",
+        "data": [
+            [
+                "Grey's Anatomy",
+                "A Love of a Lifetime",
+                "1"
+            ],
+            [
+                "The Office",
+                "A Love of a Lifetime",
+                "3"
+            ],
+            [
+                "Friends",
+                "A Love of a Lifetime",
+                "5"
+            ],
+            [
+                "Seinfeld",
+                "The Phone Message",
+                "2"
+            ],
+            [
+                "Parks and Rec",
+                "The Trial",
+                "4"
+            ]
+        ]
+    }
+}

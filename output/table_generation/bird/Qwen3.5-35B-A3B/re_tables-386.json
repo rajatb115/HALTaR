@@ -1,0 +1,61 @@
+{
+    "table-386-386": {
+        "title": [
+            "Card Set",
+            "Rarity",
+            "Mana Cost",
+            "Converted Cost",
+            "Oracle Text Summary",
+            "Effect Trigger"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write down the ruling of Beacon of Immortality.",
+        "data": [
+            [
+                "Commander Legends",
+                "Rare",
+                "{4}{U}",
+                "6",
+                "When you cast this spell, create two Treasure tokens. At the beginning of your upkeep, sacrifice it unless you pay {2}. If you don't, destroy each artifact and enchantment you control.",
+                "Cast Spell / Upkeep Step"
+            ],
+            [
+                "Mystic Archive",
+                "Uncommon",
+                "{3}{U}{R}",
+                "5",
+                "Create three Treasure tokens when played. Sacrifice at turn's end or lose life equal to its cost.",
+                "Play Action / End Phase"
+            ],
+            [
+                "*Commander Masters*",
+                "*Rare*",
+                "{*4*}{*B*}",
+                "*6*",
+                "Generate four Treasure tokens upon casting. Must be sacrificed next upkeep or suffer damage.",
+                "Casting Event / Turn Start"
+            ],
+            [
+                "*Duel Decks*",
+                "Common",
+                "{2}{U}*",
+                "*3*",
+                "Produce one Treasure token immediately. Return to hand if unpaid by maintenance phase.",
+                "Immediate Effect / Maintenance"
+            ],
+            [
+                "*Kaldheim*",
+                "Mythic",
+                "{7}{U}",
+                "*7*",
+                "Summon five Treasures on entry. Forced sacrifice triggers board wipe for non-artifacts",
+                ""
+            ]
+        ]
+    }
+}

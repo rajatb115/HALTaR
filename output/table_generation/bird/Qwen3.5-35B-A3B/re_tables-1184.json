@@ -1,0 +1,49 @@
+{
+    "table-1184-1184": {
+        "title": [
+            "Patient ID",
+            "Diagnosis Date",
+            "Original Admission Diagnosis",
+            "Final Confirmed Diagnosis",
+            "Hospital Department",
+            "Visit Number",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who was diagnosed SLE on 1997/1/27, what was his/her original diagnose when he/she came to the hospital for the first time?",
+        "data": [
+            [
+                "P-4921",
+                "01/06/1970",
+                "Acute Bronchitis",
+                "Systemic Lupus Erythematosus",
+                "Rheumatology",
+                "V-004",
+                "Active"
+            ],
+            [
+                "P-4815",
+                "3/12/1899",
+                "Chronic Fatigue Syndrome",
+                "Systematic Lupus",
+                "Internal Medicine",
+                "V-A12",
+                "Remission"
+            ],
+            [
+                "P-SK22",
+                "5/22/2010",
+                "Joint Pain",
+                "Systematized Lupus Nephritis",
+                "Dermatology",
+                "V-B99",
+                ""
+            ]
+        ]
+    }
+}

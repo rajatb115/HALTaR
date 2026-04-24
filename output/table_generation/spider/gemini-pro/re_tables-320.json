@@ -1,0 +1,49 @@
+{
+    "table-320-320": {
+        "title": [
+            "First Name",
+            "Middle Name",
+            "Last Name",
+            "Registration Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Earliest Student Registrations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the first student to register? List the first name, middle name and last name.",
+        "data": [
+            [
+                "John",
+                "A",
+                "Smith",
+                "2023-01-15"
+            ],
+            [
+                "Alice",
+                "B",
+                "Johnson",
+                "2023-01-15"
+            ],
+            [
+                "David",
+                "C",
+                "Williams",
+                "2023-01-16"
+            ],
+            [
+                "Emily",
+                "D",
+                "Brown",
+                "2023-01-17"
+            ],
+            [
+                "Michael",
+                "E",
+                "Davis",
+                "2023-01-18"
+            ]
+        ]
+    }
+}

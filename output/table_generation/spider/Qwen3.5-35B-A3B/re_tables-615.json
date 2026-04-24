@@ -1,0 +1,61 @@
+{
+    "table-615-615": {
+        "title": [
+            "First_Name",
+            "Last_Name",
+            "Email",
+            "State"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the first name, last name and email of the owners living in a state whose name contains the substring 'North'.",
+        "data": [
+            [
+                "John",
+                "Smith",
+                "john.smith@email.com",
+                "North Carolina"
+            ],
+            [
+                "Sarah",
+                "Johnson",
+                "sarah.j@webmail.net",
+                "North Dakota"
+            ],
+            [
+                "Michael",
+                "Davis",
+                "m.davis@mailbox.org",
+                "Northern Ireland"
+            ],
+            [
+                "Emily",
+                "Wilson",
+                "emily.w@example.com",
+                "South Carolina"
+            ],
+            [
+                "Robert",
+                "Brown",
+                "r.brown@testdomain.io",
+                "Western Australia"
+            ],
+            [
+                "Jennifer",
+                "Miller",
+                "j.miller@inbox.co.uk",
+                "Eastern Province"
+            ],
+            [
+                "David",
+                "Taylor",
+                "d.taylor@service.net",
+                "Central Region"
+            ]
+        ]
+    }
+}

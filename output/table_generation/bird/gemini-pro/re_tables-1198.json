@@ -1,0 +1,45 @@
+{
+    "table-1198-1198": {
+        "title": [
+            "Patient Number",
+            "Date of First Record",
+            "Disease"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Medical Records",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When was the medical information on patient number 48473 first documented, and what disease did she have?",
+        "data": [
+            [
+                "12987",
+                "2022-03-15",
+                "Flu"
+            ],
+            [
+                "48473",
+                "2023-11-02",
+                "Asthma"
+            ],
+            [
+                "23569",
+                "2021-07-20",
+                "Diabetes"
+            ],
+            [
+                "98765",
+                "2024-01-05",
+                "Cold"
+            ],
+            [
+                "34672",
+                "2022-09-10",
+                "Cancer"
+            ]
+        ]
+    }
+}

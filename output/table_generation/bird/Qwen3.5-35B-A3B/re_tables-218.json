@@ -1,0 +1,61 @@
+{
+    "table-218-218": {
+        "title": [
+            "Molecule ID",
+            "Atom Label",
+            "Connected Atom Label",
+            "Bond Order",
+            "Distance (\u00c5)",
+            "Element Type"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify all the atoms that are connected to the atoms of the TR181 molecule.",
+        "data": [
+            [
+                "TR18-C1",
+                "C1",
+                "H1A",
+                "Single",
+                "1.09",
+                "Hydrogen"
+            ],
+            [
+                "TR18-C1",
+                "C2",
+                "O1",
+                "Double",
+                "1.24",
+                "Carbon-Oxygen"
+            ],
+            [
+                "TR18-C1",
+                "C3",
+                "S1",
+                "Single",
+                "0.76",
+                "Carbon-Sulfur"
+            ],
+            [
+                "TR18-C1",
+                "C4",
+                "Cl1",
+                "Single",
+                "1.77",
+                "Chlorine"
+            ],
+            [
+                "TR18-C1",
+                "C5",
+                "F1",
+                "Double",
+                "1.35",
+                "Fluorine"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "table-683-683": {
+        "title": [
+            "Post ID",
+            "Owner Display Name",
+            "Value Score",
+            "Date Posted",
+            "Category",
+            "Status",
+            "Engagement Count",
+            "Platform"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which is the most valuable post in 2010? Please give its id and the owner's display name.",
+        "data": [
+            [
+                "P-4092",
+                "TechGuru_2024",
+                "$1,250,000",
+                "06/15/2070",
+                "Innovation",
+                "Active",
+                "45002",
+                "GlobalNet"
+            ],
+            [
+                "P-4105",
+                "DataQueen_X",
+                "$980,50",
+                "Jan 12, 2100",
+                "Analytics",
+                "Verified",
+                "38900",
+                "CloudSync"
+            ],
+            [
+                "P-A112",
+                "CodeMaster_Joe",
+                "$875,20",
+                "Mar 22, -2050",
+                "Development",
+                "Confirmed",
+                "29104",
+                "DevHub"
+            ],
+            [
+                "P-B203",
+                "DesignPro_Lisa",
+                "$760,10",
+                "Nov 05, 1899",
+                "Creative",
+                "Pending",
+                "15600",
+                "ArtSpace"
+            ],
+            [
+                "P-C304",
+                "MarketKing_Alex",
+                "$650,-00",
+                "Jul 30, 333",
+                "Business",
+                "Drafted",
+                "11020",
+                "BizLink"
+            ],
+            [
+                "P-D405",
+                "AI_Specialist_Mike",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

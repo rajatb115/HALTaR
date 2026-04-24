@@ -1,0 +1,46 @@
+{
+    "table-1433-1433": {
+        "title": [
+            "Member ID",
+            "T-Shirt Size",
+            "Amount Received"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Student Club Member Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the members with t-shirt size of medium, what is the percentage of the amount 50 received by the Student_Club?",
+        "data": [
+            [
+                "101",
+                "Medium",
+                "50"
+            ],
+            [
+                "102",
+                "Large",
+                "25"
+            ],
+            [
+                "103",
+                "Medium",
+                "50"
+            ],
+            [
+                "104",
+                "Small",
+                "75"
+            ],
+            [
+                "105",
+                "Medium",
+                "100"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-1097-1097": {
+        "title": [
+            "Rated Person",
+            "Overall Rating (1-5)",
+            "Review Date",
+            "Reviewer Role",
+            "Project ID"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average overall rating of Pietro Marino.",
+        "data": [
+            [
+                "Pietro Marino",
+                "4.5",
+                "2023-01-15",
+                "Manager",
+                "P-101"
+            ],
+            [
+                "Pietro Marino",
+                "4.0",
+                "2023-03-20",
+                "Client",
+                "C-502"
+            ],
+            [
+                "Pietro Marino",
+                "4.8",
+                "2023-06-01",
+                "Peer",
+                "P-101"
+            ],
+            [
+                "Sofia Rossi",
+                "4.2",
+                "2023-02-10",
+                "Manager",
+                "P-105"
+            ],
+            [
+                "Pietro Marino",
+                "3.9",
+                "2023-09-12",
+                "Manager",
+                "P-103"
+            ],
+            [
+                "Pietro Marino",
+                "4.1",
+                "2023-11-05",
+                "Client",
+                "C-508"
+            ]
+        ]
+    }
+}

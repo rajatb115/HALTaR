@@ -1,0 +1,58 @@
+{
+    "table-525-525": {
+        "title": [
+            "Country Name",
+            "Country Code",
+            "Predominant Language"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the codes of countries for which Spanish is the predominantly spoken language.",
+        "data": [
+            [
+                "Spain",
+                "ES",
+                "Spanish"
+            ],
+            [
+                "Mexico",
+                "MX",
+                "Spanish"
+            ],
+            [
+                "Colombia",
+                "CO",
+                "Spanish"
+            ],
+            [
+                "Argentina",
+                "AR",
+                "Spanish"
+            ],
+            [
+                "Peru",
+                "PE",
+                "Spanish"
+            ],
+            [
+                "Chile",
+                "CL",
+                "Spanish"
+            ],
+            [
+                "Venezuela",
+                "VE",
+                "Spanish"
+            ],
+            [
+                "Ecuador",
+                "EC",
+                "Spanish"
+            ]
+        ]
+    }
+}

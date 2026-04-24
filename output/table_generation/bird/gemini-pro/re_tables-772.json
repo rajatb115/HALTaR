@@ -1,0 +1,37 @@
+{
+    "table-772-772": {
+        "title": [
+            "Superhero Name",
+            "Powers"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Superheroes with Flight Abilities",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of superheroes with flight power.",
+        "data": [
+            [
+                "Superman",
+                "Flight, Super Strength, Heat Vision"
+            ],
+            [
+                "Wonder Woman",
+                "Flight, Super Strength, Durability"
+            ],
+            [
+                "Thor",
+                "Flight, Super Strength, Control over Lightning"
+            ],
+            [
+                "Iron Man",
+                "Flight, Enhanced Strength, Energy Blasts"
+            ],
+            [
+                "Captain Marvel",
+                "Flight, Super Strength, Energy Absorption"
+            ]
+        ]
+    }
+}

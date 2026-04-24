@@ -1,0 +1,83 @@
+{
+    "table-240-240": {
+        "title": [
+            "Visitor_ID",
+            "First_Name",
+            "Last_Name",
+            "Museum_A_Opened",
+            "Museum_B_Opened"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 9,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of the visitor who visited both a museum opened before 2009 and a museum opened after 2011?",
+        "data": [
+            [
+                "V_4021",
+                "Sarah",
+                "Jenkins",
+                "7/12/2026",
+                "3/15/2100"
+            ],
+            [
+                "v_8832",
+                "Michael",
+                "Chen",
+                "9/2/1954",
+                "6/11/2203"
+            ],
+            [
+                "k_1109",
+                "Elena",
+                "Rodriguez",
+                "4/30/1899",
+                "8/14/2301"
+            ],
+            [
+                "t_5543",
+                "David",
+                "O'Connor",
+                "5/1/1776",
+                "N/A"
+            ],
+            [
+                "p_9921",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "w_3310",
+                "Jessica",
+                "Wu",
+                "01/01/-500",
+                "12/31/3999"
+            ],
+            [
+                "r_7744",
+                "Thomas",
+                "Baker",
+                "-10-10",
+                "-10"
+            ],
+            [
+                "z_2211",
+                "Amanda",
+                "Lee",
+                "",
+                ""
+            ],
+            [
+                "q_6655",
+                "Robert",
+                "Smith",
+                "",
+                ""
+            ]
+        ]
+    }
+}

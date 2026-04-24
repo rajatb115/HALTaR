@@ -1,0 +1,76 @@
+{
+    "table-1263-1263": {
+        "title": [
+            "Patient ID",
+            "Complement 3 Level",
+            "ANA Pattern Observed",
+            "Test Date",
+            "Lab Technician",
+            "Sample Status",
+            "Result Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal level of complement 3 have a P pattern observed in the sheet of ANA examination?",
+        "data": [
+            [
+                "P-1042",
+                "Normal",
+                "P-pattern",
+                "03/12/2023",
+                "Dr. Smith",
+                "Validated",
+                "POS-PAT-NORM-C3"
+            ],
+            [
+                "P-A773",
+                "Normal / High",
+                "Pattern P",
+                "04/15/2023",
+                "J. Doe",
+                "Pending Review",
+                "ALT-PATT-HIGH"
+            ],
+            [
+                "B-9921",
+                "Within Reference Range",
+                "Peripheral/Nuclear",
+                "06/01/2024",
+                "M. Johnson",
+                "Confirmed",
+                "REF-RANGE-PERIP"
+            ],
+            [
+                "C-3301",
+                "Elevated but within limits",
+                "Homogeneous/P-like",
+                "07/22/2019",
+                "R. White",
+                "Re-tested",
+                "ELEV-LIMIT-HOMO"
+            ],
+            [
+                "D-5510",
+                "Low-normal",
+                "Fine speckled/partial",
+                "08/10/2025",
+                "S. Black",
+                "Archived",
+                "LOW-NOR-FINE-SPEC"
+            ],
+            [
+                "E-8842",
+                "Optimal range",
+                "Diffuse nuclear",
+                "09/05/2018",
+                "T",
+                "",
+                ""
+            ]
+        ]
+    }
+}

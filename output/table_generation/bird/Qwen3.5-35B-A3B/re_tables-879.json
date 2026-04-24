@@ -1,0 +1,40 @@
+{
+    "table-879-879": {
+        "title": [
+            "Race Number",
+            "Driver Full Name",
+            "Best Lap Time",
+            "Team",
+            "Track Location",
+            "Date",
+            "Position Finished"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who was the driver that got the best lap time in the race No. 348? Give his full name.",
+        "data": [
+            [
+                "301",
+                "Michael Schumacher",
+                "1:24.320",
+                "Ferrari",
+                "Monza",
+                "July 12, 1763",
+                "N/A"
+            ],
+            [
+                "34",
+                "Lewis Hamilton",
+                "1:18.450",
+                "Mercedes",
+                "Silverstone",
+                "June 22, 2024",
+                "1st"
+            ]
+        ]
+    }
+}

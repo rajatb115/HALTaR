@@ -1,0 +1,85 @@
+{
+    "table-1307-1307": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "WBC Count (x10^9/L)",
+            "WBC Status",
+            "Age",
+            "Gender",
+            "Date of Diagnosis"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients diagnosed with SLE have a normal white blood cell level?",
+        "data": [
+            [
+                "P001",
+                "SLE",
+                "7.5",
+                "Normal",
+                "45",
+                "Female",
+                "2022-03-15"
+            ],
+            [
+                "P002",
+                "SLE",
+                "3.2",
+                "Low",
+                "38",
+                "Male",
+                "2021-11-01"
+            ],
+            [
+                "P003",
+                "Rheumatoid Arthritis",
+                "9.1",
+                "Normal",
+                "55",
+                "Female",
+                "2023-01-20"
+            ],
+            [
+                "P004",
+                "SLE",
+                "12.8",
+                "High",
+                "29",
+                "Female",
+                "2022-07-05"
+            ],
+            [
+                "P005",
+                "SLE",
+                "6.8",
+                "Normal",
+                "62",
+                "Male",
+                "2023-04-10"
+            ],
+            [
+                "P006",
+                "Sjogren's Syndrome",
+                "5.1",
+                "Normal",
+                "50",
+                "Female",
+                "2021-09-22"
+            ],
+            [
+                "P007",
+                "SLE",
+                "3.9",
+                "Low",
+                "41",
+                "Female",
+                "2022-12-01"
+            ]
+        ]
+    }
+}

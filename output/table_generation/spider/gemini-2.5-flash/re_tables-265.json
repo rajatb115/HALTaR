@@ -1,0 +1,69 @@
+{
+    "table-265-265": {
+        "title": [
+            "Player Name",
+            "Tournament",
+            "Year",
+            "Rank Points",
+            "Result"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name of the winner who has the highest rank points and participated in the Australian Open tourney.",
+        "data": [
+            [
+                "Novak Djokovic",
+                "Australian Open",
+                "2023",
+                "11055",
+                "Winner"
+            ],
+            [
+                "Rafael Nadal",
+                "Australian Open",
+                "2022",
+                "9875",
+                "Winner"
+            ],
+            [
+                "Jannik Sinner",
+                "Australian Open",
+                "2024",
+                "8310",
+                "Winner"
+            ],
+            [
+                "Daniil Medvedev",
+                "Australian Open",
+                "2024",
+                "7650",
+                "Runner-up"
+            ],
+            [
+                "Roger Federer",
+                "Australian Open",
+                "2018",
+                "9600",
+                "Winner"
+            ],
+            [
+                "Andy Murray",
+                "Australian Open",
+                "2016",
+                "6890",
+                "Runner-up"
+            ],
+            [
+                "Carlos Alcaraz",
+                "Australian Open",
+                "2023",
+                "7420",
+                "Quarter-finalist"
+            ]
+        ]
+    }
+}

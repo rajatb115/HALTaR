@@ -1,0 +1,45 @@
+{
+    "table-211-211": {
+        "title": [
+            "Teacher Name",
+            "Age",
+            "Subject"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Teacher Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the teachers ordered by ascending age?",
+        "data": [
+            [
+                "Emily Carter",
+                "28",
+                "Math"
+            ],
+            [
+                "John Smith",
+                "35",
+                "Science"
+            ],
+            [
+                "Alice Brown",
+                "42",
+                "English"
+            ],
+            [
+                "David Lee",
+                "51",
+                "History"
+            ],
+            [
+                "Sarah White",
+                "60",
+                "Art"
+            ]
+        ]
+    }
+}

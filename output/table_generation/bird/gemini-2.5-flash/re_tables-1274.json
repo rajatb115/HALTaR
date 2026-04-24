@@ -1,0 +1,69 @@
+{
+    "table-1274-1274": {
+        "title": [
+            "Patient ID",
+            "Anti-SSB Status",
+            "SLE Diagnosis",
+            "Examination Date",
+            "Age"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients have a normal anti-SSB and are diagnosed with SLE in the examination?",
+        "data": [
+            [
+                "P001",
+                "Normal",
+                "Diagnosed",
+                "2023-01-15",
+                "45"
+            ],
+            [
+                "P002",
+                "Elevated",
+                "Not Diagnosed",
+                "2023-02-01",
+                "38"
+            ],
+            [
+                "P003",
+                "Normal",
+                "Diagnosed",
+                "2023-01-20",
+                "52"
+            ],
+            [
+                "P004",
+                "Low",
+                "Pending",
+                "2023-03-10",
+                "60"
+            ],
+            [
+                "P005",
+                "Normal",
+                "Not Diagnosed",
+                "2023-02-25",
+                "30"
+            ],
+            [
+                "P006",
+                "Normal",
+                "Diagnosed",
+                "2023-01-05",
+                "48"
+            ],
+            [
+                "P007",
+                "Elevated",
+                "Diagnosed",
+                "2023-03-15",
+                "55"
+            ]
+        ]
+    }
+}

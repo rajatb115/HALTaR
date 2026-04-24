@@ -1,0 +1,61 @@
+{
+    "table-96-96": {
+        "title": [
+            "Account Number",
+            "Client Name",
+            "Age",
+            "Average Salary"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the account numbers of clients who are youngest and have highest average salary?",
+        "data": [
+            [
+                "1001",
+                "Alice Smith",
+                "28",
+                "95000"
+            ],
+            [
+                "1002",
+                "Bob Johnson",
+                "45",
+                "70000"
+            ],
+            [
+                "1003",
+                "Carol White",
+                "32",
+                "80000"
+            ],
+            [
+                "1004",
+                "David Green",
+                "55",
+                "110000"
+            ],
+            [
+                "1005",
+                "Emily Brown",
+                "25",
+                "75000"
+            ],
+            [
+                "1006",
+                "Frank Black",
+                "30",
+                "105000"
+            ],
+            [
+                "1007",
+                "Grace Lee",
+                "40",
+                "90000"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-648-648": {
+        "title": [
+            "User ID",
+            "Location",
+            "Badge Name",
+            "Year Received"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the badge names received in 2011 for the user whose location is in the North Pole.",
+        "data": [
+            [
+                "user_santa",
+                "North Pole",
+                "Explorer",
+                "2011"
+            ],
+            [
+                "user_santa",
+                "North Pole",
+                "Ice Breaker",
+                "2011"
+            ],
+            [
+                "user_elfie",
+                "North Pole",
+                "Polar Star",
+                "2011"
+            ],
+            [
+                "user_klaus",
+                "North Pole",
+                "Aurora Watcher",
+                "2011"
+            ],
+            [
+                "user_frost",
+                "North Pole",
+                "Winter Warrior",
+                "2011"
+            ],
+            [
+                "user_noel",
+                "North Pole",
+                "Sleigh Master",
+                "2011"
+            ],
+            [
+                "user_blizzard",
+                "North Pole",
+                "Arctic Navigator",
+                "2012"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-724-724": {
+        "title": [
+            "Superhero Name",
+            "Eye Color",
+            "Primary Power",
+            "Agility Level",
+            "Affiliation"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the superheroes with blue eyes, how many of them have the super power of \"Agility\"?",
+        "data": [
+            [
+                "Quicksilver",
+                "Blue",
+                "Enhanced Speed",
+                "High",
+                "Avengers"
+            ],
+            [
+                "Nightcrawler",
+                "Blue/Red",
+                "Teleportation",
+                "Extreme",
+                "X-Men"
+            ],
+            [
+                "Blue Beetle",
+                "Brown",
+                "Scarab Tech",
+                "Moderate",
+                "Justice League"
+            ],
+            [
+                "Hawkman",
+                "Green",
+                "Flight",
+                "Low",
+                "JSA"
+            ],
+            [
+                "Speedy",
+                "Hazel",
+                "Archery",
+                "Medium",
+                "Teen Titans"
+            ],
+            [
+                "Aquaman",
+                "Grey",
+                "Hydrokinesis",
+                "N/A",
+                "Atlantis"
+            ],
+            [
+                "The Flash",
+                "Blue",
+                "Velocity Manipulation",
+                "Maximum",
+                "Flash Family"
+            ]
+        ]
+    }
+}

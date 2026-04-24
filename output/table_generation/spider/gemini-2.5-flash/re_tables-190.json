@@ -1,0 +1,62 @@
+{
+    "table-190-190": {
+        "title": [
+            "Template Code",
+            "Template Name",
+            "Associated Documents Count",
+            "Status",
+            "Creation Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all template type codes that are not used by any document.",
+        "data": [
+            [
+                "INV-V1",
+                "Old Invoice Format",
+                "0",
+                "Deprecated",
+                "2018-03-10"
+            ],
+            [
+                "RPT-Q4-2023",
+                "Q4 2023 Report Draft",
+                "0",
+                "Experimental",
+                "2023-11-01"
+            ],
+            [
+                "HR-ONBOARD",
+                "HR Onboarding Form V1",
+                "0",
+                "Obsolete",
+                "2019-07-22"
+            ],
+            [
+                "MKT-PROMO",
+                "Marketing Promo Email",
+                "0",
+                "Unused",
+                "2022-05-15"
+            ],
+            [
+                "FIN-BUDGET",
+                "Annual Budget Template",
+                "0",
+                "Pending Review",
+                "2023-12-01"
+            ],
+            [
+                "DEV-SPEC",
+                "Software Spec Template",
+                "0",
+                "Draft",
+                "2024-01-20"
+            ]
+        ]
+    }
+}

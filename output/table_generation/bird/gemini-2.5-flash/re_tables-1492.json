@@ -1,0 +1,45 @@
+{
+    "table-1492-1492": {
+        "title": [
+            "Country",
+            "VFM Gas Stations Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country has more \"value for money\" gas stations? Please give a total number of \"value for money\" gas stations in each country.",
+        "data": [
+            [
+                "USA",
+                "12500"
+            ],
+            [
+                "Germany",
+                "5200"
+            ],
+            [
+                "Canada",
+                "3800"
+            ],
+            [
+                "France",
+                "4500"
+            ],
+            [
+                "UK",
+                "3100"
+            ],
+            [
+                "Spain",
+                "2800"
+            ],
+            [
+                "Italy",
+                "3500"
+            ]
+        ]
+    }
+}

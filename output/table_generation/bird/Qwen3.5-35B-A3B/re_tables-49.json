@@ -1,0 +1,85 @@
+{
+    "table-49-49": {
+        "title": [
+            "Merged USD Schools",
+            "Merged ESD Schools",
+            "Ratio",
+            "Location",
+            "Status",
+            "Count Verified",
+            "Data Source"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the ratio of merged Unified School District schools in Orange County to merged Elementary School District schools?",
+        "data": [
+            [
+                "42",
+                "67",
+                "0.63",
+                "Orange County",
+                "Active",
+                "Yes",
+                "CA Dept Ed"
+            ],
+            [
+                "38",
+                "71",
+                "53.5%",
+                "Anaheim Area",
+                "Historical",
+                "No",
+                "Local Archive"
+            ],
+            [
+                "45",
+                "80",
+                "41.3%",
+                "Santa Ana Zone",
+                "Pending Review",
+                "Partial",
+                "State Records"
+            ],
+            [
+                "50",
+                "",
+                "N/D",
+                "Fullerton Sector",
+                "Inactive",
+                "No Missing Data",
+                "Internal Audit"
+            ],
+            [
+                "29",
+                "35",
+                "",
+                "Garden Grove Unit",
+                "Archived",
+                "Uncertain",
+                "Public Ledger"
+            ],
+            [
+                "61",
+                "",
+                "N/P",
+                "Yorba Linda Region",
+                "Dissolved",
+                "False Positive",
+                "External Report"
+            ],
+            [
+                "15",
+                "",
+                "Undefined",
+                "Costa Mesa Branch",
+                "Terminated",
+                "Invalid Entry",
+                "System Log"
+            ]
+        ]
+    }
+}

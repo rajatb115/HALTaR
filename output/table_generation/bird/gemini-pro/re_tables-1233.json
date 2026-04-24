@@ -1,0 +1,58 @@
+{
+    "table-1233-1233": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Age",
+            "Blood Glucose (GLU)",
+            "Total Cholesterol (T-CHO)"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Patient Characteristics based on Blood Glucose and Cholesterol Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide ID, sex and age of patient who has blood glucose (GLU) not within normal range but with total cholesterol(T-CHO) within normal range.",
+        "data": [
+            [
+                "12345",
+                "Male",
+                "62",
+                "High",
+                "Normal"
+            ],
+            [
+                "67890",
+                "Female",
+                "48",
+                "Low",
+                "Normal"
+            ],
+            [
+                "24680",
+                "Male",
+                "55",
+                "High",
+                "Normal"
+            ],
+            [
+                "13579",
+                "Female",
+                "70",
+                "Low",
+                "Normal"
+            ],
+            [
+                "98765",
+                "Male",
+                "39",
+                "High",
+                "Normal"
+            ]
+        ]
+    }
+}

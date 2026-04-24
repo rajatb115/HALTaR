@@ -1,0 +1,51 @@
+{
+    "table-74-74": {
+        "title": [
+            "Age Group",
+            "Meal Type",
+            "Count",
+            "Mailing Address"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Youth Authority School Meal Program Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the free or reduced price meal count for ages 5 to 17 in the Youth Authority School with a mailing street address of PO Box 1040?",
+        "data": [
+            [
+                "5-10",
+                "Free",
+                "15",
+                "PO Box 1040"
+            ],
+            [
+                "5-10",
+                "Reduced Price",
+                "5",
+                "PO Box 1040"
+            ],
+            [
+                "11-14",
+                "Free",
+                "25",
+                "PO Box 1040"
+            ],
+            [
+                "11-14",
+                "Reduced Price",
+                "10",
+                "PO Box 1040"
+            ],
+            [
+                "15-17",
+                "Free",
+                "30",
+                "PO Box 1040"
+            ]
+        ]
+    }
+}

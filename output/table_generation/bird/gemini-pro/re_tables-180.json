@@ -1,0 +1,52 @@
+{
+    "table-180-180": {
+        "title": [
+            "Transaction ID",
+            "Client ID",
+            "Transaction Date",
+            "Amount Paid"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Client Transactions in 1998",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much, in total, did client number 617 pay for all of the transactions in 1998?",
+        "data": [
+            [
+                "12345",
+                "617",
+                "1998-01-15",
+                "$150.00"
+            ],
+            [
+                "12346",
+                "617",
+                "1998-03-01",
+                "$200.00"
+            ],
+            [
+                "12347",
+                "617",
+                "1998-06-10",
+                "$75.00"
+            ],
+            [
+                "12348",
+                "617",
+                "1998-09-22",
+                "$300.00"
+            ],
+            [
+                "12349",
+                "617",
+                "1998-12-05",
+                "$125.00"
+            ]
+        ]
+    }
+}

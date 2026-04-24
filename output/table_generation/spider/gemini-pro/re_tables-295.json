@@ -1,0 +1,45 @@
+{
+    "table-295-295": {
+        "title": [
+            "Address ID",
+            "First Line",
+            "Second Line"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Address Components",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the first and second line for all addresses?",
+        "data": [
+            [
+                "1",
+                "123 Main St",
+                "Apartment 4B"
+            ],
+            [
+                "2",
+                "456 Oak Ave",
+                "Suite 200"
+            ],
+            [
+                "3",
+                "789 Pine Ln",
+                ""
+            ],
+            [
+                "4",
+                "101 Elm Rd",
+                "Building A"
+            ],
+            [
+                "5",
+                "222 Maple Dr",
+                "Floor 3"
+            ]
+        ]
+    }
+}

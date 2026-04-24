@@ -1,0 +1,46 @@
+{
+    "table-231-231": {
+        "title": [
+            "Museum ID",
+            "Museum Name",
+            "Number of Staff"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Museums and Staff Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the id and name of the museum that has the most staff members?",
+        "data": [
+            [
+                "101",
+                "Art Institute of Chicago",
+                "750"
+            ],
+            [
+                "102",
+                "Metropolitan Museum of Art",
+                "1200"
+            ],
+            [
+                "103",
+                "Louvre Museum",
+                "2500"
+            ],
+            [
+                "104",
+                "British Museum",
+                "900"
+            ],
+            [
+                "105",
+                "National Museum of Natural History",
+                "1100"
+            ]
+        ]
+    }
+}

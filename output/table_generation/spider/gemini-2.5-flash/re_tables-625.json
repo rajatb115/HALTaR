@@ -1,0 +1,45 @@
+{
+    "table-625-625": {
+        "title": [
+            "Charge Type",
+            "Amount"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List each charge type and its amount.",
+        "data": [
+            [
+                "Service Fee",
+                "50.00"
+            ],
+            [
+                "Late Payment Fee",
+                "15.00"
+            ],
+            [
+                "Interest Charge",
+                "12.75"
+            ],
+            [
+                "Subscription Fee",
+                "9.99"
+            ],
+            [
+                "Usage Charge",
+                "23.45"
+            ],
+            [
+                "Tax",
+                "4.50"
+            ],
+            [
+                "Processing Fee",
+                "2.99"
+            ]
+        ]
+    }
+}

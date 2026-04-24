@@ -1,0 +1,76 @@
+{
+    "table-1307-1307": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "White Blood Cell Count (/\u00b5L)",
+            "Status",
+            "Age",
+            "Gender",
+            "Visit Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients diagnosed with SLE have a normal white blood cell level?",
+        "data": [
+            [
+                "P-1042",
+                "Systemic Lupus Erythematosus",
+                "6,20",
+                "Normal",
+                "34",
+                "Female",
+                "01/15/2023"
+            ],
+            [
+                "P-1105",
+                "Systematic Lupus",
+                "N/A",
+                "Pending Review",
+                "45",
+                "Male",
+                ""
+            ],
+            [
+                "S-2098",
+                "SLE",
+                "7,800",
+                "High",
+                "52",
+                "Female",
+                "02/10/23"
+            ],
+            [
+                "T-3312",
+                "Autoimmune Disorder",
+                "8,500",
+                "Elevated",
+                "29",
+                "Female",
+                "Mar 05, 23"
+            ],
+            [
+                "U-4456",
+                "S.L.E.",
+                "9,100",
+                "Abnormal",
+                "38",
+                "Male",
+                "Apr 12, 24"
+            ],
+            [
+                "V-5501",
+                "SLE",
+                "N/A",
+                "High",
+                "41",
+                "Female",
+                ""
+            ]
+        ]
+    }
+}

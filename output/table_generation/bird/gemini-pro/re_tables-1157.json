@@ -1,0 +1,46 @@
+{
+    "table-1157-1157": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "Coagulation Degree"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Patient Coagulation Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the ID and age of patient with positive degree of coagulation.",
+        "data": [
+            [
+                "12345",
+                "62",
+                "Positive"
+            ],
+            [
+                "67890",
+                "48",
+                "Positive"
+            ],
+            [
+                "24680",
+                "75",
+                "Positive"
+            ],
+            [
+                "13579",
+                "54",
+                "Negative"
+            ],
+            [
+                "98765",
+                "39",
+                "Positive"
+            ]
+        ]
+    }
+}

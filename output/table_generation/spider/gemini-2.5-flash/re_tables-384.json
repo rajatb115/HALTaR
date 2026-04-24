@@ -1,0 +1,61 @@
+{
+    "table-384-384": {
+        "title": [
+            "Channel Name",
+            "Nation",
+            "Pixel Aspect Ratio",
+            "Language"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the pixel aspect ratio and nation of the tv channels that do not use English.",
+        "data": [
+            [
+                "TV5Monde",
+                "France",
+                "16:9",
+                "French"
+            ],
+            [
+                "NHK World Premium",
+                "Japan",
+                "16:9",
+                "Japanese"
+            ],
+            [
+                "Deutsche Welle",
+                "Germany",
+                "16:9",
+                "German"
+            ],
+            [
+                "Al Jazeera",
+                "Qatar",
+                "16:9",
+                "Arabic"
+            ],
+            [
+                "CCTV-4",
+                "China",
+                "16:9",
+                "Mandarin"
+            ],
+            [
+                "RTVE Internacional",
+                "Spain",
+                "16:9",
+                "Spanish"
+            ],
+            [
+                "Rai Italia",
+                "Italy",
+                "16:9",
+                "Italian"
+            ]
+        ]
+    }
+}

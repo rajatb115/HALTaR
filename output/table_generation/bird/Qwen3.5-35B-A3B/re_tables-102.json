@@ -1,0 +1,62 @@
+{
+    "table-102-102": {
+        "title": [
+            "Account ID",
+            "Trading Date",
+            "Brokerage Firm",
+            "Status",
+            "Region"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the accounts who have the earliest trading date in 1995 ?",
+        "data": [
+            [
+                "ACC-7401",
+                "January 3, 1995",
+                "Global Trade Corp",
+                "Active",
+                "North America"
+            ],
+            [
+                "ACC-7402",
+                "January 4, 1895",
+                "Summit Financials",
+                "Inactive",
+                "Europe"
+            ],
+            [
+                "ACC-7403",
+                "January 6, 2000",
+                "Horizon Capital",
+                "Pending",
+                "Asia Pacific"
+            ],
+            [
+                "ACC-7501",
+                "March 15, 3001",
+                "Royal Exchange",
+                "Active",
+                "South America"
+            ],
+            [
+                "ACC-7504",
+                "February 28, 4998",
+                "Pioneer Funds",
+                "Closed",
+                "Africa"
+            ],
+            [
+                "ACC-7601",
+                "",
+                "Legacy Systems",
+                "Inactive",
+                "North America"
+            ]
+        ]
+    }
+}

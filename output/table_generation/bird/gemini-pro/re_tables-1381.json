@@ -1,0 +1,49 @@
+{
+    "table-1381-1381": {
+        "title": [
+            "Date",
+            "Category",
+            "Description",
+            "Amount Spent"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Food Expenditure Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total amount of money spent for food?",
+        "data": [
+            [
+                "2023-10-26",
+                "Groceries",
+                "Weekly Food",
+                "$150.00"
+            ],
+            [
+                "2023-10-26",
+                "Restaurant",
+                "Dinner",
+                "$45.00"
+            ],
+            [
+                "2023-10-27",
+                "Groceries",
+                "Snacks",
+                "$25.00"
+            ],
+            [
+                "2023-10-27",
+                "Restaurant",
+                "Lunch",
+                "$20.00"
+            ],
+            [
+                "2023-10-28",
+                "Groceries",
+                "Breakfast",
+                "$30.00"
+            ]
+        ]
+    }
+}

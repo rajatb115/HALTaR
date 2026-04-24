@@ -1,0 +1,85 @@
+{
+    "table-1366-1366": {
+        "title": [
+            "Budget ID",
+            "Budget Name",
+            "Remaining Budget",
+            "Expense ID",
+            "Expense Category",
+            "Expense Amount",
+            "Date Incurred"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the expenses of the budget with the lowest remaining?",
+        "data": [
+            [
+                "B005",
+                "Office Supplies",
+                "50",
+                "E1001",
+                "Printer Ink",
+                "120",
+                "2023-11-15"
+            ],
+            [
+                "B005",
+                "Office Supplies",
+                "50",
+                "E1002",
+                "Paper Ream",
+                "40",
+                "2023-11-10"
+            ],
+            [
+                "B005",
+                "Office Supplies",
+                "50",
+                "E1003",
+                "Pens & Markers",
+                "30",
+                "2023-11-08"
+            ],
+            [
+                "B002",
+                "Annual IT",
+                "200",
+                "E2001",
+                "Software License",
+                "5000",
+                "2023-10-20"
+            ],
+            [
+                "B002",
+                "Annual IT",
+                "200",
+                "E2002",
+                "Server Maintenance",
+                "1500",
+                "2023-11-01"
+            ],
+            [
+                "B002",
+                "Annual IT",
+                "200",
+                "E2003",
+                "Network Upgrade",
+                "8000",
+                "2023-09-25"
+            ],
+            [
+                "B001",
+                "Q1 Marketing",
+                "1500",
+                "E3001",
+                "Ad Campaign",
+                "10000",
+                "2023-11-20"
+            ]
+        ]
+    }
+}

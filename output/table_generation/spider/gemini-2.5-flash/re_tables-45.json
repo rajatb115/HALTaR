@@ -1,0 +1,69 @@
+{
+    "table-45-45": {
+        "title": [
+            "Pet ID",
+            "Species",
+            "Breed",
+            "Age (Months)",
+            "Weight (kg)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What type of pet is the youngest animal, and how much does it weigh?",
+        "data": [
+            [
+                "P001",
+                "Dog",
+                "Golden Retriever",
+                "24",
+                "32.5"
+            ],
+            [
+                "P002",
+                "Cat",
+                "Maine Coon",
+                "18",
+                "6.8"
+            ],
+            [
+                "P003",
+                "Hamster",
+                "Syrian",
+                "3",
+                "0.15"
+            ],
+            [
+                "P004",
+                "Parrot",
+                "Cockatiel",
+                "12",
+                "0.1"
+            ],
+            [
+                "P005",
+                "Rabbit",
+                "Mini Lop",
+                "8",
+                "2.1"
+            ],
+            [
+                "P006",
+                "Guinea Pig",
+                "American",
+                "5",
+                "1.0"
+            ],
+            [
+                "P007",
+                "Dog",
+                "Chihuahua",
+                "10",
+                "2.5"
+            ]
+        ]
+    }
+}

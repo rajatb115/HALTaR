@@ -1,0 +1,76 @@
+{
+    "table-485-485": {
+        "title": [
+            "Country",
+            "FoundingYear",
+            "OfficialLanguageCount",
+            "PrimaryLanguagesList",
+            "Region",
+            "Continents",
+            "DataSourceVerified"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the countries founded before 1930, what is the total number of distinct official languages?",
+        "data": [
+            [
+                "France",
+                "486",
+                "7",
+                "French; Occitan; Breton; Catalan; Basque; Corsican; Alsatian",
+                "Western Europe",
+                "Europe",
+                "Yes"
+            ],
+            [
+                "United Kingdom",
+                "927",
+                "3",
+                "English; Welsh; Scottish Gaelic",
+                "Northern Europe",
+                "Europe",
+                "Yes"
+            ],
+            [
+                "Spain",
+                "800",
+                "5",
+                "Spanish; Catalan; Galician; Basque; Aranese",
+                "Southern Europe",
+                "Europe",
+                "Yes"
+            ],
+            [
+                "Portugal",
+                "650",
+                "2",
+                "Portuguese; Mirand\u00eas",
+                "Southern Europe",
+                "Europe",
+                "Yes"
+            ],
+            [
+                "Italy",
+                "0",
+                "1",
+                "Italian",
+                "Southern Europe",
+                "Europe",
+                "Yes"
+            ],
+            [
+                "Germany",
+                "962",
+                "1",
+                "German",
+                "Central Europe",
+                "Europe",
+                "Yes"
+            ]
+        ]
+    }
+}

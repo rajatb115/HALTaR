@@ -1,0 +1,45 @@
+{
+    "table-548-548": {
+        "title": [
+            "User Age Group",
+            "Score Threshold",
+            "Number of Posts"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Posts by Elder Users with High Scores",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts owned by an elder user, how many of them have a score of over 19?",
+        "data": [
+            [
+                "Elder",
+                "> 19",
+                "123"
+            ],
+            [
+                "Elder",
+                "> 20",
+                "110"
+            ],
+            [
+                "Elder",
+                "> 21",
+                "98"
+            ],
+            [
+                "Elder",
+                "> 22",
+                "87"
+            ],
+            [
+                "Elder",
+                "> 23",
+                "76"
+            ]
+        ]
+    }
+}

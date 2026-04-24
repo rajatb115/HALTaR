@@ -1,0 +1,77 @@
+{
+    "table-137-137": {
+        "title": [
+            "Flight Number",
+            "Airline",
+            "Departure Airport",
+            "Arrival Airport",
+            "Scheduled Arrival Time",
+            "Aircraft Type"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the flight numbers of flights landing at APG.",
+        "data": [
+            [
+                "AA5678",
+                "American Airlines",
+                "DCA",
+                "APG",
+                "09:15",
+                "Embraer 175"
+            ],
+            [
+                "DL9012",
+                "Delta Air Lines",
+                "LGA",
+                "APG",
+                "11:45",
+                "Bombardier CRJ-900"
+            ],
+            [
+                "UA3456",
+                "United Express",
+                "IAD",
+                "APG",
+                "13:20",
+                "Embraer ERJ-145"
+            ],
+            [
+                "WN7890",
+                "Southwest Airlines",
+                "BWI",
+                "APG",
+                "15:00",
+                "Boeing 737-700"
+            ],
+            [
+                "FDX123",
+                "FedEx Express",
+                "MEM",
+                "APG",
+                "17:30",
+                "Cessna 208 Caravan"
+            ],
+            [
+                "SKW456",
+                "SkyWest Airlines",
+                "PHL",
+                "APG",
+                "19:05",
+                "Pilatus PC-12"
+            ],
+            [
+                "N/A",
+                "Private Charter",
+                "TEB",
+                "APG",
+                "20:10",
+                "Gulfstream G650"
+            ]
+        ]
+    }
+}

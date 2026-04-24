@@ -1,0 +1,58 @@
+{
+    "table-1050-1050": {
+        "title": [
+            "Date",
+            "Home Team",
+            "Away Team",
+            "Home Score",
+            "Away Score"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            3,
+            4
+        ],
+        "pgTitle": "Scottish Premier League Match Statistics (2015/2016)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many matches in the 2015/2016 season were held in Scotland Premier League",
+        "data": [
+            [
+                "2015-08-01",
+                "Celtic",
+                "Ross County",
+                "2",
+                "0"
+            ],
+            [
+                "2015-08-01",
+                "Dundee United",
+                "Aberdeen",
+                "0",
+                "1"
+            ],
+            [
+                "2015-08-01",
+                "Inverness CT",
+                "Motherwell",
+                "1",
+                "0"
+            ],
+            [
+                "2015-08-01",
+                "Kilmarnock",
+                "Dundee",
+                "0",
+                "4"
+            ],
+            [
+                "2015-08-02",
+                "St Johnstone",
+                "Hearts",
+                "1",
+                "2"
+            ]
+        ]
+    }
+}

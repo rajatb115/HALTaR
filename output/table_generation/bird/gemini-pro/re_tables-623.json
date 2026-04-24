@@ -1,0 +1,43 @@
+{
+    "table-623-623": {
+        "title": [
+            "Badge Name",
+            "User Display Name",
+            "Date Obtained"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "User Badges",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the name of badge that the user whose display name is \"Sharpie\" obtained.",
+        "data": [
+            [
+                "Enthusiast",
+                "Sharpie",
+                "2023-03-15"
+            ],
+            [
+                "Necromancer",
+                "Sharpie",
+                "2023-04-01"
+            ],
+            [
+                "Mortarboard",
+                "Sharpie",
+                "2023-05-20"
+            ],
+            [
+                "Teacher",
+                "Sharpie",
+                "2023-06-10"
+            ],
+            [
+                "Nice Answer",
+                "Sharpie",
+                "2023-07-01"
+            ]
+        ]
+    }
+}

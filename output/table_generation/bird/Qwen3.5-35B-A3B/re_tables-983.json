@@ -1,0 +1,77 @@
+{
+    "table-983-983": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Disqualification Reason",
+            "Race Event",
+            "Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many American drivers have been disqualified from the race.",
+        "data": [
+            [
+                "John Smith",
+                "American",
+                "Exceeding Speed Limit",
+                "Daytona 500",
+                "4/7/2023",
+                "Suspended for 3 Races"
+            ],
+            [
+                "Michael Johnson",
+                "American",
+                "Vehicle Inspection Failure",
+                "Indianapolis 5000",
+                "5/26/2023",
+                "DQ Permanent"
+            ],
+            [
+                "David Williams",
+                "American",
+                "Racing Outside Track Limits",
+                "Charlotte Motor Speedway",
+                "6/15/2019",
+                "Warning Issued"
+            ],
+            [
+                "Robert Brown",
+                "American",
+                "Misconduct on Pit Road",
+                "Talladega Superspeedway",
+                "7/10/2022",
+                "One-Race Ban"
+            ],
+            [
+                "James Davis",
+                "American",
+                "False Start Declaration",
+                "Bristol Dirt Track",
+                "8/2/2021",
+                "Immediate Ejection"
+            ],
+            [
+                "Christopher Miller",
+                "American",
+                "Alcohol Violation Check",
+                "Las Vegas Motor Speedway",
+                "9/12/2018",
+                "License Revoked"
+            ],
+            [
+                "Daniel Wilson",
+                "American",
+                "Equipment Tampering",
+                "Phoenix International",
+                "3/25/1999",
+                "Season Suspension"
+            ]
+        ]
+    }
+}

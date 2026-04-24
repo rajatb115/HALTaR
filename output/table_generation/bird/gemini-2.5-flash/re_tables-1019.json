@@ -1,0 +1,77 @@
+{
+    "table-1019-1019": {
+        "title": [
+            "Driver",
+            "Race",
+            "Year",
+            "Lap",
+            "Pit Stop Time (ms)",
+            "Team"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the average time in milliseconds Lewis Hamilton spent at a pit stop during Formula_1 races?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "Bahrain Grand Prix",
+                "2023",
+                "14",
+                "2350",
+                "Mercedes"
+            ],
+            [
+                "Lewis Hamilton",
+                "Monaco Grand Prix",
+                "2023",
+                "28",
+                "2680",
+                "Mercedes"
+            ],
+            [
+                "Lewis Hamilton",
+                "British Grand Prix",
+                "2022",
+                "19",
+                "2190",
+                "Mercedes"
+            ],
+            [
+                "Lewis Hamilton",
+                "Italian Grand Prix",
+                "2022",
+                "25",
+                "2410",
+                "Mercedes"
+            ],
+            [
+                "Lewis Hamilton",
+                "Abu Dhabi Grand Prix",
+                "2021",
+                "21",
+                "2270",
+                "Mercedes"
+            ],
+            [
+                "Lewis Hamilton",
+                "Spanish Grand Prix",
+                "2021",
+                "29",
+                "2530",
+                "Mercedes"
+            ],
+            [
+                "Lewis Hamilton",
+                "Hungarian Grand Prix",
+                "2020",
+                "32",
+                "2090",
+                "Mercedes"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-122-122": {
+        "title": [
+            "Account ID",
+            "Account Opening Date",
+            "Location"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Account Information by Location",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List account ID and account opening date for accounts from 'Prachatice'.",
+        "data": [
+            [
+                "12345",
+                "2022-01-15",
+                "Prachatice"
+            ],
+            [
+                "67890",
+                "2022-03-20",
+                "Prachatice"
+            ],
+            [
+                "24680",
+                "2023-05-10",
+                "Prachatice"
+            ],
+            [
+                "13579",
+                "2023-08-01",
+                "Prachatice"
+            ],
+            [
+                "98765",
+                "2024-02-28",
+                "Prachatice"
+            ]
+        ]
+    }
+}

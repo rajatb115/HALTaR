@@ -1,0 +1,61 @@
+{
+    "table-1440-1440": {
+        "title": [
+            "Member ID",
+            "Full Name",
+            "Major Department",
+            "Phone Number",
+            "Enrollment Status",
+            "Graduation Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the phone numbers of the members who majored in business at the College of Agriculture and Applied Sciences.",
+        "data": [
+            [
+                "M1042",
+                "Sarah Jenkins",
+                "Business Administration",
+                "+1-555-0192",
+                "Active",
+                "N/A"
+            ],
+            [
+                "M2105",
+                "Michael Chen",
+                "Marketing Strategy",
+                "+44-20-7946-0958",
+                "Alumni",
+                "4/2018"
+            ],
+            [
+                "M3389",
+                "Emily Rodriguez",
+                "International Trade",
+                "+61-2-9876-5432",
+                "Inactive",
+                "N/A"
+            ],
+            [
+                "M4512",
+                "David Thompson",
+                "Finance & Economics",
+                "+33-1-4567-8901",
+                "Active",
+                "5/2/24"
+            ],
+            [
+                "M5621",
+                "Jessica Lee",
+                "Supply Chain Mgmt",
+                "+81-3-5642-1098",
+                "Suspended",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "table-438-438": {
+        "title": [
+            "City",
+            "Country",
+            "Region",
+            "Continent",
+            "Population Estimate",
+            "Elevation (meters)",
+            "Time Zone"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What region is Kabul in?",
+        "data": [
+            [
+                "Kabul",
+                "Afghanistan",
+                "Kabul Province",
+                "Asia",
+                "4607000",
+                "1790",
+                "UTC+4:30"
+            ],
+            [
+                "Herat",
+                "Afghanistan",
+                "Herat Province",
+                "Asia",
+                "574276",
+                "920",
+                "UTC+4:30"
+            ],
+            [
+                "Mazar-i-Sharif",
+                "Afghanistan",
+                "Balkh Province",
+                "Asia",
+                "463500",
+                "355",
+                "UTC+4:30"
+            ],
+            [
+                "Kandahar",
+                "Afghanistan",
+                "Kandahar Province",
+                "Asia",
+                "614118",
+                "1010",
+                "UTC+4:30"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-263-263": {
+        "title": [
+            "Molecule ID",
+            "Bond Type",
+            "Carcinogenic Status",
+            "CAS Number",
+            "Classification",
+            "Safety Rating"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the single bond molecule id, which molecules are not carcinogenic?",
+        "data": [
+            [
+                "SBM-104",
+                "Single Bond",
+                "Not Carcinogenic",
+                "7664-93-9",
+                "Inorganic Salt",
+                "Safe"
+            ],
+            [
+                "SB-209",
+                "Single",
+                "Non-Carcinogen",
+                "123-45-6",
+                "Organic Solvent",
+                "Low Risk"
+            ],
+            [
+                "SBM-X55",
+                "Single Linkage",
+                "No Evidence",
+                "",
+                "Pharmaceutical Excipient",
+                "Approved"
+            ],
+            [
+                "SB-331",
+                "Single Covalent",
+                "Negative Result",
+                "98-76-5",
+                "Industrial Reagent",
+                "Cautionary"
+            ],
+            [
+                "SBM-Y99",
+                "Simple Single",
+                "Unclassified",
+                "",
+                "Research Grade",
+                "Pending Review"
+            ],
+            [
+                "SB-ZZ1",
+                "Mono-Bonded",
+                "Benign",
+                "44-55-1",
+                "Food Additive",
+                "Generally Recognized"
+            ],
+            [
+                "SB-A12",
+                "Pure Single",
+                "None Detected",
+                "11-22-3",
+                "Laboratory Standard",
+                "Verified Safe"
+            ]
+        ]
+    }
+}

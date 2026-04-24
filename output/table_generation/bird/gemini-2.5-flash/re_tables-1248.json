@@ -1,0 +1,69 @@
+{
+    "table-1248-1248": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "WBC Level",
+            "Fibrinogen Level",
+            "Age"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the male patients who have a normal level of white blood cells, how many of them have an abnormal fibrinogen level?",
+        "data": [
+            [
+                "P001",
+                "Male",
+                "Normal",
+                "Abnormal",
+                "45"
+            ],
+            [
+                "P002",
+                "Male",
+                "Normal",
+                "Normal",
+                "52"
+            ],
+            [
+                "P003",
+                "Female",
+                "High",
+                "Normal",
+                "38"
+            ],
+            [
+                "P004",
+                "Male",
+                "Normal",
+                "Abnormal",
+                "61"
+            ],
+            [
+                "P005",
+                "Male",
+                "Low",
+                "Normal",
+                "70"
+            ],
+            [
+                "P006",
+                "Female",
+                "Normal",
+                "Normal",
+                "29"
+            ],
+            [
+                "P007",
+                "Male",
+                "Normal",
+                "Normal",
+                "58"
+            ]
+        ]
+    }
+}

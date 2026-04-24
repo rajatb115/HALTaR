@@ -1,0 +1,49 @@
+{
+    "table-120-120": {
+        "title": [
+            "IATA Code",
+            "Airport Name",
+            "City",
+            "Country"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Airport Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the airport name for airport 'AKO'?",
+        "data": [
+            [
+                "AKO",
+                "Akron Fulton International Airport",
+                "Akron",
+                "USA"
+            ],
+            [
+                "ATL",
+                "Hartsfield-Jackson Atlanta International Airport",
+                "Atlanta",
+                "USA"
+            ],
+            [
+                "ORD",
+                "O'Hare International Airport",
+                "Chicago",
+                "USA"
+            ],
+            [
+                "LAX",
+                "Los Angeles International Airport",
+                "Los Angeles",
+                "USA"
+            ],
+            [
+                "JFK",
+                "John F. Kennedy International Airport",
+                "New York",
+                "USA"
+            ]
+        ]
+    }
+}

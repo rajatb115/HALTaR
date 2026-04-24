@@ -1,0 +1,85 @@
+{
+    "table-604-604": {
+        "title": [
+            "User_ID",
+            "Year_Favorite_Gained",
+            "Month",
+            "Platform_Source",
+            "Count_Incremental",
+            "Total_Cumulative",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the sum of favourite count gained by user ID 686 in 2011?",
+        "data": [
+            [
+                "687",
+                "45",
+                "January",
+                "Twitter",
+                "+12",
+                "57",
+                "Active"
+            ],
+            [
+                "690",
+                "38",
+                "February",
+                "Facebook",
+                "+8",
+                "89",
+                "Inactive"
+            ],
+            [
+                "675",
+                "62",
+                "March",
+                "Instagram",
+                "+22",
+                "N/A",
+                "Pending"
+            ],
+            [
+                "668",
+                "-5",
+                "April",
+                "Twitter (Deleted Post)",
+                "-3",
+                "92",
+                "Archived"
+            ],
+            [
+                "650",
+                "-120",
+                "May",
+                "Spam Removal Event",
+                "-4500",
+                "N/A",
+                "Flagged"
+            ],
+            [
+                "642",
+                "-8",
+                "June",
+                "Manual Adjustment",
+                "-2",
+                "NA",
+                "Verified"
+            ],
+            [
+                "635",
+                "-9",
+                "July",
+                "System Rollback",
+                "-6",
+                "NA",
+                "Reverted"
+            ]
+        ]
+    }
+}

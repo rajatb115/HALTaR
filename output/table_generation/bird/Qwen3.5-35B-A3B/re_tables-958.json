@@ -1,0 +1,69 @@
+{
+    "table-958-958": {
+        "title": [
+            "Driver_Name",
+            "Nationality",
+            "Race_Status",
+            "Reason_DNF",
+            "Lap_Stopped"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many Italian drivers haven't finished the race?",
+        "data": [
+            [
+                "Marco Rossi",
+                "Italy",
+                "Did Not Finish",
+                "Engine Failure",
+                "42"
+            ],
+            [
+                "Luca Bianchi",
+                "Italy",
+                "Did Not Finish",
+                "Collision Damage",
+                "67"
+            ],
+            [
+                "Alessandro Ferrari",
+                "Italy",
+                "Did Not Finish",
+                "Mechanical Issue",
+                "89"
+            ],
+            [
+                "Giovanni Romano",
+                "Italy",
+                "Did Not Finish",
+                "Pit Stop Error",
+                "12"
+            ],
+            [
+                "Matteo Ricci",
+                "Italy",
+                "Did Not Finish",
+                "Crash on Turn 3",
+                "28"
+            ],
+            [
+                "Stefano Lombardi",
+                "Italy",
+                "Did Not Finish",
+                "Gearbox Failure",
+                "55"
+            ],
+            [
+                "Andrea Conti",
+                "Italy",
+                "Did Not Finish",
+                "Hydraulic Leak",
+                "33"
+            ]
+        ]
+    }
+}

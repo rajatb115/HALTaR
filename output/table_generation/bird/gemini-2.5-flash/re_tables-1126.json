@@ -1,0 +1,85 @@
+{
+    "table-1126-1126": {
+        "title": [
+            "Player Name",
+            "Age",
+            "Finishing Rate",
+            "Team",
+            "Position",
+            "Goals Scored",
+            "Shots on Target"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the players with finishing rate of 1, pick the eldest player and state the player's name.",
+        "data": [
+            [
+                "Karim Benzema",
+                "36",
+                "0.88",
+                "Al-Ittihad",
+                "Forward",
+                "15",
+                "17"
+            ],
+            [
+                "Robert Lewandowski",
+                "35",
+                "1.00",
+                "FC Barcelona",
+                "Forward",
+                "20",
+                "20"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "39",
+                "0.95",
+                "Al Nassr FC",
+                "Forward",
+                "22",
+                "23"
+            ],
+            [
+                "Harry Kane",
+                "30",
+                "0.92",
+                "Bayern Munich",
+                "Forward",
+                "23",
+                "25"
+            ],
+            [
+                "Erling Haaland",
+                "23",
+                "1.00",
+                "Manchester City",
+                "Forward",
+                "18",
+                "18"
+            ],
+            [
+                "Olivier Giroud",
+                "37",
+                "1.00",
+                "AC Milan",
+                "Forward",
+                "14",
+                "14"
+            ],
+            [
+                "Kylian Mbapp\u00e9",
+                "25",
+                "0.90",
+                "Paris Saint-Germain",
+                "Forward",
+                "27",
+                "30"
+            ]
+        ]
+    }
+}

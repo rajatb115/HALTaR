@@ -1,0 +1,55 @@
+{
+    "table-1458-1458": {
+        "title": [
+            "Full Name",
+            "Contact Number",
+            "Expense Category",
+            "Amount Spent",
+            "Average Expense"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "High Spending Members Contact Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the full name and contact number of members who had to spend more than average on each expense.",
+        "data": [
+            [
+                "John Smith",
+                "555-123-4567",
+                "Travel",
+                "$600",
+                "$450"
+            ],
+            [
+                "Alice Brown",
+                "555-987-6543",
+                "Food",
+                "$300",
+                "$200"
+            ],
+            [
+                "David Lee",
+                "555-246-8013",
+                "Accommodation",
+                "$1200",
+                "$900"
+            ],
+            [
+                "Emily Wilson",
+                "555-135-7912",
+                "Entertainment",
+                "$250",
+                "$150"
+            ],
+            [
+                "Michael Garcia",
+                "555-864-2079",
+                "Supplies",
+                "$150",
+                "$100"
+            ]
+        ]
+    }
+}

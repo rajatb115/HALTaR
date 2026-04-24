@@ -1,0 +1,39 @@
+{
+    "table-68-68": {
+        "title": [
+            "Model",
+            "Production Year"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Car Models by Production Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which distinct car models are the produced after 1980?",
+        "data": [
+            [
+                "Camry",
+                "1982"
+            ],
+            [
+                "Civic",
+                "1980"
+            ],
+            [
+                "Accord",
+                "1981"
+            ],
+            [
+                "Mustang",
+                "1964"
+            ],
+            [
+                "Corvette",
+                "1953"
+            ]
+        ]
+    }
+}

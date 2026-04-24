@@ -1,0 +1,37 @@
+{
+    "table-23-23": {
+        "title": [
+            "Singer Name",
+            "Concert Date"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Concert Performers by Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the singers who performed in a concert in 2014?",
+        "data": [
+            [
+                "Taylor Swift",
+                "2014-07-13"
+            ],
+            [
+                "Beyonc\u00e9",
+                "2014-08-23"
+            ],
+            [
+                "Ed Sheeran",
+                "2014-09-05"
+            ],
+            [
+                "Drake",
+                "2014-10-18"
+            ],
+            [
+                "Rihanna",
+                "2014-11-29"
+            ]
+        ]
+    }
+}

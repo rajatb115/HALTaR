@@ -1,0 +1,69 @@
+{
+    "table-377-377": {
+        "title": [
+            "Series_Name",
+            "Package_Option",
+            "HD_Support",
+            "Monthly_Cost",
+            "Content_Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the package options and the name of the series for the TV Channel that supports high definition TV?",
+        "data": [
+            [
+                "HBO Max",
+                "Premium Plus",
+                "Yes",
+                "$14.99",
+                "Movies & Originals"
+            ],
+            [
+                "Showtime Anytime",
+                "Ultimate Bundle",
+                "Yes",
+                "$10.95",
+                "Drama & Sports"
+            ],
+            [
+                "Starz Play",
+                "Gold Tier",
+                "Yes",
+                "$8.98",
+                "Movies & Series"
+            ],
+            [
+                "Cinemax Select",
+                "Standard HD",
+                "Yes",
+                "$7.96",
+                "Action Films"
+            ],
+            [
+                "Epix Now",
+                "Basic Stream",
+                "No",
+                "$5.97",
+                "Classics & Indie"
+            ],
+            [
+                "Paramount+ Essential",
+                "Core Plan",
+                "Yes",
+                "$4.49",
+                "Live News & Shows"
+            ],
+            [
+                "Discovery+ Premium",
+                "Family Pack",
+                "Yes",
+                "$6.90",
+                "Documentaries"
+            ]
+        ]
+    }
+}

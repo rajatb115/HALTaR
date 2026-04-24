@@ -1,0 +1,57 @@
+{
+    "table-294-294": {
+        "title": [
+            "Address ID",
+            "Address Line 1",
+            "Address Line 2",
+            "City",
+            "State"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Address Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "what are all the addresses including line 1 and line 2?",
+        "data": [
+            [
+                "1",
+                "123 Main St",
+                "Apt 4B",
+                "Anytown",
+                "CA"
+            ],
+            [
+                "2",
+                "456 Oak Ave",
+                "",
+                "Somecity",
+                "NY"
+            ],
+            [
+                "3",
+                "789 Pine Ln",
+                "Suite 100",
+                "Othertown",
+                "TX"
+            ],
+            [
+                "4",
+                "101 Elm Rd",
+                "",
+                "Bigcity",
+                "FL"
+            ],
+            [
+                "5",
+                "222 Maple Dr",
+                "",
+                "Smallville",
+                "OH"
+            ]
+        ]
+    }
+}

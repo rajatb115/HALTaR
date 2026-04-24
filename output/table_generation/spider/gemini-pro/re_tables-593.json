@@ -1,0 +1,45 @@
+{
+    "table-593-593": {
+        "title": [
+            "Treatment Name",
+            "Cost (USD)",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Treatment Cost and Description",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the cost and treatment type description of each treatment?",
+        "data": [
+            [
+                "Acupuncture",
+                "75",
+                "Traditional Chinese medicine technique using needles."
+            ],
+            [
+                "Massage Therapy",
+                "60",
+                "Manual manipulation of soft tissues."
+            ],
+            [
+                "Chiropractic",
+                "85",
+                "Treatment focuses on musculoskeletal system."
+            ],
+            [
+                "Physical Therapy",
+                "100",
+                "Rehabilitation exercises and therapies."
+            ],
+            [
+                "Hydrotherapy",
+                "50",
+                "Use of water for therapeutic purposes."
+            ]
+        ]
+    }
+}

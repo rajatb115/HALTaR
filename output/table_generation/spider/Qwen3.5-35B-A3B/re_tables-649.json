@@ -1,0 +1,85 @@
+{
+    "table-649-649": {
+        "title": [
+            "Singer_Name",
+            "Album_Title",
+            "Sales_Units",
+            "Genre",
+            "Release_Year",
+            "Country_of-Origin",
+            "Record_Label"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "what are the different names of the singers that have sales more than 300000?",
+        "data": [
+            [
+                "Taylor Swift",
+                "Midnights",
+                "4500",
+                "Pop",
+                "",
+                "United States",
+                "Republic Records"
+            ],
+            [
+                "Drake",
+                "Certified Lover Boy",
+                "620",
+                "Hip Hop",
+                "",
+                "Canada",
+                "OVO Sound"
+            ],
+            [
+                "Beyonc\u00e9",
+                "Renaissance",
+                "380",
+                "R&B",
+                "",
+                "United Kingdom",
+                "Parkwood Entertainment"
+            ],
+            [
+                "The Weeknd",
+                "After Hours",
+                "710",
+                "Alternative",
+                "",
+                "Sweden",
+                "XO/Republic"
+            ],
+            [
+                "Adele",
+                "\u4e09\u5341\u5c81\u7684\u5973\u4eba",
+                "550",
+                "Soul",
+                "",
+                "Germany",
+                "XL/Columbia"
+            ],
+            [
+                "Ed Sheeran",
+                "Divide Tour Live",
+                "890",
+                "Folk Rock",
+                "",
+                "Ireland",
+                "Atlantic Records"
+            ],
+            [
+                "Dua Lipa",
+                "Future Nostalgia",
+                "920",
+                "Dance Pop",
+                "",
+                "Netherlands",
+                "Warner Music Group"
+            ]
+        ]
+    }
+}

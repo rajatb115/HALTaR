@@ -1,0 +1,39 @@
+{
+    "table-93-93": {
+        "title": [
+            "Year",
+            "Weight Category"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Car Production Years Based on Weight",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the different years in which there were cars produced that weighed less than 4000 and also cars that weighted more than 3000 ?",
+        "data": [
+            [
+                "1970",
+                "Less than 4000 lbs"
+            ],
+            [
+                "1970",
+                "Greater than 3000 lbs"
+            ],
+            [
+                "1971",
+                "Less than 4000 lbs"
+            ],
+            [
+                "1971",
+                "Greater than 3000 lbs"
+            ],
+            [
+                "1972",
+                "Less than 4000 lbs"
+            ]
+        ]
+    }
+}

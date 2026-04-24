@@ -1,0 +1,85 @@
+{
+    "table-1449-1449": {
+        "title": [
+            "Event Name",
+            "Date",
+            "Expense Category",
+            "Amount Spent ($)",
+            "Currency",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name and date of events with expenses for pizza that were more than fifty dollars but less than a hundred dollars.",
+        "data": [
+            [
+                "Pizza Party Launch",
+                "4/12/2023",
+                "Food & Beverage",
+                "$65.00",
+                "USD",
+                "Completed",
+                "Team celebration"
+            ],
+            [
+                "Summer Festival Catering",
+                "7/22/1923",
+                "Food Services",
+                "$82.50",
+                "EUR",
+                "Completed",
+                "Community event"
+            ],
+            [
+                "Office Lunch Meeting",
+                "9/05/2100",
+                "Dining Expenses",
+                "$55.25",
+                "GBP",
+                "Pending",
+                "Weekly sync"
+            ],
+            [
+                "Birthday Celebration",
+                "3/15/1899",
+                "Social Events",
+                "$99.99",
+                "JPY",
+                "Cancelled",
+                "Guest count changed"
+            ],
+            [
+                "Charity Dinner Night",
+                "6/30/2456",
+                "Fundraising Costs",
+                "$70.05",
+                "CAD",
+                "Active",
+                "Local non-profit"
+            ],
+            [
+                "Conference Breakfast",
+                "5/01/2345",
+                "Logistics",
+                "$45.10",
+                "AUD",
+                "Failed",
+                "Budget exceeded limit"
+            ],
+            [
+                "Holiday Gathering Prep",
+                "8/10/1776",
+                "Supplies",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

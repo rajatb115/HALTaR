@@ -1,0 +1,69 @@
+{
+    "table-623-623": {
+        "title": [
+            "Dog Name",
+            "Breed",
+            "Age in Years",
+            "Owner Location",
+            "Verification Status",
+            "Record Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Tell me the age of the oldest dog.",
+        "data": [
+            [
+                "Bobi",
+                "Rafeiro do Alentejo",
+                "31",
+                "Portugal",
+                "Pending Review",
+                "4/6/2023"
+            ],
+            [
+                "Bluey",
+                "Australian Cattle Dog",
+                "7 years old",
+                "Australia",
+                "Verified",
+                "5/1/1939"
+            ],
+            [
+                "Max",
+                "Mixed Breed",
+                "N/A",
+                "USA",
+                "Unverified Claim",
+                "8/12/2100"
+            ],
+            [
+                "Lulu",
+                "Greyhound",
+                "6 years old",
+                "UK",
+                "Confirmed",
+                "9/15/2201"
+            ],
+            [
+                "Barney",
+                "Labrador Retriever",
+                "0 years old",
+                "Canada",
+                "Data Error",
+                "Jan 1, 2122"
+            ],
+            [
+                "Hank",
+                "Beagle Mix",
+                "N/A",
+                "Japan",
+                "Under Investigation",
+                "Dec 30, 1800"
+            ]
+        ]
+    }
+}

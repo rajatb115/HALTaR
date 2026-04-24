@@ -1,0 +1,53 @@
+{
+    "table-1059-1059": {
+        "title": [
+            "Player Name",
+            "Height (cm)",
+            "Games Played",
+            "Finishing Rate (%)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Player Statistics Comparison",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who has the highest average finishing rate between the highest and shortest football player?",
+        "data": [
+            [
+                "Player A",
+                "200",
+                "150",
+                "85"
+            ],
+            [
+                "Player B",
+                "160",
+                "120",
+                "70"
+            ],
+            [
+                "Player C",
+                "195",
+                "100",
+                "90"
+            ],
+            [
+                "Player D",
+                "165",
+                "180",
+                "75"
+            ],
+            [
+                "Player E",
+                "180",
+                "140",
+                "80"
+            ]
+        ]
+    }
+}

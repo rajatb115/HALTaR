@@ -1,0 +1,61 @@
+{
+    "table-792-792": {
+        "title": [
+            "Superhero",
+            "Height_cm",
+            "Source_Material",
+            "Measurement_Year",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average height for each superhero.",
+        "data": [
+            [
+                "Superman",
+                "6'4\"",
+                "Comic Books",
+                "7/1938",
+                "Active",
+                "Varies by era"
+            ],
+            [
+                "Batman",
+                "5'10\"",
+                "Comics & Movies",
+                "N/A",
+                "Consistent across media",
+                ""
+            ],
+            [
+                "Spider-Man",
+                "4'11\"",
+                "Marvel Comics",
+                "8/16/18",
+                "Short stature noted in early issues",
+                ""
+            ],
+            [
+                "Wonder Woman",
+                "3'1\" (approx.)",
+                "DC Comics",
+                "Pre-Crisis",
+                "Often depicted taller in modern adaptations",
+                ""
+            ],
+            [
+                "Thor",
+                "9'0\" (in armor)",
+                "Norse Mythology Adaptation",
+                "Ancient Era",
+                "Variable based on form",
+                ""
+            ]
+        ]
+    }
+}

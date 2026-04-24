@@ -1,0 +1,45 @@
+{
+    "table-1303-1303": {
+        "title": [
+            "Creatinine Phosphokinase Level",
+            "Degree of Coagulation",
+            "Number of Patients"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Coagulation Degree by Creatinine Phosphokinase Level",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients with a normal range of creatinine phosphokinase, how many of them have a positive measure of degree of coagulation?",
+        "data": [
+            [
+                "Normal",
+                "Positive",
+                "15"
+            ],
+            [
+                "Normal",
+                "Negative",
+                "35"
+            ],
+            [
+                "High",
+                "Positive",
+                "25"
+            ],
+            [
+                "High",
+                "Negative",
+                "5"
+            ],
+            [
+                "Low",
+                "Positive",
+                "5"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1404-1404": {
+        "title": [
+            "Event Name",
+            "Status",
+            "Budget (USD)",
+            "Actual Cost (USD)",
+            "Cost Overrun (USD)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicate the name of the closed event whose cost has exceeded the budget the most.",
+        "data": [
+            [
+                "Annual Charity Gala",
+                "Closed",
+                "50000",
+                "62500",
+                "12500"
+            ],
+            [
+                "Q3 Product Launch",
+                "Closed",
+                "75000",
+                "81000",
+                "6000"
+            ],
+            [
+                "Team Building Retreat",
+                "Closed",
+                "15000",
+                "17800",
+                "2800"
+            ],
+            [
+                "Holiday Staff Party",
+                "Closed",
+                "20000",
+                "20000",
+                "0"
+            ],
+            [
+                "Client Appreciation Dinner",
+                "Closed",
+                "10000",
+                "13500",
+                "3500"
+            ],
+            [
+                "Vendor Summit 2023",
+                "Closed",
+                "30000",
+                "45000",
+                "15000"
+            ],
+            [
+                "Internal Training Workshop",
+                "Closed",
+                "5000",
+                "4800",
+                "-200"
+            ]
+        ]
+    }
+}

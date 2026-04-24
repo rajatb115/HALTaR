@@ -1,0 +1,69 @@
+{
+    "table-1264-1264": {
+        "title": [
+            "Patient ID",
+            "Hematocrit (%)",
+            "Hematocrit Status",
+            "Anti-Cardiolipin Ab (U/mL)",
+            "Diagnosis"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients whose level of Hematoclit isn't normal, which patient has the highest anti-Cardiolipin antibody concentration? Please list his or her ID.",
+        "data": [
+            [
+                "P101",
+                "42.5",
+                "Normal",
+                "8.2",
+                "Routine Checkup"
+            ],
+            [
+                "P102",
+                "31.8",
+                "Low",
+                "28.5",
+                "Anemia, Suspected APS"
+            ],
+            [
+                "P103",
+                "53.1",
+                "High",
+                "15.1",
+                "Polycythemia, Borderline APS"
+            ],
+            [
+                "P104",
+                "38.9",
+                "Normal",
+                "4.7",
+                "Follow-up"
+            ],
+            [
+                "P105",
+                "30.2",
+                "Low",
+                "45.9",
+                "Anemia, Confirmed APS"
+            ],
+            [
+                "P106",
+                "55.0",
+                "High",
+                "32.0",
+                "Polycythemia, Confirmed APS"
+            ],
+            [
+                "P107",
+                "40.1",
+                "Normal",
+                "12.3",
+                "General Health"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-154-154": {
+        "title": [
+            "Card Type",
+            "Loan Eligibility",
+            "Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Classic Card Loan Eligibility",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many 'classic' cards are eligible for loan?",
+        "data": [
+            [
+                "Classic",
+                "Eligible",
+                "15"
+            ],
+            [
+                "Gold",
+                "Eligible",
+                "23"
+            ],
+            [
+                "Silver",
+                "Not Eligible",
+                "12"
+            ],
+            [
+                "Classic",
+                "Not Eligible",
+                "8"
+            ],
+            [
+                "Platinum",
+                "Eligible",
+                "30"
+            ]
+        ]
+    }
+}

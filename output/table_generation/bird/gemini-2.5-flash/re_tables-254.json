@@ -1,0 +1,69 @@
+{
+    "table-254-254": {
+        "title": [
+            "Element 1",
+            "Element 2",
+            "Bond Type",
+            "Example Compound",
+            "Category"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the elements of all the triple bonds.",
+        "data": [
+            [
+                "Nitrogen",
+                "Nitrogen",
+                "Triple",
+                "N\u2082",
+                "Diatomic"
+            ],
+            [
+                "Carbon",
+                "Carbon",
+                "Triple",
+                "Ethyne (C\u2082H\u2082)",
+                "Organic"
+            ],
+            [
+                "Carbon",
+                "Nitrogen",
+                "Triple",
+                "Hydrogen Cyanide (HCN)",
+                "Organic/Inorganic"
+            ],
+            [
+                "Carbon",
+                "Oxygen",
+                "Triple",
+                "Carbon Monoxide (CO)",
+                "Inorganic"
+            ],
+            [
+                "Nitrogen",
+                "Carbon",
+                "Triple",
+                "Methyl Isocyanide (CH\u2083NC)",
+                "Organic"
+            ],
+            [
+                "Phosphorus",
+                "Phosphorus",
+                "Triple",
+                "P\u2082 (Diphosphorus)",
+                "Diatomic/Inorganic"
+            ],
+            [
+                "Silicon",
+                "Carbon",
+                "Triple",
+                "HSiCH (Silyne)",
+                "Organic (Reactive)"
+            ]
+        ]
+    }
+}

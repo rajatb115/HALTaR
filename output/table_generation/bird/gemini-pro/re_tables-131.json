@@ -1,0 +1,52 @@
+{
+    "table-131-131": {
+        "title": [
+            "Account ID",
+            "District ID",
+            "Frequency of Transactions",
+            "Has Credit Card"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Account Holders in South Bohemia Without Credit Cards",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the account holders in South Bohemia still do not own credit cards?",
+        "data": [
+            [
+                "12345",
+                "72",
+                "Monthly",
+                "No"
+            ],
+            [
+                "67890",
+                "72",
+                "Weekly",
+                "Yes"
+            ],
+            [
+                "24680",
+                "73",
+                "Bi-Weekly",
+                "No"
+            ],
+            [
+                "13579",
+                "74",
+                "Monthly",
+                "Yes"
+            ],
+            [
+                "98765",
+                "74",
+                "Weekly",
+                "No"
+            ]
+        ]
+    }
+}

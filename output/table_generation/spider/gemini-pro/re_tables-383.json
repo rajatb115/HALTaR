@@ -1,0 +1,43 @@
+{
+    "table-383-383": {
+        "title": [
+            "Series Name",
+            "Country",
+            "Director"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Cartoon TV Channel Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the series name and country of all TV channels that are playing cartoons directed by Ben Jones and cartoons directed by Michael Chang?",
+        "data": [
+            [
+                "Cartoon Time",
+                "USA",
+                "Ben Jones"
+            ],
+            [
+                "Toon Hour",
+                "Canada",
+                "Michael Chang"
+            ],
+            [
+                "Funny Pics",
+                "UK",
+                "Ben Jones"
+            ],
+            [
+                "Laugh Land",
+                "France",
+                "Michael Chang"
+            ],
+            [
+                "Silly Show",
+                "USA",
+                "Ben Jones"
+            ]
+        ]
+    }
+}

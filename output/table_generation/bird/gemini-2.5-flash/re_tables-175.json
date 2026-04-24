@@ -1,0 +1,62 @@
+{
+    "table-175-175": {
+        "title": [
+            "Account Owner ID",
+            "Name",
+            "Birth Year",
+            "Account Type",
+            "Join Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What year was account owner number 130 born?",
+        "data": [
+            [
+                "128",
+                "Robert White",
+                "1965",
+                "Checking",
+                "1998-05-20"
+            ],
+            [
+                "129",
+                "Peter Jones",
+                "1978",
+                "Investment",
+                "2005-11-01"
+            ],
+            [
+                "130",
+                "John Doe",
+                "1985",
+                "Savings",
+                "2010-03-15"
+            ],
+            [
+                "131",
+                "Jane Smith",
+                "1992",
+                "Checking",
+                "2015-07-22"
+            ],
+            [
+                "132",
+                "Alice Brown",
+                "1990",
+                "Savings",
+                "2012-01-10"
+            ],
+            [
+                "133",
+                "Emily Green",
+                "1988",
+                "Investment",
+                "2018-09-01"
+            ]
+        ]
+    }
+}

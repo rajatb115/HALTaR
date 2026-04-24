@@ -1,0 +1,43 @@
+{
+    "table-588-588": {
+        "title": [
+            "First Name",
+            "Last Name",
+            "Treatment Cost"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Professionals and Treatment Costs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the first name and last name of the professionals who have done treatment with cost below average?",
+        "data": [
+            [
+                "John",
+                "Smith",
+                "$95"
+            ],
+            [
+                "Alice",
+                "Brown",
+                "$80"
+            ],
+            [
+                "Michael",
+                "Davis",
+                "$110"
+            ],
+            [
+                "Emily",
+                "Wilson",
+                "$75"
+            ],
+            [
+                "David",
+                "Garcia",
+                "$100"
+            ]
+        ]
+    }
+}

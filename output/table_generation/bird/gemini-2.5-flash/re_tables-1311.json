@@ -1,0 +1,61 @@
+{
+    "table-1311-1311": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Prothrombin Time (seconds)",
+            "PT Interpretation"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the male patients that have a normal prothrombin time, what is their average prothrombin time?",
+        "data": [
+            [
+                "P101",
+                "Male",
+                "12.3",
+                "Normal"
+            ],
+            [
+                "P102",
+                "Male",
+                "11.9",
+                "Normal"
+            ],
+            [
+                "P103",
+                "Female",
+                "12.8",
+                "Normal"
+            ],
+            [
+                "P104",
+                "Male",
+                "15.1",
+                "High"
+            ],
+            [
+                "P105",
+                "Male",
+                "13.0",
+                "Normal"
+            ],
+            [
+                "P106",
+                "Female",
+                "11.7",
+                "Normal"
+            ],
+            [
+                "P107",
+                "Male",
+                "12.5",
+                "Normal"
+            ]
+        ]
+    }
+}

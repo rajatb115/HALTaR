@@ -1,0 +1,37 @@
+{
+    "table-129-129": {
+        "title": [
+            "Airline",
+            "Airport Code"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Airlines Departing from Multiple Airports",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airlines have departing flights from both APG and CVO airports?",
+        "data": [
+            [
+                "United Airlines",
+                "APG"
+            ],
+            [
+                "United Airlines",
+                "CVO"
+            ],
+            [
+                "Delta",
+                "APG"
+            ],
+            [
+                "American Airlines",
+                "CVO"
+            ],
+            [
+                "Southwest",
+                "APG"
+            ]
+        ]
+    }
+}

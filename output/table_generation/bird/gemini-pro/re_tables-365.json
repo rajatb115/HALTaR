@@ -1,0 +1,37 @@
+{
+    "table-365-365": {
+        "title": [
+            "Card Name",
+            "Status"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Card Game Card Statuses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the status of card \"Cloudchaser Eagle\"?",
+        "data": [
+            [
+                "Cloudchaser Eagle",
+                "Active"
+            ],
+            [
+                "Burning Fury",
+                "Banned"
+            ],
+            [
+                "Mana Bloom",
+                "Restricted"
+            ],
+            [
+                "Stone Golem",
+                "Active"
+            ],
+            [
+                "Shadow Step",
+                "Errata"
+            ]
+        ]
+    }
+}

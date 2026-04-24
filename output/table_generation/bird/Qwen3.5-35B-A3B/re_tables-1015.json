@@ -1,0 +1,76 @@
+{
+    "table-1015-1015": {
+        "title": [
+            "Circuit Name",
+            "Location",
+            "Lap Record Time",
+            "Driver",
+            "Car Model",
+            "Date Set",
+            "Category"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the lap records for the circuits in Italy.",
+        "data": [
+            [
+                "Circuit de Monaco",
+                "Monte Carlo",
+                "74.6 km/h avg",
+                "Charles Leclerc",
+                "Ferrari SF-23",
+                "May 27, 2023",
+                "F1"
+            ],
+            [
+                "Autodromo Nazionale Monza",
+                "Monza",
+                "80.5 s",
+                "Kimi R\u00e4ikk\u00f6nen",
+                "Ferrari F2012",
+                "Sep 10, 2012",
+                "F1"
+            ],
+            [
+                "Misano World Circuit Marco Simoncelli",
+                "Misano Adriatico",
+                "58.2 s",
+                "Francesco Bagnaia",
+                "Ducati Desmosedici GP23",
+                "Aug 26, 2023",
+                "MotoGP"
+            ],
+            [
+                "Imola Circuit Enzo e Dino Ferrari",
+                "Imola",
+                "68.4 s",
+                "Max Verstappen",
+                "Red Bull RB19",
+                "Apr 21, 2024",
+                "F1"
+            ],
+            [
+                "Vallelunga Circuit",
+                "Ponzano Romano",
+                "42.1 s",
+                "Antonio Giovinazzi",
+                "Alfa Romeo C41",
+                "Jun 15, 2025",
+                "GTWRC"
+            ],
+            [
+                "Adria International Raceway",
+                "Adria",
+                "39.8 s",
+                "Lando Norris",
+                "McLaren MCL35M",
+                "Jul 02, 2024",
+                ""
+            ]
+        ]
+    }
+}

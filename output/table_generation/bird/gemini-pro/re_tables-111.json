@@ -1,0 +1,52 @@
+{
+    "table-111-111": {
+        "title": [
+            "Client ID",
+            "Transaction Date",
+            "Transaction Amount (USD)",
+            "Disposition ID"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Client Transaction Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the disposition id of the client who made 5100 USD transaction in 1998/9/2?",
+        "data": [
+            [
+                "12345",
+                "1998-09-02",
+                "5100",
+                "A"
+            ],
+            [
+                "67890",
+                "1999-01-15",
+                "2500",
+                "B"
+            ],
+            [
+                "24680",
+                "1998-05-20",
+                "10000",
+                "C"
+            ],
+            [
+                "13579",
+                "2000-03-10",
+                "7500",
+                "D"
+            ],
+            [
+                "98765",
+                "1997-11-01",
+                "3000",
+                "E"
+            ]
+        ]
+    }
+}

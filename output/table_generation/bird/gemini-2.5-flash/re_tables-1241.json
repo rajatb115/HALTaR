@@ -1,0 +1,77 @@
+{
+    "table-1241-1241": {
+        "title": [
+            "Examination ID",
+            "Exam Date",
+            "Patient Age",
+            "Hematocrit (%)",
+            "Normal Lower Bound (%)",
+            "Interpretation"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From laboratory examinations in 1991, what is the average hematoclit level that is lower than the normal range.",
+        "data": [
+            [
+                "LAB-1991-001",
+                "1991-03-15",
+                "45",
+                "32.5",
+                "38.0",
+                "Below Normal"
+            ],
+            [
+                "LAB-1991-002",
+                "1991-06-20",
+                "62",
+                "39.1",
+                "38.0",
+                "Normal"
+            ],
+            [
+                "LAB-1991-003",
+                "1991-01-10",
+                "28",
+                "35.2",
+                "37.0",
+                "Below Normal"
+            ],
+            [
+                "LAB-1991-004",
+                "1991-09-05",
+                "55",
+                "41.8",
+                "38.0",
+                "Normal"
+            ],
+            [
+                "LAB-1991-005",
+                "1991-11-22",
+                "33",
+                "36.1",
+                "37.0",
+                "Below Normal"
+            ],
+            [
+                "LAB-1991-006",
+                "1991-04-01",
+                "70",
+                "37.5",
+                "37.0",
+                "Normal"
+            ],
+            [
+                "LAB-1991-007",
+                "1991-07-18",
+                "40",
+                "31.9",
+                "38.0",
+                "Below Normal"
+            ]
+        ]
+    }
+}

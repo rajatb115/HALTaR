@@ -1,0 +1,37 @@
+{
+    "table-17-17": {
+        "title": [
+            "Stadium Name",
+            "Concerts Held"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Stadiums Without Concerts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the stadium names without any concert.",
+        "data": [
+            [
+                "Dodger Stadium",
+                "Yes"
+            ],
+            [
+                "Wrigley Field",
+                "No"
+            ],
+            [
+                "Fenway Park",
+                "Yes"
+            ],
+            [
+                "Soldier Field",
+                "No"
+            ],
+            [
+                "Yankee Stadium",
+                "Yes"
+            ]
+        ]
+    }
+}

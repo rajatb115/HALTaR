@@ -1,0 +1,49 @@
+{
+    "table-761-761": {
+        "title": [
+            "Publisher",
+            "Height Range (cm)",
+            "Number of Heroes",
+            "Percentage (%)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Superhero Height and Publication Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In superheroes with height between 150 to 180, what is the percentage of heroes published by Marvel Comics?",
+        "data": [
+            [
+                "Marvel Comics",
+                "150-160",
+                "15",
+                "45%"
+            ],
+            [
+                "Marvel Comics",
+                "160-170",
+                "20",
+                "55%"
+            ],
+            [
+                "Marvel Comics",
+                "170-180",
+                "10",
+                "30%"
+            ],
+            [
+                "Other",
+                "150-180",
+                "40",
+                "N/A"
+            ],
+            [
+                "**Total**",
+                "**150-180**",
+                "**85**",
+                "**100%**"
+            ]
+        ]
+    }
+}

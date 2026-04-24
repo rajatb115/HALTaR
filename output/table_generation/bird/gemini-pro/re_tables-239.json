@@ -1,0 +1,39 @@
+{
+    "table-239-239": {
+        "title": [
+            "Bond Type",
+            "Number of Molecules"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Molecules by Bond Type",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many molecules have a triple bond type?",
+        "data": [
+            [
+                "Single",
+                "1500"
+            ],
+            [
+                "Double",
+                "750"
+            ],
+            [
+                "Triple",
+                "300"
+            ],
+            [
+                "Aromatic",
+                "450"
+            ],
+            [
+                "Ionic",
+                "200"
+            ]
+        ]
+    }
+}

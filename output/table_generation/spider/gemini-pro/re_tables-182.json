@@ -1,0 +1,51 @@
+{
+    "table-182-182": {
+        "title": [
+            "Template Name",
+            "Version Number",
+            "Template Type Code",
+            "Description"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Template Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the version number and template type code for the template with version number later than 5?",
+        "data": [
+            [
+                "Basic Email",
+                "6",
+                "EM01",
+                "Standard email template"
+            ],
+            [
+                "Newsletter",
+                "7",
+                "NL02",
+                "Weekly newsletter template"
+            ],
+            [
+                "Product Announcement",
+                "8",
+                "PA03",
+                "Template for new product releases"
+            ],
+            [
+                "Welcome Email",
+                "9",
+                "EM04",
+                "Template for welcoming new users"
+            ],
+            [
+                "Sales Promotion",
+                "10",
+                "SP05",
+                "Template for promotional offers"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "table-588-588": {
+        "title": [
+            "Post Title",
+            "View Count",
+            "Comment Snippet",
+            "Score",
+            "Tag Category",
+            "Author ID",
+            "Posted Date",
+            "Platform Source"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average view count of posts tagged as 'humor' and write the title and the comments of the posts alongside their scores if applicable.",
+        "data": [
+            [
+                "Humorous Cat Compilation",
+                "4520",
+                "This made my day! \ud83d\ude02",
+                "87",
+                "humor",
+                "user_102",
+                "06/15/2023",
+                "Reddit"
+            ],
+            [
+                "Top 10 Funny Memes 2",
+                "N/A",
+                "Can't stop laughing at #4",
+                "92",
+                "humor + memes",
+                "user_anon",
+                "6/22/23/2",
+                "Twitter"
+            ],
+            [
+                "Why Did Chicken Cross Road?",
+                "3100",
+                "Classic joke but still good",
+                "76",
+                "humor - jokes",
+                "user_jokester",
+                "5/10/24",
+                "Facebook"
+            ],
+            [
+                "Office Prank Gone Wrong",
+                "Video link in comments",
+                "",
+                "",
+                "humor - pranks",
+                "user_viral",
+                "/04/25",
+                "TikTok"
+            ],
+            [
+                "Dad Jokes That Slap Hard",
+                "1205",
+                "My kids loved this one",
+                ".5",
+                "humor family",
+                "parent_dave",
+                "//20/",
+                "YouTube"
+            ],
+            [
+                "Funny Dog Fails Vol 3",
+                "N/A",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

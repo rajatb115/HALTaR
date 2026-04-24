@@ -1,0 +1,45 @@
+{
+    "table-575-575": {
+        "title": [
+            "User ID",
+            "Username",
+            "Website URL"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Example User Website Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user has the website URL listed at 'http://stackoverflow.com'",
+        "data": [
+            [
+                "101",
+                "johndoe",
+                "http://example.com"
+            ],
+            [
+                "102",
+                "jane_doe",
+                "http://stackoverflow.com"
+            ],
+            [
+                "103",
+                "peterpan",
+                "http://peterpan.example.net"
+            ],
+            [
+                "104",
+                "alicew",
+                "http://wonderland.example.org"
+            ],
+            [
+                "105",
+                "bob_the_b",
+                "http://bobthebuilder.example.com"
+            ]
+        ]
+    }
+}

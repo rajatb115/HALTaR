@@ -1,0 +1,45 @@
+{
+    "table-203-203": {
+        "title": [
+            "Bond Type",
+            "Description",
+            "Number of Triple Bonds"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Types of Chemical Bonds",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many triple type bonds are there?",
+        "data": [
+            [
+                "Single Bond",
+                "Sharing of one electron pair",
+                "0"
+            ],
+            [
+                "Double Bond",
+                "Sharing of two electron pairs",
+                "0"
+            ],
+            [
+                "Triple Bond",
+                "Sharing of three electron pairs",
+                "1"
+            ],
+            [
+                "Ionic Bond",
+                "Transfer of electrons",
+                "0"
+            ],
+            [
+                "Metallic Bond",
+                "Sharing of electrons within a metal lattice",
+                "0"
+            ]
+        ]
+    }
+}

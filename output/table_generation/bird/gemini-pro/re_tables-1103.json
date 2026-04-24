@@ -1,0 +1,52 @@
+{
+    "table-1103-1103": {
+        "title": [
+            "Name",
+            "Age",
+            "Overall Rating",
+            "Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Players with 77 Overall Rating",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the players who had a 77 points overall rating on 2016/6/23, who was the oldest? Give the name of the player.",
+        "data": [
+            [
+                "John Smith",
+                "28",
+                "77",
+                "2016-06-23"
+            ],
+            [
+                "Alice Brown",
+                "31",
+                "77",
+                "2016-06-23"
+            ],
+            [
+                "David Lee",
+                "25",
+                "77",
+                "2016-06-23"
+            ],
+            [
+                "Emily White",
+                "33",
+                "77",
+                "2016-06-23"
+            ],
+            [
+                "Tom Green",
+                "29",
+                "77",
+                "2016-06-23"
+            ]
+        ]
+    }
+}

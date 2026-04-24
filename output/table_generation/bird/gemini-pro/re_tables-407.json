@@ -1,0 +1,51 @@
+{
+    "table-407-407": {
+        "title": [
+            "Card ID",
+            "Card Name",
+            "Creature Type",
+            "Legality"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Creature Card Legality",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Lists by ID all Creature-type cards with legal status.",
+        "data": [
+            [
+                "1001",
+                "Grizzly Bears",
+                "Bear",
+                "Legal"
+            ],
+            [
+                "1002",
+                "Silverback Ape",
+                "Ape",
+                "Legal"
+            ],
+            [
+                "1003",
+                "Balduvian Bears",
+                "Bear",
+                "Banned"
+            ],
+            [
+                "1004",
+                "Trained Armodon",
+                "Elephant",
+                "Legal"
+            ],
+            [
+                "1005",
+                "Phyrexian Dreadnought",
+                "Phyrexian Juggernaut",
+                "Banned"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-613-613": {
+        "title": [
+            "Role",
+            "Street",
+            "City",
+            "State"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the role, street, city and state of the professionals living in a city that contains the substring 'West'.",
+        "data": [
+            [
+                "Software Engineer",
+                "123 Tech Ave",
+                "Westford",
+                "MA"
+            ],
+            [
+                "Marketing Manager",
+                "45 Market St",
+                "West Palm Beach",
+                "FL"
+            ],
+            [
+                "Data Scientist",
+                "789 Data Dr",
+                "West Lafayette",
+                "IN"
+            ],
+            [
+                "Financial Analyst",
+                "10 Wall Blvd",
+                "West Hollywood",
+                "CA"
+            ],
+            [
+                "Project Manager",
+                "55 Progress Rd",
+                "Westminster",
+                "CO"
+            ],
+            [
+                "Graphic Designer",
+                "22 Art Ln",
+                "West Orange",
+                "NJ"
+            ],
+            [
+                "HR Specialist",
+                "33 People Pl",
+                "West Allis",
+                "WI"
+            ]
+        ]
+    }
+}

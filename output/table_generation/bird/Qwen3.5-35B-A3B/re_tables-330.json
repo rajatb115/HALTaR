@@ -1,0 +1,69 @@
+{
+    "table-330-330": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Total Atom Count",
+            "Classification",
+            "Source Context",
+            "CAS Number"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which carcinogenic molecule have the highest number of atoms consisted in it?",
+        "data": [
+            [
+                "Riboflavin",
+                "C\u2081\u2087H\u2082\u2080N\u2084O\u2086",
+                "47",
+                "Vitamin Derivative",
+                "Industrial Synthesis",
+                "83-88-5"
+            ],
+            [
+                "Methotrexate",
+                "C\u2082\u2080H\u2082\u2082N\u2088O\u2085",
+                "55",
+                "Antimetabolite Drug",
+                "Pharmaceutical Research",
+                "59-05-2"
+            ],
+            [
+                "*Cisplatin*",
+                "PtCl\u2082(NH\u2083)\u2082",
+                "6",
+                "Coordination Complex",
+                "Chemotherapy Agent",
+                "15663-27-1"
+            ],
+            [
+                "*Aflatoxin B1*",
+                "C\u2089H\u2081\u2082NO\u2083",
+                "25",
+                "Mycotoxin",
+                "Food Contamination",
+                "1162-65-8"
+            ],
+            [
+                "*Dioxin (TCDD)*",
+                "C\u00b9\u00b2H\u2084Cl\u2084",
+                "24",
+                "Persistent Organic Pollutant",
+                "Environmental Hazard",
+                "1746-01-6"
+            ],
+            [
+                "*Benzopyrene*",
+                "CH\u2081\u2082",
+                "22",
+                "Polycyclic",
+                "",
+                ""
+            ]
+        ]
+    }
+}

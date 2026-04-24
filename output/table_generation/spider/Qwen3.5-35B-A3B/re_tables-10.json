@@ -1,0 +1,103 @@
+{
+    "table-10-10": {
+        "title": [
+            "Singer Name",
+            "Age",
+            "Song Title",
+            "Duration",
+            "Genre",
+            "Album",
+            "Release Year",
+            "Record Label"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are all the song names by singers who are older than average?",
+        "data": [
+            [
+                "Elton John",
+                "76",
+                "Rocket Man",
+                "4:41",
+                "Pop Rock",
+                "Honky Ch\u00e2teau",
+                "",
+                "Uni Records"
+            ],
+            [
+                "Paul McCartney",
+                "82",
+                "Maybe I'm Amazed",
+                "3:55",
+                "Soft Rock",
+                "Wild Life",
+                "",
+                "Apple Records"
+            ],
+            [
+                "Stevie Wonder",
+                "68",
+                "Superstition",
+                "5:03",
+                "Funk Soul",
+                "Talking Book",
+                "",
+                "Tamla"
+            ],
+            [
+                "Aretha Franklin",
+                "90",
+                "Respect",
+                "02:28",
+                "R&B Soul",
+                "I Never Loved a Man",
+                "",
+                "Atlantic"
+            ],
+            [
+                "Bob Dylan",
+                "83",
+                "Blowin' in the Wind",
+                "",
+                "Folk Rock",
+                "The Freewheelin'",
+                "",
+                ""
+            ],
+            [
+                "Bruce Springsteen",
+                "",
+                "Born to Run",
+                "",
+                "Heartland Rock",
+                "Born To Run",
+                "",
+                "CBS"
+            ],
+            [
+                "Mick Jagger",
+                "",
+                "Start Me Up",
+                "",
+                "Hard Rock",
+                "Tattoo You",
+                "",
+                "Rolling Stones"
+            ],
+            [
+                "David Bowie",
+                "",
+                "Heroes",
+                "",
+                "Art Rock",
+                "Heroes (album)",
+                "",
+                "RCA"
+            ]
+        ]
+    }
+}

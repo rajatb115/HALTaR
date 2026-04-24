@@ -1,0 +1,52 @@
+{
+    "table-1211-1211": {
+        "title": [
+            "Patient ID",
+            "LDH Value",
+            "Within Normal Range",
+            "LDH Index"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Lactate Dehydrogenase (LDH) Index Averages",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average index of the lactate dehydrogenase (LDH) for all patients with lactate dehydrogenase (LDH) within the normal range.",
+        "data": [
+            [
+                "12345",
+                "140 U/L",
+                "Yes",
+                "1.15"
+            ],
+            [
+                "67890",
+                "130 U/L",
+                "Yes",
+                "1.07"
+            ],
+            [
+                "24680",
+                "150 U/L",
+                "Yes",
+                "1.23"
+            ],
+            [
+                "13579",
+                "120 U/L",
+                "Yes",
+                "0.99"
+            ],
+            [
+                "98765",
+                "145 U/L",
+                "Yes",
+                "1.19"
+            ]
+        ]
+    }
+}

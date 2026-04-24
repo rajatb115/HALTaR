@@ -1,0 +1,69 @@
+{
+    "table-19-19": {
+        "title": [
+            "School Name",
+            "District Funding Status",
+            "Test Taker Count",
+            "County",
+            "Academic Rating"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many schools in Contra Costa (directly funded) have number of test takers not more than 250?",
+        "data": [
+            [
+                "Contra Costa Academy",
+                "Direct",
+                "45",
+                "Contra Costa",
+                "High"
+            ],
+            [
+                "Valley View Charter",
+                "Direct Funded",
+                "78",
+                "Contra Costa",
+                "Medium"
+            ],
+            [
+                "Sunrise Elementary",
+                "Direct Support",
+                "62",
+                "Contra Costa",
+                "Low"
+            ],
+            [
+                "Oakland Prep North",
+                "Direct Grant",
+                "950",
+                "Alameda",
+                "High"
+            ],
+            [
+                "Martinez Middle School",
+                "Direct Allocation",
+                "310",
+                "Contra Costa",
+                "Medium"
+            ],
+            [
+                "Pleasant Hill Tech",
+                "Direct Contract",
+                "88",
+                "Contra Costa",
+                "Very High"
+            ],
+            [
+                "San Ramon Valley Lab",
+                "Direct Sponsorship",
+                "55",
+                "San Mateo",
+                "High"
+            ]
+        ]
+    }
+}

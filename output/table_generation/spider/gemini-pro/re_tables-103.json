@@ -1,0 +1,53 @@
+{
+    "table-103-103": {
+        "title": [
+            "Model",
+            "Cylinders",
+            "Production Year",
+            "MPG"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Vehicle Fuel Efficiency by Engine and Production Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum mpg of the cars that had 8 cylinders or that were produced before 1980 ?",
+        "data": [
+            [
+                "Oldsmobile Cutlass Supreme",
+                "8",
+                "1977",
+                "16"
+            ],
+            [
+                "Ford Mustang",
+                "8",
+                "1979",
+                "13"
+            ],
+            [
+                "Chevrolet Impala",
+                "8",
+                "1976",
+                "13"
+            ],
+            [
+                "Toyota Corolla",
+                "4",
+                "1975",
+                "24"
+            ],
+            [
+                "Volkswagen Rabbit",
+                "4",
+                "1978",
+                "29"
+            ]
+        ]
+    }
+}

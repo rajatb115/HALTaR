@@ -1,0 +1,61 @@
+{
+    "table-568-568": {
+        "title": [
+            "Student Name",
+            "Friends Count",
+            "Likes Received",
+            "Enrollment Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show name of all students who have some friends and also are liked by someone else.",
+        "data": [
+            [
+                "Alice Smith",
+                "12",
+                "8",
+                "2021"
+            ],
+            [
+                "Bob Johnson",
+                "5",
+                "3",
+                "2022"
+            ],
+            [
+                "Carol White",
+                "0",
+                "2",
+                "2021"
+            ],
+            [
+                "David Green",
+                "7",
+                "0",
+                "2023"
+            ],
+            [
+                "Eve Brown",
+                "15",
+                "10",
+                "2020"
+            ],
+            [
+                "Frank Black",
+                "3",
+                "1",
+                "2022"
+            ],
+            [
+                "Grace Lee",
+                "9",
+                "6",
+                "2021"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-1366-1366": {
+        "title": [
+            "Budget ID",
+            "Expense",
+            "Amount",
+            "Remaining Balance"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Budget Expenses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the expenses of the budget with the lowest remaining?",
+        "data": [
+            [
+                "101",
+                "Rent",
+                "$1,500",
+                "$500"
+            ],
+            [
+                "101",
+                "Utilities",
+                "$200",
+                "$500"
+            ],
+            [
+                "101",
+                "Food",
+                "$300",
+                "$500"
+            ],
+            [
+                "102",
+                "Marketing",
+                "$800",
+                "$200"
+            ],
+            [
+                "102",
+                "Salaries",
+                "$2,000",
+                "$200"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-641-641": {
+        "title": [
+            "User",
+            "Post_ID",
+            "View_Count",
+            "Date_Posted",
+            "Platform",
+            "Status",
+            "Difference_Calculation"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the difference in view count from post posted by mornington and view count from posts posted by Amos.",
+        "data": [
+            [
+                "Mornington",
+                "P_1042",
+                "4520",
+                "07/15/2023",
+                "Instagram",
+                "Active",
+                "N/A"
+            ],
+            [
+                "Amos",
+                "P_A991",
+                "3150",
+                "Same Day",
+                "Instagram",
+                "Mornington vs Amos = +1370",
+                ""
+            ],
+            [
+                "Mornington",
+                "P_B2012",
+                "",
+                "6 months ago",
+                "Facebook",
+                "Archived",
+                "N/A"
+            ],
+            [
+                "Amos",
+                "P_X554",
+                "8900",
+                "Yesterday",
+                "Twitter",
+                "Trending",
+                "N/A"
+            ],
+            [
+                "Amos",
+                "C_Power",
+                "7205",
+                "Last Week",
+                "LinkedIn",
+                "Draft",
+                "N/A"
+            ],
+            [
+                "Mornington",
+                "D_Social",
+                "51000+",
+                "Current Month",
+                "TikTok",
+                "Viral",
+                "N/A"
+            ]
+        ]
+    }
+}

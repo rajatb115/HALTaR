@@ -1,0 +1,62 @@
+{
+    "table-940-940": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Team",
+            "Car Number",
+            "Race Result"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many drivers from the USA participated in the 2008 Australian Grand Prix?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "British",
+                "McLaren",
+                "22",
+                "1st"
+            ],
+            [
+                "Kimi R\u00e4ikk\u00f6nen",
+                "Finnish",
+                "Ferrari",
+                "1",
+                "DNF"
+            ],
+            [
+                "Robert Kubica",
+                "Polish",
+                "BMW Sauber",
+                "4",
+                "2nd"
+            ],
+            [
+                "Scott Speed",
+                "American",
+                "Toro Rosso",
+                "19",
+                "12th"
+            ],
+            [
+                "Fernando Alonso",
+                "Spanish",
+                "Renault",
+                "5",
+                "4th"
+            ],
+            [
+                "Danica Patrick",
+                "American",
+                "Super Aguri",
+                "18",
+                "DNF"
+            ]
+        ]
+    }
+}

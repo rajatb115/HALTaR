@@ -1,0 +1,49 @@
+{
+    "table-776-776": {
+        "title": [
+            "Superhero",
+            "Gender",
+            "Eye Color",
+            "Hair Color"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Female Superhero Attributes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of blue female superheroes among all female superheroes?",
+        "data": [
+            [
+                "Wonder Woman",
+                "Female",
+                "Blue",
+                "Black"
+            ],
+            [
+                "Storm",
+                "Female",
+                "Blue",
+                "White"
+            ],
+            [
+                "Jean Grey",
+                "Female",
+                "Green",
+                "Red"
+            ],
+            [
+                "Black Widow",
+                "Female",
+                "Green",
+                "Red"
+            ],
+            [
+                "Invisible Woman",
+                "Female",
+                "Blue",
+                "Blonde"
+            ]
+        ]
+    }
+}

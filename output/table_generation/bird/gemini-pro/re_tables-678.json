@@ -1,0 +1,46 @@
+{
+    "table-678-678": {
+        "title": [
+            "Author",
+            "Year",
+            "Post Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Posts by Author Over Time",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts did Jay Stevens have in 2010?",
+        "data": [
+            [
+                "Jay Stevens",
+                "2009",
+                "12"
+            ],
+            [
+                "Jay Stevens",
+                "2010",
+                "15"
+            ],
+            [
+                "Jay Stevens",
+                "2011",
+                "10"
+            ],
+            [
+                "Other Author",
+                "2010",
+                "20"
+            ],
+            [
+                "Other Author",
+                "2011",
+                "5"
+            ]
+        ]
+    }
+}

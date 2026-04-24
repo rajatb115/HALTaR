@@ -1,0 +1,76 @@
+{
+    "table-761-761": {
+        "title": [
+            "Hero Name",
+            "Height_cm",
+            "Publisher",
+            "Is_Marvel",
+            "Percentage_Calculation"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In superheroes with height between 150 to 180, what is the percentage of heroes published by Marvel Comics?",
+        "data": [
+            [
+                "Spider-Man",
+                "64",
+                "Marvel Comics",
+                "Yes",
+                "N/A"
+            ],
+            [
+                "Iron Man",
+                "72",
+                "Marvel Studios",
+                "No",
+                "N/A"
+            ],
+            [
+                "Captain America",
+                "80",
+                "Marvel Entertainment",
+                "Yes",
+                "N/A"
+            ],
+            [
+                "Black Widow",
+                "5'7\"",
+                "Marvel Comics",
+                "Yes",
+                "N/A"
+            ],
+            [
+                "Daredevil",
+                "90",
+                "Daredevil Corp",
+                "No",
+                "N/A"
+            ],
+            [
+                "Luke Cage",
+                "4'11\"",
+                "Netflix Originals",
+                "No",
+                "NA"
+            ],
+            [
+                "Hawkeye",
+                "3'10\"",
+                "Disney+ Series",
+                "No",
+                "NA"
+            ],
+            [
+                "Scarlet Witch",
+                "0'",
+                "Marvel Cinematic Universe",
+                "Yes",
+                "NA"
+            ]
+        ]
+    }
+}

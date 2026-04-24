@@ -1,0 +1,43 @@
+{
+    "table-500-500": {
+        "title": [
+            "City",
+            "Country",
+            "Official Language"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Cities in Asian Countries with Chinese as Official Language",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which unique cities are in Asian countries where Chinese is the official language ?",
+        "data": [
+            [
+                "Singapore",
+                "Singapore",
+                "Chinese"
+            ],
+            [
+                "Taipei",
+                "Taiwan",
+                "Chinese"
+            ],
+            [
+                "Keelung",
+                "Taiwan",
+                "Chinese"
+            ],
+            [
+                "Taichung",
+                "Taiwan",
+                "Chinese"
+            ],
+            [
+                "Tainan",
+                "Taiwan",
+                "Chinese"
+            ]
+        ]
+    }
+}

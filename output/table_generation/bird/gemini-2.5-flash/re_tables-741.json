@@ -1,0 +1,69 @@
+{
+    "table-741-741": {
+        "title": [
+            "Superhero Name",
+            "Gender",
+            "Strength Level",
+            "Affiliation",
+            "First Appearance Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female superheroes have a strength value of 100?",
+        "data": [
+            [
+                "Wonder Woman",
+                "Female",
+                "100",
+                "Justice League",
+                "1941"
+            ],
+            [
+                "Captain Marvel",
+                "Female",
+                "95",
+                "Avengers",
+                "1968"
+            ],
+            [
+                "She-Hulk",
+                "Female",
+                "100",
+                "Avengers",
+                "1980"
+            ],
+            [
+                "Supergirl",
+                "Female",
+                "100",
+                "Justice League",
+                "1959"
+            ],
+            [
+                "Storm",
+                "Female",
+                "70",
+                "X-Men",
+                "1975"
+            ],
+            [
+                "Gamora",
+                "Female",
+                "85",
+                "Guardians of the Galaxy",
+                "1975"
+            ],
+            [
+                "Scarlet Witch",
+                "Female",
+                "60",
+                "Avengers",
+                "1964"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "table-309-309": {
+        "title": [
+            "Department ID",
+            "Department Name",
+            "Description",
+            "Budget Code",
+            "Location",
+            "Manager",
+            "Status",
+            "Active Since"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the department description for the one whose name has the word computer?",
+        "data": [
+            [
+                "DPT-104",
+                "Computer Science",
+                "Focuses on software development, algorithms, and system architecture research.",
+                "CS-BUD-2024",
+                "Building C, Floor 3",
+                "Dr. Alan Turing",
+                "Operational",
+                "01/15/1967"
+            ],
+            [
+                "DPT-219",
+                "Information Technology",
+                "Manages internal networks, hardware support, and cybersecurity protocols.",
+                "IT-SUPP-24Q1",
+                "Building A, Room 102",
+                "Sarah Jenkins",
+                "Maintenance",
+                "03/10/2010"
+            ],
+            [
+                "CSC-005",
+                "Computational Biology",
+                "Applies computing methods to solve complex biological problems in genomics.",
+                "BIO-COMP-23",
+                "Research Park West",
+                "Prof. Lin Wei",
+                "Pilot Phase",
+                "06/22/2105"
+            ],
+            [
+                "IT-SEC-99",
+                "Cybersecurity & Computing",
+                "Specializes in threat detection, encryption standards, and secure cloud infrastructure.",
+                "SEC-CS-25",
+                "Secure Wing B",
+                "Marcus Chen",
+                "Active",
+                "09/01/2030"
+            ]
+        ]
+    }
+}

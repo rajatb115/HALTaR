@@ -1,0 +1,53 @@
+{
+    "table-441-441": {
+        "title": [
+            "Entity",
+            "Language Used",
+            "Context",
+            "Region",
+            "Status",
+            "Source Confidence"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which foreign language used by \"A Pedra Fellwar\"?",
+        "data": [
+            [
+                "A Pedra de Fellwar",
+                "Latin",
+                "Inscription Text",
+                "Galicia, Spain",
+                "Verified",
+                "High"
+            ],
+            [
+                "Stone of Fellwar (Variant)",
+                "Galician",
+                "Modern Translation",
+                "Galicia Province",
+                "Active",
+                "Medium"
+            ],
+            [
+                "Fellwar Monolith",
+                "Portuguese",
+                "Historical Record",
+                "Northern Portugal",
+                "Archived",
+                "Low"
+            ],
+            [
+                "Pedra da Fellwar Site",
+                "Spanish",
+                "Tourist Guide",
+                "Lugo District",
+                "Current",
+                "High"
+            ]
+        ]
+    }
+}

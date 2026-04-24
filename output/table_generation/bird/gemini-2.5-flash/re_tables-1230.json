@@ -1,0 +1,69 @@
+{
+    "table-1230-1230": {
+        "title": [
+            "Patient ID",
+            "Age (years)",
+            "Triglyceride Level (mg/dL)",
+            "TG Status",
+            "Age Group"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all patients with triglyceride (TG) level beyond the normal range, how many are age more than 50 years?",
+        "data": [
+            [
+                "P001",
+                "45",
+                "120",
+                "Normal",
+                "<=50"
+            ],
+            [
+                "P002",
+                "62",
+                "250",
+                "High",
+                ">50"
+            ],
+            [
+                "P003",
+                "55",
+                "180",
+                "Borderline High",
+                ">50"
+            ],
+            [
+                "P004",
+                "38",
+                "320",
+                "High",
+                "<=50"
+            ],
+            [
+                "P005",
+                "71",
+                "580",
+                "Very High",
+                ">50"
+            ],
+            [
+                "P006",
+                "49",
+                "165",
+                "Borderline High",
+                "<=50"
+            ],
+            [
+                "P007",
+                "68",
+                "410",
+                "High",
+                ">50"
+            ]
+        ]
+    }
+}

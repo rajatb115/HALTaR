@@ -1,0 +1,43 @@
+{
+    "table-550-550": {
+        "title": [
+            "Post ID",
+            "Title",
+            "Author",
+            "Tag Excerpt",
+            "Body Snippet",
+            "Date Posted",
+            "Status",
+            "Views"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From which post is the tag \"bayesian\" excerpted from? Please give the body of the post.",
+        "data": [
+            [
+                "POST_4021",
+                "Bayesian Inference Basics",
+                "Dr. Smith",
+                "This tutorial covers the fundamentals...",
+                "We begin by defining prior distributions and likelihood functions before moving to posterior updates in simple models.",
+                "06/15/2023",
+                "Published",
+                "3420"
+            ],
+            [
+                "POST_4105",
+                "Advanced Markov Chain Monte Carlo",
+                "J. Doe",
+                "Exploring complex sampling techniques for high-dimensional spaces where standard methods fail.",
+                "MCMC algorithms allow us to approximate integrals over parameter space when analytical solutions are impossible.",
+                "07/22/2023",
+                "Active",
+                "8900"
+            ]
+        ]
+    }
+}

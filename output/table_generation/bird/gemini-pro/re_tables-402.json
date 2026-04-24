@@ -1,0 +1,51 @@
+{
+    "table-402-402": {
+        "title": [
+            "Card Type",
+            "Frame Effect",
+            "Max Hand Size",
+            "Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Magic: The Gathering Card Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of legendary frame effect cards have a maximum starting maximun hand",
+        "data": [
+            [
+                "Legendary",
+                "Full Art",
+                "7",
+                "15%"
+            ],
+            [
+                "Legendary",
+                "Extended Art",
+                "7",
+                "22%"
+            ],
+            [
+                "Legendary",
+                "Showcase",
+                "7",
+                "18%"
+            ],
+            [
+                "Legendary",
+                "Borderless",
+                "7",
+                "25%"
+            ],
+            [
+                "Legendary",
+                "Normal",
+                "7",
+                "20%"
+            ]
+        ]
+    }
+}

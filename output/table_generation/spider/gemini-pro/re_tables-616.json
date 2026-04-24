@@ -1,0 +1,45 @@
+{
+    "table-616-616": {
+        "title": [
+            "Treatment",
+            "Date",
+            "Cost ($)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Recent Treatment Cost Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much does the most recent treatment cost?",
+        "data": [
+            [
+                "Therapy A",
+                "2024-08-15",
+                "150"
+            ],
+            [
+                "Therapy B",
+                "2024-08-22",
+                "200"
+            ],
+            [
+                "Therapy C",
+                "2024-08-29",
+                "175"
+            ],
+            [
+                "Therapy D",
+                "2024-09-05",
+                "225"
+            ],
+            [
+                "Therapy E",
+                "2024-09-12",
+                "190"
+            ]
+        ]
+    }
+}

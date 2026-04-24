@@ -1,0 +1,43 @@
+{
+    "table-1465-1465": {
+        "title": [
+            "Student Name",
+            "Date Received",
+            "Amount Received"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Student Funding Records",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write the full names of students who received funds on the date of 9/9/2019 and include the amount received.",
+        "data": [
+            [
+                "John Smith",
+                "2019-09-09",
+                "$100.00"
+            ],
+            [
+                "Alice Johnson",
+                "2019-09-09",
+                "$150.00"
+            ],
+            [
+                "Robert Williams",
+                "2019-09-09",
+                "$200.00"
+            ],
+            [
+                "Emily Brown",
+                "2019-09-09",
+                "$125.00"
+            ],
+            [
+                "Michael Davis",
+                "2019-09-09",
+                "$175.00"
+            ]
+        ]
+    }
+}

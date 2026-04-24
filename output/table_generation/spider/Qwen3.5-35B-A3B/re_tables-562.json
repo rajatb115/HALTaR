@@ -1,0 +1,53 @@
+{
+    "table-562-562": {
+        "title": [
+            "Student_ID",
+            "Has_Friends",
+            "Friend_Count",
+            "Status",
+            "Last_Activity_Date",
+            "Enrollment_Year",
+            "Department",
+            "GPA_Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show ids of all students who do not have any friends.",
+        "data": [
+            [
+                "S1045",
+                "No",
+                "0",
+                "Active",
+                "7/6/2024",
+                "3",
+                "Computer Science",
+                "N/A"
+            ],
+            [
+                "S2109",
+                "No",
+                "0",
+                "Inactive",
+                "5/12/2023",
+                "4",
+                "Mathematics",
+                "Pending Review"
+            ],
+            [
+                "S3382",
+                "No",
+                "0",
+                "Suspended",
+                "9/1/2022",
+                "2",
+                "Physics",
+                "No Record"
+            ]
+        ]
+    }
+}

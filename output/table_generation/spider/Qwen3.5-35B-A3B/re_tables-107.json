@@ -1,0 +1,76 @@
+{
+    "table-107-107": {
+        "title": [
+            "Country",
+            "Has Domestic Car Maker",
+            "Primary Industry Focus",
+            "Population (Millions)",
+            "GDP per Capita (USD)",
+            "Major Export Sector",
+            "Automotive Production Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the countries with no car makers?",
+        "data": [
+            [
+                "Iceland",
+                "No",
+                "Tourism & Fisheries",
+                "0.4",
+                "76,000",
+                "Aluminum Smelting",
+                "None"
+            ],
+            [
+                "Luxembourg",
+                "No",
+                "Finance Services",
+                "6.5",
+                "85,050",
+                "Financial Holdings",
+                "None"
+            ],
+            [
+                "Maldives",
+                "No",
+                "Tourism & Fishing",
+                "5.4",
+                "N/A",
+                "Marine Products",
+                "None"
+            ],
+            [
+                "Monaco",
+                "No",
+                "Luxury Goods & Banking",
+                "0.039",
+                "95,600",
+                "Private Wealth Management",
+                "None"
+            ],
+            [
+                "San Marino",
+                "No",
+                "Insurance & Ceramics",
+                "0.045",
+                "30,020",
+                "Textiles",
+                "None"
+            ],
+            [
+                "Vatican City",
+                "No",
+                "Religious Administration",
+                "< 1",
+                "N/A",
+                "Cultural Heritage",
+                "None"
+            ]
+        ]
+    }
+}

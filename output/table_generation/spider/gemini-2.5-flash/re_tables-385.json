@@ -1,0 +1,62 @@
+{
+    "table-385-385": {
+        "title": [
+            "Channel Name",
+            "Language",
+            "Country of Origin",
+            "Pixel Aspect Ratio",
+            "Genre"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the pixel aspect ratio and country of origin for all TV channels that do not use English?",
+        "data": [
+            [
+                "TV5Monde",
+                "French",
+                "France",
+                "16:9",
+                "Culture"
+            ],
+            [
+                "ARD Das Erste",
+                "German",
+                "Germany",
+                "16:9",
+                "General Entertainment"
+            ],
+            [
+                "RAI 1",
+                "Italian",
+                "Italy",
+                "16:9",
+                "General Entertainment"
+            ],
+            [
+                "NHK World Japan",
+                "Japanese",
+                "Japan",
+                "16:9",
+                "News/Documentary"
+            ],
+            [
+                "CCTV-4",
+                "Mandarin",
+                "China",
+                "16:9",
+                "News/Culture"
+            ],
+            [
+                "Al Jazeera Arabic",
+                "Arabic",
+                "Qatar",
+                "16:9",
+                "News"
+            ]
+        ]
+    }
+}

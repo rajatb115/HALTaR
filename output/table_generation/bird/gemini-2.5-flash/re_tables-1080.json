@@ -1,0 +1,69 @@
+{
+    "table-1080-1080": {
+        "title": [
+            "Player Name",
+            "Sport",
+            "Position",
+            "Height (cm)",
+            "Weight (kg)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which player is the tallest?",
+        "data": [
+            [
+                "LeBron James",
+                "Basketball",
+                "Small Forward",
+                "206",
+                "113"
+            ],
+            [
+                "Nikola Jokic",
+                "Basketball",
+                "Center",
+                "211",
+                "129"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "Soccer",
+                "Forward",
+                "187",
+                "83"
+            ],
+            [
+                "Usain Bolt",
+                "Athletics",
+                "Sprinter",
+                "195",
+                "94"
+            ],
+            [
+                "Maria Sharapova",
+                "Tennis",
+                "N/A",
+                "188",
+                "59"
+            ],
+            [
+                "Tyson Fury",
+                "Boxing",
+                "Heavyweight",
+                "206",
+                "120"
+            ],
+            [
+                "Aaron Judge",
+                "Baseball",
+                "Outfielder",
+                "201",
+                "128"
+            ]
+        ]
+    }
+}

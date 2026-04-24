@@ -1,0 +1,52 @@
+{
+    "table-100-100": {
+        "title": [
+            "Account ID",
+            "Loan Validity (Months)",
+            "Approved Amount",
+            "Account Opening Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Accounts with Long-Term Loan Validity and High Approved Amounts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the accounts who have loan validity more than 12 months, list out the accounts that have the highest approved amount and have account opening date in 1993.",
+        "data": [
+            [
+                "12345",
+                "24",
+                "$50,000",
+                "1993-05-10"
+            ],
+            [
+                "67890",
+                "18",
+                "$45,000",
+                "1993-11-15"
+            ],
+            [
+                "24680",
+                "36",
+                "$60,000",
+                "1993-03-01"
+            ],
+            [
+                "13579",
+                "24",
+                "$55,000",
+                "1993-07-22"
+            ],
+            [
+                "98765",
+                "15",
+                "$48,000",
+                "1993-09-08"
+            ]
+        ]
+    }
+}

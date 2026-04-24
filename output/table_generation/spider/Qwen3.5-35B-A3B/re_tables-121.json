@@ -1,0 +1,31 @@
+{
+    "table-121-121": {
+        "title": [
+            "Airport Code",
+            "Full Name",
+            "City",
+            "State",
+            "Country",
+            "IATA Code",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the name of the airport with code 'AKO'.",
+        "data": [
+            [
+                "AKO",
+                "Colorado Plains Regional Airport",
+                "Akron",
+                "CO",
+                "USA",
+                "AKO",
+                "Active"
+            ]
+        ]
+    }
+}

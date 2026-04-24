@@ -1,0 +1,52 @@
+{
+    "table-38-38": {
+        "title": [
+            "Student ID",
+            "Major",
+            "Age",
+            "Has Cat"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Student Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the major and age of students who do not have a cat pet.",
+        "data": [
+            [
+                "1",
+                "Computer Science",
+                "20",
+                "False"
+            ],
+            [
+                "2",
+                "Biology",
+                "22",
+                "False"
+            ],
+            [
+                "3",
+                "Engineering",
+                "19",
+                "True"
+            ],
+            [
+                "4",
+                "Mathematics",
+                "21",
+                "False"
+            ],
+            [
+                "5",
+                "Physics",
+                "20",
+                "True"
+            ]
+        ]
+    }
+}

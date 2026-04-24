@@ -1,0 +1,69 @@
+{
+    "table-640-640": {
+        "title": [
+            "Singer Name",
+            "Birth Year",
+            "Genre",
+            "Nationality",
+            "Notable Work"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the name of singers whose birth year is either 1948 or 1949?",
+        "data": [
+            [
+                "Bob Dylan",
+                "1941",
+                "Folk Rock",
+                "American",
+                "Like a Rolling Stone"
+            ],
+            [
+                "Joni Mitchell",
+                "1943",
+                "Folk Rock",
+                "Canadian",
+                "Blue"
+            ],
+            [
+                "Elton John",
+                "1947",
+                "Pop Rock",
+                "British",
+                "Rocket Man"
+            ],
+            [
+                "Stevie Nicks",
+                "1948",
+                "Soft Rock",
+                "American",
+                "Dreams"
+            ],
+            [
+                "Janis Joplin",
+                "1943",
+                "Blues Rock",
+                "American",
+                "Piece of My Heart"
+            ],
+            [
+                "Patti Smith",
+                "1946",
+                "Punk Rock",
+                "American",
+                "Because the Night"
+            ],
+            [
+                "David Bowie",
+                "1947",
+                "Glam Rock",
+                "British",
+                "Space Oddity"
+            ]
+        ]
+    }
+}

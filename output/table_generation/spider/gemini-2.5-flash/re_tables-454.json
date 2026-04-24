@@ -1,0 +1,69 @@
+{
+    "table-454-454": {
+        "title": [
+            "Country",
+            "Continent",
+            "Surface Area (km\u00b2)",
+            "Population (Millions)",
+            "Capital City"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the total surface area covered by countries in Asia or Europe.",
+        "data": [
+            [
+                "Russia",
+                "Europe/Asia",
+                "17098246",
+                "144",
+                "Moscow"
+            ],
+            [
+                "China",
+                "Asia",
+                "9596961",
+                "1412",
+                "Beijing"
+            ],
+            [
+                "India",
+                "Asia",
+                "3287590",
+                "1408",
+                "New Delhi"
+            ],
+            [
+                "France",
+                "Europe",
+                "643801",
+                "65",
+                "Paris"
+            ],
+            [
+                "Germany",
+                "Europe",
+                "357588",
+                "83",
+                "Berlin"
+            ],
+            [
+                "Kazakhstan",
+                "Asia",
+                "2724900",
+                "19",
+                "Astana"
+            ],
+            [
+                "Turkey",
+                "Asia/Europe",
+                "783562",
+                "85",
+                "Ankara"
+            ]
+        ]
+    }
+}

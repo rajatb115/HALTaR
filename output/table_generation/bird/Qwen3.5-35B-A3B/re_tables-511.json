@@ -1,0 +1,49 @@
+{
+    "table-511-511": {
+        "title": [
+            "Card Name",
+            "Converted Mana Cost",
+            "Illustrator",
+            "Has Multiple Faces"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the cards that doesn't have multiple faces on the same card, who is the illustrator of the card art that has the highest cost of converted mana?",
+        "data": [
+            [
+                "Black Lotus",
+                "0",
+                "Christopher Rush",
+                "No"
+            ],
+            [
+                "Ancestral Recall",
+                "3",
+                "Darrell Riche",
+                "No"
+            ],
+            [
+                "Mox Diamond",
+                "4",
+                "Daarken",
+                "No"
+            ],
+            [
+                "Time Walk",
+                "6",
+                "Jeff Easley",
+                "No"
+            ],
+            [
+                "Tolarian Academy",
+                "7",
+                "Kev Walker",
+                "No"
+            ]
+        ]
+    }
+}

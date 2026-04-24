@@ -1,0 +1,61 @@
+{
+    "table-536-536": {
+        "title": [
+            "UserID",
+            "TotalUpvotes",
+            "TotalDownvotes",
+            "AccountStatus"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the users who have more than 100 upvotes, how many of them have more then 1 downvotes?",
+        "data": [
+            [
+                "101",
+                "150",
+                "5",
+                "Active"
+            ],
+            [
+                "102",
+                "230",
+                "1",
+                "Active"
+            ],
+            [
+                "103",
+                "85",
+                "0",
+                "Inactive"
+            ],
+            [
+                "104",
+                "110",
+                "3",
+                "Active"
+            ],
+            [
+                "105",
+                "300",
+                "0",
+                "Active"
+            ],
+            [
+                "106",
+                "98",
+                "2",
+                "Active"
+            ],
+            [
+                "107",
+                "180",
+                "10",
+                "Active"
+            ]
+        ]
+    }
+}

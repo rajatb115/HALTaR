@@ -1,0 +1,73 @@
+{
+    "table-318-318": {
+        "title": [
+            "First Name",
+            "Last Name",
+            "Phone Number",
+            "Status",
+            "Source Date",
+            "Verification Level",
+            "Region Code",
+            "Record ID"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the phone number of the man with the first name Timmothy and the last name Ward?",
+        "data": [
+            [
+                "Timothy",
+                "Ward",
+                "+1-415-555-0192",
+                "Active",
+                "06/15/2023",
+                "Verified",
+                "US-WA",
+                "REC-7782-A"
+            ],
+            [
+                "Timmy",
+                "Ward Jr.",
+                "+44-20-7946-0958",
+                "Inactive",
+                "03/22/2021",
+                "Unverified",
+                "UK-LDN",
+                "REC-BB-99"
+            ],
+            [
+                "Timotheus",
+                "Ward-Smith",
+                "N/A",
+                "Pending Review",
+                "08/01/2024",
+                "Manual Check",
+                "CA-VAN",
+                "REC-XZ-11"
+            ],
+            [
+                "Timothey",
+                "Ward III",
+                "+61-2-9876-5432",
+                "Suspicious",
+                "09/10/2323",
+                "",
+                "AU-SYD",
+                "REC-QW-44"
+            ],
+            [
+                "Tim",
+                "Wardle",
+                "+33-1-5678-9012",
+                "Confirmed",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

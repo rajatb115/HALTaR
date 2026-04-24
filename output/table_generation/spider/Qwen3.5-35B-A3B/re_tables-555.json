@@ -1,0 +1,85 @@
+{
+    "table-555-555": {
+        "title": [
+            "Student ID",
+            "Full Name",
+            "Grade Level",
+            "GPA",
+            "Attendance Rate",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the grade for the high schooler named Kyle.",
+        "data": [
+            [
+                "HS-4021",
+                "Kyle Anderson",
+                "9th",
+                "3.6",
+                "88%",
+                "Active"
+            ],
+            [
+                "HS-4105",
+                "Kyle Baker",
+                "7th",
+                "",
+                "0%",
+                "Transferred"
+            ],
+            [
+                "HS-B2011",
+                "Kyla Carter",
+                "6th",
+                "",
+                "",
+                "Inactive"
+            ],
+            [
+                "HS-C3044",
+                "Kyle Davis",
+                "5th",
+                "",
+                "",
+                "Withdrawn"
+            ],
+            [
+                "HS-D5099",
+                "Kyle Evans",
+                "4th",
+                "",
+                "",
+                "Suspended"
+            ],
+            [
+                "HS-E6122",
+                "Kyle Foster",
+                "3rd",
+                "",
+                "",
+                "Expelled"
+            ],
+            [
+                "HS-F7155",
+                "Kylie Garcia",
+                "2nd",
+                "",
+                "",
+                "Probationary"
+            ],
+            [
+                "HS-G8188",
+                "Kyle Harris",
+                "1st",
+                "",
+                "",
+                "Enrolled"
+            ]
+        ]
+    }
+}

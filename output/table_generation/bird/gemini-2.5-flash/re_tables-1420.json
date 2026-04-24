@@ -1,0 +1,77 @@
+{
+    "table-1420-1420": {
+        "title": [
+            "Event ID",
+            "Event Name",
+            "Event Category",
+            "Event Date",
+            "Event Time",
+            "Location"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the category of event which was taken place in 2020-03-24T12:00:00?",
+        "data": [
+            [
+                "EVT001",
+                "Q1 Financial Review",
+                "Internal Meeting",
+                "2020-03-24",
+                "12:00:00",
+                "Online Conference"
+            ],
+            [
+                "EVT002",
+                "Product Development Sync",
+                "Project Update",
+                "2020-03-23",
+                "10:00:00",
+                "Virtual"
+            ],
+            [
+                "EVT003",
+                "Client Demo Session",
+                "Sales Engagement",
+                "2020-03-24",
+                "15:30:00",
+                "Remote"
+            ],
+            [
+                "EVT004",
+                "HR Policy Briefing",
+                "Company Announcement",
+                "2020-03-25",
+                "09:00:00",
+                "Webcast"
+            ],
+            [
+                "EVT005",
+                "Server Maintenance",
+                "Operations",
+                "2020-03-26",
+                "01:00:00",
+                "Data Center"
+            ],
+            [
+                "EVT006",
+                "Marketing Campaign Review",
+                "Strategy Session",
+                "2020-03-20",
+                "11:00:00",
+                "Office A"
+            ],
+            [
+                "EVT007",
+                "New Employee Onboarding",
+                "Training",
+                "2020-03-24",
+                "09:00:00",
+                "Virtual Classroom"
+            ]
+        ]
+    }
+}

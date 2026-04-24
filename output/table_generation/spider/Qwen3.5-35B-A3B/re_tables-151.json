@@ -1,0 +1,55 @@
+{
+    "table-151-151": {
+        "title": [
+            "Shop_Name",
+            "Location",
+            "District",
+            "Product_Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Sort all the shops by number products in descending order, and return the name, location and district of each shop.",
+        "data": [
+            [
+                "Urban Mart Downtown",
+                "Main Street",
+                "Central",
+                "450"
+            ],
+            [
+                "Green Valley Market",
+                "Oak Avenue",
+                "Riverside",
+                "320"
+            ],
+            [
+                "City Center Grocers",
+                "Plaza Road",
+                "Metro",
+                "85"
+            ],
+            [
+                "Suburban Fresh Foods",
+                "Elm Lane",
+                "Northwood",
+                "67"
+            ],
+            [
+                "Coastal Pantry",
+                "Beach Drive",
+                "Seaside",
+                "52"
+            ],
+            [
+                "Mountain View Store",
+                "Hilltop Path",
+                "Highland",
+                "0"
+            ]
+        ]
+    }
+}

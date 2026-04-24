@@ -1,0 +1,77 @@
+{
+    "table-1405-1405": {
+        "title": [
+            "Expense Category",
+            "Description",
+            "Approved Amount",
+            "Currency",
+            "Approval Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the type of expenses and their total value approved for 'October Meeting' event.",
+        "data": [
+            [
+                "Venue Rental",
+                "Conference Hall Booking",
+                "4500",
+                "USD",
+                "01-Oct-2023",
+                "Approved"
+            ],
+            [
+                "Catering Services",
+                "Lunch and Refreshments",
+                "320",
+                "GBP",
+                "05-Sep-2023",
+                "Pending Review"
+            ],
+            [
+                "Audio Visual Equipment",
+                "Projector and Sound System",
+                "675",
+                "EUR",
+                "08-Aug-2022",
+                "Approved"
+            ],
+            [
+                "Travel Reimbursement",
+                "Airfare for Speakers",
+                "980",
+                "CAD",
+                "07-Jul-2021",
+                "Approved"
+            ],
+            [
+                "Marketing Materials",
+                "Printed Brochures and Posters",
+                "150",
+                "AUD",
+                "June 12, 2023",
+                "Approved"
+            ],
+            [
+                "Accommodation",
+                "Hotel Stay for Guests",
+                "1205",
+                "NZD",
+                "May 30, 2022",
+                "Approved"
+            ],
+            [
+                "Miscellaneous Supplies",
+                "Office Stationery and Snacks",
+                "",
+                "JPY",
+                "April 14, 2018",
+                "Cancelled"
+            ]
+        ]
+    }
+}

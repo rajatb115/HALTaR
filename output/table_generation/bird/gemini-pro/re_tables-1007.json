@@ -1,0 +1,55 @@
+{
+    "table-1007-1007": {
+        "title": [
+            "Circuit Name",
+            "Lap Record Time",
+            "Vehicle",
+            "Driver",
+            "Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Fastest Lap Records on Various Circuits",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all the lap records set on various circuits, what is the time for the fastest one?",
+        "data": [
+            [
+                "N\u00fcrburgring Nordschleife",
+                "6:43.300",
+                "Porsche 919 Hybrid Evo",
+                "Timo Bernhard",
+                "June 29, 2018"
+            ],
+            [
+                "Circuit de Spa-Francorchamps",
+                "1:42.553",
+                "Mercedes W10",
+                "Valtteri Bottas",
+                "August 29, 2020"
+            ],
+            [
+                "Autodromo Nazionale Monza",
+                "1:19.525",
+                "Williams FW14B",
+                "Nigel Mansell",
+                "September 5, 1992"
+            ],
+            [
+                "Silverstone Circuit",
+                "1:27.097",
+                "Red Bull RB9",
+                "Mark Webber",
+                "June 30, 2013"
+            ],
+            [
+                "Suzuka International Racing Course",
+                "1:27.064",
+                "McLaren MP4/4",
+                "Ayrton Senna",
+                "October 30, 1988"
+            ]
+        ]
+    }
+}

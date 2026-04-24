@@ -1,0 +1,45 @@
+{
+    "table-974-974": {
+        "title": [
+            "Driver Name",
+            "Birth Year",
+            "Fastest Lap Time"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Spanish Drivers with Fastest Lap Times",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out top 10 Spanish drivers who were born before 1982 and have the latest lap time.",
+        "data": [
+            [
+                "Fernando Alonso",
+                "1981",
+                "1:10.405"
+            ],
+            [
+                "Carlos Sainz Jr.",
+                "1994",
+                "1:11.002"
+            ],
+            [
+                "Pedro de la Rosa",
+                "1971",
+                "1:12.500"
+            ],
+            [
+                "Jaime Alguersuari",
+                "1990",
+                "1:13.250"
+            ],
+            [
+                "Marc Gen\u00e9",
+                "1974",
+                "1:14.001"
+            ]
+        ]
+    }
+}

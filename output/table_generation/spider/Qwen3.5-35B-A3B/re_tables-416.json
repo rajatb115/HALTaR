@@ -1,0 +1,69 @@
+{
+    "table-416-416": {
+        "title": [
+            "Person_Name",
+            "Nationality",
+            "Profession",
+            "Birth_Year",
+            "Country_of_Residence"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show names of people whose nationality is not \"Russia\".",
+        "data": [
+            [
+                "Elena Volkov",
+                "Ukraine",
+                "Architect",
+                "1976",
+                "Kyiv"
+            ],
+            [
+                "Marcus Chen",
+                "China",
+                "Data Scientist",
+                "1891",
+                "Shanghai"
+            ],
+            [
+                "Sarah O'Connor",
+                "Ireland",
+                "Novelist",
+                "1954",
+                "Dublin"
+            ],
+            [
+                "Kenji Tanaka",
+                "Japan",
+                "Engineer",
+                "1678",
+                "Tokyo"
+            ],
+            [
+                "Amara Diop",
+                "Senegal",
+                "Musician",
+                "1990",
+                "Dakar"
+            ],
+            [
+                "Lars Jensen",
+                "Denmark",
+                "Chef",
+                "1345",
+                "Copenhagen"
+            ],
+            [
+                "Sofia Rossi",
+                "Italy",
+                "Historian",
+                "-1234",
+                "Rome"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1424-1424": {
+        "title": [
+            "Transaction ID",
+            "Date",
+            "Amount Received",
+            "Currency",
+            "Source Category",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many income are received with an amount of 50?",
+        "data": [
+            [
+                "TXN_4002",
+                "06/15/2023",
+                "$50.00",
+                "USD",
+                "Freelance Services",
+                "Completed"
+            ],
+            [
+                "TXN_7719",
+                "06/22/2023",
+                "$50.00",
+                "USD",
+                "Refund Processing",
+                "Completed"
+            ],
+            [
+                "TXNEF92",
+                "July 1, 2023",
+                "",
+                "EUR",
+                "Gift Card Redemption",
+                "Pending"
+            ],
+            [
+                "TRX_8831",
+                "07/10/2024",
+                "\u20ac50.00",
+                "EUR",
+                "Subscription Renewal",
+                "Failed"
+            ],
+            [
+                "INC_5502A",
+                "Aug 5, 1999",
+                "\u00a350.00",
+                "GBP",
+                "Dividend Payout",
+                "Cleared"
+            ],
+            [
+                "PAY_IN_009",
+                "Sep 12, 2010",
+                "\u00a550.00",
+                "JPY",
+                "Micro-payment Service",
+                "Active"
+            ]
+        ]
+    }
+}

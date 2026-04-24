@@ -1,0 +1,40 @@
+{
+    "table-1135-1135": {
+        "title": [
+            "Player ID",
+            "Jumping Score"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Player Score Comparison",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the difference between players 6 and 23's jumping scores?",
+        "data": [
+            [
+                "6",
+                "85"
+            ],
+            [
+                "23",
+                "92"
+            ],
+            [
+                "12",
+                "78"
+            ],
+            [
+                "31",
+                "88"
+            ],
+            [
+                "4",
+                "95"
+            ]
+        ]
+    }
+}

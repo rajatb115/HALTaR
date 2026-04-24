@@ -1,0 +1,55 @@
+{
+    "table-725-725": {
+        "title": [
+            "Superhero Name",
+            "Eye Color",
+            "Hair Color",
+            "Affiliation"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the superhero names of all the superheroes that have blue eyes and blond hair.",
+        "data": [
+            [
+                "Captain America",
+                "Blue",
+                "Blond",
+                "Avengers"
+            ],
+            [
+                "Thor",
+                "Blue",
+                "Blond",
+                "Avengers"
+            ],
+            [
+                "Supergirl",
+                "Blue",
+                "Blond",
+                "Justice League"
+            ],
+            [
+                "Iceman",
+                "Blue",
+                "Blond",
+                "X-Men"
+            ],
+            [
+                "Dazzler",
+                "Blue",
+                "Blond",
+                "X-Men"
+            ],
+            [
+                "Invisible Woman",
+                "Blue",
+                "Blond",
+                "Fantastic Four"
+            ]
+        ]
+    }
+}

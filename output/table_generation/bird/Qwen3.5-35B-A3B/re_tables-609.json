@@ -1,0 +1,61 @@
+{
+    "table-609-609": {
+        "title": [
+            "Comment ID",
+            "Timestamp",
+            "Author",
+            "Content Summary",
+            "Status",
+            "Project Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the detailed content of the comment which was created on 7/19/2010 7:25:47 PM.",
+        "data": [
+            [
+                "CMT-1024",
+                "7 July 2025 2:00 PM",
+                "John Doe",
+                "Updated API endpoint documentation for v2 release candidate",
+                "Approved",
+                "PROJ-XA9"
+            ],
+            [
+                "CMT-998",
+                "6 July 2025 1:00 PM",
+                "Sarah Lee",
+                "Fixed critical memory leak in authentication module",
+                "Merged",
+                "AUTH-BETA"
+            ],
+            [
+                "CMT-1035",
+                "7 July 2025 7:00 PM",
+                "Alex Chen",
+                "Added unit tests for new payment gateway integration",
+                "Pending Review",
+                "PAY-GW-V3"
+            ],
+            [
+                "CMT-1101",
+                "8 July 2025 9:00 AM",
+                "Maria Garcia",
+                "Refactored database migration scripts for scalability",
+                "Drafted",
+                "DB-MIGR-04"
+            ],
+            [
+                "CMT-0887",
+                "5 June 2025 11:00 AM",
+                "David Kim",
+                "Initial commit for user dashboard redesign feature",
+                "Archived",
+                "UI-DASH-R"
+            ]
+        ]
+    }
+}

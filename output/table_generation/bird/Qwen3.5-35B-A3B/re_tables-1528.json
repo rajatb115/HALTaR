@@ -1,0 +1,85 @@
+{
+    "table-1528-1528": {
+        "title": [
+            "Station ID",
+            "Location",
+            "Revenue ($)",
+            "Fuel Volume (Gallons)",
+            "Date Range",
+            "Status",
+            "Manager"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which gas station has the highest amount of revenue?",
+        "data": [
+            [
+                "GS-1042",
+                "Downtown Main St",
+                "$1,250,400",
+                "45000",
+                "Jan-Mar Q1",
+                "Active",
+                "Sarah Jenkins"
+            ],
+            [
+                "GS-2091",
+                "Westside Highway",
+                "$980,205",
+                "3650",
+                "Jan-Apr Q1",
+                "Closed",
+                "Mike Ross"
+            ],
+            [
+                "GS-TX77",
+                "North Loop Exit",
+                "$890,150",
+                "N/A",
+                "Feb-May Q2",
+                "Active",
+                "Elena Rodriguez"
+            ],
+            [
+                "GS-CAL99",
+                "South Bay Blvd",
+                "$765,300",
+                "2800",
+                "Mar-Jun Q2",
+                "Open",
+                "David Kim"
+            ],
+            [
+                "GS-NY44",
+                "East River Dr",
+                "$654,899",
+                "240",
+                "Apr-Jul Q3",
+                "Pending",
+                "James Wilson"
+            ],
+            [
+                "GS-OHIO1",
+                "Central Ave",
+                "$540,005",
+                "180",
+                "May-Aug Q4",
+                "Active",
+                "Lisa Chen"
+            ],
+            [
+                "GS-WA22",
+                "Lake View Rd",
+                "$420,750",
+                "15",
+                "Jun-Sep Q4",
+                "Temporary",
+                "Tom Baker"
+            ]
+        ]
+    }
+}

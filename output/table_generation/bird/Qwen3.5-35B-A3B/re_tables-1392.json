@@ -1,0 +1,76 @@
+{
+    "table-1392-1392": {
+        "title": [
+            "Major Category",
+            "Student Count",
+            "Percentage Share",
+            "Ratio Value",
+            "Academic Term",
+            "Campus Location",
+            "Department Head"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the ratio between students majored in finance and physics?",
+        "data": [
+            [
+                "Finance",
+                "450",
+                "67.2%",
+                "3.0 : 1",
+                "Fall 2",
+                "Main Hall",
+                "Dr. Smith"
+            ],
+            [
+                "Physics",
+                "75",
+                "5.1%",
+                "N/A",
+                "Fall",
+                "Science Block",
+                "Prof. Johnson"
+            ],
+            [
+                "Economics",
+                "80",
+                "-",
+                "N.A.",
+                "Spring",
+                "Commerce Wing",
+                "Dr Lee"
+            ],
+            [
+                "Mathematics",
+                "90",
+                "N.D.",
+                "N/D",
+                "Summer",
+                "Tech Center",
+                "Prof Davis"
+            ],
+            [
+                "Chemistry",
+                "0",
+                "NA",
+                "N/NA",
+                "Winter",
+                "Lab Annex",
+                "Dr Wilson"
+            ],
+            [
+                "Biology",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

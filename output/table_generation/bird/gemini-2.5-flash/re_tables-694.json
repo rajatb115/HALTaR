@@ -1,0 +1,69 @@
+{
+    "table-694-694": {
+        "title": [
+            "UserID",
+            "Username",
+            "AccountCreationDate",
+            "TotalPosts",
+            "TotalComments"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the number of posts and comments left by the user, who has the latest created user account.",
+        "data": [
+            [
+                "101",
+                "Alice_W",
+                "2022-01-15",
+                "120",
+                "350"
+            ],
+            [
+                "102",
+                "Bob_S",
+                "2021-03-20",
+                "500",
+                "1200"
+            ],
+            [
+                "103",
+                "Charlie_M",
+                "2023-05-10",
+                "45",
+                "88"
+            ],
+            [
+                "104",
+                "Diana_P",
+                "2022-11-01",
+                "210",
+                "610"
+            ],
+            [
+                "105",
+                "Eve_R",
+                "2023-07-22",
+                "15",
+                "30"
+            ],
+            [
+                "106",
+                "Frank_T",
+                "2023-08-05",
+                "5",
+                "12"
+            ],
+            [
+                "107",
+                "Grace_K",
+                "2023-08-10",
+                "2",
+                "5"
+            ]
+        ]
+    }
+}

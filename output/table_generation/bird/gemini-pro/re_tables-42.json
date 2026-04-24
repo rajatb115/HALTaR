@@ -1,0 +1,51 @@
+{
+    "table-42-42": {
+        "title": [
+            "School Name",
+            "State",
+            "Average Reading Score",
+            "School Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Top Virtual Schools by Reading Score",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which exclusively virtual schools have the top 5 highest average reading scores?",
+        "data": [
+            [
+                "Online Academy of Excellence",
+                "California",
+                "98",
+                "Virtual"
+            ],
+            [
+                "Virtual Scholars Charter",
+                "Texas",
+                "95",
+                "Virtual"
+            ],
+            [
+                "Digital Preparatory Institute",
+                "Florida",
+                "92",
+                "Virtual"
+            ],
+            [
+                "Cyber Pathways School",
+                "Pennsylvania",
+                "90",
+                "Virtual"
+            ],
+            [
+                "E-Learning High",
+                "Arizona",
+                "88",
+                "Virtual"
+            ]
+        ]
+    }
+}

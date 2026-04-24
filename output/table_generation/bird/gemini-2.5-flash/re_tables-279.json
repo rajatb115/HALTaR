@@ -1,0 +1,69 @@
+{
+    "table-279-279": {
+        "title": [
+            "Molecule Name",
+            "Primary Bond Type",
+            "Carcinogenic Status",
+            "Molecular Formula",
+            "Risk Level"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the single bond type molecules are non-carcinogenic?",
+        "data": [
+            [
+                "Methane",
+                "Single",
+                "Non-carcinogenic",
+                "CH4",
+                "1"
+            ],
+            [
+                "Ethane",
+                "Single",
+                "Non-carcinogenic",
+                "C2H6",
+                "1"
+            ],
+            [
+                "Chloroform",
+                "Single",
+                "Carcinogenic",
+                "CHCl3",
+                "4"
+            ],
+            [
+                "Propane",
+                "Single",
+                "Non-carcinogenic",
+                "C3H8",
+                "1"
+            ],
+            [
+                "Carbon Tetrachloride",
+                "Single",
+                "Carcinogenic",
+                "CCl4",
+                "5"
+            ],
+            [
+                "Butane",
+                "Single",
+                "Non-carcinogenic",
+                "C4H10",
+                "1"
+            ],
+            [
+                "Dioxane",
+                "Single",
+                "Carcinogenic",
+                "C4H8O2",
+                "3"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-142-142": {
+        "title": [
+            "District",
+            "Total Transactions",
+            "Average Transaction Amount",
+            "Number of Transactions > $10,000"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Large Transactions by District in 1997",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which districts have transactions greater than USS$10,000 in 1997?",
+        "data": [
+            [
+                "District A",
+                "$5,500,000",
+                "$5,500",
+                "500"
+            ],
+            [
+                "District B",
+                "$4,800,000",
+                "$6,000",
+                "400"
+            ],
+            [
+                "District C",
+                "$6,200,000",
+                "$6,200",
+                "500"
+            ],
+            [
+                "District D",
+                "$7,100,000",
+                "$7,100",
+                "600"
+            ],
+            [
+                "District E",
+                "$5,900,000",
+                "$5,900",
+                "500"
+            ]
+        ]
+    }
+}

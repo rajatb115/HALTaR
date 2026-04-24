@@ -1,0 +1,62 @@
+{
+    "table-237-237": {
+        "title": [
+            "Visitor Name",
+            "Age",
+            "Tickets Purchased",
+            "Purchase Date",
+            "Total Amount Spent"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name and age of the visitor who bought the most tickets at once.",
+        "data": [
+            [
+                "Alice Smith",
+                "34",
+                "8",
+                "2023-10-26",
+                "120.00"
+            ],
+            [
+                "Bob Johnson",
+                "28",
+                "3",
+                "2023-10-25",
+                "45.00"
+            ],
+            [
+                "Carol White",
+                "41",
+                "12",
+                "2023-10-26",
+                "180.00"
+            ],
+            [
+                "David Green",
+                "55",
+                "2",
+                "2023-10-24",
+                "30.00"
+            ],
+            [
+                "Eve Black",
+                "22",
+                "5",
+                "2023-10-25",
+                "75.00"
+            ],
+            [
+                "Frank Brown",
+                "39",
+                "10",
+                "2023-10-26",
+                "150.00"
+            ]
+        ]
+    }
+}

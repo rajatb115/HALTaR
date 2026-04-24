@@ -1,0 +1,53 @@
+{
+    "table-162-162": {
+        "title": [
+            "District",
+            "Store ID",
+            "Product Count",
+            "Category",
+            "Status",
+            "Last Updated",
+            "Manager",
+            "Revenue ($)"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which district has both stores with less than 3000 products and stores with more than 10000 products?",
+        "data": [
+            [
+                "District North",
+                "S-N-004",
+                "6700",
+                "Electronics",
+                "Active",
+                "01/15/2023",
+                "J. Smith",
+                "4500"
+            ],
+            [
+                "District South",
+                "S-S-012",
+                "820",
+                "Clothing",
+                "Active - Low Stock",
+                "03/22/2023",
+                "M. Jones",
+                "9800"
+            ],
+            [
+                "Eastside Central",
+                "E-C-089",
+                "550",
+                "Furniture",
+                "Inactive",
+                "N/A",
+                "R. Davis",
+                "720"
+            ]
+        ]
+    }
+}

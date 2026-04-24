@@ -1,0 +1,61 @@
+{
+    "table-1088-1088": {
+        "title": [
+            "Player ID",
+            "Sport",
+            "Height (cm)",
+            "Volley Score"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the players whose height is over 180, how many of them have a volley score of over 70?",
+        "data": [
+            [
+                "P001",
+                "Tennis",
+                "185",
+                "75"
+            ],
+            [
+                "P002",
+                "Volleyball",
+                "192",
+                "88"
+            ],
+            [
+                "P003",
+                "Basketball",
+                "201",
+                "65"
+            ],
+            [
+                "P004",
+                "Tennis",
+                "178",
+                "80"
+            ],
+            [
+                "P005",
+                "Badminton",
+                "183",
+                "72"
+            ],
+            [
+                "P006",
+                "Volleyball",
+                "190",
+                "68"
+            ],
+            [
+                "P007",
+                "Tennis",
+                "188",
+                "79"
+            ]
+        ]
+    }
+}

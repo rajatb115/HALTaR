@@ -1,0 +1,85 @@
+{
+    "table-662-662": {
+        "title": [
+            "User_ID",
+            "Username",
+            "Influence_Score",
+            "Age",
+            "Platform",
+            "Status",
+            "Last_Active_Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How old is the most influential user?",
+        "data": [
+            [
+                "U_1042",
+                "DataWizard",
+                "98.7",
+                "42",
+                "Analytics",
+                "Active",
+                "6/15/2024"
+            ],
+            [
+                "U_A99",
+                "CodeMasterX",
+                "89.2",
+                "35",
+                "Engineering",
+                "Inactive",
+                "5/01/24"
+            ],
+            [
+                "U_B22",
+                "TrendSetter",
+                "76.5",
+                "0",
+                "Marketing",
+                "Pending",
+                "N/A"
+            ],
+            [
+                "U_C55",
+                "LegacyUser",
+                "65.1",
+                "N/A",
+                "Research",
+                "Suspended",
+                "January 24th"
+            ],
+            [
+                "U_D88",
+                "NewbieStar",
+                "n/a",
+                "Mobile App",
+                "Onboarding",
+                "June 1st",
+                ""
+            ],
+            [
+                "U_E11",
+                "VeteranDev",
+                "92.4",
+                "Senior Dev",
+                "Active",
+                "July 2nd",
+                ""
+            ],
+            [
+                "U_F33",
+                "GuestAccount",
+                "n/a",
+                "Unknown",
+                "Public Forum",
+                "Deleted",
+                "December 25th"
+            ]
+        ]
+    }
+}

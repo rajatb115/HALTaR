@@ -1,0 +1,85 @@
+{
+    "table-243-243": {
+        "title": [
+            "Match ID",
+            "Sport",
+            "Winner Name",
+            "Winner Age",
+            "Loser Name",
+            "Loser Age",
+            "Match Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average age of losers and winners of all matches.",
+        "data": [
+            [
+                "M001",
+                "Tennis",
+                "Novak Djokovic",
+                "36",
+                "Carlos Alcaraz",
+                "20",
+                "2023-07-16"
+            ],
+            [
+                "M002",
+                "Chess",
+                "Magnus Carlsen",
+                "32",
+                "Hikaru Nakamura",
+                "35",
+                "2023-08-05"
+            ],
+            [
+                "M003",
+                "Boxing",
+                "Tyson Fury",
+                "35",
+                "Deontay Wilder",
+                "38",
+                "2021-10-09"
+            ],
+            [
+                "M004",
+                "Golf",
+                "Scottie Scheffler",
+                "27",
+                "Rory McIlroy",
+                "34",
+                "2023-04-09"
+            ],
+            [
+                "M005",
+                "MMA",
+                "Islam Makhachev",
+                "31",
+                "Charles Oliveira",
+                "33",
+                "2022-10-22"
+            ],
+            [
+                "M006",
+                "Darts",
+                "Michael van Gerwen",
+                "34",
+                "Gerwyn Price",
+                "38",
+                "2023-01-03"
+            ],
+            [
+                "M007",
+                "Running",
+                "Eliud Kipchoge",
+                "38",
+                "Kelvin Kiptum",
+                "23",
+                "2023-09-24"
+            ]
+        ]
+    }
+}

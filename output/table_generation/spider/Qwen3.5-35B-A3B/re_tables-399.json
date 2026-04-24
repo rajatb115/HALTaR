@@ -1,0 +1,76 @@
+{
+    "table-399-399": {
+        "title": [
+            "Player_Name",
+            "Earnings_USD",
+            "Final_Tables_Made",
+            "Rank_Highest",
+            "Tournament_Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the maximum final tables made across all poker players who have earnings below 200000.",
+        "data": [
+            [
+                "John Smith",
+                "4500",
+                "3",
+                "7th",
+                "Cash Game"
+            ],
+            [
+                "Sarah Lee",
+                "8900",
+                "",
+                "6th",
+                "No Limit Hold'em"
+            ],
+            [
+                "Mike Chen",
+                "520",
+                "N/A",
+                "N/D",
+                "Pot-Limit Omaha"
+            ],
+            [
+                "Emily Davis",
+                "9990",
+                "",
+                "65th",
+                "H.O.R.S.E."
+            ],
+            [
+                "David Brown",
+                "0",
+                "-",
+                "N/C",
+                "Stud High/Low"
+            ],
+            [
+                "Lisa Wang",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Robert Taylor",
+                "12050",
+                "",
+                "N/A",
+                "Mixed Games"
+            ],
+            [
+                "Jennifer White",
+                "150002",
+                "",
+                "",
+                "Short Deck"
+            ]
+        ]
+    }
+}

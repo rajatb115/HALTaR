@@ -1,0 +1,53 @@
+{
+    "table-12-12": {
+        "title": [
+            "Station Name",
+            "Location",
+            "Capacity"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the locations and names of all stations with capacity between 5000 and 10000?",
+        "data": [
+            [
+                "Grand Central Hub",
+                "New York, USA",
+                "7500"
+            ],
+            [
+                "Metroplex Station",
+                "London, UK",
+                "9200"
+            ],
+            [
+                "Central Terminus",
+                "Tokyo, Japan",
+                "6800"
+            ],
+            [
+                "Union Station West",
+                "Berlin, Germany",
+                "5500"
+            ],
+            [
+                "Riverside Depot",
+                "Toronto, Canada",
+                "8100"
+            ],
+            [
+                "North Point Junction",
+                "Sydney, Australia",
+                "9800"
+            ],
+            [
+                "East Gate Terminal",
+                "Paris, France",
+                "6100"
+            ]
+        ]
+    }
+}

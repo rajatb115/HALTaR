@@ -1,0 +1,69 @@
+{
+    "table-802-802": {
+        "title": [
+            "Superhero Name",
+            "Gender",
+            "Publisher",
+            "First Appearance Year",
+            "Team Affiliation"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the ratio between male superheroes and female superheroes.",
+        "data": [
+            [
+                "Superman",
+                "Male",
+                "DC Comics",
+                "1938",
+                "Justice League"
+            ],
+            [
+                "Wonder Woman",
+                "Female",
+                "DC Comics",
+                "1941",
+                "Justice League"
+            ],
+            [
+                "Batman",
+                "Male",
+                "DC Comics",
+                "1939",
+                "Justice League"
+            ],
+            [
+                "Captain Marvel",
+                "Female",
+                "Marvel Comics",
+                "1968",
+                "Avengers"
+            ],
+            [
+                "Spider-Man",
+                "Male",
+                "Marvel Comics",
+                "1962",
+                "Avengers"
+            ],
+            [
+                "Black Widow",
+                "Female",
+                "Marvel Comics",
+                "1964",
+                "Avengers"
+            ],
+            [
+                "Iron Man",
+                "Male",
+                "Marvel Comics",
+                "1963",
+                "Avengers"
+            ]
+        ]
+    }
+}

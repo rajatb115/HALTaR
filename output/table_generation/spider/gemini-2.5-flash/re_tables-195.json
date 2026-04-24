@@ -1,0 +1,41 @@
+{
+    "table-195-195": {
+        "title": [
+            "Template Code",
+            "Template Type Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the template type description of the template type with the code AD.",
+        "data": [
+            [
+                "AD",
+                "Advertisement Template"
+            ],
+            [
+                "INV",
+                "Invoice Template"
+            ],
+            [
+                "ORD",
+                "Order Confirmation Template"
+            ],
+            [
+                "QUO",
+                "Quotation Template"
+            ],
+            [
+                "ACK",
+                "Acknowledgment Template"
+            ],
+            [
+                "REP",
+                "Report Template"
+            ]
+        ]
+    }
+}

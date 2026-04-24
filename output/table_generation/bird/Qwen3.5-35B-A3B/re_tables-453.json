@@ -1,0 +1,45 @@
+{
+    "table-453-453": {
+        "title": [
+            "Card ID",
+            "Card Name",
+            "Text Box Content",
+            "Set Code",
+            "Rarity",
+            "Release Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the names of the cards that have a text box.",
+        "data": [
+            [
+                "C0042",
+                "Ancient Bronze Tablet",
+                "Grants +2 power when played.",
+                "ANC",
+                "Rare",
+                "06/15/2023"
+            ],
+            [
+                "C0087",
+                "Whispering Spirit",
+                "Draw two cards at the cost of one life point.",
+                "WLD",
+                "Uncommon",
+                "3/22/24"
+            ],
+            [
+                "C1102",
+                "Void Walker's Cloak",
+                "Prevents damage from fire-based attacks.",
+                "SHD",
+                "Common",
+                "8/10/23"
+            ]
+        ]
+    }
+}

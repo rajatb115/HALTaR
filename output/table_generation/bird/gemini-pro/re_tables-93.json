@@ -1,0 +1,37 @@
+{
+    "table-93-93": {
+        "title": [
+            "District",
+            "Average Female Salary"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Districts with Average Female Salaries",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the no. of districts that have female average salary is more than 6000 but less than 10000?",
+        "data": [
+            [
+                "District A",
+                "$6,500"
+            ],
+            [
+                "District B",
+                "$7,200"
+            ],
+            [
+                "District C",
+                "$8,800"
+            ],
+            [
+                "District D",
+                "$9,500"
+            ],
+            [
+                "District E",
+                "$7,900"
+            ]
+        ]
+    }
+}

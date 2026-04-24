@@ -1,0 +1,85 @@
+{
+    "table-534-534": {
+        "title": [
+            "Performance ID",
+            "Share Percentage",
+            "Is Live Final",
+            "Category",
+            "Date Recorded",
+            "Venue City",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the maximum and minimum share of performances whose type is not \"Live final\".",
+        "data": [
+            [
+                "PF-1042",
+                "78.5%",
+                "No",
+                "Regional Tour",
+                "4/12/2023",
+                "Berlin",
+                "Completed"
+            ],
+            [
+                "PF-1105",
+                "62.3%",
+                "Yes",
+                "National Finals",
+                "5/01/23",
+                "London",
+                "Active"
+            ],
+            [
+                "PQ-2091",
+                "91.2%",
+                "Not Applicable",
+                "Studio Session",
+                "3/15/24",
+                "Tokyo",
+                "Archived"
+            ],
+            [
+                "PR-3302",
+                "-15.4%",
+                "N/A",
+                "Canceled Event",
+                "8/22/19",
+                "New York",
+                "Voided"
+            ],
+            [
+                "PS-4410",
+                "0.0%",
+                "False",
+                "Virtual Stream",
+                "12/30/23",
+                "Online",
+                "Draft"
+            ],
+            [
+                "PT-5521",
+                "-5.1%",
+                "True",
+                "Rehearsal Only",
+                "2/14/25",
+                "Paris",
+                "Pending"
+            ],
+            [
+                "PU-6632",
+                "null",
+                "Unknown",
+                "Data Error",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

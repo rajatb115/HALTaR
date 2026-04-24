@@ -1,0 +1,69 @@
+{
+    "table-1256-1256": {
+        "title": [
+            "Patient ID",
+            "IgM Level Status",
+            "Primary Diagnosis",
+            "Secondary Condition",
+            "Age Group"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients with an abnormal Ig M level, what is the most common disease they are diagnosed with?",
+        "data": [
+            [
+                "P-1042",
+                "Abnormal High",
+                "Waldenstr\u00f6m's Macroglobulinemia",
+                "None",
+                "Elderly"
+            ],
+            [
+                "P-1105",
+                "Abnormal Low",
+                "Chronic Lymphocytic Leukemia",
+                "Anemia",
+                "Middle-aged"
+            ],
+            [
+                "P-1298",
+                "Abnormal High",
+                "Multiple Myeloma",
+                "Renal Failure",
+                "Senior"
+            ],
+            [
+                "P-1334",
+                "Abnormal High",
+                "Hepatitis C Infection",
+                "Cirrhosis",
+                "Adult"
+            ],
+            [
+                "P-1401",
+                "Abnormal High",
+                "Mononucleosis",
+                "None",
+                "Young Adult"
+            ],
+            [
+                "P-1567",
+                "Abnormal Low",
+                "Common Variable Immunodeficiency",
+                "Recurrent Infections",
+                "Child"
+            ],
+            [
+                "P-2011",
+                "Abnormal High",
+                "Macroglobulinemia",
+                "Neuropathy",
+                "Elderly"
+            ]
+        ]
+    }
+}

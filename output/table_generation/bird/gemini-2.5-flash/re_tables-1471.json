@@ -1,0 +1,77 @@
+{
+    "table-1471-1471": {
+        "title": [
+            "Station Name",
+            "City",
+            "Region",
+            "Premium Fuel Type",
+            "Premium Available",
+            "Total Pumps"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many gas stations in CZE has Premium gas?",
+        "data": [
+            [
+                "Benzina ORLEN",
+                "Prague",
+                "Central Bohemia",
+                "Verva 100",
+                "Yes",
+                "8"
+            ],
+            [
+                "Shell",
+                "Brno",
+                "South Moravian",
+                "V-Power 100",
+                "Yes",
+                "6"
+            ],
+            [
+                "OMV",
+                "Ostrava",
+                "Moravian-Silesian",
+                "MaxxMotion 100",
+                "Yes",
+                "10"
+            ],
+            [
+                "EuroOil",
+                "Plze\u0148",
+                "Plze\u0148 Region",
+                "N/A",
+                "No",
+                "4"
+            ],
+            [
+                "MOL",
+                "Olomouc",
+                "Olomouc Region",
+                "EVO 100 Plus",
+                "Yes",
+                "7"
+            ],
+            [
+                "Robin Oil",
+                "Liberec",
+                "Liberec Region",
+                "N/A",
+                "No",
+                "5"
+            ],
+            [
+                "Agip",
+                "\u010cesk\u00e9 Bud\u011bjovice",
+                "South Bohemian",
+                "Super Plus 98",
+                "Yes",
+                "9"
+            ]
+        ]
+    }
+}

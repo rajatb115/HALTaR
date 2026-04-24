@@ -1,0 +1,62 @@
+{
+    "table-571-571": {
+        "title": [
+            "User Display Name",
+            "Badge Name",
+            "Badge Tier",
+            "Award Date",
+            "Achievement Category"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the user whose display name is \"DatEpicCoderGuyWhoPrograms\", what is his/her badge's name?",
+        "data": [
+            [
+                "DatEpicCoderGuyWhoPrograms",
+                "Epic Coder",
+                "Gold",
+                "2023-11-15",
+                "Programming"
+            ],
+            [
+                "CodeMasterFlex",
+                "Syntax Savant",
+                "Silver",
+                "2022-08-01",
+                "Programming"
+            ],
+            [
+                "DataWizard",
+                "Insightful Analyst",
+                "Gold",
+                "2023-03-20",
+                "Data Science"
+            ],
+            [
+                "PixelPusher",
+                "Design Innovator",
+                "Bronze",
+                "2021-05-10",
+                "Design"
+            ],
+            [
+                "LogicLover",
+                "Algorithm Ace",
+                "Silver",
+                "2024-01-05",
+                "Programming"
+            ],
+            [
+                "ScriptSavvy",
+                "Community Builder",
+                "Bronze",
+                "2022-12-25",
+                "Community"
+            ]
+        ]
+    }
+}

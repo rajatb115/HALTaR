@@ -1,0 +1,85 @@
+{
+    "table-143-143": {
+        "title": [
+            "IATA Code",
+            "Airport Name",
+            "City",
+            "Country",
+            "Current Status",
+            "Last Passenger Flight Year",
+            "Primary Reason"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airports do not have departing or arriving flights?",
+        "data": [
+            [
+                "XYZ",
+                "Old River Airfield",
+                "Riverton",
+                "USA",
+                "Closed",
+                "2005",
+                "Economic Decline"
+            ],
+            [
+                "ABC",
+                "Northwood Regional",
+                "Northwood",
+                "Canada",
+                "Inactive",
+                "2010",
+                "Low Demand"
+            ],
+            [
+                "DEF",
+                "Desert Sands Intl.",
+                "Al-Khabar",
+                "Saudi Arabia",
+                "Abandoned",
+                "1998",
+                "New Airport Built"
+            ],
+            [
+                "GHI",
+                "Mountain Pass Airbase",
+                "Alpine",
+                "Switzerland",
+                "Military Only",
+                "N/A",
+                "Strategic Use"
+            ],
+            [
+                "JKL",
+                "Portside Cargo Hub",
+                "Portville",
+                "UK",
+                "Cargo Only",
+                "N/A",
+                "Dedicated Freight"
+            ],
+            [
+                "MNO",
+                "East Coast Airstrip",
+                "Seaview",
+                "Australia",
+                "Private Use",
+                "N/A",
+                "Private Property"
+            ],
+            [
+                "PQR",
+                "Central Plains Field",
+                "Heartland",
+                "USA",
+                "Converted",
+                "1990",
+                "Urban Development"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-1309-1309": {
+        "title": [
+            "Symptom",
+            "Number of Patients"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Patients with Normal Platelet Levels and Observed Symptoms",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients who have a normal platelet level, how many of them have other symptoms observed?",
+        "data": [
+            [
+                "Fever",
+                "15"
+            ],
+            [
+                "Cough",
+                "22"
+            ],
+            [
+                "Fatigue",
+                "18"
+            ],
+            [
+                "Headache",
+                "12"
+            ],
+            [
+                "None",
+                "35"
+            ]
+        ]
+    }
+}

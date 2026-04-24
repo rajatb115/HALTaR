@@ -1,0 +1,76 @@
+{
+    "table-1176-1176": {
+        "title": [
+            "Patient_ID",
+            "Age_at_Exam",
+            "Hemoglobin_g_dL",
+            "Doctor_Diagnosis",
+            "Examination_Date",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How old was the patient who had the highest hemoglobin count at the time of the examination, and what is the doctor's diagnosis?",
+        "data": [
+            [
+                "P_4021",
+                "67",
+                "9.2",
+                "Anemia due to chronic disease",
+                "03/15/2023",
+                "Stable",
+                "Low iron levels observed"
+            ],
+            [
+                "P_A892",
+                "45",
+                "8.5",
+                "Iron deficiency anemia",
+                "3/22/23 / 23/03",
+                "Active treatment",
+                "Dietary changes recommended"
+            ],
+            [
+                "B_1102",
+                "N/A",
+                "7.8",
+                "Aplastic anemia suspected",
+                "5/10/24",
+                "Pending tests",
+                "Further bone marrow biopsy required"
+            ],
+            [
+                "C_3341",
+                "-",
+                "",
+                "No specific diagnosis yet",
+                "1/05/ 24",
+                "Monitoring",
+                "Routine check-up only"
+            ],
+            [
+                "D_5509",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "E_7721",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

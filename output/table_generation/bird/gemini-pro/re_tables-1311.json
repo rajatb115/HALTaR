@@ -1,0 +1,43 @@
+{
+    "table-1311-1311": {
+        "title": [
+            "Gender",
+            "Prothrombin Time Result",
+            "Average Prothrombin Time"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Prothrombin Time Statistics by Gender",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the male patients that have a normal prothrombin time, what is their average prothrombin time?",
+        "data": [
+            [
+                "Male",
+                "Normal",
+                "12.5 seconds"
+            ],
+            [
+                "Female",
+                "Normal",
+                "13.0 seconds"
+            ],
+            [
+                "Male",
+                "Abnormal",
+                "15.2 seconds"
+            ],
+            [
+                "Female",
+                "Abnormal",
+                "14.8 seconds"
+            ],
+            [
+                "All",
+                "All",
+                "13.7 seconds"
+            ]
+        ]
+    }
+}

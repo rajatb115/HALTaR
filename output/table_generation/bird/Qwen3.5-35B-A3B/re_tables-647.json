@@ -1,0 +1,53 @@
+{
+    "table-647-647": {
+        "title": [
+            "Post Title",
+            "Commenter Display Name",
+            "Sentiment Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the post title which got positive comments and display names of the users who posted those comments.",
+        "data": [
+            [
+                "How I Learned Python in One Week",
+                "DataWizard_42",
+                "Positive"
+            ],
+            [
+                "Top 10 Travel Destinations for 2024",
+                "Wanderlust_Sarah",
+                "Positive"
+            ],
+            [
+                "The Future of Renewable Energy Sources",
+                "GreenTech_Guru",
+                "Positive"
+            ],
+            [
+                "Understanding Quantum Computing Basics",
+                "PhysicsFan_99",
+                "Positive"
+            ],
+            [
+                "Best Practices for Remote Work Teams",
+                "ProductivityPro",
+                "Positive"
+            ],
+            [
+                "A Beginner's Guide to Machine Learning",
+                "AI_Newbie",
+                "Positive"
+            ],
+            [
+                "Why Open Source Matters More Than Ever",
+                "CodeForAll",
+                "Positive"
+            ]
+        ]
+    }
+}

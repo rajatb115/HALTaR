@@ -1,0 +1,67 @@
+{
+    "table-1011-1011": {
+        "title": [
+            "Driver",
+            "Circuit",
+            "Lap Record Time",
+            "Date Set",
+            "Race Distance",
+            "Car Model",
+            "Team"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the lap record set by Lewis Hamilton in a Formula_1 race?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "Silverstone",
+                "01:27.097",
+                "July 14, 2021",
+                "52 laps",
+                "Mercedes W07 Hybrid",
+                "Mercedes AMG Petronas F1 Team"
+            ],
+            [
+                "Max Verstappen",
+                "Spa-Francorchamps",
+                "4m 26.286s",
+                "August 31, 2019",
+                "36 laps",
+                "Red Bull RB16B",
+                "Oracle Red Bull Racing"
+            ],
+            [
+                "Charles Leclerc",
+                "Monaco",
+                "6m 12.909s",
+                "May 27, 2019",
+                "78 laps",
+                "Ferrari SF90",
+                "Scuderia Ferrari"
+            ],
+            [
+                "Valtteri Bottas",
+                "Suzuka",
+                "8m 55.105s",
+                "April 13, 2018",
+                "92 laps",
+                "Mercedes F1 W09 EQ Power+",
+                "Mercedes-AMG PETRONAS Motorsport"
+            ],
+            [
+                "Sebastian Vettel",
+                "Hockenheimring",
+                "",
+                "June 25, 2008",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

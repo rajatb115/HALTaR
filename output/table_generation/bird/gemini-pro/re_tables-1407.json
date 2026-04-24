@@ -1,0 +1,37 @@
+{
+    "table-1407-1407": {
+        "title": [
+            "Budget Category",
+            "Budgeted Amount"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Food Budget Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the budgets for Food, which one has the highest budgeted amount?",
+        "data": [
+            [
+                "Groceries",
+                "$2,500"
+            ],
+            [
+                "Restaurants",
+                "$1,200"
+            ],
+            [
+                "Coffee",
+                "$300"
+            ],
+            [
+                "Snacks",
+                "$200"
+            ],
+            [
+                "Food Delivery",
+                "$500"
+            ]
+        ]
+    }
+}

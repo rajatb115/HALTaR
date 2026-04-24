@@ -1,0 +1,77 @@
+{
+    "table-1388-1388": {
+        "title": [
+            "Student Name",
+            "Event",
+            "Budget Role",
+            "Budget Amount",
+            "Status",
+            "Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which student has been entrusted to manage the budget for the Yearly Kickoff?",
+        "data": [
+            [
+                "Alice Johnson",
+                "Yearly Kickoff",
+                "Lead Coordinator",
+                "$15,000",
+                "Approved",
+                "2024"
+            ],
+            [
+                "Bob Smith",
+                "Spring Gala",
+                "Assistant Manager",
+                "$10,000",
+                "In Progress",
+                "2024"
+            ],
+            [
+                "Carol White",
+                "Yearly Kickoff",
+                "Finance Lead",
+                "$18,000",
+                "Pending Review",
+                "2023"
+            ],
+            [
+                "David Green",
+                "Charity Run",
+                "Budget Officer",
+                "$5,000",
+                "Completed",
+                "2024"
+            ],
+            [
+                "Emily Brown",
+                "Yearly Kickoff",
+                "Co-Manager",
+                "$16,500",
+                "Approved",
+                "2024"
+            ],
+            [
+                "Frank Black",
+                "Winter Festival",
+                "Treasurer",
+                "$12,000",
+                "In Progress",
+                "2023"
+            ],
+            [
+                "Grace Lee",
+                "Yearly Kickoff",
+                "Lead Coordinator",
+                "$17,000",
+                "Approved",
+                "2025"
+            ]
+        ]
+    }
+}

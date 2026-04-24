@@ -1,0 +1,77 @@
+{
+    "table-28-28": {
+        "title": [
+            "Dog ID",
+            "Breed",
+            "Age (Years)",
+            "Weight (kg)",
+            "Owner",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the weight of the youngest dog.",
+        "data": [
+            [
+                "D-104",
+                "Labrador Retriever",
+                "6",
+                "32.5",
+                "Sarah J.",
+                "Active"
+            ],
+            [
+                "D-Tiny",
+                "Chihuahua",
+                "0.75",
+                "4.2",
+                "Mike R.",
+                "Healthy"
+            ],
+            [
+                "D-Max",
+                "German Shepherd",
+                "8",
+                "55.0",
+                "Emily W.",
+                "Inactive"
+            ],
+            [
+                "D-Bella",
+                "Beagle",
+                "9",
+                "7.8",
+                "Tom H.",
+                "Retired"
+            ],
+            [
+                "D-Luna",
+                "Poodle",
+                "0.5",
+                "",
+                "N/A",
+                "Pending"
+            ],
+            [
+                "D-Rex",
+                "Bulldog",
+                "0.25",
+                "",
+                "",
+                "Newborn"
+            ],
+            [
+                "D-Zoe",
+                "Greyhound",
+                "0.33",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

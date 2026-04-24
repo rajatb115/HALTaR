@@ -1,0 +1,53 @@
+{
+    "table-866-866": {
+        "title": [
+            "Driver Name",
+            "Finishing Position",
+            "Age",
+            "Race Number"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Race Finishing Order and Driver Ages",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the drivers who finished the game in race No. 592, who is the oldest?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "1",
+                "38",
+                "592"
+            ],
+            [
+                "Max Verstappen",
+                "2",
+                "25",
+                "592"
+            ],
+            [
+                "Fernando Alonso",
+                "3",
+                "42",
+                "592"
+            ],
+            [
+                "Charles Leclerc",
+                "4",
+                "25",
+                "592"
+            ],
+            [
+                "Sergio P\u00e9rez",
+                "5",
+                "33",
+                "592"
+            ]
+        ]
+    }
+}

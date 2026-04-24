@@ -1,0 +1,45 @@
+{
+    "table-973-973": {
+        "title": [
+            "Driver ID",
+            "Driver Code",
+            "Fastest Lap Time"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Fastest Laps by Drivers Born in 1971",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which drivers who were born in 1971 and has the fastest lap time on the race? Give id and code of these drivers.",
+        "data": [
+            [
+                "20",
+                "MSC",
+                "1:24.125"
+            ],
+            [
+                "30",
+                "BIA",
+                "1:25.500"
+            ],
+            [
+                "40",
+                "ALO",
+                "1:26.000"
+            ],
+            [
+                "50",
+                "VET",
+                "1:26.500"
+            ],
+            [
+                "60",
+                "RAI",
+                "1:27.000"
+            ]
+        ]
+    }
+}

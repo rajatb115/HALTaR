@@ -1,0 +1,52 @@
+{
+    "table-1234-1234": {
+        "title": [
+            "Patient ID",
+            "Glucose (GLU) Index",
+            "Date Recorded",
+            "Normal Range"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Patient Glucose Levels in 1991",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List each patient's ID and blood glucose (GLU) index that were within normal range for patient's whose data was first recorded in 1991.",
+        "data": [
+            [
+                "12345",
+                "95",
+                "1991-03-15",
+                "70-100"
+            ],
+            [
+                "67890",
+                "82",
+                "1991-05-20",
+                "70-100"
+            ],
+            [
+                "24680",
+                "78",
+                "1991-07-01",
+                "70-100"
+            ],
+            [
+                "13579",
+                "100",
+                "1991-09-10",
+                "70-100"
+            ],
+            [
+                "98765",
+                "88",
+                "1991-11-22",
+                "70-100"
+            ]
+        ]
+    }
+}

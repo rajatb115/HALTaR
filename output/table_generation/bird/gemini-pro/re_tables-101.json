@@ -1,0 +1,52 @@
+{
+    "table-101-101": {
+        "title": [
+            "Gender",
+            "Birth Year",
+            "City",
+            "Account Openings"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            3
+        ],
+        "pgTitle": "Customer Demographics and Account Openings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the account opened, how many female customers who were born before 1950 and stayed in Slokolov?",
+        "data": [
+            [
+                "Female",
+                "1948",
+                "Sokolov",
+                "3"
+            ],
+            [
+                "Female",
+                "1949",
+                "Sokolov",
+                "5"
+            ],
+            [
+                "Male",
+                "1947",
+                "Sokolov",
+                "2"
+            ],
+            [
+                "Male",
+                "1950",
+                "Sokolov",
+                "1"
+            ],
+            [
+                "Female",
+                "1951",
+                "Sokolov",
+                "7"
+            ]
+        ]
+    }
+}

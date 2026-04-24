@@ -1,0 +1,48 @@
+{
+    "table-47-47": {
+        "title": [
+            "Pet ID",
+            "Weight_kg",
+            "Age_years",
+            "Species",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the id and weight of every pet who is older than 1?",
+        "data": [
+            [
+                "P004",
+                "4.2",
+                "3",
+                "Cat",
+                "Active"
+            ],
+            [
+                "P117",
+                "6.8",
+                "5",
+                "Dog",
+                "Active"
+            ],
+            [
+                "P203",
+                "0.9",
+                "8",
+                "Hamster",
+                "Inactive"
+            ],
+            [
+                "P331",
+                "7.5",
+                "9",
+                "Rabbit",
+                "Active"
+            ]
+        ]
+    }
+}

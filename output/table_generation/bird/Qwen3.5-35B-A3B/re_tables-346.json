@@ -1,0 +1,61 @@
+{
+    "table-346-346": {
+        "title": [
+            "Card Name",
+            "Set Code",
+            "Vintage Legal Status",
+            "Format Restriction",
+            "Rarity",
+            "Price Range ($)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For artifact type of cards that do not have multiple faces on the same card, state its legalities for vintage play format.",
+        "data": [
+            [
+                "Black Lotus",
+                "Alpha",
+                "Restricted",
+                "Reserved List Only",
+                "Rare",
+                "$450,000+"
+            ],
+            [
+                "Mox Sapphire",
+                "Beta",
+                "Restricted",
+                "Reserved List",
+                "Rare",
+                "$60,205"
+            ],
+            [
+                "Ancestral Recall",
+                "Unlimited",
+                "Banned",
+                "",
+                "Rare",
+                "$75,050"
+            ],
+            [
+                "Time Walk",
+                "Alpha",
+                "Restricted",
+                "Reserved List",
+                "Rare",
+                "$42,100"
+            ],
+            [
+                "Mishra's Workshop",
+                "Unlimited",
+                "Not in Standard",
+                "",
+                "Mythic Rare",
+                "$18,500"
+            ]
+        ]
+    }
+}

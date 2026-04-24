@@ -1,0 +1,77 @@
+{
+    "table-315-315": {
+        "title": [
+            "Molecule",
+            "Bond Count",
+            "Bond Type",
+            "Context",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many single bonds are there in the list?",
+        "data": [
+            [
+                "Methane",
+                "4",
+                "Single",
+                "Standard Alkane",
+                "Verified",
+                "All C-H connections"
+            ],
+            [
+                "Ethane",
+                "7",
+                "Single+Saturated",
+                "Aliphatic Chain",
+                "Confirmed",
+                "Includes one C-C bond"
+            ],
+            [
+                "Propane",
+                "10",
+                "Single+Linear",
+                "Gas Fuel",
+                "Validated",
+                "Three carbon backbone"
+            ],
+            [
+                "Benzene",
+                "6",
+                "Mixed+Aromatic",
+                "Ring Structure",
+                "Partial",
+                "Six sigma bonds only"
+            ],
+            [
+                "Cyclohexane",
+                "12",
+                "Single+Cyclic",
+                "Saturated Ring",
+                "Checked",
+                "No double bonds present"
+            ],
+            [
+                "Tetrafluoromethane",
+                "",
+                "Single",
+                "Halogenated Derivative",
+                "Pending",
+                "Fluorine count pending"
+            ],
+            [
+                "Nitrogen Gas",
+                "1",
+                "Triple+N/A",
+                "Diatomic Element",
+                "Known",
+                "Zero single bonds here"
+            ]
+        ]
+    }
+}

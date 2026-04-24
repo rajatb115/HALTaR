@@ -1,0 +1,57 @@
+{
+    "table-1444-1444": {
+        "title": [
+            "Event ID",
+            "Location",
+            "Status",
+            "Start Date",
+            "End Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Events Conducted Between November 2019 and March 2020",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the event ID, location, and status of events conducted from November 2019 to March 2020.",
+        "data": [
+            [
+                "123",
+                "New York",
+                "Completed",
+                "2019-11-15",
+                "2019-11-17"
+            ],
+            [
+                "124",
+                "Los Angeles",
+                "Cancelled",
+                "2019-12-01",
+                "2019-12-02"
+            ],
+            [
+                "125",
+                "Chicago",
+                "Scheduled",
+                "2020-01-10",
+                "2020-01-12"
+            ],
+            [
+                "126",
+                "Houston",
+                "Completed",
+                "2020-02-20",
+                "2020-02-22"
+            ],
+            [
+                "127",
+                "Miami",
+                "Postponed",
+                "2020-03-05",
+                "2020-03-07"
+            ]
+        ]
+    }
+}

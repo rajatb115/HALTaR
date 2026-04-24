@@ -1,0 +1,48 @@
+{
+    "table-774-774": {
+        "title": [
+            "Superhero",
+            "Eye Color",
+            "Hair Color",
+            "Skin Tone",
+            "Publisher"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which superhero has the same eyes, hair and skin colour? Indicate the publisher of the superhero.",
+        "data": [
+            [
+                "Superman",
+                "Blue",
+                "Black",
+                "Light",
+                "DC Comics"
+            ],
+            [
+                "",
+                "Green",
+                "Brown",
+                "Olive",
+                "Marvel Studios"
+            ],
+            [
+                "Thor",
+                "Blue",
+                "Blonde",
+                "Fair",
+                "Marvel Studios"
+            ],
+            [
+                "Hawkeye",
+                "Hazel",
+                "Brown",
+                "Pale",
+                "Marvel Studios"
+            ]
+        ]
+    }
+}

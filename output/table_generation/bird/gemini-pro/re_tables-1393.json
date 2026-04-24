@@ -1,0 +1,39 @@
+{
+    "table-1393-1393": {
+        "title": [
+            "Source",
+            "Amount Received (USD)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Top Funding Sources - September 2019",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicate the top source of funds received in September 2019 based on their amount.",
+        "data": [
+            [
+                "Grant A",
+                "1,200,000"
+            ],
+            [
+                "Investment Group B",
+                "950,000"
+            ],
+            [
+                "Private Donor C",
+                "700,000"
+            ],
+            [
+                "Fundraising Event D",
+                "550,000"
+            ],
+            [
+                "Corporate Sponsor E",
+                "400,000"
+            ]
+        ]
+    }
+}

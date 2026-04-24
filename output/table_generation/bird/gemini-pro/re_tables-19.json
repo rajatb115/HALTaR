@@ -1,0 +1,45 @@
+{
+    "table-19-19": {
+        "title": [
+            "School Name",
+            "Funding Type",
+            "Number of Test Takers"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "School Statistics in Contra Costa",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many schools in Contra Costa (directly funded) have number of test takers not more than 250?",
+        "data": [
+            [
+                "School A",
+                "Direct Funded",
+                "150"
+            ],
+            [
+                "School B",
+                "Direct Funded",
+                "200"
+            ],
+            [
+                "School C",
+                "Direct Funded",
+                "250"
+            ],
+            [
+                "School D",
+                "Direct Funded",
+                "300"
+            ],
+            [
+                "School E",
+                "Indirect Funded",
+                "100"
+            ]
+        ]
+    }
+}

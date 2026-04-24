@@ -1,0 +1,43 @@
+{
+    "table-1449-1449": {
+        "title": [
+            "Event Name",
+            "Event Date",
+            "Pizza Expenses"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Event Expense Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name and date of events with expenses for pizza that were more than fifty dollars but less than a hundred dollars.",
+        "data": [
+            [
+                "Birthday Party",
+                "2023-08-15",
+                "$65.00"
+            ],
+            [
+                "Company Lunch",
+                "2023-09-20",
+                "$75.50"
+            ],
+            [
+                "Team Outing",
+                "2023-10-27",
+                "$92.00"
+            ],
+            [
+                "Holiday Party",
+                "2023-12-22",
+                "$99.99"
+            ],
+            [
+                "Summer BBQ",
+                "2024-06-01",
+                "$55.25"
+            ]
+        ]
+    }
+}

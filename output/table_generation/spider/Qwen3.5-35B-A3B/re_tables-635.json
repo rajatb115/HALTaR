@@ -1,0 +1,55 @@
+{
+    "table-635-635": {
+        "title": [
+            "Singer Name",
+            "Net Worth ($)",
+            "Primary Genre",
+            "Nationality",
+            "Active Since"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of singers ordered by ascending net worth?",
+        "data": [
+            [
+                "Adele",
+                "45000000",
+                "Pop / Soul",
+                "British",
+                "2008"
+            ],
+            [
+                "Taylor Swift",
+                "520000000",
+                "Country / Pop",
+                "American",
+                "2006"
+            ],
+            [
+                "Beyonc\u00e9",
+                "850000000",
+                "R&B / Hip-Hop",
+                "American",
+                "2003"
+            ],
+            [
+                "Drake",
+                "920000000",
+                "Rap / R&B",
+                "Canadian",
+                "2009"
+            ],
+            [
+                "Ed Sheeran",
+                "380000000",
+                "Folk / Pop",
+                "British",
+                "2011"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-1191-1191": {
+        "title": [
+            "Proteinuria Level",
+            "Uric Acid Level",
+            "Number of Patients",
+            "Percentage of Total Patients"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Proteinuria and Uric Acid Levels in Patients",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of patients with a proteinuria level within the normal range have a uric acid level below the normal range?",
+        "data": [
+            [
+                "Normal",
+                "Below Normal",
+                "15",
+                "7.5%"
+            ],
+            [
+                "Normal",
+                "Normal",
+                "120",
+                "60%"
+            ],
+            [
+                "Normal",
+                "Above Normal",
+                "65",
+                "32.5%"
+            ],
+            [
+                "Abnormal",
+                "Below Normal",
+                "5",
+                "2.5%"
+            ],
+            [
+                "Abnormal",
+                "Normal",
+                "40",
+                "20%"
+            ]
+        ]
+    }
+}

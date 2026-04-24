@@ -1,0 +1,58 @@
+{
+    "table-1362-1362": {
+        "title": [
+            "Event ID",
+            "Event Name",
+            "Number of Pizzas",
+            "Pizza Cost per Pizza",
+            "Total Pizza Cost"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Pizza Costs per Event",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total cost of the pizzas for all the events?",
+        "data": [
+            [
+                "1",
+                "Birthday Party",
+                "3",
+                "$15",
+                "$45"
+            ],
+            [
+                "2",
+                "Corporate Lunch",
+                "5",
+                "$18",
+                "$90"
+            ],
+            [
+                "3",
+                "Family Reunion",
+                "7",
+                "$16",
+                "$112"
+            ],
+            [
+                "4",
+                "Game Night",
+                "2",
+                "$14",
+                "$28"
+            ],
+            [
+                "5",
+                "Wedding Reception",
+                "10",
+                "$20",
+                "$200"
+            ]
+        ]
+    }
+}

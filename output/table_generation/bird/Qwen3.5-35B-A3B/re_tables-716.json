@@ -1,0 +1,61 @@
+{
+    "table-716-716": {
+        "title": [
+            "Display_Name",
+            "Comment_Score",
+            "Down_Votes",
+            "Up_Votes"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In comments with score between 1 to 5, list down the display names of the users with 0 down votes.",
+        "data": [
+            [
+                "Alice_Reader",
+                "4",
+                "0",
+                "6"
+            ],
+            [
+                "Bob_Writer",
+                "3",
+                "5",
+                "7"
+            ],
+            [
+                "Charlie_Tech",
+                "8",
+                "9",
+                ""
+            ],
+            [
+                "Diana_Data",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Eve_Analyst",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Frank_User",
+                "1",
+                "",
+                ""
+            ],
+            [
+                "Grace_Moderator",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-1367-1367": {
+        "title": [
+            "Member ID",
+            "Full Name",
+            "Role",
+            "Attendance Status",
+            "Check-in Time",
+            "Event Date",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the members who attended the event \"October Meeting\".",
+        "data": [
+            [
+                "M0042",
+                "Sarah Jenkins",
+                "Chairperson",
+                "Present",
+                "09:05 AM",
+                "October 12, 2nd",
+                "Arrived early for setup"
+            ],
+            [
+                "M0056",
+                "David Chen",
+                "Treasurer",
+                "Absent",
+                "N/A",
+                "October 12, 2nd",
+                "Submitted written report"
+            ],
+            [
+                "M0071",
+                "Emily Rodriguez",
+                "Secretary",
+                "Present",
+                "08:55 AM",
+                "October 2, nd",
+                "Took minutes during meeting"
+            ],
+            [
+                "M0103",
+                "Michael O'Neil",
+                "Committee Lead",
+                "Present",
+                "03 PM",
+                "October 2",
+                "Joined via video link"
+            ],
+            [
+                "M0215",
+                "Jessica Wu",
+                "Member",
+                "Late Arrival",
+                "9:45 AM",
+                "October 0, 1st",
+                "Missed opening remarks"
+            ]
+        ]
+    }
+}

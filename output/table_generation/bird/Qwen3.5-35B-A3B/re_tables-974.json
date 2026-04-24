@@ -1,0 +1,103 @@
+{
+    "table-974-974": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Birth Year",
+            "Latest Lap Time (s)",
+            "Team",
+            "Circuit",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 9,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out top 10 Spanish drivers who were born before 1982 and have the latest lap time.",
+        "data": [
+            [
+                "Fernando Alonso",
+                "Spain",
+                "1981",
+                "67.45",
+                "Alpine",
+                "Monza",
+                "Active"
+            ],
+            [
+                "Carlos Sainz Sr.",
+                "Spain",
+                "1962",
+                "92.10",
+                "Ferrari",
+                "Spa-Francorchamps",
+                "Retired"
+            ],
+            [
+                "Carlos Sainz Jr.",
+                "Spain",
+                "2001",
+                "N/A",
+                "McLaren",
+                "Silverstone",
+                "Active"
+            ],
+            [
+                "Miguel \u00c1ngel de Castro",
+                "Spain",
+                "1975",
+                "58.33",
+                "Privateer",
+                "Jerez",
+                "Inactive"
+            ],
+            [
+                "Alberto Puig",
+                "Spain",
+                "1968",
+                "45.22",
+                "Repsol Honda",
+                "Catalunya",
+                "Retired"
+            ],
+            [
+                "Jordi Gen\u00e9",
+                "Spain",
+                "1973",
+                "34.56",
+                "Toyota Gazoo Racing",
+                "Barcelona",
+                "Active"
+            ],
+            [
+                "Toni El\u00edas",
+                "Spain",
+                "1983",
+                "N/A",
+                "Yamaha Factory",
+                "Mugello",
+                "Retired"
+            ],
+            [
+                "Marc M\u00e1rquez",
+                "Spain",
+                "1993",
+                "N/A",
+                "Gresini MotoGP",
+                "Valencia",
+                "Active"
+            ],
+            [
+                "Alex Crivill\u00e9",
+                "Spain",
+                "1966",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

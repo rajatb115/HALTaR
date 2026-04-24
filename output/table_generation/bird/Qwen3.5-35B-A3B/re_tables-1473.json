@@ -1,0 +1,85 @@
+{
+    "table-1473-1473": {
+        "title": [
+            "Region",
+            "Category",
+            "Consumption Value",
+            "Unit",
+            "Data Source",
+            "Confidence Level",
+            "Last Updated"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In 2012, who had the least consumption in LAM?",
+        "data": [
+            [
+                "LAM - Urban Areas",
+                "Residential Energy",
+                "45.2",
+                "TWh",
+                "National Grid Report",
+                "High",
+                "06/15/2023"
+            ],
+            [
+                "LAM Rural Zones",
+                "Agricultural Usage",
+                "38.7",
+                "Twh",
+                "Ministry of Agriculture",
+                "Medium",
+                "6/2/23"
+            ],
+            [
+                "Coastal Districts",
+                "Industrial Power",
+                "52.1",
+                "TWH",
+                "Regional Statistics Office",
+                "High",
+                "05/30/24"
+            ],
+            [
+                "Mountainous Sector",
+                "Commercial Demand",
+                "89.4",
+                "TTH",
+                "Local Utility Corp",
+                "Low",
+                "7/1/22"
+            ],
+            [
+                "Northern Province",
+                "Transportation Fuel",
+                "91.3",
+                "GJ",
+                "Transport Authority",
+                "High",
+                "04/12/ 23"
+            ],
+            [
+                "Southern Islands",
+                "Household Water",
+                "N/A",
+                "Mgal",
+                "Environmental Agency",
+                "Unknown",
+                "N/A"
+            ],
+            [
+                "Central Valley",
+                "Public Lighting",
+                "",
+                "kWh",
+                "Municipal Council",
+                "Verified",
+                "/20/"
+            ]
+        ]
+    }
+}

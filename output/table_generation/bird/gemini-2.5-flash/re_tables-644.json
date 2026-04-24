@@ -1,0 +1,61 @@
+{
+    "table-644-644": {
+        "title": [
+            "User ID",
+            "Display Name",
+            "Age",
+            "Total Views"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the display names and ages of user who got the highest in views?",
+        "data": [
+            [
+                "101",
+                "GamerGuru",
+                "28",
+                "15345123"
+            ],
+            [
+                "102",
+                "TechExplorer",
+                "34",
+                "12876543"
+            ],
+            [
+                "103",
+                "ArtisticSoul",
+                "22",
+                "9987654"
+            ],
+            [
+                "104",
+                "CodeMaster",
+                "41",
+                "8543210"
+            ],
+            [
+                "105",
+                "FoodieFanatic",
+                "29",
+                "7123456"
+            ],
+            [
+                "106",
+                "TravelBug",
+                "31",
+                "6543210"
+            ],
+            [
+                "107",
+                "FitnessFreak",
+                "26",
+                "5987654"
+            ]
+        ]
+    }
+}

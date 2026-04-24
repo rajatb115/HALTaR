@@ -1,0 +1,62 @@
+{
+    "table-739-739": {
+        "title": [
+            "Superhero Name",
+            "Primary Power",
+            "Durability Score",
+            "Strength Score",
+            "Agility Score"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many superheroes have durability of less than 50?",
+        "data": [
+            [
+                "Black Widow",
+                "Master Spy, Martial Arts",
+                "45",
+                "30",
+                "85"
+            ],
+            [
+                "Hawkeye",
+                "Master Archer",
+                "35",
+                "25",
+                "70"
+            ],
+            [
+                "Ant-Man",
+                "Size Manipulation",
+                "40",
+                "40",
+                "75"
+            ],
+            [
+                "Spider-Man",
+                "Web-slinging, Super-strength",
+                "70",
+                "80",
+                "95"
+            ],
+            [
+                "Captain America",
+                "Super-soldier Serum",
+                "80",
+                "75",
+                "85"
+            ],
+            [
+                "Hulk",
+                "Super-strength, Invulnerability",
+                "100",
+                "100",
+                "40"
+            ]
+        ]
+    }
+}

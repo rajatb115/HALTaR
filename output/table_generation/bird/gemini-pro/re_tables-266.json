@@ -1,0 +1,43 @@
+{
+    "table-266-266": {
+        "title": [
+            "Molecule Name",
+            "Molecule ID",
+            "Carcinogenic"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Non-Carcinogenic Molecule IDs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down the molecule id for non carcinogenic molecules.",
+        "data": [
+            [
+                "Aspirin",
+                "ASP001",
+                "No"
+            ],
+            [
+                "Water",
+                "H2O001",
+                "No"
+            ],
+            [
+                "Ethanol",
+                "ETH001",
+                "No"
+            ],
+            [
+                "Vitamin C",
+                "VITC001",
+                "No"
+            ],
+            [
+                "Sodium Chloride",
+                "NaCl001",
+                "No"
+            ]
+        ]
+    }
+}

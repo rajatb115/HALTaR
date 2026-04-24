@@ -1,0 +1,53 @@
+{
+    "table-680-680": {
+        "title": [
+            "Post ID",
+            "Title",
+            "Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which post has the highest score? Please give its id and title's name.",
+        "data": [
+            [
+                "101",
+                "Understanding Data Analytics Basics",
+                "150"
+            ],
+            [
+                "102",
+                "The Future of AI in Business",
+                "320"
+            ],
+            [
+                "103",
+                "Beginner's Guide to SQL",
+                "90"
+            ],
+            [
+                "104",
+                "Machine Learning Algorithms Explained",
+                "280"
+            ],
+            [
+                "105",
+                "Cloud Computing Trends 2024",
+                "180"
+            ],
+            [
+                "106",
+                "Deep Learning for Image Recognition",
+                "450"
+            ],
+            [
+                "107",
+                "Data Visualization Best Practices",
+                "210"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-310-310": {
+        "title": [
+            "Atom ID",
+            "Property",
+            "Value"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "TR346 Molecule Properties",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the atom id that belongs to the TR346 molecule and how many bond type can be created by this molecule?",
+        "data": [
+            [
+                "1",
+                "Molecule Name",
+                "TR346"
+            ],
+            [
+                "2",
+                "Bond Type",
+                "Single, Double, Triple"
+            ],
+            [
+                "3",
+                "Bonds Count",
+                "3"
+            ],
+            [
+                "4",
+                "Atom Type",
+                "Carbon, Hydrogen"
+            ],
+            [
+                "5",
+                "Molecular Weight",
+                "42.08 g/mol"
+            ]
+        ]
+    }
+}

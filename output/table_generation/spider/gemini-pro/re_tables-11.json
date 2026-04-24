@@ -1,0 +1,45 @@
+{
+    "table-11-11": {
+        "title": [
+            "Stadium Name",
+            "Location",
+            "Capacity"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Stadium Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show location and name for all stadiums with a capacity between 5000 and 10000.",
+        "data": [
+            [
+                "Griffin Park",
+                "Brentford, UK",
+                "12,763"
+            ],
+            [
+                "Boundary Park",
+                "Oldham, UK",
+                "10,638"
+            ],
+            [
+                "The Valley",
+                "London, UK",
+                "27,111"
+            ],
+            [
+                "Fir Park",
+                "Motherwell, UK",
+                "13,677"
+            ],
+            [
+                "Spotless Stadium",
+                "Sydney, Australia",
+                "24,000"
+            ]
+        ]
+    }
+}

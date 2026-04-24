@@ -1,0 +1,73 @@
+{
+    "table-169-169": {
+        "title": [
+            "Document_Name",
+            "Template_ID",
+            "Description_Snippet",
+            "Contains_W",
+            "Status",
+            "Created_Date",
+            "Author",
+            "Category"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names and template ids for documents that contain the letter w in their description.",
+        "data": [
+            [
+                "Web Analytics Report",
+                "TPL-WEB-004",
+                "Weekly web traffic analysis with user behavior insights",
+                "Yes",
+                "Active",
+                "06/15/2023",
+                "Sarah Jenkins",
+                "Marketing"
+            ],
+            [
+                "Wireless Network Config",
+                "TWL-NET-012",
+                "Configuration guide for wireless access points and security protocols",
+                "Yes",
+                "Pending",
+                "7/22/24",
+                "Mike Ross",
+                "IT Ops"
+            ],
+            [
+                "Winter Sales Campaign",
+                "TWI-SAL-089",
+                "Promotional materials for winter season discounts and inventory clearance",
+                "Yes.",
+                "Draft",
+                "8/01/23",
+                "Emily Chen",
+                "Retail"
+            ],
+            [
+                "Workforce Planning Tool",
+                "WFP-TOL-033",
+                "Strategic workforce planning dashboard with hiring projections",
+                "Yes.",
+                "Archived",
+                "3/10/21",
+                "David Lee",
+                "HR Dept"
+            ],
+            [
+                "Water Quality Assessment",
+                "WAQ-RPT-055",
+                "Monthly water quality testing results from local reservoirs",
+                "Yes.",
+                "Active",
+                "9/12/ 23",
+                "",
+                "John Smith"
+            ]
+        ]
+    }
+}

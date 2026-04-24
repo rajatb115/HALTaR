@@ -1,0 +1,57 @@
+{
+    "table-1507-1507": {
+        "title": [
+            "Transaction ID",
+            "Timestamp",
+            "Product Description",
+            "Quantity",
+            "Price"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Czech Republic Gas Station Transactions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the product descriptions of the transactions taken place in the gas stations in the Czech Republic.",
+        "data": [
+            [
+                "12345",
+                "2023-10-26 08:00:00",
+                "Unleaded Petrol 95",
+                "40L",
+                "1500 CZK"
+            ],
+            [
+                "12346",
+                "2023-10-26 08:15:00",
+                "Engine Oil",
+                "1L",
+                "300 CZK"
+            ],
+            [
+                "12347",
+                "2023-10-26 08:30:00",
+                "Diesel",
+                "50L",
+                "1800 CZK"
+            ],
+            [
+                "12348",
+                "2023-10-26 08:45:00",
+                "Windshield Washer Fluid",
+                "5L",
+                "150 CZK"
+            ],
+            [
+                "12349",
+                "2023-10-26 09:00:00",
+                "Unleaded Petrol 98",
+                "35L",
+                "1400 CZK"
+            ]
+        ]
+    }
+}

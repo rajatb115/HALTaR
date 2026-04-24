@@ -1,0 +1,85 @@
+{
+    "table-187-187": {
+        "title": [
+            "Document ID",
+            "Document Name",
+            "Template Code",
+            "Template Description",
+            "Status",
+            "Last Updated",
+            "Owner"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the template type code of the template that is used by a document named Data base.",
+        "data": [
+            [
+                "DOC-0042",
+                "Database Config",
+                "TPL-DATA-GEN",
+                "Generic Data Structure",
+                "Active",
+                "06/15/2023",
+                "Admin User"
+            ],
+            [
+                "DOC-A7B9",
+                "System Logs",
+                "TLOG-V2",
+                "Log Aggregation Format",
+                "Deprecated",
+                "03/12/2022",
+                "Ops Team"
+            ],
+            [
+                "DOC-X1C4",
+                "Financial Report",
+                "FIN-QTRLY",
+                "Quarterly Finance Layout",
+                "Active",
+                "09/01/2023",
+                "CFO Office"
+            ],
+            [
+                "DOC-M2P8",
+                "Employee Directory",
+                "HR-PERSONNEL",
+                "Staff Information Schema",
+                "Inactive",
+                "N/A",
+                "IT Support"
+            ],
+            [
+                "DOC-K9L3",
+                "Project Charter",
+                "PROJ-BASELINE",
+                "Standard Initiation Doc",
+                "Pending Review",
+                "",
+                "PMO Lead"
+            ],
+            [
+                "DOC-R5T6",
+                "API Documentation",
+                "DOC-SW-API",
+                "Technical Reference Guide",
+                "Archived",
+                "",
+                "DevOps Group"
+            ],
+            [
+                "DOC-W3Y7",
+                "Security Audit",
+                "SEC-COMP-LIST",
+                "Compliance Checklist Form",
+                "Active",
+                "",
+                "CISO Director"
+            ]
+        ]
+    }
+}

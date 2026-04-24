@@ -1,0 +1,77 @@
+{
+    "table-1168-1168": {
+        "title": [
+            "Year",
+            "Month",
+            "Patient Gender",
+            "Total Patients Tested",
+            "Average Daily Patients",
+            "Primary Test Type"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the year that concluded on December 31, 1998, how many male patients on average were tested in the lab each month?",
+        "data": [
+            [
+                "1998",
+                "January",
+                "Male",
+                "1250",
+                "40",
+                "Blood Work"
+            ],
+            [
+                "1998",
+                "February",
+                "Male",
+                "1120",
+                "40",
+                "Urinalysis"
+            ],
+            [
+                "1998",
+                "March",
+                "Male",
+                "1300",
+                "42",
+                "Blood Work"
+            ],
+            [
+                "1998",
+                "April",
+                "Male",
+                "1200",
+                "40",
+                "Imaging"
+            ],
+            [
+                "1998",
+                "May",
+                "Male",
+                "1280",
+                "41",
+                "Microbiology"
+            ],
+            [
+                "1998",
+                "June",
+                "Male",
+                "1150",
+                "38",
+                "Pathology"
+            ],
+            [
+                "1998",
+                "July",
+                "Female",
+                "1450",
+                "47",
+                "Blood Work"
+            ]
+        ]
+    }
+}

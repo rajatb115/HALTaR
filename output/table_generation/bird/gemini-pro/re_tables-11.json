@@ -1,0 +1,46 @@
+{
+    "table-11-11": {
+        "title": [
+            "School Name",
+            "Avg SAT Reading Score",
+            "FRPM Count (Ages 5-17)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "School FRPM Count by SAT Reading Scores",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the school with the highest average score in Reading in the SAT test, what is its FRPM count for students aged 5-17?",
+        "data": [
+            [
+                "School A",
+                "680",
+                "150"
+            ],
+            [
+                "School B",
+                "650",
+                "200"
+            ],
+            [
+                "School C",
+                "620",
+                "100"
+            ],
+            [
+                "School D",
+                "600",
+                "250"
+            ],
+            [
+                "School E",
+                "580",
+                "120"
+            ]
+        ]
+    }
+}

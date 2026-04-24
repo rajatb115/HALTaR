@@ -1,0 +1,53 @@
+{
+    "table-477-477": {
+        "title": [
+            "Country",
+            "Population (2023)",
+            "Life Expectancy (Years)",
+            "Land Area (sq km)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Demographics of Largest Asian Countries",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the name, population, and life expectancy of the largest Asian country by land?",
+        "data": [
+            [
+                "Russia",
+                "144,444,359",
+                "72.6",
+                "17,098,246"
+            ],
+            [
+                "China",
+                "1,425,671,352",
+                "77.1",
+                "9,706,961"
+            ],
+            [
+                "India",
+                "1,428,627,663",
+                "70.4",
+                "3,287,263"
+            ],
+            [
+                "Kazakhstan",
+                "19,606,630",
+                "73.2",
+                "2,724,900"
+            ],
+            [
+                "Saudi Arabia",
+                "36,947,025",
+                "75.2",
+                "2,149,690"
+            ]
+        ]
+    }
+}

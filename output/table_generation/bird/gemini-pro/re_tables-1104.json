@@ -1,0 +1,45 @@
+{
+    "table-1104-1104": {
+        "title": [
+            "Player Name",
+            "Date",
+            "Overall Rating"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Player Rating Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the overall rating for Aaron Mooy on 2016/2/4?",
+        "data": [
+            [
+                "Aaron Mooy",
+                "2016-02-04",
+                "68"
+            ],
+            [
+                "Lionel Messi",
+                "2016-02-04",
+                "94"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "2016-02-04",
+                "93"
+            ],
+            [
+                "Neymar Jr",
+                "2016-02-04",
+                "90"
+            ],
+            [
+                "Luis Suarez",
+                "2016-02-04",
+                "90"
+            ]
+        ]
+    }
+}

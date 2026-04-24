@@ -1,0 +1,55 @@
+{
+    "table-589-589": {
+        "title": [
+            "First Name",
+            "Last Name",
+            "Treatment Cost",
+            "Average Treatment Cost",
+            "Cost Below Average"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Professionals and Treatment Costs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which professionals have operated a treatment that costs less than the average? Give me theor first names and last names.",
+        "data": [
+            [
+                "John",
+                "Smith",
+                "$75",
+                "$100",
+                "Yes"
+            ],
+            [
+                "Alice",
+                "Brown",
+                "$80",
+                "$100",
+                "Yes"
+            ],
+            [
+                "David",
+                "Lee",
+                "$100",
+                "$100",
+                "No"
+            ],
+            [
+                "Emily",
+                "Wilson",
+                "$90",
+                "$100",
+                "Yes"
+            ],
+            [
+                "Michael",
+                "Garcia",
+                "$110",
+                "$100",
+                "No"
+            ]
+        ]
+    }
+}

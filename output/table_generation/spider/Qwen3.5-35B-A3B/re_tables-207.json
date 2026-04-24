@@ -1,0 +1,58 @@
+{
+    "table-207-207": {
+        "title": [
+            "Document ID",
+            "Section Title",
+            "Paragraph Text",
+            "Word Count",
+            "Author",
+            "Status",
+            "Last Updated"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the paragraph texts for the document with the name 'Customer reviews'?",
+        "data": [
+            [
+                "CR-0042",
+                "Introduction",
+                "Customer feedback is essential for our continuous improvement strategy. We actively seek input from every user interaction point.",
+                "45",
+                "Sarah Jenkins",
+                "Published",
+                "06/15/2023"
+            ],
+            [
+                "CR-0789",
+                "Product Quality",
+                "Our products undergo rigorous testing before reaching your hands. Many reviewers highlight durability as a key strength in their assessments.",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "CR-COMP",
+                "Service Experience",
+                "Support teams respond within two hours during business days. Users frequently praise the helpfulness and speed of resolution provided by staff members.",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "CUST-FEED",
+                "Pricing Value",
+                "Customers appreciate transparent pricing models without hidden fees. Several long-term users note significant savings compared to industry competitors over time.",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

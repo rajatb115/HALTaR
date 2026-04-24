@@ -1,0 +1,45 @@
+{
+    "table-168-168": {
+        "title": [
+            "Document Name",
+            "Template ID",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Documents with Specific Descriptions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the document name and template id for document with description with the letter 'w' in it?",
+        "data": [
+            [
+                "Workflow Doc",
+                "1234",
+                "Document related to workflow process"
+            ],
+            [
+                "Website Guide",
+                "5678",
+                "Guide for website content creation"
+            ],
+            [
+                "Withdrawal Form",
+                "9012",
+                "Form for withdrawal requests"
+            ],
+            [
+                "Wiring Diagram",
+                "3456",
+                "Electrical wiring instructions"
+            ],
+            [
+                "Welcome Letter",
+                "7890",
+                "Letter to welcome new customers"
+            ]
+        ]
+    }
+}

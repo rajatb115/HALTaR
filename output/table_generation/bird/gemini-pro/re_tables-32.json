@@ -1,0 +1,53 @@
+{
+    "table-32-32": {
+        "title": [
+            "School Name",
+            "Enrollment (Grades 1-12)",
+            "Eligible Free Rate",
+            "Rank by Enrollment"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "School Enrollment and Free Rate Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the eligible free rate of the 10th and 11th schools with the highest enrolment for students in grades 1 through 12?",
+        "data": [
+            [
+                "School A",
+                "1500",
+                "0.15",
+                "10"
+            ],
+            [
+                "School B",
+                "1450",
+                "0.12",
+                "11"
+            ],
+            [
+                "School C",
+                "1400",
+                "0.18",
+                "12"
+            ],
+            [
+                "School D",
+                "1350",
+                "0.20",
+                "13"
+            ],
+            [
+                "School E",
+                "1300",
+                "0.10",
+                "14"
+            ]
+        ]
+    }
+}

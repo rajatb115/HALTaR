@@ -1,0 +1,43 @@
+{
+    "table-958-958": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Finished Race"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "F1 Driver Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many Italian drivers haven't finished the race?",
+        "data": [
+            [
+                "Max Verstappen",
+                "Netherlands",
+                "Yes"
+            ],
+            [
+                "Charles Leclerc",
+                "Monaco",
+                "Yes"
+            ],
+            [
+                "Carlos Sainz",
+                "Spain",
+                "No"
+            ],
+            [
+                "Lewis Hamilton",
+                "UK",
+                "Yes"
+            ],
+            [
+                "Fernando Alonso",
+                "Spain",
+                "Yes"
+            ]
+        ]
+    }
+}

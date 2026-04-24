@@ -1,0 +1,69 @@
+{
+    "table-1350-1350": {
+        "title": [
+            "Event Name",
+            "Event Date",
+            "Category",
+            "Budget Amount",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the total number of the budget amount for \"September Speaker\" event.",
+        "data": [
+            [
+                "September Speaker Series",
+                "2023-09-15",
+                "Speaker Event",
+                "15000.00",
+                "Approved"
+            ],
+            [
+                "Annual Tech Conference",
+                "2023-10-20",
+                "Conference",
+                "75000.00",
+                "Approved"
+            ],
+            [
+                "Q3 Marketing Workshop",
+                "2023-08-01",
+                "Workshop",
+                "8000.00",
+                "Completed"
+            ],
+            [
+                "September Speaker Series",
+                "2022-09-22",
+                "Speaker Event",
+                "12500.00",
+                "Completed"
+            ],
+            [
+                "Holiday Gala",
+                "2023-12-05",
+                "Social Event",
+                "25000.00",
+                "Pending"
+            ],
+            [
+                "Product Launch Event",
+                "2023-11-10",
+                "Launch",
+                "30000.00",
+                "Approved"
+            ],
+            [
+                "September Speaker Series",
+                "2024-09-10",
+                "Speaker Event",
+                "16000.00",
+                "Planned"
+            ]
+        ]
+    }
+}

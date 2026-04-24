@@ -1,0 +1,45 @@
+{
+    "table-26-26": {
+        "title": [
+            "Stadium Name",
+            "Location",
+            "Year"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Concert Stadium Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name and location of the stadiums which some concerts happened in the years of both 2014 and 2015.",
+        "data": [
+            [
+                "Wembley Stadium",
+                "London, England",
+                "2014"
+            ],
+            [
+                "Wembley Stadium",
+                "London, England",
+                "2015"
+            ],
+            [
+                "Stade de France",
+                "Paris, France",
+                "2014"
+            ],
+            [
+                "Stade de France",
+                "Paris, France",
+                "2015"
+            ],
+            [
+                "ANZ Stadium",
+                "Sydney, Australia",
+                "2014"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "table-858-858": {
+        "title": [
+            "Grand Prix Name",
+            "City",
+            "Country",
+            "Latitude",
+            "Longitude"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Formula 1 Grand Prix Locations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the coordinate position for Abu Dhabi Grand Prix.",
+        "data": [
+            [
+                "Abu Dhabi",
+                "Abu Dhabi",
+                "UAE",
+                "24.467",
+                "54.603"
+            ],
+            [
+                "Monaco",
+                "Monte Carlo",
+                "Monaco",
+                "43.734",
+                "7.420"
+            ],
+            [
+                "Monza",
+                "Monza",
+                "Italy",
+                "45.624",
+                "9.282"
+            ],
+            [
+                "Silverstone",
+                "Silverstone",
+                "United Kingdom",
+                "52.075",
+                "-1.017"
+            ],
+            [
+                "Suzuka",
+                "Suzuka",
+                "Japan",
+                "34.843",
+                "136.541"
+            ]
+        ]
+    }
+}

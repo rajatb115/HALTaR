@@ -1,0 +1,69 @@
+{
+    "table-132-132": {
+        "title": [
+            "District Name",
+            "Active Loans",
+            "Total Active Value (USD)",
+            "Avg. Loan Amount (USD)",
+            "Portfolio Health"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which district has highest active loan?",
+        "data": [
+            [
+                "Central Business",
+                "1250",
+                "15000000",
+                "12000",
+                "Excellent"
+            ],
+            [
+                "Northside Residential",
+                "890",
+                "7120000",
+                "8000",
+                "Good"
+            ],
+            [
+                "East Industrial",
+                "320",
+                "4800000",
+                "15000",
+                "Fair"
+            ],
+            [
+                "Westside Commercial",
+                "1800",
+                "27000000",
+                "15000",
+                "Excellent"
+            ],
+            [
+                "Southside Suburb",
+                "670",
+                "5360000",
+                "8000",
+                "Good"
+            ],
+            [
+                "Downtown Core",
+                "1100",
+                "13200000",
+                "12000",
+                "Excellent"
+            ],
+            [
+                "Riverside Estates",
+                "450",
+                "6750000",
+                "15000",
+                "Good"
+            ]
+        ]
+    }
+}

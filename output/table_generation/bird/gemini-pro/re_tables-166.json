@@ -1,0 +1,59 @@
+{
+    "table-166-166": {
+        "title": [
+            "Transaction ID",
+            "Account ID",
+            "District ID",
+            "Transaction Amount",
+            "Transaction Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Transactions by Account and District",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list all the transactions made by accounts from district 5.",
+        "data": [
+            [
+                "12345",
+                "1001",
+                "5",
+                "$25.00",
+                "2023-01-15"
+            ],
+            [
+                "12346",
+                "1002",
+                "5",
+                "$150.00",
+                "2023-01-15"
+            ],
+            [
+                "12347",
+                "1003",
+                "5",
+                "$75.00",
+                "2023-01-16"
+            ],
+            [
+                "12348",
+                "1001",
+                "5",
+                "$50.00",
+                "2023-01-17"
+            ],
+            [
+                "12349",
+                "1004",
+                "5",
+                "$200.00",
+                "2023-01-17"
+            ]
+        ]
+    }
+}

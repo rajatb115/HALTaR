@@ -1,0 +1,69 @@
+{
+    "table-1243-1243": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "Examination Date",
+            "Platelet Count (/\u00b5L)",
+            "Status",
+            "Lab Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For laboratory examinations take in 1984, list all patients below 50 years old with normal platelet level.",
+        "data": [
+            [
+                "P-1024",
+                "47",
+                "03/12/19",
+                "Complete Blood Count",
+                "Normal",
+                "CBC-84A"
+            ],
+            [
+                "P-LAB-19",
+                "36",
+                "5/22/84",
+                "Hematology Panel",
+                "Normal",
+                "HEMO-88B"
+            ],
+            [
+                "M-9901-ADULTS",
+                "62",
+                "7/15/83",
+                "Routine Checkup",
+                "Elevated",
+                "RCT-83C"
+            ],
+            [
+                "J-442-B",
+                "8",
+                "9/01/85",
+                "Pediatric Screen",
+                "Low",
+                "PEDI-85D"
+            ],
+            [
+                "R-773-X",
+                "",
+                "N/A",
+                "",
+                "N/N/A",
+                "LAB-PEND"
+            ],
+            [
+                "T-110-Z",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

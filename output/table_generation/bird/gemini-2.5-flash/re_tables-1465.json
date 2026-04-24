@@ -1,0 +1,53 @@
+{
+    "table-1465-1465": {
+        "title": [
+            "Student Name",
+            "Date Received",
+            "Amount Received"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write the full names of students who received funds on the date of 9/9/2019 and include the amount received.",
+        "data": [
+            [
+                "Alice Wonderland",
+                "2019-09-09",
+                "$500.00"
+            ],
+            [
+                "Bob The Builder",
+                "2019-09-09",
+                "$750.00"
+            ],
+            [
+                "Charlie Chaplin",
+                "2019-09-09",
+                "$1200.00"
+            ],
+            [
+                "Diana Prince",
+                "2019-09-09",
+                "$300.00"
+            ],
+            [
+                "Edward Scissorhands",
+                "2019-09-09",
+                "$900.00"
+            ],
+            [
+                "Fiona Apple",
+                "2019-09-10",
+                "$600.00"
+            ],
+            [
+                "George Washington",
+                "2019-09-08",
+                "$450.00"
+            ]
+        ]
+    }
+}

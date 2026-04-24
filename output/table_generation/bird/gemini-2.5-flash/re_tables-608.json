@@ -1,0 +1,69 @@
+{
+    "table-608-608": {
+        "title": [
+            "Comment ID",
+            "Sentiment",
+            "Date Posted",
+            "Likes Count",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many positive comments are there on the list?",
+        "data": [
+            [
+                "C001",
+                "Positive",
+                "2023-10-26",
+                "15",
+                "Approved"
+            ],
+            [
+                "C002",
+                "Neutral",
+                "2023-10-25",
+                "3",
+                "Approved"
+            ],
+            [
+                "C003",
+                "Negative",
+                "2023-10-26",
+                "1",
+                "Approved"
+            ],
+            [
+                "C004",
+                "Positive",
+                "2023-10-24",
+                "22",
+                "Approved"
+            ],
+            [
+                "C005",
+                "Positive",
+                "2023-10-26",
+                "8",
+                "Pending"
+            ],
+            [
+                "C006",
+                "Neutral",
+                "2023-10-25",
+                "5",
+                "Approved"
+            ],
+            [
+                "C007",
+                "Negative",
+                "2023-10-23",
+                "0",
+                "Approved"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "table-1229-1229": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "Triglyceride Level (mg/dL)",
+            "Normal Range (mg/dL)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Patients with Elevated Triglyceride Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide list of patients and their diagnosis with triglyceride (TG) index greater than 100 of the normal range?",
+        "data": [
+            [
+                "12345",
+                "Diabetes",
+                "180",
+                "0-150"
+            ],
+            [
+                "67890",
+                "Obesity",
+                "220",
+                "0-150"
+            ],
+            [
+                "24680",
+                "Hypothyroid",
+                "190",
+                "0-150"
+            ],
+            [
+                "13579",
+                "CVD",
+                "250",
+                "0-150"
+            ],
+            [
+                "98765",
+                "NA",
+                "160",
+                "0-150"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-273-273": {
+        "title": [
+            "Molecule ID",
+            "Common Name",
+            "Bond Count",
+            "Carcinogen Status",
+            "Primary Element",
+            "Formula"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down two molecule id of triple bond non carcinogenic molecules with element carbon.",
+        "data": [
+            [
+                "MOL-CB-042",
+                "Acetylene",
+                "Triple",
+                "Non-carcinogenic",
+                "Carbon",
+                "C\u2082H\u2082"
+            ],
+            [
+                "MOL-CG-118",
+                "Propyne",
+                "Triple",
+                "Non-carcinogenic",
+                "Carbon",
+                "C\u2083H\u2084"
+            ]
+        ]
+    }
+}

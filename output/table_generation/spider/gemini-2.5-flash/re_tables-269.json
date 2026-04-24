@@ -1,0 +1,77 @@
+{
+    "table-269-269": {
+        "title": [
+            "PlayerID",
+            "FirstName",
+            "LastName",
+            "TournamentName",
+            "RankingScore",
+            "RankingDate"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average ranking for each player and their first name.",
+        "data": [
+            [
+                "101",
+                "Alice",
+                "Smith",
+                "Spring Open",
+                "5",
+                "2023-03-15"
+            ],
+            [
+                "102",
+                "Bob",
+                "Johnson",
+                "Spring Open",
+                "12",
+                "2023-03-15"
+            ],
+            [
+                "101",
+                "Alice",
+                "Smith",
+                "Summer Classic",
+                "3",
+                "2023-07-20"
+            ],
+            [
+                "103",
+                "Carol",
+                "Davis",
+                "Spring Open",
+                "8",
+                "2023-03-15"
+            ],
+            [
+                "102",
+                "Bob",
+                "Johnson",
+                "Autumn Cup",
+                "10",
+                "2023-10-01"
+            ],
+            [
+                "103",
+                "Carol",
+                "Davis",
+                "Summer Classic",
+                "7",
+                "2023-07-20"
+            ],
+            [
+                "104",
+                "David",
+                "Lee",
+                "Winter Games",
+                "15",
+                "2023-12-05"
+            ]
+        ]
+    }
+}

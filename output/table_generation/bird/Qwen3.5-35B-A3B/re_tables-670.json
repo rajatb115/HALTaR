@@ -1,0 +1,34 @@
+{
+    "table-670-670": {
+        "title": [
+            "User ID",
+            "Username",
+            "Action Date",
+            "Post Title",
+            "Vote Direction"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When did \"chl\" cast its first vote in a post?",
+        "data": [
+            [
+                "chl",
+                "ChlUserOne",
+                "4/12/2023",
+                "Project Alpha Launch",
+                "Upvote"
+            ],
+            [
+                "",
+                "ChlAdmin",
+                "N/A",
+                "System Maintenance Log",
+                "Downvote"
+            ]
+        ]
+    }
+}

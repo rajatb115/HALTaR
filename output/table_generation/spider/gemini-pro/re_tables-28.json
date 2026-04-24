@@ -1,0 +1,52 @@
+{
+    "table-28-28": {
+        "title": [
+            "Name",
+            "Age (Years)",
+            "Weight (lbs)",
+            "Breed"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Dog Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the weight of the youngest dog.",
+        "data": [
+            [
+                "Buddy",
+                "3",
+                "65",
+                "Labrador"
+            ],
+            [
+                "Luna",
+                "1",
+                "20",
+                "Chihuahua"
+            ],
+            [
+                "Charlie",
+                "5",
+                "80",
+                "Golden Retriever"
+            ],
+            [
+                "Daisy",
+                "2",
+                "45",
+                "Beagle"
+            ],
+            [
+                "Rocky",
+                "7",
+                "90",
+                "German Shepherd"
+            ]
+        ]
+    }
+}

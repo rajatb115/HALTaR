@@ -1,0 +1,69 @@
+{
+    "table-829-829": {
+        "title": [
+            "Superhero Name",
+            "Universe",
+            "Top Speed (Mach)",
+            "Primary Power",
+            "Affiliation"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the fastest superheroes.",
+        "data": [
+            [
+                "The Flash (Barry Allen)",
+                "DC Comics",
+                "10+",
+                "Super-speed",
+                "Justice League"
+            ],
+            [
+                "Superman",
+                "DC Comics",
+                "5+",
+                "Flight, Super-strength",
+                "Justice League"
+            ],
+            [
+                "Quicksilver",
+                "Marvel Comics",
+                "5",
+                "Super-speed",
+                "Avengers"
+            ],
+            [
+                "Northstar",
+                "Marvel Comics",
+                "1",
+                "Super-speed, Flight",
+                "Alpha Flight"
+            ],
+            [
+                "Impulse (Bart Allen)",
+                "DC Comics",
+                "10+",
+                "Super-speed",
+                "Teen Titans"
+            ],
+            [
+                "Sentry",
+                "Marvel Comics",
+                "10+",
+                "Flight, Super-strength",
+                "Avengers"
+            ],
+            [
+                "Shazam",
+                "DC Comics",
+                "5+",
+                "Flight, Super-strength",
+                "Justice League"
+            ]
+        ]
+    }
+}

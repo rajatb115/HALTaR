@@ -1,0 +1,69 @@
+{
+    "table-398-398": {
+        "title": [
+            "Player_Name",
+            "Total_Earnings",
+            "Final_Tables_Made",
+            "Rank_Best_Year",
+            "Tournament_Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum number of final tables made among poker players with earnings less than 200000?",
+        "data": [
+            [
+                "John Doe",
+                "$45,002",
+                "3",
+                "7th Place",
+                "Main Event"
+            ],
+            [
+                "Jane Smith",
+                "$120,500",
+                "6",
+                "4th Place",
+                "WSOP"
+            ],
+            [
+                "Mike Johnson",
+                "$89,201",
+                "5",
+                "9th Place",
+                "EPT"
+            ],
+            [
+                "Sarah Lee",
+                "$32,100",
+                "N/A",
+                "N/A",
+                "Online Series"
+            ],
+            [
+                "David Brown",
+                "$98,750",
+                "8",
+                "0th Place",
+                "WPT"
+            ],
+            [
+                "Emily White",
+                "$55,300",
+                "2",
+                "N/A",
+                "Satellite Win"
+            ],
+            [
+                "Robert Green",
+                "$78,900",
+                "4",
+                "N/A",
+                "Regional Tour"
+            ]
+        ]
+    }
+}

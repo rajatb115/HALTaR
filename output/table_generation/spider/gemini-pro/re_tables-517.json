@@ -1,0 +1,45 @@
+{
+    "table-517-517": {
+        "title": [
+            "Country Name",
+            "Continent",
+            "Population"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "European Countries by Population",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the names of countries that are in Europe and have a population equal to 80000.",
+        "data": [
+            [
+                "Andorra",
+                "Europe",
+                "77,000"
+            ],
+            [
+                "Iceland",
+                "Europe",
+                "370,000"
+            ],
+            [
+                "Malta",
+                "Europe",
+                "530,000"
+            ],
+            [
+                "Liechtenstein",
+                "Europe",
+                "39,000"
+            ],
+            [
+                "Monaco",
+                "Europe",
+                "39,000"
+            ]
+        ]
+    }
+}

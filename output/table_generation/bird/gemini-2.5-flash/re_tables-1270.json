@@ -1,0 +1,76 @@
+{
+    "table-1270-1270": {
+        "title": [
+            "Patient ID",
+            "Examination Date",
+            "Examination Type",
+            "Anti-Scl70 Result",
+            "Physician ID"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the IDs of the patients who had the examination done after 1997/1/1 and had a normal anti-scl70.",
+        "data": [
+            [
+                "P001",
+                "1998-03-15",
+                "Autoimmune Screen",
+                "Normal",
+                "D101"
+            ],
+            [
+                "P002",
+                "2001-07-22",
+                "Rheumatology Panel",
+                "Normal",
+                "D103"
+            ],
+            [
+                "P003",
+                "1996-11-01",
+                "Blood Test",
+                "Normal",
+                "D102"
+            ],
+            [
+                "P004",
+                "1999-05-10",
+                "Autoimmune Screen",
+                "Elevated",
+                "D101"
+            ],
+            [
+                "P005",
+                "2003-01-05",
+                "Rheumatology Panel",
+                "Normal",
+                "D104"
+            ],
+            [
+                "P006",
+                "1997-01-01",
+                "Blood Test",
+                "Normal",
+                "D102"
+            ],
+            [
+                "P007",
+                "2000-09-18",
+                "Autoimmune Screen",
+                "Positive",
+                "D103"
+            ],
+            [
+                "P008",
+                "2002-04-20",
+                "Rheumatology Panel",
+                "Normal",
+                "D101"
+            ]
+        ]
+    }
+}

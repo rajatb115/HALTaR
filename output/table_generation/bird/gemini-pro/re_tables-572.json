@@ -1,0 +1,54 @@
+{
+    "table-572-572": {
+        "title": [
+            "User ID",
+            "Number of Posts",
+            "Number of Votes",
+            "Post/Vote Ratio"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "User Post-to-Vote Ratio",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the user No.24, how many times is the number of his/her posts compared to his/her votes?",
+        "data": [
+            [
+                "24",
+                "150",
+                "300",
+                "0.5"
+            ],
+            [
+                "12",
+                "200",
+                "100",
+                "2.0"
+            ],
+            [
+                "35",
+                "50",
+                "50",
+                "1.0"
+            ],
+            [
+                "8",
+                "100",
+                "25",
+                "4.0"
+            ],
+            [
+                "42",
+                "75",
+                "150",
+                "0.5"
+            ]
+        ]
+    }
+}

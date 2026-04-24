@@ -1,0 +1,69 @@
+{
+    "table-198-198": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Bonding Type",
+            "Oxygen Atoms Count",
+            "Total Atoms Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average number of oxygen atoms in single-bonded molecules.",
+        "data": [
+            [
+                "Water",
+                "H2O",
+                "Single",
+                "1",
+                "3"
+            ],
+            [
+                "Methanol",
+                "CH3OH",
+                "Single",
+                "1",
+                "6"
+            ],
+            [
+                "Ethanol",
+                "C2H5OH",
+                "Single",
+                "1",
+                "9"
+            ],
+            [
+                "Hydrogen Peroxide",
+                "H2O2",
+                "Single",
+                "2",
+                "4"
+            ],
+            [
+                "Dimethyl Ether",
+                "CH3OCH3",
+                "Single",
+                "1",
+                "7"
+            ],
+            [
+                "Carbon Dioxide",
+                "CO2",
+                "Double",
+                "2",
+                "3"
+            ],
+            [
+                "Acetone",
+                "C3H6O",
+                "Mixed",
+                "1",
+                "10"
+            ]
+        ]
+    }
+}

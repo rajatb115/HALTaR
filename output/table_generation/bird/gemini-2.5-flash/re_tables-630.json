@@ -1,0 +1,55 @@
+{
+    "table-630-630": {
+        "title": [
+            "Year",
+            "Region",
+            "Votes Cast",
+            "Eligible Voters"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the ratio of votes in 2010 and 2011.",
+        "data": [
+            [
+                "2010",
+                "District A",
+                "154321",
+                "280000"
+            ],
+            [
+                "2011",
+                "District A",
+                "168765",
+                "295000"
+            ],
+            [
+                "2010",
+                "District B",
+                "98765",
+                "190000"
+            ],
+            [
+                "2011",
+                "District B",
+                "105432",
+                "205000"
+            ],
+            [
+                "2010",
+                "District C",
+                "210987",
+                "350000"
+            ],
+            [
+                "2011",
+                "District C",
+                "225678",
+                "370000"
+            ]
+        ]
+    }
+}

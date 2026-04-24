@@ -1,0 +1,62 @@
+{
+    "table-395-395": {
+        "title": [
+            "Player_Name",
+            "Total_Earnings",
+            "Events_Played",
+            "Average_Per_Event",
+            "Rank_Global"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the average earnings across all poker players.",
+        "data": [
+            [
+                "Daniel Negreanu",
+                "$46,789,123",
+                "3,452",
+                "$13,554",
+                "4"
+            ],
+            [
+                "Phil Ivey",
+                "$37,245,890",
+                "892",
+                "$41,755",
+                "6"
+            ],
+            [
+                "Doyle Brunson",
+                "$7,845,120",
+                "1,205",
+                "$6,510",
+                "N/A"
+            ],
+            [
+                "Justin Bonomo",
+                "$28,912,445",
+                "156",
+                "$185,336",
+                "5"
+            ],
+            [
+                "Bryn Kenney",
+                "$9,234,567",
+                "98",
+                "$94,229",
+                "7"
+            ],
+            [
+                "Eric Seidel",
+                "$8,102,345",
+                "654",
+                "$12,389",
+                "N/A"
+            ]
+        ]
+    }
+}

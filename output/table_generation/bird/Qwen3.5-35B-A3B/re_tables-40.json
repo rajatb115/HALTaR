@@ -1,0 +1,85 @@
+{
+    "table-40-40": {
+        "title": [
+            "School Name",
+            "Opening Date",
+            "Test Taker Count",
+            "District",
+            "Region",
+            "Average Score"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average number of test takers from Fresno schools that opened between 1/1/1980 and 12/31/1980?",
+        "data": [
+            [
+                "Fresno High North",
+                "01/04/1880",
+                "450",
+                "Unified",
+                "Central Valley",
+                "76.5"
+            ],
+            [
+                "Lincoln Middle East",
+                "03/15/11800",
+                "N/A",
+                "Unified Central",
+                "San Joaquin",
+                "82.1"
+            ],
+            [
+                "Roosevelt Elementary",
+                "06/22/128010",
+                "None",
+                "Westside",
+                "Sierra Foothills",
+                "91.3"
+            ],
+            [
+                "Jefferson Academy South",
+                "05/01/1190",
+                "-12",
+                "Private",
+                "Coastal Range",
+                "NaN"
+            ],
+            [
+                "Grant Tech Prep",
+                "11/21/1910",
+                "",
+                "Metro Area",
+                "Inland Empire",
+                "0.0"
+            ],
+            [
+                "Madison Charter Center",
+                "10/10/1920",
+                "",
+                "Independent",
+                "Desert Valley",
+                ""
+            ],
+            [
+                "Washington Preparatory",
+                "1930",
+                "",
+                "Countywide",
+                "Pacific Coast",
+                ""
+            ],
+            [
+                "Adams Science Institute",
+                "1940",
+                "",
+                "State Board",
+                "Mountain View",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-134-134": {
+        "title": [
+            "Flight Number",
+            "Departure Airport",
+            "Arrival Airport",
+            "Departure Time"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Flights Departing from Airport APG",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are flight numbers of flights departing from Airport \"APG\"?",
+        "data": [
+            [
+                "UA123",
+                "APG",
+                "JFK",
+                "08:00"
+            ],
+            [
+                "AA456",
+                "APG",
+                "LAX",
+                "09:30"
+            ],
+            [
+                "DL789",
+                "APG",
+                "ORD",
+                "11:00"
+            ],
+            [
+                "WN101",
+                "APG",
+                "DEN",
+                "13:45"
+            ],
+            [
+                "AS222",
+                "APG",
+                "SEA",
+                "16:20"
+            ]
+        ]
+    }
+}

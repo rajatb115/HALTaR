@@ -1,0 +1,53 @@
+{
+    "table-596-596": {
+        "title": [
+            "User ID",
+            "Post Count",
+            "Average Views",
+            "Unique Posts"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "User Post Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user have only one post history per post and having at least 1000 views?",
+        "data": [
+            [
+                "123",
+                "1",
+                "1200",
+                "True"
+            ],
+            [
+                "456",
+                "1",
+                "1500",
+                "True"
+            ],
+            [
+                "789",
+                "1",
+                "1100",
+                "True"
+            ],
+            [
+                "101",
+                "2",
+                "900",
+                "False"
+            ],
+            [
+                "112",
+                "1",
+                "800",
+                "True"
+            ]
+        ]
+    }
+}

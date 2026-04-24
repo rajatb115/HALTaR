@@ -1,0 +1,77 @@
+{
+    "table-169-169": {
+        "title": [
+            "District ID",
+            "Avg District Salary",
+            "Account Open Year",
+            "Total Clients",
+            "Female Clients",
+            "Female %"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of clients who opened their accounts in the district with an average salary of over 10000 are women?",
+        "data": [
+            [
+                "D001",
+                "12500",
+                "2020",
+                "500",
+                "250",
+                "50.0%"
+            ],
+            [
+                "D002",
+                "15000",
+                "2021",
+                "750",
+                "350",
+                "46.7%"
+            ],
+            [
+                "D003",
+                "11000",
+                "2022",
+                "600",
+                "300",
+                "50.0%"
+            ],
+            [
+                "D004",
+                "18000",
+                "2020",
+                "400",
+                "180",
+                "45.0%"
+            ],
+            [
+                "D005",
+                "13500",
+                "2021",
+                "800",
+                "420",
+                "52.5%"
+            ],
+            [
+                "D006",
+                "16000",
+                "2022",
+                "700",
+                "380",
+                "54.3%"
+            ],
+            [
+                "D007",
+                "10500",
+                "2020",
+                "550",
+                "280",
+                "50.9%"
+            ]
+        ]
+    }
+}

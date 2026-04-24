@@ -1,0 +1,85 @@
+{
+    "table-1494-1494": {
+        "title": [
+            "Month",
+            "Year",
+            "Customer Segment",
+            "Total Customers",
+            "Customers Above 528.3",
+            "Percentage Above 528.3",
+            "Consumption Unit"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In February 2012, what percentage of customers consumed more than 528.3?",
+        "data": [
+            [
+                "February",
+                "2012",
+                "Residential - Urban",
+                "12500",
+                "1875",
+                "15.0",
+                "kWh"
+            ],
+            [
+                "February",
+                "2012",
+                "Residential - Rural",
+                "8900",
+                "1513",
+                "17.0",
+                "kWh"
+            ],
+            [
+                "February",
+                "2012",
+                "Small Business",
+                "3200",
+                "480",
+                "15.0",
+                "kWh"
+            ],
+            [
+                "February",
+                "2012",
+                "Commercial",
+                "1800",
+                "270",
+                "15.0",
+                "kWh"
+            ],
+            [
+                "February",
+                "2012",
+                "Industrial",
+                "250",
+                "63",
+                "25.2",
+                "kWh"
+            ],
+            [
+                "February",
+                "2012",
+                "Government",
+                "400",
+                "40",
+                "10.0",
+                "kWh"
+            ],
+            [
+                "February",
+                "2012",
+                "Education",
+                "750",
+                "90",
+                "12.0",
+                "kWh"
+            ]
+        ]
+    }
+}

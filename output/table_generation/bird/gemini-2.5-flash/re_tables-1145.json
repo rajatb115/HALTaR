@@ -1,0 +1,55 @@
+{
+    "table-1145-1145": {
+        "title": [
+            "Player Name",
+            "Weight (kg)",
+            "Finishing Rate (%)",
+            "Curve Score"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please state the finishing rate and curve score of the player who has the heaviest weight.",
+        "data": [
+            [
+                "John \"The Tank\" Doe",
+                "98",
+                "78",
+                "85"
+            ],
+            [
+                "Mike \"Speedy\" Smith",
+                "72",
+                "92",
+                "88"
+            ],
+            [
+                "Alex \"Precision\" Lee",
+                "81",
+                "85",
+                "91"
+            ],
+            [
+                "Chris \"Power\" Jones",
+                "95",
+                "80",
+                "83"
+            ],
+            [
+                "Sam \"Agile\" Brown",
+                "75",
+                "89",
+                "87"
+            ],
+            [
+                "David \"Solid\" Green",
+                "88",
+                "82",
+                "86"
+            ]
+        ]
+    }
+}

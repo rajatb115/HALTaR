@@ -1,0 +1,45 @@
+{
+    "table-309-309": {
+        "title": [
+            "Department Name",
+            "Department ID",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Department Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the department description for the one whose name has the word computer?",
+        "data": [
+            [
+                "Computer Science",
+                "101",
+                "Studies theoretical foundations of information and computation and their implementation and application in computer systems."
+            ],
+            [
+                "Computer Engineering",
+                "102",
+                "An engineering discipline that integrates several fields of computer science and electrical engineering required to develop computer hardware and software."
+            ],
+            [
+                "Information Systems",
+                "103",
+                "Studies the design, creation, use, and impact of information systems."
+            ],
+            [
+                "Software Engineering",
+                "104",
+                "Applies principles of engineering to the design, development, testing, and maintenance of software systems."
+            ],
+            [
+                "Computer Graphics",
+                "105",
+                "Deals with generating images with the aid of computers."
+            ]
+        ]
+    }
+}

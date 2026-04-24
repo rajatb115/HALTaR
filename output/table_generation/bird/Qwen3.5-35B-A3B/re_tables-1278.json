@@ -1,0 +1,69 @@
+{
+    "table-1278-1278": {
+        "title": [
+            "Patient ID",
+            "Anti-DNA Level Status",
+            "Data Recorded",
+            "Record Date",
+            "Notes"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients have a normal anti-DNA level, yet their data are not recorded.",
+        "data": [
+            [
+                "P-1042",
+                "Normal",
+                "No",
+                "N/A",
+                "Missing entry in system log"
+            ],
+            [
+                "P-KM99",
+                "Normal (Low)",
+                "Yes",
+                "06/12/2023",
+                "Logged manually later"
+            ],
+            [
+                "PT-7721",
+                "Normal Range",
+                "No",
+                "N/A",
+                "Pending verification by lab"
+            ],
+            [
+                "D-8832",
+                "Borderline Normal",
+                "Yes",
+                "01/15/24",
+                "Standard protocol followed"
+            ],
+            [
+                "R-2201",
+                "Normal",
+                "Not Found",
+                "",
+                "System Error Reported"
+            ],
+            [
+                "L-9910",
+                "Normal",
+                "Unknown",
+                "",
+                "Audit Required"
+            ],
+            [
+                "Q-4455",
+                "Normal",
+                "Partially",
+                "",
+                "Incomplete fields detected"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-132-132": {
+        "title": [
+            "District",
+            "Active Loans"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Active Loan Information by District",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which district has highest active loan?",
+        "data": [
+            [
+                "District A",
+                "1500"
+            ],
+            [
+                "District B",
+                "2300"
+            ],
+            [
+                "District C",
+                "1800"
+            ],
+            [
+                "District D",
+                "2100"
+            ],
+            [
+                "District E",
+                "1900"
+            ]
+        ]
+    }
+}

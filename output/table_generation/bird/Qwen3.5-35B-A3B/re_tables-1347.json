@@ -1,0 +1,85 @@
+{
+    "table-1347-1347": {
+        "title": [
+            "Full Name",
+            "Phone Number",
+            "Status",
+            "Last Verified Date",
+            "Source System",
+            "Contact Method",
+            "Region Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Tell the phone number of \"Carlo Jacobs\".",
+        "data": [
+            [
+                "Carlo Jacobs",
+                "+1-555-0147",
+                "Active",
+                "06/15/2023",
+                "CRM Database",
+                "Mobile",
+                "US-East"
+            ],
+            [
+                "C. Jacobs",
+                "N/A",
+                "Inactive",
+                "3 months ago",
+                "Legacy File",
+                "Landline",
+                "US-West"
+            ],
+            [
+                "Carlos Jacobson",
+                "+44-20-7946-0958",
+                "Pending Verification",
+                "Today",
+                "External API",
+                "Email",
+                "UK-London"
+            ],
+            [
+                "Carl J.",
+                "+61-2-9876-5432",
+                "Active Unknown",
+                "Yesterday",
+                "Manual Entry",
+                "SMS",
+                "AU-Sydney"
+            ],
+            [
+                "K. Jacobs-Carlo",
+                "+33-1-45-67-89-00",
+                "Archived",
+                "Jan 22, 24",
+                "HR Portal",
+                "Voice Mail",
+                "FR-Paris"
+            ],
+            [
+                "Carol Jacobs",
+                "No Record Found",
+                "Deleted",
+                "Dec 10, 99",
+                "Data Warehouse",
+                "None",
+                "DE-Berlin"
+            ],
+            [
+                "Charles Jacobs Jr.",
+                "N/D",
+                "Under Review",
+                "Current Week",
+                "Field Survey",
+                "",
+                ""
+            ]
+        ]
+    }
+}

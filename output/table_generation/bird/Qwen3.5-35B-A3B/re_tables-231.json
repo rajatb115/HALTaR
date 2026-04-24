@@ -1,0 +1,73 @@
+{
+    "table-231-231": {
+        "title": [
+            "Molecule ID",
+            "Chemical Class",
+            "Toxicity Category",
+            "LD50 Value (mg/kg)",
+            "Signal Word",
+            "Hazard Statement",
+            "Precautionary Code",
+            "CAS Number"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the elements of the toxicology and label of molecule TR060?",
+        "data": [
+            [
+                "TR06O",
+                "Organophosphate",
+                "Highly Toxic",
+                "45 mg/kg",
+                "Danger",
+                "Fatal if swallowed",
+                "P273; P301+P310",
+                "Unknown-Trace"
+            ],
+            [
+                "Tr06-Oxide",
+                "Phosphonate derivative",
+                "Moderately Toxic",
+                "120 mg/kg",
+                "Warning",
+                "May cause skin irritation",
+                "P302+P264",
+                "Similar Structure"
+            ],
+            [
+                "Deriv-Triol",
+                "Amine complex",
+                "Low Toxicity",
+                ">20,000 mg/kg",
+                "No Signal",
+                "None specified",
+                "P101",
+                "Reference Only"
+            ],
+            [
+                "Isomer-Beta",
+                "Halogenated compound",
+                "Severe Irritant",
+                "85 mg/g",
+                "Caution",
+                "Causes serious eye damage",
+                "P501a",
+                "Analogous Data"
+            ],
+            [
+                "Metabolite-X",
+                "Carboxylic acid salt",
+                "Non-Toxic",
+                "N/A",
+                "Not Classified",
+                "Environmental hazard only",
+                "P601+N/A",
+                "Byproduct"
+            ]
+        ]
+    }
+}

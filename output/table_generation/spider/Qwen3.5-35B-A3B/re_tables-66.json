@@ -1,0 +1,77 @@
+{
+    "table-66-66": {
+        "title": [
+            "Make",
+            "Production Start Year",
+            "Production End Year",
+            "Model Line",
+            "Status",
+            "Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the make and production time of the cars that were produced in the earliest year?",
+        "data": [
+            [
+                "Ford",
+                "",
+                "",
+                "N/A",
+                "Discontinued",
+                "Ancient Rome"
+            ],
+            [
+                "Chevrolet",
+                "",
+                "500",
+                "Early Series",
+                "Discontinued",
+                "Europe"
+            ],
+            [
+                "Toyota",
+                "",
+                "950",
+                "Proto-Line",
+                "Prototype",
+                "Asia"
+            ],
+            [
+                "BMW",
+                "",
+                "700 BC",
+                "Concept X",
+                "Experimental",
+                "Germany"
+            ],
+            [
+                "Mercedes-Benz",
+                "",
+                "",
+                "Legacy V",
+                "Inactive",
+                "Global"
+            ],
+            [
+                "Audi",
+                "",
+                "1000",
+                "Test Unit",
+                "Archived",
+                "World"
+            ],
+            [
+                "Volkswagen",
+                "",
+                "",
+                "",
+                "Unknown",
+                "Earth"
+            ]
+        ]
+    }
+}

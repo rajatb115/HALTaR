@@ -1,0 +1,39 @@
+{
+    "table-526-526": {
+        "title": [
+            "Conductor Name",
+            "Age"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Conductors by Age",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of conductors in ascending order of age.",
+        "data": [
+            [
+                "John Williams",
+                "92"
+            ],
+            [
+                "Zubin Mehta",
+                "88"
+            ],
+            [
+                "Herbert Blomstedt",
+                "97"
+            ],
+            [
+                "Seiji Ozawa",
+                "88"
+            ],
+            [
+                "Riccardo Muti",
+                "83"
+            ]
+        ]
+    }
+}

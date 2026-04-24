@@ -1,0 +1,45 @@
+{
+    "table-369-369": {
+        "title": [
+            "Card Type",
+            "Count",
+            "Percentage"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Card Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of borderless cards?",
+        "data": [
+            [
+                "Bordered",
+                "1500",
+                "75%"
+            ],
+            [
+                "Borderless",
+                "500",
+                "25%"
+            ],
+            [
+                "Foil",
+                "200",
+                "10%"
+            ],
+            [
+                "Extended Art",
+                "300",
+                "15%"
+            ],
+            [
+                "Full Art",
+                "400",
+                "20%"
+            ]
+        ]
+    }
+}

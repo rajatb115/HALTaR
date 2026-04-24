@@ -1,0 +1,67 @@
+{
+    "table-846-846": {
+        "title": [
+            "Superhero Name",
+            "Height (cm)",
+            "Primary Power",
+            "Power Level"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the power of superheroes with height greater than 80% of the average height of all superheroes.",
+        "data": [
+            [
+                "Superman",
+                "191",
+                "Flight, Super Strength",
+                "10"
+            ],
+            [
+                "Wonder Woman",
+                "183",
+                "Super Strength, Durability",
+                "9"
+            ],
+            [
+                "Thor",
+                "198",
+                "God-like Strength, Mjolnir",
+                "10"
+            ],
+            [
+                "Captain America",
+                "188",
+                "Peak Human Strength, Agility",
+                "7"
+            ],
+            [
+                "Hulk",
+                "259",
+                "Gamma-fueled Strength",
+                "10"
+            ],
+            [
+                "Iron Man",
+                "196",
+                "Advanced Technology, Flight",
+                "8"
+            ],
+            [
+                "Black Widow",
+                "170",
+                "Master Combatant, Espionage",
+                "5"
+            ],
+            [
+                "Spider-Man",
+                "178",
+                "Super Strength, Agility, Web-slinging",
+                "7"
+            ]
+        ]
+    }
+}

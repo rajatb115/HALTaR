@@ -1,0 +1,46 @@
+{
+    "table-409-409": {
+        "title": [
+            "Player Name",
+            "Height (inches)",
+            "Money Rank"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Poker Player Ranking by Height and Earnings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the money rank of the poker player with the greatest height.",
+        "data": [
+            [
+                "Ike Haxton",
+                "74",
+                "1"
+            ],
+            [
+                "Phil Ivey",
+                "72",
+                "3"
+            ],
+            [
+                "Daniel Negreanu",
+                "66",
+                "7"
+            ],
+            [
+                "Doyle Brunson",
+                "74",
+                "10"
+            ],
+            [
+                "Bryn Kenney",
+                "67",
+                "2"
+            ]
+        ]
+    }
+}

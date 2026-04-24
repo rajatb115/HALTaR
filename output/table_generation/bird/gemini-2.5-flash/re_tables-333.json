@@ -1,0 +1,69 @@
+{
+    "table-333-333": {
+        "title": [
+            "Molecule ID",
+            "Primary Bond Type",
+            "Number of Single Bonds",
+            "Molecular Weight (g/mol)",
+            "Stability Rating"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the molecules between TR004 to TR010, how many of them has single bonds?",
+        "data": [
+            [
+                "TR004",
+                "Single",
+                "12",
+                "124.5",
+                "4"
+            ],
+            [
+                "TR005",
+                "Mixed",
+                "8",
+                "156.2",
+                "3"
+            ],
+            [
+                "TR006",
+                "Double",
+                "4",
+                "98.1",
+                "2"
+            ],
+            [
+                "TR007",
+                "Single",
+                "15",
+                "188.7",
+                "5"
+            ],
+            [
+                "TR008",
+                "Mixed",
+                "10",
+                "130.0",
+                "3"
+            ],
+            [
+                "TR009",
+                "Triple",
+                "2",
+                "78.9",
+                "1"
+            ],
+            [
+                "TR010",
+                "Single",
+                "11",
+                "165.3",
+                "4"
+            ]
+        ]
+    }
+}

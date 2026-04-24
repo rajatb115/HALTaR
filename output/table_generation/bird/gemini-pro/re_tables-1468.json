@@ -1,0 +1,43 @@
+{
+    "table-1468-1468": {
+        "title": [
+            "Event Name",
+            "Gift",
+            "Amount Spent"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Speaker Gift Expenditures by Event",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total amount spent on speaker gifts and list the name of the event they were spent on.",
+        "data": [
+            [
+                "Tech Conference 2023",
+                "Smart Speaker",
+                "$150"
+            ],
+            [
+                "Marketing Summit Q4",
+                "Bluetooth Speaker",
+                "$100"
+            ],
+            [
+                "Sales Kickoff 2024",
+                "Noise-Canceling Headphones",
+                "$200"
+            ],
+            [
+                "Leadership Retreat",
+                "Portable Speaker",
+                "$75"
+            ],
+            [
+                "Innovation Workshop",
+                "Wireless Speaker",
+                "$125"
+            ]
+        ]
+    }
+}

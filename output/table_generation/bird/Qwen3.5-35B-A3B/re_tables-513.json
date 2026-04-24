@@ -1,0 +1,85 @@
+{
+    "table-513-513": {
+        "title": [
+            "Deck ID",
+            "Card Name",
+            "Power Status",
+            "Foil Availability",
+            "Count",
+            "Rarity",
+            "Set Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards with unknown power that can't be found in foil is in duel deck A?",
+        "data": [
+            [
+                "DD-A",
+                "Unknown Beast",
+                "Unconfirmed",
+                "No",
+                "4",
+                "Common",
+                "DDA"
+            ],
+            [
+                "DD-B",
+                "Shadow Spirit",
+                "Unverified",
+                "No",
+                "6",
+                "Rare",
+                "DDB"
+            ],
+            [
+                "DD-C",
+                "Void Walker",
+                "Undetermined",
+                "None Found",
+                "3",
+                "Mythic",
+                "DDC"
+            ],
+            [
+                "DD-D",
+                "Mist Phantom",
+                "Not Listed",
+                "Excluded",
+                "7",
+                "Uncommon",
+                "DDE"
+            ],
+            [
+                "DD-E",
+                "Dark Wraith",
+                "Ambiguous",
+                "Non-Foil Only",
+                "5",
+                "Common",
+                "DDF"
+            ],
+            [
+                "DD-F",
+                "Null Entity",
+                "Missing Data",
+                "No Variant",
+                "8",
+                "Rare",
+                "DDR"
+            ],
+            [
+                "DD-G",
+                "Eclipsed Form",
+                "Incomplete Record",
+                "Standard Print",
+                "9",
+                "Mythic",
+                "DDG"
+            ]
+        ]
+    }
+}

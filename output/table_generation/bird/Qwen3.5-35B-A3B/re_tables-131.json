@@ -1,0 +1,83 @@
+{
+    "table-131-131": {
+        "title": [
+            "Region",
+            "Total Account Holders",
+            "Credit Card Owners",
+            "Non-Credit Card Holders (%)",
+            "Data Source",
+            "Survey Date",
+            "Sample Size",
+            "Confidence Level"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the account holders in South Bohemia still do not own credit cards?",
+        "data": [
+            [
+                "South Bohemia",
+                "45,203",
+                "31,642",
+                "70%",
+                "Regional Banking Registry",
+                "01/15/2023",
+                "N/A",
+                "95%"
+            ],
+            [
+                "North Bohemia (Comparison)",
+                "52,100",
+                "85%",
+                "65%",
+                "Regional Banking Registry",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Central Bohemia Comparison",
+                "61,300",
+                "42,910",
+                "75%",
+                "Regional Bank Report",
+                "Q4 22",
+                "N/A",
+                "P<0.05"
+            ],
+            [
+                "East Bohemia Contextual",
+                "None",
+                "N/N",
+                "N/D",
+                "Local Branch Log",
+                "Invalid",
+                "-1",
+                "Error"
+            ],
+            [
+                "West Bohemia Reference",
+                "Unknown",
+                "Unknown",
+                "N/Missing",
+                "Archived File",
+                "Old",
+                "Null",
+                "Failed"
+            ],
+            [
+                "Plze\u0148 District Detail",
+                "Not Applicable",
+                "Excluded from Count",
+                "N/Surveyed",
+                "Field",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

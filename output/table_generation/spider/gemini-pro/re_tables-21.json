@@ -1,0 +1,43 @@
+{
+    "table-21-21": {
+        "title": [
+            "Stadium Name",
+            "First Concert Date",
+            "Last Concert Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Stadiums and Concert History",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of all stadiums that did not have a concert in 2014?",
+        "data": [
+            [
+                "Stadium A",
+                "2010-05-01",
+                "2013-12-01"
+            ],
+            [
+                "Stadium B",
+                "2015-01-15",
+                "2023-06-20"
+            ],
+            [
+                "Stadium C",
+                "2012-03-10",
+                "2012-03-10"
+            ],
+            [
+                "Stadium D",
+                "2016-07-04",
+                "2024-01-01"
+            ],
+            [
+                "Stadium E",
+                "NULL",
+                "NULL"
+            ]
+        ]
+    }
+}

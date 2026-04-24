@@ -1,0 +1,83 @@
+{
+    "table-138-138": {
+        "title": [
+            "Flight Number",
+            "Origin City",
+            "Destination Airport",
+            "Departure Time",
+            "Airline",
+            "Status",
+            "Aircraft Type",
+            "Gate"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are flight numbers of flights departing from City \"Aberdeen \"?",
+        "data": [
+            [
+                "AB402",
+                "Aberdeen",
+                "London Heathrow",
+                "06:15",
+                "Loganair",
+                "On Time",
+                "Dash 8 Q400",
+                "A12"
+            ],
+            [
+                "AB715",
+                "Aberdeen",
+                "Amsterdam Schiphol",
+                "7:30",
+                "KLM",
+                "Delayed",
+                "Boeing 737-800",
+                "C04"
+            ],
+            [
+                "AD990",
+                "Aberdeen",
+                "Edinburgh",
+                "8:45",
+                "Eastern Airways",
+                "Scheduled",
+                "Embraer E190",
+                "D01"
+            ],
+            [
+                "AE203",
+                "Aberdeen",
+                "Oslo Gardermoen",
+                "9:20",
+                "SAS",
+                "Boarding",
+                "Airbus A320neo",
+                "B09"
+            ],
+            [
+                "AF551",
+                "Aberdeen",
+                "Bergen Flesland",
+                "3:10 PM",
+                "Wider\u00f8e",
+                "Cancelled",
+                "De Havilland Canada DHC-6",
+                "E02"
+            ],
+            [
+                "AG882",
+                "Aberdeen",
+                "",
+                "Reykjavik Keflav\u00edk",
+                "4:40 PM",
+                "Icelandair",
+                "On Schedule",
+                "Boeing 757-20F"
+            ]
+        ]
+    }
+}

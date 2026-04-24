@@ -1,0 +1,37 @@
+{
+    "table-143-143": {
+        "title": [
+            "Airport Name",
+            "IATA Code"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Airports with No Flight Activity",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airports do not have departing or arriving flights?",
+        "data": [
+            [
+                "Dry Bay Airport",
+                "DRY"
+            ],
+            [
+                "Telluride Regional Airport",
+                "TEX"
+            ],
+            [
+                "Galena Airport",
+                "GAL"
+            ],
+            [
+                "Ralph M Calhoun Airport",
+                "FVM"
+            ],
+            [
+                "Chandalar Lake Airport",
+                "WCR"
+            ]
+        ]
+    }
+}

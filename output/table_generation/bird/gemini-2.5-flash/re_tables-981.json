@@ -1,0 +1,53 @@
+{
+    "table-981-981": {
+        "title": [
+            "Driver Reference Name",
+            "Nationality",
+            "Birthday"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the reference name of the drivers who passed the second qualifying lap during race no. 23. Indicate their nationality and birthday.",
+        "data": [
+            [
+                "verstappen",
+                "Dutch",
+                "1997-09-30"
+            ],
+            [
+                "hamilton",
+                "British",
+                "1985-01-07"
+            ],
+            [
+                "leclerc",
+                "Monegasque",
+                "1997-10-16"
+            ],
+            [
+                "perez",
+                "Mexican",
+                "1990-01-26"
+            ],
+            [
+                "sainz",
+                "Spanish",
+                "1994-09-01"
+            ],
+            [
+                "russell",
+                "British",
+                "1998-02-15"
+            ],
+            [
+                "norris",
+                "British",
+                "1999-11-13"
+            ]
+        ]
+    }
+}

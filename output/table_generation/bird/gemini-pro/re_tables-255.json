@@ -1,0 +1,51 @@
+{
+    "table-255-255": {
+        "title": [
+            "Element 1",
+            "Element 2",
+            "Count",
+            "Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Most Common Elements in Chemical Bonds",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of bonds have the most common combination of atoms' elements?",
+        "data": [
+            [
+                "Oxygen",
+                "Hydrogen",
+                "1200",
+                "25%"
+            ],
+            [
+                "Carbon",
+                "Hydrogen",
+                "1000",
+                "20.83%"
+            ],
+            [
+                "Carbon",
+                "Oxygen",
+                "800",
+                "16.67%"
+            ],
+            [
+                "Nitrogen",
+                "Hydrogen",
+                "500",
+                "10.42%"
+            ],
+            [
+                "Carbon",
+                "Nitrogen",
+                "300",
+                "6.25%"
+            ]
+        ]
+    }
+}

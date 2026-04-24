@@ -1,0 +1,76 @@
+{
+    "table-1244-1244": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "Gender",
+            "PT Result (seconds)",
+            "PT Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all patients who are older than 55 years old, what is the percentage of female who has abnormal prothrombin time (PT)?",
+        "data": [
+            [
+                "P101",
+                "62",
+                "Female",
+                "15.8",
+                "Abnormal"
+            ],
+            [
+                "P102",
+                "58",
+                "Male",
+                "12.5",
+                "Normal"
+            ],
+            [
+                "P103",
+                "70",
+                "Female",
+                "11.9",
+                "Normal"
+            ],
+            [
+                "P104",
+                "65",
+                "Female",
+                "18.1",
+                "Abnormal"
+            ],
+            [
+                "P105",
+                "56",
+                "Male",
+                "13.2",
+                "Normal"
+            ],
+            [
+                "P106",
+                "72",
+                "Female",
+                "16.3",
+                "Abnormal"
+            ],
+            [
+                "P107",
+                "60",
+                "Male",
+                "14.5",
+                "Abnormal"
+            ],
+            [
+                "P108",
+                "68",
+                "Female",
+                "12.8",
+                "Normal"
+            ]
+        ]
+    }
+}

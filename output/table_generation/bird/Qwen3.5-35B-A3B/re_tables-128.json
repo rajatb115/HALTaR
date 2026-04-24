@@ -1,0 +1,62 @@
+{
+    "table-128-128": {
+        "title": [
+            "Account_ID",
+            "Statement_Monthly_Issuance",
+            "Last_Statement_Date",
+            "Next_Scheduled_Date",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the account IDs with monthly issuance of statements.",
+        "data": [
+            [
+                "ACC-7401-ALPHA",
+                "Yes",
+                "30/06/2023",
+                "01/07/2023",
+                "Active"
+            ],
+            [
+                "ACC-BB-992-MICRO",
+                "No",
+                "N/A",
+                "N/A",
+                "Inactive"
+            ],
+            [
+                "CC-VISA-551-XRAY",
+                "Yes (Auto-generated)",
+                "05/05/2303",
+                "06/08/2503",
+                "Pending Review"
+            ],
+            [
+                "DB-SAVINGS-002-LAMBDA",
+                "Yes - PDF Format",
+                "04/04/2403",
+                "07/09/2603",
+                "Suspended"
+            ],
+            [
+                "TRUST-FUND-88-GAMMA",
+                "Yes + Email Alert",
+                "08/03/2703",
+                "09/10/2803",
+                "Verified"
+            ],
+            [
+                "CORP-CREDIT-11-ZETA",
+                "No - Quarterly Only",
+                "N/A",
+                "",
+                "Closed"
+            ]
+        ]
+    }
+}

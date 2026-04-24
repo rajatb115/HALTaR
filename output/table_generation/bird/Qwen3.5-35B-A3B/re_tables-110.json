@@ -1,0 +1,62 @@
+{
+    "table-110-110": {
+        "title": [
+            "Client ID",
+            "Branch Location",
+            "Gender",
+            "Account Opening Date",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many clients opened their accounts in Jesenik branch were women?",
+        "data": [
+            [
+                "C1045",
+                "Jesen\u00edk",
+                "Female",
+                "06/12/2018",
+                "Active"
+            ],
+            [
+                "C1089",
+                "Jesen\u00edk",
+                "Male",
+                "30/01/2021",
+                "Closed"
+            ],
+            [
+                "C2103",
+                "Jesen\u00edk",
+                "Female",
+                "15/07/2022",
+                "Active"
+            ],
+            [
+                "C3012",
+                "Jesen\u00edk",
+                "Female",
+                "02/03/2023",
+                "Pending"
+            ],
+            [
+                "C4055",
+                "Jesen\u00edk",
+                "Male",
+                "11/11/2020",
+                "Inactive"
+            ],
+            [
+                "C5098",
+                "Jesen\u00edk",
+                "Female",
+                "28/09/2024",
+                "Active"
+            ]
+        ]
+    }
+}

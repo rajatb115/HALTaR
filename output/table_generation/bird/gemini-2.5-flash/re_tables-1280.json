@@ -1,0 +1,77 @@
+{
+    "table-1280-1280": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "Gender",
+            "GOT Level (U/L)",
+            "GOT Status",
+            "SLE Diagnosis"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of patient who has a abnormal level of glutamic oxaloacetic transaminase level, yet he or she is diagnosed with SLE?",
+        "data": [
+            [
+                "P001",
+                "45",
+                "Female",
+                "32",
+                "Normal",
+                "No"
+            ],
+            [
+                "P002",
+                "58",
+                "Male",
+                "78",
+                "Elevated",
+                "Yes"
+            ],
+            [
+                "P003",
+                "33",
+                "Female",
+                "120",
+                "High",
+                "Yes"
+            ],
+            [
+                "P004",
+                "62",
+                "Male",
+                "40",
+                "Normal",
+                "No"
+            ],
+            [
+                "P005",
+                "29",
+                "Female",
+                "55",
+                "Elevated",
+                "No"
+            ],
+            [
+                "P006",
+                "51",
+                "Female",
+                "95",
+                "High",
+                "Yes"
+            ],
+            [
+                "P007",
+                "38",
+                "Male",
+                "28",
+                "Normal",
+                "No"
+            ]
+        ]
+    }
+}

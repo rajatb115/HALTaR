@@ -1,0 +1,61 @@
+{
+    "table-1069-1069": {
+        "title": [
+            "Player Name",
+            "Year",
+            "Height (cm)",
+            "Overall Rating"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From 2010 to 2015, what was the average overall rating of players who are higher than 170?",
+        "data": [
+            [
+                "Lionel Messi",
+                "2010",
+                "170",
+                "92"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "2011",
+                "187",
+                "93"
+            ],
+            [
+                "Neymar Jr.",
+                "2012",
+                "175",
+                "85"
+            ],
+            [
+                "Robert Lewandowski",
+                "2013",
+                "185",
+                "87"
+            ],
+            [
+                "Eden Hazard",
+                "2014",
+                "175",
+                "88"
+            ],
+            [
+                "Luis Suarez",
+                "2015",
+                "182",
+                "90"
+            ],
+            [
+                "Zlatan Ibrahimovic",
+                "2010",
+                "195",
+                "89"
+            ]
+        ]
+    }
+}

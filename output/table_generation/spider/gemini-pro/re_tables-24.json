@@ -1,0 +1,43 @@
+{
+    "table-24-24": {
+        "title": [
+            "Singer Name",
+            "Nationality",
+            "Song Title (with \"Hey\")"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Singers with Songs Containing \"Hey\"",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "what is the name and nation of the singer who have a song having 'Hey' in its name?",
+        "data": [
+            [
+                "The Beatles",
+                "British",
+                "Hey Jude"
+            ],
+            [
+                "Outkast",
+                "American",
+                "Hey Ya!"
+            ],
+            [
+                "Frou Frou",
+                "British",
+                "Let Go"
+            ],
+            [
+                "Kesha",
+                "American",
+                "Blow"
+            ],
+            [
+                "No Doubt",
+                "American",
+                "Hey Baby"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-421-421": {
+        "title": [
+            "Nationality Code",
+            "Country Name",
+            "Population Count",
+            "Region",
+            "Official Language",
+            "ISO Standard"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of different nationalities.",
+        "data": [
+            [
+                "US",
+                "United States",
+                "334000671",
+                "North America",
+                "English",
+                "US"
+            ],
+            [
+                "CN",
+                "China",
+                "9800500",
+                "Asia",
+                "Mandarin Chinese",
+                "CN"
+            ],
+            [
+                "IN",
+                "India",
+                "4502010",
+                "South Asia",
+                "Hindi/English",
+                "IN"
+            ],
+            [
+                "BR",
+                "Brazil",
+                "5012030",
+                "Latin America",
+                "Portuguese",
+                "BR"
+            ],
+            [
+                "DE",
+                "Germany",
+                "8300210",
+                "Europe",
+                "German",
+                "DE"
+            ],
+            [
+                "JP",
+                "Japan",
+                "6003420",
+                "East Asia",
+                "Japanese",
+                "JP"
+            ],
+            [
+                "RU",
+                "Russia",
+                "7004510",
+                "Eastern Europe",
+                "Russian",
+                "RU"
+            ],
+            [
+                "ZA",
+                "South Africa",
+                "900",
+                "Southern Africa",
+                "Zulu/Xhosa",
+                "ZA"
+            ]
+        ]
+    }
+}

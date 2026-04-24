@@ -1,0 +1,46 @@
+{
+    "table-29-29": {
+        "title": [
+            "Dog Name",
+            "Age (Years)",
+            "Weight (lbs)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Dog Weight Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much does the youngest dog weigh?",
+        "data": [
+            [
+                "Buddy",
+                "5",
+                "65"
+            ],
+            [
+                "Lucy",
+                "2",
+                "30"
+            ],
+            [
+                "Charlie",
+                "7",
+                "80"
+            ],
+            [
+                "Daisy",
+                "3",
+                "45"
+            ],
+            [
+                "Max",
+                "1",
+                "20"
+            ]
+        ]
+    }
+}

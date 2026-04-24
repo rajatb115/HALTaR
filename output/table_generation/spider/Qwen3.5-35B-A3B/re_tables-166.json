@@ -1,0 +1,73 @@
+{
+    "table-166-166": {
+        "title": [
+            "Document ID",
+            "Document Name",
+            "Description",
+            "Status",
+            "Author",
+            "Created Date",
+            "Version",
+            "File Size KB"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List document IDs, document names, and document descriptions for all documents.",
+        "data": [
+            [
+                "DOC-1042",
+                "Q3 Financial Report",
+                "Summary of quarterly earnings and expenses",
+                "Active",
+                "Sarah Jenkins",
+                "06/15/2023",
+                "v2.1",
+                "450"
+            ],
+            [
+                "DOC-2087",
+                "Employee Handbook Update",
+                "Revised policies regarding remote work arrangements",
+                "Draft",
+                "Michael Chen",
+                "08/22/2024",
+                "v1.0",
+                "320"
+            ],
+            [
+                "DOC-3391",
+                "Project Alpha Specifications",
+                "Technical requirements and architecture diagrams for Phase One",
+                "Archived",
+                "Elena Rodriguez",
+                "09/10/2024",
+                "v3.5",
+                "680"
+            ],
+            [
+                "DOC-4452",
+                "Client Meeting Minutes - TechCorp",
+                "Notes from weekly sync meeting held on October 5th",
+                "Pending Review",
+                "David Kim",
+                "05/11/2025",
+                "N/A",
+                "75"
+            ],
+            [
+                "DOCX-5509",
+                "Marketing Campaign Strategy",
+                "Proposed timeline and budget allocation for holiday season launch",
+                "Approved",
+                "Jessica Lee",
+                "12/01/2012",
+                "",
+                ""
+            ]
+        ]
+    }
+}

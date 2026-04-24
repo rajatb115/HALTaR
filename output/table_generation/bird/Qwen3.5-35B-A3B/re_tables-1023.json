@@ -1,0 +1,77 @@
+{
+    "table-1023-1023": {
+        "title": [
+            "Player Name",
+            "Current Potential",
+            "Preferred Attacking Foot",
+            "Position",
+            "Age",
+            "Club"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the preferred foot when attacking of the player with the lowest potential?",
+        "data": [
+            [
+                "Liam O'Connor",
+                "65",
+                "Left",
+                "Forward",
+                "47",
+                "FC Dynamo"
+            ],
+            [
+                "Noah Silva",
+                "72",
+                "Right",
+                "Midfielder",
+                "34",
+                "Real Madrid"
+            ],
+            [
+                "Ethan Wright",
+                "58",
+                "Both",
+                "Defender",
+                "89",
+                "AC Milan"
+            ],
+            [
+                "Lucas Rossi",
+                "91",
+                "Left",
+                "Striker",
+                "2",
+                "Bayern Munich"
+            ],
+            [
+                "Mason Chen",
+                "63",
+                "Right",
+                "Full-back",
+                "",
+                "Chelsea FC"
+            ],
+            [
+                "Oliver Kim",
+                "Unknown",
+                "N/A",
+                "Goalkeeper",
+                "",
+                "Manchester City"
+            ],
+            [
+                "Samuel Lee",
+                "Low",
+                "Left-footed",
+                "Winger",
+                "",
+                "Liverpool FC"
+            ]
+        ]
+    }
+}

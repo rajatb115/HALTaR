@@ -1,0 +1,37 @@
+{
+    "table-178-178": {
+        "title": [
+            "Template Type Code",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Template Type Codes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all distinct template type codes for all templates.",
+        "data": [
+            [
+                "TEMPLATE_001",
+                "Welcome Email"
+            ],
+            [
+                "TEMPLATE_002",
+                "Password Reset Email"
+            ],
+            [
+                "TEMPLATE_003",
+                "Order Confirmation Email"
+            ],
+            [
+                "TEMPLATE_004",
+                "Shipping Update Email"
+            ],
+            [
+                "TEMPLATE_005",
+                "Account Deletion Confirmation"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "table-167-167": {
+        "title": [
+            "Document ID",
+            "Title",
+            "Description",
+            "Status",
+            "Author",
+            "Created Date",
+            "Category",
+            "Version"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the ids, names, and descriptions for all documents?",
+        "data": [
+            [
+                "DOC-1042",
+                "Q3 Financial Report",
+                "Summary of quarterly earnings and expenses",
+                "Approved",
+                "Sarah Jenkins",
+                "7/15/2023",
+                "Finance",
+                "v2.1"
+            ],
+            [
+                "DOC-A891",
+                "Employee Handbook Update",
+                "Revised policies regarding remote work arrangements",
+                "Draft",
+                "Michael Chen",
+                "8/2/2023",
+                "HR General",
+                "v1.0"
+            ],
+            [
+                "TECH-GUIDE-05",
+                "API Integration Manual",
+                "Step-by-step guide for third-party service connections",
+                "Published",
+                "Dev Team Lead",
+                "6/30/2024",
+                "Engineering",
+                "v3.5"
+            ],
+            [
+                "LEGAL-COMP-22",
+                "Non-Disclosure Agreement Template",
+                "Standard legal contract for vendor confidentiality",
+                "Active",
+                "Legal Dept",
+                "5/12/1999",
+                "Legal",
+                "v4.0"
+            ],
+            [
+                "MARKETING-BR",
+                "Brand Style Guide 24",
+                "Visual identity standards including color palettes and typography",
+                "In Review",
+                "Creative Director",
+                "9/1/2022",
+                "Marketing",
+                "v5.2"
+            ],
+            [
+                "SAFETY-POL-09",
+                "Workplace Safety Protocols",
+                "Emergency procedures and equipment",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

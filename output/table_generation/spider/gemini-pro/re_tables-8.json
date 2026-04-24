@@ -1,0 +1,45 @@
+{
+    "table-8-8": {
+        "title": [
+            "Country",
+            "Singer",
+            "Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Singers by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are  the different countries with singers above age 20?",
+        "data": [
+            [
+                "USA",
+                "John Doe",
+                "25"
+            ],
+            [
+                "UK",
+                "Jane Smith",
+                "30"
+            ],
+            [
+                "Canada",
+                "Robert Jones",
+                "22"
+            ],
+            [
+                "Australia",
+                "Emily Brown",
+                "28"
+            ],
+            [
+                "Germany",
+                "Michael Weber",
+                "35"
+            ]
+        ]
+    }
+}

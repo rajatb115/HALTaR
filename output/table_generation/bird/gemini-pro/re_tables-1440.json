@@ -1,0 +1,51 @@
+{
+    "table-1440-1440": {
+        "title": [
+            "Member ID",
+            "Major",
+            "Department",
+            "Phone Number"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Business Majors in Agriculture and Applied Sciences",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the phone numbers of the members who majored in business at the College of Agriculture and Applied Sciences.",
+        "data": [
+            [
+                "12345",
+                "Business",
+                "College of Agriculture and Applied Sciences",
+                "555-123-4567"
+            ],
+            [
+                "67890",
+                "Business",
+                "College of Agriculture and Applied Sciences",
+                "555-987-6543"
+            ],
+            [
+                "24680",
+                "Business",
+                "College of Agriculture and Applied Sciences",
+                "555-246-8012"
+            ],
+            [
+                "13579",
+                "Business",
+                "College of Agriculture and Applied Sciences",
+                "555-135-7924"
+            ],
+            [
+                "98765",
+                "Business",
+                "College of Agriculture and Applied Sciences",
+                "555-867-5309"
+            ]
+        ]
+    }
+}

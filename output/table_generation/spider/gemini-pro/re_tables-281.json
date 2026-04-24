@@ -1,0 +1,39 @@
+{
+    "table-281-281": {
+        "title": [
+            "Vessel Name",
+            "Tonnage"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Vessel Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name and tonnage ordered by in descending alphaetical order for the names.",
+        "data": [
+            [
+                "Yacht A",
+                "1500"
+            ],
+            [
+                "Tugboat Z",
+                "300"
+            ],
+            [
+                "Submarine X",
+                "2000"
+            ],
+            [
+                "Rowboat W",
+                "50"
+            ],
+            [
+                "Freighter V",
+                "5000"
+            ]
+        ]
+    }
+}

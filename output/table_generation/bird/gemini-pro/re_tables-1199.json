@@ -1,0 +1,39 @@
+{
+    "table-1199-1199": {
+        "title": [
+            "Gender",
+            "Number of Patients with APS Diagnosis"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "APS Diagnosis by Gender",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female patients were given an APS diagnosis?",
+        "data": [
+            [
+                "Female",
+                "125"
+            ],
+            [
+                "Male",
+                "78"
+            ],
+            [
+                "Other",
+                "2"
+            ],
+            [
+                "Unknown",
+                "5"
+            ],
+            [
+                "Total",
+                "210"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-279-279": {
+        "title": [
+            "Molecule Name",
+            "Bond Type",
+            "Carcinogenic"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Single Bond Molecule Carcinogenicity",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the single bond type molecules are non-carcinogenic?",
+        "data": [
+            [
+                "Methane",
+                "Single",
+                "No"
+            ],
+            [
+                "Ethane",
+                "Single",
+                "No"
+            ],
+            [
+                "Propane",
+                "Single",
+                "No"
+            ],
+            [
+                "Butane",
+                "Single",
+                "No"
+            ],
+            [
+                "Ethanol",
+                "Single",
+                "No"
+            ]
+        ]
+    }
+}

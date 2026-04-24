@@ -1,0 +1,85 @@
+{
+    "table-233-233": {
+        "title": [
+            "Museum Name",
+            "Opening Year",
+            "Staff Number",
+            "Location",
+            "Type",
+            "Annual Visitors",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the opening year and staff number of the museum named Plaza Museum?",
+        "data": [
+            [
+                "Plaza Museum",
+                "1974",
+                "42",
+                "New York City",
+                "Art Gallery",
+                "125000",
+                "Active"
+            ],
+            [
+                "City Heritage Center",
+                "1890",
+                "65",
+                "Boston MA",
+                "History",
+                "89400",
+                "Renovating"
+            ],
+            [
+                "Modern Art Space",
+                "2010",
+                "28",
+                "Chicago IL",
+                "Contemporary",
+                "15600",
+                "Open"
+            ],
+            [
+                "Riverside History Hall",
+                "1654",
+                "33",
+                "Philadelphia PA",
+                "Local History",
+                "4520",
+                "Closed for Maintenance"
+            ],
+            [
+                "Coastal Maritime Museum",
+                "2205",
+                "11",
+                "San Diego CA",
+                "Maritime",
+                "30050",
+                "Under Construction"
+            ],
+            [
+                "Mountain View Science Hub",
+                "1492",
+                "55",
+                "Denver CO",
+                "Science",
+                "210090",
+                "Operational"
+            ],
+            [
+                "Valley Folklore Archive",
+                "1777",
+                "102",
+                "Austin TX",
+                "Cultural",
+                "7830",
+                "Temporary Closure"
+            ]
+        ]
+    }
+}

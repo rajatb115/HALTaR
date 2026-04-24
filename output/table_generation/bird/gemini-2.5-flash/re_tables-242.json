@@ -1,0 +1,69 @@
+{
+    "table-242-242": {
+        "title": [
+            "Molecule Name",
+            "CAS Number",
+            "Carcinogenic Status",
+            "Toxicity Level",
+            "Primary Use"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the molecules are not carcinogenic?",
+        "data": [
+            [
+                "Acetaminophen",
+                "103-90-2",
+                "No",
+                "Low",
+                "Pain Relief"
+            ],
+            [
+                "Benzene",
+                "71-43-2",
+                "Yes",
+                "High",
+                "Solvent"
+            ],
+            [
+                "Ethanol",
+                "64-17-5",
+                "Suspected",
+                "Moderate",
+                "Disinfectant"
+            ],
+            [
+                "Glucose",
+                "50-99-7",
+                "No",
+                "Low",
+                "Energy Source"
+            ],
+            [
+                "Formaldehyde",
+                "50-00-0",
+                "Yes",
+                "High",
+                "Preservative"
+            ],
+            [
+                "Caffeine",
+                "58-08-2",
+                "No",
+                "Low",
+                "Stimulant"
+            ],
+            [
+                "Aspartame",
+                "22839-47-0",
+                "Not Evaluated",
+                "Low",
+                "Sweetener"
+            ]
+        ]
+    }
+}

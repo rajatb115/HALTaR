@@ -1,0 +1,55 @@
+{
+    "table-486-486": {
+        "title": [
+            "Country",
+            "Surface Area Sq Km",
+            "Continent",
+            "Comparison Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the countries that have greater surface area than any country in Europe?",
+        "data": [
+            [
+                "Russia",
+                "674000",
+                "Europe/Asia",
+                "Greater than European max"
+            ],
+            [
+                "Canada",
+                "998002",
+                "North America",
+                "Greater than European max"
+            ],
+            [
+                "United States",
+                "379670",
+                "North America",
+                "Greater than European max"
+            ],
+            [
+                "China",
+                "425003",
+                "Asia",
+                "Greater than European max"
+            ],
+            [
+                "Brazil",
+                "851576",
+                "South America",
+                "Greater than European max"
+            ],
+            [
+                "Australia",
+                "7692024",
+                "Oceania",
+                "Greater than European max"
+            ]
+        ]
+    }
+}

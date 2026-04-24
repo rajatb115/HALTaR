@@ -1,0 +1,39 @@
+{
+    "table-1068-1068": {
+        "title": [
+            "Team Short Name",
+            "Build-Up Play Passing"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Teams with High Build-Up Play Passing Stats",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which teams have build up play passing more than 70? Please list their short names.",
+        "data": [
+            [
+                "FCB",
+                "82"
+            ],
+            [
+                "RMA",
+                "75"
+            ],
+            [
+                "PSG",
+                "72"
+            ],
+            [
+                "MCI",
+                "78"
+            ],
+            [
+                "LIV",
+                "71"
+            ]
+        ]
+    }
+}

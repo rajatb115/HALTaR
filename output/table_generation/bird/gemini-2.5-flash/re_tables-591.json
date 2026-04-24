@@ -1,0 +1,61 @@
+{
+    "table-591-591": {
+        "title": [
+            "UserID",
+            "Username",
+            "ViewCount",
+            "LastActivityDate"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user ID has the lowest view?",
+        "data": [
+            [
+                "U001",
+                "AliceSmith",
+                "150",
+                "2023-10-26"
+            ],
+            [
+                "U002",
+                "BobJohnson",
+                "85",
+                "2023-10-27"
+            ],
+            [
+                "U003",
+                "CharlieBrown",
+                "210",
+                "2023-10-25"
+            ],
+            [
+                "U004",
+                "DianaPrince",
+                "45",
+                "2023-10-28"
+            ],
+            [
+                "U005",
+                "EveAdams",
+                "120",
+                "2023-10-26"
+            ],
+            [
+                "U006",
+                "FrankMiller",
+                "60",
+                "2023-10-27"
+            ],
+            [
+                "U007",
+                "GraceHopper",
+                "180",
+                "2023-10-25"
+            ]
+        ]
+    }
+}

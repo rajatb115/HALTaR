@@ -1,0 +1,37 @@
+{
+    "table-118-118": {
+        "title": [
+            "Loan Status",
+            "Percentage"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Loan Repayment Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of loan amount that has been fully paid with no issue.",
+        "data": [
+            [
+                "Fully Paid",
+                "75%"
+            ],
+            [
+                "Charged Off",
+                "15%"
+            ],
+            [
+                "Current",
+                "5%"
+            ],
+            [
+                "Late (16-30 days)",
+                "3%"
+            ],
+            [
+                "In Grace Period",
+                "2%"
+            ]
+        ]
+    }
+}

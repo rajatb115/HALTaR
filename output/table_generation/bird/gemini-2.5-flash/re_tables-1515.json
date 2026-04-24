@@ -1,0 +1,85 @@
+{
+    "table-1515-1515": {
+        "title": [
+            "Transaction ID",
+            "Transaction Date",
+            "Transaction Time",
+            "Customer ID",
+            "Payment Method",
+            "Currency",
+            "Amount"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What kind of currency did the customer paid at 16:25:00 in 2012/8/24?",
+        "data": [
+            [
+                "T20120824-001",
+                "2012-08-24",
+                "16:25:00",
+                "CUST-00123",
+                "Credit Card",
+                "USD",
+                "125.50"
+            ],
+            [
+                "T20120824-002",
+                "2012-08-24",
+                "10:15:30",
+                "CUST-00124",
+                "Debit Card",
+                "EUR",
+                "75.00"
+            ],
+            [
+                "T20120823-005",
+                "2012-08-23",
+                "14:00:00",
+                "CUST-00120",
+                "Cash",
+                "GBP",
+                "30.00"
+            ],
+            [
+                "T20120824-003",
+                "2012-08-24",
+                "18:40:10",
+                "CUST-00125",
+                "Bank Transfer",
+                "JPY",
+                "5000.00"
+            ],
+            [
+                "T20120825-001",
+                "2012-08-25",
+                "09:30:00",
+                "CUST-00126",
+                "Credit Card",
+                "CAD",
+                "99.99"
+            ],
+            [
+                "T20120824-004",
+                "2012-08-24",
+                "16:26:15",
+                "CUST-00127",
+                "PayPal",
+                "USD",
+                "25.00"
+            ],
+            [
+                "T20120824-005",
+                "2012-08-24",
+                "11:55:00",
+                "CUST-00128",
+                "Cash",
+                "AUD",
+                "45.75"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-113-113": {
+        "title": [
+            "Client ID",
+            "Client Name",
+            "Gender",
+            "Date of Birth",
+            "Account Open Date",
+            "Account Type",
+            "Opening District"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the female client who was born in 1976/1/29, which district did she opened her account?",
+        "data": [
+            [
+                "C001",
+                "Alice Smith",
+                "Female",
+                "1976-01-29",
+                "2005-03-15",
+                "Savings",
+                "Central Business"
+            ],
+            [
+                "C002",
+                "Bob Johnson",
+                "Male",
+                "1978-11-05",
+                "2008-07-22",
+                "Checking",
+                "Northside"
+            ],
+            [
+                "C003",
+                "Carol White",
+                "Female",
+                "1980-06-10",
+                "2010-01-30",
+                "Investment",
+                "West End"
+            ],
+            [
+                "C004",
+                "David Green",
+                "Male",
+                "1975-02-20",
+                "2004-09-01",
+                "Savings",
+                "Eastwood"
+            ],
+            [
+                "C005",
+                "Eve Brown",
+                "Female",
+                "1976-01-29",
+                "2006-05-12",
+                "Checking",
+                "Riverside"
+            ],
+            [
+                "C006",
+                "Frank Black",
+                "Male",
+                "1982-09-18",
+                "2012-11-03",
+                "Savings",
+                "Downtown"
+            ],
+            [
+                "C007",
+                "Grace Lee",
+                "Female",
+                "1977-04-25",
+                "2007-02-01",
+                "Investment",
+                "Uptown"
+            ]
+        ]
+    }
+}

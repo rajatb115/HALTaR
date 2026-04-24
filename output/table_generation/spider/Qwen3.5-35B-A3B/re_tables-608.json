@@ -1,0 +1,49 @@
+{
+    "table-608-608": {
+        "title": [
+            "Dog ID",
+            "Treatment Date",
+            "Procedure Type",
+            "Duration Minutes",
+            "Status",
+            "Vet Assigned",
+            "Total Cost USD"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many dogs went through any treatments?",
+        "data": [
+            [
+                "D-1042",
+                "06/12/2023",
+                "Dental Cleaning",
+                "45",
+                "Completed",
+                "Dr. Smith",
+                "$250.00"
+            ],
+            [
+                "D-A77B",
+                "06/22/1975",
+                "Vaccination Update",
+                "5",
+                "In Progress",
+                "Dr. Jones",
+                "$45.05"
+            ],
+            [
+                "K-99XZ",
+                "07/01/2100",
+                "",
+                "",
+                "Pending Review",
+                "Dr. Lee",
+                "$0.50"
+            ]
+        ]
+    }
+}

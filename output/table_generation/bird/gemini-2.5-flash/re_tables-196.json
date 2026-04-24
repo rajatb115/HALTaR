@@ -1,0 +1,77 @@
+{
+    "table-196-196": {
+        "title": [
+            "Bond Type",
+            "Issuer Category",
+            "Typical Maturity",
+            "Average Coupon Rate (%)",
+            "Common Rating",
+            "Market Size (USD Trillion)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the most common bond type?",
+        "data": [
+            [
+                "Government Bond",
+                "Sovereign",
+                "2-30 Years",
+                "2.0",
+                "AAA",
+                "25.0"
+            ],
+            [
+                "Corporate Bond",
+                "Private Sector",
+                "5-10 Years",
+                "3.5",
+                "A",
+                "12.5"
+            ],
+            [
+                "Mortgage-Backed Security",
+                "Financial Institutions",
+                "15-30 Years",
+                "3.0",
+                "AAA",
+                "11.0"
+            ],
+            [
+                "Agency Bond",
+                "Government-Sponsored Enterprise",
+                "5-10 Years",
+                "2.5",
+                "AA+",
+                "8.0"
+            ],
+            [
+                "Municipal Bond",
+                "State/Local Government",
+                "10-20 Years",
+                "2.8",
+                "AA",
+                "4.0"
+            ],
+            [
+                "High-Yield Bond",
+                "Private Sector",
+                "5-7 Years",
+                "6.0",
+                "BB",
+                "2.0"
+            ],
+            [
+                "Convertible Bond",
+                "Private Sector",
+                "3-7 Years",
+                "1.5",
+                "BBB",
+                "0.5"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-1508-1508": {
+        "title": [
+            "Transaction ID",
+            "Station ID",
+            "Chain ID",
+            "Transaction Date",
+            "Transaction Time",
+            "Fuel Type",
+            "Amount (USD)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the disparate time of the transactions taken place in the gas stations from chain no. 11.",
+        "data": [
+            [
+                "T1001",
+                "S1101",
+                "11",
+                "2023-10-26",
+                "07:15:30",
+                "Regular",
+                "45.50"
+            ],
+            [
+                "T1002",
+                "S1102",
+                "11",
+                "2023-10-26",
+                "12:40:15",
+                "Premium",
+                "60.25"
+            ],
+            [
+                "T1003",
+                "S1101",
+                "11",
+                "2023-10-26",
+                "18:05:00",
+                "Diesel",
+                "72.00"
+            ],
+            [
+                "T1004",
+                "S1103",
+                "11",
+                "2023-10-27",
+                "09:30:45",
+                "Regular",
+                "38.75"
+            ],
+            [
+                "T1005",
+                "S1102",
+                "11",
+                "2023-10-27",
+                "21:10:20",
+                "Premium",
+                "55.00"
+            ],
+            [
+                "T1006",
+                "S1101",
+                "11",
+                "2023-10-27",
+                "03:00:10",
+                "Regular",
+                "40.00"
+            ],
+            [
+                "T1007",
+                "S1103",
+                "11",
+                "2023-10-28",
+                "14:55:05",
+                "Diesel",
+                "68.50"
+            ]
+        ]
+    }
+}

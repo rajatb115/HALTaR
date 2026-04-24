@@ -1,0 +1,73 @@
+{
+    "table-30-30": {
+        "title": [
+            "Pet_Type",
+            "Max_Weight_Lbs",
+            "Species_Category",
+            "Data_Source",
+            "Record_Date",
+            "Sample_Size",
+            "Confidence_Level",
+            "Unit_System"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the maximum weight for each type of pet. List the maximum weight and pet type.",
+        "data": [
+            [
+                "Dog",
+                "476",
+                "Mammal",
+                "AKC Registry",
+                "01/15/2023",
+                "5000",
+                "High",
+                "Imperial"
+            ],
+            [
+                "Cat",
+                "35",
+                "Mammal",
+                "AVMA Survey",
+                "06/22/2023",
+                "N/A",
+                "Medium",
+                "Metric"
+            ],
+            [
+                "Horse",
+                "990",
+                "Equine",
+                "Global Equestrian",
+                "08/10/2024",
+                "750",
+                "Very High",
+                "Metric"
+            ],
+            [
+                "Elephant",
+                "13227",
+                "Mammal",
+                "Wildlife Trust",
+                "12/12",
+                "",
+                "Low",
+                "Imperial"
+            ],
+            [
+                "Parrot",
+                "",
+                "Bird",
+                "Avian Care Intl",
+                "",
+                "N/A",
+                "Unknown",
+                "Metric"
+            ]
+        ]
+    }
+}

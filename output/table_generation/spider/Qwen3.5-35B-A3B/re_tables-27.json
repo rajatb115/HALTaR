@@ -1,0 +1,85 @@
+{
+    "table-27-27": {
+        "title": [
+            "Stadium Name",
+            "City",
+            "Country",
+            "Concerts_2024",
+            "Concert_Count_Total",
+            "Last_Concert_Date",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names and locations of the stadiums that had concerts that occurred in both 2014 and 2015?",
+        "data": [
+            [
+                "Wembley Stadium",
+                "London",
+                "United Kingdom",
+                "Yes",
+                "42",
+                "3/15/2047",
+                "Active"
+            ],
+            [
+                "MetLife Stadium",
+                "East Rutherford",
+                "USA",
+                "No",
+                "6",
+                "N/A",
+                "Inactive"
+            ],
+            [
+                "Camp Nou",
+                "Barcelona",
+                "Spain",
+                "Yes / No",
+                "N/N",
+                "N/D",
+                "Under Renovation"
+            ],
+            [
+                "SoFi Stadium",
+                "Los Angeles",
+                "USA / Canada",
+                "Mixed",
+                "8",
+                "5/1/2456",
+                "New Construction"
+            ],
+            [
+                "Melbourne Cricket Ground",
+                "Melbourne",
+                "Australia",
+                "Partial",
+                "0",
+                "N/Pending",
+                "Scheduled"
+            ],
+            [
+                "Rogers Centre",
+                "Toronto",
+                "Canada",
+                "Yes & No",
+                "-1",
+                "Invalid Date",
+                "Closed Temporarily"
+            ],
+            [
+                "Stade de France",
+                "Paris",
+                "France",
+                "Uncertain",
+                "99",
+                "Future Event",
+                "Planned Expansion"
+            ]
+        ]
+    }
+}

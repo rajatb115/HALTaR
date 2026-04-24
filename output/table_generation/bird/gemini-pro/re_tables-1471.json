@@ -1,0 +1,52 @@
+{
+    "table-1471-1471": {
+        "title": [
+            "Country",
+            "Gas Stations with Premium Gas",
+            "Total Gas Stations",
+            "Percentage with Premium Gas"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Gas Station Statistics by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many gas stations in CZE has Premium gas?",
+        "data": [
+            [
+                "USA",
+                "110,000",
+                "115,000",
+                "95.65%"
+            ],
+            [
+                "CAN",
+                "11,000",
+                "12,000",
+                "91.67%"
+            ],
+            [
+                "CZE",
+                "4,000",
+                "4,200",
+                "95.24%"
+            ],
+            [
+                "GER",
+                "14,000",
+                "14,500",
+                "96.55%"
+            ],
+            [
+                "FRA",
+                "11,000",
+                "11,500",
+                "95.65%"
+            ]
+        ]
+    }
+}

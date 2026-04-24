@@ -1,0 +1,52 @@
+{
+    "table-1509-1509": {
+        "title": [
+            "Transaction ID",
+            "Location",
+            "Price",
+            "Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Gas Station Transaction Data in the Czech Republic",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many transactions taken place in the gas station in the Czech Republic are with a price of over 1000?",
+        "data": [
+            [
+                "12345",
+                "Prague",
+                "1200",
+                "2023-01-15"
+            ],
+            [
+                "67890",
+                "Brno",
+                "1500",
+                "2023-02-20"
+            ],
+            [
+                "24680",
+                "Ostrava",
+                "950",
+                "2023-03-10"
+            ],
+            [
+                "13579",
+                "Prague",
+                "1100",
+                "2023-04-05"
+            ],
+            [
+                "98765",
+                "Pilsen",
+                "1300",
+                "2023-05-12"
+            ]
+        ]
+    }
+}

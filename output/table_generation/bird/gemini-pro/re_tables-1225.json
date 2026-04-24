@@ -1,0 +1,52 @@
+{
+    "table-1225-1225": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Birthday",
+            "Total Bilirubin"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Patient Information with Highest Total Bilirubin",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the highest total bilirubin level recorded? List out the patient details with ID, sex and birthday with that index.",
+        "data": [
+            [
+                "12345",
+                "M",
+                "1980-01-15",
+                "25.5"
+            ],
+            [
+                "67890",
+                "F",
+                "1992-05-20",
+                "24.8"
+            ],
+            [
+                "24680",
+                "M",
+                "1975-11-01",
+                "23.1"
+            ],
+            [
+                "13579",
+                "F",
+                "1988-03-10",
+                "22.9"
+            ],
+            [
+                "98765",
+                "M",
+                "1963-07-22",
+                "22.5"
+            ]
+        ]
+    }
+}

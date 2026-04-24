@@ -1,0 +1,55 @@
+{
+    "table-132-132": {
+        "title": [
+            "Flight Number",
+            "Departure City",
+            "Arrival City",
+            "Departure Time",
+            "Arrival Time"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "United Airlines Flight Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are flight numbers of Airline \"United Airlines\"?",
+        "data": [
+            [
+                "UA123",
+                "New York (JFK)",
+                "Los Angeles (LAX)",
+                "08:00 AM",
+                "11:00 AM"
+            ],
+            [
+                "UA456",
+                "Chicago (ORD)",
+                "San Francisco (SFO)",
+                "09:00 AM",
+                "12:00 PM"
+            ],
+            [
+                "UA789",
+                "Denver (DEN)",
+                "Houston (IAH)",
+                "10:00 AM",
+                "12:00 PM"
+            ],
+            [
+                "UA101",
+                "Los Angeles (LAX)",
+                "New York (JFK)",
+                "01:00 PM",
+                "09:00 PM"
+            ],
+            [
+                "UA202",
+                "San Francisco (SFO)",
+                "Chicago (ORD)",
+                "02:00 PM",
+                "06:00 PM"
+            ]
+        ]
+    }
+}

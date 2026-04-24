@@ -1,0 +1,85 @@
+{
+    "table-1163-1163": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Admission Year",
+            "Follow-up Location",
+            "Status",
+            "Visit Count",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female patients who came at the hospital in 1997 was immediately followed at the outpatient clinic?",
+        "data": [
+            [
+                "P-4021",
+                "Female",
+                "1997",
+                "Outpatient Clinic",
+                "Active",
+                "3",
+                "Immediate referral confirmed"
+            ],
+            [
+                "P-A109",
+                "Female",
+                "1996",
+                "Inpatient Ward",
+                "Discharged",
+                "0",
+                "No immediate follow-up"
+            ],
+            [
+                "B-2234",
+                "Male",
+                "1988",
+                "Home Care",
+                "Pending",
+                "5",
+                "Delayed scheduling"
+            ],
+            [
+                "C-5512",
+                "Female",
+                "1995",
+                "Emergency Dept",
+                "Completed",
+                "4",
+                "Same-day visit recorded"
+            ],
+            [
+                "D-8891",
+                "Female",
+                "1977",
+                "Telehealth",
+                "Cancelled",
+                "6",
+                "Rescheduled for next month"
+            ],
+            [
+                "E-3340",
+                "Male",
+                "",
+                "Outpatients",
+                "N/A",
+                "",
+                ""
+            ],
+            [
+                "F-1122",
+                "Female",
+                "2022",
+                "General Practice",
+                "Ongoing",
+                "2",
+                "Chronic condition management"
+            ]
+        ]
+    }
+}

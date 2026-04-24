@@ -1,0 +1,37 @@
+{
+    "table-257-257": {
+        "title": [
+            "First Name",
+            "Country Code"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Oldest Player Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name and country code of the oldest player.",
+        "data": [
+            [
+                "John",
+                "USA"
+            ],
+            [
+                "Maria",
+                "BRA"
+            ],
+            [
+                "Kenji",
+                "JPN"
+            ],
+            [
+                "Piotr",
+                "POL"
+            ],
+            [
+                "Ingrid",
+                "SWE"
+            ]
+        ]
+    }
+}

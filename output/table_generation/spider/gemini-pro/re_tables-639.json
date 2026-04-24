@@ -1,0 +1,37 @@
+{
+    "table-639-639": {
+        "title": [
+            "Singer Name",
+            "Nationality"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Singer Nationalities",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the singers who are not French citizens?",
+        "data": [
+            [
+                "John Lennon",
+                "British"
+            ],
+            [
+                "Elvis Presley",
+                "American"
+            ],
+            [
+                "Freddie Mercury",
+                "British"
+            ],
+            [
+                "Bob Marley",
+                "Jamaican"
+            ],
+            [
+                "Kurt Cobain",
+                "American"
+            ]
+        ]
+    }
+}

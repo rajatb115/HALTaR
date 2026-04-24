@@ -1,0 +1,43 @@
+{
+    "table-1099-1099": {
+        "title": [
+            "Metric",
+            "Value",
+            "Classification"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Ajax Chance Creation Passing Metrics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is Ajax's highest chance creation passing score and what is it classified as?",
+        "data": [
+            [
+                "Highest Chance Creation Passing Score",
+                "92",
+                "Excellent"
+            ],
+            [
+                "Average Chance Creation Passing Score",
+                "78",
+                "Good"
+            ],
+            [
+                "Lowest Chance Creation Passing Score",
+                "65",
+                "Fair"
+            ],
+            [
+                "Score Range",
+                "65-92",
+                "N/A"
+            ],
+            [
+                "Number of Passes Considered",
+                "1500",
+                "N/A"
+            ]
+        ]
+    }
+}

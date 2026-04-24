@@ -1,0 +1,39 @@
+{
+    "table-60-60": {
+        "title": [
+            "Model",
+            "Horsepower"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Car Models and Horsepower",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which model of the car has the minimum horsepower?",
+        "data": [
+            [
+                "Model A",
+                "150"
+            ],
+            [
+                "Model B",
+                "180"
+            ],
+            [
+                "Model C",
+                "200"
+            ],
+            [
+                "Model D",
+                "160"
+            ],
+            [
+                "Model E",
+                "170"
+            ]
+        ]
+    }
+}

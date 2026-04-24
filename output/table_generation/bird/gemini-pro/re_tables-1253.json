@@ -1,0 +1,45 @@
+{
+    "table-1253-1253": {
+        "title": [
+            "Patient ID",
+            "IgG Level",
+            "Symptom Presence"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "IgG Levels and Symptom Presence in Patients",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients with a normal Ig G level, how many of them have symptoms?",
+        "data": [
+            [
+                "12345",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "67890",
+                "Normal",
+                "No"
+            ],
+            [
+                "24680",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "13579",
+                "Normal",
+                "No"
+            ],
+            [
+                "98765",
+                "Normal",
+                "Yes"
+            ]
+        ]
+    }
+}

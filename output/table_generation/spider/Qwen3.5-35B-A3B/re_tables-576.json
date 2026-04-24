@@ -1,0 +1,85 @@
+{
+    "table-576-576": {
+        "title": [
+            "Dog ID",
+            "Breed",
+            "Age at Treatment Start",
+            "Treatment Type",
+            "Status",
+            "Owner Name",
+            "Date Treated"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average age of the dogs who have gone through any treatments?",
+        "data": [
+            [
+                "D0042",
+                "Golden Retriever",
+                "7 years",
+                "Antibiotics",
+                "Completed",
+                "Sarah Jenkins",
+                "06/12/2023"
+            ],
+            [
+                "D1105",
+                "Beagle",
+                "4 years",
+                "Vaccination Series",
+                "Ongoing",
+                "Mike Ross",
+                "30/01/2024"
+            ],
+            [
+                "D2298",
+                "German Shepherd",
+                "9 years",
+                "Surgery Recovery",
+                "Discharged",
+                "Emily Chen",
+                "5 days ago"
+            ],
+            [
+                "D3341",
+                "Poodle Mix",
+                "6 months",
+                "Deworming Protocol",
+                "Active",
+                "David Kim",
+                "Yesterday"
+            ],
+            [
+                "D4450",
+                "Labrador",
+                "8 years",
+                "Dental Cleaning",
+                "Scheduled",
+                "Lisa Wong",
+                "Next Week"
+            ],
+            [
+                "D5562",
+                "Boxer",
+                "0.5 years",
+                "Heartworm Prevention",
+                "Pending",
+                "Tom Baker",
+                "N/A"
+            ],
+            [
+                "D6673",
+                "Bulldog",
+                "0.67 years",
+                "Skin Allergy Care",
+                "In Progress",
+                "Anna Lee",
+                "Last Month"
+            ]
+        ]
+    }
+}

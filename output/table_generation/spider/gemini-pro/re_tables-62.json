@@ -1,0 +1,39 @@
+{
+    "table-62-62": {
+        "title": [
+            "Model",
+            "Weight (lbs)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Car Models Below Average Weight",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the model of the car whose weight is below the average weight.",
+        "data": [
+            [
+                "Model A",
+                "2800"
+            ],
+            [
+                "Model B",
+                "3100"
+            ],
+            [
+                "Model C",
+                "2950"
+            ],
+            [
+                "Model D",
+                "3000"
+            ],
+            [
+                "Model E",
+                "2700"
+            ]
+        ]
+    }
+}

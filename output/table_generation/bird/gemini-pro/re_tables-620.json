@@ -1,0 +1,45 @@
+{
+    "table-620-620": {
+        "title": [
+            "Badge Name",
+            "Age Group",
+            "Number of Holders"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Supporter Badge Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many adults who obtained the badge Supporter?",
+        "data": [
+            [
+                "Supporter",
+                "Child (0-12)",
+                "150"
+            ],
+            [
+                "Supporter",
+                "Teen (13-19)",
+                "320"
+            ],
+            [
+                "Supporter",
+                "Adult (20-64)",
+                "580"
+            ],
+            [
+                "Supporter",
+                "Senior (65+)",
+                "90"
+            ],
+            [
+                "Supporter",
+                "All Ages",
+                "1140"
+            ]
+        ]
+    }
+}

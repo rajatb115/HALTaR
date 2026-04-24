@@ -1,0 +1,77 @@
+{
+    "table-239-239": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Primary Bond Type",
+            "Number of Triple Bonds",
+            "Molecular Weight (g/mol)",
+            "Category"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many molecules have a triple bond type?",
+        "data": [
+            [
+                "Acetylene",
+                "C2H2",
+                "Triple",
+                "1",
+                "26.04",
+                "Alkyne"
+            ],
+            [
+                "Nitrogen Gas",
+                "N2",
+                "Triple",
+                "1",
+                "28.01",
+                "Diatomic Gas"
+            ],
+            [
+                "Carbon Monoxide",
+                "CO",
+                "Triple",
+                "1",
+                "28.01",
+                "Inorganic Gas"
+            ],
+            [
+                "Hydrogen Cyanide",
+                "HCN",
+                "Triple",
+                "1",
+                "27.03",
+                "Nitrile"
+            ],
+            [
+                "Ethylene",
+                "C2H4",
+                "Double",
+                "0",
+                "28.05",
+                "Alkene"
+            ],
+            [
+                "Methane",
+                "CH4",
+                "Single",
+                "0",
+                "16.04",
+                "Alkane"
+            ],
+            [
+                "Oxygen Gas",
+                "O2",
+                "Double",
+                "0",
+                "32.00",
+                "Diatomic Gas"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1433-1433": {
+        "title": [
+            "Member ID",
+            "T-Shirt Size",
+            "Club Affiliation",
+            "Amount Received",
+            "Date Received"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the members with t-shirt size of medium, what is the percentage of the amount 50 received by the Student_Club?",
+        "data": [
+            [
+                "M001",
+                "Medium",
+                "Student_Club",
+                "50",
+                "2023-10-01"
+            ],
+            [
+                "M002",
+                "Large",
+                "Sports_Club",
+                "100",
+                "2023-09-15"
+            ],
+            [
+                "M003",
+                "Medium",
+                "Student_Club",
+                "75",
+                "2023-10-05"
+            ],
+            [
+                "M004",
+                "Small",
+                "Art_Club",
+                "25",
+                "2023-09-20"
+            ],
+            [
+                "M005",
+                "Medium",
+                "Student_Club",
+                "50",
+                "2023-10-10"
+            ],
+            [
+                "M006",
+                "XL",
+                "Student_Club",
+                "120",
+                "2023-10-12"
+            ],
+            [
+                "M007",
+                "Medium",
+                "Sports_Club",
+                "50",
+                "2023-10-08"
+            ]
+        ]
+    }
+}

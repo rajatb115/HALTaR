@@ -1,0 +1,52 @@
+{
+    "table-1236-1236": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "Diagnosis",
+            "Red Blood Cell Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Patient Diagnosis with Low Red Blood Cell Count",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the patient's diagnosis for those who has lower red blood blood cell? State their ID and age.",
+        "data": [
+            [
+                "12345",
+                "62",
+                "Anemia",
+                "3.8 million/mcL"
+            ],
+            [
+                "67890",
+                "48",
+                "Iron Deficiency",
+                "4.0 million/mcL"
+            ],
+            [
+                "24680",
+                "75",
+                "Chronic Kidney Disease",
+                "3.5 million/mcL"
+            ],
+            [
+                "13579",
+                "55",
+                "Vitamin B12 Deficiency",
+                "3.9 million/mcL"
+            ],
+            [
+                "98765",
+                "39",
+                "Thalassemia Minor",
+                "4.1 million/mcL"
+            ]
+        ]
+    }
+}

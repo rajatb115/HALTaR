@@ -1,0 +1,39 @@
+{
+    "table-1319-1319": {
+        "title": [
+            "Event Name",
+            "Attendance"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Student Club Event Attendance",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the event that has the highest attendance of the students from the Student_Club?",
+        "data": [
+            [
+                "Debate Competition",
+                "75"
+            ],
+            [
+                "Charity Gala",
+                "120"
+            ],
+            [
+                "Science Fair",
+                "90"
+            ],
+            [
+                "Movie Night",
+                "60"
+            ],
+            [
+                "Sports Day",
+                "150"
+            ]
+        ]
+    }
+}

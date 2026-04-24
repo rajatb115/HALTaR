@@ -1,0 +1,69 @@
+{
+    "table-1409-1409": {
+        "title": [
+            "Expense Category",
+            "Date",
+            "Amount (USD)",
+            "Payment Method",
+            "Description"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total cost spent for Parking in the list.",
+        "data": [
+            [
+                "Parking",
+                "2023-10-26",
+                "15.00",
+                "Credit Card",
+                "Downtown garage parking"
+            ],
+            [
+                "Fuel",
+                "2023-10-25",
+                "45.50",
+                "Debit Card",
+                "Gas station refill"
+            ],
+            [
+                "Parking",
+                "2023-10-24",
+                "12.75",
+                "Mobile App",
+                "Airport long-term parking"
+            ],
+            [
+                "Meals",
+                "2023-10-23",
+                "28.99",
+                "Credit Card",
+                "Lunch meeting"
+            ],
+            [
+                "Parking",
+                "2023-10-22",
+                "8.00",
+                "Cash",
+                "Street meter parking"
+            ],
+            [
+                "Tolls",
+                "2023-10-21",
+                "6.50",
+                "EZ-Pass",
+                "Highway toll"
+            ],
+            [
+                "Parking",
+                "2023-10-20",
+                "20.00",
+                "Credit Card",
+                "Event venue parking"
+            ]
+        ]
+    }
+}

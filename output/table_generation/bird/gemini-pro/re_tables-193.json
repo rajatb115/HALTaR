@@ -1,0 +1,43 @@
+{
+    "table-193-193": {
+        "title": [
+            "Loan Status",
+            "Statement Frequency",
+            "Average Loan Amount"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Loan Contract Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average amount of loan which are still on running contract with statement issuance after each transaction?",
+        "data": [
+            [
+                "Running",
+                "Per Transaction",
+                "$15,000"
+            ],
+            [
+                "Completed",
+                "Monthly",
+                "$10,000"
+            ],
+            [
+                "Running",
+                "Monthly",
+                "$20,000"
+            ],
+            [
+                "Defaulted",
+                "Monthly",
+                "$5,000"
+            ],
+            [
+                "Running",
+                "Quarterly",
+                "$25,000"
+            ]
+        ]
+    }
+}

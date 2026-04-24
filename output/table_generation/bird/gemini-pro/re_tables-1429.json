@@ -1,0 +1,43 @@
+{
+    "table-1429-1429": {
+        "title": [
+            "City",
+            "State",
+            "Department"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Engineering Department Member Locations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the city and state of members enrolled under electrical and computer engineering department.",
+        "data": [
+            [
+                "Austin",
+                "TX",
+                "Electrical Engineering"
+            ],
+            [
+                "Boston",
+                "MA",
+                "Computer Engineering"
+            ],
+            [
+                "Chicago",
+                "IL",
+                "Electrical Engineering"
+            ],
+            [
+                "Seattle",
+                "WA",
+                "Computer Engineering"
+            ],
+            [
+                "San Diego",
+                "CA",
+                "Electrical and Computer Engineering"
+            ]
+        ]
+    }
+}

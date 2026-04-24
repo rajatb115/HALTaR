@@ -1,0 +1,67 @@
+{
+    "table-620-620": {
+        "title": [
+            "Badge ID",
+            "Badge Name",
+            "Adult Count",
+            "Region",
+            "Verification Status",
+            "Last Updated",
+            "Source System"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many adults who obtained the badge Supporter?",
+        "data": [
+            [
+                "BADG-SUPP-004",
+                "Supporter",
+                "42",
+                "North America",
+                "Verified",
+                "7/16/2024",
+                "CRM_Main"
+            ],
+            [
+                "BADG-Supp-012",
+                "Support",
+                "38",
+                "Europe",
+                "Pending Review",
+                "8/1/24",
+                ""
+            ],
+            [
+                "BADGSUPP_009",
+                "Support Member",
+                "51",
+                "Asia Pacific",
+                "Confirmed",
+                "6/30/23",
+                ""
+            ],
+            [
+                "SUPP_ADULT_05",
+                "Support Advocate",
+                "0",
+                "South America",
+                "N/A",
+                "9/12/22",
+                ""
+            ],
+            [
+                "SUPPORTER_LVL1",
+                "Level 1 Supporter",
+                "15",
+                "Africa",
+                "Validated",
+                "Jan 24, 23",
+                ""
+            ]
+        ]
+    }
+}

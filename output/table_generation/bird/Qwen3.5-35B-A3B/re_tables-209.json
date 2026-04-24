@@ -1,0 +1,61 @@
+{
+    "table-209-209": {
+        "title": [
+            "Atom Symbol",
+            "Element Name",
+            "Hydrogen Count",
+            "Label Category",
+            "Frequency Rank",
+            "Total Instances"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which type of label is the most numerous in atoms with hydrogen?",
+        "data": [
+            [
+                "H",
+                "Hydrogen",
+                "4",
+                "Covalent Bond",
+                "High",
+                "67890"
+            ],
+            [
+                "O",
+                "Oxygen",
+                "3",
+                "Polar Group",
+                "Medium",
+                "54321"
+            ],
+            [
+                "C",
+                "Carbon",
+                "8",
+                "Alkyl Chain",
+                "Very High",
+                ""
+            ],
+            [
+                "N",
+                "Nitrogen",
+                "7",
+                "Amine Group",
+                "Low",
+                "9876"
+            ],
+            [
+                "S",
+                "Sulfur",
+                "0",
+                "Thiol Linker",
+                "N/A",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-1137-1137": {
+        "title": [
+            "Player Name",
+            "Preferred Foot",
+            "Potential Crossing Score",
+            "Attacking Style"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Player Crossing Ability Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many players had the highest potential score for crossing that preferred to use their left foots while attacking?",
+        "data": [
+            [
+                "Player A",
+                "Left",
+                "92",
+                "Wing Play"
+            ],
+            [
+                "Player B",
+                "Left",
+                "90",
+                "Cross Specialist"
+            ],
+            [
+                "Player C",
+                "Left",
+                "88",
+                "Balanced"
+            ],
+            [
+                "Player D",
+                "Left",
+                "87",
+                "Wing Play"
+            ],
+            [
+                "Player E",
+                "Left",
+                "85",
+                "Cross Specialist"
+            ]
+        ]
+    }
+}

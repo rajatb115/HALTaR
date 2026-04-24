@@ -1,0 +1,39 @@
+{
+    "table-249-249": {
+        "title": [
+            "Country Code",
+            "Player Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Player Country Code Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the number of distinct country codes of all players.",
+        "data": [
+            [
+                "US",
+                "1200"
+            ],
+            [
+                "CA",
+                "850"
+            ],
+            [
+                "UK",
+                "700"
+            ],
+            [
+                "DE",
+                "600"
+            ],
+            [
+                "FR",
+                "550"
+            ]
+        ]
+    }
+}

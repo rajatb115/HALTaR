@@ -1,0 +1,77 @@
+{
+    "table-307-307": {
+        "title": [
+            "Molecule Formula",
+            "Molecular Name",
+            "Triple Bond Count",
+            "Elements Present",
+            "Bond Length (\u00c5)",
+            "Stability Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which molecules have triple bonds and list all the elements they contain.",
+        "data": [
+            [
+                "$C_2H_2$",
+                "Acetylene",
+                "1",
+                "Carbon; Hydrogen",
+                "1.06",
+                "Highly Reactive"
+            ],
+            [
+                "$HCN$",
+                "Hydrogen Cyanide",
+                "1",
+                "Carbon; Nitrogen",
+                "1.74",
+                "Toxic Gas"
+            ],
+            [
+                "$CO$",
+                "Carbon Monoxide",
+                "1",
+                "Carbon; Oxygen",
+                "1.13",
+                "Flammable"
+            ],
+            [
+                "$N_2O_4$",
+                "Dinitrogen Tetroxide",
+                "0",
+                "Nitrogen; Oxygen",
+                "",
+                "Unstable Dimer"
+            ],
+            [
+                "$C_3H_4$",
+                "Propyne",
+                "1",
+                "Carbon; Hydrogen",
+                "1.06",
+                "Stable Liquid"
+            ],
+            [
+                "$C_6H_6$",
+                "Benzene",
+                "2",
+                "Carbon; Nitrogen",
+                "1.16",
+                "Corrosive Vapor"
+            ],
+            [
+                "$Fe(CO)_5$",
+                "Iron Pentacarbonyl",
+                "5",
+                "Iron; Carbon; Oxygen",
+                "~1.13",
+                "Volatile Metal Carbonyl"
+            ]
+        ]
+    }
+}

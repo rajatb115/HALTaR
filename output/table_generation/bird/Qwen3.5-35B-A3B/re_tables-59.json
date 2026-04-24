@@ -1,0 +1,55 @@
+{
+    "table-59-59": {
+        "title": [
+            "School Name",
+            "Zip Code",
+            "Phone Number",
+            "Extension",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the phone number and extension number for the school with the zip code 95203-3704? Indicate the school's name.",
+        "data": [
+            [
+                "Lincoln Elementary School",
+                "94601-1234",
+                "510-555-0101",
+                "102",
+                "Active"
+            ],
+            [
+                "Washington Middle School",
+                "95110",
+                "408-522-3344",
+                "215",
+                "Active"
+            ],
+            [
+                "Jefferson High School",
+                "95035",
+                "831-567-8900",
+                "301",
+                "Inactive"
+            ],
+            [
+                "Roosevelt Academy",
+                "93901",
+                "650-222-4455",
+                "410",
+                "Pending"
+            ],
+            [
+                "Madison Charter School",
+                "92103",
+                "760-345-6789",
+                "505",
+                "Active"
+            ]
+        ]
+    }
+}

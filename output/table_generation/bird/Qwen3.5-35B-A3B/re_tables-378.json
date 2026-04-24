@@ -1,0 +1,58 @@
+{
+    "table-378-378": {
+        "title": [
+            "Card ID",
+            "Original Type",
+            "Subtype",
+            "Count",
+            "Rarity",
+            "Set Code",
+            "Release Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards with original type of \"Summon - Angel\" have subtype other than \"Angel\"?",
+        "data": [
+            [
+                "CARD_0042",
+                "Summon - Angel",
+                "Seraphim",
+                "3",
+                "Rare",
+                "ANGL-SET",
+                "06/15/2018"
+            ],
+            [
+                "CARD_A7B9",
+                "Summoning Ritual",
+                "Celestial",
+                "5",
+                "Uncommon",
+                "RITUAL-X",
+                "09/22/2109"
+            ],
+            [
+                "CARD_C3D1",
+                "Divine Invocation",
+                "Archangel",
+                "7",
+                "Mythic",
+                "DIVINE-V2",
+                "04/01/2400"
+            ],
+            [
+                "CARD_E5F2",
+                "Holy Summons",
+                "Winged One",
+                "6",
+                "Common",
+                "HOLY-ZZ",
+                "08/08/2300"
+            ]
+        ]
+    }
+}

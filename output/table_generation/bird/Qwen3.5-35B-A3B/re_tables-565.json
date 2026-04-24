@@ -1,0 +1,29 @@
+{
+    "table-565-565": {
+        "title": [
+            "Post ID",
+            "Parent ID",
+            "Comment Text",
+            "Author",
+            "Timestamp",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the only one comment text of the post with parent id 107829.",
+        "data": [
+            [
+                "14562",
+                "99012",
+                "This is very helpful! Thanks for sharing.",
+                "user_alex",
+                "09/12/2023 15:30",
+                "Approved"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-1001-1001": {
+        "title": [
+            "Racetrack Name",
+            "City",
+            "State",
+            "Country",
+            "Most Recent Race Date",
+            "Track Surface",
+            "Race Distance",
+            "Miles per Hour Avg Speed"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which racetrack hosted the most recent race? Indicate the full location.",
+        "data": [
+            [
+                "Churchill Downs",
+                "Louisville",
+                "Kentucky",
+                "United States",
+                "May 4, 26",
+                "Dirt",
+                "1 Mile",
+                "37.5 mph"
+            ],
+            [
+                "Santa Anita Park",
+                "Arcadia",
+                "California",
+                "United states",
+                "April 28, 30",
+                "Turf",
+                "1 1/8 Miles",
+                "35.2 mph"
+            ]
+        ]
+    }
+}

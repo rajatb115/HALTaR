@@ -1,0 +1,83 @@
+{
+    "table-869-869": {
+        "title": [
+            "Event Name",
+            "Location City",
+            "Country",
+            "Latitude",
+            "Longitude",
+            "Track Status",
+            "First Held",
+            "Last Held"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Where is Malaysian Grand Prix held? Give the location coordinates.",
+        "data": [
+            [
+                "Malaysian Grand Prix",
+                "Kuala Lumpur",
+                "Malaysia",
+                "3.1476",
+                "99.7503",
+                "Active",
+                "1999",
+                "2017"
+            ],
+            [
+                "Sepang International Circuit",
+                "Sepang",
+                "Malaysia",
+                "2.7608",
+                "101.7012",
+                "Historic",
+                "1999",
+                "2017"
+            ],
+            [
+                "Kuala Lumpur Street Circuit",
+                "Petaling Jaya",
+                "Malaysia",
+                "3.1476",
+                "101.6953",
+                "Proposed",
+                "2020",
+                ""
+            ],
+            [
+                "Putrajaya E-Prix Site",
+                "Putrajaya",
+                "Malaysia",
+                "2.9234",
+                "101.7012",
+                "Inactive",
+                "",
+                ""
+            ],
+            [
+                "Bukit Jalil Park Layout",
+                "Bukit Jalil",
+                "Malaysia",
+                "3.0102",
+                "101.6500",
+                "Cancelled",
+                "",
+                ""
+            ],
+            [
+                "Johor Bahru Temporary Track",
+                "Johor Bahru",
+                "Malaysia",
+                "1.4655",
+                "103.7500",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

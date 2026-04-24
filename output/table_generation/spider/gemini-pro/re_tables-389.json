@@ -1,0 +1,49 @@
+{
+    "table-389-389": {
+        "title": [
+            "Channel Name",
+            "Package Name",
+            "Price",
+            "HD Available"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "TV Channel Package Options",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the package options of all tv channels that are not playing any cartoons directed by Ben Jones?",
+        "data": [
+            [
+                "Action Zone",
+                "Gold",
+                "$29.99",
+                "Yes"
+            ],
+            [
+                "Comedy Central",
+                "Silver",
+                "$19.99",
+                "Yes"
+            ],
+            [
+                "Discovery",
+                "Basic",
+                "$9.99",
+                "No"
+            ],
+            [
+                "Food Network",
+                "Gold",
+                "$29.99",
+                "Yes"
+            ],
+            [
+                "History Channel",
+                "Silver",
+                "$19.99",
+                "Yes"
+            ]
+        ]
+    }
+}

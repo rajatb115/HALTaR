@@ -1,0 +1,76 @@
+{
+    "table-703-703": {
+        "title": [
+            "Post ID",
+            "Title",
+            "Score",
+            "Author",
+            "Created Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts have a score less than 20?",
+        "data": [
+            [
+                "P101",
+                "Beginner's Guide to SQL",
+                "15",
+                "user_analyst",
+                "2023-01-15"
+            ],
+            [
+                "P102",
+                "Troubleshooting Python Error",
+                "8",
+                "dev_coder",
+                "2023-02-20"
+            ],
+            [
+                "P103",
+                "Best Practices for Data Viz",
+                "45",
+                "viz_expert",
+                "2023-03-10"
+            ],
+            [
+                "P104",
+                "Understanding SQL Joins",
+                "12",
+                "sql_master",
+                "2023-04-05"
+            ],
+            [
+                "P105",
+                "Machine Learning Basics",
+                "30",
+                "ai_enthusiast",
+                "2023-05-12"
+            ],
+            [
+                "P106",
+                "Data Cleaning Tips",
+                "19",
+                "data_janitor",
+                "2023-06-01"
+            ],
+            [
+                "P107",
+                "Advanced Pandas Techniques",
+                "22",
+                "python_pro",
+                "2023-07-18"
+            ],
+            [
+                "P108",
+                "Introduction to Cloud Data",
+                "7",
+                "cloud_newbie",
+                "2023-08-25"
+            ]
+        ]
+    }
+}

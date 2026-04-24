@@ -1,0 +1,45 @@
+{
+    "table-173-173": {
+        "title": [
+            "Template Name",
+            "Document Count",
+            "Percentage of Total"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Document Template Usage Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of different templates used for documents.",
+        "data": [
+            [
+                "Report Template",
+                "125",
+                "35.2%"
+            ],
+            [
+                "Memo Template",
+                "80",
+                "22.5%"
+            ],
+            [
+                "Letter Template",
+                "75",
+                "21.1%"
+            ],
+            [
+                "Proposal Template",
+                "45",
+                "12.7%"
+            ],
+            [
+                "Form Template",
+                "20",
+                "5.6%"
+            ]
+        ]
+    }
+}

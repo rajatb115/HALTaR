@@ -1,0 +1,40 @@
+{
+    "table-980-980": {
+        "title": [
+            "Race Number",
+            "Number of Finishers"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Race Finisher Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What race number has the most finishers?",
+        "data": [
+            [
+                "101",
+                "523"
+            ],
+            [
+                "234",
+                "487"
+            ],
+            [
+                "89",
+                "455"
+            ],
+            [
+                "156",
+                "422"
+            ],
+            [
+                "32",
+                "410"
+            ]
+        ]
+    }
+}

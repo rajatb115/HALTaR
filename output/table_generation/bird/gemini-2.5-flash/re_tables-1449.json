@@ -1,0 +1,53 @@
+{
+    "table-1449-1449": {
+        "title": [
+            "Event Name",
+            "Event Date",
+            "Pizza Expense"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name and date of events with expenses for pizza that were more than fifty dollars but less than a hundred dollars.",
+        "data": [
+            [
+                "Team Building Workshop",
+                "2023-10-26",
+                "$75.50"
+            ],
+            [
+                "Q3 Project Review",
+                "2023-09-15",
+                "$62.00"
+            ],
+            [
+                "Marketing Brainstorm",
+                "2023-11-03",
+                "$88.75"
+            ],
+            [
+                "Client Appreciation Lunch",
+                "2023-08-20",
+                "$91.25"
+            ],
+            [
+                "Developer Meetup",
+                "2023-12-01",
+                "$55.99"
+            ],
+            [
+                "Holiday Planning Session",
+                "2023-10-10",
+                "$79.00"
+            ],
+            [
+                "New Hire Orientation",
+                "2023-09-28",
+                "$68.50"
+            ]
+        ]
+    }
+}

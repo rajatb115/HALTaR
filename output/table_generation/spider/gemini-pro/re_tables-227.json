@@ -1,0 +1,43 @@
+{
+    "table-227-227": {
+        "title": [
+            "Teacher Name",
+            "Course Name",
+            "Arranged?"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Teachers and Course Arrangement Status",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the teachers whose courses have not been arranged?",
+        "data": [
+            [
+                "Mr. Smith",
+                "Algebra I",
+                "No"
+            ],
+            [
+                "Ms. Jones",
+                "Biology 101",
+                "No"
+            ],
+            [
+                "Mr. Brown",
+                "Chemistry 201",
+                "Yes"
+            ],
+            [
+                "Ms. Davis",
+                "English Literature",
+                "No"
+            ],
+            [
+                "Mr. Wilson",
+                "Physics I",
+                "Yes"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-1531-1531": {
+        "title": [
+            "Product Name",
+            "Sales Rank"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Top Selling Products",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which are the top five best selling products? Please state the full name of them.",
+        "data": [
+            [
+                "Wireless Noise Cancelling Headphones",
+                "1"
+            ],
+            [
+                "Smart Home Security System",
+                "2"
+            ],
+            [
+                "Portable Bluetooth Speaker",
+                "3"
+            ],
+            [
+                "Ergonomic Office Chair",
+                "4"
+            ],
+            [
+                "4K Ultra HD Smart Television",
+                "5"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1339-1339": {
+        "title": [
+            "Expense ID",
+            "Item Description",
+            "Amount ($)",
+            "Status",
+            "Approved By",
+            "Date Recorded"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Was each expense in October Meeting on October 8, 2019 approved?",
+        "data": [
+            [
+                "EXP-1004",
+                "Conference Room Rental",
+                "450.00",
+                "Approved",
+                "Sarah Jenkins",
+                "07/26/2020"
+            ],
+            [
+                "EXP-1102",
+                "Catering Services",
+                "825.50",
+                "Pending Review",
+                "N/A",
+                "07/30/2020"
+            ],
+            [
+                "EXP-1155",
+                "Audio Visual Equipment",
+                "600.25",
+                "Rejected",
+                "Michael Ross",
+                "07/30/2022"
+            ],
+            [
+                "EXP-1203",
+                "Travel Per Diem",
+                "500.00",
+                "Approved",
+                "Sarah Jenkins",
+                "08/01/2023"
+            ],
+            [
+                "EXP-1301",
+                "Printing Materials",
+                "125.75",
+                "Pending Review",
+                "NA",
+                "08/02/2023"
+            ],
+            [
+                "EXP-1402",
+                "Transportation Fees",
+                "350.00",
+                "",
+                "Michael Ross",
+                "07/29/2022"
+            ],
+            [
+                "EXP-1503",
+                "Venue Deposit",
+                "1000.00",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

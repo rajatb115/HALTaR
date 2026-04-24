@@ -1,0 +1,76 @@
+{
+    "table-132-132": {
+        "title": [
+            "Flight Number",
+            "Origin",
+            "Destination",
+            "Departure Time",
+            "Arrival Time",
+            "Aircraft Type",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are flight numbers of Airline \"United Airlines\"?",
+        "data": [
+            [
+                "UA123",
+                "ORD",
+                "LAX",
+                "08:00 AM",
+                "10:30 AM",
+                "Boeing 737-900",
+                "On Time"
+            ],
+            [
+                "UA456",
+                "SFO",
+                "EWR",
+                "09:15 AM",
+                "05:30 PM",
+                "Boeing 777-200",
+                "On Time"
+            ],
+            [
+                "UA789",
+                "DEN",
+                "IAH",
+                "11:00 AM",
+                "02:15 PM",
+                "Airbus A320",
+                "Delayed"
+            ],
+            [
+                "UA101",
+                "IAD",
+                "MCO",
+                "01:45 PM",
+                "04:30 PM",
+                "Boeing 757-300",
+                "On Time"
+            ],
+            [
+                "UA202",
+                "LAX",
+                "HNL",
+                "03:00 PM",
+                "06:45 PM",
+                "Boeing 787-9",
+                "On Time"
+            ],
+            [
+                "UA303",
+                "EWR",
+                "LHR",
+                "07:00 PM",
+                "07:00 AM",
+                "Boeing 767-300",
+                "On Time"
+            ]
+        ]
+    }
+}

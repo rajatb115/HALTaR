@@ -1,0 +1,67 @@
+{
+    "table-1005-1005": {
+        "title": [
+            "Racer Name",
+            "Birth Year",
+            "Total Career Wins",
+            "Nationality"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many wins was achieved by the oldest racer? Indicate his/her full name.",
+        "data": [
+            [
+                "Max Verstappen",
+                "1997",
+                "59",
+                "Dutch"
+            ],
+            [
+                "Lewis Hamilton",
+                "1985",
+                "103",
+                "British"
+            ],
+            [
+                "Fernando Alonso",
+                "1981",
+                "32",
+                "Spanish"
+            ],
+            [
+                "Charles Leclerc",
+                "1997",
+                "5",
+                "Mon\u00e9gasque"
+            ],
+            [
+                "Kimi R\u00e4ikk\u00f6nen",
+                "1979",
+                "21",
+                "Finnish"
+            ],
+            [
+                "Sebastian Vettel",
+                "1987",
+                "53",
+                "German"
+            ],
+            [
+                "Juan Manuel Fangio",
+                "1911",
+                "24",
+                "Argentinian"
+            ],
+            [
+                "Michael Schumacher",
+                "1969",
+                "91",
+                "German"
+            ]
+        ]
+    }
+}

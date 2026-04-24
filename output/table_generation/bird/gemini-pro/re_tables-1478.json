@@ -1,0 +1,40 @@
+{
+    "table-1478-1478": {
+        "title": [
+            "Year",
+            "Total Gas Use (EUR)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Highest Gas Consumption by Year (EUR)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which year recorded the most gas use paid in EUR?",
+        "data": [
+            [
+                "2018",
+                "15,000,000"
+            ],
+            [
+                "2019",
+                "16,500,000"
+            ],
+            [
+                "2020",
+                "14,000,000"
+            ],
+            [
+                "2021",
+                "17,000,000"
+            ],
+            [
+                "2022",
+                "18,500,000"
+            ]
+        ]
+    }
+}

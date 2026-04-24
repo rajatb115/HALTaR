@@ -1,0 +1,49 @@
+{
+    "table-1414-1414": {
+        "title": [
+            "Member ID",
+            "Total Spent ($)",
+            "Zip Code",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Mention the zip code of member who incurred less than 50USD.",
+        "data": [
+            [
+                "M1042",
+                "45.50",
+                "90210",
+                "Active"
+            ],
+            [
+                "M1087",
+                "32.00",
+                "90006",
+                "Active"
+            ],
+            [
+                "M2193",
+                "48.75",
+                "60614",
+                "Inactive"
+            ],
+            [
+                "m3005",
+                "12.99",
+                "33101",
+                "Pending"
+            ],
+            [
+                "m4120",
+                "29.55",
+                "94102",
+                "Active"
+            ]
+        ]
+    }
+}

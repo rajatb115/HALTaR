@@ -1,0 +1,93 @@
+{
+    "table-620-620": {
+        "title": [
+            "Dog ID",
+            "Breed",
+            "Age in Years",
+            "Weight kg",
+            "Owner Status",
+            "Last Checkup Date",
+            "Vaccination Status",
+            "Health Score"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average age of all the dogs?",
+        "data": [
+            [
+                "D0042",
+                "Golden Retriever",
+                "7",
+                "32.5",
+                "Active",
+                "06/15/2023",
+                "Up-to-date",
+                "92"
+            ],
+            [
+                "D1109",
+                "Beagle",
+                "4",
+                "8.2",
+                "Active - Pending Renewal",
+                "5 months ago",
+                "Due Soon",
+                "65"
+            ],
+            [
+                "P0033",
+                "German Shepherd",
+                "",
+                "N/A",
+                "Inactive",
+                "Unknown",
+                "Expired",
+                ""
+            ],
+            [
+                "M0088",
+                "Poodle",
+                "12",
+                "",
+                "Deceased",
+                "",
+                "N/a",
+                "N/A"
+            ],
+            [
+                "T0021",
+                "Bulldog",
+                "",
+                "",
+                "Lost",
+                "Missing Record",
+                "Unverified",
+                ""
+            ],
+            [
+                "R0055",
+                "Labrador Mix",
+                "",
+                "",
+                "Foster Care",
+                "Today",
+                "Partially Complete",
+                ""
+            ],
+            [
+                "S0099",
+                "Chihuahua",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

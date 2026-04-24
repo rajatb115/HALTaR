@@ -1,0 +1,51 @@
+{
+    "table-329-329": {
+        "title": [
+            "Transcript ID",
+            "Release Date",
+            "Course Name",
+            "Student Name"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Example Transcript Records",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the earliest date of a transcript release, and what details can you tell me?",
+        "data": [
+            [
+                "12345",
+                "2022-08-15",
+                "Introduction to Psychology",
+                "Alice Smith"
+            ],
+            [
+                "67890",
+                "2022-09-01",
+                "Calculus I",
+                "Bob Johnson"
+            ],
+            [
+                "24680",
+                "2022-09-15",
+                "Linear Algebra",
+                "Charlie Brown"
+            ],
+            [
+                "13579",
+                "2022-10-01",
+                "Data Structures",
+                "Diana Lee"
+            ],
+            [
+                "98765",
+                "2022-10-15",
+                "Discrete Mathematics",
+                "Eve Wilson"
+            ]
+        ]
+    }
+}

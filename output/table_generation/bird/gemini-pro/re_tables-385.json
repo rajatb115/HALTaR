@@ -1,0 +1,43 @@
+{
+    "table-385-385": {
+        "title": [
+            "Card Name",
+            "UUID",
+            "Language"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Legacy Card Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down the uuid for legacy cards and the foreign language of these cards.",
+        "data": [
+            [
+                "Dark Ritual",
+                "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+                "English"
+            ],
+            [
+                "Lightning Bolt",
+                "b2c3d4e5-f6a7-8901-2345-67890abcdef0",
+                "French"
+            ],
+            [
+                "Counterspell",
+                "c3d4e5f6-a7b8-9012-3456-7890abcdef01",
+                "German"
+            ],
+            [
+                "Swords to Plowshares",
+                "d4e5f6a7-b8c9-0123-4567-890abcdef012",
+                "Spanish"
+            ],
+            [
+                "Sol Ring",
+                "e5f6a7b8-c9d0-2345-6789-0abcdef01234",
+                "Italian"
+            ]
+        ]
+    }
+}

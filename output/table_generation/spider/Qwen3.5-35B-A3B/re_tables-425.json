@@ -1,0 +1,77 @@
+{
+    "table-425-425": {
+        "title": [
+            "Vote ID",
+            "State",
+            "Voter Name",
+            "Date Created",
+            "Status",
+            "Polling Station"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is last date created of votes from the state 'CA'?",
+        "data": [
+            [
+                "VOTE_1042",
+                "CA",
+                "Alice Johnson",
+                "7/15/2023",
+                "Active",
+                "Downtown Center"
+            ],
+            [
+                "VOTER_1105",
+                "CA - Los Angeles",
+                "Bob Smith",
+                "6/22/2023 14:30",
+                "Pending",
+                "Westside Hall"
+            ],
+            [
+                "CANDIDATE_VOTE",
+                "CA San Diego",
+                "Carol White",
+                "8/01/2024 09:15",
+                "Confirmed",
+                "North Beach Pavilion"
+            ],
+            [
+                "REGISTRATION_ID",
+                "CA Sacramento",
+                "David Brown",
+                "5/10/2021 11:00",
+                "Inactive",
+                "Capitol Office"
+            ],
+            [
+                "BALLOT_REF_99",
+                "CA Fresno",
+                "Emma Davis",
+                "9/30/2019 16:45",
+                "Archived",
+                "Central Library"
+            ],
+            [
+                "ELECTION_LOG_CA",
+                "CA Oakland",
+                "Frank Miller",
+                "4/12/2018 08:20",
+                "Verified",
+                "City Council Room"
+            ],
+            [
+                "FINAL_SUBMIT",
+                "CA Riverside",
+                "Grace Lee",
+                "3/05/2007 10:05",
+                "",
+                ""
+            ]
+        ]
+    }
+}

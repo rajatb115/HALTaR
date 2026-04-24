@@ -1,0 +1,45 @@
+{
+    "table-454-454": {
+        "title": [
+            "Card Name",
+            "Mana Cost",
+            "Converted Mana Cost (CMC)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Magic: The Gathering Card Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What's the unconverted mana cost of the card \"Ancestor's Chosen\"?",
+        "data": [
+            [
+                "Ancestor's Chosen",
+                "3WW",
+                "5"
+            ],
+            [
+                "Lightning Bolt",
+                "R",
+                "1"
+            ],
+            [
+                "Counterspell",
+                "UU",
+                "2"
+            ],
+            [
+                "Black Lotus",
+                "0",
+                "0"
+            ],
+            [
+                "Birds of Paradise",
+                "G",
+                "1"
+            ]
+        ]
+    }
+}

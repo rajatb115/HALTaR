@@ -1,0 +1,76 @@
+{
+    "table-894-894": {
+        "title": [
+            "Driver",
+            "Team",
+            "Points Scored",
+            "Position Finished",
+            "Grid Start",
+            "Fastest Lap Time",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the top 3 drivers and the points they scored in the 2017 Chinese Grand Prix.",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "Mercedes",
+                "46",
+                "3rd",
+                "N/A",
+                "0:00:14.23",
+                "Completed"
+            ],
+            [
+                "Sebastian Vettel",
+                "Ferrari",
+                "50",
+                "6th",
+                "N/D",
+                "9:01:02.45",
+                "DNF"
+            ],
+            [
+                "Daniel Ricciardo",
+                "Red Bull Racing",
+                "70",
+                "N/C",
+                "8th",
+                "000",
+                "Retired"
+            ],
+            [
+                "Max Verstappen",
+                "Red Bull Racing",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Kimi Raikkonen",
+                "Ferrari",
+                "100",
+                "2nd",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Valtteri Bottas",
+                "Mercedes",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

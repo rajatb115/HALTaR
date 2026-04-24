@@ -1,0 +1,61 @@
+{
+    "table-407-407": {
+        "title": [
+            "Card ID",
+            "Card Name",
+            "Card Type",
+            "Legal Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Lists by ID all Creature-type cards with legal status.",
+        "data": [
+            [
+                "1001",
+                "Forest Spirit",
+                "Creature",
+                "Legal"
+            ],
+            [
+                "1002",
+                "Mountain Giant",
+                "Creature",
+                "Legal"
+            ],
+            [
+                "1003",
+                "River Serpent",
+                "Creature",
+                "Legal"
+            ],
+            [
+                "1004",
+                "Desert Scavenger",
+                "Creature",
+                "Legal"
+            ],
+            [
+                "1005",
+                "Sky Dragon",
+                "Creature",
+                "Legal"
+            ],
+            [
+                "1006",
+                "Shadow Lurker",
+                "Creature",
+                "Banned"
+            ],
+            [
+                "1007",
+                "Ancient Guardian",
+                "Creature",
+                "Legal"
+            ]
+        ]
+    }
+}

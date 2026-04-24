@@ -1,0 +1,49 @@
+{
+    "table-1344-1344": {
+        "title": [
+            "Food",
+            "Budget",
+            "Spent",
+            "Remaining"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Food Budget Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "With the biggest budget for the \"Food\", what was the remaining of it?",
+        "data": [
+            [
+                "Fruits",
+                "$1000",
+                "$600",
+                "$400"
+            ],
+            [
+                "Vegetables",
+                "$1500",
+                "$1200",
+                "$300"
+            ],
+            [
+                "Meats",
+                "$2000",
+                "$1800",
+                "$200"
+            ],
+            [
+                "Grains",
+                "$800",
+                "$700",
+                "$100"
+            ],
+            [
+                "Dairy",
+                "$1200",
+                "$1000",
+                "$200"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "table-1136-1136": {
+        "title": [
+            "Player ID",
+            "Potential",
+            "Preferred Foot"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Football Players with Low Potential and Preferred Foot",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide top three football players' IDs who are among the lowest potential players and prefer to use the right foot when attacking.",
+        "data": [
+            [
+                "238745",
+                "65",
+                "Right"
+            ],
+            [
+                "192837",
+                "68",
+                "Right"
+            ],
+            [
+                "249573",
+                "70",
+                "Right"
+            ]
+        ]
+    }
+}

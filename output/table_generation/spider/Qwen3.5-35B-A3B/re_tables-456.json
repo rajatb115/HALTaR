@@ -1,0 +1,94 @@
+{
+    "table-456-456": {
+        "title": [
+            "District",
+            "Province",
+            "Population",
+            "Area_km\u00b2",
+            "Density_per_km\u00b2",
+            "Last_Census_Year",
+            "Growth_Rate_Percent"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total population of Gelderland district?",
+        "data": [
+            [
+                "Gelderland",
+                "Netherlands",
+                "746812",
+                "5136",
+                "35.2",
+                "4.1",
+                "0.8"
+            ],
+            [
+                "Utrecht",
+                "Netherlands",
+                "67000",
+                "999",
+                "8.1",
+                "N/A",
+                "-0.2"
+            ],
+            [
+                "Overijssel",
+                "Netherlands",
+                "11500",
+                "2400",
+                "1.5",
+                "",
+                ""
+            ],
+            [
+                "Flevoland",
+                "Netherlands",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Drenthe",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Limburg",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Noord-Holland",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Zuid-Holland",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

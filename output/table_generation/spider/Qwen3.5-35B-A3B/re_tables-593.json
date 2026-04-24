@@ -1,0 +1,61 @@
+{
+    "table-593-593": {
+        "title": [
+            "Treatment ID",
+            "Cost ($)",
+            "Description",
+            "Provider",
+            "Duration (min)",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the cost and treatment type description of each treatment?",
+        "data": [
+            [
+                "T-1042",
+                "750.00",
+                "Standard dental cleaning and fluoride application",
+                "Dr. Smith",
+                "60",
+                "Completed"
+            ],
+            [
+                "T-A891",
+                "320.50",
+                "Root canal therapy on upper molar",
+                "City Dental Clinic",
+                "90",
+                "In Progress"
+            ],
+            [
+                "B-2201",
+                "4500.75",
+                "Full body MRI scan for diagnostic imaging",
+                "MedScan Center",
+                "0",
+                "Scheduled"
+            ],
+            [
+                "S-5532",
+                "120000.00",
+                "Total hip replacement surgery procedure",
+                "Ortho Health Group",
+                "",
+                "Pending Insurance"
+            ],
+            [
+                "C-9910",
+                "85.00",
+                "Basic consultation and initial assessment",
+                "General Practice Inc",
+                "5",
+                "Completed"
+            ]
+        ]
+    }
+}

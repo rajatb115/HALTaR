@@ -1,0 +1,43 @@
+{
+    "table-1463-1463": {
+        "title": [
+            "Event Name",
+            "Budget Category",
+            "Budget Amount"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Event Budget Allocation",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What category was budgeted for the 'January Speaker' event and how much was the amount budgeted for that category?",
+        "data": [
+            [
+                "January Speaker",
+                "Marketing",
+                "$5,000"
+            ],
+            [
+                "February Workshop",
+                "Training",
+                "$2,500"
+            ],
+            [
+                "March Conference",
+                "Travel",
+                "$10,000"
+            ],
+            [
+                "April Networking",
+                "Social",
+                "$1,000"
+            ],
+            [
+                "May Fundraiser",
+                "Fundraising",
+                "$7,500"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1448-1448": {
+        "title": [
+            "Event Name",
+            "Location",
+            "Budgeted Amount",
+            "Actual Spend",
+            "Variance"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name and location of events that underspend its budget.",
+        "data": [
+            [
+                "Annual Tech Summit",
+                "San Francisco, CA",
+                "500000",
+                "450000",
+                "50000"
+            ],
+            [
+                "Global Marketing Conference",
+                "London, UK",
+                "300000",
+                "280000",
+                "20000"
+            ],
+            [
+                "Product Launch Gala",
+                "New York, NY",
+                "150000",
+                "135000",
+                "15000"
+            ],
+            [
+                "Developer Workshop Series",
+                "Berlin, Germany",
+                "80000",
+                "75000",
+                "5000"
+            ],
+            [
+                "Client Appreciation Dinner",
+                "Sydney, Australia",
+                "60000",
+                "58000",
+                "2000"
+            ],
+            [
+                "Internal Team Retreat",
+                "Austin, TX",
+                "40000",
+                "38500",
+                "1500"
+            ],
+            [
+                "Startup Pitch Day",
+                "Tel Aviv, Israel",
+                "100000",
+                "92000",
+                "8000"
+            ]
+        ]
+    }
+}

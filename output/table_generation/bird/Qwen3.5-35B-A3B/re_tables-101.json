@@ -1,0 +1,85 @@
+{
+    "table-101-101": {
+        "title": [
+            "Customer ID",
+            "Gender",
+            "Date of Birth",
+            "Current City",
+            "Account Status",
+            "Age at Opening",
+            "Years Resided"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the account opened, how many female customers who were born before 1950 and stayed in Slokolov?",
+        "data": [
+            [
+                "CUST_1042",
+                "Female",
+                "03/15/1948",
+                "Sokolov",
+                "Active",
+                "67",
+                "42"
+            ],
+            [
+                "CUST_2193",
+                "Female",
+                "11/22/1899",
+                "Sokalov",
+                "Inactive",
+                "82",
+                "35"
+            ],
+            [
+                "CULT_3301",
+                "Female",
+                "07/08/1492",
+                "Sokolov",
+                "Active",
+                "78",
+                "29"
+            ],
+            [
+                "CSTV_4452",
+                "Female",
+                "",
+                "Sokolow",
+                "Pending",
+                "N/A",
+                "12"
+            ],
+            [
+                "CUSM_5563",
+                "Female",
+                "-01-01/-1900",
+                "Sokolo",
+                "Closed",
+                "65",
+                "18"
+            ],
+            [
+                "CUSS_6674",
+                "Female",
+                "--/--/----",
+                "Soko lov",
+                "Dormant",
+                "71",
+                "50"
+            ],
+            [
+                "CTRS_7785",
+                "Female",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

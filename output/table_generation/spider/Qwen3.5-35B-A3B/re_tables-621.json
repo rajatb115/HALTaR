@@ -1,0 +1,73 @@
+{
+    "table-621-621": {
+        "title": [
+            "Dog ID",
+            "Breed",
+            "Age",
+            "Weight_kg",
+            "Owner_ID",
+            "Last_Visit_Date",
+            "Vaccinated_Status",
+            "Health_Score"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Compute the average age of all the dogs.",
+        "data": [
+            [
+                "D0042",
+                "Golden Retriever",
+                "7",
+                "32.5",
+                "O1012",
+                "6/15/2023",
+                "Yes",
+                "9.2"
+            ],
+            [
+                "D0158",
+                "Beagle",
+                "4",
+                "8.1",
+                "O2045",
+                "5/30/2323 No",
+                "0",
+                "N/A"
+            ],
+            [
+                "D3091",
+                "German Shepherd",
+                "12",
+                "35.0",
+                "O1088",
+                "4/12/24",
+                "Yes",
+                "8.5"
+            ],
+            [
+                "D0229",
+                "Poodle",
+                "?",
+                "N/A",
+                "O3011",
+                "3/22/\t20",
+                "No",
+                "7.0"
+            ],
+            [
+                "D1104",
+                "Bulldog",
+                "!",
+                "Bulldog",
+                "O4002",
+                "2/10/\t!",
+                "?",
+                "6.5"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-173-173": {
+        "title": [
+            "Account Number",
+            "Disposition Type",
+            "Disposition Count",
+            "Last Activity Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many owner and disponent dispositions are there from account number 1 to account number 10?",
+        "data": [
+            [
+                "1",
+                "Owner",
+                "15",
+                "2023-10-26"
+            ],
+            [
+                "1",
+                "Disponent",
+                "8",
+                "2023-10-25"
+            ],
+            [
+                "2",
+                "Owner",
+                "22",
+                "2023-10-27"
+            ],
+            [
+                "3",
+                "Disponent",
+                "12",
+                "2023-10-24"
+            ],
+            [
+                "4",
+                "Owner",
+                "18",
+                "2023-10-26"
+            ],
+            [
+                "5",
+                "Disponent",
+                "7",
+                "2023-10-23"
+            ],
+            [
+                "6",
+                "Owner",
+                "30",
+                "2023-10-27"
+            ]
+        ]
+    }
+}

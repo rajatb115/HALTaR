@@ -1,0 +1,77 @@
+{
+    "table-284-284": {
+        "title": [
+            "Compound_Name",
+            "Contains_Calcium",
+            "Carcinogenic_Status",
+            "IARC_Classification",
+            "Primary_Usage",
+            "CAS_Number"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify whether the chemical compound that contains Calcium is carcinogenic.",
+        "data": [
+            [
+                "Calcium Carbonate",
+                "Yes",
+                "Not Classified",
+                "Group 3",
+                "Antacid Supplement",
+                "471-34-1"
+            ],
+            [
+                "Calcic Acid Salts",
+                "No",
+                "Insufficient Data",
+                "N/A",
+                "Industrial Lubricant",
+                "N/C"
+            ],
+            [
+                "Calciferol Derivatives",
+                "No",
+                "Not Classified",
+                "Group 1",
+                "Vitamin D Synthesis",
+                "67-97-0"
+            ],
+            [
+                "Calcite Minerals",
+                "Yes",
+                "Benign",
+                "Non-Carcinogen",
+                "Construction Material",
+                "50-15-5"
+            ],
+            [
+                "Calcined Lime",
+                "Yes",
+                "Mild Irritant",
+                "Group X",
+                "Soil Stabilizer",
+                "75-05-8"
+            ],
+            [
+                "Calcineurin Inhibitors",
+                "No",
+                "Moderate Risk",
+                "Group IIb",
+                "Immunosuppressants",
+                "85-10-3"
+            ],
+            [
+                "Calcipotriene",
+                "No",
+                "Rare Cases",
+                "Group III",
+                "Psoriasis Treatment",
+                "90004-80-7"
+            ]
+        ]
+    }
+}

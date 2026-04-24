@@ -1,0 +1,45 @@
+{
+    "table-1251-1251": {
+        "title": [
+            "Patient ID",
+            "Proteinuria Level",
+            "SLE Diagnosis"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patients with Normal Proteinuria and SLE Diagnosis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which patient has a normal proteinuria level and is diagnosed with SLE? Please give his or her patient ID.",
+        "data": [
+            [
+                "12345",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "67890",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "24680",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "13579",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "98765",
+                "Normal",
+                "Yes"
+            ]
+        ]
+    }
+}

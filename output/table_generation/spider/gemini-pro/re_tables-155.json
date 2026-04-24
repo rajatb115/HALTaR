@@ -1,0 +1,55 @@
+{
+    "table-155-155": {
+        "title": [
+            "Employee Name",
+            "Department",
+            "Bonus Amount",
+            "Performance Rating",
+            "Hire Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Employee Bonus Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which employee received the biggest bonus? Give me the employee name.",
+        "data": [
+            [
+                "Alice Smith",
+                "Sales",
+                "$10,000",
+                "Excellent",
+                "2020-03-15"
+            ],
+            [
+                "Bob Johnson",
+                "Marketing",
+                "$5,000",
+                "Good",
+                "2021-07-01"
+            ],
+            [
+                "Charlie Brown",
+                "Engineering",
+                "$8,000",
+                "Very Good",
+                "2019-11-01"
+            ],
+            [
+                "Diana Lee",
+                "Finance",
+                "$7,000",
+                "Excellent",
+                "2022-01-10"
+            ],
+            [
+                "Emily Wilson",
+                "HR",
+                "$6,000",
+                "Good",
+                "2020-09-20"
+            ]
+        ]
+    }
+}

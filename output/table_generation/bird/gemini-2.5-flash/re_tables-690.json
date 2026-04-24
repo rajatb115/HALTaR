@@ -1,0 +1,69 @@
+{
+    "table-690-690": {
+        "title": [
+            "Post ID",
+            "Last Editor Display Name",
+            "Editor Location",
+            "Last Edit Date",
+            "Editor Role"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the display name and location of the user, who was the last to edit the post with ID 183.",
+        "data": [
+            [
+                "183",
+                "Alice Smith",
+                "New York",
+                "2023-10-26",
+                "Admin"
+            ],
+            [
+                "190",
+                "Bob Johnson",
+                "London",
+                "2023-10-25",
+                "Moderator"
+            ],
+            [
+                "175",
+                "Carol White",
+                "Paris",
+                "2023-10-26",
+                "Contributor"
+            ],
+            [
+                "201",
+                "David Green",
+                "Berlin",
+                "2023-10-24",
+                "Editor"
+            ],
+            [
+                "168",
+                "Emily Brown",
+                "Tokyo",
+                "2023-10-27",
+                "Admin"
+            ],
+            [
+                "192",
+                "Frank Black",
+                "Sydney",
+                "2023-10-25",
+                "Contributor"
+            ],
+            [
+                "188",
+                "Grace Lee",
+                "Toronto",
+                "2023-10-26",
+                "Moderator"
+            ]
+        ]
+    }
+}

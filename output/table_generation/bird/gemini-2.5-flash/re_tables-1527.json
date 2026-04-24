@@ -1,0 +1,85 @@
+{
+    "table-1527-1527": {
+        "title": [
+            "CustomerID",
+            "PaymentDate",
+            "PaymentAmount",
+            "Consumption_2012_Units",
+            "Consumption_2013_Units",
+            "Consumption_Decrease_Rate",
+            "ServiceType"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the customer who paid 634.8 in 2012/8/25, what was the consumption decrease rate from Year 2012 to 2013?",
+        "data": [
+            [
+                "CUST001",
+                "2012-08-25",
+                "634.80",
+                "1250",
+                "1100",
+                "12.0%",
+                "Energy"
+            ],
+            [
+                "CUST002",
+                "2012-07-15",
+                "450.20",
+                "900",
+                "850",
+                "5.6%",
+                "Data"
+            ],
+            [
+                "CUST003",
+                "2012-09-01",
+                "780.50",
+                "1500",
+                "1300",
+                "13.3%",
+                "Water"
+            ],
+            [
+                "CUST004",
+                "2013-01-10",
+                "320.00",
+                "600",
+                "620",
+                "-3.3%",
+                "Data"
+            ],
+            [
+                "CUST005",
+                "2012-06-20",
+                "910.15",
+                "1800",
+                "1650",
+                "8.3%",
+                "Energy"
+            ],
+            [
+                "CUST006",
+                "2012-10-05",
+                "550.00",
+                "1100",
+                "1050",
+                "4.5%",
+                "Water"
+            ],
+            [
+                "CUST007",
+                "2012-11-12",
+                "280.75",
+                "550",
+                "500",
+                "9.1%",
+                "Data"
+            ]
+        ]
+    }
+}

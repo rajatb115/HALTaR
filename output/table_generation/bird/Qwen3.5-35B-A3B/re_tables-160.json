@@ -1,0 +1,85 @@
+{
+    "table-160-160": {
+        "title": [
+            "Transaction ID",
+            "Client ID",
+            "Date",
+            "Amount",
+            "Currency",
+            "Status",
+            "Description"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the withdrawals in cash transactions that the client with the id 3356 makes.",
+        "data": [
+            [
+                "TXN_7741",
+                "3",
+                "01/15/2023",
+                "$500.00",
+                "USD",
+                "Completed",
+                "Cash Withdrawal at ATM Branch A"
+            ],
+            [
+                "TXT_7892",
+                "5",
+                "4/22/23",
+                "$1,205.50",
+                "USD",
+                "Completed",
+                "CashWithdrawalatATMBankB"
+            ],
+            [
+                "TXA_9011",
+                "-",
+                "6/10/24",
+                "$250.75",
+                "EUR",
+                "Pending",
+                "ManualCounterWithdrawal"
+            ],
+            [
+                "TXC_3345",
+                "-",
+                "-",
+                "$1000",
+                "GBP",
+                "Failed",
+                "SystemErrorAtBranchD"
+            ],
+            [
+                "TXE_1122",
+                "-",
+                "7/01//20",
+                "\u00a3300.",
+                "GBP",
+                "Cancelled",
+                "CustomerRequestReversal"
+            ],
+            [
+                "TXT_5566",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "TXF_8899",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

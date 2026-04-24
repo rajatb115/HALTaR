@@ -1,0 +1,45 @@
+{
+    "table-559-559": {
+        "title": [
+            "Employee ID",
+            "Name",
+            "Department"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Employee Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is Kyle's id?",
+        "data": [
+            [
+                "101",
+                "Alice",
+                "Sales"
+            ],
+            [
+                "102",
+                "Bob",
+                "Marketing"
+            ],
+            [
+                "103",
+                "Kyle",
+                "IT"
+            ],
+            [
+                "104",
+                "Sarah",
+                "HR"
+            ],
+            [
+                "105",
+                "David",
+                "Finance"
+            ]
+        ]
+    }
+}

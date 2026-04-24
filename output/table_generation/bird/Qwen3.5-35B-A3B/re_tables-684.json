@@ -1,0 +1,77 @@
+{
+    "table-684-684": {
+        "title": [
+            "Post ID",
+            "Owner Reputation",
+            "Year Posted",
+            "Category",
+            "Is High Repost",
+            "Percentage Contribution"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of posts whose owners had a reputation of over 1000 in 2011?",
+        "data": [
+            [
+                "P10452",
+                "3420",
+                "75%",
+                "Technology",
+                "Yes",
+                "68.2"
+            ],
+            [
+                "P10891",
+                "5102",
+                "N/A",
+                "Science",
+                "Yes",
+                "12.4"
+            ],
+            [
+                "P22301",
+                "1250",
+                "N/A",
+                "Lifestyle",
+                "Yes",
+                "8.1"
+            ],
+            [
+                "P33412",
+                "890",
+                "No",
+                "Sports",
+                "No",
+                "3.2"
+            ],
+            [
+                "P44503",
+                "2105",
+                "Yes",
+                "Gaming",
+                "Yes",
+                "5.9"
+            ],
+            [
+                "P55614",
+                "1500",
+                "Yes",
+                "Music",
+                "Yes",
+                "4.8"
+            ],
+            [
+                "P66725",
+                "950",
+                "No",
+                "Art",
+                "No",
+                "1.4"
+            ]
+        ]
+    }
+}

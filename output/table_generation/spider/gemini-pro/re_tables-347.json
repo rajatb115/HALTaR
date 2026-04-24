@@ -1,0 +1,43 @@
+{
+    "table-347-347": {
+        "title": [
+            "Cartoon Name",
+            "Director(s)",
+            "Air Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Animated Cartoon Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name and directors of all the cartoons that are ordered by air date?",
+        "data": [
+            [
+                "The Simpsons",
+                "Matt Groening",
+                "1989-12-17"
+            ],
+            [
+                "South Park",
+                "Trey Parker, Matt Stone",
+                "1997-08-13"
+            ],
+            [
+                "Family Guy",
+                "Seth MacFarlane",
+                "1999-01-31"
+            ],
+            [
+                "Avatar: The Last Airbender",
+                "Michael Dante DiMartino, Bryan Konietzko",
+                "2005-02-21"
+            ],
+            [
+                "Rick and Morty",
+                "Justin Roiland, Dan Harmon",
+                "2013-12-02"
+            ]
+        ]
+    }
+}

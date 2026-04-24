@@ -1,0 +1,77 @@
+{
+    "table-235-235": {
+        "title": [
+            "Molecule ID",
+            "Atom Index",
+            "Bond Count",
+            "Neighbor Atom IDs",
+            "Bond Types",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many bonds which involved atom 12 does molecule TR009 have?",
+        "data": [
+            [
+                "TR006",
+                "12",
+                "4",
+                "[7, 15, 22, 3]",
+                "Single/Double",
+                "Verified"
+            ],
+            [
+                "TR010",
+                "12",
+                "3",
+                "[8, 9, 4]",
+                "Triple/Single",
+                "Pending"
+            ],
+            [
+                "TR022",
+                "11",
+                "2",
+                "[1, 5]",
+                "Single",
+                "Confirmed"
+            ],
+            [
+                "MOL_99",
+                "13",
+                "4",
+                "[-, -, -]",
+                "Unknown",
+                "Error"
+            ],
+            [
+                "Sample_X",
+                "10",
+                "1",
+                "[12]",
+                "Coordinate",
+                "Draft"
+            ],
+            [
+                "Ref_Data",
+                "14",
+                "2",
+                "[]",
+                "None",
+                "Null"
+            ],
+            [
+                "Test_Case",
+                "15",
+                "3",
+                "[10, 8, N/A]",
+                "Mixed",
+                "Review"
+            ]
+        ]
+    }
+}

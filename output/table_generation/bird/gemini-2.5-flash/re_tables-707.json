@@ -1,0 +1,69 @@
+{
+    "table-707-707": {
+        "title": [
+            "Comment ID",
+            "Author",
+            "Comment Text",
+            "Timestamp",
+            "Likes"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the texts commented on the post about linear regression.",
+        "data": [
+            [
+                "C001",
+                "DataScientistX",
+                "Great explanation of OLS assumptions! What about regularization?",
+                "2023-10-26 10:15:30",
+                "45"
+            ],
+            [
+                "C002",
+                "ML_Beginner",
+                "I always confuse R-squared with adjusted R-squared. Can you clarify?",
+                "2023-10-26 11:05:10",
+                "28"
+            ],
+            [
+                "C003",
+                "StatsGuru",
+                "Excellent point on multicollinearity. VIF is crucial here.",
+                "2023-10-26 12:30:00",
+                "62"
+            ],
+            [
+                "C004",
+                "PythonCoder",
+                "Any good libraries for visualizing residuals in Python? Matplotlib?",
+                "2023-10-26 14:00:45",
+                "37"
+            ],
+            [
+                "C005",
+                "AnalystPro",
+                "How do you handle outliers effectively in a linear model?",
+                "2023-10-26 15:20:15",
+                "51"
+            ],
+            [
+                "C006",
+                "Student_DS",
+                "Is linear regression still relevant with deep learning models?",
+                "2023-10-26 16:45:00",
+                "33"
+            ],
+            [
+                "C007",
+                "Professor_A",
+                "Don't forget the importance of domain knowledge in feature selection.",
+                "2023-10-26 17:10:20",
+                "70"
+            ]
+        ]
+    }
+}

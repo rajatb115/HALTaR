@@ -1,0 +1,37 @@
+{
+    "table-238-238": {
+        "title": [
+            "Molecule ID",
+            "Carcinogenicity"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Molecule and Carcinogenicity Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which molecule does the atom TR001_10 belong to? Please state whether this molecule is carcinogenic or not.",
+        "data": [
+            [
+                "Mol1",
+                "Yes"
+            ],
+            [
+                "Mol2",
+                "No"
+            ],
+            [
+                "Mol3",
+                "Yes"
+            ],
+            [
+                "Mol4",
+                "No"
+            ],
+            [
+                "Mol5",
+                "Yes"
+            ]
+        ]
+    }
+}

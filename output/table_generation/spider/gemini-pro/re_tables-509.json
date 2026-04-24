@@ -1,0 +1,45 @@
+{
+    "table-509-509": {
+        "title": [
+            "Continent",
+            "Population (Millions)",
+            "Average Life Expectancy (Years)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Continent Demographics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the different continents and the total popuation and average life expectancy corresponding to each, for continents that have an average life expectancy less than 72?",
+        "data": [
+            [
+                "Africa",
+                "1400",
+                "65"
+            ],
+            [
+                "Asia",
+                "4700",
+                "71"
+            ],
+            [
+                "Antarctica",
+                "0.001",
+                "N/A"
+            ],
+            [
+                "Oceania",
+                "44",
+                "70"
+            ],
+            [
+                "South America",
+                "440",
+                "70"
+            ]
+        ]
+    }
+}

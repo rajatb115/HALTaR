@@ -1,0 +1,47 @@
+{
+    "table-567-567": {
+        "title": [
+            "Post ID",
+            "Owner User ID",
+            "Reputation"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "User Reputation Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the owner user of post No. 65041, what is his/her reputation points?",
+        "data": [
+            [
+                "65041",
+                "12345",
+                "1500"
+            ],
+            [
+                "65042",
+                "67890",
+                "2200"
+            ],
+            [
+                "65043",
+                "12345",
+                "1500"
+            ],
+            [
+                "65044",
+                "24680",
+                "800"
+            ],
+            [
+                "65045",
+                "98765",
+                "3100"
+            ]
+        ]
+    }
+}

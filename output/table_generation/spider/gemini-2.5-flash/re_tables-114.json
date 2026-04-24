@@ -1,0 +1,55 @@
+{
+    "table-114-114": {
+        "title": [
+            "Airport Code",
+            "Airport Name",
+            "City",
+            "State"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the airport code and name in the city of Anthony.",
+        "data": [
+            [
+                "ANY",
+                "Anthony Municipal Airport",
+                "Anthony",
+                "Kansas"
+            ],
+            [
+                "ANH",
+                "Anthony North Airfield",
+                "Anthony",
+                "Kansas"
+            ],
+            [
+                "ATX",
+                "Anthony County Airstrip",
+                "Anthony",
+                "Texas"
+            ],
+            [
+                "ANM",
+                "Anthony Valley Airpark",
+                "Anthony",
+                "New Mexico"
+            ],
+            [
+                "ANY2",
+                "Anthony Executive Airport",
+                "Anthony",
+                "Kansas"
+            ],
+            [
+                "ANP",
+                "Anthony Private Strip",
+                "Anthony",
+                "Florida"
+            ]
+        ]
+    }
+}

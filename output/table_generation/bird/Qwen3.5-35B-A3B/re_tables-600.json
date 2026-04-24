@@ -1,0 +1,76 @@
+{
+    "table-600-600": {
+        "title": [
+            "Post_ID",
+            "History_Type_ID",
+            "Comment_User_ID",
+            "Timestamp",
+            "Action_Taken",
+            "Status",
+            "User_Role"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the post history type IDs for post ID 3720 and how many unique users have commented on the post?",
+        "data": [
+            [
+                "3698",
+                "4012",
+                "U_8821",
+                "09/01/2023",
+                "Edit_Post",
+                "Active",
+                "Moderator"
+            ],
+            [
+                "3705",
+                "5021",
+                "U_9932",
+                "09/02/2023",
+                "Add_Comment",
+                "Active",
+                "User"
+            ],
+            [
+                "3689",
+                "3015",
+                "U_A1B2",
+                "9/3/23",
+                "Delete_Spam",
+                "Archived",
+                "Admin"
+            ],
+            [
+                "3712",
+                "4020",
+                "U_C3D4",
+                "9/4/2023",
+                "Edit_Title",
+                "Active",
+                "Moderator"
+            ],
+            [
+                "3730",
+                "5011",
+                "U_E5F6",
+                "9/5/2023",
+                "Flag_Content",
+                "Pending",
+                "User"
+            ],
+            [
+                "3500",
+                "6009",
+                "",
+                "8/30/22",
+                "System_Log",
+                "Closed",
+                "Bot"
+            ]
+        ]
+    }
+}

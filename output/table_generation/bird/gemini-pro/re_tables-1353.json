@@ -1,0 +1,45 @@
+{
+    "table-1353-1353": {
+        "title": [
+            "Major",
+            "T-Shirt Size",
+            "Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Club Member T-Shirt Sizes by Major",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the club members from \"Human Development and Family Studies\" major, how many of them wear large size t-shirt?",
+        "data": [
+            [
+                "Human Development and Family Studies",
+                "Small",
+                "3"
+            ],
+            [
+                "Human Development and Family Studies",
+                "Medium",
+                "7"
+            ],
+            [
+                "Human Development and Family Studies",
+                "Large",
+                "5"
+            ],
+            [
+                "Human Development and Family Studies",
+                "X-Large",
+                "2"
+            ],
+            [
+                "Human Development and Family Studies",
+                "XX-Large",
+                "1"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-995-995": {
+        "title": [
+            "Constructor Name",
+            "Nationality",
+            "Monaco GP Points (1980-2010)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which constructor scored most points from Monaco Grand Prix between 1980 and 2010? List the score, name and nationality of this team.",
+        "data": [
+            [
+                "McLaren",
+                "British",
+                "315"
+            ],
+            [
+                "Ferrari",
+                "Italian",
+                "280"
+            ],
+            [
+                "Williams",
+                "British",
+                "210"
+            ],
+            [
+                "Benetton",
+                "Italian",
+                "125"
+            ],
+            [
+                "Renault",
+                "French",
+                "90"
+            ],
+            [
+                "Brabham",
+                "British",
+                "65"
+            ],
+            [
+                "Tyrrell",
+                "British",
+                "40"
+            ]
+        ]
+    }
+}

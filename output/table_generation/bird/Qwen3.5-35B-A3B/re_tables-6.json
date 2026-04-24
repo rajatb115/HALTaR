@@ -1,0 +1,93 @@
+{
+    "table-6-6": {
+        "title": [
+            "School ID",
+            "School Name",
+            "Average Math Score",
+            "Virtual Status",
+            "Enrollment Count",
+            "State",
+            "Accredited",
+            "Founded Year"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many schools with an average score in Math under 400 in the SAT test are exclusively virtual?",
+        "data": [
+            [
+                "SCH_0042",
+                "Horizon Online Academy",
+                "385",
+                "Yes",
+                "450",
+                "California",
+                "True",
+                "976"
+            ],
+            [
+                "SCH_0118",
+                "Digital Frontier High",
+                "512",
+                "No",
+                "820",
+                "Texas",
+                "False",
+                "000"
+            ],
+            [
+                "Sch_0205",
+                "Cyber Valley Institute",
+                "623",
+                "No N/A",
+                "750 New York",
+                "True 2202",
+                "",
+                ""
+            ],
+            [
+                "sch_0331",
+                "NetStream Preparatory",
+                "",
+                "Yes 300 Florida",
+                "True N/A 2100",
+                "",
+                "",
+                ""
+            ],
+            [
+                "SCH 0449",
+                "Cloud Campus Charter",
+                "390",
+                "Yes   550 Illinois",
+                "True    2301",
+                "",
+                "",
+                ""
+            ],
+            [
+                "SCH _0510",
+                "Pixel Learning Center",
+                "N/A",
+                "No      290 Ohio",
+                "False        2405",
+                "",
+                "",
+                ""
+            ],
+            [
+                "SCH0622",
+                "E-Learn Elite School",
+                "-380",
+                "yes",
+                "None",
+                "Nevada",
+                "true",
+                ""
+            ]
+        ]
+    }
+}

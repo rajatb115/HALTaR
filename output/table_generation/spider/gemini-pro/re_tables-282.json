@@ -1,0 +1,43 @@
+{
+    "table-282-282": {
+        "title": [
+            "Battle Name",
+            "Date",
+            "Result"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "List of Battles",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name, date and result of each battle.",
+        "data": [
+            [
+                "Battle of A",
+                "2023-01-15",
+                "Victory"
+            ],
+            [
+                "Battle of B",
+                "2023-02-20",
+                "Defeat"
+            ],
+            [
+                "Battle of C",
+                "2023-03-10",
+                "Draw"
+            ],
+            [
+                "Battle of D",
+                "2023-04-05",
+                "Victory"
+            ],
+            [
+                "Battle of E",
+                "2023-05-12",
+                "Decisive Victory"
+            ]
+        ]
+    }
+}

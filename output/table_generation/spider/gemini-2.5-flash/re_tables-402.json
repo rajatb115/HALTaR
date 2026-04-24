@@ -1,0 +1,58 @@
+{
+    "table-402-402": {
+        "title": [
+            "Player Name",
+            "Total Earnings (USD)",
+            "Country"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of poker players whose earnings is higher than 300000?",
+        "data": [
+            [
+                "Daniel Negreanu",
+                "51800000",
+                "Canada"
+            ],
+            [
+                "Phil Ivey",
+                "40500000",
+                "USA"
+            ],
+            [
+                "Erik Seidel",
+                "45300000",
+                "USA"
+            ],
+            [
+                "Doyle Brunson",
+                "6100000",
+                "USA"
+            ],
+            [
+                "Vanessa Selbst",
+                "11900000",
+                "USA"
+            ],
+            [
+                "Fedor Holz",
+                "40200000",
+                "Germany"
+            ],
+            [
+                "Justin Bonomo",
+                "65600000",
+                "USA"
+            ],
+            [
+                "Stephen Chidwick",
+                "56000000",
+                "UK"
+            ]
+        ]
+    }
+}

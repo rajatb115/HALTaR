@@ -1,0 +1,41 @@
+{
+    "table-965-965": {
+        "title": [
+            "DriverID",
+            "Full_Name",
+            "Nationality",
+            "License_Type",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the code for drivers who have nationality in America.",
+        "data": [
+            [
+                "D1042",
+                "James Wilson",
+                "American",
+                "Class C",
+                "Active"
+            ],
+            [
+                "D2193",
+                "Sarah Miller",
+                "American",
+                "Commercial",
+                "Inactive"
+            ],
+            [
+                "D3056",
+                "Michael Brown",
+                "USA",
+                "Class D",
+                "Active"
+            ]
+        ]
+    }
+}

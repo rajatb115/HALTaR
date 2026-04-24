@@ -1,0 +1,53 @@
+{
+    "table-176-176": {
+        "title": [
+            "Template ID",
+            "Version Number",
+            "Template Type Code"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show template ids, version numbers, and template type codes for all templates.",
+        "data": [
+            [
+                "TPL-1042",
+                "v2.1.0",
+                "DOC_STANDARD"
+            ],
+            [
+                "TPL-TX77",
+                "v1.5.3",
+                "FORM_INVOICE"
+            ],
+            [
+                "TPL-MKTG",
+                "v3.0.1",
+                "EMAIL_CAMPAIGN"
+            ],
+            [
+                "TPL-LGLL",
+                "v4.2.0",
+                "LEGAL_CONTRACT"
+            ],
+            [
+                "TPL-DATA",
+                "v0.9.8",
+                "REPORT_CSV"
+            ],
+            [
+                "TPL-SYSLOG",
+                "v5.10.2",
+                "AUDIT_LOG"
+            ],
+            [
+                "TPL-CUSTON",
+                "v6.00",
+                "CUSTOMER_PORTAL"
+            ]
+        ]
+    }
+}

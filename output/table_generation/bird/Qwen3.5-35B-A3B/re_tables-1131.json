@@ -1,0 +1,62 @@
+{
+    "table-1131-1131": {
+        "title": [
+            "Team Short Name",
+            "Pass Completion Rate (%)",
+            "Chances Created",
+            "Safe Passing Strategy Used",
+            "League Season"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the short name of team who played safe while creating chance of passing?",
+        "data": [
+            [
+                "RMA",
+                "94.2",
+                "67",
+                "High Possession Retention",
+                "La Liga 23/24"
+            ],
+            [
+                "MCI",
+                "89.5",
+                "54",
+                "Controlled Build-up",
+                "Premier League 24/25"
+            ],
+            [
+                "RBL",
+                "78.3",
+                "42",
+                "Midfield Circulation",
+                "Bundesliga 22/23"
+            ],
+            [
+                "INT",
+                "3.1",
+                "N/A",
+                "Defensive Transition Focus",
+                "Serie A 21/22"
+            ],
+            [
+                "PSG",
+                "0.0",
+                "",
+                "Niche Tactical Approach",
+                "Ligue 1 25/26"
+            ],
+            [
+                "BAY",
+                "",
+                "",
+                "Long Ball Variation",
+                "Champions League QF"
+            ]
+        ]
+    }
+}

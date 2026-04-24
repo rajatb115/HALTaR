@@ -1,0 +1,76 @@
+{
+    "table-551-551": {
+        "title": [
+            "Post ID",
+            "Tag Excerpt Source",
+            "Most Popular Tag",
+            "Body Snippet",
+            "Author",
+            "Date Posted",
+            "View Count"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From which post is the most popular tag excerpted from? Please give the body of the post.",
+        "data": [
+            [
+                "P-4021",
+                "Python Basics Guide",
+                "#python",
+                "This guide covers fundamental concepts...",
+                "Alice Dev",
+                "06/15/2023",
+                "4520"
+            ],
+            [
+                "P-4105",
+                "React Component Patterns",
+                "#reactjs",
+                "Learn how to build reusable components...",
+                "Bob Frontend",
+                "7/22/23 10:30 AM",
+                "3890"
+            ],
+            [
+                "P-3998",
+                "Data Science Intro",
+                "#datascience",
+                "An overview of key libraries like pandas...",
+                "Charlie Data",
+                "05/10/24",
+                "2100"
+            ],
+            [
+                "-",
+                "Machine Learning Tips",
+                "#ml-algorithms",
+                "Understanding regression models in depth.",
+                "Diana AI",
+                "08/01/21",
+                "5600"
+            ],
+            [
+                "P-A112",
+                "Cloud Architecture Best Practices",
+                "#aws-cloud",
+                "Designing scalable systems on AWS infrastructure.",
+                "Evan Cloud",
+                "09/12/19",
+                "12050"
+            ],
+            [
+                "-P-B203",
+                "Mobile App Security",
+                "#ios-security",
+                "Securing",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-84-84": {
+        "title": [
+            "City",
+            "Number of Schools with K-8 Magnet Program",
+            "Number of Schools with Multiple Provision Types"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Schools with K-8 Magnet Programs by City",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of the schools that offers a magnet program serving a grade span of Kindergarten to 8th grade, how many offers Multiple Provision Types? List the number of cities that offers a Kindergarten to 8th grade span and indicate how many schools are there serving such grade span for each city.",
+        "data": [
+            [
+                "City A",
+                "5",
+                "2"
+            ],
+            [
+                "City B",
+                "3",
+                "1"
+            ],
+            [
+                "City C",
+                "7",
+                "3"
+            ],
+            [
+                "City D",
+                "2",
+                "0"
+            ],
+            [
+                "City E",
+                "4",
+                "2"
+            ]
+        ]
+    }
+}

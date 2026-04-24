@@ -1,0 +1,93 @@
+{
+    "table-209-209": {
+        "title": [
+            "Document_ID",
+            "Title",
+            "Contains_Brazil",
+            "Contains_Ireland",
+            "Status",
+            "Last_Modified",
+            "Author",
+            "Version"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the ids of documents that contain the paragraph text 'Brazil' and 'Ireland'?",
+        "data": [
+            [
+                "DOC_1042",
+                "Global Trade Report Q3",
+                "Yes",
+                "No",
+                "Active",
+                "7/15/2023",
+                "J. Smith",
+                "v2.1"
+            ],
+            [
+                "DOC_A89B",
+                "European Economic Survey",
+                "No",
+                "Yes",
+                "Draft",
+                "8/2/23",
+                "M. Jones",
+                "v1.0"
+            ],
+            [
+                "DOX_C3D1",
+                "South American Markets Review",
+                "Yes",
+                "Yes",
+                "Archived",
+                "6/30/22",
+                "R. Lee",
+                "v3.5"
+            ],
+            [
+                "REP_XY9Z",
+                "International Policy Briefs",
+                "Yes",
+                "",
+                "Pending",
+                "9/1/24",
+                "K. Brown",
+                "v0.9"
+            ],
+            [
+                "FILE_M2K4",
+                "Celtic & Iberian Relations",
+                "No",
+                "",
+                "Deleted",
+                "5/12/19",
+                "T. White",
+                "N/A"
+            ],
+            [
+                "TXT_P9Q1",
+                "Comparative Analysis of Nations",
+                "Yes",
+                "",
+                "Incomplete",
+                "4/4/21",
+                "S. Green",
+                "v4.2"
+            ],
+            [
+                "MIX_L5R8",
+                "Multi-National Case Studies",
+                "Yes &&",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-299-299": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Contains Hydrogen",
+            "Carcinogenic"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenic Molecules Containing Hydrogen",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of molecules containing carcinogenic compounds that element is hydrogen.",
+        "data": [
+            [
+                "Benzene",
+                "C6H6",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Formaldehyde",
+                "CH2O",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Vinyl Chloride",
+                "C2H3Cl",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Acrylamide",
+                "C3H5NO",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Benzo[a]pyrene",
+                "C20H12",
+                "Yes",
+                "Yes"
+            ]
+        ]
+    }
+}

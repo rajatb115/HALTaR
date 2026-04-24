@@ -1,0 +1,46 @@
+{
+    "table-1380-1380": {
+        "title": [
+            "Year",
+            "Event Type",
+            "Number of Events"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Meeting Event Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many meeting events were held in 2020?",
+        "data": [
+            [
+                "2018",
+                "Meeting",
+                "150"
+            ],
+            [
+                "2019",
+                "Meeting",
+                "175"
+            ],
+            [
+                "2020",
+                "Meeting",
+                "160"
+            ],
+            [
+                "2021",
+                "Meeting",
+                "180"
+            ],
+            [
+                "2022",
+                "Meeting",
+                "200"
+            ]
+        ]
+    }
+}

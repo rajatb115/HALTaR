@@ -1,0 +1,61 @@
+{
+    "table-1457-1457": {
+        "title": [
+            "Rank",
+            "Full Name",
+            "Total Spent ($)",
+            "Last Purchase Date",
+            "Membership Tier",
+            "Store Location"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the full name of the top five members who spend the most money in the descending order of spending.",
+        "data": [
+            [
+                "1",
+                "Eleanor Vance",
+                "45230.50",
+                "6/15/2023",
+                "Platinum",
+                "New York"
+            ],
+            [
+                "2",
+                "Marcus Thorne",
+                "38750.25",
+                "5/30/2023",
+                "Gold",
+                "Chicago"
+            ],
+            [
+                "3",
+                "Sarah Jenkins",
+                "9210.00",
+                "June 1st, 2023",
+                "Silver",
+                "Los Angeles"
+            ],
+            [
+                "4",
+                "David Chen",
+                "84500.75",
+                "July 10th, 1234",
+                "Diamond",
+                "Seattle"
+            ],
+            [
+                "5",
+                "Robert Foxworth",
+                "7890.10",
+                "April 2nd, 999",
+                "Bronze",
+                "Miami"
+            ]
+        ]
+    }
+}

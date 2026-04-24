@@ -1,0 +1,85 @@
+{
+    "table-60-60": {
+        "title": [
+            "School Name",
+            "Administrator",
+            "Website URL",
+            "City",
+            "State",
+            "Founded",
+            "Enrollment"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the website for the schools under the administrations of Mike Larson and Dante Alvarez?",
+        "data": [
+            [
+                "Mike Larson High School",
+                "Mike Larson",
+                "https://www.mlarsonhs.edu",
+                "Springfield",
+                "IL",
+                "1976",
+                "850"
+            ],
+            [
+                "Larson Middle Academy",
+                "Mike Larsen",
+                "https://www.larsenmiddle.org",
+                "Springfield",
+                "IL",
+                "1954",
+                "420"
+            ],
+            [
+                "Alvarez Elementary District",
+                "Dante Alvarez",
+                "https://alvarezelementary.net",
+                "Chicago",
+                "IL",
+                "1898",
+                "310"
+            ],
+            [
+                "Dante Alvarez Charter",
+                "Dante Alvares",
+                "https://dantecharter.com",
+                "Aurora",
+                "IL",
+                "",
+                "1205"
+            ],
+            [
+                "Springfield Tech Under Larson",
+                "Mike Larsson",
+                "https://springfieldtech.edu",
+                "Rockford",
+                "IL",
+                "",
+                "680"
+            ],
+            [
+                "Westside Academy by Alvarez",
+                "Dante Alverez",
+                "https://westsideacademy.org",
+                "Naperville",
+                "IL",
+                "1885",
+                "540"
+            ],
+            [
+                "North County Schools Group",
+                "Mike Larron",
+                "http://northcountyschools.gov",
+                "Peoria",
+                "IL",
+                "",
+                "920"
+            ]
+        ]
+    }
+}

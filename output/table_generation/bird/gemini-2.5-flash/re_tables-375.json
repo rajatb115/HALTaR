@@ -1,0 +1,77 @@
+{
+    "table-375-375": {
+        "title": [
+            "Card Name",
+            "Set",
+            "Border Color",
+            "MTGO Exclusive",
+            "Release Year",
+            "Card Type"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many black border cards are only available on mtgo?",
+        "data": [
+            [
+                "Sol Ring (Vintage Cube)",
+                "Vintage Cube",
+                "Black",
+                "Yes",
+                "2013",
+                "Artifact"
+            ],
+            [
+                "Brainstorm (Judge Promo)",
+                "Judge Promos",
+                "Black",
+                "Yes",
+                "2010",
+                "Instant"
+            ],
+            [
+                "Force of Will",
+                "Alliances",
+                "Black",
+                "No",
+                "1996",
+                "Instant"
+            ],
+            [
+                "Mana Crypt (Treasure Chest)",
+                "Treasure Chests",
+                "Black",
+                "Yes",
+                "2016",
+                "Artifact"
+            ],
+            [
+                "Counterspell (Textless Promo)",
+                "Promos",
+                "Black",
+                "Yes",
+                "2008",
+                "Instant"
+            ],
+            [
+                "Lightning Bolt",
+                "Alpha",
+                "Black",
+                "No",
+                "1993",
+                "Instant"
+            ],
+            [
+                "Arcane Proxy",
+                "The List",
+                "Black",
+                "No",
+                "2022",
+                "Artifact Creature"
+            ]
+        ]
+    }
+}

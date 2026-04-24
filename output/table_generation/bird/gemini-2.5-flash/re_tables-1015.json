@@ -1,0 +1,77 @@
+{
+    "table-1015-1015": {
+        "title": [
+            "Circuit Name",
+            "Category",
+            "Driver",
+            "Team",
+            "Year",
+            "Lap Time"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the lap records for the circuits in Italy.",
+        "data": [
+            [
+                "Autodromo Nazionale Monza",
+                "Formula 1",
+                "Rubens Barrichello",
+                "Ferrari",
+                "2004",
+                "1:21.046"
+            ],
+            [
+                "Autodromo Internazionale Enzo e Dino Ferrari",
+                "Formula 1",
+                "Lewis Hamilton",
+                "Mercedes",
+                "2020",
+                "1:15.484"
+            ],
+            [
+                "Autodromo Internazionale del Mugello",
+                "Formula 1",
+                "Lewis Hamilton",
+                "Mercedes",
+                "2020",
+                "1:18.833"
+            ],
+            [
+                "Misano World Circuit Marco Simoncelli",
+                "MotoGP",
+                "Francesco Bagnaia",
+                "Ducati Lenovo Team",
+                "2021",
+                "1:31.065"
+            ],
+            [
+                "Autodromo Nazionale Monza",
+                "WEC (LMP1)",
+                "Kamui Kobayashi",
+                "Toyota Gazoo Racing",
+                "2017",
+                "1:30.073"
+            ],
+            [
+                "Autodromo Internazionale Enzo e Dino Ferrari",
+                "WEC (LMP2)",
+                "Filipe Albuquerque",
+                "United Autosports",
+                "2024",
+                "1:30.365"
+            ],
+            [
+                "Autodromo Internazionale del Mugello",
+                "MotoGP",
+                "Marc Marquez",
+                "Repsol Honda Team",
+                "2019",
+                "1:46.208"
+            ]
+        ]
+    }
+}

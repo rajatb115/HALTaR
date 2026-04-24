@@ -1,0 +1,69 @@
+{
+    "table-99-99": {
+        "title": [
+            "Make",
+            "Model",
+            "Cylinders",
+            "Horsepower (HP)",
+            "Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all of the 4 cylinder cars, which model has the most horsepower?",
+        "data": [
+            [
+                "Honda",
+                "Civic Si",
+                "4",
+                "200",
+                "2023"
+            ],
+            [
+                "Subaru",
+                "WRX",
+                "4",
+                "271",
+                "2023"
+            ],
+            [
+                "Mazda",
+                "MX-5 Miata",
+                "4",
+                "181",
+                "2023"
+            ],
+            [
+                "Toyota",
+                "Camry SE",
+                "4",
+                "203",
+                "2023"
+            ],
+            [
+                "Hyundai",
+                "Elantra N",
+                "4",
+                "276",
+                "2023"
+            ],
+            [
+                "Volkswagen",
+                "GTI",
+                "4",
+                "241",
+                "2023"
+            ],
+            [
+                "Ford",
+                "Mustang EcoBoost",
+                "4",
+                "310",
+                "2023"
+            ]
+        ]
+    }
+}

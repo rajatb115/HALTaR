@@ -1,0 +1,76 @@
+{
+    "table-1353-1353": {
+        "title": [
+            "Member ID",
+            "Major",
+            "T-Shirt Size",
+            "Count",
+            "Status",
+            "Enrollment Date",
+            "Department Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the club members from \"Human Development and Family Studies\" major, how many of them wear large size t-shirt?",
+        "data": [
+            [
+                "M1042",
+                "Human Development and F.S.",
+                "Large",
+                "3",
+                "Active",
+                "06/15/2021",
+                "HDFS-01"
+            ],
+            [
+                "M1089",
+                "Human Dev & Fam St",
+                "L",
+                "7",
+                "Inactive",
+                "9/22/219",
+                "HDSF-02"
+            ],
+            [
+                "M2103",
+                "Human Development/Fam Studs",
+                "XL",
+                "5",
+                "Pending",
+                "4/10/23",
+                "HDFST-03"
+            ],
+            [
+                "M3341",
+                "Hum Devt & Fam Sci",
+                "Medium",
+                "8",
+                "Active N/A",
+                "6/30/197",
+                "HDFS-04"
+            ],
+            [
+                "M4502",
+                "Family Studies/Human Dev",
+                "Small",
+                "2",
+                "Suspended",
+                "11/11 /2018",
+                "FS-HD-05"
+            ],
+            [
+                "M5678",
+                "Human Developmnt & Fam Study",
+                "Large X",
+                "N/A",
+                "Retired",
+                "-",
+                "HDF-S-06"
+            ]
+        ]
+    }
+}

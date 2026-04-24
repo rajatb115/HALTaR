@@ -1,0 +1,69 @@
+{
+    "table-1035-1035": {
+        "title": [
+            "Player API ID",
+            "Player Name",
+            "Overall Rating",
+            "Year",
+            "Position",
+            "Team"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the players' api id who had the highest above average overall ratings in 2010.",
+        "data": [
+            [
+                "1001",
+                "Lionel Messi",
+                "94",
+                "2010",
+                "Forward",
+                "FC Barcelona"
+            ],
+            [
+                "1002",
+                "Cristiano Ronaldo",
+                "92",
+                "2010",
+                "Forward",
+                "Real Madrid"
+            ],
+            [
+                "1003",
+                "Xavi Hernandez",
+                "91",
+                "2010",
+                "Midfielder",
+                "FC Barcelona"
+            ],
+            [
+                "1004",
+                "Andres Iniesta",
+                "90",
+                "2010",
+                "Midfielder",
+                "FC Barcelona"
+            ],
+            [
+                "1005",
+                "Wayne Rooney",
+                "89",
+                "2010",
+                "Forward",
+                "Man Utd"
+            ],
+            [
+                "1006",
+                "Iker Casillas",
+                "88",
+                "2010",
+                "Goalkeeper",
+                "Real Madrid"
+            ]
+        ]
+    }
+}

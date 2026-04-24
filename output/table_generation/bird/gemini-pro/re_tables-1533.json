@@ -1,0 +1,39 @@
+{
+    "table-1533-1533": {
+        "title": [
+            "Country",
+            "Price (per unit)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Highest Price of Product ID 2 by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country had the gas station that sold the most expensive product id No.2 for one unit?",
+        "data": [
+            [
+                "USA",
+                "10.50"
+            ],
+            [
+                "Canada",
+                "9.75"
+            ],
+            [
+                "UK",
+                "11.20"
+            ],
+            [
+                "Germany",
+                "10.00"
+            ],
+            [
+                "Japan",
+                "12.00"
+            ]
+        ]
+    }
+}

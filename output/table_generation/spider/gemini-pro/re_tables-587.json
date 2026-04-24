@@ -1,0 +1,46 @@
+{
+    "table-587-587": {
+        "title": [
+            "Owner ID",
+            "Zip Code",
+            "Total Spending"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Top Spenders on Dog Care",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the owner id and zip code of the owner who spent the most money in total for his or her dogs.",
+        "data": [
+            [
+                "123",
+                "90210",
+                "$1,500"
+            ],
+            [
+                "456",
+                "10001",
+                "$1,200"
+            ],
+            [
+                "789",
+                "60611",
+                "$1,000"
+            ],
+            [
+                "101",
+                "77002",
+                "$900"
+            ],
+            [
+                "112",
+                "94105",
+                "$850"
+            ]
+        ]
+    }
+}

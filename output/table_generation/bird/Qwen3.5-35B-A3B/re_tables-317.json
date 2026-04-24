@@ -1,0 +1,77 @@
+{
+    "table-317-317": {
+        "title": [
+            "Molecule ID",
+            "Element Composition",
+            "Carcinogenic Status",
+            "CAS Registry Number",
+            "Common Usage",
+            "Safety Rating"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the molecules which contain \"c\" element, which of them are not carcinogenic?",
+        "data": [
+            [
+                "MOL-C042",
+                "[H, C, O]",
+                "Non-carcinogen",
+                "67-56-1",
+                "Solvent",
+                "High"
+            ],
+            [
+                "MOL-C118",
+                "[C, H, N]",
+                "Non-carcinogenic",
+                "108-90-7",
+                "Reagent",
+                "Medium"
+            ],
+            [
+                "mol_c_99",
+                "[C], [O], [Cl]",
+                "Not classified",
+                "75-09-2",
+                "Industrial chemical",
+                "Low"
+            ],
+            [
+                "int_mol_CX",
+                "[C] only",
+                "Benign",
+                "74-82-8",
+                "Fuel additive",
+                "Very High"
+            ],
+            [
+                "xyl_compound",
+                "[C,H,O]",
+                "Safe for consumption",
+                "1330-20-1",
+                "Flavoring agent",
+                "High"
+            ],
+            [
+                "acetone_deriv",
+                "[C],[H],[O]",
+                "No evidence",
+                "64-17-2",
+                "Cleaning solution",
+                "High"
+            ],
+            [
+                "ethanol_std",
+                "[C][H][O]",
+                "Negative result",
+                "62-53-3",
+                "Disinfectant",
+                "High"
+            ]
+        ]
+    }
+}

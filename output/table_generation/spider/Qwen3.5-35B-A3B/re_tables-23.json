@@ -1,0 +1,67 @@
+{
+    "table-23-23": {
+        "title": [
+            "Singer Name",
+            "Concert Date",
+            "Venue City",
+            "Tour Name",
+            "Genre",
+            "Ticket Sales",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the singers who performed in a concert in 2014?",
+        "data": [
+            [
+                "Adele",
+                "March 15, 2014",
+                "London",
+                "Live at the Royal Albert Hall",
+                "Pop/Soul",
+                "Sold Out",
+                "Completed"
+            ],
+            [
+                "Bruno Mars",
+                "June 22, 2016",
+                "New York",
+                "",
+                "Pop/R&B",
+                "High Demand",
+                "Completed"
+            ],
+            [
+                "Taylor Swift",
+                "August 12, N/A",
+                "Los Angeles",
+                "Red Tour",
+                "Country/Pop",
+                "Over 70k",
+                "Completed"
+            ],
+            [
+                "Ed Sheeran",
+                "September 5, N/A",
+                "Dublin",
+                "X Factor Tour",
+                "Folk-Pop",
+                "Moderate",
+                "Ongoing"
+            ],
+            [
+                "Beyonc\u00e9",
+                "October 30, 2015",
+                "Paris",
+                "On the Run Tour",
+                "R&B/Hip-Hop",
+                "Premium",
+                "Completed"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1397-1397": {
+        "title": [
+            "Person_Name",
+            "Events_Attended",
+            "Major_Field_of_Study",
+            "Institution",
+            "Graduation_Year",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the number of events attended by Luisa Guidi. What is her major?",
+        "data": [
+            [
+                "Luisa Guidi",
+                "47",
+                "Environmental Science",
+                "University of Florence",
+                "3654",
+                "Active Researcher"
+            ],
+            [
+                "Maria Rossi",
+                "52",
+                "Biology",
+                "Sapienza University",
+                "9876",
+                "Retired"
+            ],
+            [
+                "Luca Bianchi",
+                "61",
+                "Chemistry",
+                "Politecnico di Milano",
+                "8745",
+                "Professor"
+            ],
+            [
+                "Elena Verdi",
+                "73",
+                "Physics",
+                "University Bologna",
+                "0002",
+                "PhD Candidate"
+            ],
+            [
+                "Giulia Neri",
+                "39",
+                "Ecology",
+                "University Pisa",
+                "1122",
+                "Postdoc Fellow"
+            ],
+            [
+                "Francesco Conti",
+                "",
+                "Mathematics",
+                "University Rome",
+                "N/A",
+                "Student"
+            ],
+            [
+                "Sofia Romano",
+                "",
+                "Musicology",
+                "Accademia Nazionale",
+                "",
+                "Senior Lecturer"
+            ]
+        ]
+    }
+}

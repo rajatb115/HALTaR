@@ -1,0 +1,77 @@
+{
+    "table-865-865": {
+        "title": [
+            "Race Date",
+            "Event Name",
+            "Total Drivers Started",
+            "Finishers Count",
+            "DNF Count",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the race happened on 2015/11/29, how many drivers finished the game?",
+        "data": [
+            [
+                "29 Nov 2105",
+                "Grand Prix of Winterland",
+                "42",
+                "36",
+                "6",
+                "Completed"
+            ],
+            [
+                "29 Dec 2205",
+                "Circuit Classic",
+                "50",
+                "0",
+                "N/A",
+                "Cancelled"
+            ],
+            [
+                "1 Jan 2305",
+                "New Years Sprint",
+                "8",
+                "7",
+                "1",
+                "Completed"
+            ],
+            [
+                "15 Feb 2405",
+                "Snowy Valley Rally",
+                "99",
+                "",
+                "N/A",
+                "In Progress"
+            ],
+            [
+                "28 Mar 2505",
+                "Desert Storm GP",
+                "30",
+                "28",
+                "2",
+                "Completed"
+            ],
+            [
+                "30 Apr 2605",
+                "Mountain Pass Challenge",
+                "12",
+                "11",
+                "1",
+                "DNS"
+            ],
+            [
+                "May 1st 2705",
+                "City Center Loop",
+                "60",
+                "55",
+                "5",
+                "Finished"
+            ]
+        ]
+    }
+}

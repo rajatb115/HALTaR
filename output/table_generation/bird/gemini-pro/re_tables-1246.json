@@ -1,0 +1,45 @@
+{
+    "table-1246-1246": {
+        "title": [
+            "Examination Date",
+            "Result",
+            "Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Examination Results",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the examinations done after 1997/1/1, how many of them have the result of an inactivated partial prothrom bin time?",
+        "data": [
+            [
+                "1997-01-02",
+                "Inactivated Partial Prothrombin Time",
+                "12"
+            ],
+            [
+                "1997-01-05",
+                "Inactivated Partial Prothrombin Time",
+                "8"
+            ],
+            [
+                "1997-01-10",
+                "Inactivated Partial Prothrombin Time",
+                "15"
+            ],
+            [
+                "1997-01-17",
+                "Inactivated Partial Prothrombin Time",
+                "22"
+            ],
+            [
+                "1997-01-24",
+                "Inactivated Partial Prothrombin Time",
+                "5"
+            ]
+        ]
+    }
+}

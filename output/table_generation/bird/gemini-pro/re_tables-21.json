@@ -1,0 +1,46 @@
+{
+    "table-21-21": {
+        "title": [
+            "School Name",
+            "Low Grade",
+            "High Grade"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Schools with Specific Grade Ranges in Amador County",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many schools in Amador which the Low Grade is 9 and the High Grade is 12?",
+        "data": [
+            [
+                "Amador High School",
+                "9",
+                "12"
+            ],
+            [
+                "Argonaut High School",
+                "9",
+                "12"
+            ],
+            [
+                "Independence High School",
+                "9",
+                "12"
+            ],
+            [
+                "Amador County Unified School District",
+                "9",
+                "12"
+            ],
+            [
+                "Sutter Creek Alternative Education",
+                "9",
+                "12"
+            ]
+        ]
+    }
+}

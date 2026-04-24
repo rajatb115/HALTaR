@@ -1,0 +1,69 @@
+{
+    "table-1213-1213": {
+        "title": [
+            "Patient ID",
+            "ALP Level (U/L)",
+            "Status Category",
+            "Treatment Setting",
+            "Discharge Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patients with alkaliphophatase (ALP) within normal range, were they treated as inpatient or outpatient?",
+        "data": [
+            [
+                "P-1042",
+                "65",
+                "Normal Range",
+                "Inpatient",
+                "07/12/2023"
+            ],
+            [
+                "P-2105",
+                "72",
+                "Normal",
+                "Outpatient",
+                "N/A"
+            ],
+            [
+                "C-889",
+                "58",
+                "Within Limits",
+                "Day Care Unit",
+                "30/09/2023"
+            ],
+            [
+                "S-331",
+                "81",
+                "Standard",
+                "In-Patient Ward",
+                "04/10/2023"
+            ],
+            [
+                "K-550",
+                "95 (High-Normal)",
+                "Borderline",
+                "Home Health Visit",
+                "Pending Review"
+            ],
+            [
+                "R-7721",
+                "None Recorded",
+                "Unknown",
+                "Emergency Dept Only",
+                "Immediate Transfer"
+            ],
+            [
+                "F-990",
+                "-",
+                "No Data Available",
+                "Scheduled Clinic",
+                "TBA"
+            ]
+        ]
+    }
+}

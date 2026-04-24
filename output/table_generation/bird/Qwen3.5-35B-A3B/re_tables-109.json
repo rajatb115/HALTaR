@@ -1,0 +1,69 @@
+{
+    "table-109-109": {
+        "title": [
+            "Client_ID",
+            "Loan_Amount",
+            "Account_Opened_Date",
+            "First_Transaction_Type",
+            "Transaction_After_Account",
+            "Amount_First_Transaction"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the client who applied the biggest loan, what was his/her first amount of transaction after opened the account?",
+        "data": [
+            [
+                "C_1042",
+                "$75,000",
+                "06/15/2021",
+                "Deposit",
+                "Same Day",
+                "$5,205.00"
+            ],
+            [
+                "C_B_88",
+                "$62,500",
+                "03/22/219",
+                "Transfer",
+                "Next Day",
+                "-$1,250.05"
+            ],
+            [
+                "D_992",
+                "$58,020",
+                "01/10/23",
+                "Purchase",
+                "Same Week",
+                "$342.10"
+            ],
+            [
+                "E_112",
+                "55,100.50",
+                "09/05/19",
+                "Deposit",
+                "Next Month",
+                "$12,050"
+            ],
+            [
+                "F_334",
+                "52,800.",
+                "04/12/18",
+                "Withdrawal",
+                "Immediate",
+                "$50,0"
+            ],
+            [
+                "G_771",
+                "49,900",
+                ".02/01/.20",
+                "Transfer",
+                "Within Hour",
+                "$2,"
+            ]
+        ]
+    }
+}

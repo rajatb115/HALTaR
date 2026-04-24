@@ -1,0 +1,45 @@
+{
+    "table-110-110": {
+        "title": [
+            "Branch",
+            "Gender",
+            "Number of Clients"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Clients by Gender and Branch",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many clients opened their accounts in Jesenik branch were women?",
+        "data": [
+            [
+                "Jesenik",
+                "Male",
+                "120"
+            ],
+            [
+                "Jesenik",
+                "Female",
+                "155"
+            ],
+            [
+                "Prague",
+                "Male",
+                "200"
+            ],
+            [
+                "Prague",
+                "Female",
+                "180"
+            ],
+            [
+                "Ostrava",
+                "Male",
+                "95"
+            ]
+        ]
+    }
+}

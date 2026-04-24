@@ -1,0 +1,40 @@
+{
+    "table-590-590": {
+        "title": [
+            "User ID",
+            "Reputation"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "User Reputation Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user ID has the highest reputation?",
+        "data": [
+            [
+                "123",
+                "1500"
+            ],
+            [
+                "456",
+                "2200"
+            ],
+            [
+                "789",
+                "1800"
+            ],
+            [
+                "101",
+                "2500"
+            ],
+            [
+                "112",
+                "1900"
+            ]
+        ]
+    }
+}

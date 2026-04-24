@@ -1,0 +1,69 @@
+{
+    "table-1284-1284": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "GPT Level (U/L)",
+            "GPT Status",
+            "Age"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients with the normal glutamic pylvic transaminase level, how many of them are male?",
+        "data": [
+            [
+                "P001",
+                "Male",
+                "35",
+                "Normal",
+                "45"
+            ],
+            [
+                "P002",
+                "Female",
+                "28",
+                "Normal",
+                "38"
+            ],
+            [
+                "P003",
+                "Male",
+                "62",
+                "Elevated",
+                "55"
+            ],
+            [
+                "P004",
+                "Male",
+                "32",
+                "Normal",
+                "35"
+            ],
+            [
+                "P005",
+                "Female",
+                "29",
+                "Normal",
+                "42"
+            ],
+            [
+                "P006",
+                "Male",
+                "40",
+                "Normal",
+                "68"
+            ],
+            [
+                "P007",
+                "Female",
+                "75",
+                "Elevated",
+                "50"
+            ]
+        ]
+    }
+}

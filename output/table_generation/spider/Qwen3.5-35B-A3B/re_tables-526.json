@@ -1,0 +1,77 @@
+{
+    "table-526-526": {
+        "title": [
+            "Conductor Name",
+            "Age",
+            "Nationality",
+            "Notable Work",
+            "Years Active",
+            "Current Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of conductors in ascending order of age.",
+        "data": [
+            [
+                "Leonard Bernstein",
+                "72",
+                "American",
+                "West Side Story",
+                "45",
+                "Deceased"
+            ],
+            [
+                "Herbert von Karajan",
+                "81",
+                "Austrian",
+                "Berlin Philharmonic Recordings",
+                "60",
+                "Deceased"
+            ],
+            [
+                "Marin Alsop",
+                "58",
+                "American/Canadian",
+                "Baltimore Symphony Orchestra",
+                "35",
+                "Active"
+            ],
+            [
+                "Valery Gergiev",
+                "",
+                "Russian/Moldovan",
+                "Mariinsky Theatre",
+                "",
+                ""
+            ],
+            [
+                "Claudio Abbado",
+                "",
+                "Italian",
+                "La Scala Performances",
+                "",
+                "Deceased"
+            ],
+            [
+                "Riccardo Muti",
+                "82",
+                "Italian",
+                "Chicago Symphony Orchestra",
+                "",
+                "Retired"
+            ],
+            [
+                "Gustavo Dudamel",
+                "4",
+                "Venezuelan",
+                "Sim\u00f3n Bol\u00edvar Symphony",
+                "2",
+                "Active"
+            ]
+        ]
+    }
+}

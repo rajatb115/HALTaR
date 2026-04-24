@@ -1,0 +1,48 @@
+{
+    "table-15-15": {
+        "title": [
+            "School Name",
+            "Enrollment (Ages 5-17)",
+            "NCES School ID"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the top five schools, by descending order, from the highest to the lowest, the most number of Enrollment (Ages 5-17). Please give their NCES school identification number.",
+        "data": [
+            [
+                "Grandview High School",
+                "3850",
+                "060000100001"
+            ],
+            [
+                "Metro Central Elementary",
+                "3120",
+                "120000200002"
+            ],
+            [
+                "Riverside K-8 Academy",
+                "2580",
+                "360000300003"
+            ],
+            [
+                "City Heights Charter School",
+                "2150",
+                "480000400004"
+            ],
+            [
+                "Westview Middle School",
+                "1900",
+                "240000500005"
+            ],
+            [
+                "Evergreen High School",
+                "1670",
+                "010000600006"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-292-292": {
+        "title": [
+            "Battle Name",
+            "Result",
+            "Bulgarian Commander",
+            "Ships Lost"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Battles in the English Channel",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show names, results and bulgarian commanders of the battles with no ships lost in the 'English Channel'.",
+        "data": [
+            [
+                "Battle 1",
+                "Victory",
+                "Commander A",
+                "0"
+            ],
+            [
+                "Battle 2",
+                "Defeat",
+                "Commander B",
+                "0"
+            ],
+            [
+                "Battle 3",
+                "Victory",
+                "Commander C",
+                "0"
+            ],
+            [
+                "Battle 4",
+                "Draw",
+                "Commander D",
+                "0"
+            ],
+            [
+                "Battle 5",
+                "Undecided",
+                "Commander E",
+                "0"
+            ]
+        ]
+    }
+}

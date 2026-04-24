@@ -1,0 +1,77 @@
+{
+    "table-288-288": {
+        "title": [
+            "Compound Name",
+            "Molecule ID",
+            "Total Bonds",
+            "Double Bonds Count",
+            "Double Bond %",
+            "Primary Bond Type"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all chemical compounds that contain molecule TR047, identify the percent that form a double-bond.",
+        "data": [
+            [
+                "Compound-A1",
+                "TR047",
+                "10",
+                "2",
+                "20.0%",
+                "Mixed"
+            ],
+            [
+                "Compound-B2",
+                "TR047",
+                "12",
+                "3",
+                "25.0%",
+                "Mixed"
+            ],
+            [
+                "Compound-C3",
+                "TR047",
+                "8",
+                "1",
+                "12.5%",
+                "Single-Dominant"
+            ],
+            [
+                "Compound-D4",
+                "TR047",
+                "15",
+                "4",
+                "26.7%",
+                "Mixed"
+            ],
+            [
+                "Compound-E5",
+                "TR047",
+                "9",
+                "2",
+                "22.2%",
+                "Mixed"
+            ],
+            [
+                "Compound-F6",
+                "TR047",
+                "11",
+                "3",
+                "27.3%",
+                "Mixed"
+            ],
+            [
+                "Compound-G7",
+                "TR047",
+                "13",
+                "3",
+                "23.1%",
+                "Mixed"
+            ]
+        ]
+    }
+}

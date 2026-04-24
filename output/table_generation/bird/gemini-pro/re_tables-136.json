@@ -1,0 +1,51 @@
+{
+    "table-136-136": {
+        "title": [
+            "Account ID",
+            "Issuance Frequency",
+            "Balance After Withdrawal",
+            "Negative Balance"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Credit Card Withdrawal Impact on Monthly Accounts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "After making a credit card withdrawal, how many account/s with monthly issuance has a negative balance?",
+        "data": [
+            [
+                "12345",
+                "Monthly",
+                "-150.00",
+                "Yes"
+            ],
+            [
+                "67890",
+                "Weekly",
+                "200.00",
+                "No"
+            ],
+            [
+                "24680",
+                "Monthly",
+                "50.00",
+                "No"
+            ],
+            [
+                "13579",
+                "Monthly",
+                "-50.00",
+                "Yes"
+            ],
+            [
+                "98765",
+                "Bi-Weekly",
+                "-25.00",
+                "Yes"
+            ]
+        ]
+    }
+}

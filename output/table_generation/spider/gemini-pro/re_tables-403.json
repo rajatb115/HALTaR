@@ -1,0 +1,37 @@
+{
+    "table-403-403": {
+        "title": [
+            "Player Name",
+            "Earnings"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "High-Earning Poker Players",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the names of poker players who have earnings above 300000.",
+        "data": [
+            [
+                "Daniel Negreanu",
+                "$51,332,975"
+            ],
+            [
+                "Justin Bonomo",
+                "$49,128,174"
+            ],
+            [
+                "Bryn Kenney",
+                "$43,459,203"
+            ],
+            [
+                "Jason Koon",
+                "$42,873,963"
+            ],
+            [
+                "Stephen Chidwick",
+                "$42,833,294"
+            ]
+        ]
+    }
+}

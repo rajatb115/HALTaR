@@ -1,0 +1,67 @@
+{
+    "table-64-64": {
+        "title": [
+            "Maker Name",
+            "Car Model",
+            "Production Start Year",
+            "Country",
+            "Engine Size",
+            "Units Produced",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name of the makers that produced some cars in the year of 1970?",
+        "data": [
+            [
+                "Ford Motor Company",
+                "Mustang Mach I",
+                "1969",
+                "USA",
+                "4.7L V8",
+                "12500",
+                "Active"
+            ],
+            [
+                "Riviera Motors",
+                "Gran Turismo",
+                "1870",
+                "Italy",
+                "3.2L Inline-6",
+                "450",
+                "Discontinued"
+            ],
+            [
+                "Mitsubishi Heavy Industries",
+                "Galant GTO",
+                "1670",
+                "Japan",
+                "2.0L Turbo",
+                "89000",
+                "Retroactive"
+            ],
+            [
+                "Volkswagen AG",
+                "Beetle Special Edition",
+                "1770",
+                "Germany",
+                "1.2L Flat-4",
+                "210050",
+                "Historical"
+            ],
+            [
+                "Studebaker Corporation",
+                "Avanti II",
+                "1170",
+                "USA",
+                "5.0L V8",
+                "",
+                "Discontinued"
+            ]
+        ]
+    }
+}

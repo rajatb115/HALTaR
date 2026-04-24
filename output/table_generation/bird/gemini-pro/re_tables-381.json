@@ -1,0 +1,46 @@
+{
+    "table-381-381": {
+        "title": [
+            "Card Name",
+            "Frame Version",
+            "EDHREC Rank"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Card Information by Frame Version",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the edhrecRank for cards with frame version 2015.",
+        "data": [
+            [
+                "Goblin Guide",
+                "2015",
+                "4587"
+            ],
+            [
+                "Lightning Bolt",
+                "2015",
+                "123"
+            ],
+            [
+                "Counterspell",
+                "2015",
+                "67"
+            ],
+            [
+                "Brainstorm",
+                "2015",
+                "22"
+            ],
+            [
+                "Swords to Plowshares",
+                "2015",
+                "15"
+            ]
+        ]
+    }
+}

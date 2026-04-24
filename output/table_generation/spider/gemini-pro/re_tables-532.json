@@ -1,0 +1,45 @@
+{
+    "table-532-532": {
+        "title": [
+            "Show Title",
+            "Date",
+            "Attendance"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Show Attendance Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average attendance of shows?",
+        "data": [
+            [
+                "Show A",
+                "2024-01-15",
+                "150"
+            ],
+            [
+                "Show B",
+                "2024-01-16",
+                "175"
+            ],
+            [
+                "Show C",
+                "2024-01-17",
+                "160"
+            ],
+            [
+                "Show D",
+                "2024-01-18",
+                "180"
+            ],
+            [
+                "Show E",
+                "2024-01-19",
+                "190"
+            ]
+        ]
+    }
+}

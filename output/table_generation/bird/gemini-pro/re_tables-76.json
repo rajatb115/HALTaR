@@ -1,0 +1,52 @@
+{
+    "table-76-76": {
+        "title": [
+            "County Code",
+            "School Name",
+            "Educational Level Name",
+            "Breakfast Provision"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "School Educational Levels and Breakfast Provision",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the educational level name for the schools with Breakfast Provision 2 in county code 37? Indicate the name of the school.",
+        "data": [
+            [
+                "37",
+                "School A",
+                "Elementary",
+                "2"
+            ],
+            [
+                "37",
+                "School B",
+                "Middle School",
+                "2"
+            ],
+            [
+                "37",
+                "School C",
+                "High School",
+                "2"
+            ],
+            [
+                "37",
+                "School D",
+                "Elementary",
+                "2"
+            ],
+            [
+                "37",
+                "School E",
+                "Middle School",
+                "2"
+            ]
+        ]
+    }
+}

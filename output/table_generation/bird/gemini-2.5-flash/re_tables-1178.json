@@ -1,0 +1,77 @@
+{
+    "table-1178-1178": {
+        "title": [
+            "Patient ID",
+            "Measurement Date",
+            "Cholesterol Type",
+            "Value (mg/dL)",
+            "Normal Range (mg/dL)",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Was the total cholesterol status for the patient id 2927464 on 1995-9-4 at the normal level?",
+        "data": [
+            [
+                "2927464",
+                "1995-09-04",
+                "Total",
+                "185",
+                "<200",
+                "Normal"
+            ],
+            [
+                "2927464",
+                "1995-09-04",
+                "LDL",
+                "110",
+                "<100",
+                "Borderline"
+            ],
+            [
+                "2927464",
+                "1995-09-04",
+                "HDL",
+                "55",
+                ">40",
+                "Normal"
+            ],
+            [
+                "2927464",
+                "1996-03-15",
+                "Total",
+                "210",
+                "<200",
+                "High"
+            ],
+            [
+                "2927464",
+                "1996-03-15",
+                "LDL",
+                "135",
+                "<100",
+                "High"
+            ],
+            [
+                "2927465",
+                "1995-09-04",
+                "Total",
+                "190",
+                "<200",
+                "Normal"
+            ],
+            [
+                "2927465",
+                "1995-09-04",
+                "HDL",
+                "42",
+                ">40",
+                "Normal"
+            ]
+        ]
+    }
+}

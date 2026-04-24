@@ -1,0 +1,31 @@
+{
+    "table-1340-1340": {
+        "title": [
+            "Event Date",
+            "Attendee Name",
+            "Cost Category",
+            "Amount Spent ($)",
+            "Currency",
+            "Month",
+            "Quarter"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total average cost that Elijah Allen spent in the events on September and October.",
+        "data": [
+            [
+                "24-Sep-2023",
+                "Elijah Allen",
+                "Registration Fee",
+                "75.00",
+                "USD",
+                "September",
+                "Q3"
+            ]
+        ]
+    }
+}

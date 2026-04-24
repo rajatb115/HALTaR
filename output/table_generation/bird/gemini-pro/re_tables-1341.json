@@ -1,0 +1,29 @@
+{
+    "table-1341-1341": {
+        "title": [
+            "Year",
+            "Total Amount Spent"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Student Club Event Spending Comparison",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the difference of the total amount spent in all events by the Student_Club in year 2019 and 2020.",
+        "data": [
+            [
+                "2019",
+                "$15,000"
+            ],
+            [
+                "2020",
+                "$12,000"
+            ],
+            [
+                "Difference (2019-2020)",
+                "$3,000"
+            ]
+        ]
+    }
+}

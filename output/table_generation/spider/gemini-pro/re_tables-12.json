@@ -1,0 +1,45 @@
+{
+    "table-12-12": {
+        "title": [
+            "Station Name",
+            "Location",
+            "Capacity"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Station Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the locations and names of all stations with capacity between 5000 and 10000?",
+        "data": [
+            [
+                "Green Valley Station",
+                "Green Valley",
+                "6500"
+            ],
+            [
+                "Maple Street Depot",
+                "Maple Street",
+                "8200"
+            ],
+            [
+                "Central Hub",
+                "Downtown",
+                "9500"
+            ],
+            [
+                "Oakwood Terminal",
+                "Oakwood",
+                "5500"
+            ],
+            [
+                "Riverside Station",
+                "Riverside",
+                "7000"
+            ]
+        ]
+    }
+}

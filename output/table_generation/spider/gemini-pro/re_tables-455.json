@@ -1,0 +1,39 @@
+{
+    "table-455-455": {
+        "title": [
+            "District",
+            "Population"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Population Statistics by District in the Netherlands",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many people live in Gelderland district?",
+        "data": [
+            [
+                "Gelderland",
+                "2,094,578"
+            ],
+            [
+                "North Holland",
+                "2,873,649"
+            ],
+            [
+                "South Holland",
+                "3,708,710"
+            ],
+            [
+                "North Brabant",
+                "2,583,754"
+            ],
+            [
+                "Utrecht",
+                "1,372,436"
+            ]
+        ]
+    }
+}

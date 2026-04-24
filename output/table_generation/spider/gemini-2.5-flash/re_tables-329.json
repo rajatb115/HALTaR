@@ -1,0 +1,85 @@
+{
+    "table-329-329": {
+        "title": [
+            "Transcript ID",
+            "Release Date",
+            "Student ID",
+            "Program",
+            "Release Type",
+            "Status",
+            "Recipient"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the earliest date of a transcript release, and what details can you tell me?",
+        "data": [
+            [
+                "T-001",
+                "1985-03-15",
+                "S-1001",
+                "BA History",
+                "Official",
+                "Issued",
+                "University of X"
+            ],
+            [
+                "T-002",
+                "1987-09-01",
+                "S-1002",
+                "BS Computer Science",
+                "Official",
+                "Issued",
+                "Employer Y"
+            ],
+            [
+                "T-003",
+                "1992-01-20",
+                "S-1003",
+                "MBA",
+                "Unofficial",
+                "Completed",
+                "Student"
+            ],
+            [
+                "T-004",
+                "1998-06-10",
+                "S-1004",
+                "PhD Physics",
+                "Official",
+                "Issued",
+                "Graduate School B"
+            ],
+            [
+                "T-005",
+                "2005-11-22",
+                "S-1005",
+                "BSN Nursing",
+                "Official",
+                "Pending Review",
+                "Medical Board A"
+            ],
+            [
+                "T-006",
+                "2010-04-05",
+                "S-1006",
+                "MA English",
+                "Unofficial",
+                "Issued",
+                "Student"
+            ],
+            [
+                "T-007",
+                "2015-07-18",
+                "S-1007",
+                "JD Law",
+                "Official",
+                "Issued",
+                "Law School Z"
+            ]
+        ]
+    }
+}

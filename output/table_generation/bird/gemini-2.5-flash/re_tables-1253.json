@@ -1,0 +1,76 @@
+{
+    "table-1253-1253": {
+        "title": [
+            "Patient ID",
+            "Ig G Level (mg/dL)",
+            "Symptoms Present",
+            "Primary Symptom",
+            "Diagnosis"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients with a normal Ig G level, how many of them have symptoms?",
+        "data": [
+            [
+                "P001",
+                "1250",
+                "Yes",
+                "Fatigue",
+                "Chronic Fatigue Syndrome"
+            ],
+            [
+                "P002",
+                "980",
+                "No",
+                "N/A",
+                "Healthy Check-up"
+            ],
+            [
+                "P003",
+                "1500",
+                "Yes",
+                "Joint Pain",
+                "Rheumatoid Arthritis"
+            ],
+            [
+                "P004",
+                "1800",
+                "Yes",
+                "Fever",
+                "Bacterial Infection"
+            ],
+            [
+                "P005",
+                "1100",
+                "Yes",
+                "Skin Rash",
+                "Allergic Reaction"
+            ],
+            [
+                "P006",
+                "550",
+                "Yes",
+                "Recurrent Infections",
+                "Primary Immunodeficiency"
+            ],
+            [
+                "P007",
+                "1350",
+                "No",
+                "N/A",
+                "Routine Screening"
+            ],
+            [
+                "P008",
+                "1050",
+                "No",
+                "N/A",
+                "Follow-up"
+            ]
+        ]
+    }
+}

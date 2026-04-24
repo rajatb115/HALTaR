@@ -1,0 +1,69 @@
+{
+    "table-1266-1266": {
+        "title": [
+            "Patient ID",
+            "RNP Level",
+            "Admitted",
+            "Admission Date",
+            "Hospital Department"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients have a normal level of anti-ribonuclear protein and have been admitted to the hospital?",
+        "data": [
+            [
+                "1001",
+                "Normal",
+                "Yes",
+                "2023-10-15",
+                "Cardiology"
+            ],
+            [
+                "1002",
+                "Elevated",
+                "Yes",
+                "2023-10-10",
+                "Neurology"
+            ],
+            [
+                "1003",
+                "Normal",
+                "No",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "1004",
+                "Low",
+                "Yes",
+                "2023-10-12",
+                "Emergency"
+            ],
+            [
+                "1005",
+                "Normal",
+                "Yes",
+                "2023-10-18",
+                "Internal Medicine"
+            ],
+            [
+                "1006",
+                "Elevated",
+                "No",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "1007",
+                "Normal",
+                "Yes",
+                "2023-10-16",
+                "Oncology"
+            ]
+        ]
+    }
+}

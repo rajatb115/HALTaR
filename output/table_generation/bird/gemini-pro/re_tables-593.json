@@ -1,0 +1,46 @@
+{
+    "table-593-593": {
+        "title": [
+            "User ID",
+            "Username",
+            "Number of Badges"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Users with High Badge Counts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users are awarded with more than 5 badges?",
+        "data": [
+            [
+                "123",
+                "JohnDoe",
+                "7"
+            ],
+            [
+                "456",
+                "JaneSmith",
+                "12"
+            ],
+            [
+                "789",
+                "DavidLee",
+                "6"
+            ],
+            [
+                "101",
+                "AmyChen",
+                "9"
+            ],
+            [
+                "202",
+                "TomBrown",
+                "8"
+            ]
+        ]
+    }
+}

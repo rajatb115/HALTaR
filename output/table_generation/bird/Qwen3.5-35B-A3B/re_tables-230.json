@@ -1,0 +1,62 @@
+{
+    "table-230-230": {
+        "title": [
+            "Molecule ID",
+            "Bond Partner",
+            "Interaction Type",
+            "Energy Level",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the type of bond that molecule TR000 has when involved in any bonds?",
+        "data": [
+            [
+                "TR004",
+                "Protein X",
+                "Hydrogen Bond",
+                "-4.2 kcal/mol",
+                "Active"
+            ],
+            [
+                "Molecule Y",
+                "Ligand Z",
+                "Ionic Interaction",
+                "-6.7 kcal/mol",
+                "Inactive"
+            ],
+            [
+                "mRNA Strand",
+                "Ribosome",
+                "Covalent Linkage",
+                "-12.5 kcal/mol",
+                "Transient"
+            ],
+            [
+                "Ribosomal RNA",
+                "tRNA",
+                "Base Pairing",
+                "-3.1 kcal/mol",
+                "Dynamic"
+            ],
+            [
+                "DNA Helix",
+                "Histone H3",
+                "Electrostatic Force",
+                "-5.8 kcal/mol",
+                "Locked"
+            ],
+            [
+                "Peptide Chain",
+                "Chaperonin",
+                "Van der Waals",
+                "-2.4 kcal/mol",
+                "Flexible"
+            ]
+        ]
+    }
+}

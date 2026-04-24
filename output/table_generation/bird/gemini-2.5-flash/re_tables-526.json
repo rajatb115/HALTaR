@@ -1,0 +1,61 @@
+{
+    "table-526-526": {
+        "title": [
+            "Card UUID",
+            "Card Name",
+            "Format",
+            "Restriction Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the uuid of cards in which the old school format is restricted or banned.",
+        "data": [
+            [
+                "0a1b2c3d-4e5f-6789-0123-456789abcdef",
+                "Black Lotus",
+                "Old School",
+                "Restricted"
+            ],
+            [
+                "1b2c3d4e-5f6a-7890-1234-567890abcdef",
+                "Ancestral Recall",
+                "Old School",
+                "Restricted"
+            ],
+            [
+                "2c3d4e5f-6a7b-8901-2345-67890abcdef0",
+                "Time Walk",
+                "Old School",
+                "Restricted"
+            ],
+            [
+                "3d4e5f6a-7b8c-9012-3456-7890abcdef01",
+                "Mox Pearl",
+                "Old School",
+                "Restricted"
+            ],
+            [
+                "4e5f6a7b-8c9d-0123-4567-890abcdef012",
+                "Shahrazad",
+                "Old School",
+                "Banned"
+            ],
+            [
+                "5f6a7b8c-9d0e-1234-5678-90abcdef0123",
+                "Chaos Orb",
+                "Old School",
+                "Restricted"
+            ],
+            [
+                "6a7b8c9d-0e1f-2345-6789-0abcdef01234",
+                "Falling Star",
+                "Old School",
+                "Banned"
+            ]
+        ]
+    }
+}

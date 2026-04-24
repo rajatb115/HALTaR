@@ -1,0 +1,37 @@
+{
+    "table-1100-1100": {
+        "title": [
+            "Player Name",
+            "Preferred Foot"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Player Preferred Foot",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which foot is preferred by Abdou Diallo?",
+        "data": [
+            [
+                "Lionel Messi",
+                "Left"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "Right"
+            ],
+            [
+                "Harry Kane",
+                "Right"
+            ],
+            [
+                "Abdou Diallo",
+                "Left"
+            ],
+            [
+                "Son Heung-min",
+                "Right"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "table-130-130": {
+        "title": [
+            "Airline Code",
+            "Airline Name",
+            "Flights From CVO",
+            "Flight Status APG",
+            "Primary Hub",
+            "Founded Year",
+            "Fleet Size",
+            "Safety Rating"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find all airlines that have flights from airport 'CVO' but not from 'APG'.",
+        "data": [
+            [
+                "AA",
+                "American Airlines",
+                "Yes",
+                "No",
+                "Dallas/Fort Worth",
+                "1934",
+                "8700",
+                "Excellent"
+            ],
+            [
+                "DL",
+                "Delta Air Lines",
+                "Yes (Seasonal)",
+                "No - Not Listed",
+                "Atlanta",
+                "1928",
+                "9000+",
+                "Excellent"
+            ],
+            [
+                "UA",
+                "United Express",
+                "Yes via Partner",
+                "N/A",
+                "Chicago O'Hare",
+                "1926",
+                "6500",
+                ""
+            ],
+            [
+                "AS",
+                "Alaska Airlines",
+                "No Direct Service",
+                "No Flight Data Available",
+                "Seattle-Tacoma",
+                "1932",
+                "0",
+                "N/A"
+            ],
+            [
+                "WN",
+                "Southwest Airlines",
+                "Limited Charter Only",
+                "No Operations in Region",
+                "Baltimore/Washington",
+                "1967",
+                "",
+                ""
+            ],
+            [
+                "B6",
+                "JetBlue Airways",
+                "Seasonal Cargo Only",
+                "Route Not Active",
+                "New York JFK",
+                "1998",
+                "",
+                ""
+            ]
+        ]
+    }
+}

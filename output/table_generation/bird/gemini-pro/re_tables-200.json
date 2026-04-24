@@ -1,0 +1,43 @@
+{
+    "table-200-200": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Carcinogenic"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Examples of Sodium-Containing Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the molecule containing sodium atoms, how many are non-carcinogenic?",
+        "data": [
+            [
+                "Sodium Chloride",
+                "NaCl",
+                "No"
+            ],
+            [
+                "Sodium Bicarbonate",
+                "NaHCO3",
+                "No"
+            ],
+            [
+                "Sodium Hydroxide",
+                "NaOH",
+                "No"
+            ],
+            [
+                "Sodium Benzoate",
+                "C7H5NaO2",
+                "No"
+            ],
+            [
+                "Sodium Nitrate",
+                "NaNO3",
+                "Possible"
+            ]
+        ]
+    }
+}

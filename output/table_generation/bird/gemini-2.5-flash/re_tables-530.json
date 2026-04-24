@@ -1,0 +1,69 @@
+{
+    "table-530-530": {
+        "title": [
+            "Set Name",
+            "Release Year",
+            "Category",
+            "Korean Translation",
+            "Japanese Translation"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find and list the names of sets which doesn't have Japanese translation but have Korean translation.",
+        "data": [
+            [
+                "Project Alpha",
+                "2021",
+                "Game",
+                "Yes",
+                "No"
+            ],
+            [
+                "Data Pack Beta",
+                "2020",
+                "Software",
+                "Yes",
+                "No"
+            ],
+            [
+                "Collection Gamma",
+                "2022",
+                "Art",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Module Delta",
+                "2019",
+                "Educational",
+                "No",
+                "Yes"
+            ],
+            [
+                "Archive Epsilon",
+                "2023",
+                "Historical",
+                "Yes",
+                "No"
+            ],
+            [
+                "Series Zeta",
+                "2018",
+                "Entertainment",
+                "Yes",
+                "No"
+            ],
+            [
+                "Kit Eta",
+                "2024",
+                "Tool",
+                "No",
+                "No"
+            ]
+        ]
+    }
+}

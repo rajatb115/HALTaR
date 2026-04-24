@@ -1,0 +1,69 @@
+{
+    "table-649-649": {
+        "title": [
+            "Display_Name",
+            "Website_URL",
+            "Favorite_Count",
+            "Post_ID",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the users' display names and available website URLs of the post with favorite count of more than 150.",
+        "data": [
+            [
+                "Alice_Coder",
+                "https://alice.dev/code",
+                "342",
+                "#P_1004",
+                "Active"
+            ],
+            [
+                "Bob_DevOps",
+                "https://bobops.io/tools",
+                "567",
+                "#Q_2091",
+                "Archived"
+            ],
+            [
+                "Carol_Data",
+                "https://carol.analytics.net",
+                "89",
+                "N/A",
+                "Deleted"
+            ],
+            [
+                "David_Securty",
+                "https://david.security.org",
+                "412",
+                "R_3301",
+                "Pending"
+            ],
+            [
+                "Eve_Marketing",
+                "https://eve.markets.com/blog",
+                "678",
+                "S_4402",
+                "Published"
+            ],
+            [
+                "Frank_Edu",
+                "https://frank.education/notes",
+                "92",
+                "T_5511",
+                "Drafted"
+            ],
+            [
+                "Grace_Legal",
+                "https://grace.lawfirm.co.uk",
+                "75",
+                "U_6622",
+                "Inactive"
+            ]
+        ]
+    }
+}

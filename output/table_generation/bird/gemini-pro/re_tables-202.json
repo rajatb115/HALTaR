@@ -1,0 +1,65 @@
+{
+    "table-202-202": {
+        "title": [
+            "Molecule",
+            "Chemical Formula",
+            "Molar Mass (g/mol)",
+            "Number of Carbon Atoms",
+            "Carbon Mass (g/mol)",
+            "Carbon Percentage (%)"
+        ],
+        "numCols": 6,
+        "numericColumns": [
+            2,
+            3,
+            4
+        ],
+        "pgTitle": "Carbon Percentage in Double-Bond Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of carbon in double-bond molecules?",
+        "data": [
+            [
+                "Ethene (Ethylene)",
+                "C\u2082H\u2084",
+                "28.05",
+                "2",
+                "24.02",
+                "85.6%"
+            ],
+            [
+                "Propene (Propylene)",
+                "C\u2083H\u2086",
+                "42.08",
+                "3",
+                "36.03",
+                "85.6%"
+            ],
+            [
+                "Butene",
+                "C\u2084H\u2088",
+                "56.11",
+                "4",
+                "48.04",
+                "85.6%"
+            ],
+            [
+                "Pentene",
+                "C\u2085H\u2081\u2080",
+                "70.13",
+                "5",
+                "60.05",
+                "85.6%"
+            ],
+            [
+                "Cyclohexene",
+                "C\u2086H\u2081\u2080",
+                "82.15",
+                "6",
+                "72.06",
+                "87.7%"
+            ]
+        ]
+    }
+}

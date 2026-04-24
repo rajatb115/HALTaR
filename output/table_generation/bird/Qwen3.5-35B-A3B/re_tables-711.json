@@ -1,0 +1,58 @@
+{
+    "table-711-711": {
+        "title": [
+            "Post_ID",
+            "Comment_Count",
+            "Total_Comments_Analyzed",
+            "Comments_With_Zero_Score",
+            "Percentage_Zero_Scoring",
+            "Average_Post_Upvotes",
+            "Data_Source_Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In posts with 1 comment, how many of the comments have 0 score?",
+        "data": [
+            [
+                "P-4021",
+                "0",
+                "N/A",
+                "N/A",
+                "76%",
+                "42",
+                "5/12/2023"
+            ],
+            [
+                "P-B992",
+                "-1",
+                "N/A",
+                "N/A",
+                "82%",
+                "-5",
+                "6/01/2022"
+            ],
+            [
+                "C-1102",
+                "+1",
+                "N/A",
+                "N/A",
+                "91%",
+                "+3",
+                "3/15/2024"
+            ],
+            [
+                "D-5501",
+                "-2",
+                "N/A",
+                "N/A",
+                "68%",
+                "+12",
+                "1/30/2023"
+            ]
+        ]
+    }
+}

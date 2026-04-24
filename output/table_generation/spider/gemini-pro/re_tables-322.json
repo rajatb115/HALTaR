@@ -1,0 +1,51 @@
+{
+    "table-322-322": {
+        "title": [
+            "First Name",
+            "Middle Name",
+            "Last Name",
+            "Graduation Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Earliest Graduate Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the earliest graduate of the school? List the first name, middle name and last name.",
+        "data": [
+            [
+                "John",
+                "A.",
+                "Doe",
+                "1900"
+            ],
+            [
+                "Jane",
+                "B.",
+                "Smith",
+                "1901"
+            ],
+            [
+                "Robert",
+                "C.",
+                "Jones",
+                "1902"
+            ],
+            [
+                "Emily",
+                "D.",
+                "Brown",
+                "1903"
+            ],
+            [
+                "Michael",
+                "E.",
+                "Davis",
+                "1904"
+            ]
+        ]
+    }
+}

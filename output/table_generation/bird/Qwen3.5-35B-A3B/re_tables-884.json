@@ -1,0 +1,58 @@
+{
+    "table-884-884": {
+        "title": [
+            "Race ID",
+            "Event Name",
+            "Date",
+            "Location",
+            "Winner",
+            "Category",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many races were there in 2005? Name all the races in descending order.",
+        "data": [
+            [
+                "R2045",
+                "Grand Prix de Monaco",
+                "May 22, 2026",
+                "Monte Carlo",
+                "Michael Schumacher",
+                "Formula One",
+                "Completed"
+            ],
+            [
+                "R2038",
+                "British Grand Prix",
+                "July 10, 2017",
+                "Silverstone",
+                "Kimi R\u00e4ikk\u00f6nen",
+                "Formula Two",
+                "Completed"
+            ],
+            [
+                "R1922",
+                "Indianapolis 500",
+                "May 29, 2030",
+                "Indianapolis",
+                "Dan Wheldon",
+                "IndyCar",
+                "Completed"
+            ],
+            [
+                "R1855",
+                "French Grand Prix",
+                "July 3, 2004",
+                "Magny-Cours",
+                "Fernando Alonso",
+                "Formula One",
+                "Completed"
+            ]
+        ]
+    }
+}

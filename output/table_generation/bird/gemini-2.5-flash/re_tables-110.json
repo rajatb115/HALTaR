@@ -1,0 +1,76 @@
+{
+    "table-110-110": {
+        "title": [
+            "Account ID",
+            "Branch",
+            "Gender",
+            "Account Open Date",
+            "Account Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many clients opened their accounts in Jesenik branch were women?",
+        "data": [
+            [
+                "1001",
+                "Jesenik",
+                "Female",
+                "2022-01-15",
+                "Savings"
+            ],
+            [
+                "1002",
+                "Brno",
+                "Male",
+                "2021-11-20",
+                "Checking"
+            ],
+            [
+                "1003",
+                "Jesenik",
+                "Female",
+                "2023-03-10",
+                "Investment"
+            ],
+            [
+                "1004",
+                "Olomouc",
+                "Male",
+                "2022-07-01",
+                "Savings"
+            ],
+            [
+                "1005",
+                "Jesenik",
+                "Male",
+                "2023-01-05",
+                "Checking"
+            ],
+            [
+                "1006",
+                "Jesenik",
+                "Female",
+                "2022-09-22",
+                "Savings"
+            ],
+            [
+                "1007",
+                "Ostrava",
+                "Female",
+                "2021-05-18",
+                "Checking"
+            ],
+            [
+                "1008",
+                "Jesenik",
+                "Female",
+                "2023-04-01",
+                "Investment"
+            ]
+        ]
+    }
+}

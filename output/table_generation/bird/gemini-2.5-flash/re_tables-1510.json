@@ -1,0 +1,69 @@
+{
+    "table-1510-1510": {
+        "title": [
+            "Transaction ID",
+            "Gas Station",
+            "City",
+            "Transaction Date",
+            "Amount (CZK)",
+            "Fuel Type"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the transactions made in the gas stations in the Czech Republic, how many of them are taken place after 2012/1/1?",
+        "data": [
+            [
+                "T100123",
+                "Benzina Orlen",
+                "Prague",
+                "2013-05-15",
+                "1250",
+                "Diesel"
+            ],
+            [
+                "T100124",
+                "OMV",
+                "Brno",
+                "2014-11-22",
+                "980",
+                "Natural 95"
+            ],
+            [
+                "T100125",
+                "Shell",
+                "Ostrava",
+                "2015-01-03",
+                "1500",
+                "V-Power 98"
+            ],
+            [
+                "T100126",
+                "EuroOil",
+                "Plze\u0148",
+                "2016-07-08",
+                "850",
+                "LPG"
+            ],
+            [
+                "T100127",
+                "MOL",
+                "Liberec",
+                "2017-03-19",
+                "1100",
+                "Diesel"
+            ],
+            [
+                "T100128",
+                "Benzina Orlen",
+                "\u010cesk\u00e9 Bud\u011bjovice",
+                "2018-09-01",
+                "1320",
+                "Natural 95"
+            ]
+        ]
+    }
+}

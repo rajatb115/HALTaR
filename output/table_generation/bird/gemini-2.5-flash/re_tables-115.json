@@ -1,0 +1,69 @@
+{
+    "table-115-115": {
+        "title": [
+            "Client Name",
+            "Account ID",
+            "City",
+            "Account Open Date",
+            "Account Type",
+            "Current Balance"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the first client who opened his/her account in Prague, what is his/her account ID?",
+        "data": [
+            [
+                "Jan Nov\u00e1k",
+                "ACC-00123",
+                "Prague",
+                "2018-03-15",
+                "Savings",
+                "12500.50"
+            ],
+            [
+                "Anna Svobodov\u00e1",
+                "ACC-00128",
+                "Brno",
+                "2019-01-22",
+                "Checking",
+                "8700.20"
+            ],
+            [
+                "Petr Dvo\u0159\u00e1k",
+                "ACC-00135",
+                "Prague",
+                "2018-05-01",
+                "Investment",
+                "55000.00"
+            ],
+            [
+                "Eva Ku\u010derov\u00e1",
+                "ACC-00142",
+                "Ostrava",
+                "2019-07-10",
+                "Savings",
+                "15000.00"
+            ],
+            [
+                "Tom\u00e1\u0161 Bene\u0161",
+                "ACC-00151",
+                "Prague",
+                "2019-02-28",
+                "Checking",
+                "9200.75"
+            ],
+            [
+                "Lucie Vesel\u00e1",
+                "ACC-00160",
+                "Plze\u0148",
+                "2020-01-05",
+                "Savings",
+                "11000.00"
+            ]
+        ]
+    }
+}

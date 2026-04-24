@@ -1,0 +1,58 @@
+{
+    "table-549-549": {
+        "title": [
+            "Post Title",
+            "Owner Name",
+            "Location",
+            "Country",
+            "Coordinates",
+            "Last Updated",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the location of the owner of the post \"Eliciting priors from experts\"?",
+        "data": [
+            [
+                "Eliciting Priors From Experts",
+                "Dr. Elena Rostova",
+                "Moscow",
+                "Russia",
+                "55.7558\u00b0 N, 37.6173\u00b0 E",
+                "4/12/2023",
+                "Active"
+            ],
+            [
+                "Related Work on Bayesian Methods",
+                "Prof. James Chen",
+                "Cambridge",
+                "United Kingdom",
+                "0.1278\u00b0 W, 52.2053\u00b0 N",
+                "3/28/2233",
+                "Archived"
+            ],
+            [
+                "Expert Judgment in Decision Making",
+                "Sarah Al-Fayed",
+                "Dubai",
+                "UAE",
+                "6.2550\u00b0 N 53.9444\u00b0 E 25.2769\u00b0 N -55",
+                "9/15/2323",
+                "Pending Review"
+            ],
+            [
+                "Foundations of Subjective Probability",
+                "Michael O'Connor",
+                "Dublin",
+                "Ireland",
+                "8.6267\u00b0 W 5.3347\u00b0 N / 50.3456\u00b0 N \u2013 8",
+                "7/01/2424",
+                "Inactive"
+            ]
+        ]
+    }
+}

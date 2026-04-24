@@ -1,0 +1,69 @@
+{
+    "table-248-248": {
+        "title": [
+            "Element Symbol",
+            "Atomic Number",
+            "Group Category",
+            "Bonding Capability",
+            "Common State at STP",
+            "Electron Configuration End"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the elements of atoms that can not bond with any other atoms.",
+        "data": [
+            [
+                "He",
+                "2",
+                "Noble Gas",
+                "None",
+                "Gas",
+                "s\u00b2"
+            ],
+            [
+                "Ne",
+                "10",
+                "Noble Gas",
+                "None",
+                "Gas",
+                "p\u2076"
+            ],
+            [
+                "Ar",
+                "18",
+                "Noble gas",
+                "None",
+                "Gas",
+                "p\u2076"
+            ],
+            [
+                "Kr",
+                "36",
+                "Noble gas",
+                "Minimal/Inert",
+                "Gas",
+                "p\u2076"
+            ],
+            [
+                "Xe",
+                "54",
+                "Noble gases",
+                "Rarely reactive",
+                "Gas",
+                "p\u2076"
+            ],
+            [
+                "Rn",
+                "86",
+                "Radioactive noble gas",
+                "Extremely rare reactivity",
+                "Gas",
+                "p\u2076"
+            ]
+        ]
+    }
+}

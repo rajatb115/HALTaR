@@ -1,0 +1,85 @@
+{
+    "table-294-294": {
+        "title": [
+            "Address ID",
+            "Address Line 1",
+            "Address Line 2",
+            "City",
+            "State/Province",
+            "Postal Code",
+            "Country"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "what are all the addresses including line 1 and line 2?",
+        "data": [
+            [
+                "101",
+                "123 Main St",
+                "Apt 4B",
+                "Anytown",
+                "CA",
+                "90210",
+                "USA"
+            ],
+            [
+                "102",
+                "456 Oak Ave",
+                "Suite 200",
+                "Big City",
+                "NY",
+                "10001",
+                "USA"
+            ],
+            [
+                "103",
+                "789 Pine Ln",
+                "N/A",
+                "Smallville",
+                "TX",
+                "75001",
+                "USA"
+            ],
+            [
+                "104",
+                "10 Downing St",
+                "N/A",
+                "London",
+                "England",
+                "SW1A 2AA",
+                "UK"
+            ],
+            [
+                "105",
+                "1600 Pennsylvania Ave NW",
+                "N/A",
+                "Washington",
+                "DC",
+                "20500",
+                "USA"
+            ],
+            [
+                "106",
+                "1 Yonge St",
+                "Unit 1500",
+                "Toronto",
+                "ON",
+                "M5E 1E5",
+                "Canada"
+            ],
+            [
+                "107",
+                "221B Baker St",
+                "N/A",
+                "London",
+                "England",
+                "NW1 6XE",
+                "UK"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-72-72": {
+        "title": [
+            "School Name",
+            "District Code",
+            "Magnet Program",
+            "City"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Fresno School Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the district code for the School that does not offer a magnet program in the city of Fresno?",
+        "data": [
+            [
+                "School A",
+                "12345",
+                "No",
+                "Fresno"
+            ],
+            [
+                "School B",
+                "67890",
+                "Yes",
+                "Fresno"
+            ],
+            [
+                "School C",
+                "24680",
+                "No",
+                "Fresno"
+            ],
+            [
+                "School D",
+                "13579",
+                "Yes",
+                "Fresno"
+            ],
+            [
+                "School E",
+                "98765",
+                "No",
+                "Fresno"
+            ]
+        ]
+    }
+}

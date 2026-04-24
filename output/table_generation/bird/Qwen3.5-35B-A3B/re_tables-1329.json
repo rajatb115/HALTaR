@@ -1,0 +1,85 @@
+{
+    "table-1329-1329": {
+        "title": [
+            "Last_Name",
+            "Major",
+            "Degree_Level",
+            "Graduation_Year",
+            "GPA_Status",
+            "Enrollment_ID",
+            "Department_Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the last name of all the students who majored Law and Constitutional Studies. \n",
+        "data": [
+            [
+                "Smith",
+                "Law and constitutional studies",
+                "Bachelor",
+                "4.0",
+                "Active",
+                "LWS-2021-0042",
+                "LAW-CO"
+            ],
+            [
+                "Johnson",
+                "Law & Constitutional Studies",
+                "Master",
+                "3.75",
+                "Active /LCS-MST/",
+                "",
+                ""
+            ],
+            [
+                "Williams",
+                "Law - Constitutional Focus",
+                "Doctorate",
+                "6.0 / PhD",
+                "Inactive",
+                "LCS-PHD-0115",
+                "LAW-HR"
+            ],
+            [
+                "Brown",
+                "Legal Studies (Constitutional Track)",
+                "Bachelor / Pre-Law",
+                "N/A",
+                "Pending Admission",
+                "PRE-LAW-2201 / LEGAL-BAS",
+                ""
+            ],
+            [
+                "Davis",
+                "Jurisprudence and Constitutionality",
+                "Master / LL.M",
+                "5.5 / Specialized",
+                "Alumni",
+                "JPC-MST-0330",
+                "LAW-JUR"
+            ],
+            [
+                "Miller",
+                "Civil Rights and Constitutional Law",
+                "Bachelor + Minor",
+                "8.0 Dual-Degree",
+                "Active LCS-BA-0992",
+                "CIV-RIGHTS",
+                ""
+            ],
+            [
+                "Wilson",
+                "Comparative Constitutional Systems",
+                "Graduate Certificate",
+                "9.0 Intensive Program",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-128-128": {
+        "title": [
+            "Airline",
+            "Origin Airport"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Airlines Serving Multiple Airports",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find all airlines that have flights from both airports 'APG' and 'CVO'.",
+        "data": [
+            [
+                "United",
+                "APG"
+            ],
+            [
+                "United",
+                "CVO"
+            ],
+            [
+                "American",
+                "APG"
+            ],
+            [
+                "Delta",
+                "CVO"
+            ],
+            [
+                "Southwest",
+                "APG"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-811-811": {
+        "title": [
+            "Superhero Name",
+            "Race",
+            "Universe",
+            "Primary Attribute",
+            "Attribute Score",
+            "Alignment"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the race of the superhero with maximum attribute value?",
+        "data": [
+            [
+                "Superman",
+                "Kryptonian",
+                "DC",
+                "Strength",
+                "100",
+                "Good"
+            ],
+            [
+                "Batman",
+                "Human (Caucasian)",
+                "DC",
+                "Intelligence",
+                "95",
+                "Good"
+            ],
+            [
+                "Wonder Woman",
+                "Amazonian",
+                "DC",
+                "Durability",
+                "90",
+                "Good"
+            ],
+            [
+                "Black Panther",
+                "Human (African)",
+                "Marvel",
+                "Intelligence",
+                "88",
+                "Good"
+            ],
+            [
+                "Hulk",
+                "Human (Caucasian)",
+                "Marvel",
+                "Strength",
+                "98",
+                "Good"
+            ],
+            [
+                "Martian Manhunter",
+                "Martian",
+                "DC",
+                "Telepathy",
+                "92",
+                "Good"
+            ],
+            [
+                "Storm",
+                "Human (African)",
+                "Marvel",
+                "Weather Control",
+                "85",
+                "Good"
+            ]
+        ]
+    }
+}

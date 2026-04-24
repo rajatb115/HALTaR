@@ -1,0 +1,45 @@
+{
+    "table-470-470": {
+        "title": [
+            "Continent",
+            "Chinese Speakers",
+            "Percentage of Continent Population"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Chinese Language Distribution",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many continents speak Chinese?",
+        "data": [
+            [
+                "Asia",
+                "1,100,000,000",
+                "25%"
+            ],
+            [
+                "North America",
+                "3,800,000",
+                "0.7%"
+            ],
+            [
+                "Europe",
+                "2,300,000",
+                "0.3%"
+            ],
+            [
+                "Australia",
+                "1,400,000",
+                "5.5%"
+            ],
+            [
+                "Africa",
+                "300,000",
+                "0.02%"
+            ]
+        ]
+    }
+}

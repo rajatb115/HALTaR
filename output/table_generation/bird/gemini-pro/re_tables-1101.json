@@ -1,0 +1,52 @@
+{
+    "table-1101-1101": {
+        "title": [
+            "Player Name",
+            "Overall Rating",
+            "Potential",
+            "Position"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Player Ratings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the highest overall rating received by Dorlan Pabon?",
+        "data": [
+            [
+                "Dorlan Pabon",
+                "81",
+                "81",
+                "RW"
+            ],
+            [
+                "Lionel Messi",
+                "94",
+                "94",
+                "CF"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "93",
+                "93",
+                "ST"
+            ],
+            [
+                "Neymar Jr",
+                "92",
+                "92",
+                "LW"
+            ],
+            [
+                "Kevin De Bruyne",
+                "91",
+                "91",
+                "CAM"
+            ]
+        ]
+    }
+}

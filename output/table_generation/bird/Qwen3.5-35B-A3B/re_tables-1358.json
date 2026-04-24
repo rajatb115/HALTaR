@@ -1,0 +1,69 @@
+{
+    "table-1358-1358": {
+        "title": [
+            "Member ID",
+            "Full Name",
+            "Dues Amount",
+            "Payment Date",
+            "Status",
+            "Method"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the date Connor Hilton paid his/her dues.",
+        "data": [
+            [
+                "CH-4021",
+                "Connor Hilton",
+                "$150.00",
+                "7/15/2023",
+                "Paid",
+                "Credit Card"
+            ],
+            [
+                "CH-4105",
+                "Sarah Jenkins",
+                "$20.50",
+                "N/A",
+                "Pending",
+                "Bank Transfer"
+            ],
+            [
+                "JH-9921",
+                "John Harris",
+                "$75.00",
+                "Jan 10, 2024",
+                "Completed",
+                "Cash"
+            ],
+            [
+                "ML-3302",
+                "Maria Lopez",
+                "$60.25",
+                "Dec 31, 1999",
+                "Overdue",
+                "Check"
+            ],
+            [
+                "RB-1102",
+                "Robert Brown",
+                "$45.10",
+                "Feb 28, 2002",
+                "Cancelled",
+                "Online"
+            ],
+            [
+                "TK-5501",
+                "Tina King",
+                "$30.75",
+                "Mar 15, 2011",
+                "Refunded",
+                "Debit Card"
+            ]
+        ]
+    }
+}

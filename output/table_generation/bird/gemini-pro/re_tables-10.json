@@ -1,0 +1,45 @@
+{
+    "table-10-10": {
+        "title": [
+            "School Name",
+            "Average SAT Math Score",
+            "Directly Charter Funded"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "SAT Scores and Charter Funding by School",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the schools with the average score in Math over 560 in the SAT test, how many schools are directly charter-funded?",
+        "data": [
+            [
+                "School A",
+                "580",
+                "Yes"
+            ],
+            [
+                "School B",
+                "570",
+                "No"
+            ],
+            [
+                "School C",
+                "600",
+                "Yes"
+            ],
+            [
+                "School D",
+                "590",
+                "No"
+            ],
+            [
+                "School E",
+                "565",
+                "Yes"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-1238-1238": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Hemoglobin Level"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Outpatients with Low Hemoglobin",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all outpatients, list out those have low hemoglobin level. State the different IDs and their sex.",
+        "data": [
+            [
+                "1001",
+                "Male",
+                "12.5 g/dL"
+            ],
+            [
+                "1005",
+                "Female",
+                "11.8 g/dL"
+            ],
+            [
+                "1012",
+                "Male",
+                "13.0 g/dL"
+            ],
+            [
+                "1020",
+                "Female",
+                "11.5 g/dL"
+            ],
+            [
+                "1028",
+                "Male",
+                "12.2 g/dL"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-1295-1295": {
+        "title": [
+            "Patient ID",
+            "Creatinine Level",
+            "Anti-Cardiolipin Antibody Concentration",
+            "Result"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Information Based on Creatinine and Anti-Cardiolipin Antibody Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the patient's ID whose creatinine level is normal and whose anti Cardiolipin antibody concentration level is the highest.",
+        "data": [
+            [
+                "12345",
+                "0.9 mg/dL",
+                "25 U/mL",
+                "Normal Creatinine, Moderate Anti-Cardiolipin"
+            ],
+            [
+                "67890",
+                "1.0 mg/dL",
+                "60 U/mL",
+                "Normal Creatinine, High Anti-Cardiolipin"
+            ],
+            [
+                "24680",
+                "0.8 mg/dL",
+                "10 U/mL",
+                "Normal Creatinine, Low Anti-Cardiolipin"
+            ],
+            [
+                "13579",
+                "1.1 mg/dL",
+                "60 U/mL",
+                "Normal Creatinine, High Anti-Cardiolipin"
+            ],
+            [
+                "98765",
+                "1.2 mg/dL",
+                "30 U/mL",
+                "Normal Creatinine, Moderate Anti-Cardiolipin"
+            ]
+        ]
+    }
+}

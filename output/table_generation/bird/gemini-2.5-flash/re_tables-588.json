@@ -1,0 +1,61 @@
+{
+    "table-588-588": {
+        "title": [
+            "Post Title",
+            "Comments",
+            "Score",
+            "View Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average view count of posts tagged as 'humor' and write the title and the comments of the posts alongside their scores if applicable.",
+        "data": [
+            [
+                "Why did the scarecrow win an award?",
+                "125",
+                "870",
+                "15200"
+            ],
+            [
+                "My dog ate my homework (again)",
+                "89",
+                "620",
+                "11800"
+            ],
+            [
+                "The funniest typo I've ever seen",
+                "210",
+                "1150",
+                "23500"
+            ],
+            [
+                "A compilation of dad jokes",
+                "150",
+                "980",
+                "18900"
+            ],
+            [
+                "When autocorrect goes wrong",
+                "175",
+                "1050",
+                "20100"
+            ],
+            [
+                "My attempt at stand-up comedy",
+                "70",
+                "510",
+                "9500"
+            ],
+            [
+                "Hilarious animal photobombs",
+                "190",
+                "1200",
+                "25000"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-930-930": {
+        "title": [
+            "Race Name",
+            "Circuit Location",
+            "Date",
+            "Team",
+            "Grid Position",
+            "Final Position",
+            "Points Scored"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the Formula_1 races that Lewis Hamilton participated.",
+        "data": [
+            [
+                "Bahrain Grand Prix",
+                "Sakhir",
+                "6 March 24",
+                "Mercedes",
+                "3rd",
+                "4th",
+                "7"
+            ],
+            [
+                "Saudi Arabian Grand Prix",
+                "Jeddah",
+                "9 March 24",
+                "Red Bull Racing",
+                "5th",
+                "Winner",
+                "0"
+            ],
+            [
+                "Australian Grand Prix",
+                "Melbourne",
+                "April 2",
+                "Ferrari",
+                "8th",
+                "DNF",
+                "N/A"
+            ],
+            [
+                "Miami Grand Prix",
+                "Miami Gardens",
+                "May 5",
+                "McLaren",
+                "2nd",
+                "Winner",
+                "1"
+            ],
+            [
+                "Monaco Grand Prix",
+                "Monte Carlo",
+                "June 23",
+                "Mercedes-AMG Petronas F1 Team",
+                "",
+                "Winner",
+                "10"
+            ]
+        ]
+    }
+}

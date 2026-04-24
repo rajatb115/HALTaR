@@ -1,0 +1,53 @@
+{
+    "table-423-423": {
+        "title": [
+            "Vote ID",
+            "Phone Number",
+            "State"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the vote ids, phone numbers and states of all votes.",
+        "data": [
+            [
+                "VOT-1042",
+                "+1-555-0192",
+                "California"
+            ],
+            [
+                "VET-2056",
+                "+44-7700-900456",
+                "Texas"
+            ],
+            [
+                "LEG-3089",
+                "+61-2-9876-5432",
+                "Florida"
+            ],
+            [
+                "REF-4102",
+                "N/A",
+                "New York"
+            ],
+            [
+                "CIT-5118",
+                "+33-1-44556677",
+                "Illinois"
+            ],
+            [
+                "BAL-6134",
+                "+81-3-5678-9101",
+                "Ohio"
+            ],
+            [
+                "MUN-7159",
+                "N/N",
+                "Nevada"
+            ]
+        ]
+    }
+}

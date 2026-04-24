@@ -1,0 +1,62 @@
+{
+    "table-40-40": {
+        "title": [
+            "School Name",
+            "City",
+            "Opening Date",
+            "Test Takers (2023)",
+            "School Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average number of test takers from Fresno schools that opened between 1/1/1980 and 12/31/1980?",
+        "data": [
+            [
+                "Fresno Central High",
+                "Fresno",
+                "1980-08-15",
+                "850",
+                "Public"
+            ],
+            [
+                "Sierra Vista Academy",
+                "Fresno",
+                "1980-09-01",
+                "420",
+                "Private"
+            ],
+            [
+                "Golden Valley Prep",
+                "Fresno",
+                "1980-01-20",
+                "310",
+                "Charter"
+            ],
+            [
+                "Riverbend High School",
+                "Fresno",
+                "1980-07-01",
+                "780",
+                "Public"
+            ],
+            [
+                "Sequoia Heights School",
+                "Fresno",
+                "1980-11-10",
+                "290",
+                "Private"
+            ],
+            [
+                "Sunnyside Middle School",
+                "Fresno",
+                "1980-03-05",
+                "550",
+                "Public"
+            ]
+        ]
+    }
+}

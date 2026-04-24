@@ -1,0 +1,67 @@
+{
+    "table-571-571": {
+        "title": [
+            "User Display Name",
+            "Badge ID",
+            "Badge Name",
+            "Award Date",
+            "Category",
+            "Points",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the user whose display name is \"DatEpicCoderGuyWhoPrograms\", what is his/her badge's name?",
+        "data": [
+            [
+                "DatEpicCodingMaster",
+                "BDG_0042",
+                "Epic Coder",
+                "7/15/2023",
+                "Achievement",
+                "",
+                "Active"
+            ],
+            [
+                "DatEpiCodeWarrior",
+                "BDQ_019",
+                "Code Warrior",
+                "6/22/2023",
+                "Skill",
+                "",
+                "Pending"
+            ],
+            [
+                "DAtEpicDevPro",
+                "BDP_055",
+                "Dev Pro",
+                "8/10/2024",
+                "Expertise",
+                "",
+                "Active"
+            ],
+            [
+                "Dat_Epic_Scripter",
+                "BDS_033",
+                "Script Master",
+                "5/05/1922",
+                "Technical",
+                "",
+                "Inactive"
+            ],
+            [
+                "DatEpicsysAdmin",
+                "BSD_088",
+                "Sys Admin",
+                "9/30/1899",
+                "Infrastructure",
+                "",
+                "Active"
+            ]
+        ]
+    }
+}

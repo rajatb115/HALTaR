@@ -1,0 +1,77 @@
+{
+    "table-270-270": {
+        "title": [
+            "Bond ID",
+            "Element Symbol",
+            "Atomic Number",
+            "Compound Formula",
+            "Molecule Name",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many bond id have element iodine?",
+        "data": [
+            [
+                "BOND_7401_IODINE",
+                "I",
+                "53",
+                "HI",
+                "Hydrogen Iodide",
+                "Active"
+            ],
+            [
+                "BONI_2291_I",
+                "Iodine",
+                "76",
+                "NaI",
+                "Sodium Iodate",
+                "Inactive"
+            ],
+            [
+                "ID_8832_XYZ",
+                "I-127",
+                "88",
+                "KI",
+                "Potassium Iodide",
+                "Pending"
+            ],
+            [
+                "REF_BND_441",
+                "Iodium",
+                "99",
+                "Ca(IO\u2083)\u2082",
+                "Calcium Iodate",
+                "Archived"
+            ],
+            [
+                "LINK_ID_550",
+                "I\u207b",
+                "67",
+                "NH\u2084IO\u2083",
+                "Ammonium Periodate",
+                "Validated"
+            ],
+            [
+                "CODE_9921_A",
+                "Elemental I",
+                "N/A",
+                "I\u2082O\u2085",
+                "Diiodine Pentoxide",
+                "Draft"
+            ],
+            [
+                "SEQ_NUM_334",
+                "Halogen-I",
+                "44",
+                "CH\u2083I",
+                "Methyl Iodide",
+                "Verified"
+            ]
+        ]
+    }
+}

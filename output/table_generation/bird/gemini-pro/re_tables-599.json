@@ -1,0 +1,40 @@
+{
+    "table-599-599": {
+        "title": [
+            "Year",
+            "Badges Given"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Student Badge Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage difference of student badges given during 2010 and 2011?",
+        "data": [
+            [
+                "2007",
+                "150"
+            ],
+            [
+                "2008",
+                "180"
+            ],
+            [
+                "2009",
+                "200"
+            ],
+            [
+                "2010",
+                "220"
+            ],
+            [
+                "2011",
+                "250"
+            ]
+        ]
+    }
+}

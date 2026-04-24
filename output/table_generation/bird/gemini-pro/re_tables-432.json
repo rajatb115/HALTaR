@@ -1,0 +1,49 @@
+{
+    "table-432-432": {
+        "title": [
+            "Set Name",
+            "Set ID",
+            "Availability",
+            "Foil Cards with Japanese Writing"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Magic: The Gathering Set Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which set is not available outside of the United States and has foil cards with Japanese writing on them? Please include the set ID in your response.",
+        "data": [
+            [
+                "War of the Spark: Japanese Alt Art Planeswalkers",
+                "WAR",
+                "US Only",
+                "Yes"
+            ],
+            [
+                "Dominaria",
+                "DOM",
+                "Worldwide",
+                "No"
+            ],
+            [
+                "Throne of Eldraine",
+                "ELD",
+                "Worldwide",
+                "No"
+            ],
+            [
+                "Strixhaven: School of Mages",
+                "STX",
+                "Worldwide",
+                "Yes"
+            ],
+            [
+                "Kamigawa: Neon Dynasty",
+                "NEO",
+                "Worldwide",
+                "Yes"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-96-96": {
+        "title": [
+            "Model",
+            "Cylinders",
+            "Acceleration"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Volvo Model Specifications",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For model volvo, how many cylinders does the car with the least accelerate have?",
+        "data": [
+            [
+                "Volvo 142E",
+                "4",
+                "14.3"
+            ],
+            [
+                "Volvo 244DL",
+                "4",
+                "16.4"
+            ],
+            [
+                "Volvo 245",
+                "4",
+                "17.7"
+            ],
+            [
+                "Volvo 264GL",
+                "6",
+                "16.5"
+            ],
+            [
+                "Volvo Diesel",
+                "6",
+                "23.7"
+            ]
+        ]
+    }
+}

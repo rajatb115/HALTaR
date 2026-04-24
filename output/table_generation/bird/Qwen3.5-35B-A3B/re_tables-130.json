@@ -1,0 +1,61 @@
+{
+    "table-130-130": {
+        "title": [
+            "District Name",
+            "Transaction Date",
+            "Withdrawal Amount",
+            "Currency",
+            "Account ID",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which are the top ten withdrawals (non-credit card) by district names for the month of January 1996?",
+        "data": [
+            [
+                "North Central",
+                "01/04/1976",
+                "$1,250.00",
+                "USD",
+                "ACC-9002",
+                "Completed"
+            ],
+            [
+                "South East",
+                "31/12/1795",
+                "$980.50",
+                "EUR",
+                "ACC-BB12",
+                "Failed"
+            ],
+            [
+                "West Valley",
+                "45/02/2023",
+                "$2,100.75",
+                "GBP",
+                "ACC-CX88",
+                "Pending"
+            ],
+            [
+                "East Ridge",
+                "56/08/1899",
+                "$3,450.00",
+                "JPY",
+                "ACC-DY44",
+                "Rejected"
+            ],
+            [
+                "Central Plains",
+                "78/03/1654",
+                "$560.25",
+                "CAD",
+                "ACC-EZ11",
+                "Completed"
+            ]
+        ]
+    }
+}

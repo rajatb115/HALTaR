@@ -1,0 +1,94 @@
+{
+    "table-578-578": {
+        "title": [
+            "Dog_Name",
+            "Treatment_Cost",
+            "Owner_ID",
+            "Date_of_Treatment",
+            "Clinic_Location",
+            "Insurance_Covered",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which dogs have not cost their owner more than 1000 for treatment ? List the dog names .",
+        "data": [
+            [
+                "Bella",
+                "$450",
+                "O-1012",
+                "06/15/2023",
+                "Northside Vet",
+                "Yes",
+                "Completed"
+            ],
+            [
+                "Max",
+                "$890",
+                "N/A",
+                "07/22/2023",
+                "Southgate Animal Hospital",
+                "No",
+                "Pending"
+            ],
+            [
+                "Luna",
+                "$120",
+                "L-554",
+                "08/01/2024",
+                "Westend Care Center",
+                "Partially",
+                "Discharged"
+            ],
+            [
+                "Charlie",
+                "$0",
+                "C-998",
+                "09/10/2021",
+                "Eastview Pet Clinic",
+                "None",
+                "Routine Checkup"
+            ],
+            [
+                "Daisy",
+                "$750.50",
+                "D-221",
+                "11/05/2019",
+                "Central City Vets",
+                "Yes",
+                "Recovering"
+            ],
+            [
+                "Rocky",
+                "$920",
+                "R-332",
+                "12/12/2020",
+                "Midtown Veterinary Services",
+                "No",
+                "In Progress"
+            ],
+            [
+                "Cooper",
+                "$300",
+                "K-445",
+                "01/15/2024",
+                "Riverside Animal Clinic",
+                "Yes",
+                "Healthy"
+            ],
+            [
+                "Milo",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

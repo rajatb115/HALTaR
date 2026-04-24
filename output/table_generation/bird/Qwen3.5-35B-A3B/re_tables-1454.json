@@ -1,0 +1,55 @@
+{
+    "table-1454-1454": {
+        "title": [
+            "Event_Name",
+            "Parking_Cost_Avg",
+            "Total_Events",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of events with less than average parking cost.",
+        "data": [
+            [
+                "Grand Music Festival",
+                "$45.00",
+                "",
+                "Active"
+            ],
+            [
+                "City Art Walk",
+                "$32.50",
+                "",
+                "Inactive"
+            ],
+            [
+                "Tech Innovation Expo",
+                "$28.75",
+                "",
+                "Pending"
+            ],
+            [
+                "Community Charity Run",
+                "$15.20",
+                "",
+                "Completed"
+            ],
+            [
+                "Historical Parade",
+                "$0.01",
+                "",
+                "Cancelled"
+            ],
+            [
+                "Winter Light Show",
+                "$62.05",
+                "",
+                "Active"
+            ]
+        ]
+    }
+}

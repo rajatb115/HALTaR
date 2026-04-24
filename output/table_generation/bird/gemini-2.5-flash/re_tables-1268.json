@@ -1,0 +1,53 @@
+{
+    "table-1268-1268": {
+        "title": [
+            "Anti-SM Status",
+            "Thrombosis Severity",
+            "Patient Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients with normal anti-SM, how many of them have the most severe degree of thrombosis?",
+        "data": [
+            [
+                "Normal",
+                "Severe",
+                "15"
+            ],
+            [
+                "Normal",
+                "Moderate",
+                "42"
+            ],
+            [
+                "Normal",
+                "Mild",
+                "78"
+            ],
+            [
+                "Elevated",
+                "Severe",
+                "28"
+            ],
+            [
+                "Elevated",
+                "Moderate",
+                "55"
+            ],
+            [
+                "Low",
+                "Severe",
+                "10"
+            ],
+            [
+                "Low",
+                "No Thrombosis",
+                "120"
+            ]
+        ]
+    }
+}

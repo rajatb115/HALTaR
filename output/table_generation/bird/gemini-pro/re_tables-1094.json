@@ -1,0 +1,39 @@
+{
+    "table-1094-1094": {
+        "title": [
+            "Birth Year",
+            "Average Overall Rating"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Player Statistics by Birth Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average overall rating of the players born before the year 1986?",
+        "data": [
+            [
+                "Before 1980",
+                "78"
+            ],
+            [
+                "1980-1982",
+                "75"
+            ],
+            [
+                "1983-1985",
+                "72"
+            ],
+            [
+                "1986-1988",
+                "70"
+            ],
+            [
+                "After 1988",
+                "68"
+            ]
+        ]
+    }
+}

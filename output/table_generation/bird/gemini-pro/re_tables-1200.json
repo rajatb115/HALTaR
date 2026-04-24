@@ -1,0 +1,58 @@
+{
+    "table-1200-1200": {
+        "title": [
+            "Patient ID",
+            "Test Date",
+            "Protein Level",
+            "Normal Range",
+            "Outcome"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Patient Protein Levels and Testing Outcomes in 1997",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients who underwent testing in 1997 had protein levels outside the normal range?",
+        "data": [
+            [
+                "12345",
+                "1997-03-15",
+                "7.2",
+                "6.0-7.0",
+                "High"
+            ],
+            [
+                "67890",
+                "1997-05-22",
+                "6.5",
+                "6.0-7.0",
+                "Normal"
+            ],
+            [
+                "24680",
+                "1997-08-10",
+                "5.8",
+                "6.0-7.0",
+                "Low"
+            ],
+            [
+                "13579",
+                "1997-11-01",
+                "7.5",
+                "6.0-7.0",
+                "High"
+            ],
+            [
+                "98765",
+                "1997-12-28",
+                "6.2",
+                "6.0-7.0",
+                "Normal"
+            ]
+        ]
+    }
+}

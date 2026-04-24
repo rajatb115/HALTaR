@@ -1,0 +1,45 @@
+{
+    "table-53-53": {
+        "title": [
+            "School Name",
+            "Mailing City",
+            "Total SAT Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Schools Meeting SAT Score Criteria",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total number of schools whose total SAT scores are greater or equal to 1500 whose mailing city is Lakeport?",
+        "data": [
+            [
+                "School A",
+                "Lakeport",
+                "1550"
+            ],
+            [
+                "School B",
+                "Lakeport",
+                "1600"
+            ],
+            [
+                "School C",
+                "Lakeport",
+                "1500"
+            ],
+            [
+                "School D",
+                "Lakeport",
+                "1700"
+            ],
+            [
+                "School E",
+                "Lakeport",
+                "1520"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-498-498": {
+        "title": [
+            "City",
+            "Country",
+            "Official Language",
+            "Continent",
+            "City Population (Millions)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which cities are in European countries where English is not the official language?",
+        "data": [
+            [
+                "Paris",
+                "France",
+                "French",
+                "Europe",
+                "2.1"
+            ],
+            [
+                "Berlin",
+                "Germany",
+                "German",
+                "Europe",
+                "3.7"
+            ],
+            [
+                "Madrid",
+                "Spain",
+                "Spanish",
+                "Europe",
+                "3.3"
+            ],
+            [
+                "Rome",
+                "Italy",
+                "Italian",
+                "Europe",
+                "2.8"
+            ],
+            [
+                "Amsterdam",
+                "Netherlands",
+                "Dutch",
+                "Europe",
+                "0.8"
+            ],
+            [
+                "Stockholm",
+                "Sweden",
+                "Swedish",
+                "Europe",
+                "1.0"
+            ],
+            [
+                "Warsaw",
+                "Poland",
+                "Polish",
+                "Europe",
+                "1.8"
+            ]
+        ]
+    }
+}

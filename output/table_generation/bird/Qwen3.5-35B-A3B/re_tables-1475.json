@@ -1,0 +1,77 @@
+{
+    "table-1475-1475": {
+        "title": [
+            "Customer ID",
+            "Currency",
+            "Consumption Unit",
+            "Gas Volume",
+            "Billing Period",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which customers, paying in CZK, consumed the most gas in 2011?",
+        "data": [
+            [
+                "CZK-4002",
+                "CZK",
+                "MWh",
+                "4520.5",
+                "Jan-Dec 2002",
+                "Active"
+            ],
+            [
+                "CJH-7719",
+                "CZK",
+                "kWh",
+                "3890.2",
+                "Q1-Q4 2011",
+                "Pending"
+            ],
+            [
+                "VLT-1103",
+                "CZK",
+                "GJ",
+                "6100.8",
+                "Full-Year 2011",
+                "Completed"
+            ],
+            [
+                "BRT-9921",
+                "CZK",
+                "m\u00b3",
+                "5230.1",
+                "Calendar Year 2021",
+                "Verified"
+            ],
+            [
+                "DPL-3345",
+                "CZK",
+                "L",
+                "78000",
+                "Annual Cycle 2011",
+                "Confirmed"
+            ],
+            [
+                "FGR-5567",
+                "CZK",
+                "BTU",
+                "9102.3",
+                "Fiscal Year 2011",
+                "Finalized"
+            ],
+            [
+                "GHW-8821",
+                "CZK",
+                "MJ",
+                "8450.6",
+                "Reporting Period 2021",
+                "Approved"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-962-962": {
+        "title": [
+            "Race Name",
+            "Year",
+            "Finishing Time"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Fastest Race Times",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which race has the shortest actual finishing time? Please give the name and year.",
+        "data": [
+            [
+                "Monaco Grand Prix",
+                "2023",
+                "1:20:26.991"
+            ],
+            [
+                "Italian Grand Prix",
+                "2020",
+                "1:12:47.184"
+            ],
+            [
+                "Singapore Grand Prix",
+                "2018",
+                "1:51:11.611"
+            ],
+            [
+                "Belgian Grand Prix",
+                "2021",
+                "0:03:27.071"
+            ],
+            [
+                "Australian Grand Prix",
+                "2022",
+                "1:27:24.752"
+            ]
+        ]
+    }
+}

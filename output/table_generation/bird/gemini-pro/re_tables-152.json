@@ -1,0 +1,39 @@
+{
+    "table-152-152": {
+        "title": [
+            "District Name",
+            "Number of Withdrawal Transactions"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Districts with Withdrawal Transactions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the name of the districts with accounts that made withdrawal transactions.",
+        "data": [
+            [
+                "District A",
+                "120"
+            ],
+            [
+                "District B",
+                "85"
+            ],
+            [
+                "District C",
+                "150"
+            ],
+            [
+                "District D",
+                "92"
+            ],
+            [
+                "District E",
+                "110"
+            ]
+        ]
+    }
+}

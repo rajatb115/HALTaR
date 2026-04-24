@@ -1,0 +1,43 @@
+{
+    "table-272-272": {
+        "title": [
+            "Bond ID",
+            "Element",
+            "Present"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Bond Composition Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Does bond id TR001_1_8 have both element of chlorine and carbon?",
+        "data": [
+            [
+                "TR001_1_8",
+                "Chlorine",
+                "Yes"
+            ],
+            [
+                "TR001_1_8",
+                "Carbon",
+                "Yes"
+            ],
+            [
+                "TR001_1_8",
+                "Oxygen",
+                "No"
+            ],
+            [
+                "TR001_1_8",
+                "Hydrogen",
+                "Yes"
+            ],
+            [
+                "TR001_1_8",
+                "Nitrogen",
+                "No"
+            ]
+        ]
+    }
+}

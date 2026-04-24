@@ -1,0 +1,83 @@
+{
+    "table-596-596": {
+        "title": [
+            "User_ID",
+            "Post_Count_Per_Post",
+            "Total_Views",
+            "Account_Status",
+            "Last_Active_Date",
+            "Platform_Type",
+            "Region_Code",
+            "Verification_Level"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user have only one post history per post and having at least 1000 views?",
+        "data": [
+            [
+                "U1042",
+                "0",
+                "7650",
+                "Active",
+                "5/12/2023",
+                "Forum",
+                "US-EAST",
+                "Verified"
+            ],
+            [
+                "U2918",
+                "3",
+                "420",
+                "Inactive",
+                "8/01/2022",
+                "Blog",
+                "EU-WEST",
+                "Unverified"
+            ],
+            [
+                "B3301A",
+                "-1",
+                "999",
+                "Suspended",
+                "",
+                "Social",
+                "ASIA-PAC",
+                "Pending"
+            ],
+            [
+                "C5592X",
+                "6",
+                "12500",
+                "Deleted",
+                "",
+                "Community",
+                "NA-SOUTH",
+                "Verified"
+            ],
+            [
+                "D7710Z",
+                "0",
+                "",
+                "Active",
+                "11/05/2023",
+                "App",
+                "UK-NORTH",
+                "Trusted"
+            ],
+            [
+                "E8821M",
+                "-2",
+                "300",
+                "Inactive",
+                "",
+                "Mobile",
+                "LATAM",
+                "Standard"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-1400-1400": {
+        "title": [
+            "Attendee Name",
+            "Event Name",
+            "Attended"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Event Attendance Records",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Did Maya Mclean attend the 'Women's Soccer' event?",
+        "data": [
+            [
+                "Maya Mclean",
+                "Women's Soccer",
+                "Yes"
+            ],
+            [
+                "John Smith",
+                "Robotics Fair",
+                "Yes"
+            ],
+            [
+                "Emily Carter",
+                "Women's Soccer",
+                "No"
+            ],
+            [
+                "David Lee",
+                "Science Olympiad",
+                "Yes"
+            ],
+            [
+                "Sarah Chen",
+                "Robotics Fair",
+                "No"
+            ]
+        ]
+    }
+}

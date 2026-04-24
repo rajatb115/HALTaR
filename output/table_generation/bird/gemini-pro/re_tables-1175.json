@@ -1,0 +1,46 @@
+{
+    "table-1175-1175": {
+        "title": [
+            "Patient ID",
+            "Examination Date",
+            "Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Patient Examination Statistics in October 1991",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average age of patients examined in the laboratory for the October of the year 1991?",
+        "data": [
+            [
+                "12345",
+                "1991-10-05",
+                "35"
+            ],
+            [
+                "67890",
+                "1991-10-12",
+                "62"
+            ],
+            [
+                "13579",
+                "1991-10-19",
+                "48"
+            ],
+            [
+                "24680",
+                "1991-10-26",
+                "29"
+            ],
+            [
+                "98765",
+                "1991-10-31",
+                "51"
+            ]
+        ]
+    }
+}

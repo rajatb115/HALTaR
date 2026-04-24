@@ -1,0 +1,51 @@
+{
+    "table-149-149": {
+        "title": [
+            "Account ID",
+            "Account Name",
+            "District",
+            "Loan Eligibility"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Eligible Loan Accounts in Tabor District",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the accounts whose district is Tabor that are eligible for loans.",
+        "data": [
+            [
+                "12345",
+                "John Smith",
+                "Tabor",
+                "Yes"
+            ],
+            [
+                "67890",
+                "Alice Brown",
+                "Tabor",
+                "Yes"
+            ],
+            [
+                "24680",
+                "Carol Davis",
+                "Tabor",
+                "No"
+            ],
+            [
+                "13579",
+                "David White",
+                "Tabor",
+                "Yes"
+            ],
+            [
+                "98765",
+                "Emily Green",
+                "Tabor",
+                "No"
+            ]
+        ]
+    }
+}

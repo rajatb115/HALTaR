@@ -1,0 +1,61 @@
+{
+    "table-1251-1251": {
+        "title": [
+            "Patient_ID",
+            "Diagnosis",
+            "Proteinuria_Level",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which patient has a normal proteinuria level and is diagnosed with SLE? Please give his or her patient ID.",
+        "data": [
+            [
+                "P_4021",
+                "Systemic Lupus Erythematosus",
+                "Normal",
+                "Active"
+            ],
+            [
+                "P_A77B",
+                "Systematic Lupus",
+                "Low-Normal",
+                "Stable"
+            ],
+            [
+                "M_99X2",
+                "SLE",
+                "Within Reference Range",
+                "Remission"
+            ],
+            [
+                "K_L004",
+                "Autoimmune Disorder (SLE)",
+                "< 150 mg/day",
+                "Monitoring"
+            ],
+            [
+                "R_T11Z",
+                "Lupus Nephritis Class I",
+                "Negative",
+                "Controlled"
+            ],
+            [
+                "J_M33Q",
+                "Primary Sjogren's/SLE overlap",
+                "Borderline Normal",
+                "Flare-up"
+            ],
+            [
+                "V_B88L",
+                "Secondary SLE due to Drug Reaction",
+                "Undetectable",
+                "Resolved"
+            ]
+        ]
+    }
+}

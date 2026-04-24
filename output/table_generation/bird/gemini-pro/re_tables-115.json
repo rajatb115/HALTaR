@@ -1,0 +1,52 @@
+{
+    "table-115-115": {
+        "title": [
+            "Client ID",
+            "Account ID",
+            "City",
+            "Open Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Client Account Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the first client who opened his/her account in Prague, what is his/her account ID?",
+        "data": [
+            [
+                "101",
+                "5001",
+                "Prague",
+                "2022-01-15"
+            ],
+            [
+                "102",
+                "5002",
+                "London",
+                "2022-02-20"
+            ],
+            [
+                "103",
+                "5003",
+                "Paris",
+                "2022-03-10"
+            ],
+            [
+                "104",
+                "5004",
+                "Prague",
+                "2022-04-01"
+            ],
+            [
+                "105",
+                "5005",
+                "Berlin",
+                "2022-05-05"
+            ]
+        ]
+    }
+}

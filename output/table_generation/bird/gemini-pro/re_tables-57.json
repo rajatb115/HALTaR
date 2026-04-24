@@ -1,0 +1,49 @@
+{
+    "table-57-57": {
+        "title": [
+            "School Name",
+            "Mailing State",
+            "County",
+            "Active Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Active Schools in San Joaquin, CA",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of all the schools with a mailing state address in California, how many are active in San Joaquin?",
+        "data": [
+            [
+                "University of the Pacific",
+                "CA",
+                "San Joaquin",
+                "Active"
+            ],
+            [
+                "San Joaquin Delta College",
+                "CA",
+                "San Joaquin",
+                "Active"
+            ],
+            [
+                "Humphreys University",
+                "CA",
+                "San Joaquin",
+                "Active"
+            ],
+            [
+                "California State University, Stanislaus - Stockton Campus",
+                "CA",
+                "San Joaquin",
+                "Active"
+            ],
+            [
+                "National University - Stockton",
+                "CA",
+                "San Joaquin",
+                "Active"
+            ]
+        ]
+    }
+}

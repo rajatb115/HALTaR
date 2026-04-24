@@ -1,0 +1,46 @@
+{
+    "table-664-664": {
+        "title": [
+            "User ID",
+            "Username",
+            "Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "User Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the id of the youngest user?",
+        "data": [
+            [
+                "123",
+                "Alice",
+                "30"
+            ],
+            [
+                "456",
+                "Bob",
+                "25"
+            ],
+            [
+                "789",
+                "Charlie",
+                "40"
+            ],
+            [
+                "101",
+                "David",
+                "22"
+            ],
+            [
+                "112",
+                "Eve",
+                "35"
+            ]
+        ]
+    }
+}

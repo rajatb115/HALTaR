@@ -1,0 +1,85 @@
+{
+    "table-241-241": {
+        "title": [
+            "First_Name",
+            "Birth_Date",
+            "Country_Code",
+            "Team_Affiliation",
+            "Position",
+            "Games_Played",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the first name and birth date of all players from the country with code USA.",
+        "data": [
+            [
+                "Michael",
+                "4/6/1978",
+                "USA",
+                "Lakers",
+                "Forward",
+                "82",
+                "Active"
+            ],
+            [
+                "LeBron",
+                "3/2/1884",
+                "USA",
+                "Cavaliers",
+                "Guard",
+                "76",
+                "Injured"
+            ],
+            [
+                "Stephen",
+                "5/14/1785",
+                "USA",
+                "Warriors",
+                "Point_Guard",
+                "68",
+                "Retired"
+            ],
+            [
+                "Kevin",
+                "9/24/2088",
+                "USA",
+                "Nets",
+                "Center",
+                "0",
+                "Suspended"
+            ],
+            [
+                "James",
+                "12/30/1089",
+                "USA",
+                "Bulls",
+                "Shooting_Guard",
+                "55",
+                "Free_Agent"
+            ],
+            [
+                "Klay",
+                "2/8/1190",
+                "USA",
+                "Mavericks",
+                "Small_Forward",
+                "42",
+                "DNP"
+            ],
+            [
+                "Anthony",
+                "",
+                "USA",
+                "Rockets",
+                "Power_Foward",
+                "N/A",
+                "N/A"
+            ]
+        ]
+    }
+}

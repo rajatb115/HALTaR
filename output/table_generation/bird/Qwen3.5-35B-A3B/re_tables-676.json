@@ -1,0 +1,55 @@
+{
+    "table-676-676": {
+        "title": [
+            "User_ID",
+            "Reputation",
+            "Total_Views",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users whose reputations are higher than 2000 and the number of views is higher than 1000?",
+        "data": [
+            [
+                "U1042",
+                "3250",
+                "4500",
+                "Active"
+            ],
+            [
+                "U2193",
+                "5670",
+                "120",
+                "Inactive"
+            ],
+            [
+                "B3055",
+                "8900",
+                "1500",
+                "Verified"
+            ],
+            [
+                "C4102",
+                "N/A",
+                "2300",
+                "Pending"
+            ],
+            [
+                "D5218",
+                "6105",
+                "90",
+                "Suspended"
+            ],
+            [
+                "E6340",
+                "12400",
+                "7800",
+                "Active"
+            ]
+        ]
+    }
+}

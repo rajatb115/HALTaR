@@ -1,0 +1,93 @@
+{
+    "table-1348-1348": {
+        "title": [
+            "Person Name",
+            "Hometown County",
+            "State/Region",
+            "Country",
+            "Data Source Confidence",
+            "Record Status",
+            "Last Verified Date",
+            "Notes"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Tell the hometown county for \"Adela O'Gallagher\".",
+        "data": [
+            [
+                "Adela O'Gallagher",
+                "Galway",
+                "Connacht",
+                "Ireland",
+                "High",
+                "Active",
+                "4/16/2024",
+                "Primary residence confirmed"
+            ],
+            [
+                "Mairead O'Flaherty",
+                "Mayo",
+                "Connacht",
+                "Ireland",
+                "Medium",
+                "Active",
+                "4/15/2024",
+                "Nearby family record"
+            ],
+            [
+                "Rory MacDermott",
+                "Roscommon",
+                "Connaught",
+                "Ireland",
+                "High",
+                "Inactive",
+                "3/22/2024",
+                "Historical reference only"
+            ],
+            [
+                "Siobhan Kelly",
+                "Sligo",
+                "Ulster",
+                "Ireland",
+                "Pending",
+                "N/A",
+                "",
+                "Recent application filed"
+            ],
+            [
+                "Eamon Byrne",
+                "Leitrim",
+                "Leinster",
+                "Ireland",
+                "Low",
+                "Archived",
+                "",
+                "Pre-dates current census"
+            ],
+            [
+                "Caitlin Murphy",
+                "Clare",
+                "Munster",
+                "Ireland",
+                "High",
+                "Verified",
+                "",
+                "Cross-referenced in church records"
+            ],
+            [
+                "Liam O'Sullivan",
+                "Kerry",
+                "Munster",
+                "Ireland",
+                "Medium",
+                "Updated",
+                "",
+                "Address change reported last month"
+            ]
+        ]
+    }
+}

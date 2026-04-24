@@ -1,0 +1,45 @@
+{
+    "table-1516-1516": {
+        "title": [
+            "Customer ID",
+            "Timestamp",
+            "Segment"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Customer Segmentation Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What segment did the customer have at 2012/8/23 21:20:00?",
+        "data": [
+            [
+                "12345",
+                "2012-08-23 21:18:00",
+                "Value"
+            ],
+            [
+                "12345",
+                "2012-08-23 21:19:00",
+                "Value"
+            ],
+            [
+                "12345",
+                "2012-08-23 21:20:00",
+                "Premium"
+            ],
+            [
+                "67890",
+                "2012-08-23 21:20:00",
+                "Basic"
+            ],
+            [
+                "13579",
+                "2012-08-23 21:20:00",
+                "Value"
+            ]
+        ]
+    }
+}

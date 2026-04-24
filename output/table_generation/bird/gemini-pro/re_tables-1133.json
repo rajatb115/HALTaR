@@ -1,0 +1,35 @@
+{
+    "table-1133-1133": {
+        "title": [
+            "Player Name",
+            "Height (cm)",
+            "Position"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Tallest Football Players",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide the names of top three football players who are over 180 cm tall in alphabetical order.",
+        "data": [
+            [
+                "Virgil van Dijk",
+                "193",
+                "Defender"
+            ],
+            [
+                "Harry Kane",
+                "188",
+                "Forward"
+            ],
+            [
+                "Erling Haaland",
+                "195",
+                "Forward"
+            ]
+        ]
+    }
+}

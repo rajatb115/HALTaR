@@ -1,0 +1,55 @@
+{
+    "table-428-428": {
+        "title": [
+            "Vote ID",
+            "Contestant Name",
+            "Create Date",
+            "State",
+            "Phone Number"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the create dates, states, and phone numbers of the votes that were for the contestant named 'Tabatha Gehling'?",
+        "data": [
+            [
+                "VOTE_0042",
+                "Tabatha Gehlings",
+                "7/12/2023",
+                "California",
+                "555-0192"
+            ],
+            [
+                "VOTE_0156",
+                "Tabitha Gelling",
+                "8/03/2023 23:45",
+                "Texas",
+                "305-8821"
+            ],
+            [
+                "VOTG_9921",
+                "Tabatha Geiling",
+                "9/15/2022 14:20",
+                "Florida",
+                "404-5567"
+            ],
+            [
+                "VTABH_33",
+                "Tabahta Gehlin",
+                "6/30/2024 09:15",
+                "New York",
+                "021-9988"
+            ],
+            [
+                "VGELNA",
+                "Tabata Gehleng",
+                "",
+                "Nevada",
+                "(702) 500-111"
+            ]
+        ]
+    }
+}

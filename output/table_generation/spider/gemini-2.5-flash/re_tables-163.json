@@ -1,0 +1,61 @@
+{
+    "table-163-163": {
+        "title": [
+            "District",
+            "Shop Name",
+            "Product Count",
+            "Primary Category"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the districts in which there are both shops selling less than 3000 products and shops selling more than 10000 products.",
+        "data": [
+            [
+                "Central Plaza",
+                "Boutique Chic",
+                "2850",
+                "Apparel"
+            ],
+            [
+                "Central Plaza",
+                "Mega Mart",
+                "11200",
+                "Electronics"
+            ],
+            [
+                "West End",
+                "Book Nook",
+                "1950",
+                "Books"
+            ],
+            [
+                "West End",
+                "Home Depot Pro",
+                "10800",
+                "Hardware"
+            ],
+            [
+                "East Side",
+                "Fresh Foods",
+                "6500",
+                "Groceries"
+            ],
+            [
+                "Northwood",
+                "Artisan Crafts",
+                "2100",
+                "Hobbies"
+            ],
+            [
+                "Northwood",
+                "Tech World",
+                "13500",
+                "Gadgets"
+            ]
+        ]
+    }
+}

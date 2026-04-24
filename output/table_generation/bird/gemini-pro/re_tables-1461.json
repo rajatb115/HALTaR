@@ -1,0 +1,43 @@
+{
+    "table-1461-1461": {
+        "title": [
+            "Member Name",
+            "Item Description",
+            "Cost"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Member Expenses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write the full name of the member who spent money for water, veggie tray and supplies and include the cost of it.",
+        "data": [
+            [
+                "John Smith",
+                "Water",
+                "$15.00"
+            ],
+            [
+                "Jane Doe",
+                "Veggie Tray",
+                "$25.00"
+            ],
+            [
+                "Peter Jones",
+                "Supplies",
+                "$50.00"
+            ],
+            [
+                "John Smith",
+                "Supplies",
+                "$30.00"
+            ],
+            [
+                "Alice Brown",
+                "Water",
+                "$20.00"
+            ]
+        ]
+    }
+}

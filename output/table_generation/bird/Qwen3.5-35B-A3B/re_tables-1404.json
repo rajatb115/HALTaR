@@ -1,0 +1,62 @@
+{
+    "table-1404-1404": {
+        "title": [
+            "Event_Name",
+            "Status",
+            "Budget_USD",
+            "Actual_Cost_USD",
+            "Overrun_Amount_USD %"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicate the name of the closed event whose cost has exceeded the budget the most.",
+        "data": [
+            [
+                "Annual Tech Summit",
+                "Closed",
+                "$500,000",
+                "$675,040",
+                "+35%"
+            ],
+            [
+                "Global Music Festival",
+                "Open",
+                "$1,205,505",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "City Charity Gala",
+                "Closed",
+                "$250,100",
+                "$312,625",
+                "+25%"
+            ],
+            [
+                "Regional Science Fair",
+                "Closed",
+                "$120,400",
+                "$138,460",
+                "+15%"
+            ],
+            [
+                "International Food Expo",
+                "Open",
+                "$890,220",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "Community Art Walk",
+                "Closed",
+                "$45,300",
+                "$51,189",
+                "+13%"
+            ]
+        ]
+    }
+}

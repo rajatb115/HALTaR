@@ -1,0 +1,69 @@
+{
+    "table-263-263": {
+        "title": [
+            "Player ID",
+            "First Name",
+            "Last Name",
+            "Country Code",
+            "Tours Completed"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name and country code of the player who did the most number of tours.",
+        "data": [
+            [
+                "P001",
+                "John",
+                "Doe",
+                "USA",
+                "12"
+            ],
+            [
+                "P002",
+                "Maria",
+                "Garcia",
+                "ESP",
+                "15"
+            ],
+            [
+                "P003",
+                "Kenji",
+                "Tanaka",
+                "JPN",
+                "10"
+            ],
+            [
+                "P004",
+                "Sarah",
+                "Smith",
+                "GBR",
+                "18"
+            ],
+            [
+                "P005",
+                "David",
+                "Lee",
+                "AUS",
+                "14"
+            ],
+            [
+                "P006",
+                "Elena",
+                "Dubois",
+                "FRA",
+                "11"
+            ],
+            [
+                "P007",
+                "Omar",
+                "Hassan",
+                "EGY",
+                "16"
+            ]
+        ]
+    }
+}

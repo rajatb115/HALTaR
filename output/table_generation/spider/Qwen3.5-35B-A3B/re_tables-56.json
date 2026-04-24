@@ -1,0 +1,76 @@
+{
+    "table-56-56": {
+        "title": [
+            "Student Last Name",
+            "Pet Species",
+            "Pet Age",
+            "Owner ID",
+            "Registration Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the last name of the student who has a cat that is age 3.",
+        "data": [
+            [
+                "Smith",
+                "Cat",
+                "3",
+                "S-1042",
+                "06/15/2021"
+            ],
+            [
+                "Johnson",
+                "Dog",
+                "5",
+                "J-2091",
+                "8/22/2197"
+            ],
+            [
+                "Williams",
+                "Cat",
+                "2",
+                "W-3301",
+                "01/10/23"
+            ],
+            [
+                "Brown",
+                "Hamster",
+                "4",
+                "B-4412",
+                "N/A"
+            ],
+            [
+                "Davis",
+                "Cat*",
+                "6",
+                "D-5523",
+                "11/30/19"
+            ],
+            [
+                "Miller",
+                "Rabbit",
+                "7",
+                "M-6634",
+                "9/05/18"
+            ],
+            [
+                "Wilson",
+                "Cat**",
+                "",
+                "W-**7745**",
+                "**Invalid Data**"
+            ],
+            [
+                "Moore",
+                "Bird",
+                "1",
+                "M-**8856**",
+                "03/12/16"
+            ]
+        ]
+    }
+}

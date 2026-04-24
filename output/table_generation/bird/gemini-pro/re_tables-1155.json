@@ -1,0 +1,57 @@
+{
+    "table-1155-1155": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Birthday",
+            "Examination Date",
+            "Symptom"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Examination Records",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the sex and birthday of patient ID '163109'. When was the examination taken and what symptom does the patient had.",
+        "data": [
+            [
+                "163109",
+                "Male",
+                "1982-04-12",
+                "2023-03-15",
+                "Cough"
+            ],
+            [
+                "163110",
+                "Female",
+                "1990-10-01",
+                "2023-03-16",
+                "Fever"
+            ],
+            [
+                "163111",
+                "Male",
+                "1975-06-20",
+                "2023-03-16",
+                "Headache"
+            ],
+            [
+                "163112",
+                "Female",
+                "1988-02-14",
+                "2023-03-17",
+                "Fatigue"
+            ],
+            [
+                "163113",
+                "Male",
+                "2001-11-05",
+                "2023-03-17",
+                "Sore Throat"
+            ]
+        ]
+    }
+}

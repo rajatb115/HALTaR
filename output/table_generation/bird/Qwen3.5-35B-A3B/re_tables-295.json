@@ -1,0 +1,62 @@
+{
+    "table-295-295": {
+        "title": [
+            "Bond ID",
+            "Compound Class",
+            "Carcinogen Status",
+            "Bond Order",
+            "Molecular Weight"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which bond ids are double-bond with carcinogenic compound?",
+        "data": [
+            [
+                "BND-7401-A",
+                "Polycyclic Aromatic Hydrocarbon",
+                "Confirmed",
+                "Double",
+                "362.45 g/mol"
+            ],
+            [
+                "BNT-8823-C",
+                "Nitroarene Derivative",
+                "Suspected",
+                "Double",
+                "298.12 g/mol"
+            ],
+            [
+                "BDX-1102-F",
+                "Aziridine Conjugate",
+                "Probable",
+                "Single",
+                "415.30 g/mol"
+            ],
+            [
+                "BNY-9944-Z",
+                "Vinyl Halide",
+                "Unlikely",
+                "Triple",
+                "502.88 g/mol"
+            ],
+            [
+                "BMK-3321-Q",
+                "Epoxide Ring System",
+                "Confined",
+                "Double",
+                "220.15 g/mol"
+            ],
+            [
+                "BLR-5567-P",
+                "Alkylating Agent",
+                "High Risk",
+                "Double",
+                "678.90 g/mol"
+            ]
+        ]
+    }
+}

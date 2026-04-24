@@ -1,0 +1,69 @@
+{
+    "table-343-343": {
+        "title": [
+            "Card Name",
+            "Converted Mana Cost",
+            "Face Value",
+            "Rarity",
+            "Set Code"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the card names with value that cost more converted mana for the face.",
+        "data": [
+            [
+                "Black Lotus",
+                "76",
+                "4000",
+                "Rare",
+                "LEA"
+            ],
+            [
+                "Ancestral Recall",
+                "50",
+                "3500",
+                "Rare",
+                "LEA"
+            ],
+            [
+                "Time Walk",
+                "60",
+                "300",
+                "Rare",
+                "LEB"
+            ],
+            [
+                "Mox Diamond",
+                "8",
+                "900",
+                "Mystic",
+                "UNH"
+            ],
+            [
+                "Tarmogoyf",
+                "0",
+                "120",
+                "Mythic",
+                "OGW"
+            ],
+            [
+                "Jace, Wielder of Mysteries",
+                "4",
+                "",
+                "Mythic",
+                "MOC"
+            ],
+            [
+                "Emrakul, the Promised End",
+                "15",
+                "N/A",
+                "Legendary",
+                "EMK"
+            ]
+        ]
+    }
+}

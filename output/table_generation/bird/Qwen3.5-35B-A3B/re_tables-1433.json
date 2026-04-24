@@ -1,0 +1,85 @@
+{
+    "table-1433-1433": {
+        "title": [
+            "Member_ID",
+            "T-Shirt_Size",
+            "Amount_Received",
+            "Club_Name",
+            "Percentage_Calculation",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the members with t-shirt size of medium, what is the percentage of the amount 50 received by the Student_Club?",
+        "data": [
+            [
+                "M004",
+                "Medium",
+                "$50",
+                "Student_Clubs",
+                "62.5%",
+                "Active",
+                "Based on total pool of $80"
+            ],
+            [
+                "M117",
+                "Medium",
+                "$45",
+                "Student_Sports",
+                "N/A",
+                "Inactive",
+                "Partial match for comparison"
+            ],
+            [
+                "S203",
+                "Large",
+                "$60",
+                "Arts_Federation",
+                "N/D",
+                "Pending",
+                "Excluded due to size mismatch"
+            ],
+            [
+                "T089",
+                "Small",
+                "$30",
+                "Science_Guild",
+                "N/AD",
+                "Withdrawn",
+                "Size does not meet criteria"
+            ],
+            [
+                "U442",
+                "Medium",
+                "$75",
+                "Debate_Team",
+                "93.75% (Hypothetical)",
+                "Verified",
+                "Alternative scenario analysis"
+            ],
+            [
+                "V110",
+                "X-Large",
+                "$20",
+                "Music_Band",
+                "N/AP",
+                "Rejected",
+                "Incorrect category filter"
+            ],
+            [
+                "W335",
+                "Medium",
+                "$5",
+                "Charity_Group",
+                "0.06%",
+                "Processed",
+                "Edge case for low amounts"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-450-450": {
+        "title": [
+            "Card Name",
+            "Language",
+            "Card Type"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Cards with Azorius Watermark",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the language of the card that has azorius watermark? List out the type of this card.",
+        "data": [
+            [
+                "Isperia, Supreme Judge",
+                "English",
+                "Legendary Creature - Sphinx Advisor"
+            ],
+            [
+                "Lavinia of the Tenth",
+                "English",
+                "Legendary Creature - Human Soldier"
+            ],
+            [
+                "Azorius Arrester",
+                "English",
+                "Creature - Human Soldier"
+            ],
+            [
+                "Lyev Decree",
+                "English",
+                "Sorcery"
+            ],
+            [
+                "Detention Sphere",
+                "English",
+                "Enchantment"
+            ]
+        ]
+    }
+}

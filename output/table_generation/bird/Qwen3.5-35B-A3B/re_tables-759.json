@@ -1,0 +1,62 @@
+{
+    "table-759-759": {
+        "title": [
+            "Superhero Name",
+            "Height (cm)",
+            "Hair Colour",
+            "Affiliation",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the hair colour of the human superhero who is 185 cm tall.",
+        "data": [
+            [
+                "Superman",
+                "175",
+                "Black",
+                "Justice League",
+                "Active"
+            ],
+            [
+                "Captain America",
+                "213",
+                "Blonde",
+                "Avengers",
+                "Retired"
+            ],
+            [
+                "Thor Odinson",
+                "244+",
+                "Red",
+                "Asgardians",
+                "Active"
+            ],
+            [
+                "Luke Cage",
+                "180",
+                "Bald",
+                "Defenders",
+                "Active"
+            ],
+            [
+                "Iron Man",
+                "varies",
+                "Brown",
+                "S.H.I.E.L.D.",
+                "Deceased"
+            ],
+            [
+                "Black Panther",
+                "varies",
+                "N/A",
+                "Wakanda",
+                "Active"
+            ]
+        ]
+    }
+}

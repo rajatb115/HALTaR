@@ -1,0 +1,48 @@
+{
+    "table-1169-1169": {
+        "title": [
+            "Patient ID",
+            "Diagnosis Date",
+            "Lab Completion Date",
+            "Age at Arrival",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "The oldest SJS patient's medical laboratory work was completed on what date, and what age was the patient when they initially arrived at the hospital?",
+        "data": [
+            [
+                "P-1042",
+                "06/15/2018",
+                "07/02/2021",
+                "4 years old",
+                "Recovered"
+            ],
+            [
+                "P-1109",
+                "08/22/2019",
+                "N/A",
+                "3 years old",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "Pending Review"
+            ],
+            [
+                "",
+                "10/01/2023",
+                "09/12/1998",
+                "",
+                "Discharged"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-1093-1093": {
+        "title": [
+            "League",
+            "Matches Played"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Football League Match Statistics (2008/2009 Season)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which league had the most matches in the 2008/2009 season?",
+        "data": [
+            [
+                "Premier League",
+                "380"
+            ],
+            [
+                "La Liga",
+                "380"
+            ],
+            [
+                "Serie A",
+                "380"
+            ],
+            [
+                "Bundesliga",
+                "306"
+            ],
+            [
+                "Ligue 1",
+                "380"
+            ]
+        ]
+    }
+}

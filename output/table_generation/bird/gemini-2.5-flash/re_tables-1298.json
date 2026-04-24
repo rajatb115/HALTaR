@@ -1,0 +1,77 @@
+{
+    "table-1298-1298": {
+        "title": [
+            "Patient ID",
+            "Total Cholesterol (mg/dL)",
+            "Coagulation Score",
+            "Blood Pressure (mmHg)",
+            "Age",
+            "Medication"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients whose total cholesterol is higher than normal, how many of them have a negative measure of degree of coagulation?",
+        "data": [
+            [
+                "P001",
+                "235",
+                "-0.8",
+                "140/90",
+                "58",
+                "Statin"
+            ],
+            [
+                "P002",
+                "185",
+                "1.2",
+                "120/80",
+                "45",
+                "None"
+            ],
+            [
+                "P003",
+                "210",
+                "0.5",
+                "135/85",
+                "62",
+                "Aspirin"
+            ],
+            [
+                "P004",
+                "260",
+                "-1.5",
+                "150/95",
+                "71",
+                "Warfarin"
+            ],
+            [
+                "P005",
+                "195",
+                "-0.3",
+                "125/82",
+                "39",
+                "N/A"
+            ],
+            [
+                "P006",
+                "220",
+                "0.9",
+                "130/80",
+                "55",
+                "Statin"
+            ],
+            [
+                "P007",
+                "170",
+                "1.0",
+                "118/78",
+                "48",
+                "None"
+            ]
+        ]
+    }
+}

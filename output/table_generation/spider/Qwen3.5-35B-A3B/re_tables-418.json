@@ -1,0 +1,53 @@
+{
+    "table-418-418": {
+        "title": [
+            "Person_Name",
+            "Profession",
+            "Poker_Status"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of people that are not poker players.",
+        "data": [
+            [
+                "Alice Johnson",
+                "Architect",
+                "Not Player"
+            ],
+            [
+                "Bob Smith",
+                "Accountant",
+                "Not Patient"
+            ],
+            [
+                "Carol Davis",
+                "Nurse",
+                "Not Participant"
+            ],
+            [
+                "David Lee",
+                "Teacher",
+                "Non-Gambler"
+            ],
+            [
+                "Eva Martinez",
+                "Engineer",
+                "No Record"
+            ],
+            [
+                "Frank Wilson",
+                "Chef",
+                "Amateur Only"
+            ],
+            [
+                "Grace Kim",
+                "Lawyer",
+                "Unregistered"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1279-1279": {
+        "title": [
+            "Patient ID",
+            "Anti-DNA-II Level (U/mL)",
+            "Level Status",
+            "Hospital Admission",
+            "Admission Date",
+            "Primary Diagnosis"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of the patients with an abnormal level of anti-DNA-II, how many of them admitted to the hospital?",
+        "data": [
+            [
+                "P001",
+                "185",
+                "Abnormal",
+                "Yes",
+                "2023-10-15",
+                "Systemic Lupus Erythematosus"
+            ],
+            [
+                "P002",
+                "210",
+                "Abnormal",
+                "No",
+                "N/A",
+                "Undiagnosed Autoimmune"
+            ],
+            [
+                "P003",
+                "65",
+                "Normal",
+                "No",
+                "N/A",
+                "Fibromyalgia"
+            ],
+            [
+                "P004",
+                "155",
+                "Abnormal",
+                "Yes",
+                "2023-11-01",
+                "Drug-Induced Lupus"
+            ],
+            [
+                "P005",
+                "190",
+                "Abnormal",
+                "Yes",
+                "2023-11-05",
+                "Rheumatoid Arthritis"
+            ],
+            [
+                "P006",
+                "40",
+                "Normal",
+                "Yes",
+                "2023-10-20",
+                "Sepsis"
+            ],
+            [
+                "P007",
+                "220",
+                "Abnormal",
+                "No",
+                "N/A",
+                "Suspected Autoimmune Hepatitis"
+            ]
+        ]
+    }
+}

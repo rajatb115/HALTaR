@@ -1,0 +1,62 @@
+{
+    "table-563-563": {
+        "title": [
+            "Post ID",
+            "Post Title",
+            "View Count",
+            "Comment Count",
+            "Publish Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the post which got 1910 view counts, how many comments does it get?",
+        "data": [
+            [
+                "101",
+                "Understanding Data Analytics",
+                "1850",
+                "25",
+                "2023-01-15"
+            ],
+            [
+                "102",
+                "The Future of AI in Business",
+                "2100",
+                "42",
+                "2023-02-20"
+            ],
+            [
+                "103",
+                "Beginner's Guide to SQL",
+                "1910",
+                "31",
+                "2023-03-10"
+            ],
+            [
+                "104",
+                "Cloud Computing Trends 2024",
+                "1780",
+                "18",
+                "2023-04-05"
+            ],
+            [
+                "105",
+                "Mastering Python for Data Science",
+                "2050",
+                "38",
+                "2023-05-12"
+            ],
+            [
+                "106",
+                "Ethical AI Considerations",
+                "1990",
+                "29",
+                "2023-06-01"
+            ]
+        ]
+    }
+}

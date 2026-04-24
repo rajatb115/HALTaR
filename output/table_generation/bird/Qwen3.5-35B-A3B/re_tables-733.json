@@ -1,0 +1,62 @@
+{
+    "table-733-733": {
+        "title": [
+            "Superhero Name",
+            "Publisher",
+            "Top Speed (mph)",
+            "Origin Story",
+            "First Appearance"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which publisher published the slowest superhero?",
+        "data": [
+            [
+                "Captain Atom",
+                "DC Comics",
+                "45",
+                "Nuclear accident",
+                "All-American Men of War #67"
+            ],
+            [
+                "Aquaman",
+                "DC",
+                "50",
+                "Atlantean heritage",
+                "More Fun Stories #73"
+            ],
+            [
+                "Martian Manhunter",
+                "DC",
+                "N/A",
+                "Teleportation only",
+                "Detective Comics #225"
+            ],
+            [
+                "Shazam",
+                "DC / Fawcett",
+                "60",
+                "Wizard's magic",
+                "Whiz Comics #1"
+            ],
+            [
+                "Black Canary",
+                "DC/Wildstorm",
+                "35",
+                "Genetic mutation",
+                "Flash Comics #86"
+            ],
+            [
+                "Green Arrow",
+                "DC/Nu52",
+                "70",
+                "Wealthy vigilante",
+                "More Fun Comics #75"
+            ]
+        ]
+    }
+}

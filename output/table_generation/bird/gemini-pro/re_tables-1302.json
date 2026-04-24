@@ -1,0 +1,45 @@
+{
+    "table-1302-1302": {
+        "title": [
+            "Patient ID",
+            "Thrombosis Present",
+            "Creatinine Phosphokinase Level"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Data Based on Thrombosis and Creatinine Phosphokinase Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the IDs of the patients with no thrombosis and an abnormal level of creatinine phosphokinase.",
+        "data": [
+            [
+                "12345",
+                "No",
+                "Abnormal"
+            ],
+            [
+                "67890",
+                "No",
+                "Abnormal"
+            ],
+            [
+                "24680",
+                "No",
+                "Abnormal"
+            ],
+            [
+                "13579",
+                "No",
+                "Abnormal"
+            ],
+            [
+                "98765",
+                "No",
+                "Normal"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1251-1251": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "Proteinuria Level (mg/dL)",
+            "Gender",
+            "Age",
+            "Last Visit Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which patient has a normal proteinuria level and is diagnosed with SLE? Please give his or her patient ID.",
+        "data": [
+            [
+                "P001",
+                "SLE",
+                "120",
+                "Female",
+                "45",
+                "2023-10-15"
+            ],
+            [
+                "P002",
+                "Hypertension",
+                "80",
+                "Male",
+                "62",
+                "2023-11-01"
+            ],
+            [
+                "P003",
+                "SLE",
+                "250",
+                "Female",
+                "38",
+                "2023-09-20"
+            ],
+            [
+                "P004",
+                "Diabetes",
+                "110",
+                "Male",
+                "55",
+                "2023-10-28"
+            ],
+            [
+                "P005",
+                "SLE",
+                "95",
+                "Female",
+                "32",
+                "2023-11-05"
+            ],
+            [
+                "P006",
+                "Arthritis",
+                "70",
+                "Male",
+                "71",
+                "2023-09-10"
+            ],
+            [
+                "P007",
+                "Migraine",
+                "60",
+                "Female",
+                "29",
+                "2023-10-22"
+            ]
+        ]
+    }
+}

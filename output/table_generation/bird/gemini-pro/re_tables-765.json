@@ -1,0 +1,45 @@
+{
+    "table-765-765": {
+        "title": [
+            "Hero ID",
+            "Hero Name",
+            "Superpower"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Hero Superpowers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the superpowers of heroes with ID 1?",
+        "data": [
+            [
+                "1",
+                "Captain Awesome",
+                "Super Strength"
+            ],
+            [
+                "1",
+                "Captain Awesome",
+                "Flight"
+            ],
+            [
+                "1",
+                "Captain Awesome",
+                "Invulnerability"
+            ],
+            [
+                "1",
+                "Captain Awesome",
+                "Super Speed"
+            ],
+            [
+                "1",
+                "Captain Awesome",
+                "Energy Blasts"
+            ]
+        ]
+    }
+}

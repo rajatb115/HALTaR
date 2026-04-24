@@ -1,0 +1,45 @@
+{
+    "table-399-399": {
+        "title": [
+            "Card Name",
+            "Mana Cost",
+            "Converted Mana Cost"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Card Details by Rob Alexander",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much unconverted mana do all the cards created by Rob Alexander cost in total?",
+        "data": [
+            [
+                "Underground Sea",
+                "{U}{B}",
+                "2"
+            ],
+            [
+                "Plateau",
+                "{R}{W}",
+                "2"
+            ],
+            [
+                "Scrubland",
+                "{W}{B}",
+                "2"
+            ],
+            [
+                "Tropical Island",
+                "{U}{G}",
+                "2"
+            ],
+            [
+                "Tundra",
+                "{W}{U}",
+                "2"
+            ]
+        ]
+    }
+}

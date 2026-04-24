@@ -1,0 +1,61 @@
+{
+    "table-806-806": {
+        "title": [
+            "Full Name",
+            "Alias",
+            "Universe",
+            "Weight"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the full names of superheroes with missing weight.",
+        "data": [
+            [
+                "Diana Prince",
+                "Wonder Woman",
+                "DC Comics",
+                "Missing"
+            ],
+            [
+                "Natasha Romanoff",
+                "Black Widow",
+                "Marvel Comics",
+                "Unknown"
+            ],
+            [
+                "Bruce Banner",
+                "Hulk",
+                "Marvel Comics",
+                "N/A"
+            ],
+            [
+                "Arthur Curry",
+                "Aquaman",
+                "DC Comics",
+                "Missing"
+            ],
+            [
+                "Jean Grey",
+                "Phoenix",
+                "Marvel Comics",
+                "Unknown"
+            ],
+            [
+                "Victor Stone",
+                "Cyborg",
+                "DC Comics",
+                "N/A"
+            ],
+            [
+                "T'Challa",
+                "Black Panther",
+                "Marvel Comics",
+                "200 lbs"
+            ]
+        ]
+    }
+}

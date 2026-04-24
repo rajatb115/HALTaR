@@ -1,0 +1,93 @@
+{
+    "table-175-175": {
+        "title": [
+            "Template ID",
+            "Status",
+            "Last Used Date",
+            "Document Count",
+            "Owner Department",
+            "Is Active",
+            "Version",
+            "Notes"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the ids for templates that are not used in any documents?",
+        "data": [
+            [
+                "TPL-4002",
+                "Unused",
+                "N/A",
+                "0",
+                "Marketing",
+                "Yes",
+                "v1.2",
+                "No recent assignments"
+            ],
+            [
+                "TPL-7719",
+                "Unused",
+                "N/A",
+                "0",
+                "Engineering",
+                "Yes",
+                "v3.0",
+                "Legacy format retained"
+            ],
+            [
+                "TPL-A105",
+                "Unused",
+                "N/A",
+                "0",
+                "HR",
+                "No",
+                "v2.1",
+                "Deprecated but kept"
+            ],
+            [
+                "TPL-B992",
+                "Unused",
+                "2021-03-15",
+                "0",
+                "Sales",
+                "Yes",
+                "v1.0",
+                "Pending review"
+            ],
+            [
+                "TPL-C331",
+                "Unused",
+                "N/A",
+                "0",
+                "null",
+                "Yes",
+                "v4.5",
+                "archived template"
+            ],
+            [
+                "TPL-D668",
+                "UNUSED",
+                "N/A",
+                "0",
+                "",
+                "No",
+                "v1.0",
+                "Inactive due to policy change"
+            ],
+            [
+                "TPL-E112",
+                "unused",
+                "N/A",
+                "0",
+                "Finance",
+                "no",
+                "v5.0",
+                "Migrated to new system"
+            ]
+        ]
+    }
+}

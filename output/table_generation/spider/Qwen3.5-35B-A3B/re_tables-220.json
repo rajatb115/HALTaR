@@ -1,0 +1,85 @@
+{
+    "table-220-220": {
+        "title": [
+            "Teacher_Name",
+            "Course_Code",
+            "Subject_Domain",
+            "Semester",
+            "Enrollment_Count",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show names of teachers and the courses they are arranged to teach.",
+        "data": [
+            [
+                "Sarah Jenkins",
+                "MATH-101A",
+                "Mathematics",
+                "Fall_2024",
+                "32",
+                "Active"
+            ],
+            [
+                "Michael Chen",
+                "CS-205B",
+                "Computer_Science",
+                "Spring_2024_25",
+                "45",
+                "Pending"
+            ],
+            [
+                "Emily Rodriguez",
+                "ENG-301C",
+                "English_Literature",
+                "Summer_2024",
+                "28",
+                "Confirmed"
+            ],
+            [
+                "David Thompson",
+                "SCI-110D",
+                "Physics",
+                "Fall_2024",
+                "",
+                "Scheduled"
+            ],
+            [
+                "Lisa Park",
+                "HIS-220E",
+                "World_History",
+                "Spring_2024_25",
+                "36",
+                "Active"
+            ],
+            [
+                "Robert Kim",
+                "ART-150F",
+                "Visual_Arts",
+                "Fall_2025",
+                "",
+                "Drafted"
+            ],
+            [
+                "Anna White",
+                "BIO-120G",
+                "Biology",
+                "Spring_2026",
+                "50",
+                "Approved"
+            ],
+            [
+                "James Wilson",
+                "CHEM-130H",
+                "Chemistry",
+                "Fall_2025",
+                "27",
+                "Open"
+            ]
+        ]
+    }
+}

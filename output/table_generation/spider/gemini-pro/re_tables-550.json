@@ -1,0 +1,39 @@
+{
+    "table-550-550": {
+        "title": [
+            "Student Name",
+            "Grade"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "High School Student Grades",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the names and grades of each high schooler.",
+        "data": [
+            [
+                "Alice Smith",
+                "10"
+            ],
+            [
+                "Bob Johnson",
+                "12"
+            ],
+            [
+                "Carol Williams",
+                "11"
+            ],
+            [
+                "David Brown",
+                "9"
+            ],
+            [
+                "Emily Davis",
+                "10"
+            ]
+        ]
+    }
+}

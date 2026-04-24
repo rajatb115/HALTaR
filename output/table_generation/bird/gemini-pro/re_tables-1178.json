@@ -1,0 +1,51 @@
+{
+    "table-1178-1178": {
+        "title": [
+            "Patient ID",
+            "Date",
+            "Cholesterol Level",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Cholesterol Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Was the total cholesterol status for the patient id 2927464 on 1995-9-4 at the normal level?",
+        "data": [
+            [
+                "2927464",
+                "1995-09-04",
+                "220 mg/dL",
+                "High"
+            ],
+            [
+                "2927464",
+                "1996-03-10",
+                "180 mg/dL",
+                "Normal"
+            ],
+            [
+                "2927465",
+                "1995-09-04",
+                "190 mg/dL",
+                "Normal"
+            ],
+            [
+                "2927465",
+                "1996-03-10",
+                "240 mg/dL",
+                "High"
+            ],
+            [
+                "2927466",
+                "1995-09-04",
+                "150 mg/dL",
+                "Normal"
+            ]
+        ]
+    }
+}

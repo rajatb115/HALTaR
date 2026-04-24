@@ -1,0 +1,69 @@
+{
+    "table-263-263": {
+        "title": [
+            "Molecule ID",
+            "Molecule Name",
+            "Primary Bond Type",
+            "Carcinogenic Status",
+            "Molecular Weight (g/mol)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the single bond molecule id, which molecules are not carcinogenic?",
+        "data": [
+            [
+                "M001",
+                "Methane",
+                "Single",
+                "No",
+                "16.04"
+            ],
+            [
+                "M002",
+                "Ethanol",
+                "Single",
+                "No",
+                "46.07"
+            ],
+            [
+                "M003",
+                "Ethane",
+                "Single",
+                "No",
+                "30.07"
+            ],
+            [
+                "M004",
+                "Propane",
+                "Single",
+                "No",
+                "44.10"
+            ],
+            [
+                "M005",
+                "Butane",
+                "Single",
+                "No",
+                "58.12"
+            ],
+            [
+                "M006",
+                "Carbon Tetrachloride",
+                "Single",
+                "Yes",
+                "153.82"
+            ],
+            [
+                "M007",
+                "Ammonia",
+                "Single",
+                "No",
+                "17.03"
+            ]
+        ]
+    }
+}

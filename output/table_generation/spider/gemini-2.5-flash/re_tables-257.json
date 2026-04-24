@@ -1,0 +1,77 @@
+{
+    "table-257-257": {
+        "title": [
+            "Player ID",
+            "First Name",
+            "Last Name",
+            "Country Code",
+            "Birth Year",
+            "Sport"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name and country code of the oldest player.",
+        "data": [
+            [
+                "P001",
+                "John",
+                "Smith",
+                "US",
+                "1985",
+                "Basketball"
+            ],
+            [
+                "P002",
+                "Maria",
+                "Garcia",
+                "ES",
+                "1992",
+                "Soccer"
+            ],
+            [
+                "P003",
+                "David",
+                "Lee",
+                "KR",
+                "1978",
+                "Esports"
+            ],
+            [
+                "P004",
+                "Sarah",
+                "Chen",
+                "CN",
+                "1990",
+                "Tennis"
+            ],
+            [
+                "P005",
+                "Michael",
+                "Johnson",
+                "GB",
+                "1975",
+                "Golf"
+            ],
+            [
+                "P006",
+                "Emily",
+                "Davis",
+                "AU",
+                "1995",
+                "Swimming"
+            ],
+            [
+                "P007",
+                "Robert",
+                "Brown",
+                "CA",
+                "1983",
+                "Athletics"
+            ]
+        ]
+    }
+}

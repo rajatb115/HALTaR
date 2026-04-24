@@ -1,0 +1,85 @@
+{
+    "table-1501-1501": {
+        "title": [
+            "Product ID",
+            "Description",
+            "Category",
+            "Consumption Date",
+            "Quantity Consumed",
+            "Unit",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the product description of the products consumed in September, 2013.",
+        "data": [
+            [
+                "P-2045",
+                "Organic Whole Milk",
+                "Dairy",
+                "09/02/2023",
+                "450",
+                "Liters",
+                "Active"
+            ],
+            [
+                "P-A772",
+                "Sourdough Bread Loaf",
+                "Bakery",
+                "9/15/23/22",
+                "60",
+                "Units",
+                "Active"
+            ],
+            [
+                "P-BB99",
+                "Free Range Eggs (Dozen)",
+                "Poultry",
+                "30/09 /2033",
+                "N/A",
+                "Cartons",
+                "Discontinued"
+            ],
+            [
+                "C-LM12",
+                "Low Fat Yogurt Cups",
+                "Dairy Products",
+                "5th Sept 23rd",
+                "800",
+                "Pieces",
+                "In Stock"
+            ],
+            [
+                "F-RD33",
+                "Red Delicious Apples",
+                "Produce",
+                "Sep 1st - 31st 22nd",
+                "75",
+                "Kilograms",
+                "Seasonal"
+            ],
+            [
+                "G-CO44",
+                "Coconut Water Packets",
+                "Beverages",
+                "September 2133 2",
+                "N/a",
+                "Bottles",
+                "Pending Review"
+            ],
+            [
+                "H-GA55",
+                "Gluten-Free Pasta Boxes",
+                "Grains & Cereals",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

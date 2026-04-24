@@ -1,0 +1,51 @@
+{
+    "table-1012-1012": {
+        "title": [
+            "Driver Name",
+            "Lap Time",
+            "Race",
+            "Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Fastest Lap Records in Formula 1",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which driver created the shortest lap time ever record in a Formula_1 race? Please give his full name.",
+        "data": [
+            [
+                "Valtteri Bottas",
+                "1:41.405",
+                "2020 Sakhir Grand Prix",
+                "2020"
+            ],
+            [
+                "Kimi R\u00e4ikk\u00f6nen",
+                "1:18.574",
+                "2018 Italian Grand Prix",
+                "2018"
+            ],
+            [
+                "Juan Pablo Montoya",
+                "1:24.770",
+                "2005 Italian Grand Prix",
+                "2005"
+            ],
+            [
+                "Michael Schumacher",
+                "1:21.046",
+                "2004 Italian Grand Prix",
+                "2004"
+            ],
+            [
+                "Rubens Barrichello",
+                "1:21.046",
+                "2004 Italian Grand Prix",
+                "2004"
+            ]
+        ]
+    }
+}

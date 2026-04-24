@@ -1,0 +1,76 @@
+{
+    "table-1154-1154": {
+        "title": [
+            "Patient ID",
+            "Test Date",
+            "Lab Test Code",
+            "Result Value",
+            "Unit",
+            "Status",
+            "Diagnosis Link"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the disease patient '30609' diagnosed with. List all the date of laboratory tests done for this patient.",
+        "data": [
+            [
+                "304012",
+                "7/15/2023",
+                "CBC-004",
+                "Normal",
+                "N/A",
+                "Completed",
+                "Rule Out Anemia"
+            ],
+            [
+                "305098",
+                "8/22/2123",
+                "HBA1C-01",
+                "6.2%",
+                "Percent",
+                "Elevated",
+                "Diabetes Mellitus II"
+            ],
+            [
+                "307102",
+                "9/10/23",
+                "MALARIA-SM",
+                "",
+                "Negative",
+                "Completed",
+                "Malaria Screening"
+            ],
+            [
+                "310055",
+                "10-05-23",
+                "RBC-COUNT",
+                "4.2",
+                "million/uL",
+                "Normal",
+                "Anemia Workup"
+            ],
+            [
+                "30909",
+                "11-12-2019",
+                "HIV-RAPID",
+                "Non-Reactive",
+                "Index",
+                "Confirmed",
+                "AIDS/HIV Negative"
+            ],
+            [
+                "30809",
+                "12/01/24",
+                "WOUND-CULTURE",
+                "Staph Aureus",
+                "CFU/mL",
+                "Positive",
+                "Sepsis Risk Assessment"
+            ]
+        ]
+    }
+}

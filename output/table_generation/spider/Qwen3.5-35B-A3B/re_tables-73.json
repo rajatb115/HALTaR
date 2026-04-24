@@ -1,0 +1,85 @@
+{
+    "table-73-73": {
+        "title": [
+            "Card ID",
+            "Cylinder Count",
+            "Fuel Efficiency MPG",
+            "Model Variant",
+            "Test Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average miles per gallon of all the cards with 4 cylinders?",
+        "data": [
+            [
+                "CARD-A1",
+                "4",
+                "32.5",
+                "Standard Sedan",
+                "01/15/2023",
+                "Active"
+            ],
+            [
+                "CARD-B2",
+                "6",
+                "87.2",
+                "Performance Coupe",
+                "",
+                "Inactive"
+            ],
+            [
+                "CAR-C3",
+                "5",
+                "76.4",
+                "Hybrid Hatchback",
+                "",
+                "Pending"
+            ],
+            [
+                "DAR-D4",
+                "",
+                "",
+                "Prototype X",
+                "",
+                "Cancelled"
+            ],
+            [
+                "EAR-E5",
+                "",
+                "",
+                "Error Log Entry",
+                "",
+                "Failed"
+            ],
+            [
+                "FAR-F6",
+                "",
+                "",
+                "Invalid Data Row",
+                "",
+                "Rejected"
+            ],
+            [
+                "GAR-G7",
+                "",
+                "",
+                "Placeholder Record",
+                "",
+                "Draft"
+            ],
+            [
+                "HAR-H8",
+                "",
+                "",
+                "Sample Template",
+                "",
+                "Archived"
+            ]
+        ]
+    }
+}

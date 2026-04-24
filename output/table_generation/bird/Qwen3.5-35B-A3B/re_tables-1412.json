@@ -1,0 +1,76 @@
+{
+    "table-1412-1412": {
+        "title": [
+            "Expense ID",
+            "Category",
+            "Description",
+            "Amount ($)",
+            "Date Incurred",
+            "Vendor",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State what kind of expenses that Sacha Harrison incurred?",
+        "data": [
+            [
+                "EXP-0042",
+                "Travel",
+                "Flight ticket to London",
+                "650.00",
+                "07/12/2023",
+                "British Airways",
+                "Reimbursed"
+            ],
+            [
+                "EXP-0451",
+                "Accommodation",
+                "Hotel stay for conference",
+                "420.50",
+                "July 13\u201315, 2023",
+                "Hilton Hotels",
+                "Pending Approval"
+            ],
+            [
+                "EXP-0789",
+                "Meals",
+                "Client dinner meeting",
+                "85.25",
+                "07/22/2020",
+                "Le Bernardin",
+                "Approved"
+            ],
+            [
+                "EXP-1103",
+                "Office Supplies",
+                "Printer ink cartridges",
+                "34.99",
+                "August 01, 2010",
+                "Staples",
+                "Paid by Card"
+            ],
+            [
+                "EXP-12",
+                "Transportation",
+                "Taxi fare from airport",
+                "55.05",
+                "August 02, 2002",
+                "Uber Technologies",
+                "Reconciled"
+            ],
+            [
+                "ENTR-1567",
+                "Professional Dev",
+                "Online certification course fee",
+                "99.01",
+                "September 01",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-201-201": {
+        "title": [
+            "Template ID",
+            "Template Name",
+            "Description",
+            "Category",
+            "Creation Date",
+            "Version"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the ids corresponding to templates with the description 'Presentation'.",
+        "data": [
+            [
+                "TMPL-PRES-001",
+                "Quarterly Business Review",
+                "Presentation",
+                "Business",
+                "2023-03-15",
+                "1.2"
+            ],
+            [
+                "TMPL-PRES-002",
+                "Project Status Update",
+                "Presentation",
+                "Project Management",
+                "2023-04-01",
+                "1.0"
+            ],
+            [
+                "TMPL-PRES-003",
+                "Marketing Campaign Pitch",
+                "Slide Deck",
+                "Marketing",
+                "2023-02-20",
+                "2.0"
+            ],
+            [
+                "TMPL-PRES-004",
+                "Sales Proposal Template",
+                "Presentation",
+                "Sales",
+                "2023-01-10",
+                "1.1"
+            ],
+            [
+                "TMPL-PRES-005",
+                "Educational Lecture Slides",
+                "Presentation",
+                "Education",
+                "2022-11-05",
+                "1.5"
+            ],
+            [
+                "TMPL-PRES-006",
+                "Annual Report Summary",
+                "Keynote",
+                "Finance",
+                "2023-05-01",
+                "1.0"
+            ],
+            [
+                "TMPL-PRES-007",
+                "Product Launch Deck",
+                "Presentation",
+                "Product Development",
+                "2023-04-25",
+                "1.0"
+            ]
+        ]
+    }
+}

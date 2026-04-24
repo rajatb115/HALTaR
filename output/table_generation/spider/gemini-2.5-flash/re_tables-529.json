@@ -1,0 +1,69 @@
+{
+    "table-529-529": {
+        "title": [
+            "Conductor Name",
+            "Nationality",
+            "Primary Orchestra",
+            "Birth Year",
+            "Specialty Genre"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of conductors that do not have the nationality \"USA\".",
+        "data": [
+            [
+                "Simon Rattle",
+                "British",
+                "London Symphony Orchestra",
+                "1955",
+                "Classical, Modern"
+            ],
+            [
+                "Gustavo Dudamel",
+                "Venezuelan",
+                "Los Angeles Philharmonic",
+                "1981",
+                "Classical, Romantic"
+            ],
+            [
+                "Zubin Mehta",
+                "Indian",
+                "Israel Philharmonic Orchestra",
+                "1936",
+                "Classical, Opera"
+            ],
+            [
+                "Daniel Barenboim",
+                "Argentinian-Israeli",
+                "Staatskapelle Berlin",
+                "1942",
+                "Classical, Romantic"
+            ],
+            [
+                "Valery Gergiev",
+                "Russian",
+                "Mariinsky Theatre",
+                "1953",
+                "Russian Opera, Ballet"
+            ],
+            [
+                "Antonio Pappano",
+                "British-Italian",
+                "Royal Opera House",
+                "1959",
+                "Opera, Italian Repertoire"
+            ],
+            [
+                "Mirga Gra\u017einyt\u0117-Tyla",
+                "Lithuanian",
+                "City of Birmingham Symphony Orchestra",
+                "1986",
+                "Contemporary, Classical"
+            ]
+        ]
+    }
+}

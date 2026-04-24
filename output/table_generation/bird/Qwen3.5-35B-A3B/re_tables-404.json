@@ -1,0 +1,85 @@
+{
+    "table-404-404": {
+        "title": [
+            "Card ID",
+            "Card Name",
+            "Language Code",
+            "Total Instances",
+            "Spanish Count",
+            "Percentage",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of cards in Spanish. List them by name.",
+        "data": [
+            [
+                "C0042",
+                "El Drag\u00f3n Blanco",
+                "es",
+                "500",
+                "475",
+                "95%",
+                "Active"
+            ],
+            [
+                "C1103",
+                "La Sombra Oscura",
+                "es/pt/es",
+                "320",
+                "",
+                "N/A",
+                "Inactive"
+            ],
+            [
+                "C2098",
+                "Fuerza del Viento",
+                "es/fr/de",
+                "890",
+                "",
+                "N/D",
+                "Pending"
+            ],
+            [
+                "C3341",
+                "Escudo de Luz",
+                "es/en/ja",
+                "650",
+                "",
+                "0%",
+                "Archived"
+            ],
+            [
+                "C4452",
+                "Grito de Guerra",
+                "es/mx/ar",
+                "720",
+                "",
+                "N/Evaluated",
+                "Reviewing"
+            ],
+            [
+                "C5567",
+                "Magia Antigua",
+                "es/cn/tw",
+                "",
+                "",
+                "",
+                "Error"
+            ],
+            [
+                "C6678",
+                "Espada Sagrada",
+                "es/vi/th",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-310-310": {
+        "title": [
+            "First Name",
+            "Middle Name",
+            "Last Name",
+            "Degree Program"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Student Enrollment in Bachelor Programs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is enrolled in a Bachelor degree program? List the first name, middle name, last name.",
+        "data": [
+            [
+                "Alice",
+                "Marie",
+                "Johnson",
+                "Bachelor of Science"
+            ],
+            [
+                "Bob",
+                "Lee",
+                "Williams",
+                "Bachelor of Arts"
+            ],
+            [
+                "Charlie",
+                "David",
+                "Brown",
+                "Bachelor of Engineering"
+            ],
+            [
+                "Diana",
+                "Lynn",
+                "Davis",
+                "Bachelor of Business Administration"
+            ],
+            [
+                "Emily",
+                "Grace",
+                "Miller",
+                "Bachelor of Education"
+            ]
+        ]
+    }
+}

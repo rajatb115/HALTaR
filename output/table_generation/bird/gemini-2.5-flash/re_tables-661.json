@@ -1,0 +1,77 @@
+{
+    "table-661-661": {
+        "title": [
+            "Post ID",
+            "Post Title",
+            "Engagement Score",
+            "Owner User ID",
+            "Category",
+            "Creation Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the owner user id of the most valuable post?",
+        "data": [
+            [
+                "P001",
+                "Ultimate Guide to Data Analysis",
+                "1520",
+                "U101",
+                "Data Science",
+                "2023-01-15"
+            ],
+            [
+                "P002",
+                "Top 10 AI Trends 2024",
+                "2100",
+                "U102",
+                "Artificial Intelligence",
+                "2024-02-28"
+            ],
+            [
+                "P003",
+                "Beginner's SQL Tutorial",
+                "980",
+                "U103",
+                "Programming",
+                "2022-11-01"
+            ],
+            [
+                "P004",
+                "Python for Data Science",
+                "1850",
+                "U101",
+                "Data Science",
+                "2023-05-20"
+            ],
+            [
+                "P005",
+                "Machine Learning Basics",
+                "1200",
+                "U104",
+                "Artificial Intelligence",
+                "2023-09-10"
+            ],
+            [
+                "P006",
+                "Cloud Computing Explained",
+                "750",
+                "U105",
+                "Cloud",
+                "2022-07-03"
+            ],
+            [
+                "P007",
+                "Data Visualization Tips",
+                "1100",
+                "U103",
+                "Data Science",
+                "2023-11-22"
+            ]
+        ]
+    }
+}

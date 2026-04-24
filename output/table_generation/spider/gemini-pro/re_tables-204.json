@@ -1,0 +1,39 @@
+{
+    "table-204-204": {
+        "title": [
+            "Paragraph ID",
+            "Paragraph Text"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Paragraphs in 'Welcome to NY' Document",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all paragraph ids and texts for the document with name 'Welcome to NY'.",
+        "data": [
+            [
+                "1",
+                "Welcome to New York! This document provides an overview of the city."
+            ],
+            [
+                "2",
+                "Getting Around: The city offers various transportation options."
+            ],
+            [
+                "3",
+                "Top Attractions: Visit iconic landmarks such as the Statue of Liberty."
+            ],
+            [
+                "4",
+                "Food and Dining: Experience diverse culinary delights."
+            ],
+            [
+                "5",
+                "Accommodation: Find a wide range of hotels and apartments."
+            ]
+        ]
+    }
+}

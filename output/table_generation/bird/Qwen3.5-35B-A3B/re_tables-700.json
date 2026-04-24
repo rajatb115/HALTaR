@@ -1,0 +1,76 @@
+{
+    "table-700-700": {
+        "title": [
+            "Username",
+            "Account Creation Date",
+            "Platform",
+            "Status",
+            "Last Login",
+            "Email Domain",
+            "Verification Level"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When did the user known as 'IrishStat' create his or her account?",
+        "data": [
+            [
+                "IrishStat",
+                "4/12/2016",
+                "DataForum",
+                "Active",
+                "7/22/19",
+                "irishstat.org",
+                "Verified"
+            ],
+            [
+                "@User_99",
+                "3/05/2021",
+                "DataHub",
+                "Inactive",
+                "N/A",
+                "tempmail.com",
+                "Unverified"
+            ],
+            [
+                "DataGuru",
+                "9/18/2015",
+                "AnalyticsNet",
+                "Suspended",
+                "5/30/2017",
+                "corporate.net",
+                "Pending"
+            ],
+            [
+                "NewbieDev",
+                "8/01/2023",
+                "CodeShare",
+                "Active",
+                "",
+                "github.io",
+                "Basic"
+            ],
+            [
+                "OldTimer",
+                "6/14/2009",
+                "LegacySys",
+                "Dormant",
+                "01 Jan 2022",
+                "legacy-mail.gov",
+                "Gold"
+            ],
+            [
+                "Guest_User",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

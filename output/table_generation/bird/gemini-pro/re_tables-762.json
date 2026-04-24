@@ -1,0 +1,45 @@
+{
+    "table-762-762": {
+        "title": [
+            "Superhero Name",
+            "Gender",
+            "Weight (lbs)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Superheroes Exceeding Average Weight",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the male superheroes, list the full names of superheroes with weight greater than the 79% average weight of all superheroes.",
+        "data": [
+            [
+                "Colossus",
+                "Male",
+                "500"
+            ],
+            [
+                "Hulk",
+                "Male",
+                "1400"
+            ],
+            [
+                "Thor",
+                "Male",
+                "640"
+            ],
+            [
+                "Iron Man",
+                "Male",
+                "425"
+            ],
+            [
+                "Blob",
+                "Male",
+                "510"
+            ]
+        ]
+    }
+}

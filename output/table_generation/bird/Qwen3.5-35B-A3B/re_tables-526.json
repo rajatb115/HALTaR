@@ -1,0 +1,48 @@
+{
+    "table-526-526": {
+        "title": [
+            "Card UUID",
+            "Format",
+            "Status",
+            "Set Code",
+            "Release Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the uuid of cards in which the old school format is restricted or banned.",
+        "data": [
+            [
+                "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+                "Old School",
+                "Restricted",
+                "Alpha",
+                "9/29/1933"
+            ],
+            [
+                "b2C3D4E5-F6G7-H8I9-J0K1-L2M3N4O5P6Q7",
+                "Old School",
+                "Banned",
+                "Beta",
+                "4/1/1334"
+            ],
+            [
+                "c3D3E4F5-G6H7-I8J9-K0L1-M2N3O4P5Q6R7",
+                "Vintage Old",
+                "Restricted",
+                "Alpha Unlimited",
+                "5/15/2023"
+            ],
+            [
+                "d4E4G5H6-I7J8-K9L0-M1N2-O3P4Q5R6S7T8",
+                "Legacy OS",
+                "Banned",
+                "Unlimited",
+                "6/10/1445"
+            ]
+        ]
+    }
+}

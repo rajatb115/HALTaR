@@ -1,0 +1,77 @@
+{
+    "table-376-376": {
+        "title": [
+            "Channel_Name",
+            "Package_Choice",
+            "Series_Name",
+            "HD_Status",
+            "Region",
+            "Launch_Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the package choice and series name of the TV channel that has high definition TV.",
+        "data": [
+            [
+                "Sky Sports Main Event",
+                "Sky Q Premium",
+                "Premier League Live",
+                "Yes",
+                "UK",
+                "9764"
+            ],
+            [
+                "ESPN+",
+                "Disney Bundle Basic",
+                "NBA Inside Access",
+                "Yes",
+                "US",
+                "8921"
+            ],
+            [
+                "HBO Max",
+                "HBO Ultimate",
+                "Game of Thrones Reboot",
+                "Yes",
+                "US",
+                "2105"
+            ],
+            [
+                "BBC One",
+                "Freeview Plus",
+                "Doctor Who Specials",
+                "No",
+                "UK",
+                "1234"
+            ],
+            [
+                "Fox News",
+                "Cable Standard",
+                "Tucker Carlson Tonight",
+                "Yes",
+                "US",
+                "2016"
+            ],
+            [
+                "Canal+ Sport",
+                "Canal+ Full Pack",
+                "Ligue 1 Highlights",
+                "Yes",
+                "FR",
+                "1978"
+            ],
+            [
+                "Netflix Originals",
+                "Streaming Tier Gold",
+                "Stranger Things Season 5",
+                "No",
+                "Global",
+                "2022"
+            ]
+        ]
+    }
+}

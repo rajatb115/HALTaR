@@ -1,0 +1,94 @@
+{
+    "table-113-113": {
+        "title": [
+            "Airline Name",
+            "Abbreviation",
+            "IATA Code",
+            "Headquarters State",
+            "Primary Hub City",
+            "Founded Year",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the airline names and abbreviations for airlines in the USA?",
+        "data": [
+            [
+                "American Airlines",
+                "AA",
+                "",
+                "TX",
+                "Dallas/Fort Worth",
+                "30",
+                "Active"
+            ],
+            [
+                "Delta Air Lines",
+                "DL",
+                "",
+                "GA",
+                "Atlanta",
+                "67",
+                "Active"
+            ],
+            [
+                "United Airlines",
+                "UA",
+                "",
+                "IL",
+                "Chicago O'Hare",
+                "40",
+                ""
+            ],
+            [
+                "Southwest Airlines",
+                "WN",
+                "",
+                "AZ",
+                "Dallas Love Field",
+                "50",
+                ""
+            ],
+            [
+                "JetBlue Airways",
+                "B6",
+                "",
+                "NY",
+                "New York JFK",
+                "70",
+                ""
+            ],
+            [
+                "Alaska Airlines",
+                "AS",
+                "",
+                "WA",
+                "Seattle-Tacoma",
+                "80",
+                ""
+            ],
+            [
+                "Frontier Airlines",
+                "F9",
+                "",
+                "CO",
+                "Denver International",
+                "90",
+                ""
+            ],
+            [
+                "Spirit Airlines",
+                "NK",
+                "",
+                "FL",
+                "Miami International",
+                "N/A",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-221-221": {
+        "title": [
+            "Toxicological Element",
+            "Severity",
+            "Target Organ",
+            "Mechanism of Action",
+            "Observed Dose (mg/kg)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list top three elements of the toxicology of the molecule TR000 in alphabetical order.",
+        "data": [
+            [
+                "Cardiotoxicity",
+                "Moderate",
+                "Heart",
+                "Ion channel modulation",
+                "50"
+            ],
+            [
+                "Genotoxicity",
+                "Low",
+                "DNA",
+                "DNA adduct formation",
+                "200"
+            ],
+            [
+                "Hepatotoxicity",
+                "High",
+                "Liver",
+                "Metabolic overload",
+                "25"
+            ],
+            [
+                "Immunotoxicity",
+                "Moderate",
+                "Immune System",
+                "Lymphocyte suppression",
+                "120"
+            ],
+            [
+                "Nephrotoxicity",
+                "High",
+                "Kidneys",
+                "Tubular necrosis",
+                "35"
+            ],
+            [
+                "Neurotoxicity",
+                "Moderate",
+                "Brain",
+                "Receptor antagonism",
+                "75"
+            ]
+        ]
+    }
+}

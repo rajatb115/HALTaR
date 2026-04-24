@@ -1,0 +1,49 @@
+{
+    "table-52-52": {
+        "title": [
+            "First_Name",
+            "Age",
+            "Has_Pet",
+            "Pet_Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name and age of students who have a pet.",
+        "data": [
+            [
+                "Alice",
+                "7",
+                "Yes",
+                "Dog"
+            ],
+            [
+                "Benjamin",
+                "6",
+                "No",
+                "N/A"
+            ],
+            [
+                "Clara",
+                "8",
+                "Yes",
+                "Cat"
+            ],
+            [
+                "David",
+                "5",
+                "Yes",
+                "Hamster"
+            ],
+            [
+                "Elena",
+                "9",
+                "No",
+                "N/A"
+            ]
+        ]
+    }
+}

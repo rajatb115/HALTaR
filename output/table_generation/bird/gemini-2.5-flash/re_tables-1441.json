@@ -1,0 +1,61 @@
+{
+    "table-1441-1441": {
+        "title": [
+            "Customer Email",
+            "Payment Date",
+            "Payment Amount",
+            "Transaction ID"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List emails of people who paid more than 20 dollars from 9/10/2019 to 11/19/2019.",
+        "data": [
+            [
+                "alice.smith@example.com",
+                "2019-09-15",
+                "35.50",
+                "TXN1001"
+            ],
+            [
+                "bob.johnson@example.com",
+                "2019-10-01",
+                "48.25",
+                "TXN1002"
+            ],
+            [
+                "carol.white@example.com",
+                "2019-10-20",
+                "22.99",
+                "TXN1003"
+            ],
+            [
+                "david.brown@example.com",
+                "2019-11-05",
+                "60.00",
+                "TXN1004"
+            ],
+            [
+                "eve.green@example.com",
+                "2019-11-18",
+                "205.75",
+                "TXN1005"
+            ],
+            [
+                "frank.black@example.com",
+                "2019-09-28",
+                "75.00",
+                "TXN1006"
+            ],
+            [
+                "grace.grey@example.com",
+                "2019-10-10",
+                "31.40",
+                "TXN1007"
+            ]
+        ]
+    }
+}

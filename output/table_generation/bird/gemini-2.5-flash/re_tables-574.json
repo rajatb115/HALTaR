@@ -1,0 +1,69 @@
+{
+    "table-574-574": {
+        "title": [
+            "Comment ID",
+            "Comment Text",
+            "Author",
+            "Score",
+            "Timestamp"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write the contents of comments with a score of 17.",
+        "data": [
+            [
+                "101",
+                "This is a very insightful point, thanks for sharing!",
+                "DataGuru",
+                "17",
+                "2023-10-26 14:30"
+            ],
+            [
+                "102",
+                "I completely agree with your analysis.",
+                "AnalystPro",
+                "17",
+                "2023-10-26 15:05"
+            ],
+            [
+                "103",
+                "Could you elaborate on the third bullet point?",
+                "Questioner",
+                "16",
+                "2023-10-26 15:15"
+            ],
+            [
+                "104",
+                "Excellent summary, very helpful!",
+                "ReaderX",
+                "17",
+                "2023-10-26 16:00"
+            ],
+            [
+                "105",
+                "I found a small typo in the second paragraph.",
+                "Proofreader",
+                "18",
+                "2023-10-26 16:30"
+            ],
+            [
+                "106",
+                "This really clarified the topic for me.",
+                "Learner",
+                "17",
+                "2023-10-26 17:00"
+            ],
+            [
+                "107",
+                "Interesting perspective, I hadn't thought of it that way.",
+                "Thinker",
+                "17",
+                "2023-10-26 17:45"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-306-306": {
+        "title": [
+            "Section_Name",
+            "Category_ID",
+            "Status",
+            "Last_Updated",
+            "Record_Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the section_name in reversed lexicographical order.",
+        "data": [
+            [
+                "Zulu_Section",
+                "CAT-Z",
+                "Active",
+                "4/7/2026",
+                "342"
+            ],
+            [
+                "Yankee_Section",
+                "CAT-Y",
+                "Inactive",
+                "5/12/25",
+                "89"
+            ],
+            [
+                "Xray_Section",
+                "CAT-X",
+                "Pending",
+                "N/A",
+                "0"
+            ],
+            [
+                "Whiskey_Sect",
+                "WHT-A",
+                "Active",
+                "6/1/26",
+                "756"
+            ],
+            [
+                "Victor_Section",
+                "VCT-B",
+                "Draft",
+                "9/30/24",
+                "-1"
+            ],
+            [
+                "Tango_Section",
+                "TNG-C",
+                "Archived",
+                "1/15/23",
+                "-2"
+            ],
+            [
+                "Sierra_Section",
+                "SIA-D",
+                "Active",
+                "12/31/25",
+                "1024"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "table-441-441": {
+        "title": [
+            "Region",
+            "Population Estimate",
+            "Life Expectancy (Years)",
+            "Data Source",
+            "Year Recorded",
+            "Urbanization Rate (%)",
+            "GDP per Capita ($)",
+            "Infant Mortality Rate"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the population and life expectancies in Brazil?",
+        "data": [
+            [
+                "S\u00e3o Paulo State",
+                "46,649,132",
+                "78.5",
+                "IBGE",
+                "2005",
+                "96.2%",
+                "$14,205",
+                "N/A"
+            ],
+            [
+                "Rio de Janeiro State",
+                "null",
+                "80.1",
+                "Ministry of Health",
+                "2006",
+                "0.0%",
+                "3,500",
+                ""
+            ],
+            [
+                "Minas Gerais State",
+                "",
+                "77.9",
+                "World Bank",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Bahia State",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Par\u00e1 State",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Amazonas State",
+                "null",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-1186-1186": {
+        "title": [
+            "Patient ID",
+            "Date",
+            "Total Cholesterol (mg/dL)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Patient Cholesterol Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who was born on 1959/2/18, what is the decrease rate for his/her total cholesterol from November to December in 1981?",
+        "data": [
+            [
+                "12345",
+                "1981-11-01",
+                "220"
+            ],
+            [
+                "12345",
+                "1981-12-01",
+                "200"
+            ],
+            [
+                "67890",
+                "1981-11-01",
+                "250"
+            ],
+            [
+                "67890",
+                "1981-12-01",
+                "230"
+            ],
+            [
+                "...",
+                "...",
+                "..."
+            ]
+        ]
+    }
+}

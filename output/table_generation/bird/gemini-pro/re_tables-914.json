@@ -1,0 +1,45 @@
+{
+    "table-914-914": {
+        "title": [
+            "Circuit Name",
+            "Country",
+            "Altitude (meters)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Highest Altitude Race Circuits",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which country can I find the circuit with the highest altitude?",
+        "data": [
+            [
+                "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+                "Mexico",
+                "2240"
+            ],
+            [
+                "Interlagos",
+                "Brazil",
+                "800"
+            ],
+            [
+                "Red Bull Ring",
+                "Austria",
+                "677"
+            ],
+            [
+                "Mugello Circuit",
+                "Italy",
+                "430"
+            ],
+            [
+                "Silverstone Circuit",
+                "United Kingdom",
+                "153"
+            ]
+        ]
+    }
+}

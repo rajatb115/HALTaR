@@ -1,0 +1,76 @@
+{
+    "table-235-235": {
+        "title": [
+            "Visitor ID",
+            "Full Name",
+            "Membership Level",
+            "Total Spent ($)",
+            "Ticket Count",
+            "Last Visit Date",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the id, name and membership level of visitors who have spent the largest amount of money in total in all museum tickets?",
+        "data": [
+            [
+                "V-4092",
+                "Eleanor Vance",
+                "Platinum",
+                "$1,245.00",
+                "47",
+                "6/12/2023",
+                "Active"
+            ],
+            [
+                "V-1183",
+                "Marcus Thorne",
+                "Gold",
+                "$980.50",
+                "",
+                "N/A",
+                "Inactive"
+            ],
+            [
+                "V-7721",
+                "Sarah Jenkins",
+                "Silver",
+                "$850.25",
+                "32",
+                "5/28/2023",
+                "Pending"
+            ],
+            [
+                "",
+                "Robert Chen",
+                "Platinum - Lifetime",
+                "$720.00",
+                "",
+                "7/01/2023",
+                "Suspended"
+            ],
+            [
+                "V-3301",
+                "Linda Wu",
+                "Bronze",
+                "$615.75",
+                "",
+                "8/15/1923",
+                "Verified"
+            ],
+            [
+                "V-9921",
+                "James O'Neil",
+                "Standard",
+                "$540.10",
+                "",
+                "9/02/1899",
+                "Expired"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-27-27": {
+        "title": [
+            "School_Name",
+            "Street_Address",
+            "City_State_Zip",
+            "Free_Reduced_Meals_Count",
+            "Age_Group_Served",
+            "Enrollment_Status",
+            "Last_Updated_Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the names and full communication address of high schools in Monterey which has more than 800 free or reduced price meals for ages 15-17?",
+        "data": [
+            [
+                "Monterey High School",
+                "460 N Main St",
+                "Monterey CA 93940",
+                "845",
+                "9-12",
+                "Active",
+                "01/15/2024"
+            ],
+            [
+                "Salinas Valley Charter HS",
+                "300 E Alisal St",
+                "Salinas CA 83901*",
+                "790",
+                "K-11",
+                "Pending Review",
+                "6/30/23"
+            ],
+            [
+                "Pacific Grove Academy",
+                "500 Forest Ave",
+                "Pacific Grove CA 39301**",
+                "812",
+                "9",
+                "Operational",
+                "12/01 /203"
+            ],
+            [
+                "Carmel River Prep",
+                "#12 Ocean View Dr",
+                "Carmel-by-the-Sea CA 4010***",
+                "N/A",
+                "All Ages",
+                "Inactive",
+                "N/A"
+            ],
+            [
+                "Seaside Heights Secondary",
+                "$88 Beach Blvd",
+                "Seaside CA 5501****",
+                "",
+                ">80% Eligible",
+                "",
+                ""
+            ]
+        ]
+    }
+}

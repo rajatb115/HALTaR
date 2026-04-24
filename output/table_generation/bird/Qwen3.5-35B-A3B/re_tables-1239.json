@@ -1,0 +1,77 @@
+{
+    "table-1239-1239": {
+        "title": [
+            "Patient_ID",
+            "Sex",
+            "Age",
+            "Diagnosis_Status",
+            "Hemoglobin_Level",
+            "Status_Normal_Hb"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients who were diagnosed with SLE, who is the oldest with normal hemoglobin level. Provide the ID and sex.",
+        "data": [
+            [
+                "P_4021",
+                "Female",
+                "76",
+                "Confirmed_SLE",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "P_A109",
+                "Male",
+                "68",
+                "Confined_SLE",
+                "Low",
+                "No"
+            ],
+            [
+                "B_3392",
+                "Female",
+                "72",
+                "Suspected_SLE",
+                "High",
+                "No"
+            ],
+            [
+                "C_8811",
+                "Male",
+                "81",
+                "Confimed_SLE",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "D_1122",
+                "Female",
+                "55",
+                "Active_SLE",
+                "Borderline",
+                "No"
+            ],
+            [
+                "E_9900",
+                "Male",
+                "49",
+                "Remission_SLE",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "F_2233",
+                "Female",
+                "63",
+                "Chronic_SLE",
+                "Low",
+                "No"
+            ]
+        ]
+    }
+}

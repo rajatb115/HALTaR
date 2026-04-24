@@ -1,0 +1,45 @@
+{
+    "table-17-17": {
+        "title": [
+            "School Name",
+            "Merged District",
+            "Number of Test Takers"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Schools in Merged Alameda with Low Test Taker Count",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many schools in merged Alameda have number of test takers less than 100?",
+        "data": [
+            [
+                "School A",
+                "Alameda Unified",
+                "75"
+            ],
+            [
+                "School B",
+                "Alameda Unified",
+                "92"
+            ],
+            [
+                "School C",
+                "Alameda Unified",
+                "110"
+            ],
+            [
+                "School D",
+                "Alameda Unified",
+                "68"
+            ],
+            [
+                "School E",
+                "Alameda Unified",
+                "85"
+            ]
+        ]
+    }
+}

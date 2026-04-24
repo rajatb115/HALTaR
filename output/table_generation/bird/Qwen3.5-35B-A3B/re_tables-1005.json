@@ -1,0 +1,40 @@
+{
+    "table-1005-1005": {
+        "title": [
+            "Racer Full Name",
+            "Age",
+            "Total Wins",
+            "Championships",
+            "Nationality",
+            "Debut Year",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many wins was achieved by the oldest racer? Indicate his/her full name.",
+        "data": [
+            [
+                "Mario Rossi",
+                "74",
+                "12",
+                "3",
+                "Italian",
+                "1965",
+                "Retired"
+            ],
+            [
+                "Roger Smith",
+                "72",
+                "8",
+                "1",
+                "British",
+                "",
+                "Active"
+            ]
+        ]
+    }
+}

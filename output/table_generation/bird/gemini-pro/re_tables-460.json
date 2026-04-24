@@ -1,0 +1,45 @@
+{
+    "table-460-460": {
+        "title": [
+            "Card Name",
+            "Mana Cost",
+            "Converted Mana Cost (CMC)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Magic: The Gathering Card Mana Costs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which card costs more converted mana, \"Serra Angel\" or \"Shrine Keeper\"?",
+        "data": [
+            [
+                "Serra Angel",
+                "3WW",
+                "5"
+            ],
+            [
+                "Shrine Keeper",
+                "1W",
+                "2"
+            ],
+            [
+                "Lightning Bolt",
+                "R",
+                "1"
+            ],
+            [
+                "Counterspell",
+                "UU",
+                "2"
+            ],
+            [
+                "Llanowar Elves",
+                "G",
+                "1"
+            ]
+        ]
+    }
+}

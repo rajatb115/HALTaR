@@ -1,0 +1,76 @@
+{
+    "table-1422-1422": {
+        "title": [
+            "Member ID",
+            "Major Subject",
+            "Enrollment Status",
+            "Total Members",
+            "Math Majors Count",
+            "Percentage Calculation",
+            "Result (%)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of members who are major Mathematics in the list?",
+        "data": [
+            [
+                "M0042",
+                "Mathematics",
+                "Active",
+                "450",
+                "67",
+                "(67 / 400) * 100",
+                "N/A"
+            ],
+            [
+                "M0055",
+                "Computer Science",
+                "Inactive",
+                "380",
+                "None",
+                "N/N*10",
+                "-"
+            ],
+            [
+                "M0089",
+                "Physics",
+                "Active",
+                "420",
+                "None",
+                "N/A",
+                "-"
+            ],
+            [
+                "M0112",
+                "Mathematics",
+                "Active",
+                "455",
+                "72",
+                "(72/45)*10",
+                "N/A"
+            ],
+            [
+                "M1034",
+                "Statistics",
+                "Graduated",
+                "410",
+                "null",
+                "null",
+                "null"
+            ],
+            [
+                "M1056",
+                "Applied Math",
+                "Enrolled",
+                "460",
+                "75",
+                "(75/46)*1",
+                "N"
+            ]
+        ]
+    }
+}

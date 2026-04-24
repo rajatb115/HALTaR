@@ -1,0 +1,61 @@
+{
+    "table-26-26": {
+        "title": [
+            "School Name",
+            "City",
+            "Average SAT Math Score",
+            "Funding Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name schools in Riverside which the average of average math score for SAT is grater than 400, what is the funding type of these schools?",
+        "data": [
+            [
+                "Riverside Poly High School",
+                "Riverside",
+                "525",
+                "Public"
+            ],
+            [
+                "Martin Luther King High School",
+                "Riverside",
+                "580",
+                "Public"
+            ],
+            [
+                "John W. North High School",
+                "Riverside",
+                "490",
+                "Public"
+            ],
+            [
+                "Ramona High School",
+                "Riverside",
+                "455",
+                "Public"
+            ],
+            [
+                "Notre Dame High School",
+                "Riverside",
+                "610",
+                "Private"
+            ],
+            [
+                "La Sierra High School",
+                "Riverside",
+                "530",
+                "Public"
+            ],
+            [
+                "Arlington High School",
+                "Riverside",
+                "470",
+                "Public"
+            ]
+        ]
+    }
+}

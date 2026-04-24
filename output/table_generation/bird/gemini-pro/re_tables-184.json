@@ -1,0 +1,45 @@
+{
+    "table-184-184": {
+        "title": [
+            "Account ID",
+            "District",
+            "Open Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Account Openings by Location and Date",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts in Beroun were opened after 1996?",
+        "data": [
+            [
+                "12345",
+                "Beroun",
+                "1997-03-15"
+            ],
+            [
+                "67890",
+                "Beroun",
+                "1998-11-22"
+            ],
+            [
+                "24680",
+                "Prague",
+                "1996-05-10"
+            ],
+            [
+                "13579",
+                "Beroun",
+                "2000-01-01"
+            ],
+            [
+                "98765",
+                "Plzen",
+                "1995-07-04"
+            ]
+        ]
+    }
+}

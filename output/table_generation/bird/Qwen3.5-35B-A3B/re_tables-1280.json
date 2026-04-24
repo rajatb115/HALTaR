@@ -1,0 +1,67 @@
+{
+    "table-1280-1280": {
+        "title": [
+            "Patient ID",
+            "Glutamic Oxaloaceto Transaminase Status",
+            "Lupus Diagnosis",
+            "Abnormal Level (%)",
+            "Sample Size",
+            "Region",
+            "Study Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of patient who has a abnormal level of glutamic oxaloacetic transaminase level, yet he or she is diagnosed with SLE?",
+        "data": [
+            [
+                "P-1042",
+                "Elevated",
+                "Systemic Lupus Erythematosus",
+                "67.5%",
+                "450",
+                "North America",
+                "01/15/2023"
+            ],
+            [
+                "P-1109",
+                "Normal",
+                "Negative for Autoimmune Disease",
+                "N/A",
+                "320",
+                "Europe",
+                "02/22/2023"
+            ],
+            [
+                "P-1155",
+                "Mildly Elevated",
+                "Discoid Lupus",
+                "N/A",
+                "89",
+                "Asia",
+                "March 10, 2023"
+            ],
+            [
+                "P-1201",
+                "High",
+                "Systemic Lupus Erythematosus",
+                "72.3%",
+                "510",
+                "South America",
+                "April 05, 2023"
+            ],
+            [
+                "P-1334",
+                "Moderately Elevated",
+                "Juvenile Idiopathic Arthritis",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

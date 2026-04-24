@@ -1,0 +1,55 @@
+{
+    "table-404-404": {
+        "title": [
+            "Player Name",
+            "Final Tables Made",
+            "Total Winnings",
+            "WSOP Bracelets"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of poker players ordered by the final tables made in ascending order.",
+        "data": [
+            [
+                "Maria Ho",
+                "5",
+                "$4,500,000",
+                "0"
+            ],
+            [
+                "Liv Boeree",
+                "7",
+                "$3,800,000",
+                "1"
+            ],
+            [
+                "Phil Laak",
+                "9",
+                "$4,200,000",
+                "1"
+            ],
+            [
+                "Antonio Esfandiari",
+                "12",
+                "$27,800,000",
+                "3"
+            ],
+            [
+                "Daniel Negreanu",
+                "15",
+                "$51,000,000",
+                "6"
+            ],
+            [
+                "Erik Seidel",
+                "18",
+                "$45,000,000",
+                "10"
+            ]
+        ]
+    }
+}

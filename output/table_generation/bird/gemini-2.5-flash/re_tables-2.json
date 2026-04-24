@@ -1,0 +1,69 @@
+{
+    "table-2-2": {
+        "title": [
+            "Program Name",
+            "Rate Category",
+            "Age Eligibility",
+            "School Type",
+            "Original Annual Cost (USD)",
+            "Free Rate Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the lowest three eligible free rates for students aged 5-17 in continuation schools.",
+        "data": [
+            [
+                "National School Lunch Program",
+                "Daily School Meals",
+                "5-17",
+                "Continuation School",
+                "850",
+                "Fully Waived"
+            ],
+            [
+                "Continuation School Textbook Grant",
+                "Required Textbooks",
+                "12-17",
+                "Continuation School",
+                "300",
+                "100% Subsidized"
+            ],
+            [
+                "Student Activity Fee Waiver",
+                "Extracurricular Activities",
+                "14-17",
+                "Continuation School",
+                "250",
+                "Zero Cost"
+            ],
+            [
+                "School Supplies Assistance Fund",
+                "Basic School Supplies",
+                "5-17",
+                "Continuation School",
+                "120",
+                "Grant Funded"
+            ],
+            [
+                "Public Transit Pass Program",
+                "Daily Commute Transportation",
+                "10-17",
+                "Continuation School",
+                "600",
+                "Fully Waived"
+            ],
+            [
+                "Summer Remedial Course Scholarship",
+                "Summer Course Tuition",
+                "15-17",
+                "Continuation School",
+                "1100",
+                "100% Scholarship"
+            ]
+        ]
+    }
+}

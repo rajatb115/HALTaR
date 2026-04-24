@@ -1,0 +1,69 @@
+{
+    "table-134-134": {
+        "title": [
+            "Flight Number",
+            "Departure Airport",
+            "Destination Airport",
+            "Departure Time",
+            "Airline"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are flight numbers of flights departing from Airport \"APG\"?",
+        "data": [
+            [
+                "AA1234",
+                "APG",
+                "LAX",
+                "08:00 AM",
+                "American Airlines"
+            ],
+            [
+                "DL5678",
+                "APG",
+                "JFK",
+                "09:15 AM",
+                "Delta Airlines"
+            ],
+            [
+                "UA9101",
+                "APG",
+                "ORD",
+                "10:30 AM",
+                "United Airlines"
+            ],
+            [
+                "SW2345",
+                "APG",
+                "DEN",
+                "11:45 AM",
+                "Southwest Airlines"
+            ],
+            [
+                "AS6789",
+                "APG",
+                "SEA",
+                "01:00 PM",
+                "Alaska Airlines"
+            ],
+            [
+                "BA1122",
+                "APG",
+                "LHR",
+                "02:30 PM",
+                "British Airways"
+            ],
+            [
+                "LH3344",
+                "APG",
+                "FRA",
+                "04:00 PM",
+                "Lufthansa"
+            ]
+        ]
+    }
+}

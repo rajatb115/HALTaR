@@ -1,0 +1,45 @@
+{
+    "table-106-106": {
+        "title": [
+            "Loan Approval Date",
+            "Account Opening Location",
+            "Branch District ID"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Loan Account Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "There was a loan approved in 1994/8/25, where was that account opened, give the district Id of the branch.",
+        "data": [
+            [
+                "1994-08-25",
+                "New York",
+                "123"
+            ],
+            [
+                "1994-07-12",
+                "Los Angeles",
+                "456"
+            ],
+            [
+                "1994-09-01",
+                "Chicago",
+                "789"
+            ],
+            [
+                "1994-08-10",
+                "Houston",
+                "101"
+            ],
+            [
+                "1994-08-28",
+                "Philadelphia",
+                "202"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1169-1169": {
+        "title": [
+            "Patient ID",
+            "Condition",
+            "Hospital Arrival Date",
+            "Age at Arrival (Years)",
+            "Lab Work Completion Date",
+            "Severity"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "The oldest SJS patient's medical laboratory work was completed on what date, and what age was the patient when they initially arrived at the hospital?",
+        "data": [
+            [
+                "SJS-001",
+                "SJS",
+                "2023-01-10",
+                "45",
+                "2023-01-12",
+                "Moderate"
+            ],
+            [
+                "SJS-002",
+                "SJS",
+                "2022-11-05",
+                "68",
+                "2022-11-07",
+                "Severe"
+            ],
+            [
+                "SJS-003",
+                "SJS",
+                "2024-03-15",
+                "22",
+                "2024-03-16",
+                "Mild"
+            ],
+            [
+                "SJS-004",
+                "SJS",
+                "2023-07-20",
+                "78",
+                "2023-07-22",
+                "Severe"
+            ],
+            [
+                "SJS-005",
+                "SJS",
+                "2022-09-01",
+                "55",
+                "2022-09-03",
+                "Moderate"
+            ],
+            [
+                "SJS-006",
+                "SJS",
+                "2024-01-25",
+                "31",
+                "2024-01-26",
+                "Mild"
+            ],
+            [
+                "SJS-007",
+                "SJS",
+                "2023-04-12",
+                "82",
+                "2023-04-14",
+                "Critical"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-1287-1287": {
+        "title": [
+            "Patient ID",
+            "Alkaline Phosphatase Level",
+            "Abnormal Status",
+            "Hospital Admission Count",
+            "Admit Date",
+            "Discharge Date",
+            "Ward Assigned"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient with an abnormal alkaliphophatase level, how many of them are admitted to the hospital?",
+        "data": [
+            [
+                "P-1042",
+                "320 U/L",
+                "Yes",
+                "4",
+                "06/12/2023",
+                "N/A",
+                "General Medicine"
+            ],
+            [
+                "P-1105",
+                "89 U/L",
+                "No",
+                "0",
+                "N/A",
+                "N/A",
+                "Outpatient Clinic"
+            ],
+            [
+                "P-A772",
+                "-450 U/mL",
+                "High",
+                "2",
+                "07/01/23",
+                "08/15/24",
+                "ICU"
+            ],
+            [
+                "P-B991",
+                "610 IU/L",
+                "Elevated",
+                "1",
+                "09/22/19",
+                "10/05/14",
+                "Gastroenterology"
+            ],
+            [
+                "P-C334",
+                "Normal Range",
+                "Negative",
+                "0",
+                "01 Jan 22",
+                "N/A",
+                "Home Care"
+            ],
+            [
+                "P-D882",
+                ">1000 mg/dL",
+                "Critical",
+                "3",
+                "11 Nov 21",
+                "12 Dec 23",
+                "Emergency Dept"
+            ],
+            [
+                "P-E119",
+                "95 Units",
+                "Low",
+                "0",
+                "Feb 14 24",
+                "Mar 15",
+                "Pediatrics"
+            ]
+        ]
+    }
+}

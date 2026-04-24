@@ -1,0 +1,33 @@
+{
+    "table-687-687": {
+        "title": [
+            "Post_ID",
+            "Title_Category",
+            "View_Count",
+            "Average_Threshold",
+            "Status",
+            "Author",
+            "Date_Posted",
+            "Platform_Source"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the total number of posts with views above average.",
+        "data": [
+            [
+                "P-1042",
+                "Tech Review",
+                "5420",
+                "3205",
+                "Above_Average",
+                "J_Doe",
+                "06/15/2023",
+                "Blog_Main"
+            ]
+        ]
+    }
+}

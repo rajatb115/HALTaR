@@ -1,0 +1,69 @@
+{
+    "table-501-501": {
+        "title": [
+            "City",
+            "Country",
+            "Official Language",
+            "Region",
+            "Population Estimate"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the different names of cities that are in Asia and for which Chinese is the official language.",
+        "data": [
+            [
+                "Singapore",
+                "Singapore",
+                "Mandarin Chinese",
+                "Southeast Asia",
+                "5647000"
+            ],
+            [
+                "Macau",
+                "China",
+                "Cantonese Chinese",
+                "East Asia",
+                "N/A"
+            ],
+            [
+                "Beijing",
+                "China",
+                "Mandarin Chinese",
+                "East Asia",
+                "21540024"
+            ],
+            [
+                "Shanghai",
+                "China",
+                "Mandarin Chinese",
+                "East Asia",
+                "24280095"
+            ],
+            [
+                "Guangzhou",
+                "China",
+                "Mandarin Chinese",
+                "East Asia",
+                "14904401"
+            ],
+            [
+                "Chengdu",
+                "China",
+                "Mandarin Chinese",
+                "East Asia",
+                "16334070"
+            ],
+            [
+                "Xi'an",
+                "China",
+                "Mandarin Chinese",
+                "East Asia",
+                "8705600"
+            ]
+        ]
+    }
+}

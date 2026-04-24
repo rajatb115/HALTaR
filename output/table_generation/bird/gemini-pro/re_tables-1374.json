@@ -1,0 +1,43 @@
+{
+    "table-1374-1374": {
+        "title": [
+            "Member Name",
+            "Hometown",
+            "State"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Member Hometown Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the members' hometowns are from Maryland state?",
+        "data": [
+            [
+                "John Smith",
+                "Baltimore",
+                "Maryland"
+            ],
+            [
+                "Alice Johnson",
+                "Annapolis",
+                "Maryland"
+            ],
+            [
+                "Robert Williams",
+                "New York",
+                "New York"
+            ],
+            [
+                "Emily Brown",
+                "Bethesda",
+                "Maryland"
+            ],
+            [
+                "David Jones",
+                "Silver Spring",
+                "Maryland"
+            ]
+        ]
+    }
+}

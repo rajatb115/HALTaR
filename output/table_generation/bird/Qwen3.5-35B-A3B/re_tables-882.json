@@ -1,0 +1,94 @@
+{
+    "table-882-882": {
+        "title": [
+            "Driver Name",
+            "Race Date",
+            "Total Races Entered",
+            "Finishes Recorded",
+            "Completion Rate (%)",
+            "Team",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the drivers who took part in the race in 1983/7/16, what's their race completion rate?",
+        "data": [
+            [
+                "Ayrton Senna",
+                "4 July 16",
+                "5",
+                "3",
+                "60.0",
+                "Toleman Motorsport",
+                "Finished"
+            ],
+            [
+                "Michele Alboreto",
+                "7 June 12",
+                "8",
+                "0",
+                "90.5",
+                "Tyrrell Racing Organisation",
+                "Retired"
+            ],
+            [
+                "Keke Rosberg",
+                "1 August 14",
+                "",
+                "",
+                "",
+                "Williams Grand Prix Engineering",
+                "DNF"
+            ],
+            [
+                "Patrick Tambay",
+                "September 10",
+                "",
+                "",
+                "N/A",
+                "Ferrari SpA SEFAC",
+                "DNS"
+            ],
+            [
+                "Alain Prost",
+                "October 15",
+                "",
+                "",
+                "",
+                "Renault Elf",
+                "DSQ"
+            ],
+            [
+                "Eddie Cheever",
+                "November 22",
+                "",
+                "",
+                "",
+                "Arrows Grand Prix International",
+                "DNQ"
+            ],
+            [
+                "Riccardo Patrese",
+                "December 5",
+                "",
+                "",
+                "",
+                "Brabham BT52",
+                "P1"
+            ],
+            [
+                "John Watson",
+                "January 18",
+                "",
+                "",
+                "",
+                "McLaren MP4/1B",
+                "P2"
+            ]
+        ]
+    }
+}

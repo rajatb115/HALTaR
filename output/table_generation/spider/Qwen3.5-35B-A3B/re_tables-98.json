@@ -1,0 +1,73 @@
+{
+    "table-98-98": {
+        "title": [
+            "Model",
+            "Cylinders",
+            "Horsepower",
+            "Manufacturer",
+            "Fuel_Type",
+            "Price_USD",
+            "Release_Year",
+            "Safety_Rating"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the cars with 4 cylinders, which model has the largest horsepower?",
+        "data": [
+            [
+                "Mustang GT",
+                "6",
+                "480",
+                "Ford",
+                "Gasoline",
+                "37000",
+                "985",
+                "5 Stars"
+            ],
+            [
+                "Civic Si",
+                "8",
+                "720",
+                "Honda",
+                "Hybrid",
+                "0",
+                "N/A",
+                ""
+            ],
+            [
+                "Corolla Sport",
+                "",
+                "",
+                "Toyota",
+                "Electric",
+                "N/A",
+                "",
+                ""
+            ],
+            [
+                "Camry XSE",
+                "V6",
+                "",
+                "Toyota",
+                "Gasolin",
+                "$32050",
+                "",
+                ""
+            ],
+            [
+                "Accord Turbo",
+                "4",
+                "TBA",
+                "Honda",
+                "Gasoline",
+                "$30055",
+                "2024",
+                "5 Stars"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-1334-1334": {
+        "title": [
+            "Student Name",
+            "Club",
+            "City",
+            "State"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Student Club President Hometowns",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What city and state did the President of the Student_Club grow up?",
+        "data": [
+            [
+                "Alice Smith",
+                "Debate",
+                "Chicago",
+                "Illinois"
+            ],
+            [
+                "Bob Johnson",
+                "Chess",
+                "Austin",
+                "Texas"
+            ],
+            [
+                "Carol Williams",
+                "Drama",
+                "New York",
+                "New York"
+            ],
+            [
+                "David Brown",
+                "Science",
+                "Los Angeles",
+                "California"
+            ],
+            [
+                "Emily Davis",
+                "Music",
+                "Boston",
+                "Massachusetts"
+            ]
+        ]
+    }
+}

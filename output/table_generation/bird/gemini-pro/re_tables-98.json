@@ -1,0 +1,57 @@
+{
+    "table-98-98": {
+        "title": [
+            "Client ID",
+            "Client Name",
+            "Transaction Type",
+            "Statement of Issuance",
+            "Disponent"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Clients with Statement of Issuance after Transaction",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the clients who choose statement of issuance after transaction are Disponent?",
+        "data": [
+            [
+                "123",
+                "ABC Corp",
+                "Purchase",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "456",
+                "XYZ Inc",
+                "Sale",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "789",
+                "LMN Ltd",
+                "Transfer",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "101",
+                "PQR Group",
+                "Exchange",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "112",
+                "STU Co.",
+                "Trade",
+                "Yes",
+                "Yes"
+            ]
+        ]
+    }
+}

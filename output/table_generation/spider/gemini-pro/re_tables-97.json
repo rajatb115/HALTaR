@@ -1,0 +1,51 @@
+{
+    "table-97-97": {
+        "title": [
+            "Model",
+            "Version",
+            "Cylinders",
+            "Acceleration (0-60 mph)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Volvo Model Engine Specifications",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For a volvo model, how many cylinders does the version with least accelerate have?",
+        "data": [
+            [
+                "Volvo",
+                "S60",
+                "4",
+                "6.4 s"
+            ],
+            [
+                "Volvo",
+                "XC60",
+                "4",
+                "6.6 s"
+            ],
+            [
+                "Volvo",
+                "V60",
+                "4",
+                "6.7 s"
+            ],
+            [
+                "Volvo",
+                "XC40",
+                "3",
+                "7.3 s"
+            ],
+            [
+                "Volvo",
+                "S90",
+                "4",
+                "7.9 s"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-1405-1405": {
+        "title": [
+            "Expense Type",
+            "Total Value (USD)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "October Meeting Expenses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the type of expenses and their total value approved for 'October Meeting' event.",
+        "data": [
+            [
+                "Catering",
+                "1500"
+            ],
+            [
+                "Venue Rental",
+                "2500"
+            ],
+            [
+                "Travel",
+                "800"
+            ],
+            [
+                "Marketing",
+                "600"
+            ],
+            [
+                "Speaker Fees",
+                "1200"
+            ]
+        ]
+    }
+}

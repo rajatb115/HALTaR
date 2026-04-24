@@ -1,0 +1,55 @@
+{
+    "table-153-153": {
+        "title": [
+            "Region",
+            "Crime Year",
+            "Crimes Committed",
+            "Account Start Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average number of crimes committed in 1995 in regions where the number exceeds 4000 and the region has accounts that are opened starting from the year 1997?",
+        "data": [
+            [
+                "Northwood",
+                "1995",
+                "4500",
+                "1998"
+            ],
+            [
+                "Southside",
+                "1995",
+                "5200",
+                "1996"
+            ],
+            [
+                "Eastville",
+                "1995",
+                "3800",
+                "1997"
+            ],
+            [
+                "West End",
+                "1994",
+                "4100",
+                "1999"
+            ],
+            [
+                "Central District",
+                "1995",
+                "6100",
+                "2001"
+            ],
+            [
+                "Riverside",
+                "1996",
+                "4800",
+                "1997"
+            ]
+        ]
+    }
+}

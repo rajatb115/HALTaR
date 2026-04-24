@@ -1,0 +1,48 @@
+{
+    "table-1320-1320": {
+        "title": [
+            "Club_Name",
+            "Vice_President_Name",
+            "College_Affiliation",
+            "Role_Start_Date",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which college is the vice president of the Student_Club from?",
+        "data": [
+            [
+                "Student_Union_VP",
+                "Sarah Jenkins",
+                "School_of_Engineering",
+                "01/15/2024",
+                "Active"
+            ],
+            [
+                "Debate_Society_VP",
+                "Michael Chen",
+                "College_of_Liberal_Arts",
+                "06/01/2017",
+                "Inactive"
+            ],
+            [
+                "Chess_Club_VP",
+                "David Ross",
+                "Business_College",
+                "09/10/2022",
+                "Active"
+            ],
+            [
+                "Art_Association_VP",
+                "Emily White",
+                "Fine_Arts_Department",
+                "03/21/2023",
+                "Active"
+            ]
+        ]
+    }
+}

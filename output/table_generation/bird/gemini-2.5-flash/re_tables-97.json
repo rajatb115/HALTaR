@@ -1,0 +1,69 @@
+{
+    "table-97-97": {
+        "title": [
+            "Customer ID",
+            "Statement Frequency",
+            "Customer Type",
+            "Account Status",
+            "Enrollment Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many customers who choose statement of weekly issuance are Owner?",
+        "data": [
+            [
+                "CUST001",
+                "Weekly",
+                "Owner",
+                "Active",
+                "2022-01-15"
+            ],
+            [
+                "CUST002",
+                "Monthly",
+                "Individual",
+                "Active",
+                "2021-11-01"
+            ],
+            [
+                "CUST003",
+                "Weekly",
+                "Partner",
+                "Active",
+                "2023-03-20"
+            ],
+            [
+                "CUST004",
+                "Bi-weekly",
+                "Owner",
+                "Active",
+                "2022-07-10"
+            ],
+            [
+                "CUST005",
+                "Weekly",
+                "Owner",
+                "Active",
+                "2023-01-05"
+            ],
+            [
+                "CUST006",
+                "Monthly",
+                "Corporation",
+                "Inactive",
+                "2021-09-12"
+            ],
+            [
+                "CUST007",
+                "Weekly",
+                "Individual",
+                "Active",
+                "2022-05-25"
+            ]
+        ]
+    }
+}

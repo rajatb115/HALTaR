@@ -1,0 +1,58 @@
+{
+    "table-1218-1218": {
+        "title": [
+            "Patient ID",
+            "Date of Birth",
+            "Albumin Value (g/dL)",
+            "Normal Range (g/dL)",
+            "Within Normal Range?"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Albumin Levels for Patients Born in 1982",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all patient born in 1982, state if their albumin is within normal range.",
+        "data": [
+            [
+                "12345",
+                "1982-05-10",
+                "4.2",
+                "3.4 - 5.4",
+                "Yes"
+            ],
+            [
+                "67890",
+                "1982-11-15",
+                "3.0",
+                "3.4 - 5.4",
+                "No"
+            ],
+            [
+                "24680",
+                "1982-03-22",
+                "4.8",
+                "3.4 - 5.4",
+                "Yes"
+            ],
+            [
+                "13579",
+                "1982-07-04",
+                "5.5",
+                "3.4 - 5.4",
+                "No"
+            ],
+            [
+                "98765",
+                "1982-09-28",
+                "3.9",
+                "3.4 - 5.4",
+                "Yes"
+            ]
+        ]
+    }
+}

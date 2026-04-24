@@ -1,0 +1,53 @@
+{
+    "table-667-667": {
+        "title": [
+            "Post ID",
+            "User ID",
+            "Vote Value",
+            "Timestamp"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Top Post IDs Voted by User",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts that were voted by user 1465, what is the id of the most valuable post?",
+        "data": [
+            [
+                "25",
+                "1465",
+                "5",
+                "2023-01-15 10:00:00"
+            ],
+            [
+                "12",
+                "1465",
+                "3",
+                "2023-01-15 09:30:00"
+            ],
+            [
+                "89",
+                "1465",
+                "5",
+                "2023-01-14 18:00:00"
+            ],
+            [
+                "4",
+                "1465",
+                "1",
+                "2023-01-14 12:00:00"
+            ],
+            [
+                "56",
+                "1465",
+                "4",
+                "2023-01-13 22:00:00"
+            ]
+        ]
+    }
+}

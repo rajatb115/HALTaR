@@ -1,0 +1,53 @@
+{
+    "table-134-134": {
+        "title": [
+            "District Name",
+            "Branch Location",
+            "Unemployment Rate (1996)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In 1996, which districts have the highest unemployment rate? List their branch location and district name.",
+        "data": [
+            [
+                "Green Valley",
+                "Rural Outpost",
+                "14.0%"
+            ],
+            [
+                "Riverside",
+                "Port District",
+                "13.1%"
+            ],
+            [
+                "Northwood",
+                "Main Street",
+                "12.5%"
+            ],
+            [
+                "Southgate",
+                "Market Square",
+                "12.2%"
+            ],
+            [
+                "Eastside",
+                "Central Plaza",
+                "11.8%"
+            ],
+            [
+                "West End",
+                "Industrial Park",
+                "10.9%"
+            ],
+            [
+                "Midtown",
+                "Financial Hub",
+                "9.7%"
+            ]
+        ]
+    }
+}

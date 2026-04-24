@@ -1,0 +1,37 @@
+{
+    "table-1408-1408": {
+        "title": [
+            "Advertising Type",
+            "Budgeted Amount"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Top Advertising Budgets",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the budgets for Advertising, list out top three which have the most budgeted amount?",
+        "data": [
+            [
+                "Television",
+                "$5,000,000"
+            ],
+            [
+                "Social Media",
+                "$4,000,000"
+            ],
+            [
+                "Print Media",
+                "$3,000,000"
+            ],
+            [
+                "Radio",
+                "$2,000,000"
+            ],
+            [
+                "Email Marketing",
+                "$1,000,000"
+            ]
+        ]
+    }
+}

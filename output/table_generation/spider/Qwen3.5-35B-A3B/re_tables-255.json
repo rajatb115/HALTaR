@@ -1,0 +1,48 @@
+{
+    "table-255-255": {
+        "title": [
+            "Country Code",
+            "First Name",
+            "Tournament Won",
+            "Years Active",
+            "Grand Slam Titles"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the country code and first name of the players who won in both tourney WTA Championships and Australian Open?",
+        "data": [
+            [
+                "USA",
+                "Serena",
+                "WTA Finals",
+                "1997",
+                "23"
+            ],
+            [
+                "ESP",
+                "Rafael",
+                "Australian Open",
+                "2003",
+                "22"
+            ],
+            [
+                "GER",
+                "Steffi",
+                "WTA Championships",
+                "1984",
+                "22"
+            ],
+            [
+                "AUS",
+                "Ashleigh Barty",
+                "Australian Open",
+                "2017",
+                "3"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-15-15": {
+        "title": [
+            "School ID",
+            "School Name",
+            "State",
+            "Enrollment Count",
+            "Grade Range",
+            "District"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the top five schools, by descending order, from the highest to the lowest, the most number of Enrollment (Ages 5-17). Please give their NCES school identification number.",
+        "data": [
+            [
+                "460005002101",
+                "Lincoln High Academy",
+                "California",
+                "3450",
+                "K-12",
+                "San Diego Unified"
+            ],
+            [
+                "NCES_ID_10293847",
+                "Jefferson Middle School",
+                "Texas",
+                "4120",
+                "6-8",
+                "Houston Independent"
+            ],
+            [
+                "461009003302",
+                "Roosevelt Elementary",
+                "New York",
+                "5205",
+                "PK-5",
+                "NYC Department"
+            ],
+            [
+                "ID_99887766",
+                "Washington Prep",
+                "Illinois",
+                "890",
+                "N/A",
+                "Chicago Public Schools"
+            ],
+            [
+                "332011045678",
+                "Madison Charter",
+                "Florida",
+                "760",
+                "Pre-K-8",
+                "Miami-Dade County"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-607-607": {
+        "title": [
+            "Dog Name",
+            "Breed",
+            "Arrival Date",
+            "Departure Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the arrival date and the departure date for all the dogs.",
+        "data": [
+            [
+                "Max",
+                "Golden Retriever",
+                "2023-01-15",
+                "2023-01-20"
+            ],
+            [
+                "Bella",
+                "Labrador",
+                "2023-02-01",
+                "2023-02-05"
+            ],
+            [
+                "Charlie",
+                "German Shepherd",
+                "2023-02-10",
+                "2023-02-17"
+            ],
+            [
+                "Lucy",
+                "Poodle",
+                "2023-03-01",
+                "2023-03-03"
+            ],
+            [
+                "Cooper",
+                "Beagle",
+                "2023-03-15",
+                "2023-03-22"
+            ],
+            [
+                "Daisy",
+                "Bulldog",
+                "2023-04-01",
+                "2023-04-08"
+            ],
+            [
+                "Rocky",
+                "Siberian Husky",
+                "2023-04-10",
+                "2023-04-14"
+            ]
+        ]
+    }
+}

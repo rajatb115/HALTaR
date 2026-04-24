@@ -1,0 +1,69 @@
+{
+    "table-129-129": {
+        "title": [
+            "District",
+            "Female Account Holders",
+            "Total Accounts",
+            "Percentage Female",
+            "Region",
+            "Data Source Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the top ten districts, by descending order, from the highest to the lowest, the number of female account holders.",
+        "data": [
+            [
+                "Metro Central",
+                "45230",
+                "78500",
+                "N/A",
+                "North",
+                "01/06/2023"
+            ],
+            [
+                "Riverside County",
+                "38910",
+                "6520",
+                "South",
+                "",
+                ""
+            ],
+            [
+                "Westside Valley",
+                "32450",
+                "58100",
+                "55%",
+                "East",
+                "Q1 2023"
+            ],
+            [
+                "North Hills",
+                "29870",
+                "52400",
+                "57%",
+                "Central",
+                "January 2023"
+            ],
+            [
+                "Harbor Point",
+                "27640",
+                "49300",
+                "56%",
+                "South",
+                "March 2023"
+            ],
+            [
+                "Oakwood Park",
+                "25120",
+                "46800",
+                "54%",
+                "East",
+                "February 2023"
+            ]
+        ]
+    }
+}

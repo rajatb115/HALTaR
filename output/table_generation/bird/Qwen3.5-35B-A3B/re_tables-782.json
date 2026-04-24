@@ -1,0 +1,37 @@
+{
+    "table-782-782": {
+        "title": [
+            "Hero Name",
+            "Eye Color",
+            "Height (cm)",
+            "Affiliation",
+            "Status",
+            "Origin World"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the heights of the heroes whose eye colours are amber.",
+        "data": [
+            [
+                "Thor Odinson",
+                "Amber",
+                "6'7\"",
+                "Avengers",
+                "Active",
+                "Asgard"
+            ],
+            [
+                "Loki Laufeyson",
+                "Amber",
+                "N/A",
+                "None",
+                "Deceased",
+                "Earth-616"
+            ]
+        ]
+    }
+}

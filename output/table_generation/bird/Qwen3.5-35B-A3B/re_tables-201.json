@@ -1,0 +1,53 @@
+{
+    "table-201-201": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Bond Type",
+            "Carcinogen Status",
+            "CAS Number",
+            "Primary Exposure Route"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the triple-bonded molecules which are carcinogenic.",
+        "data": [
+            [
+                "Methyl Isocyanate",
+                "CH\u2083NCO",
+                "Triple Bond",
+                "Confirmed Carcinogen",
+                "624-83-9",
+                "Inhalation"
+            ],
+            [
+                "Cyanogen Chloride",
+                "CNCl",
+                "Triple Bond",
+                "Probable Carcinoma",
+                "506-77-4",
+                "Dermal Contact"
+            ],
+            [
+                "Propargyl Bromide",
+                "(HC\u2261C)CH\u2082Br",
+                "Triple Bond",
+                "Known Mutagen/Cancer Risk",
+                "10696-91-2",
+                "Oral Ingestion"
+            ],
+            [
+                "Diacetylene",
+                "HCC-CCH",
+                "Triple Bond",
+                "Suspected Carcinogenicity",
+                "460-11-1",
+                "Industrial Inhalation"
+            ]
+        ]
+    }
+}

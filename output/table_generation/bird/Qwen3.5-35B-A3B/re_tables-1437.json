@@ -1,0 +1,62 @@
+{
+    "table-1437-1437": {
+        "title": [
+            "Member ID",
+            "Total Paid ($)",
+            "Event Link",
+            "Status",
+            "Date Joined"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide links to events for members who have paid more than 50 dollar.",
+        "data": [
+            [
+                "M1042",
+                "75.50",
+                "https://events.example.com/m1024",
+                "Active",
+                "06/15/2021"
+            ],
+            [
+                "M1089",
+                "120.00",
+                "https://events.eventbrite.com/e/workshop-may",
+                "Active",
+                "03/22/21"
+            ],
+            [
+                "M2103",
+                "55.25",
+                "https://meetup.com/events/community-gatherings",
+                "Pending",
+                "11/05/19"
+            ],
+            [
+                "M3045",
+                "215.00",
+                "http://tickets.local/event-series-x",
+                "Confirmed",
+                "01/10/23"
+            ],
+            [
+                "M4112",
+                "62.75",
+                "https://zoom.us/join/webinar-q3",
+                "Completed",
+                "09/30/18"
+            ],
+            [
+                "M5098",
+                "88.90",
+                "http://eventful.com/local-festival",
+                "Upcoming",
+                "04/12/01"
+            ]
+        ]
+    }
+}

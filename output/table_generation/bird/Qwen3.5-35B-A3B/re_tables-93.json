@@ -1,0 +1,76 @@
+{
+    "table-93-93": {
+        "title": [
+            "District_Name",
+            "Female_Avg_Salary",
+            "Status",
+            "Data_Source",
+            "Verification_Date",
+            "Region_Code",
+            "Record_ID"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the no. of districts that have female average salary is more than 6000 but less than 10000?",
+        "data": [
+            [
+                "Springfield",
+                "7204",
+                "Included",
+                "Census_Bureau_2023",
+                "01/15/20XX",
+                "R-101A",
+                "REC-0091"
+            ],
+            [
+                "Riverside County",
+                "8500",
+                "Included",
+                "LaborStats_Q4",
+                "02/28/2XXX",
+                "R-205B",
+                "REC-0144"
+            ],
+            [
+                "Meadowbrook",
+                "6150",
+                "Included",
+                "LocalSurvey_v2",
+                "03/10/2xxx",
+                "R-south",
+                "REC-A99"
+            ],
+            [
+                "Oakwood Valley",
+                "9800",
+                "Excluded",
+                "StateDB_Main",
+                "04/05/XXXX",
+                "E-Central",
+                "REC-B22"
+            ],
+            [
+                "Hillside Town",
+                "7505",
+                "Included",
+                "Municipal_Report",
+                "05-22-2X-X",
+                "W-North",
+                "REC-D441"
+            ],
+            [
+                "Pinecrest",
+                "6890",
+                "Not Applicable",
+                "PendingAudit",
+                "06-07-2x-x",
+                "S-East",
+                "REC-E"
+            ]
+        ]
+    }
+}

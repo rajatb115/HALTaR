@@ -1,0 +1,52 @@
+{
+    "table-658-658": {
+        "title": [
+            "Display Name",
+            "Website URL",
+            "Bounty Amount",
+            "Vote Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Users with Highest Bounty Amounts by Vote Type",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Under the vote type of 8, provide the display names and websites URLs of the user who got the highest bounty amount.",
+        "data": [
+            [
+                "User A",
+                "example.com/userA",
+                "100",
+                "8"
+            ],
+            [
+                "User B",
+                "example.com/userB",
+                "95",
+                "8"
+            ],
+            [
+                "User C",
+                "example.com/userC",
+                "90",
+                "8"
+            ],
+            [
+                "User D",
+                "example.com/userD",
+                "85",
+                "8"
+            ],
+            [
+                "User E",
+                "example.com/userE",
+                "80",
+                "8"
+            ]
+        ]
+    }
+}

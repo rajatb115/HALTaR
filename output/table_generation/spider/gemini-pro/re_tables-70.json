@@ -1,0 +1,43 @@
+{
+    "table-70-70": {
+        "title": [
+            "Make",
+            "Model",
+            "Acceleration (0-60 mph)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Car Acceleration Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the accelerate of the car make amc hornet sportabout (sw)?",
+        "data": [
+            [
+                "AMC",
+                "Hornet Sportabout (SW)",
+                "~11.5 seconds"
+            ],
+            [
+                "Ford",
+                "Mustang",
+                "~5.5 seconds"
+            ],
+            [
+                "Chevrolet",
+                "Camaro",
+                "~5.4 seconds"
+            ],
+            [
+                "Dodge",
+                "Challenger",
+                "~5.8 seconds"
+            ],
+            [
+                "Toyota",
+                "Supra",
+                "~5.2 seconds"
+            ]
+        ]
+    }
+}

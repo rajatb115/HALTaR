@@ -1,0 +1,77 @@
+{
+    "table-1204-1204": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "WBC Count",
+            "Status",
+            "Date Recorded",
+            "Diagnosis Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients who were female got white blood cells that were below 3.5?",
+        "data": [
+            [
+                "P-1042",
+                "Female",
+                "320",
+                "Low",
+                "06/12/2023",
+                "D72.8"
+            ],
+            [
+                "P-A891",
+                "Female",
+                "290",
+                "Critical",
+                "07/15/2023",
+                "C91.0"
+            ],
+            [
+                "M-B223",
+                "Male",
+                "310",
+                "Low",
+                "08/01/2024",
+                "D72.x"
+            ],
+            [
+                "F-C334",
+                "Female",
+                "340",
+                "Borderline",
+                "09/10/2022",
+                "B20.0"
+            ],
+            [
+                "G-D445",
+                "Female",
+                "410",
+                "Normal",
+                "05/05/2019",
+                "Z00.1"
+            ],
+            [
+                "H-E556",
+                "Male",
+                "280",
+                "Critical",
+                "11/11/2023",
+                "R70.9"
+            ],
+            [
+                "I-F667",
+                "Female",
+                "",
+                "Unknown",
+                "12-01-24",
+                "R71.1"
+            ]
+        ]
+    }
+}

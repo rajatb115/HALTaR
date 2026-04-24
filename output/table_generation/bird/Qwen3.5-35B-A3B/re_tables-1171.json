@@ -1,0 +1,62 @@
+{
+    "table-1171-1171": {
+        "title": [
+            "Patient ID",
+            "Initial Visit Date",
+            "First Exam Date",
+            "Days Delayed",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients hadn't undergone a medical examination until at least a year following their initial hospital visit?",
+        "data": [
+            [
+                "P-1042",
+                "01/15/2021",
+                "6 months later",
+                "N/A",
+                "Within Limit"
+            ],
+            [
+                "P-A77B",
+                "3/22/2021",
+                "4/10/2023",
+                "750 days",
+                "Exceeded One Year"
+            ],
+            [
+                "C-99XZ",
+                "8/05/1922",
+                "None Recorded",
+                "N/D",
+                "No Record Found"
+            ],
+            [
+                "D-44LM",
+                "5/30/1888",
+                "9/12/1789",
+                "~365 days",
+                "Borderline Case"
+            ],
+            [
+                "E-22QW",
+                "1203/04/01",
+                "2456/07/14",
+                ">10 years",
+                "Significant Delay"
+            ],
+            [
+                "F-88RT",
+                "987/11/31",
+                "3210/02/00",
+                "\u00bd century",
+                "Historical Anomaly"
+            ]
+        ]
+    }
+}

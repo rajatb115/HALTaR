@@ -1,0 +1,45 @@
+{
+    "table-1263-1263": {
+        "title": [
+            "Complement 3 Level",
+            "ANA Pattern",
+            "Number of Patients"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "ANA Examination Results by Complement 3 Level",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal level of complement 3 have a P pattern observed in the sheet of ANA examination?",
+        "data": [
+            [
+                "Normal",
+                "P",
+                "75"
+            ],
+            [
+                "High",
+                "P",
+                "23"
+            ],
+            [
+                "Low",
+                "P",
+                "12"
+            ],
+            [
+                "Normal",
+                "Speckled",
+                "62"
+            ],
+            [
+                "Normal",
+                "Homogeneous",
+                "48"
+            ]
+        ]
+    }
+}

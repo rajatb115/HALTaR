@@ -1,0 +1,45 @@
+{
+    "table-948-948": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Birth Year"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "British Racing Driver Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many British drivers were born after 1980?",
+        "data": [
+            [
+                "Jenson Button",
+                "British",
+                "1980"
+            ],
+            [
+                "Lewis Hamilton",
+                "British",
+                "1985"
+            ],
+            [
+                "George Russell",
+                "British",
+                "1998"
+            ],
+            [
+                "Lando Norris",
+                "British",
+                "1999"
+            ],
+            [
+                "Jamie Chadwick",
+                "British",
+                "1998"
+            ]
+        ]
+    }
+}

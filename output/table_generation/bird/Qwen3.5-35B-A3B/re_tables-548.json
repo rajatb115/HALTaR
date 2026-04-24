@@ -1,0 +1,93 @@
+{
+    "table-548-548": {
+        "title": [
+            "Post_ID",
+            "User_Age_Group",
+            "Score",
+            "Status",
+            "Platform",
+            "Category",
+            "Upvotes",
+            "Downvotes"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts owned by an elder user, how many of them have a score of over 19?",
+        "data": [
+            [
+                "P_1042",
+                "Elderly",
+                "45",
+                "Active",
+                "SocialNet",
+                "Politics",
+                "38",
+                "7"
+            ],
+            [
+                "P_Beta",
+                "Senior",
+                "62",
+                "Archived",
+                "ForumX",
+                "Health",
+                "55",
+                "0"
+            ],
+            [
+                "G_9921",
+                "Mature",
+                "8",
+                "Draft",
+                "BlogHub",
+                "Travel",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "M_7732",
+                "Geriatric",
+                "91",
+                "Published",
+                "TalkZone",
+                "Science",
+                "",
+                ""
+            ],
+            [
+                "P_Omega",
+                "Old",
+                "23",
+                "Hidden",
+                "ChatApp",
+                "Art",
+                "N/A",
+                "-1"
+            ],
+            [
+                "Z_5510",
+                "Veteran",
+                "0.19",
+                "Deleted",
+                "NetWorld",
+                "Music",
+                "None",
+                "Zero"
+            ],
+            [
+                "Q_8821",
+                "Silver",
+                "100",
+                "Live",
+                "WebTalk",
+                "Food",
+                "99",
+                "1"
+            ]
+        ]
+    }
+}

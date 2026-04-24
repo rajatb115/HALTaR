@@ -1,0 +1,40 @@
+{
+    "table-88-88": {
+        "title": [
+            "Cylinders",
+            "Acceleration (m/s^2)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Car Acceleration by Number of Cylinders",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum accelerate for different number of cylinders?",
+        "data": [
+            [
+                "4",
+                "3.2"
+            ],
+            [
+                "6",
+                "4.1"
+            ],
+            [
+                "8",
+                "5.5"
+            ],
+            [
+                "10",
+                "6.2"
+            ],
+            [
+                "12",
+                "7.8"
+            ]
+        ]
+    }
+}

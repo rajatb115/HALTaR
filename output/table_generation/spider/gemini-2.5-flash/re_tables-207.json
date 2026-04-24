@@ -1,0 +1,69 @@
+{
+    "table-207-207": {
+        "title": [
+            "Paragraph ID",
+            "Paragraph Text",
+            "Sentiment",
+            "Reviewer Name",
+            "Date Posted"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the paragraph texts for the document with the name 'Customer reviews'?",
+        "data": [
+            [
+                "1",
+                "The product exceeded my expectations, especially the battery life.",
+                "Positive",
+                "Alice M.",
+                "2023-10-26"
+            ],
+            [
+                "2",
+                "I found the user interface a bit clunky and hard to navigate at first.",
+                "Negative",
+                "Bob S.",
+                "2023-10-25"
+            ],
+            [
+                "3",
+                "Shipping was fast, and the packaging was secure. No issues there.",
+                "Neutral",
+                "Carol D.",
+                "2023-10-24"
+            ],
+            [
+                "4",
+                "Customer support was very helpful when I had a question about setup.",
+                "Positive",
+                "David P.",
+                "2023-10-23"
+            ],
+            [
+                "5",
+                "The price point is a bit high for the features offered compared to competitors.",
+                "Negative",
+                "Eve R.",
+                "2023-10-22"
+            ],
+            [
+                "6",
+                "Overall, a solid purchase. I would recommend it to friends and family.",
+                "Positive",
+                "Frank G.",
+                "2023-10-21"
+            ],
+            [
+                "7",
+                "The color options are limited, which was a minor disappointment.",
+                "Negative",
+                "Grace H.",
+                "2023-10-20"
+            ]
+        ]
+    }
+}

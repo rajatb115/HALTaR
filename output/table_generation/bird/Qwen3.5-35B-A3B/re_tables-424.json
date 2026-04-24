@@ -1,0 +1,45 @@
+{
+    "table-424-424": {
+        "title": [
+            "Kingdom_Foil_ID",
+            "Kingdom_Card_ID",
+            "Power_Level",
+            "Rank",
+            "Status",
+            "Last_Updated"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide the ids of top three powerful pairs of Kingdom Foil and Kingdom Cards sorted by Kingdom Foil id in alphabetical order.",
+        "data": [
+            [
+                "KF-0042",
+                "KC-7721",
+                "High",
+                "Top 3",
+                "Active",
+                "06/15/2023"
+            ],
+            [
+                "KF-KING-A",
+                "KC-BLUE-X",
+                "Very_High",
+                "Top 1",
+                "Active_NA",
+                "N/A"
+            ],
+            [
+                "K-F-OIL-Z",
+                "K-CARD-Y",
+                "Ultra_Powerful",
+                "Top 2",
+                "Inactive",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-209-209": {
+        "title": [
+            "Label Type",
+            "Label Name",
+            "Count (H-bonded Atoms)",
+            "Total Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which type of label is the most numerous in atoms with hydrogen?",
+        "data": [
+            [
+                "Atom Type",
+                "Carbon",
+                "1,250,000",
+                "1,500,000"
+            ],
+            [
+                "Atom Type",
+                "Oxygen",
+                "350,000",
+                "600,000"
+            ],
+            [
+                "Atom Type",
+                "Nitrogen",
+                "280,000",
+                "400,000"
+            ],
+            [
+                "Functional Group",
+                "Methyl Group",
+                "800,000",
+                "800,000"
+            ],
+            [
+                "Functional Group",
+                "Hydroxyl Group",
+                "300,000",
+                "300,000"
+            ],
+            [
+                "Functional Group",
+                "Amine Group",
+                "220,000",
+                "220,000"
+            ],
+            [
+                "Atom Type",
+                "Sulfur",
+                "80,000",
+                "120,000"
+            ]
+        ]
+    }
+}

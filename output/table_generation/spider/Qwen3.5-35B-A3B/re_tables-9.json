@@ -1,0 +1,85 @@
+{
+    "table-9-9": {
+        "title": [
+            "Song Title",
+            "Singer Age",
+            "Genre",
+            "Release Date",
+            "Album",
+            "Duration",
+            "Label"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all song names by singers above the average age.",
+        "data": [
+            [
+                "Bohemian Rhapsody",
+                "47",
+                "Rock",
+                "06/20/1975",
+                "A Night at the Opera",
+                "5:55",
+                "EMI"
+            ],
+            [
+                "Hotel California",
+                "39",
+                "Rock/Country",
+                "12/08/1976",
+                "Hotel California",
+                "6:30",
+                "Asylum"
+            ],
+            [
+                "Imagine",
+                "62",
+                "Pop/Rock",
+                "09/09/1971",
+                "Imagine",
+                "7:00",
+                "Apple Records"
+            ],
+            [
+                "Like a Rolling Stone",
+                "81",
+                "Folk-Rock",
+                "July 27, 1965",
+                "Highway 61 Revisited",
+                "6:13",
+                "Columbia"
+            ],
+            [
+                "Smells Like Teen Spirit",
+                "24",
+                "Grunge",
+                "September 10, 1993",
+                "Nevermind",
+                "",
+                ""
+            ],
+            [
+                "Purple Rain",
+                "25",
+                "Funk/R&B",
+                "June 2, 1984",
+                "Purple Rain",
+                "",
+                "Warner Bros."
+            ],
+            [
+                "Billie Jean",
+                "30",
+                "Pop/Funk",
+                "January 2, 1983",
+                "Thriller",
+                "4:54",
+                "Epic"
+            ]
+        ]
+    }
+}

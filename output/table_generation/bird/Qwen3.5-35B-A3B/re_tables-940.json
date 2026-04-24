@@ -1,0 +1,31 @@
+{
+    "table-940-940": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Team",
+            "Car Number",
+            "Grid Position",
+            "Finish Position",
+            "Points Scored"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many drivers from the USA participated in the 2008 Australian Grand Prix?",
+        "data": [
+            [
+                "Scott Speed",
+                "United States",
+                "Toro Rosso",
+                "4",
+                "7th",
+                "DNF",
+                "N/A"
+            ]
+        ]
+    }
+}

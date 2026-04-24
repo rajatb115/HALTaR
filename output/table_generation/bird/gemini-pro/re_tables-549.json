@@ -1,0 +1,45 @@
+{
+    "table-549-549": {
+        "title": [
+            "Post Title",
+            "Owner ID",
+            "Owner Location"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Post Owner Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the location of the owner of the post \"Eliciting priors from experts\"?",
+        "data": [
+            [
+                "Eliciting priors from experts",
+                "123",
+                "New York"
+            ],
+            [
+                "Statistical Rethinking",
+                "456",
+                "Los Angeles"
+            ],
+            [
+                "Causal Inference",
+                "789",
+                "Chicago"
+            ],
+            [
+                "Bayesian Data Analysis",
+                "123",
+                "New York"
+            ],
+            [
+                "Machine Learning Basics",
+                "987",
+                "San Francisco"
+            ]
+        ]
+    }
+}

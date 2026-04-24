@@ -1,0 +1,45 @@
+{
+    "table-2-2": {
+        "title": [
+            "Name",
+            "Country",
+            "Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Singer Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names, countries, and ages for every singer in descending order of age?",
+        "data": [
+            [
+                "John Smith",
+                "USA",
+                "62"
+            ],
+            [
+                "Aisha Khan",
+                "Pakistan",
+                "48"
+            ],
+            [
+                "Kenji Tanaka",
+                "Japan",
+                "39"
+            ],
+            [
+                "Ingrid Svenson",
+                "Sweden",
+                "31"
+            ],
+            [
+                "Omar Hassan",
+                "Egypt",
+                "24"
+            ]
+        ]
+    }
+}

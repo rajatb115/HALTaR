@@ -1,0 +1,39 @@
+{
+    "table-1524-1524": {
+        "title": [
+            "Card Number",
+            "Owner Country"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Card Owner Country Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country was the card owner of No.667467 in?",
+        "data": [
+            [
+                "667467",
+                "United Kingdom"
+            ],
+            [
+                "667468",
+                "Germany"
+            ],
+            [
+                "667469",
+                "France"
+            ],
+            [
+                "667470",
+                "United States"
+            ],
+            [
+                "667471",
+                "Canada"
+            ]
+        ]
+    }
+}

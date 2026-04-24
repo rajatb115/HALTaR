@@ -1,0 +1,58 @@
+{
+    "table-1216-1216": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "TP Value",
+            "Normal TP Range",
+            "Deviation from Normal"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Female Patient Total Protein Deviations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all female patient with total protein (TP) beyond the normal index, what is the deviation of their TP idex from the normal.",
+        "data": [
+            [
+                "1234",
+                "Female",
+                "9.2",
+                "6.0 - 8.0",
+                "1.2 above"
+            ],
+            [
+                "5678",
+                "Female",
+                "8.8",
+                "6.0 - 8.0",
+                "0.8 above"
+            ],
+            [
+                "9101",
+                "Female",
+                "10.1",
+                "6.0 - 8.0",
+                "2.1 above"
+            ],
+            [
+                "1121",
+                "Female",
+                "8.5",
+                "6.0 - 8.0",
+                "0.5 above"
+            ],
+            [
+                "3456",
+                "Female",
+                "9.5",
+                "6.0 - 8.0",
+                "1.5 above"
+            ]
+        ]
+    }
+}

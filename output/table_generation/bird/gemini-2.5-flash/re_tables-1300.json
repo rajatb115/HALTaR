@@ -1,0 +1,69 @@
+{
+    "table-1300-1300": {
+        "title": [
+            "Patient ID",
+            "Triglyceride Level (mg/dL)",
+            "Triglyceride Status",
+            "Other Symptoms Observed",
+            "Symptom Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients with the normal level of triglyceride, how many of them have other symptoms observed?",
+        "data": [
+            [
+                "P001",
+                "110",
+                "Normal",
+                "N/A",
+                "0"
+            ],
+            [
+                "P002",
+                "145",
+                "Normal",
+                "Fatigue",
+                "1"
+            ],
+            [
+                "P003",
+                "190",
+                "Borderline",
+                "Headache, Dizziness",
+                "2"
+            ],
+            [
+                "P004",
+                "220",
+                "High",
+                "Abdominal Pain",
+                "1"
+            ],
+            [
+                "P005",
+                "98",
+                "Normal",
+                "Joint Pain, Swelling",
+                "2"
+            ],
+            [
+                "P006",
+                "130",
+                "Normal",
+                "Nausea",
+                "1"
+            ],
+            [
+                "P007",
+                "160",
+                "Borderline",
+                "N/A",
+                "0"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-19-19": {
+        "title": [
+            "School Name",
+            "District",
+            "Funding Type",
+            "Test Type",
+            "Test Year",
+            "Number of Test Takers"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many schools in Contra Costa (directly funded) have number of test takers not more than 250?",
+        "data": [
+            [
+                "Northwood High School",
+                "San Ramon Valley USD",
+                "Directly Funded",
+                "CAASPP ELA",
+                "2023",
+                "210"
+            ],
+            [
+                "Monte Vista High School",
+                "San Ramon Valley USD",
+                "Directly Funded",
+                "CAASPP Math",
+                "2023",
+                "245"
+            ],
+            [
+                "Acalanes High School",
+                "Acalanes Union HSD",
+                "Directly Funded",
+                "SAT",
+                "2022",
+                "180"
+            ],
+            [
+                "Miramonte High School",
+                "Acalanes Union HSD",
+                "State Funded",
+                "ACT",
+                "2022",
+                "155"
+            ],
+            [
+                "Las Lomas High School",
+                "Acalanes Union HSD",
+                "Directly Funded",
+                "CAASPP ELA",
+                "2023",
+                "230"
+            ],
+            [
+                "Campolindo High School",
+                "Acalanes Union HSD",
+                "Directly Funded",
+                "CAASPP Math",
+                "2023",
+                "205"
+            ],
+            [
+                "Heritage High School",
+                "Liberty Union HSD",
+                "Directly Funded",
+                "SAT",
+                "2023",
+                "220"
+            ]
+        ]
+    }
+}

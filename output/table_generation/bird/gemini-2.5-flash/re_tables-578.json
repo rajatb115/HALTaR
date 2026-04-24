@@ -1,0 +1,69 @@
+{
+    "table-578-578": {
+        "title": [
+            "Comment ID",
+            "Post ID",
+            "Comment Text",
+            "Timestamp",
+            "User"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write all comments made by user 'A Lion.'",
+        "data": [
+            [
+                "C001",
+                "P101",
+                "Great article, very insightful!",
+                "2023-10-26 10:30:00",
+                "A Lion"
+            ],
+            [
+                "C002",
+                "P105",
+                "I disagree with point #3, here's why...",
+                "2023-10-26 11:15:22",
+                "A Lion"
+            ],
+            [
+                "C003",
+                "P101",
+                "Thanks for the clarification in the comments.",
+                "2023-10-26 12:05:10",
+                "A Lion"
+            ],
+            [
+                "C004",
+                "P112",
+                "This is a fantastic resource, bookmarking it.",
+                "2023-10-27 09:00:05",
+                "A Lion"
+            ],
+            [
+                "C005",
+                "P108",
+                "Any thoughts on the alternative approach?",
+                "2023-10-27 14:45:30",
+                "A Lion"
+            ],
+            [
+                "C006",
+                "P105",
+                "My previous comment was based on outdated info.",
+                "2023-10-28 08:20:15",
+                "A Lion"
+            ],
+            [
+                "C007",
+                "P115",
+                "Looking forward to the next part of this series!",
+                "2023-10-28 16:00:00",
+                "A Lion"
+            ]
+        ]
+    }
+}

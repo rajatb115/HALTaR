@@ -1,0 +1,39 @@
+{
+    "table-1119-1119": {
+        "title": [
+            "Player Name",
+            "Age"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "List of Veteran Players",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down the name of players who are 35 years old and above.",
+        "data": [
+            [
+                "John Doe",
+                "36"
+            ],
+            [
+                "Jane Smith",
+                "38"
+            ],
+            [
+                "Peter Jones",
+                "35"
+            ],
+            [
+                "Mary Brown",
+                "40"
+            ],
+            [
+                "David Lee",
+                "37"
+            ]
+        ]
+    }
+}

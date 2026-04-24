@@ -1,0 +1,69 @@
+{
+    "table-299-299": {
+        "title": [
+            "Molecule ID",
+            "Compound Class",
+            "Hydrogen Count",
+            "% Carcinogenic Risk",
+            "Total Molecules in Set",
+            "Calculated Percentage"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of molecules containing carcinogenic compounds that element is hydrogen.",
+        "data": [
+            [
+                "MOL-HYD-004",
+                "Alkane Derivative",
+                "6",
+                "High",
+                "150",
+                "4.0%"
+            ],
+            [
+                "MOL-HYD-012",
+                "Aromatic Hydrocarbon",
+                "8",
+                "Medium",
+                "120",
+                "6.7%"
+            ],
+            [
+                "MOL-X-992",
+                "Halogenated Solvent",
+                "2",
+                "Low",
+                "205",
+                "0.98%"
+            ],
+            [
+                "MOL-CARBON-1",
+                "Polycyclic Aromatics",
+                "10",
+                "Very High",
+                "85",
+                "11.8%"
+            ],
+            [
+                "MOL-SYN-77",
+                "Synthetic Polymer",
+                "14",
+                "Unknown",
+                "300",
+                "N/A"
+            ],
+            [
+                "MOL-HYDROGEN-ALPHA",
+                "Organic Acid Salt",
+                "4",
+                "Moderate",
+                "175",
+                "2.29%"
+            ]
+        ]
+    }
+}

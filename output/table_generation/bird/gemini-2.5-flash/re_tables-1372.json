@@ -1,0 +1,77 @@
+{
+    "table-1372-1372": {
+        "title": [
+            "Event Name",
+            "Event Date",
+            "Location",
+            "Event Type",
+            "Attended Members",
+            "Registered Members"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many members attended the \"Women's Soccer\" event?",
+        "data": [
+            [
+                "Women's Soccer Match",
+                "2023-10-26",
+                "Main Stadium",
+                "Sports",
+                "125",
+                "150"
+            ],
+            [
+                "Annual General Meeting",
+                "2023-11-15",
+                "Conference Hall A",
+                "Meeting",
+                "80",
+                "95"
+            ],
+            [
+                "Youth Basketball Clinic",
+                "2023-09-01",
+                "Community Gym",
+                "Sports",
+                "45",
+                "50"
+            ],
+            [
+                "Women's Soccer Practice",
+                "2023-10-20",
+                "Training Field 2",
+                "Sports",
+                "20",
+                "22"
+            ],
+            [
+                "Data Science Workshop",
+                "2023-12-05",
+                "Online",
+                "Workshop",
+                "60",
+                "70"
+            ],
+            [
+                "Charity Fun Run",
+                "2023-08-12",
+                "City Park",
+                "Sports",
+                "210",
+                "250"
+            ],
+            [
+                "Board Member Dinner",
+                "2023-11-01",
+                "Restaurant X",
+                "Social",
+                "15",
+                "15"
+            ]
+        ]
+    }
+}

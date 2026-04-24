@@ -1,0 +1,39 @@
+{
+    "table-666-666": {
+        "title": [
+            "Month",
+            "Avg. Links Created"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Link Creation Statistics for Posts with Limited Answers (2010)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average monthly number of links created in 2010 for posts that have no more than 2 answers?",
+        "data": [
+            [
+                "January",
+                "3.2"
+            ],
+            [
+                "February",
+                "2.8"
+            ],
+            [
+                "March",
+                "4.1"
+            ],
+            [
+                "April",
+                "3.5"
+            ],
+            [
+                "May",
+                "2.9"
+            ]
+        ]
+    }
+}

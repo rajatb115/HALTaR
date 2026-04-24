@@ -1,0 +1,69 @@
+{
+    "table-946-946": {
+        "title": [
+            "Circuit Name",
+            "Location (City/Region)",
+            "Type",
+            "Length (km)",
+            "Primary Use",
+            "Year Opened"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many circuits are there in Melbourne, Australia?",
+        "data": [
+            [
+                "Albert Park Circuit",
+                "Melbourne",
+                "Street Circuit",
+                "5.303",
+                "Formula 1, V8 Supercars",
+                "1996"
+            ],
+            [
+                "Sandown Raceway",
+                "Springvale (Melbourne Suburb)",
+                "Permanent Race Track",
+                "3.100",
+                "V8 Supercars, Horse Racing",
+                "1962"
+            ],
+            [
+                "Calder Park Raceway",
+                "Keilor North (Melbourne Suburb)",
+                "Permanent Race Track",
+                "2.890",
+                "Drag Racing, Touring Cars",
+                "1961"
+            ],
+            [
+                "Phillip Island Grand Prix Circuit",
+                "Phillip Island (VIC)",
+                "Permanent Race Track",
+                "4.445",
+                "MotoGP, Superbikes",
+                "1956"
+            ],
+            [
+                "Winton Motor Raceway",
+                "Benalla (VIC)",
+                "Permanent Race Track",
+                "3.000",
+                "Club Racing, Supercars",
+                "1961"
+            ],
+            [
+                "Broadford State Motorcycle Complex",
+                "Broadford (VIC)",
+                "Permanent Race Track",
+                "2.100",
+                "Motorcycle Racing",
+                "1975"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-842-842": {
+        "title": [
+            "Superhero_ID",
+            "Weight_lbs",
+            "Race",
+            "Affiliation",
+            "Status",
+            "First_Appearance_Year",
+            "Publisher"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the weight and race of the superhero with superhero ID 40.",
+        "data": [
+            [
+                "40",
+                "6'2\" / 220 lbs",
+                "Human",
+                "Justice League",
+                "Active",
+                "75",
+                "DC Comics"
+            ],
+            [
+                "39",
+                "5'10\" / N/A",
+                "Human-Mutant",
+                "X-Men",
+                "Deceased",
+                "82",
+                "Marvel"
+            ],
+            [
+                "12",
+                "4'11\" / Unknown",
+                "Kryptonian",
+                "Superman Family",
+                "Alive",
+                "38",
+                "DC"
+            ],
+            [
+                "55",
+                "9'0\"",
+                "Alien",
+                "Green Lantern Corps",
+                "Missing",
+                "04",
+                "DC Comic"
+            ],
+            [
+                "22",
+                "N/A / 180 lbs African-American",
+                "Mutant",
+                "Avengers",
+                "Retired",
+                "63",
+                "Marvel"
+            ]
+        ]
+    }
+}

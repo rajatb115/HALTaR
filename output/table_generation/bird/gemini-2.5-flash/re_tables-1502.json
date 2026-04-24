@@ -1,0 +1,69 @@
+{
+    "table-1502-1502": {
+        "title": [
+            "Country",
+            "Gas Station Name",
+            "Transaction Date",
+            "Transaction ID",
+            "Transaction Amount"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the countries of the gas stations with transactions taken place in June, 2013.",
+        "data": [
+            [
+                "United States",
+                "Speedway #123",
+                "2013-06-15",
+                "TXN789012",
+                "45.75"
+            ],
+            [
+                "Canada",
+                "Petro-Canada",
+                "2013-06-03",
+                "TXN789013",
+                "62.10"
+            ],
+            [
+                "Germany",
+                "Aral AG",
+                "2013-06-22",
+                "TXN789014",
+                "78.50"
+            ],
+            [
+                "France",
+                "TotalEnergies",
+                "2013-06-08",
+                "TXN789015",
+                "55.20"
+            ],
+            [
+                "United Kingdom",
+                "BP Connect",
+                "2013-06-19",
+                "TXN789016",
+                "81.30"
+            ],
+            [
+                "Spain",
+                "Repsol",
+                "2013-06-11",
+                "TXN789017",
+                "68.90"
+            ],
+            [
+                "Italy",
+                "Eni Station",
+                "2013-06-28",
+                "TXN789018",
+                "72.40"
+            ]
+        ]
+    }
+}

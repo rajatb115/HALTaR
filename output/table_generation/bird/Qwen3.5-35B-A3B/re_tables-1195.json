@@ -1,0 +1,85 @@
+{
+    "table-1195-1195": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "CRP Level",
+            "Creatinine",
+            "LDH Value",
+            "Sex",
+            "Age Group"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What sex is the patient who in a medical examination was diagnosed with PSS and in a laboratory examination had a blood level of C-reactive protein de 2+, createnine 1 and LDH 123?",
+        "data": [
+            [
+                "P-4021",
+                "Systemic Sclerosis (PSS)",
+                "3+",
+                "0.9 mg/dL",
+                "67 U/L",
+                "Male",
+                "Adult"
+            ],
+            [
+                "P-4105",
+                "Systematic Lupus Erythematosus",
+                "4+",
+                "N/A",
+                "89 U/L",
+                "Female",
+                "Child"
+            ],
+            [
+                "P-A992",
+                "Rheumatoid Arthritis",
+                "5+",
+                "None",
+                "72 U/L",
+                "Male",
+                "Elderly"
+            ],
+            [
+                "P-B331",
+                "Polymyositis",
+                "9+",
+                "High",
+                "N/A",
+                "Female",
+                "Adolescent"
+            ],
+            [
+                "P-C774",
+                "Dermatomyositis",
+                "2+",
+                "Low",
+                "110 U/L",
+                "Male",
+                "Senior"
+            ],
+            [
+                "P-D118",
+                "Mixed Connective Tissue Disease",
+                "+",
+                "Normal",
+                "",
+                "Female",
+                "Infant"
+            ],
+            [
+                "P-E556",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

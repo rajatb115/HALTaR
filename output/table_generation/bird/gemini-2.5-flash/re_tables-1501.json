@@ -1,0 +1,62 @@
+{
+    "table-1501-1501": {
+        "title": [
+            "Product Name",
+            "Product Description",
+            "Consumption Date",
+            "Category",
+            "Quantity Consumed"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the product description of the products consumed in September, 2013.",
+        "data": [
+            [
+                "Organic Whole Milk",
+                "Fresh, pasteurized organic whole milk, 1 gallon.",
+                "2013-09-05",
+                "Dairy",
+                "1 Gallon"
+            ],
+            [
+                "Artisan Sourdough Bread",
+                "Hand-baked sourdough bread, 1.5 lb loaf.",
+                "2013-09-10",
+                "Bakery",
+                "1 Loaf"
+            ],
+            [
+                "Fair Trade Coffee Beans",
+                "Medium roast Arabica coffee beans, 12 oz bag.",
+                "2013-09-15",
+                "Beverages",
+                "1 Bag"
+            ],
+            [
+                "Fresh Atlantic Salmon Fillet",
+                "Wild-caught Atlantic salmon fillet, 1 lb.",
+                "2013-09-20",
+                "Seafood",
+                "1 lb"
+            ],
+            [
+                "Premium Olive Oil",
+                "Extra virgin olive oil, cold-pressed, 750ml bottle.",
+                "2013-09-25",
+                "Pantry",
+                "1 Bottle"
+            ],
+            [
+                "Organic Mixed Greens",
+                "Pre-washed organic mixed salad greens, 5 oz bag.",
+                "2013-09-28",
+                "Produce",
+                "1 Bag"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-383-383": {
+        "title": [
+            "TV Channel Name",
+            "Country",
+            "Cartoon Series Name",
+            "Director"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the series name and country of all TV channels that are playing cartoons directed by Ben Jones and cartoons directed by Michael Chang?",
+        "data": [
+            [
+                "Cartoon Network",
+                "USA",
+                "Ben 10",
+                "Ben Jones"
+            ],
+            [
+                "Cartoon Network",
+                "USA",
+                "Teen Titans Go!",
+                "Michael Chang"
+            ],
+            [
+                "Boomerang",
+                "UK",
+                "Scooby-Doo! Mystery Incorporated",
+                "Ben Jones"
+            ],
+            [
+                "Boomerang",
+                "UK",
+                "The Looney Tunes Show",
+                "Michael Chang"
+            ],
+            [
+                "Teletoon",
+                "Canada",
+                "Total Drama Island",
+                "Ben Jones"
+            ],
+            [
+                "Teletoon",
+                "Canada",
+                "Johnny Test",
+                "Michael Chang"
+            ],
+            [
+                "Disney XD",
+                "Japan",
+                "Big Hero 6: The Series",
+                "Ben Jones"
+            ],
+            [
+                "Disney XD",
+                "Japan",
+                "Phineas and Ferb",
+                "Michael Chang"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-327-327": {
+        "title": [
+            "Transcript ID",
+            "Date Recorded",
+            "Status",
+            "Duration Minutes",
+            "Speaker Count",
+            "Region",
+            "Average Score"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average transcript date?",
+        "data": [
+            [
+                "TRX-1042",
+                "7/15/2023",
+                "Completed",
+                "45",
+                "3",
+                "North America",
+                "88.5"
+            ],
+            [
+                "TRX-2091",
+                "6/22/2023",
+                "Pending",
+                "0",
+                "N/A",
+                "Europe",
+                "N/A"
+            ],
+            [
+                "TYZ-3305",
+                "August 1, 2333",
+                "Archived",
+                "52",
+                "N/A",
+                "Asia Pacific",
+                "91.2"
+            ],
+            [
+                "TXR-4410",
+                "September 10, 111",
+                "In Progress",
+                "",
+                "N/A",
+                "South America",
+                ""
+            ],
+            [
+                "TXX-5521",
+                "October 5, 3322",
+                "Completed",
+                "",
+                "",
+                "Africa",
+                ""
+            ],
+            [
+                "TYZ-6632",
+                "November 12, 4433",
+                "Cancelled",
+                "",
+                "",
+                "Oceania",
+                ""
+            ]
+        ]
+    }
+}

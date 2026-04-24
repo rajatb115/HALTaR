@@ -1,0 +1,69 @@
+{
+    "table-360-360": {
+        "title": [
+            "Series Title",
+            "Episode Title",
+            "Season",
+            "Episode Number",
+            "IMDb Rating"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the Episode of all TV series sorted by rating.",
+        "data": [
+            [
+                "Breaking Bad",
+                "Ozymandias",
+                "5",
+                "14",
+                "10.0"
+            ],
+            [
+                "Game of Thrones",
+                "The Rains of Castamere",
+                "3",
+                "9",
+                "9.9"
+            ],
+            [
+                "The Wire",
+                "Middle Ground",
+                "3",
+                "11",
+                "9.8"
+            ],
+            [
+                "Friends",
+                "The One Where Everybody Finds Out",
+                "5",
+                "14",
+                "9.7"
+            ],
+            [
+                "Chernobyl",
+                "Please Remain Calm",
+                "1",
+                "2",
+                "9.6"
+            ],
+            [
+                "The Office",
+                "Dinner Party",
+                "4",
+                "13",
+                "9.5"
+            ],
+            [
+                "Band of Brothers",
+                "Day of Days",
+                "1",
+                "2",
+                "9.4"
+            ]
+        ]
+    }
+}

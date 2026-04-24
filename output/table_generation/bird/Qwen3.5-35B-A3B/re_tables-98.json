@@ -1,0 +1,61 @@
+{
+    "table-98-98": {
+        "title": [
+            "Client ID",
+            "Company Name",
+            "Transaction Date",
+            "Statement Status",
+            "Issuance Method",
+            "Role Designation"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the clients who choose statement of issuance after transaction are Disponent?",
+        "data": [
+            [
+                "C1042",
+                "Global Trade Corp",
+                "06/15/2023",
+                "Completed",
+                "Electronic",
+                "Disponent"
+            ],
+            [
+                "C1055",
+                "Oceanic Logistics Ltd",
+                "07/22/2023",
+                "Pending",
+                "Paper Copy",
+                "Disident"
+            ],
+            [
+                "C1089",
+                "Apex Shipping Inc",
+                "08/01/2024",
+                "Completed",
+                "Digital Portal",
+                "Dispondent"
+            ],
+            [
+                "D2011",
+                "Meridian Freight Co",
+                "09/10/2021",
+                "Rejected",
+                "Email Attachment",
+                "Disponant"
+            ],
+            [
+                "E3044",
+                "Horizon Vessel Group",
+                "05/30/2019",
+                "Approved",
+                "Secure Link",
+                "Dispontent"
+            ]
+        ]
+    }
+}

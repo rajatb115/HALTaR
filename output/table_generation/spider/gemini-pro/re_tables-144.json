@@ -1,0 +1,51 @@
+{
+    "table-144-144": {
+        "title": [
+            "Employee Name",
+            "Age",
+            "Department",
+            "Job Title"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Employee Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Sort employee names by their age in ascending order.",
+        "data": [
+            [
+                "Alice Smith",
+                "25",
+                "Marketing",
+                "Associate"
+            ],
+            [
+                "Bob Johnson",
+                "30",
+                "Sales",
+                "Manager"
+            ],
+            [
+                "Charlie Brown",
+                "35",
+                "Engineering",
+                "Engineer"
+            ],
+            [
+                "David Lee",
+                "40",
+                "HR",
+                "Director"
+            ],
+            [
+                "Eve Wilson",
+                "45",
+                "Finance",
+                "VP"
+            ]
+        ]
+    }
+}

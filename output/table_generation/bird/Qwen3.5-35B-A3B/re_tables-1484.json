@@ -1,0 +1,69 @@
+{
+    "table-1484-1484": {
+        "title": [
+            "Customer ID",
+            "Month",
+            "Year Category",
+            "Total Consumption Units",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much did customer 6 consume in total between August and November 2013?",
+        "data": [
+            [
+                "6",
+                "August",
+                "Q3 2022",
+                "450 units",
+                "Active",
+                "Peak usage period"
+            ],
+            [
+                "6",
+                "September",
+                "Q4 2021",
+                "380 units",
+                "Active",
+                "Seasonal decline"
+            ],
+            [
+                "7",
+                "October",
+                "Q2 2023",
+                "520 units",
+                "",
+                "High demand spike"
+            ],
+            [
+                "8",
+                "November",
+                "Q1 2024",
+                "610 units",
+                "",
+                "Record monthly volume"
+            ],
+            [
+                "9",
+                "December",
+                "Q0 2025",
+                "N/A",
+                "Pending",
+                "Data processing delay"
+            ],
+            [
+                "10",
+                "January",
+                "Q5 2026",
+                "700 units",
+                "Confirmed",
+                "New year surge"
+            ]
+        ]
+    }
+}

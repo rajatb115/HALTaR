@@ -1,0 +1,37 @@
+{
+    "table-700-700": {
+        "title": [
+            "Username",
+            "Account Creation Date"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "User Account Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When did the user known as 'IrishStat' create his or her account?",
+        "data": [
+            [
+                "IrishStat",
+                "2023-03-15"
+            ],
+            [
+                "DataLover",
+                "2022-11-01"
+            ],
+            [
+                "CodeNinja",
+                "2024-01-20"
+            ],
+            [
+                "QueryMaster",
+                "2023-07-04"
+            ],
+            [
+                "TableKing",
+                "2022-05-10"
+            ]
+        ]
+    }
+}

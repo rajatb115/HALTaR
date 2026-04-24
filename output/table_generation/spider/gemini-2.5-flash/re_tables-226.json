@@ -1,0 +1,69 @@
+{
+    "table-226-226": {
+        "title": [
+            "Teacher Name",
+            "Department",
+            "Assignment Status",
+            "Last Course Taught Term",
+            "Availability (FTE)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of teachers who have not been arranged to teach courses.",
+        "data": [
+            [
+                "Alice Smith",
+                "Mathematics",
+                "Unassigned",
+                "Spring 2024",
+                "1.0"
+            ],
+            [
+                "Bob Johnson",
+                "Physics",
+                "Available",
+                "Fall 2023",
+                "0.8"
+            ],
+            [
+                "Carol White",
+                "English",
+                "Unassigned",
+                "N/A",
+                "1.0"
+            ],
+            [
+                "David Green",
+                "History",
+                "Available",
+                "Spring 2024",
+                "0.5"
+            ],
+            [
+                "Emily Brown",
+                "Chemistry",
+                "Unassigned",
+                "Fall 2023",
+                "1.0"
+            ],
+            [
+                "Frank Black",
+                "Computer Science",
+                "Available",
+                "Spring 2024",
+                "0.7"
+            ],
+            [
+                "Grace Lee",
+                "Biology",
+                "Unassigned",
+                "N/A",
+                "1.0"
+            ]
+        ]
+    }
+}

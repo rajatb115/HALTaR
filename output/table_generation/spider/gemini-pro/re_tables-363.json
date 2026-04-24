@@ -1,0 +1,35 @@
+{
+    "table-363-363": {
+        "title": [
+            "Episode Title",
+            "TV Series",
+            "Rating"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Top Rated Episodes",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are 3 most highly rated episodes in the TV series table and what were those ratings?",
+        "data": [
+            [
+                "Ozymandias",
+                "Breaking Bad",
+                "9.9"
+            ],
+            [
+                "The Winds of Winter",
+                "Game of Thrones",
+                "9.9"
+            ],
+            [
+                "Battle of the Bastards",
+                "Game of Thrones",
+                "9.8"
+            ]
+        ]
+    }
+}

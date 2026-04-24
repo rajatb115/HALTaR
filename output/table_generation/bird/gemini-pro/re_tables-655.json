@@ -1,0 +1,37 @@
+{
+    "table-655-655": {
+        "title": [
+            "Display Name",
+            "Location"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Users and Their Excerpt Post Locations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Mention the display name and location of the user who owned the excerpt post with hypothesis-testing tag.",
+        "data": [
+            [
+                "John Doe",
+                "New York"
+            ],
+            [
+                "Jane Smith",
+                "Los Angeles"
+            ],
+            [
+                "Peter Jones",
+                "Chicago"
+            ],
+            [
+                "Alice Brown",
+                "Houston"
+            ],
+            [
+                "Robert Davis",
+                "Phoenix"
+            ]
+        ]
+    }
+}

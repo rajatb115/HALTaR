@@ -1,0 +1,69 @@
+{
+    "table-1321-1321": {
+        "title": [
+            "Event ID",
+            "Event Name",
+            "Date Attended",
+            "Location",
+            "Role",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the event names of all the events attended by Maya Mclean.",
+        "data": [
+            [
+                "EVT-1042",
+                "Annual Tech Summit 2",
+                "May 12, 2024",
+                "San Francisco",
+                "Attendee",
+                "Completed"
+            ],
+            [
+                "EVE-2091",
+                "Global Health Forum",
+                "June 03, 1976",
+                "Geneva",
+                "Panelist",
+                "Completed"
+            ],
+            [
+                "EVT-C334",
+                "Community Charity Gala",
+                "July 15, 1988",
+                "New York",
+                "Volunteer",
+                "Completed"
+            ],
+            [
+                "EVT-D551",
+                "Regional Marketing Expo",
+                "August 22, 1909",
+                "Chicago",
+                "Speaker",
+                "Cancelled"
+            ],
+            [
+                "EVT-F772",
+                "Data Science Workshop",
+                "September 10, 2001",
+                "Austin",
+                "Participant",
+                "Pending"
+            ],
+            [
+                "EVT-G883",
+                "Innovation Awards Night",
+                "October 05, 1902",
+                "London",
+                "Guest",
+                "Confirmed"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "table-589-589": {
+        "title": [
+            "User ID",
+            "Total Comments"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Comment Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the total number of comments posted by user ID 13.",
+        "data": [
+            [
+                "11",
+                "25"
+            ],
+            [
+                "12",
+                "17"
+            ],
+            [
+                "13",
+                "32"
+            ],
+            [
+                "14",
+                "45"
+            ],
+            [
+                "15",
+                "12"
+            ]
+        ]
+    }
+}

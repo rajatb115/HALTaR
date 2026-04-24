@@ -1,0 +1,67 @@
+{
+    "table-343-343": {
+        "title": [
+            "Title",
+            "ReleaseYear",
+            "Studio",
+            "Genre",
+            "Rating",
+            "Episodes",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the titles of the cartoons sorted alphabetically?",
+        "data": [
+            [
+                "Adventure Time",
+                "2004",
+                "Cartoon Network",
+                "Comedy",
+                "TV-Y7-FV",
+                "300",
+                "Completed"
+            ],
+            [
+                "Avatar: The Last Airbender",
+                "2005",
+                "Nickelodeon",
+                "Action/Adventure",
+                "TV-PG",
+                "61",
+                "Completed"
+            ],
+            [
+                "Ben 10",
+                "2006",
+                "Cartoon Network",
+                "Sci-Fi",
+                "TV-G",
+                "90",
+                "Ongoing"
+            ],
+            [
+                "Dexter's Laboratory",
+                "1996",
+                "Hanna-Barbera",
+                "Science Fiction",
+                "TV-Y7",
+                "0",
+                "Discontinued"
+            ],
+            [
+                "Ed, Edd n Eddy",
+                "1999",
+                "Cartoon Network",
+                "Slapstick",
+                "TV-PG",
+                "190",
+                "Completed"
+            ]
+        ]
+    }
+}

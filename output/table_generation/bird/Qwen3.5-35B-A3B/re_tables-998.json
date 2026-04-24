@@ -1,0 +1,69 @@
+{
+    "table-998-998": {
+        "title": [
+            "Driver ID",
+            "Nationality",
+            "License Region",
+            "Years Active",
+            "Primary Route"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which citizenship do the vast majority of the drivers hold?",
+        "data": [
+            [
+                "D-4012",
+                "United States",
+                "North America",
+                "7",
+                "Interstate Highway System"
+            ],
+            [
+                "D-4105",
+                "Canada",
+                "North America",
+                "4",
+                "Trans-Canada Corridor"
+            ],
+            [
+                "D-4299",
+                "Mexico",
+                "North America",
+                "6",
+                "Pan-American Highway"
+            ],
+            [
+                "D-4311",
+                "United Kingdom",
+                "Europe",
+                "9",
+                "M-Series Network"
+            ],
+            [
+                "D-5002",
+                "Germany",
+                "European Union",
+                "5",
+                "Autobahn Routes"
+            ],
+            [
+                "D-FR01",
+                "France",
+                "European Community",
+                "3",
+                "Autoroute Grid"
+            ],
+            [
+                "D-JP01",
+                "N/A",
+                "Asia-Pacific",
+                "8",
+                "Expressway Network"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1316-1316": {
+        "title": [
+            "Event_Name",
+            "Club_Name",
+            "Attendance_Count",
+            "Date_Held",
+            "Location",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many students of the Student_Club have attended the event \"Women's Soccer\"?",
+        "data": [
+            [
+                "Women's soccer match",
+                "Student_Clubs_Union",
+                "45",
+                "06/15/2023",
+                "Main Gymnasium",
+                "Completed"
+            ],
+            [
+                "Men's basketball game",
+                "Student_Sports_Assoc",
+                "62",
+                "07/02/2023",
+                "Field House",
+                "Completed"
+            ],
+            [
+                "Annual Science Fair",
+                "STEM_Circle",
+                "38",
+                "08/10/2024",
+                "Lecture Hall A",
+                "Upcoming"
+            ],
+            [
+                "Art Exhibition Opening",
+                "Creative_Arts_Group",
+                "55",
+                "09/01/2024",
+                "Gallery Wing B",
+                "Planned"
+            ],
+            [
+                "Debate Championship Finals",
+                "Debate_Team_Officials",
+                "90",
+                "10/12/2025",
+                "Auditorium C",
+                "Scheduled"
+            ],
+            [
+                "Community Service Day",
+                "Volunteer_Network",
+                "",
+                "11/05/2056",
+                "Campus Plaza",
+                "Pending"
+            ],
+            [
+                "Music Festival Concert",
+                "Band_and_Music_Lovers",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

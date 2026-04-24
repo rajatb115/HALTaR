@@ -1,0 +1,46 @@
+{
+    "table-648-648": {
+        "title": [
+            "Singer Name",
+            "Total Song Sales",
+            "Number of Songs"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Singers with High-Selling Songs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show distinct names of singers that have songs with sales more than 300000.",
+        "data": [
+            [
+                "Ariana Grande",
+                "1,200,000",
+                "3"
+            ],
+            [
+                "Beyonc\u00e9",
+                "950,000",
+                "2"
+            ],
+            [
+                "Drake",
+                "800,000",
+                "2"
+            ],
+            [
+                "Rihanna",
+                "750,000",
+                "2"
+            ],
+            [
+                "Taylor Swift",
+                "600,000",
+                "2"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-89-89": {
+        "title": [
+            "School Name",
+            "Total SAT Takers",
+            "SAT Scores >= 1500",
+            "Admin Name",
+            "Admin Email"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the administrator's email address for the school with the highest number of test takers who received SAT scores of at least 1500?Provide the name of the school.",
+        "data": [
+            [
+                "Northwood High School",
+                "550",
+                "120",
+                "Sarah Chen",
+                "schen@northwood.edu"
+            ],
+            [
+                "Riverside Academy",
+                "480",
+                "95",
+                "David Lee",
+                "dlee@riverside.org"
+            ],
+            [
+                "Summit Preparatory",
+                "620",
+                "155",
+                "Maria Garcia",
+                "m.garcia@summitprep.net"
+            ],
+            [
+                "Coastal Bay School",
+                "410",
+                "88",
+                "John Smith",
+                "jsmith@coastalbay.edu"
+            ],
+            [
+                "Green Valley High",
+                "510",
+                "110",
+                "Emily White",
+                "ewhite@greenvalley.org"
+            ],
+            [
+                "Maplewood Collegiate",
+                "590",
+                "130",
+                "Robert Johnson",
+                "rjohnson@maplewood.edu"
+            ]
+        ]
+    }
+}

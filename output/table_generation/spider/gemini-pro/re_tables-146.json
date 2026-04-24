@@ -1,0 +1,52 @@
+{
+    "table-146-146": {
+        "title": [
+            "Manager Name",
+            "District",
+            "Number of Products",
+            "Shop ID"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Shop Information by Product Quantity",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the manager name and district of the shop whose number of products is the largest.",
+        "data": [
+            [
+                "John Smith",
+                "Downtown",
+                "150",
+                "101"
+            ],
+            [
+                "Alice Brown",
+                "Uptown",
+                "120",
+                "102"
+            ],
+            [
+                "David Lee",
+                "Midtown",
+                "180",
+                "103"
+            ],
+            [
+                "Emily Davis",
+                "Downtown",
+                "90",
+                "104"
+            ],
+            [
+                "Michael Wilson",
+                "Uptown",
+                "200",
+                "105"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-129-129": {
+        "title": [
+            "District",
+            "Number of Female Account Holders",
+            "Rank"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Districts Ranked by Female Account Holders",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the top ten districts, by descending order, from the highest to the lowest, the number of female account holders.",
+        "data": [
+            [
+                "District A",
+                "1500",
+                "1"
+            ],
+            [
+                "District B",
+                "1450",
+                "2"
+            ],
+            [
+                "District C",
+                "1400",
+                "3"
+            ],
+            [
+                "District D",
+                "1350",
+                "4"
+            ],
+            [
+                "District E",
+                "1300",
+                "5"
+            ]
+        ]
+    }
+}

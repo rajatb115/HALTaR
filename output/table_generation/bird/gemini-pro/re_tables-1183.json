@@ -1,0 +1,59 @@
+{
+    "table-1183-1183": {
+        "title": [
+            "Patient ID",
+            "Admission Date",
+            "Diagnosis",
+            "Year",
+            "Number of Lab Tests"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            3,
+            4
+        ],
+        "pgTitle": "Laboratory Tests for Patients with SJS",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who first came to the hospital on 1991/6/13 who was diagnosed with SJS, what is the total number of his/her Laboratory tests in 1995?",
+        "data": [
+            [
+                "12345",
+                "1991-06-13",
+                "SJS",
+                "1995",
+                "5"
+            ],
+            [
+                "67890",
+                "1992-03-01",
+                "SJS",
+                "1995",
+                "8"
+            ],
+            [
+                "24680",
+                "1990-11-22",
+                "SJS",
+                "1995",
+                "3"
+            ],
+            [
+                "13579",
+                "1993-07-10",
+                "SJS",
+                "1995",
+                "10"
+            ],
+            [
+                "98765",
+                "1991-06-13",
+                "SJS",
+                "1995",
+                "7"
+            ]
+        ]
+    }
+}

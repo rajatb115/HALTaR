@@ -1,0 +1,83 @@
+{
+    "table-273-273": {
+        "title": [
+            "Ranking Date",
+            "Total Tours",
+            "Active Players",
+            "Completed Events",
+            "Pending Matches",
+            "Average Duration (Hours)",
+            "Region",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the total number of tours for each ranking date.",
+        "data": [
+            [
+                "24/06/2024",
+                "42",
+                "315",
+                "89",
+                "7",
+                "6.5",
+                "North America",
+                "Finalized"
+            ],
+            [
+                "25/07/2024",
+                "38",
+                "290",
+                "82",
+                "5",
+                "7.2",
+                "Europe",
+                "Finalized"
+            ],
+            [
+                "15/10/2023",
+                "55",
+                "410",
+                "102",
+                "12",
+                "6.8",
+                "Asia Pacific",
+                "Archived"
+            ],
+            [
+                "01/01/2024",
+                "",
+                "300",
+                "75",
+                "3",
+                "60",
+                "South America",
+                "Active"
+            ],
+            [
+                "30/09/2022",
+                "48",
+                "360",
+                "",
+                "9",
+                "70",
+                "Africa",
+                "Completed"
+            ],
+            [
+                "20/12/2021",
+                "33",
+                "250",
+                "65",
+                "2",
+                "71",
+                "North America",
+                "Historical"
+            ]
+        ]
+    }
+}

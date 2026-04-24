@@ -1,0 +1,39 @@
+{
+    "table-420-420": {
+        "title": [
+            "Nationality",
+            "Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Nationalities Overview",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many distinct nationalities are there?",
+        "data": [
+            [
+                "American",
+                "100"
+            ],
+            [
+                "Canadian",
+                "50"
+            ],
+            [
+                "British",
+                "40"
+            ],
+            [
+                "German",
+                "30"
+            ],
+            [
+                "Japanese",
+                "20"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-542-542": {
+        "title": [
+            "User Display Name",
+            "User ID",
+            "Post ID",
+            "Post Title",
+            "Post Value (USD)",
+            "Post Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the display name of the user who is the owner of the most valuable post?",
+        "data": [
+            [
+                "Alice Smith",
+                "U001",
+                "P101",
+                "Introduction to Data Science",
+                "1250",
+                "2023-01-15"
+            ],
+            [
+                "Bob Johnson",
+                "U002",
+                "P102",
+                "Advanced Machine Learning Techniques",
+                "3800",
+                "2023-03-22"
+            ],
+            [
+                "Charlie Brown",
+                "U003",
+                "P103",
+                "SQL for Beginners",
+                "750",
+                "2023-02-10"
+            ],
+            [
+                "Diana Prince",
+                "U004",
+                "P104",
+                "Cloud Computing Best Practices",
+                "2100",
+                "2023-04-01"
+            ],
+            [
+                "Eve Adams",
+                "U005",
+                "P105",
+                "Data Visualization with Python",
+                "1500",
+                "2023-05-18"
+            ],
+            [
+                "Frank White",
+                "U006",
+                "P106",
+                "Deep Learning Architectures",
+                "2950",
+                "2023-06-05"
+            ],
+            [
+                "Grace Hopper",
+                "U007",
+                "P107",
+                "Ethical AI Considerations",
+                "1900",
+                "2023-07-11"
+            ]
+        ]
+    }
+}

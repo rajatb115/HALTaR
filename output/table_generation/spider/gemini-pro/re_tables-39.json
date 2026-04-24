@@ -1,0 +1,52 @@
+{
+    "table-39-39": {
+        "title": [
+            "Student ID",
+            "Major",
+            "Age",
+            "Cat Owner"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Student Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What major is every student who does not own a cat as a pet, and also how old are they?",
+        "data": [
+            [
+                "123",
+                "Biology",
+                "20",
+                "No"
+            ],
+            [
+                "456",
+                "Engineering",
+                "22",
+                "No"
+            ],
+            [
+                "789",
+                "History",
+                "19",
+                "No"
+            ],
+            [
+                "101",
+                "Computer Science",
+                "21",
+                "No"
+            ],
+            [
+                "112",
+                "Math",
+                "23",
+                "No"
+            ]
+        ]
+    }
+}

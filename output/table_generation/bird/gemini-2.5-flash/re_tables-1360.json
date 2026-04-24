@@ -1,0 +1,76 @@
+{
+    "table-1360-1360": {
+        "title": [
+            "Meeting Name",
+            "Budget Category",
+            "Month",
+            "Year",
+            "Budget Amount (USD)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many times was the budget in Advertisement for \"Yearly Kickoff\" meeting more than \"October Meeting\"?",
+        "data": [
+            [
+                "Yearly Kickoff",
+                "Advertisement",
+                "January",
+                "2022",
+                "15000"
+            ],
+            [
+                "October Meeting",
+                "Advertisement",
+                "October",
+                "2022",
+                "12000"
+            ],
+            [
+                "Yearly Kickoff",
+                "Advertisement",
+                "January",
+                "2023",
+                "16000"
+            ],
+            [
+                "October Meeting",
+                "Advertisement",
+                "October",
+                "2023",
+                "13000"
+            ],
+            [
+                "Yearly Kickoff",
+                "Advertisement",
+                "January",
+                "2024",
+                "14500"
+            ],
+            [
+                "October Meeting",
+                "Advertisement",
+                "October",
+                "2024",
+                "15500"
+            ],
+            [
+                "Yearly Kickoff",
+                "Venue",
+                "January",
+                "2023",
+                "25000"
+            ],
+            [
+                "October Meeting",
+                "Advertisement",
+                "October",
+                "2021",
+                "11000"
+            ]
+        ]
+    }
+}

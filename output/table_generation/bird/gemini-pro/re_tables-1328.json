@@ -1,0 +1,45 @@
+{
+    "table-1328-1328": {
+        "title": [
+            "Member ID",
+            "Full Name",
+            "Event Attended"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Student Club Members and Event Attendance",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the full name of all the members of the Student_Club who attended the \"Laugh Out Loud\" event.",
+        "data": [
+            [
+                "101",
+                "Alice Smith",
+                "Laugh Out Loud"
+            ],
+            [
+                "102",
+                "Bob Johnson",
+                "Laugh Out Loud"
+            ],
+            [
+                "103",
+                "Charlie Brown",
+                "Laugh Out Loud"
+            ],
+            [
+                "104",
+                "Diana Miller",
+                "Laugh Out Loud"
+            ],
+            [
+                "105",
+                "Eve Williams",
+                "Laugh Out Loud"
+            ]
+        ]
+    }
+}

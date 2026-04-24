@@ -1,0 +1,62 @@
+{
+    "table-616-616": {
+        "title": [
+            "User_ID",
+            "Badge_Type",
+            "Age_Group",
+            "Is_Teenager",
+            "Percentage_Contribution"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the users who obtained the \"Organizer\" badges, calculate the percentage of users who are teenagers.",
+        "data": [
+            [
+                "U_1042",
+                "Organizer",
+                "Teenage",
+                "Yes",
+                "6.7%"
+            ],
+            [
+                "U_A891",
+                "Organizer",
+                "",
+                "No",
+                "N/A"
+            ],
+            [
+                "B_2201",
+                "Organizer",
+                "Adult",
+                "No",
+                "0.0%"
+            ],
+            [
+                "C_5512",
+                "Organizer",
+                "",
+                "Unknown",
+                "N/A"
+            ],
+            [
+                "D_3390",
+                "Organizer",
+                "Teenage",
+                "Yes",
+                "13.3%"
+            ],
+            [
+                "E_7721",
+                "Organizer",
+                "",
+                "No",
+                "0.0%"
+            ]
+        ]
+    }
+}

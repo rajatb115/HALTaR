@@ -1,0 +1,43 @@
+{
+    "table-1001-1001": {
+        "title": [
+            "Race",
+            "Racetrack",
+            "Location"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Recent Race Locations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which racetrack hosted the most recent race? Indicate the full location.",
+        "data": [
+            [
+                "Race 1",
+                "Daytona International Speedway",
+                "Daytona Beach, Florida, USA"
+            ],
+            [
+                "Race 2",
+                "Autodromo Internazionale del Mugello",
+                "Scarperia e San Piero, Italy"
+            ],
+            [
+                "Race 3",
+                "Silverstone Circuit",
+                "Silverstone, England, UK"
+            ],
+            [
+                "Race 4",
+                "Circuit de Barcelona-Catalunya",
+                "Montmel\u00f3, Spain"
+            ],
+            [
+                "Race 5",
+                "Circuit Gilles Villeneuve",
+                "Montreal, Quebec, Canada"
+            ]
+        ]
+    }
+}

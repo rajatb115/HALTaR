@@ -1,0 +1,45 @@
+{
+    "table-1329-1329": {
+        "title": [
+            "Student ID",
+            "Last Name",
+            "Major"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Law and Constitutional Studies Students",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the last name of all the students who majored Law and Constitutional Studies.",
+        "data": [
+            [
+                "12345",
+                "Smith",
+                "Law and Constitutional Studies"
+            ],
+            [
+                "67890",
+                "Jones",
+                "Law and Constitutional Studies"
+            ],
+            [
+                "24680",
+                "Brown",
+                "Law and Constitutional Studies"
+            ],
+            [
+                "13579",
+                "Davis",
+                "Law and Constitutional Studies"
+            ],
+            [
+                "98765",
+                "Wilson",
+                "Law and Constitutional Studies"
+            ]
+        ]
+    }
+}

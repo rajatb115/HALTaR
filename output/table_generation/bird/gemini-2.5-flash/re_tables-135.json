@@ -1,0 +1,55 @@
+{
+    "table-135-135": {
+        "title": [
+            "Branch Name",
+            "Year",
+            "Crimes Committed",
+            "Accounts Opened"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the branch where the largest number of crimes were committed in 1996, how many accounts were opened?",
+        "data": [
+            [
+                "Downtown",
+                "1996",
+                "125",
+                "850"
+            ],
+            [
+                "Northside",
+                "1996",
+                "88",
+                "1120"
+            ],
+            [
+                "West End",
+                "1996",
+                "152",
+                "730"
+            ],
+            [
+                "Eastside",
+                "1996",
+                "95",
+                "980"
+            ],
+            [
+                "Central",
+                "1996",
+                "130",
+                "890"
+            ],
+            [
+                "Southgate",
+                "1996",
+                "72",
+                "1050"
+            ]
+        ]
+    }
+}

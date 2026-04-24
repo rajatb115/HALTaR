@@ -1,0 +1,45 @@
+{
+    "table-23-23": {
+        "title": [
+            "School Name",
+            "County",
+            "Number of Test Takers"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Schools in Contra Costa by Number of Test Takers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which school in Contra Costa has the highest number of test takers?",
+        "data": [
+            [
+                "Acalanes High School",
+                "Contra Costa",
+                "450"
+            ],
+            [
+                "Miramonte High School",
+                "Contra Costa",
+                "420"
+            ],
+            [
+                "Campolindo High School",
+                "Contra Costa",
+                "400"
+            ],
+            [
+                "Dougherty Valley High School",
+                "Contra Costa",
+                "380"
+            ],
+            [
+                "Monte Vista High School",
+                "Contra Costa",
+                "350"
+            ]
+        ]
+    }
+}

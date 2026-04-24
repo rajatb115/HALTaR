@@ -1,0 +1,69 @@
+{
+    "table-1261-1261": {
+        "title": [
+            "Patient_ID",
+            "Age",
+            "RF_Status",
+            "Diagnosis",
+            "Last_Visit_Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the ID of the patient whose RF is normal and who is older than 60.",
+        "data": [
+            [
+                "P_4021",
+                "72",
+                "Normal",
+                "Hypertension",
+                "03/15/2023"
+            ],
+            [
+                "P_A892",
+                "65",
+                "Normal",
+                "Arthritis",
+                "04/10/2023"
+            ],
+            [
+                "B_1102",
+                "61",
+                "Normal",
+                "Osteoporosis",
+                "01/22/2024"
+            ],
+            [
+                "C_5543",
+                "68",
+                "Normal",
+                "Rheumatoid Arth.",
+                "02/05/2019"
+            ],
+            [
+                "D_9921",
+                "75",
+                "Normal",
+                "Migraine",
+                "06/30/2018"
+            ],
+            [
+                "E_3312",
+                "63",
+                "Normal",
+                "Fibromyalgia",
+                "09/12/2017"
+            ],
+            [
+                "G_7741",
+                "66",
+                "Normal",
+                "Chronic Fatigue",
+                "11/01/2022"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-50-50": {
+        "title": [
+            "Pet Type",
+            "Average Weight (lbs)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Average Pet Weights by Type",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average weight for each pet type.",
+        "data": [
+            [
+                "Dog",
+                "45"
+            ],
+            [
+                "Cat",
+                "10"
+            ],
+            [
+                "Bird",
+                "0.5"
+            ],
+            [
+                "Rabbit",
+                "6"
+            ],
+            [
+                "Hamster",
+                "0.2"
+            ]
+        ]
+    }
+}

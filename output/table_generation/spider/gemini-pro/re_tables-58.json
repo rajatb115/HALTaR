@@ -1,0 +1,46 @@
+{
+    "table-58-58": {
+        "title": [
+            "Pet Ownership",
+            "Average Age",
+            "Number of Students"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Student Demographics by Pet Ownership",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average age of students who do not have any pet .",
+        "data": [
+            [
+                "No Pets",
+                "22",
+                "50"
+            ],
+            [
+                "Dog",
+                "23",
+                "30"
+            ],
+            [
+                "Cat",
+                "21",
+                "25"
+            ],
+            [
+                "Other",
+                "24",
+                "15"
+            ],
+            [
+                "Multiple Pets",
+                "22",
+                "10"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1193-1193": {
+        "title": [
+            "Patient ID",
+            "Follow-up Date",
+            "Test Month",
+            "Total Bilirubin (mg/dL)",
+            "Normal Range Status",
+            "Clinic Location"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all patients who were followed up at the outpatient clinic who underwent a laboratory test in October 1991 and had a total blood bilirubin level within the normal range.",
+        "data": [
+            [
+                "P-4021",
+                "Oct 12, 1991",
+                "October 1991",
+                "0.6",
+                "Within Normal Limits",
+                "Downtown Outpatient"
+            ],
+            [
+                "P-4055",
+                "Oct 15, 1990",
+                "October 1990",
+                "7.1",
+                "Within Normal Limits",
+                "Westside Clinic"
+            ],
+            [
+                "P-4089",
+                "Oct 22, 1901",
+                "October 1991",
+                "0.8",
+                "Within Normal Limits",
+                "North Gate Outpatient"
+            ],
+            [
+                "P-4102",
+                "Oct 05, 1091",
+                "October 1990",
+                "0.5",
+                "Within Normal Limits",
+                "Central Health Center"
+            ],
+            [
+                "P-4133",
+                "Oct 28, 1090",
+                "October 1901",
+                "0.9",
+                "Within Normal Limits",
+                "East End Clinic"
+            ],
+            [
+                "P-4167",
+                "Oct 09, 1191",
+                "October 1992",
+                "0.",
+                "Within Normal Limits",
+                "South Side Outpatient"
+            ]
+        ]
+    }
+}

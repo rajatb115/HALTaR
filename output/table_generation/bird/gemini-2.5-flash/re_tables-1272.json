@@ -1,0 +1,69 @@
+{
+    "table-1272-1272": {
+        "title": [
+            "Patient ID",
+            "Anti-SSA Result",
+            "Visit Date",
+            "Department",
+            "Patient Age"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal anti-SSA came to the hospital before 1990?",
+        "data": [
+            [
+                "P001",
+                "Normal",
+                "1988-03-15",
+                "Rheumatology",
+                "45"
+            ],
+            [
+                "P002",
+                "Positive",
+                "1992-11-20",
+                "General Medicine",
+                "62"
+            ],
+            [
+                "P003",
+                "Normal",
+                "1985-07-01",
+                "Cardiology",
+                "38"
+            ],
+            [
+                "P004",
+                "Normal",
+                "1991-01-10",
+                "Neurology",
+                "55"
+            ],
+            [
+                "P005",
+                "Positive",
+                "1989-05-22",
+                "Rheumatology",
+                "70"
+            ],
+            [
+                "P006",
+                "Normal",
+                "1987-09-03",
+                "General Medicine",
+                "29"
+            ],
+            [
+                "P007",
+                "Normal",
+                "1990-02-18",
+                "Cardiology",
+                "50"
+            ]
+        ]
+    }
+}

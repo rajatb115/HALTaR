@@ -1,0 +1,77 @@
+{
+    "table-288-288": {
+        "title": [
+            "Molecule ID",
+            "Compound Class",
+            "Double Bond Count",
+            "Total Bonds",
+            "% Double-Bonded",
+            "Analysis Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all chemical compounds that contain molecule TR047, identify the percent that form a double-bond.",
+        "data": [
+            [
+                "TR046-A",
+                "Alkene Derivative",
+                "2",
+                "12",
+                "25%",
+                "Verified"
+            ],
+            [
+                "tr048-X",
+                "Aromatic System",
+                "3",
+                "15",
+                "20%",
+                "Pending Review"
+            ],
+            [
+                "Tr_049_Z",
+                "Conjugated Chain",
+                "4",
+                "18",
+                "22.2%",
+                "Confirmed"
+            ],
+            [
+                "T-R-050-OH",
+                "Cyclic Ether",
+                "1",
+                "10",
+                "11.1%",
+                "Flagged for Recheck"
+            ],
+            [
+                "Mol_TR04B",
+                "Unsaturated Ketone",
+                "2",
+                "",
+                "",
+                "Data Incomplete"
+            ],
+            [
+                "Chem_TR05C",
+                "Saturated Hydrocarbon",
+                "0",
+                "8",
+                "0%",
+                "Standard Control"
+            ],
+            [
+                "Iso_TR07D",
+                "Polyene Structure",
+                "5",
+                "14",
+                "35.7%",
+                "High Priority"
+            ]
+        ]
+    }
+}

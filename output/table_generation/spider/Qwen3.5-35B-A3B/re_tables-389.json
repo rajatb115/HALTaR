@@ -1,0 +1,77 @@
+{
+    "table-389-389": {
+        "title": [
+            "Channel_Name",
+            "Genre_Category",
+            "Cartoon_Director_Status",
+            "Package_Option_Standard",
+            "Package_Premium",
+            "Price_Monthly_USD"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the package options of all tv channels that are not playing any cartoons directed by Ben Jones?",
+        "data": [
+            [
+                "Sky News HD",
+                "News",
+                "No Cartoons",
+                "Basic",
+                "N/A",
+                "$14.99"
+            ],
+            [
+                "BBC One",
+                "General Entertainment",
+                "No Directing Credits",
+                "Standard",
+                "Premium Plus",
+                "$22.50"
+            ],
+            [
+                "ITV Play",
+                "Drama Series",
+                "Not Directed by Ben",
+                "Essential",
+                "Deluxe",
+                "$9.95"
+            ],
+            [
+                "Channel 4 Extra",
+                "Classic TV",
+                "No Animation Content",
+                "Base",
+                "Full Access",
+                "$7.49"
+            ],
+            [
+                "# E! Entertainment",
+                "Reality Shows",
+                "Irrelevant Director Status",
+                "Lite",
+                "Complete",
+                "$6.25"
+            ],
+            [
+                "# Discovery Science",
+                "Documentary",
+                "Non-Fiction Focus",
+                "Core",
+                "Ultimate",
+                "$31.00"
+            ],
+            [
+                "# HGTV Home",
+                "Lifestyle",
+                "No Animated Segments",
+                "Starter",
+                "All-Inclusive",
+                "$4.55"
+            ]
+        ]
+    }
+}

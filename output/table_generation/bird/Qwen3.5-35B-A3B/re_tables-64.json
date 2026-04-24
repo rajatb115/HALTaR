@@ -1,0 +1,73 @@
+{
+    "table-64-64": {
+        "title": [
+            "School_Name",
+            "Charter_Number",
+            "City_State",
+            "Administrator_Name",
+            "Role",
+            "Status",
+            "Hire_Date",
+            "Contact_Email"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In chartered schools with charter number 00D2, what are the names of all the administrators? Include the name of the school and the city to which it belongs",
+        "data": [
+            [
+                "Charter Academy North",
+                "0D02",
+                "Austin_TX",
+                "Sarah Jenkins",
+                "Principal",
+                "Active",
+                "4/12/2018",
+                "s.jenkins@charternorth.edu"
+            ],
+            [
+                "Chartering High West",
+                "7F02A",
+                "Dallas_TX",
+                "Michael Ross",
+                "Superintendent",
+                "N/A",
+                "6/15/2109",
+                "mross@charterschool.org"
+            ],
+            [
+                "Eastside Learning Center",
+                "9B02C",
+                "Houston_TX",
+                "Elena Rodriguez",
+                "Dean of Students",
+                "On Leave",
+                "3/22/1977",
+                "erodriguez@eastside.net"
+            ],
+            [
+                "North Star Institute",
+                "5K02X",
+                "San Antonio_TX",
+                "David Chen",
+                "Vice Principal",
+                "Inactive",
+                "8/30/2300",
+                "d.chen@northstar.k12.tx.us"
+            ],
+            [
+                "Valley View Prep",
+                "0M02Z",
+                "El Paso TX",
+                "Amanda Foster",
+                "Academic Director",
+                "Active",
+                "1/10/1899",
+                "afoster@valleyview.com"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-1470-1470": {
+        "title": [
+            "Full Name",
+            "Hometown",
+            "Zip Code",
+            "Position",
+            "Enrollment Status",
+            "Major",
+            "GPA"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which student has the hometown of Lincolnton, North Carolina with the zip code of 28092? List their full name and position.",
+        "data": [
+            [
+                "John Smith",
+                "Lincolenton, NC",
+                "47601-2892",
+                "Student Council President",
+                "Active",
+                "Business Admin",
+                "3.85"
+            ],
+            [
+                "Sarah Johnson",
+                "Lincolnton, NC",
+                "29093",
+                "Class Representative",
+                "Inactive",
+                "Education",
+                "0.00"
+            ],
+            [
+                "Michael Davis",
+                "Lincoln Town, NC",
+                "27091",
+                "Club Treasurer",
+                "Probationary",
+                "History",
+                "5.0"
+            ],
+            [
+                "Emily White",
+                "Lincoltown, NC",
+                "88800-1234",
+                "Lab Assistant",
+                "Suspended",
+                "Chemistry",
+                "6.01"
+            ],
+            [
+                "Robert Brown",
+                "Linclon, NC",
+                "22292",
+                "Research Fellow",
+                "Graduated",
+                "Physics",
+                "0.00"
+            ]
+        ]
+    }
+}

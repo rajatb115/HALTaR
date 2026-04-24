@@ -1,0 +1,69 @@
+{
+    "table-1176-1176": {
+        "title": [
+            "Patient ID",
+            "Age (Years)",
+            "Hemoglobin (g/dL)",
+            "Examination Date",
+            "Diagnosis"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How old was the patient who had the highest hemoglobin count at the time of the examination, and what is the doctor's diagnosis?",
+        "data": [
+            [
+                "P001",
+                "45",
+                "14.2",
+                "2023-01-15",
+                "Mild Anemia"
+            ],
+            [
+                "P002",
+                "62",
+                "16.8",
+                "2023-02-20",
+                "Polycythemia Vera"
+            ],
+            [
+                "P003",
+                "30",
+                "13.5",
+                "2023-03-10",
+                "Healthy Check-up"
+            ],
+            [
+                "P004",
+                "78",
+                "11.9",
+                "2023-04-05",
+                "Chronic Kidney Disease"
+            ],
+            [
+                "P005",
+                "55",
+                "15.1",
+                "2023-05-12",
+                "Dehydration"
+            ],
+            [
+                "P006",
+                "22",
+                "14.0",
+                "2023-06-01",
+                "Iron Deficiency (resolved)"
+            ],
+            [
+                "P007",
+                "68",
+                "17.5",
+                "2023-07-18",
+                "COPD Exacerbation"
+            ]
+        ]
+    }
+}

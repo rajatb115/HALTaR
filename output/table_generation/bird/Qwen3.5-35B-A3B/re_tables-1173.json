@@ -1,0 +1,37 @@
+{
+    "table-1173-1173": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Total Bilirubin Level (mg/dL)",
+            "Status",
+            "Lab Date",
+            "Reference Range Upper Limit"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male patients have elevated total bilirubin count?",
+        "data": [
+            [
+                "P-4021",
+                "Male",
+                "3.2",
+                "Elevated",
+                "06/12/2023",
+                "7.0"
+            ],
+            [
+                "P-4105",
+                "Male",
+                "2.8",
+                "Normal",
+                "06/22/2006",
+                "8.0"
+            ]
+        ]
+    }
+}

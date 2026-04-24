@@ -1,0 +1,43 @@
+{
+    "table-324-324": {
+        "title": [
+            "First Name",
+            "Permanent Address",
+            "Current Address"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "People with Different Permanent and Current Addresses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Whose permanent address is different from his or her current address? List his or her first name.",
+        "data": [
+            [
+                "John",
+                "123 Main St",
+                "456 Oak Ave"
+            ],
+            [
+                "Alice",
+                "789 Pine Ln",
+                "101 Elm St"
+            ],
+            [
+                "Bob",
+                "111 Cherry Rd",
+                "222 Maple Ave"
+            ],
+            [
+                "Emily",
+                "333 Willow Way",
+                "444 Birch Ct"
+            ],
+            [
+                "David",
+                "555 Cedar Blvd",
+                "666 Spruce St"
+            ]
+        ]
+    }
+}

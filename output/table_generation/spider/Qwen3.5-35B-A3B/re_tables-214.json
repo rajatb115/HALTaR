@@ -1,0 +1,83 @@
+{
+    "table-214-214": {
+        "title": [
+            "Teacher_Name",
+            "Hometown",
+            "Subject",
+            "Years_Experience",
+            "School_ID",
+            "Status",
+            "Hire_Date",
+            "Salary_Range"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of teachers whose hometown is not `` Little Lever Urban District '' .",
+        "data": [
+            [
+                "Sarah Jenkins",
+                "Bolton",
+                "Mathematics",
+                "8",
+                "SCH004",
+                "Active",
+                "01/15/2016",
+                "$75k-$80k"
+            ],
+            [
+                "Michael Ross",
+                "Salford",
+                "History",
+                "5",
+                "SCH102",
+                "Active",
+                "03/22/2021",
+                "$65k-$70k"
+            ],
+            [
+                "Emily Chen",
+                "Manchester",
+                "Science",
+                "3",
+                "SCH205",
+                "Probationary",
+                "06/10/2023",
+                "$55k - $60k"
+            ],
+            [
+                "David O'Neil",
+                "Wigan",
+                "English Literature",
+                "4",
+                "SCH301",
+                "Active",
+                "09/01/2020",
+                "$60K-$65K"
+            ],
+            [
+                "Lisa Park",
+                "Preston",
+                "Art & Design",
+                "2",
+                "SCH404",
+                "Active",
+                "",
+                "$50K-$55K"
+            ],
+            [
+                "Raj Patel",
+                "Blackburn",
+                "Physical Education",
+                "6",
+                "SCH502",
+                "Inactive",
+                "05/30/",
+                ""
+            ]
+        ]
+    }
+}

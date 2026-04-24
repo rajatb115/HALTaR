@@ -1,0 +1,53 @@
+{
+    "table-229-229": {
+        "title": [
+            "Molecule",
+            "Total Hydrogen Atoms",
+            "Accounted Hydrogen Atoms",
+            "Percentage Accounted (%)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Hydrogen Composition in Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much of the hydrogen in molecule TR206 is accounted for? Please provide your answer in percentage.",
+        "data": [
+            [
+                "TR206",
+                "6",
+                "6",
+                "100"
+            ],
+            [
+                "TR205",
+                "8",
+                "8",
+                "100"
+            ],
+            [
+                "TR204",
+                "10",
+                "10",
+                "100"
+            ],
+            [
+                "TR203",
+                "12",
+                "12",
+                "100"
+            ],
+            [
+                "TR202",
+                "14",
+                "14",
+                "100"
+            ]
+        ]
+    }
+}

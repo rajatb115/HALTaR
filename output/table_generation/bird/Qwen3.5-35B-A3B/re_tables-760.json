@@ -1,0 +1,58 @@
+{
+    "table-760-760": {
+        "title": [
+            "Superhero",
+            "Weight_kg",
+            "Eye_Color",
+            "Affiliation",
+            "Origin_Planet",
+            "Power_Level",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the eye clolour of the heaviest superhero?",
+        "data": [
+            [
+                "Superman",
+                "476",
+                "Blue",
+                "Justice League",
+                "Krypton",
+                "Infinite",
+                "Active"
+            ],
+            [
+                "Wonder Woman",
+                "300",
+                "Brown",
+                "Justice League",
+                "Themyscira",
+                "High",
+                "Active"
+            ],
+            [
+                "Thor",
+                "500+",
+                "Grey/Blue",
+                "Asgardian",
+                "Asgard",
+                "Cosmic",
+                "Active"
+            ],
+            [
+                "Hulk",
+                "635",
+                "Green",
+                "Avengers",
+                "Earth",
+                "Gamma",
+                "Active"
+            ]
+        ]
+    }
+}

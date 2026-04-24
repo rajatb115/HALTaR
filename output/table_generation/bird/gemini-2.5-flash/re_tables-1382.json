@@ -1,0 +1,69 @@
+{
+    "table-1382-1382": {
+        "title": [
+            "Student Name",
+            "Student ID",
+            "Major",
+            "Events Attended",
+            "GPA"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of students that have attended more than 7 events.",
+        "data": [
+            [
+                "Alice Smith",
+                "1001",
+                "Computer Science",
+                "9",
+                "3.8"
+            ],
+            [
+                "Bob Johnson",
+                "1002",
+                "Business",
+                "6",
+                "3.2"
+            ],
+            [
+                "Carol White",
+                "1003",
+                "Engineering",
+                "12",
+                "3.9"
+            ],
+            [
+                "David Green",
+                "1004",
+                "Arts",
+                "5",
+                "3.5"
+            ],
+            [
+                "Emily Brown",
+                "1005",
+                "Science",
+                "8",
+                "3.7"
+            ],
+            [
+                "Frank Black",
+                "1006",
+                "History",
+                "7",
+                "3.1"
+            ],
+            [
+                "Grace Lee",
+                "1007",
+                "Medicine",
+                "10",
+                "4.0"
+            ]
+        ]
+    }
+}

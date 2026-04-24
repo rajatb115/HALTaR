@@ -1,0 +1,77 @@
+{
+    "table-1-1": {
+        "title": [
+            "School District",
+            "Student Grade Level",
+            "Free Rate Eligibility Threshold (%)",
+            "Highest Eligible Rate (%)",
+            "Data Source Year",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the highest eligible free rate for K-12 students in the schools in Alameda County?",
+        "data": [
+            [
+                "Alameda Unified School District",
+                "K-11",
+                "Free Lunch Program",
+                "64.2%",
+                "2023",
+                "Active"
+            ],
+            [
+                "Castro Valley Unified School District",
+                "K\u201312",
+                "National School Lunch Act",
+                "71.5%",
+                "2023",
+                "Active"
+            ],
+            [
+                "Dublin Unified School District",
+                "K-12",
+                "Federal Poverty Guidelines",
+                "48.9%",
+                "2023",
+                "Active"
+            ],
+            [
+                "Fremont Unified School District",
+                "Pre-K\u201312",
+                "Mandated State Standards",
+                "55.3%",
+                "2023",
+                "Active"
+            ],
+            [
+                "Hayward Unified School District",
+                "Kindergarten to Grade 12",
+                "",
+                "62.1%",
+                "2022",
+                "Active"
+            ],
+            [
+                "Livermore Valley Joint Union High School",
+                "9th\u20131st Year",
+                "Direct Certification",
+                "39.8%",
+                "2021",
+                "Active"
+            ],
+            [
+                "Newark Unified School District",
+                "Grades K-8",
+                "USDA Income Limits",
+                "58.7%",
+                "2022",
+                "Active"
+            ]
+        ]
+    }
+}

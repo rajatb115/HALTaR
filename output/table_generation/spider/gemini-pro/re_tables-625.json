@@ -1,0 +1,37 @@
+{
+    "table-625-625": {
+        "title": [
+            "Charge Type",
+            "Amount"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Charge Types and Amounts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List each charge type and its amount.",
+        "data": [
+            [
+                "Electricity",
+                "$150"
+            ],
+            [
+                "Water",
+                "$50"
+            ],
+            [
+                "Gas",
+                "$75"
+            ],
+            [
+                "Internet",
+                "$60"
+            ],
+            [
+                "Rent",
+                "$1200"
+            ]
+        ]
+    }
+}

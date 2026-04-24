@@ -1,0 +1,67 @@
+{
+    "table-133-133": {
+        "title": [
+            "Flight Number",
+            "Airline",
+            "Origin City",
+            "Destination City",
+            "Status",
+            "Departure Time",
+            "Aircraft Model"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which flight numbers correspond to United Airlines flights?",
+        "data": [
+            [
+                "UA124",
+                "United Airlines",
+                "Chicago O'Hare",
+                "Los Angeles International",
+                "On Time",
+                "08:15 AM",
+                "Boeing 737-800"
+            ],
+            [
+                "UA456",
+                "United Express",
+                "Newark Liberty",
+                "Washington Dulles",
+                "Delayed",
+                "9:30 AM",
+                "Embraer E175"
+            ],
+            [
+                "US789",
+                "US Airways",
+                "Philadelphia",
+                "Charlotte Douglas",
+                "Cancelled",
+                "N/A",
+                "Airbus A319"
+            ],
+            [
+                "UAL99",
+                "United Cargo",
+                "Anchorage",
+                "Tokyo Narita",
+                "In Transit",
+                "6:45 PM",
+                "Boeing MD-11F"
+            ],
+            [
+                "NK1011",
+                "Spirit Airlines",
+                "Fort Lauderdale",
+                "Las Vegas",
+                "Boarding",
+                "4:20 PM",
+                "Airbus V2500-A5"
+            ]
+        ]
+    }
+}

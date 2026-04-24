@@ -1,0 +1,77 @@
+{
+    "table-216-216": {
+        "title": [
+            "Teacher_Name",
+            "Age",
+            "Subject",
+            "School_District",
+            "Hire_Year",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the name of teachers aged either 32 or 33?",
+        "data": [
+            [
+                "John Smith",
+                "31",
+                "Mathematics",
+                "North High",
+                "4762",
+                "Active"
+            ],
+            [
+                "Sarah Johnson",
+                "52",
+                "English Literature",
+                "Central Academy",
+                "9876",
+                "Retired"
+            ],
+            [
+                "Michael Brown",
+                "63",
+                "Physics",
+                "Westside Prep",
+                "7654",
+                "On Leave"
+            ],
+            [
+                "Emily Davis",
+                "84",
+                "Chemistry",
+                "East Valley HS",
+                "0002",
+                "N/A"
+            ],
+            [
+                "David Wilson",
+                "",
+                "Biology",
+                "South District",
+                "",
+                ""
+            ],
+            [
+                "Lisa Anderson",
+                "/",
+                "History",
+                "North Hills",
+                "-",
+                "Inactive"
+            ],
+            [
+                "Robert Taylor",
+                "--",
+                "Art",
+                "City Center",
+                ".",
+                "Pending"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-869-869": {
+        "title": [
+            "Grand Prix",
+            "Location",
+            "Latitude",
+            "Longitude"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Malaysian Grand Prix Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Where is Malaysian Grand Prix held? Give the location coordinates.",
+        "data": [
+            [
+                "Malaysian Grand Prix",
+                "Sepang International Circuit",
+                "2.7608",
+                "101.7383"
+            ],
+            [
+                "Australian Grand Prix",
+                "Albert Park Circuit",
+                "-37.8497",
+                "144.968"
+            ],
+            [
+                "Singapore Grand Prix",
+                "Marina Bay Street Circuit",
+                "1.2914",
+                "103.864"
+            ],
+            [
+                "Japanese Grand Prix",
+                "Suzuka International Racing Course",
+                "34.8431",
+                "136.541"
+            ],
+            [
+                "Monaco Grand Prix",
+                "Circuit de Monaco",
+                "43.7347",
+                "7.4205"
+            ]
+        ]
+    }
+}

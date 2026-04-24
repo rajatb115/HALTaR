@@ -1,0 +1,61 @@
+{
+    "table-47-47": {
+        "title": [
+            "Pet ID",
+            "Weight (kg)",
+            "Age (years)",
+            "Pet Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the id and weight of every pet who is older than 1?",
+        "data": [
+            [
+                "P001",
+                "5.2",
+                "3",
+                "Dog"
+            ],
+            [
+                "P002",
+                "12.5",
+                "5",
+                "Cat"
+            ],
+            [
+                "P003",
+                "0.8",
+                "0.5",
+                "Hamster"
+            ],
+            [
+                "P004",
+                "30.0",
+                "8",
+                "Dog"
+            ],
+            [
+                "P005",
+                "7.1",
+                "2",
+                "Rabbit"
+            ],
+            [
+                "P006",
+                "1.5",
+                "1",
+                "Bird"
+            ],
+            [
+                "P007",
+                "22.3",
+                "6",
+                "Dog"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-805-805": {
+        "title": [
+            "Superhero ID",
+            "Superhero Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Superhero Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the name of superhero with superhero ID 294.",
+        "data": [
+            [
+                "101",
+                "Captain Valor"
+            ],
+            [
+                "294",
+                "Night Watch"
+            ],
+            [
+                "312",
+                "Solar Flare"
+            ],
+            [
+                "488",
+                "Crimson Comet"
+            ],
+            [
+                "520",
+                "Mystic Shield"
+            ]
+        ]
+    }
+}

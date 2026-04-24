@@ -1,0 +1,76 @@
+{
+    "table-1257-1257": {
+        "title": [
+            "Patient ID",
+            "CRP Level (mg/L)",
+            "CRP Interpretation",
+            "Data Recorded Status",
+            "Missing Data Detail"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal C-reactive protein don't have their data recorded?",
+        "data": [
+            [
+                "1001",
+                "1.8",
+                "Normal",
+                "Not Recorded",
+                "Lab Results"
+            ],
+            [
+                "1002",
+                "12.5",
+                "Elevated",
+                "Recorded",
+                "N/A"
+            ],
+            [
+                "1003",
+                "0.9",
+                "Normal",
+                "Recorded",
+                "N/A"
+            ],
+            [
+                "1004",
+                "4.2",
+                "Mildly Elevated",
+                "Partially Recorded",
+                "Follow-up Notes"
+            ],
+            [
+                "1005",
+                "2.1",
+                "Normal",
+                "Not Recorded",
+                "Full Record"
+            ],
+            [
+                "1006",
+                "28.0",
+                "Elevated",
+                "Not Recorded",
+                "Demographics"
+            ],
+            [
+                "1007",
+                "1.5",
+                "Normal",
+                "Recorded",
+                "N/A"
+            ],
+            [
+                "1008",
+                "0.7",
+                "Normal",
+                "Not Recorded",
+                "Imaging Scans"
+            ]
+        ]
+    }
+}

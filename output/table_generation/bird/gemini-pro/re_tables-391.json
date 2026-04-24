@@ -1,0 +1,45 @@
+{
+    "table-391-391": {
+        "title": [
+            "Card ID",
+            "Card Color",
+            "Card Format"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Card Color and Format Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the colors of cards from ID 1-20? What are the format of these cards?",
+        "data": [
+            [
+                "1",
+                "Red",
+                "Standard"
+            ],
+            [
+                "5",
+                "Blue",
+                "Modern"
+            ],
+            [
+                "10",
+                "Green",
+                "Legacy"
+            ],
+            [
+                "15",
+                "Black",
+                "Vintage"
+            ],
+            [
+                "20",
+                "White",
+                "Commander"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-638-638": {
+        "title": [
+            "Singer Name",
+            "Citizenship",
+            "Genre",
+            "Debut Year",
+            "Notable Album"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of singers whose citizenship is not \"France\".",
+        "data": [
+            [
+                "Adele",
+                "United Kingdom",
+                "Pop, Soul",
+                "2008",
+                "21"
+            ],
+            [
+                "Beyonc\u00e9",
+                "United States",
+                "R&B, Pop",
+                "2003",
+                "Lemonade"
+            ],
+            [
+                "Shakira",
+                "Colombia",
+                "Latin Pop",
+                "1991",
+                "Laundry Service"
+            ],
+            [
+                "Ed Sheeran",
+                "United Kingdom",
+                "Pop, Folk",
+                "2011",
+                "\u00f7 (Divide)"
+            ],
+            [
+                "The Weeknd",
+                "Canada",
+                "R&B, Pop",
+                "2010",
+                "After Hours"
+            ],
+            [
+                "Taylor Swift",
+                "United States",
+                "Pop, Country",
+                "2006",
+                "1989"
+            ],
+            [
+                "BTS",
+                "South Korea",
+                "K-Pop",
+                "2013",
+                "Love Yourself: Her"
+            ]
+        ]
+    }
+}

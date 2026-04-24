@@ -1,0 +1,103 @@
+{
+    "table-81-81": {
+        "title": [
+            "Make",
+            "Model",
+            "Cylinders",
+            "Horsepower",
+            "Fuel_Type",
+            "Transmission",
+            "Drivetrain",
+            "Production_Year"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the largest amount of horsepower for the models with 3 cylinders and what make is it?",
+        "data": [
+            [
+                "Toyota",
+                "Corolla Cross Hybrid",
+                "4",
+                "76",
+                "Hybrid",
+                "CVT",
+                "FWD",
+                "2023"
+            ],
+            [
+                "Honda",
+                "Civic Hatchback",
+                "3",
+                "92",
+                "Gasoline",
+                "Manual",
+                "FWD",
+                "2005"
+            ],
+            [
+                "Mazda",
+                "Demio Sport",
+                "6",
+                "58",
+                "Diesel",
+                "Automatic",
+                "RWD",
+                ""
+            ],
+            [
+                "Suzuki",
+                "Swift GTi",
+                "",
+                "N/A",
+                "Petrol",
+                "Sequential",
+                "FWD",
+                ""
+            ],
+            [
+                "Kia",
+                "Picanto GT-Line",
+                "",
+                "",
+                "Turbocharged",
+                "DCT",
+                "FWD",
+                ""
+            ],
+            [
+                "Hyundai",
+                "i10 N Line",
+                "",
+                "",
+                "Mild-Hybrid",
+                "Auto",
+                "FWD",
+                ""
+            ],
+            [
+                "Ford",
+                "Fiesta ST EcoBoost",
+                "",
+                "",
+                "Supercharged",
+                "Gearbox",
+                "All-Wheel",
+                ""
+            ],
+            [
+                "Volkswagen",
+                "Up! GTI",
+                "",
+                "",
+                "Electric",
+                "Single-Speed",
+                "Rear-Motor",
+                ""
+            ]
+        ]
+    }
+}

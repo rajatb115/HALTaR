@@ -1,0 +1,69 @@
+{
+    "table-1289-1289": {
+        "title": [
+            "Patient ID",
+            "Total Protein Level",
+            "Diagnosis",
+            "Status",
+            "Date Tested"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the diagnosis of the patients whose total protein is lower than normal.",
+        "data": [
+            [
+                "P-1042",
+                "5.2 g/dL",
+                "Hypoproteinemia",
+                "Active",
+                "06/15/2023"
+            ],
+            [
+                "P-A77B",
+                "4.8 g/dLB",
+                "Liver Cirrhosis",
+                "Chronic",
+                "6/22/23"
+            ],
+            [
+                "P-C99X",
+                "3.9 g/dl",
+                "Nephrotic Syndrome",
+                "Stable",
+                "7/01/24"
+            ],
+            [
+                "D-221K",
+                "8.1 mg/L",
+                "Malnutrition",
+                "Acute",
+                "9/10/21"
+            ],
+            [
+                "E-F44Z",
+                "45 g/l",
+                "Severe Dehydration",
+                "Critical",
+                "/12/19"
+            ],
+            [
+                "G-H88M",
+                ".2g/dL",
+                "Gastrointestinal Loss",
+                "Ongoing",
+                "-03-15"
+            ],
+            [
+                "J-K11Q",
+                "n/a",
+                "Unknown Etiology",
+                "Pending",
+                "--/--/--"
+            ]
+        ]
+    }
+}

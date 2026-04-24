@@ -1,0 +1,85 @@
+{
+    "table-546-546": {
+        "title": [
+            "Orchestra_Name",
+            "City",
+            "Founded_Year",
+            "Status",
+            "Last_Performance_Date",
+            "Current_Conductor",
+            "Active_Members"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of orchestras that have no performance.",
+        "data": [
+            [
+                "Vienna Philharmonic",
+                "Vienna",
+                "1947",
+                "Inactive",
+                "N/A",
+                "Vacant",
+                "0"
+            ],
+            [
+                "Berlin Radio Symphony",
+                "Berlin",
+                "1992",
+                "Dissolved",
+                "N/A",
+                "None",
+                "5"
+            ],
+            [
+                "London Chamber Ensemble",
+                "London",
+                "1933",
+                "Suspended",
+                "N/A",
+                "Resigned",
+                "8"
+            ],
+            [
+                "Paris Orchestral Group",
+                "Paris",
+                "1966",
+                "Dormant",
+                "N/A",
+                "Retired",
+                "7"
+            ],
+            [
+                "Munich String Quartet",
+                "Munich",
+                "1923",
+                "Terminated",
+                "N/A",
+                "Unknown",
+                "0"
+            ],
+            [
+                "Hamburg Symphonic Band",
+                "Hamburg",
+                "1928",
+                "Disbanded",
+                "N/A",
+                "Absent",
+                "3"
+            ],
+            [
+                "Copenhagen Wind Collective",
+                "Copenhagen",
+                "1902",
+                "Ceased Operations",
+                "N/A",
+                "Unassigned",
+                "2"
+            ]
+        ]
+    }
+}

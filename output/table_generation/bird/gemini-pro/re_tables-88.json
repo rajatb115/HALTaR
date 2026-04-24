@@ -1,0 +1,63 @@
+{
+    "table-88-88": {
+        "title": [
+            "School Name",
+            "District",
+            "County",
+            "Open Date",
+            "School Type",
+            "Administrator Email"
+        ],
+        "numCols": 6,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "School Administrator Contact Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the e-mail address of the administrator of the school located in the San Bernardino county, District of San Bernardino City Unified that opened between 1/1/2009 to 12/31/2010 whose school types are public Intermediate/Middle Schools and Unified Scools?",
+        "data": [
+            [
+                "Curtis Middle School",
+                "San Bernardino City Unified",
+                "San Bernardino",
+                "2009",
+                "Public Intermediate/Middle School",
+                "admin@curtismschool.edu"
+            ],
+            [
+                "Rodriguez Prep Academy",
+                "San Bernardino City Unified",
+                "San Bernardino",
+                "2010",
+                "Unified School",
+                "admin@rodriguezacademy.edu"
+            ],
+            [
+                "Paakuma' K-8 School",
+                "San Bernardino City Unified",
+                "San Bernardino",
+                "2009",
+                "Unified School",
+                "admin@paakumaschool.edu"
+            ],
+            [
+                "San Andreas High School",
+                "San Bernardino City Unified",
+                "San Bernardino",
+                "2010",
+                "Unified School",
+                "admin@sanandreashigh.edu"
+            ],
+            [
+                "Lytle Creek Elementary",
+                "San Bernardino City Unified",
+                "San Bernardino",
+                "2009",
+                "Public Intermediate/Middle School",
+                "admin@lytlecreek.edu"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-839-839": {
+        "title": [
+            "Superhero Alias",
+            "Full Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Superhero Identity Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the full name of the superhero named Alien.",
+        "data": [
+            [
+                "Alien",
+                "Ben Tennyson"
+            ],
+            [
+                "Batman",
+                "Bruce Wayne"
+            ],
+            [
+                "Superman",
+                "Clark Kent"
+            ],
+            [
+                "Spider-Man",
+                "Peter Parker"
+            ],
+            [
+                "Wonder Woman",
+                "Diana Prince"
+            ]
+        ]
+    }
+}

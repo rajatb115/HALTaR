@@ -1,0 +1,77 @@
+{
+    "table-1509-1509": {
+        "title": [
+            "Transaction ID",
+            "Gas Station Name",
+            "City",
+            "Amount (CZK)",
+            "Payment Method",
+            "Transaction Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many transactions taken place in the gas station in the Czech Republic are with a price of over 1000?",
+        "data": [
+            [
+                "1001",
+                "Benzina ORLEN",
+                "Prague",
+                "1250",
+                "Credit Card",
+                "2023-10-26"
+            ],
+            [
+                "1002",
+                "OMV",
+                "Brno",
+                "890",
+                "Debit Card",
+                "2023-10-26"
+            ],
+            [
+                "1003",
+                "Shell",
+                "Ostrava",
+                "1520",
+                "Cash",
+                "2023-10-25"
+            ],
+            [
+                "1004",
+                "MOL",
+                "Plze\u0148",
+                "980",
+                "Credit Card",
+                "2023-10-25"
+            ],
+            [
+                "1005",
+                "EuroOil",
+                "\u010cesk\u00e9 Bud\u011bjovice",
+                "1100",
+                "Mobile Pay",
+                "2023-10-24"
+            ],
+            [
+                "1006",
+                "Benzina ORLEN",
+                "Prague",
+                "750",
+                "Debit Card",
+                "2023-10-24"
+            ],
+            [
+                "1007",
+                "OMV",
+                "Liberec",
+                "1300",
+                "Credit Card",
+                "2023-10-23"
+            ]
+        ]
+    }
+}

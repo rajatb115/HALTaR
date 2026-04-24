@@ -1,0 +1,45 @@
+{
+    "table-1118-1118": {
+        "title": [
+            "Player Name",
+            "Weight (lbs)",
+            "API ID"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Heaviest Players and Their API IDs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the player api id of 10 heaviest players?",
+        "data": [
+            [
+                "Trent Brown",
+                "380",
+                "trent-brown"
+            ],
+            [
+                "Orlando Brown Jr.",
+                "345",
+                "orlando-brown"
+            ],
+            [
+                "Michael Jordan",
+                "335",
+                "michael-jordan"
+            ],
+            [
+                "Teven Jenkins",
+                "350",
+                "teven-jenkins"
+            ],
+            [
+                "Mekhi Becton",
+                "363",
+                "mekhi-becton"
+            ]
+        ]
+    }
+}

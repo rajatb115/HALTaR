@@ -1,0 +1,45 @@
+{
+    "table-782-782": {
+        "title": [
+            "Hero Name",
+            "Eye Color",
+            "Height (cm)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Heights of Heroes with Amber Eyes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the heights of the heroes whose eye colours are amber.",
+        "data": [
+            [
+                "Wonder Woman",
+                "Amber",
+                "183"
+            ],
+            [
+                "Aquaman",
+                "Amber",
+                "191"
+            ],
+            [
+                "Martian Manhunter",
+                "Amber",
+                "201"
+            ],
+            [
+                "Green Arrow",
+                "Amber",
+                "193"
+            ],
+            [
+                "Hawkgirl",
+                "Amber",
+                "178"
+            ]
+        ]
+    }
+}

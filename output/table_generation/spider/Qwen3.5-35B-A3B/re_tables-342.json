@@ -1,0 +1,58 @@
+{
+    "table-342-342": {
+        "title": [
+            "Title",
+            "ReleaseYear",
+            "Studio",
+            "Genre",
+            "Rating",
+            "Episodes",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the title of all cartoons in alphabetical order.",
+        "data": [
+            [
+                "Adventure Time",
+                "2004",
+                "Cartoon Network",
+                "Adventure",
+                "TV-Y7-FV",
+                "300+",
+                "Ended"
+            ],
+            [
+                "Avatar: The Last Airbender",
+                "2005",
+                "Nickelodeon",
+                "Fantasy",
+                "TV-PG",
+                "61",
+                "Ended"
+            ],
+            [
+                "Ben 10",
+                "2006",
+                "Cartoon Network",
+                "Sci-Fi",
+                "TV-G",
+                "90",
+                "Revived"
+            ],
+            [
+                "Dexter's Laboratory",
+                "1996",
+                "Cartoon Network",
+                "Comedy",
+                "TV-Y7",
+                "0",
+                "Ended"
+            ]
+        ]
+    }
+}

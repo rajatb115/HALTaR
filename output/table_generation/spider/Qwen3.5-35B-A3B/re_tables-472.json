@@ -1,0 +1,37 @@
+{
+    "table-472-472": {
+        "title": [
+            "Region",
+            "Primary Language",
+            "Secondary Language",
+            "Population Estimate",
+            "Continent",
+            "Official Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which regions speak Dutch or English?",
+        "data": [
+            [
+                "Netherlands",
+                "Dutch",
+                "N/A",
+                "746000",
+                "Europe",
+                "Yes"
+            ],
+            [
+                "Belgium",
+                "French",
+                "German",
+                "300000",
+                "Europe",
+                "No"
+            ]
+        ]
+    }
+}

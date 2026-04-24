@@ -1,0 +1,77 @@
+{
+    "table-3-3": {
+        "title": [
+            "Singer Name",
+            "Nationality",
+            "Age",
+            "Role",
+            "Album Count",
+            "Active Since"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average, minimum, and maximum age of all singers from France?",
+        "data": [
+            [
+                "Charles Aznavour",
+                "French",
+                "94",
+                "Vocalist/Songwriter",
+                "67",
+                "40"
+            ],
+            [
+                "Mireille Mathieu",
+                "French",
+                "82",
+                "Soprano",
+                "55",
+                "35"
+            ],
+            [
+                "Johnny Hallyday",
+                "French",
+                "74",
+                "Rock Singer",
+                "80",
+                "70"
+            ],
+            [
+                "Zaz",
+                "French",
+                "41",
+                "Pop/Chanson",
+                "4",
+                "0"
+            ],
+            [
+                "Stromae",
+                "Belgian-French",
+                "39",
+                "Rapper/Hip-hop",
+                "",
+                "10"
+            ],
+            [
+                "Myl\u00e8ne Farmer",
+                "French",
+                "58",
+                "Pop/Dance",
+                "",
+                "15"
+            ],
+            [
+                "Carla Bruni",
+                "Italian-French",
+                "56",
+                "Singer-Songwriter",
+                "4",
+                "12"
+            ]
+        ]
+    }
+}

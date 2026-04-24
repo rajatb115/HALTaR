@@ -1,0 +1,53 @@
+{
+    "table-1414-1414": {
+        "title": [
+            "Member ID",
+            "Member Name",
+            "Zip Code",
+            "Amount Incurred (USD)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2,
+            3
+        ],
+        "pgTitle": "Member Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Mention the zip code of member who incurred less than 50USD.",
+        "data": [
+            [
+                "12345",
+                "John Smith",
+                "90210",
+                "35.00"
+            ],
+            [
+                "67890",
+                "Jane Doe",
+                "10001",
+                "48.50"
+            ],
+            [
+                "24680",
+                "Peter Jones",
+                "60611",
+                "22.75"
+            ],
+            [
+                "13579",
+                "Mary Brown",
+                "77002",
+                "15.20"
+            ],
+            [
+                "98765",
+                "David Lee",
+                "94105",
+                "49.99"
+            ]
+        ]
+    }
+}

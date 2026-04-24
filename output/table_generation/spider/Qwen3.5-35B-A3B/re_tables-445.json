@@ -1,0 +1,85 @@
+{
+    "table-445-445": {
+        "title": [
+            "Country",
+            "Region",
+            "Life Expectancy (Years)",
+            "Data Source",
+            "Last Updated",
+            "Confidence Level"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average expected life expectancy for countries in the region of Central Africa?",
+        "data": [
+            [
+                "Cameroon",
+                "Central Africa",
+                "64.2",
+                "World Bank",
+                "7/1/2023",
+                "High"
+            ],
+            [
+                "Central African Republic",
+                "Central Africa",
+                "54.8",
+                "UN Population Division",
+                "8/15/2023",
+                "Medium"
+            ],
+            [
+                "Chad",
+                "Central Africa",
+                "49.5",
+                "WHO Global Health Observatory",
+                "9/10/2022",
+                "Low"
+            ],
+            [
+                "Republic of Congo",
+                "Central Africa",
+                "34.1",
+                "National Statistics Office",
+                "1/1/2033",
+                "N/A"
+            ],
+            [
+                "Democratic Republic of the Congo",
+                "Central Africa",
+                "",
+                "International Rescue Committee",
+                "",
+                ""
+            ],
+            [
+                "Equatorial Guinea",
+                "Central Africa",
+                "",
+                "Local Census Bureau",
+                "",
+                "Unknown"
+            ],
+            [
+                "Gabon",
+                "Central Africa",
+                "",
+                "Regional Health Alliance",
+                "",
+                "Invalid"
+            ],
+            [
+                "Sao Tome and Principe",
+                "Central Africa",
+                "",
+                "Historical Archives",
+                "",
+                "Impossible"
+            ]
+        ]
+    }
+}

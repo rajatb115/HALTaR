@@ -1,0 +1,39 @@
+{
+    "table-193-193": {
+        "title": [
+            "Type Code",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Template Type Codes and Descriptions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the type codes and descriptions for all template types?",
+        "data": [
+            [
+                "1",
+                "Invoice"
+            ],
+            [
+                "2",
+                "Purchase Order"
+            ],
+            [
+                "3",
+                "Credit Memo"
+            ],
+            [
+                "4",
+                "Debit Memo"
+            ],
+            [
+                "5",
+                "Statement"
+            ]
+        ]
+    }
+}

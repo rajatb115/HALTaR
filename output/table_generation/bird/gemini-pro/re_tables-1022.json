@@ -1,0 +1,45 @@
+{
+    "table-1022-1022": {
+        "title": [
+            "Player Name",
+            "Height (cm)",
+            "Height (ft/in)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Tallest Basketball Players",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the height of the tallest player? Indicate his name.",
+        "data": [
+            [
+                "Yao Ming",
+                "229",
+                "7'6\""
+            ],
+            [
+                "Gheorghe Mure\u0219an",
+                "231",
+                "7'7\""
+            ],
+            [
+                "Manute Bol",
+                "231",
+                "7'7\""
+            ],
+            [
+                "Shawn Bradley",
+                "229",
+                "7'6\""
+            ],
+            [
+                "Slavko Vrane\u0161",
+                "230",
+                "7'6.5\""
+            ]
+        ]
+    }
+}

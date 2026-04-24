@@ -1,0 +1,37 @@
+{
+    "table-425-425": {
+        "title": [
+            "State",
+            "Last Created Date"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Last Creation Date of Votes by State",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is last date created of votes from the state 'CA'?",
+        "data": [
+            [
+                "CA",
+                "2023-10-26"
+            ],
+            [
+                "NY",
+                "2023-10-25"
+            ],
+            [
+                "TX",
+                "2023-10-24"
+            ],
+            [
+                "FL",
+                "2023-10-23"
+            ],
+            [
+                "AZ",
+                "2023-10-22"
+            ]
+        ]
+    }
+}

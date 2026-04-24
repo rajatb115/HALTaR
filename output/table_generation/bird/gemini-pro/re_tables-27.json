@@ -1,0 +1,51 @@
+{
+    "table-27-27": {
+        "title": [
+            "School Name",
+            "Address",
+            "City",
+            "Free/Reduced Meal Count (Ages 15-17)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "High Schools in Monterey with High Free/Reduced Meal Numbers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the names and full communication address of high schools in Monterey which has more than 800 free or reduced price meals for ages 15-17?",
+        "data": [
+            [
+                "Monterey High School",
+                "101 Hermann Dr",
+                "Monterey",
+                "950"
+            ],
+            [
+                "Seaside High School",
+                "1091 Noche Buena St",
+                "Seaside",
+                "875"
+            ],
+            [
+                "Marina High School",
+                "3081 Cardoza Rd",
+                "Marina",
+                "820"
+            ],
+            [
+                "Carmel High School",
+                "3600 Ocean Ave",
+                "Carmel-by-the-Sea",
+                "810"
+            ],
+            [
+                "Pacific Grove High School",
+                "615 Pacific St",
+                "Pacific Grove",
+                "790"
+            ]
+        ]
+    }
+}

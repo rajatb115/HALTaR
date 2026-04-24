@@ -1,0 +1,43 @@
+{
+    "table-833-833": {
+        "title": [
+            "Superhero Name",
+            "Alias",
+            "Height (cm)",
+            "Universe"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the tallest superhero.",
+        "data": [
+            [
+                "Hulk",
+                "Bruce Banner",
+                "259",
+                "Marvel"
+            ],
+            [
+                "Colossus",
+                "Piotr Rasputin",
+                "226",
+                "Marvel"
+            ],
+            [
+                "Groot",
+                "N/A",
+                "232",
+                "Marvel"
+            ],
+            [
+                "Martian Manhunter",
+                "J'onn J'",
+                "",
+                ""
+            ]
+        ]
+    }
+}

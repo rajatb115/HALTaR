@@ -1,0 +1,43 @@
+{
+    "table-291-291": {
+        "title": [
+            "Battle Name",
+            "Date",
+            "Ship Lost"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Battles Involving Specific Ship Losses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name and date the battle that has lost the ship named 'Lettice' and the ship named 'HMS Atalanta'",
+        "data": [
+            [
+                "Battle A",
+                "1779-03-03",
+                "Lettice"
+            ],
+            [
+                "Battle B",
+                "1866-01-31",
+                "HMS Atalanta"
+            ],
+            [
+                "Battle C",
+                "1799-08-01",
+                "Lettice"
+            ],
+            [
+                "Battle D",
+                "1873-09-10",
+                "HMS Atalanta"
+            ],
+            [
+                "Battle E",
+                "1805-10-21",
+                "Lettice"
+            ]
+        ]
+    }
+}

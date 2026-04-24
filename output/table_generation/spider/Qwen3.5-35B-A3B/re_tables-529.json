@@ -1,0 +1,61 @@
+{
+    "table-529-529": {
+        "title": [
+            "Conductor Name",
+            "Nationality",
+            "Birth Year",
+            "Notable Work"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of conductors that do not have the nationality \"USA\".",
+        "data": [
+            [
+                "Leonard Bernstein",
+                "USA",
+                "1918",
+                "West Side Story"
+            ],
+            [
+                "Herbert von Karajan",
+                "Austria",
+                "1908",
+                "Beethoven Symphonies"
+            ],
+            [
+                "Carlos Kleiber",
+                "Germany / Peru",
+                "1930",
+                "Der Rosenkavalier"
+            ],
+            [
+                "Marin Alsop",
+                "Canada",
+                "1956",
+                "Symphony No. 3"
+            ],
+            [
+                "Valery Gergiev",
+                "Russia",
+                "1953",
+                "War Requiem"
+            ],
+            [
+                "Riccardo Muti",
+                "Italy",
+                "1941",
+                "La Traviata"
+            ],
+            [
+                "Seiji Ozawa",
+                "Japan",
+                "1935",
+                "Mahler Symphonies"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-708-708": {
+        "title": [
+            "Post ID",
+            "Post Title",
+            "Views",
+            "Comment ID",
+            "Comment Text",
+            "Comment Score"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts with views ranging from 100 to 150, what is the comment with the highest score?",
+        "data": [
+            [
+                "701",
+                "Understanding Data Pipelines",
+                "128",
+                "1001",
+                "Great explanation, very clear!",
+                "45"
+            ],
+            [
+                "701",
+                "Understanding Data Pipelines",
+                "128",
+                "1002",
+                "Could you elaborate on error handling?",
+                "62"
+            ],
+            [
+                "702",
+                "Best Practices for SQL Joins",
+                "142",
+                "1003",
+                "This saved me so much time. Thanks!",
+                "30"
+            ],
+            [
+                "702",
+                "Best Practices for SQL Joins",
+                "142",
+                "1004",
+                "What about performance implications?",
+                "55"
+            ],
+            [
+                "703",
+                "Intro to Machine Learning Models",
+                "105",
+                "1005",
+                "Excellent overview for beginners.",
+                "78"
+            ],
+            [
+                "703",
+                "Intro to Machine Learning Models",
+                "105",
+                "1006",
+                "Is there a follow-up on advanced topics?",
+                "21"
+            ]
+        ]
+    }
+}

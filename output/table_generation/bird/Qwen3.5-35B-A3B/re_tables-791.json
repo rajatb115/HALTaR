@@ -1,0 +1,85 @@
+{
+    "table-791-791": {
+        "title": [
+            "Character",
+            "Weight_kg",
+            "Source_Material",
+            "Status",
+            "Calculation_Type",
+            "Difference_Value",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the difference between Emil Blonsky's weight and Charles Chandler's weight.",
+        "data": [
+            [
+                "Emil Blonski",
+                "467",
+                "Marvel Cinematic Universe",
+                "Active",
+                "Baseline",
+                "N/A",
+                "Also known as Abomination"
+            ],
+            [
+                "Charles Chandler",
+                "82",
+                "Marvel Comics",
+                "Deceased",
+                "Comparison Target",
+                "N/A",
+                "Former Green Goblin ally"
+            ],
+            [
+                "Weight_Difference",
+                "385",
+                "Calculated",
+                "Derived",
+                "Subtraction",
+                "Positive",
+                "Blonski is heavier by this amount"
+            ],
+            [
+                "Unit_Conversion",
+                "kg_to_lb",
+                "Standard",
+                "Applied",
+                "Multiplier",
+                "0.4536",
+                "Conversion factor used for reference"
+            ],
+            [
+                "Data_Verification",
+                "High",
+                "Internal Audit",
+                "Confirmed",
+                "Accuracy Check",
+                "Pass",
+                "Values cross-referenced across sources"
+            ],
+            [
+                "Temporal_Context",
+                "Modern Era",
+                "Current Continuity",
+                "Relevant",
+                "Timeframe",
+                "Post-Incident",
+                "Based on post-transformation state"
+            ],
+            [
+                "Alternative_Source",
+                "Low",
+                "Fan Theory",
+                "Speculative",
+                "Variance Estimate",
+                "+/- 15%",
+                "Potential variation in comic depictions"
+            ]
+        ]
+    }
+}

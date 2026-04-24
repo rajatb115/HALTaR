@@ -1,0 +1,43 @@
+{
+    "table-522-522": {
+        "title": [
+            "Country",
+            "Most Spoken Language",
+            "Percentage of Population"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Most Spoken Languages by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the language spoken by the largest percentage of people in each country?",
+        "data": [
+            [
+                "China",
+                "Mandarin Chinese",
+                "70%"
+            ],
+            [
+                "India",
+                "Hindi",
+                "44%"
+            ],
+            [
+                "United States",
+                "English",
+                "79.2%"
+            ],
+            [
+                "Indonesia",
+                "Indonesian",
+                "43%"
+            ],
+            [
+                "Pakistan",
+                "Punjabi",
+                "48%"
+            ]
+        ]
+    }
+}

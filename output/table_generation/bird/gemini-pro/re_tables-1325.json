@@ -1,0 +1,45 @@
+{
+    "table-1325-1325": {
+        "title": [
+            "Meeting Type",
+            "Date",
+            "Attendees"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Meeting Attendance Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average attendance of meetings in 2020?",
+        "data": [
+            [
+                "Board",
+                "2020-01-15",
+                "12"
+            ],
+            [
+                "Team",
+                "2020-02-20",
+                "8"
+            ],
+            [
+                "Board",
+                "2020-03-10",
+                "10"
+            ],
+            [
+                "Team",
+                "2020-04-05",
+                "7"
+            ],
+            [
+                "All-Hands",
+                "2020-05-01",
+                "25"
+            ]
+        ]
+    }
+}

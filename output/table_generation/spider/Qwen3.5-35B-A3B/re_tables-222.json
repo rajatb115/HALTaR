@@ -1,0 +1,85 @@
+{
+    "table-222-222": {
+        "title": [
+            "Teacher_Name",
+            "Course_Code",
+            "Department",
+            "Semester_Start",
+            "Enrollment_Count",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show names of teachers and the courses they are arranged to teach in ascending alphabetical order of the teacher's name.",
+        "data": [
+            [
+                "Alice Johnson",
+                "MATH101A",
+                "Mathematics",
+                "",
+                "45",
+                "Active"
+            ],
+            [
+                "Bob Smith",
+                "PHYS202B",
+                "Physics",
+                "",
+                "67",
+                "Active"
+            ],
+            [
+                "Carol Davis",
+                "CHEM105C",
+                "Chemistry",
+                "",
+                "32",
+                "Pending"
+            ],
+            [
+                "David Lee",
+                "HIST110D",
+                "History",
+                "",
+                "54",
+                "Active"
+            ],
+            [
+                "Elena Rodriguez",
+                "ARTS103E",
+                "Arts",
+                "",
+                "89",
+                "Active"
+            ],
+            [
+                "Frank White",
+                "ENGL102F",
+                "English",
+                "",
+                "76",
+                "Active"
+            ],
+            [
+                "Grace Kim",
+                "BIOL104G",
+                "Biology",
+                "",
+                "91",
+                "Active"
+            ],
+            [
+                "Henry Brown",
+                "PSYC106H",
+                "Psychology",
+                "",
+                "03",
+                "Inactive"
+            ]
+        ]
+    }
+}

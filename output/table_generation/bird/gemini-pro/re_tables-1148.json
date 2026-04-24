@@ -1,0 +1,39 @@
+{
+    "table-1148-1148": {
+        "title": [
+            "Player Name",
+            "Overall Strength"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Top Player Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please name one player whose overall strength is the greatest.",
+        "data": [
+            [
+                "Lebron James",
+                "97"
+            ],
+            [
+                "Kevin Durant",
+                "96"
+            ],
+            [
+                "Stephen Curry",
+                "96"
+            ],
+            [
+                "Nikola Jokic",
+                "96"
+            ],
+            [
+                "Joel Embiid",
+                "96"
+            ]
+        ]
+    }
+}

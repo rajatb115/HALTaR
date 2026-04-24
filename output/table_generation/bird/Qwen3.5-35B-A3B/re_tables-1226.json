@@ -1,0 +1,61 @@
+{
+    "table-1226-1226": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "T-BIL Level (mg/dL)",
+            "Status",
+            "Group Category",
+            "Lab Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List and group all patients by sex for total bilirubin (T-BIL) level not within the normal range.",
+        "data": [
+            [
+                "P-1042",
+                "Male",
+                "3.8",
+                "Abnormal High",
+                "Elevated Bilirubin",
+                "06/12/2023"
+            ],
+            [
+                "P-A77B",
+                "Female",
+                "4.2",
+                "Abnormally Low",
+                "Normal Range",
+                "06/22/1975"
+            ],
+            [
+                "M-99C",
+                "Male",
+                "5.1",
+                "Abnormal High",
+                "Elevated Bilirubin",
+                "06/12/2023"
+            ],
+            [
+                "F-22X",
+                "Female",
+                "2.1",
+                "Abnormal Low",
+                "Normal Range",
+                "06/22/1975"
+            ],
+            [
+                "K-88Z",
+                "Male",
+                "3.5",
+                "Abnormal High",
+                "Elevated Bilirubin",
+                "06/12/2023"
+            ]
+        ]
+    }
+}

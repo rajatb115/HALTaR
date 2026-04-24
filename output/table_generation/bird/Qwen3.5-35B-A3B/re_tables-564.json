@@ -1,0 +1,85 @@
+{
+    "table-564-564": {
+        "title": [
+            "Post_ID",
+            "User_No",
+            "Comment_Time",
+            "Date",
+            "Favorite_Count",
+            "Status",
+            "Platform"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "User No.3025 gave a comment at 20:29:39 on 2014/4/23 to a post, how many favorite counts did that post get?",
+        "data": [
+            [
+                "POST_7721",
+                "3005",
+                "09:15:22",
+                "4/15/2024",
+                "842",
+                "Active",
+                "Forum_A"
+            ],
+            [
+                "POST_X99B",
+                "6612",
+                "",
+                "N/A",
+                "5120",
+                "Archived",
+                "Blog_Main"
+            ],
+            [
+                "POST_M4K1",
+                "",
+                "",
+                "",
+                "-1",
+                "Deleted",
+                "Test_Sys"
+            ],
+            [
+                "POST_L2PQ",
+                "7788",
+                "14:30:00",
+                "12/31/2100",
+                "",
+                "Pending",
+                "Future_Demo"
+            ],
+            [
+                "POST_R5T9",
+                "3",
+                "00:01",
+                "1/1/0002",
+                "0",
+                "Inactive",
+                "Legacy_DB"
+            ],
+            [
+                "POST_ZZ00",
+                "",
+                "",
+                "",
+                "",
+                "Error_Log",
+                "System_Core"
+            ],
+            [
+                "POST_QWERTY",
+                "333",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

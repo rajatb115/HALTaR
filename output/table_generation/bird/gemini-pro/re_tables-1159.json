@@ -1,0 +1,52 @@
+{
+    "table-1159-1159": {
+        "title": [
+            "Patient ID",
+            "Date of Birth",
+            "Total Cholesterol",
+            "Cholesterol Level"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Patient Health Records",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all patients who were born in 1937 whose total cholesterol was beyond the normal range.",
+        "data": [
+            [
+                "12345",
+                "1937-05-10",
+                "250",
+                "High"
+            ],
+            [
+                "67890",
+                "1937-11-22",
+                "280",
+                "High"
+            ],
+            [
+                "24680",
+                "1937-03-01",
+                "180",
+                "Normal"
+            ],
+            [
+                "13579",
+                "1937-07-15",
+                "300",
+                "High"
+            ],
+            [
+                "98765",
+                "1937-09-08",
+                "220",
+                "Borderline High"
+            ]
+        ]
+    }
+}

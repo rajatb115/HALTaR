@@ -1,0 +1,85 @@
+{
+    "table-1401-1401": {
+        "title": [
+            "Event_ID",
+            "Event_Name",
+            "Category",
+            "Date_Held",
+            "Total_Attendees",
+            "Is_Community_Service",
+            "Percentage_Share_2024"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all events hold by the Student_Club in 2019, find the percentage share of events related to 'Community Service'",
+        "data": [
+            [
+                "EVT-2091",
+                "Spring Food Drive",
+                "Community Service",
+                "03/15/20",
+                "45",
+                "Yes",
+                "N/A"
+            ],
+            [
+                "EVE-2102",
+                "Tech Workshop Series",
+                "Education",
+                "3/22/21",
+                "67",
+                "No",
+                "N/A"
+            ],
+            [
+                "EVV-2215",
+                "Charity Run for Kids",
+                "Community Services",
+                "5/10/23",
+                "89",
+                "Yes",
+                ""
+            ],
+            [
+                "EWK-2304",
+                "Coding Bootcamp Intro",
+                "Technology",
+                "7/12/19",
+                "92",
+                "No",
+                ""
+            ],
+            [
+                "EVR-2401",
+                "Local Park Cleanup",
+                "Community_Services",
+                "9/05/18",
+                "",
+                "Yes",
+                "N/A"
+            ],
+            [
+                "ESG-2502",
+                "Environmental Awareness Seminar",
+                "Sustainability",
+                "10/20",
+                "34",
+                "No",
+                "NA"
+            ],
+            [
+                "ETC-2603",
+                "Holiday Gift Exchange",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

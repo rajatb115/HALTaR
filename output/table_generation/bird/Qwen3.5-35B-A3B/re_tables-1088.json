@@ -1,0 +1,55 @@
+{
+    "table-1088-1088": {
+        "title": [
+            "Player_Name",
+            "Height_cm",
+            "Volley_Score",
+            "Meets_Criteria"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the players whose height is over 180, how many of them have a volley score of over 70?",
+        "data": [
+            [
+                "John Smith",
+                "6'4\"",
+                "72",
+                "Yes"
+            ],
+            [
+                "Maria Garcia",
+                "5'11\"",
+                "N/A",
+                "No"
+            ],
+            [
+                "David Lee",
+                "8'2\"",
+                "None",
+                "No"
+            ],
+            [
+                "Sarah Connor",
+                "9'1\"",
+                "45",
+                "No"
+            ],
+            [
+                "Michael Jordan",
+                "3'10\"",
+                "High",
+                "No"
+            ],
+            [
+                "Elena Rodriguez",
+                "0'0\"",
+                "-1",
+                "No"
+            ]
+        ]
+    }
+}

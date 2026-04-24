@@ -1,0 +1,45 @@
+{
+    "table-22-22": {
+        "title": [
+            "Concert Name",
+            "Singer Name",
+            "Year"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Concert Performers by Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all singer names in concerts in year 2014.",
+        "data": [
+            [
+                "Summer Pop 2014",
+                "Taylor Swift",
+                "2014"
+            ],
+            [
+                "Rock Fest 2014",
+                "Jon Bon Jovi",
+                "2014"
+            ],
+            [
+                "Indie Showcase",
+                "Lorde",
+                "2014"
+            ],
+            [
+                "Country Jamboree",
+                "Blake Shelton",
+                "2014"
+            ],
+            [
+                "Jazz Night",
+                "Tony Bennett",
+                "2014"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "table-680-680": {
+        "title": [
+            "Post ID",
+            "Title",
+            "Score",
+            "Author",
+            "Status",
+            "Created Date",
+            "Category",
+            "Views"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which post has the highest score? Please give its id and title's name.",
+        "data": [
+            [
+                "P-4092",
+                "Ultimate Guide to Data Analysis",
+                "9876",
+                "Sarah Jenkins",
+                "Published",
+                "01/15/2023",
+                "Analytics",
+                "45201"
+            ],
+            [
+                "P-3301",
+                "Top Ten Python Libraries for ML",
+                "8542",
+                "Mike Ross",
+                "Archived",
+                "3/22/24",
+                "Machine Learning",
+                "67890"
+            ],
+            [
+                "P-A102",
+                "Understanding Neural Networks Basics",
+                "7650",
+                "Emily Chen",
+                "Draft",
+                "N/A",
+                "AI Research",
+                "5432"
+            ],
+            [
+                "B-9921",
+                "Best Practices in Cloud Security",
+                "6540",
+                "David Kim",
+                "Published",
+                "11/05/19",
+                "Cybersecurity",
+                "33210"
+            ],
+            [
+                "C-5500",
+                "Introduction to Quantum Computing",
+                "5120",
+                "Lisa Wang",
+                "Scheduled",
+                "",
+                "Science",
+                "N/A"
+            ],
+            [
+                "D-7788",
+                "How to Optimize SQL Queries Fast",
+                "4980",
+                "Tom Baker",
+                "Published",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

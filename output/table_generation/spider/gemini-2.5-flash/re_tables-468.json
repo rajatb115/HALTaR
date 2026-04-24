@@ -1,0 +1,62 @@
+{
+    "table-468-468": {
+        "title": [
+            "Country",
+            "Continent",
+            "Capital City",
+            "Population (Millions)",
+            "Currency"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the names of countries with English and French as official languages.",
+        "data": [
+            [
+                "Canada",
+                "North America",
+                "Ottawa",
+                "38.5",
+                "Canadian Dollar"
+            ],
+            [
+                "Cameroon",
+                "Africa",
+                "Yaound\u00e9",
+                "27.2",
+                "Central African CFA franc"
+            ],
+            [
+                "Seychelles",
+                "Africa",
+                "Victoria",
+                "0.1",
+                "Seychellois Rupee"
+            ],
+            [
+                "Vanuatu",
+                "Oceania",
+                "Port Vila",
+                "0.3",
+                "Vanuatu Vatu"
+            ],
+            [
+                "Mauritius",
+                "Africa",
+                "Port Louis",
+                "1.3",
+                "Mauritian Rupee"
+            ],
+            [
+                "Rwanda",
+                "Africa",
+                "Kigali",
+                "13.0",
+                "Rwandan Franc"
+            ]
+        ]
+    }
+}

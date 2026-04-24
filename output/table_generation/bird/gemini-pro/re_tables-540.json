@@ -1,0 +1,37 @@
+{
+    "table-540-540": {
+        "title": [
+            "Post Title",
+            "Owner"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Example Posts and Their Owners",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the owner of the post \"Eliciting priors from experts\"?",
+        "data": [
+            [
+                "Eliciting priors from experts",
+                "Hal Varian"
+            ],
+            [
+                "Sustainable energy - Without the hot air",
+                "David MacKay"
+            ],
+            [
+                "The Signal and the Noise",
+                "Nate Silver"
+            ],
+            [
+                "Reinforcement Learning: An Introduction",
+                "Richard S. Sutton"
+            ],
+            [
+                "G\u00f6del, Escher, Bach: An Eternal Golden Braid",
+                "Douglas Hofstadter"
+            ]
+        ]
+    }
+}

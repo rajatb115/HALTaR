@@ -1,0 +1,57 @@
+{
+    "table-1015-1015": {
+        "title": [
+            "Circuit Name",
+            "Location",
+            "Lap Record",
+            "Driver",
+            "Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            4
+        ],
+        "pgTitle": "Italian Circuit Lap Records",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the lap records for the circuits in Italy.",
+        "data": [
+            [
+                "Autodromo Nazionale Monza",
+                "Monza",
+                "1:21.046",
+                "Rubens Barrichello",
+                "2004"
+            ],
+            [
+                "Autodromo Enzo e Dino Ferrari (Imola)",
+                "Imola",
+                "1:15.484",
+                "Michael Schumacher",
+                "2004"
+            ],
+            [
+                "Mugello Circuit",
+                "Scarperia e San Piero",
+                "1:18.833",
+                "Rubens Barrichello",
+                "2004"
+            ],
+            [
+                "Misano World Circuit Marco Simoncelli",
+                "Misano Adriatico",
+                "1:32.678",
+                "Stefano Modena",
+                "1989"
+            ],
+            [
+                "Autodromo Vallelunga Piero Taruffi",
+                "Vallelunga",
+                "1:03.770",
+                "Marco Apicella",
+                "2005"
+            ]
+        ]
+    }
+}

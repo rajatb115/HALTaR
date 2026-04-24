@@ -1,0 +1,49 @@
+{
+    "table-1133-1133": {
+        "title": [
+            "Player Name",
+            "Height_cm",
+            "Nationality",
+            "Position",
+            "Club",
+            "Age",
+            "Goals_This_Season"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide the names of top three football players who are over 180 cm tall in alphabetical order.",
+        "data": [
+            [
+                "Lionel Messi",
+                "174",
+                "Argentina",
+                "Forward",
+                "Inter Miami CF",
+                "36",
+                "5"
+            ],
+            [
+                "Kylian Mbapp\u00e9",
+                "178",
+                "France",
+                "Forward",
+                "Paris Saint-Germain",
+                "24",
+                "6"
+            ],
+            [
+                "Erling Haaland",
+                "194",
+                "Norway",
+                "Striker",
+                "Manchester City",
+                "22",
+                "0"
+            ]
+        ]
+    }
+}

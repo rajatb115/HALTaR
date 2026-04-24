@@ -1,0 +1,58 @@
+{
+    "table-1237-1237": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "Gender",
+            "Abnormal RBC",
+            "Hospital Admission"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Female Patients with Abnormal Red Blood Cell Count",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the female patient age 50 and above, who has abnormal red blood cell count. State if they were admitted to hospital.",
+        "data": [
+            [
+                "12345",
+                "55",
+                "Female",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "67890",
+                "62",
+                "Female",
+                "Yes",
+                "No"
+            ],
+            [
+                "24680",
+                "50",
+                "Female",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "13579",
+                "78",
+                "Female",
+                "Yes",
+                "No"
+            ],
+            [
+                "98765",
+                "53",
+                "Female",
+                "Yes",
+                "Yes"
+            ]
+        ]
+    }
+}

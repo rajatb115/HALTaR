@@ -1,0 +1,37 @@
+{
+    "table-305-305": {
+        "title": [
+            "Section Name",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Section Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names and descriptions for all the sections?",
+        "data": [
+            [
+                "Introduction",
+                "Provides an overview of the topic."
+            ],
+            [
+                "Methods",
+                "Explains the methodology used."
+            ],
+            [
+                "Results",
+                "Presents the findings of the study."
+            ],
+            [
+                "Discussion",
+                "Interprets the results and their implications."
+            ],
+            [
+                "Conclusion",
+                "Summarizes the main points and future directions."
+            ]
+        ]
+    }
+}

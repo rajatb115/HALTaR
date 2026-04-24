@@ -1,0 +1,69 @@
+{
+    "table-1344-1344": {
+        "title": [
+            "Category",
+            "Fiscal Year",
+            "Allocated Budget",
+            "Spent Amount",
+            "Remaining Budget"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "With the biggest budget for the \"Food\", what was the remaining of it?",
+        "data": [
+            [
+                "Food",
+                "2023",
+                "150000",
+                "135000",
+                "15000"
+            ],
+            [
+                "Food",
+                "2022",
+                "120000",
+                "118000",
+                "2000"
+            ],
+            [
+                "Travel",
+                "2023",
+                "80000",
+                "75000",
+                "5000"
+            ],
+            [
+                "Supplies",
+                "2023",
+                "50000",
+                "48000",
+                "2000"
+            ],
+            [
+                "Food",
+                "2024",
+                "160000",
+                "140000",
+                "20000"
+            ],
+            [
+                "Marketing",
+                "2023",
+                "100000",
+                "98000",
+                "2000"
+            ],
+            [
+                "Food",
+                "2021",
+                "100000",
+                "99500",
+                "500"
+            ]
+        ]
+    }
+}

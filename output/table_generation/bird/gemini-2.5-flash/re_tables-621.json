@@ -1,0 +1,55 @@
+{
+    "table-621-621": {
+        "title": [
+            "User ID",
+            "Badge Name",
+            "Acquisition Timestamp",
+            "Total Views"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the number of views of users who obtained the badge on 7/19/2010 7:39:08 PM.",
+        "data": [
+            [
+                "U1001",
+                "Enthusiast",
+                "2010-07-19 19:39:08",
+                "12543"
+            ],
+            [
+                "U1002",
+                "Good Question",
+                "2010-07-19 19:35:12",
+                "8765"
+            ],
+            [
+                "U1003",
+                "Popular User",
+                "2010-07-20 08:15:00",
+                "25123"
+            ],
+            [
+                "U1004",
+                "First Answer",
+                "2010-07-18 14:00:00",
+                "3456"
+            ],
+            [
+                "U1005",
+                "Commentator",
+                "2010-07-19 20:05:30",
+                "9876"
+            ],
+            [
+                "U1006",
+                "Editor",
+                "2010-07-19 10:22:15",
+                "15678"
+            ]
+        ]
+    }
+}

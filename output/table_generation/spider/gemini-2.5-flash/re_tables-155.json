@@ -1,0 +1,69 @@
+{
+    "table-155-155": {
+        "title": [
+            "Employee Name",
+            "Department",
+            "Role",
+            "Bonus Amount (USD)",
+            "Performance Rating"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which employee received the biggest bonus? Give me the employee name.",
+        "data": [
+            [
+                "Alice Brown",
+                "Sales",
+                "Senior Account Manager",
+                "18500",
+                "Outstanding"
+            ],
+            [
+                "John Doe",
+                "Engineering",
+                "Lead Software Engineer",
+                "15000",
+                "Excellent"
+            ],
+            [
+                "Jane Smith",
+                "Marketing",
+                "Marketing Director",
+                "16200",
+                "Excellent"
+            ],
+            [
+                "Peter Jones",
+                "Finance",
+                "Financial Analyst",
+                "9800",
+                "Good"
+            ],
+            [
+                "Emily White",
+                "Operations",
+                "Project Manager",
+                "11500",
+                "Excellent"
+            ],
+            [
+                "Robert Green",
+                "HR",
+                "HR Business Partner",
+                "8700",
+                "Good"
+            ],
+            [
+                "Sarah Davis",
+                "Sales",
+                "Regional Sales Manager",
+                "17300",
+                "Outstanding"
+            ]
+        ]
+    }
+}

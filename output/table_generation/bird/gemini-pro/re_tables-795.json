@@ -1,0 +1,49 @@
+{
+    "table-795-795": {
+        "title": [
+            "Hero Name",
+            "Speed Type",
+            "Speed Measurement",
+            "Unit"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Fastest Superheroes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which hero was the fastest?",
+        "data": [
+            [
+                "Flash",
+                "Running",
+                "670,616,629",
+                "mph"
+            ],
+            [
+                "Superman",
+                "Flying",
+                "Mach 3",
+                "Mach"
+            ],
+            [
+                "Quicksilver",
+                "Running",
+                "Mach 4",
+                "Mach"
+            ],
+            [
+                "Wonder Woman",
+                "Flying",
+                "Mach 5",
+                "Mach"
+            ],
+            [
+                "Thor",
+                "Flying",
+                "Mach 7",
+                "Mach"
+            ]
+        ]
+    }
+}

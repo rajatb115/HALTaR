@@ -1,0 +1,67 @@
+{
+    "table-129-129": {
+        "title": [
+            "Airline Code",
+            "Airline Name",
+            "Departure Airport APG",
+            "Departures per Day APG (Avg)",
+            "Departing Airport CVO",
+            "Departers per Day CVO (Avg).",
+            "Status at Both Hubs"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airlines have departing flights from both APG and CVO airports?",
+        "data": [
+            [
+                "AA",
+                "American Airlines",
+                "Yes",
+                "4",
+                "No",
+                "N/A",
+                "Partial Match"
+            ],
+            [
+                "Delta Air Lines",
+                "No",
+                "",
+                "Yes",
+                "N/AA",
+                "Partial MAtch",
+                ""
+            ],
+            [
+                "United Airlines",
+                "No",
+                "",
+                "Yes",
+                "N/A",
+                "Partial Match",
+                ""
+            ],
+            [
+                "Royal Jordanian",
+                "Royal Jordanian",
+                "No",
+                "Yes",
+                "N/A",
+                "",
+                "Partial Match"
+            ],
+            [
+                "SkyWest Inc.",
+                "SkyWest Airlines",
+                "Yes",
+                "2",
+                "Yes",
+                "3",
+                "Full Match"
+            ]
+        ]
+    }
+}

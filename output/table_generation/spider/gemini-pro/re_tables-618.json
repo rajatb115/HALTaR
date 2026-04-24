@@ -1,0 +1,53 @@
+{
+    "table-618-618": {
+        "title": [
+            "Dog Name",
+            "Age",
+            "Weight (lbs)",
+            "Abandoned (1=Yes, 0=No)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Dog Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the dog name, age and weight of the dogs who have been abandoned? 1 stands for yes, and 0 stands for no.",
+        "data": [
+            [
+                "Buddy",
+                "3",
+                "45",
+                "1"
+            ],
+            [
+                "Lucy",
+                "1",
+                "20",
+                "0"
+            ],
+            [
+                "Max",
+                "5",
+                "60",
+                "1"
+            ],
+            [
+                "Daisy",
+                "2",
+                "30",
+                "0"
+            ],
+            [
+                "Rocky",
+                "4",
+                "50",
+                "1"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-186-186": {
+        "title": [
+            "Gender",
+            "Number of Customers",
+            "Proportion"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Customer Demographics at Prague Branch",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What proportion of customers who have accounts at the Prague branch are female?",
+        "data": [
+            [
+                "Female",
+                "120",
+                "0.48"
+            ],
+            [
+                "Male",
+                "130",
+                "0.52"
+            ],
+            [
+                "Other",
+                "0",
+                "0.00"
+            ],
+            [
+                "**Total**",
+                "**250**",
+                "**1.00**"
+            ],
+            [
+                "Branch",
+                "Prague",
+                "-"
+            ]
+        ]
+    }
+}

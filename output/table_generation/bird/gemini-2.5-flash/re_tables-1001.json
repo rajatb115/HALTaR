@@ -1,0 +1,62 @@
+{
+    "table-1001-1001": {
+        "title": [
+            "Racetrack Name",
+            "City",
+            "State/Country",
+            "Last Race Date",
+            "Race Series"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which racetrack hosted the most recent race? Indicate the full location.",
+        "data": [
+            [
+                "Daytona International Speedway",
+                "Daytona Beach",
+                "Florida, USA",
+                "2024-02-18",
+                "NASCAR Cup Series"
+            ],
+            [
+                "Circuit of the Americas",
+                "Austin",
+                "Texas, USA",
+                "2023-10-22",
+                "Formula 1"
+            ],
+            [
+                "Suzuka International Racing Course",
+                "Suzuka",
+                "Japan",
+                "2023-09-24",
+                "Formula 1"
+            ],
+            [
+                "Monza Circuit",
+                "Monza",
+                "Italy",
+                "2023-09-03",
+                "Formula 1"
+            ],
+            [
+                "Indianapolis Motor Speedway",
+                "Speedway",
+                "Indiana, USA",
+                "2023-08-13",
+                "NASCAR Cup Series"
+            ],
+            [
+                "Silverstone Circuit",
+                "Silverstone",
+                "UK",
+                "2023-08-06",
+                "MotoGP"
+            ]
+        ]
+    }
+}

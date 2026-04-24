@@ -1,0 +1,46 @@
+{
+    "table-563-563": {
+        "title": [
+            "Student ID",
+            "Grade Level",
+            "Has Friends"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "High School Students Without Friends",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the ids of high school students who do not have friends?",
+        "data": [
+            [
+                "101",
+                "9",
+                "No"
+            ],
+            [
+                "105",
+                "10",
+                "No"
+            ],
+            [
+                "112",
+                "11",
+                "No"
+            ],
+            [
+                "118",
+                "9",
+                "No"
+            ],
+            [
+                "125",
+                "12",
+                "No"
+            ]
+        ]
+    }
+}

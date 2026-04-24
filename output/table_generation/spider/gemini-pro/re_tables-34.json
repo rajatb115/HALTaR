@@ -1,0 +1,43 @@
+{
+    "table-34-34": {
+        "title": [
+            "First Name",
+            "Last Name",
+            "Pet Type"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Student Pet Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name of students who have cat or dog pet.",
+        "data": [
+            [
+                "John",
+                "Smith",
+                "Cat"
+            ],
+            [
+                "Alice",
+                "Johnson",
+                "Dog"
+            ],
+            [
+                "Bob",
+                "Williams",
+                "Cat"
+            ],
+            [
+                "Emily",
+                "Brown",
+                "Dog"
+            ],
+            [
+                "David",
+                "Jones",
+                "Bird"
+            ]
+        ]
+    }
+}

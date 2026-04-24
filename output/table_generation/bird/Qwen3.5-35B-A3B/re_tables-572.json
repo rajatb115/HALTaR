@@ -1,0 +1,93 @@
+{
+    "table-572-572": {
+        "title": [
+            "User ID",
+            "Total Posts",
+            "Total Votes",
+            "Post-to-Vote Ratio",
+            "Rank by Activity",
+            "Last Active Date",
+            "Account Status",
+            "Platform Segment"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the user No.24, how many times is the number of his/her posts compared to his/her votes?",
+        "data": [
+            [
+                "24",
+                "42",
+                "67",
+                "0.63",
+                "Top 15%",
+                "3/15/2024",
+                "Active",
+                "General Community"
+            ],
+            [
+                "24-Duplicate",
+                "5",
+                "8",
+                "9.00",
+                "N/A",
+                "7/2/2023",
+                "Inactive",
+                "Bot Network"
+            ],
+            [
+                "23-Nearby",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "General Community"
+            ],
+            [
+                "100-Similar",
+                "12",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Tech Forum"
+            ],
+            [
+                "55-HighEngagement",
+                "",
+                "",
+                "",
+                "High Impact",
+                "",
+                "Verified",
+                "Gaming Zone"
+            ],
+            [
+                "88-LowActivity",
+                "",
+                "",
+                "",
+                "Low Volume",
+                "",
+                "Suspended",
+                "Support Group"
+            ],
+            [
+                "99-ModerateUser",
+                "",
+                "",
+                "",
+                "Average",
+                "",
+                "Pending Review",
+                "News Section"
+            ]
+        ]
+    }
+}

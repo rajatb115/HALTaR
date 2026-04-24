@@ -1,0 +1,85 @@
+{
+    "table-667-667": {
+        "title": [
+            "Post_ID",
+            "User_Voted_By",
+            "Vote_Count",
+            "Value_Score",
+            "Status",
+            "Category",
+            "Created_At"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts that were voted by user 1465, what is the id of the most valuable post?",
+        "data": [
+            [
+                "P_7821",
+                "0x05B9",
+                "42",
+                "850.5",
+                "Active",
+                "Technology",
+                "7/12/2023"
+            ],
+            [
+                "P_P_9901",
+                "0xA1C3",
+                "38",
+                "920.0",
+                "Archived",
+                "Science",
+                "6/05/233"
+            ],
+            [
+                "Q_R_4402",
+                "N/A",
+                "55",
+                "780.2",
+                "Pending",
+                "Finance",
+                "/08/24"
+            ],
+            [
+                "S_T_1103",
+                "N_A",
+                "",
+                "N/A",
+                "Draft",
+                "Art",
+                "-/-/--"
+            ],
+            [
+                "U_W_5504",
+                "FFFF",
+                "",
+                "",
+                "Deleted",
+                "Music",
+                "--/--/--"
+            ],
+            [
+                "V_X_6605",
+                "GGGG",
+                "HHHH",
+                "IIII",
+                "JJJJ",
+                "KKKK",
+                "LLLL"
+            ],
+            [
+                "W_Y_7706",
+                "ZZZZ",
+                "YYYY",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

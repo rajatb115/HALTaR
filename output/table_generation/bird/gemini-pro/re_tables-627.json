@@ -1,0 +1,40 @@
+{
+    "table-627-627": {
+        "title": [
+            "Year",
+            "Total Votes"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "US Voting Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many votes were made in 2010?",
+        "data": [
+            [
+                "2008",
+                "131,073,780"
+            ],
+            [
+                "2010",
+                "90,448,450"
+            ],
+            [
+                "2012",
+                "129,129,181"
+            ],
+            [
+                "2014",
+                "83,083,751"
+            ],
+            [
+                "2016",
+                "136,669,276"
+            ]
+        ]
+    }
+}

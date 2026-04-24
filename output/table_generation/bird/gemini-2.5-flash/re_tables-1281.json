@@ -1,0 +1,85 @@
+{
+    "table-1281-1281": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Test Name",
+            "Result (U/L)",
+            "Normal Range Min (U/L)",
+            "Normal Range Max (U/L)",
+            "Result Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male patients have their glutamic oxaloacetic transaminase in the normal range?",
+        "data": [
+            [
+                "P001",
+                "Male",
+                "GOT",
+                "28",
+                "10",
+                "40",
+                "Normal"
+            ],
+            [
+                "P002",
+                "Female",
+                "GOT",
+                "35",
+                "10",
+                "40",
+                "Normal"
+            ],
+            [
+                "P003",
+                "Male",
+                "GOT",
+                "52",
+                "10",
+                "40",
+                "Elevated"
+            ],
+            [
+                "P004",
+                "Male",
+                "GOT",
+                "15",
+                "10",
+                "40",
+                "Normal"
+            ],
+            [
+                "P005",
+                "Female",
+                "GOT",
+                "8",
+                "10",
+                "40",
+                "Low"
+            ],
+            [
+                "P006",
+                "Male",
+                "GOT",
+                "39",
+                "10",
+                "40",
+                "Normal"
+            ],
+            [
+                "P007",
+                "Female",
+                "GOT",
+                "45",
+                "10",
+                "40",
+                "Elevated"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-162-162": {
+        "title": [
+            "Client ID",
+            "Credit Card Type"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Client Credit Card Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What type of credit card does the client with the id 13539 own?",
+        "data": [
+            [
+                "13539",
+                "Visa"
+            ],
+            [
+                "24680",
+                "Mastercard"
+            ],
+            [
+                "35791",
+                "American Express"
+            ],
+            [
+                "46802",
+                "Discover"
+            ],
+            [
+                "57913",
+                "Visa"
+            ]
+        ]
+    }
+}

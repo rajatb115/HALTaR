@@ -1,0 +1,77 @@
+{
+    "table-242-242": {
+        "title": [
+            "Molecule ID",
+            "Name",
+            "Carcinogen Status",
+            "Classification Source",
+            "Tested In Vitro",
+            "Verified By Lab"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the molecules are not carcinogenic?",
+        "data": [
+            [
+                "MOL-0042",
+                "Benzene Derivative X",
+                "Non-Carcinogenic",
+                "EPA IRIS",
+                "Yes",
+                "Lab Alpha"
+            ],
+            [
+                "mol_7731",
+                "Acetone Analog Y",
+                "Not Carcinogenic",
+                "OECD Guidelines",
+                "No",
+                "Lab Beta"
+            ],
+            [
+                "#MOL-992",
+                "Toluene Variant Z",
+                "Benign",
+                "FDA Database",
+                "Yes",
+                "null"
+            ],
+            [
+                "#mol-1102",
+                "Ethanol Substitute W",
+                "Safe for Consumption",
+                "NIOSH Registry",
+                "Yes",
+                ""
+            ],
+            [
+                "molecular_id_55",
+                "Propylene Glycol V",
+                "Non-Toxic",
+                "PubChem CID",
+                "True",
+                "Quality Control Dept"
+            ],
+            [
+                "chem_comp_88",
+                "Glycerine Form U",
+                "Harmless",
+                "WHO Monographs",
+                "False",
+                "External Reviewer"
+            ],
+            [
+                "substance_code_33",
+                "Sorbitol Isomer T",
+                "Low Risk",
+                "ATSDR Profile",
+                "Yes",
+                "R&D Team Gamma"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1183-1183": {
+        "title": [
+            "Patient ID",
+            "First Visit Date",
+            "Primary Diagnosis",
+            "Visit Year",
+            "Lab Test Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who first came to the hospital on 1991/6/13 who was diagnosed with SJS, what is the total number of his/her Laboratory tests in 1995?",
+        "data": [
+            [
+                "P001",
+                "1991-06-13",
+                "SJS",
+                "1995",
+                "12"
+            ],
+            [
+                "P001",
+                "1991-06-13",
+                "SJS",
+                "1994",
+                "8"
+            ],
+            [
+                "P001",
+                "1991-06-13",
+                "SJS",
+                "1996",
+                "15"
+            ],
+            [
+                "P002",
+                "1992-01-20",
+                "Pneumonia",
+                "1995",
+                "7"
+            ],
+            [
+                "P003",
+                "1990-11-05",
+                "Diabetes Type 2",
+                "1995",
+                "10"
+            ],
+            [
+                "P001",
+                "1991-06-13",
+                "SJS",
+                "1993",
+                "5"
+            ],
+            [
+                "P004",
+                "1993-03-10",
+                "Asthma",
+                "1995",
+                "4"
+            ]
+        ]
+    }
+}

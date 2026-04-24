@@ -1,0 +1,62 @@
+{
+    "table-1393-1393": {
+        "title": [
+            "Source Name",
+            "Fund Type",
+            "Amount (USD)",
+            "Date Received",
+            "Project/Campaign"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicate the top source of funds received in September 2019 based on their amount.",
+        "data": [
+            [
+                "Government Grant Program",
+                "Grant",
+                "500000",
+                "2019-09-15",
+                "Urban Development Initiative"
+            ],
+            [
+                "Private Investor Group X",
+                "Investment",
+                "350000",
+                "2019-09-28",
+                "Tech Startup Seed Round"
+            ],
+            [
+                "Annual Charity Gala",
+                "Donation",
+                "120000",
+                "2019-09-01",
+                "Community Outreach Fund"
+            ],
+            [
+                "Crowdfunding Campaign 'FutureTech'",
+                "Crowdfunding",
+                "85000",
+                "2019-09-20",
+                "New Product Development"
+            ],
+            [
+                "Corporate Sponsorship Y",
+                "Sponsorship",
+                "75000",
+                "2019-09-10",
+                "Annual Conference Support"
+            ],
+            [
+                "Individual Donor Z",
+                "Donation",
+                "25000",
+                "2019-09-05",
+                "General Operating Fund"
+            ]
+        ]
+    }
+}

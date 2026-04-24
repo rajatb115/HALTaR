@@ -1,0 +1,69 @@
+{
+    "table-125-125": {
+        "title": [
+            "Airline Name",
+            "Flight Number",
+            "Destination Airport",
+            "Departure Time",
+            "Aircraft Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airlines have a flight with source airport AHD?",
+        "data": [
+            [
+                "Delta Air Lines",
+                "DL 1234",
+                "LAX",
+                "08:30",
+                "Boeing 737-800"
+            ],
+            [
+                "United Airlines",
+                "UA 5678",
+                "SFO",
+                "10:15",
+                "Airbus A320"
+            ],
+            [
+                "American Airlines",
+                "AA 9012",
+                "DFW",
+                "12:45",
+                "Boeing 737 MAX 8"
+            ],
+            [
+                "Southwest Airlines",
+                "WN 3456",
+                "DEN",
+                "14:00",
+                "Boeing 737-700"
+            ],
+            [
+                "Alaska Airlines",
+                "AS 7890",
+                "SEA",
+                "16:30",
+                "Embraer 175"
+            ],
+            [
+                "Spirit Airlines",
+                "NK 1122",
+                "ORD",
+                "18:00",
+                "Airbus A321"
+            ],
+            [
+                "Frontier Airlines",
+                "F9 3344",
+                "ATL",
+                "20:15",
+                "Airbus A320neo"
+            ]
+        ]
+    }
+}

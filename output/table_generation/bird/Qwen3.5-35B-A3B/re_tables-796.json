@@ -1,0 +1,41 @@
+{
+    "table-796-796": {
+        "title": [
+            "Superhero Name",
+            "Alignment Category",
+            "Publisher",
+            "First Appearance Year",
+            "Power Level Score"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many superheroes have a neutral alignment?",
+        "data": [
+            [
+                "Batman",
+                "Neutral Good",
+                "DC Comics",
+                "476",
+                "High"
+            ],
+            [
+                "Superman",
+                "Lawful Good",
+                "Marvel Comics",
+                "-1",
+                "N/A"
+            ],
+            [
+                "Wonder Woman",
+                "Chaotic Good",
+                "Independent",
+                "0",
+                "Very High"
+            ]
+        ]
+    }
+}

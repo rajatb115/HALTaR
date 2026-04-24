@@ -1,0 +1,45 @@
+{
+    "table-1132-1132": {
+        "title": [
+            "Player Name",
+            "Position",
+            "Height (cm)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Italy National Football Team - Player Heights",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average heights of Italy players?",
+        "data": [
+            [
+                "Gianluigi Donnarumma",
+                "Goalkeeper",
+                "196"
+            ],
+            [
+                "Alessandro Bastoni",
+                "Defender",
+                "190"
+            ],
+            [
+                "Ciro Immobile",
+                "Forward",
+                "185"
+            ],
+            [
+                "Federico Chiesa",
+                "Forward",
+                "175"
+            ],
+            [
+                "Jorginho",
+                "Midfielder",
+                "180"
+            ]
+        ]
+    }
+}

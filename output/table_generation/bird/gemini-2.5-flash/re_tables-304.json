@@ -1,0 +1,85 @@
+{
+    "table-304-304": {
+        "title": [
+            "Compound ID",
+            "Chemical Name",
+            "Molecular Formula",
+            "Double Bonds",
+            "Carcinogenic",
+            "Molecular Weight (g/mol)",
+            "Hazard Class"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many double bonds does TR006 have and is it carcinogenic?",
+        "data": [
+            [
+                "TR006",
+                "Hexadiene-1,5",
+                "C6H10",
+                "2",
+                "No",
+                "82.14",
+                "Flammable"
+            ],
+            [
+                "TR007",
+                "Octene-1",
+                "C8H16",
+                "1",
+                "No",
+                "112.21",
+                "Flammable"
+            ],
+            [
+                "TR008",
+                "Benzene",
+                "C6H6",
+                "3",
+                "Yes",
+                "78.11",
+                "Carcinogen"
+            ],
+            [
+                "TR009",
+                "Butadiene",
+                "C4H6",
+                "2",
+                "Suspected",
+                "54.09",
+                "Flammable, Carcinogen"
+            ],
+            [
+                "TR010",
+                "Cyclohexane",
+                "C6H12",
+                "0",
+                "No",
+                "84.16",
+                "Flammable"
+            ],
+            [
+                "TR011",
+                "Styrene",
+                "C8H8",
+                "1",
+                "Suspected",
+                "104.15",
+                "Irritant, Suspected Carcinogen"
+            ],
+            [
+                "TR012",
+                "Isoprene",
+                "C5H8",
+                "2",
+                "No",
+                "68.12",
+                "Flammable"
+            ]
+        ]
+    }
+}

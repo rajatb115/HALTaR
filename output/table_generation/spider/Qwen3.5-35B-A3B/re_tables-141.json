@@ -1,0 +1,83 @@
+{
+    "table-141-141": {
+        "title": [
+            "Flight Number",
+            "Origin City",
+            "Destination Airport",
+            "Arrival Date",
+            "Status",
+            "Airline Code",
+            "Aircraft Type",
+            "Gate"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the flight numbers of flights arriving in Aberdeen.",
+        "data": [
+            [
+                "AB402",
+                "London Heathrow",
+                "Aberdeen Dyce",
+                "06/15/2023",
+                "On Time",
+                "BA",
+                "Airbus A320",
+                "D12"
+            ],
+            [
+                "AB405",
+                "Manchester",
+                "Aberdeen International",
+                "07/22/2024",
+                "Delayed",
+                "VS",
+                "Boeing 737",
+                "C05"
+            ],
+            [
+                "FR882",
+                "Dublin",
+                "Aberdeen",
+                "08/10/2024",
+                "Cancelled",
+                "FR",
+                "Boeing Max 8",
+                "E01"
+            ],
+            [
+                "UZ119",
+                "Oslo Gardermoen",
+                "Aberdeen Airport",
+                "09/05/2019",
+                "Scheduled",
+                "SK",
+                "Embraer 175",
+                "F03"
+            ],
+            [
+                "KL1204",
+                "Amsterdam Schiphol",
+                "Aberdeen Int'l",
+                "03/14/2025",
+                "Arrived",
+                "KLM",
+                "Dash 8 Q40",
+                "G09"
+            ],
+            [
+                "LH9022",
+                "Frankfurt Main",
+                "Aberdeen Regional",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-337-337": {
+        "title": [
+            "Student Name",
+            "Major",
+            "GPA",
+            "Enrollment Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Student Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What other details can you tell me about students in reverse alphabetical order?",
+        "data": [
+            [
+                "Zachary Smith",
+                "Biology",
+                "3.8",
+                "2022-08-20"
+            ],
+            [
+                "Wendy Williams",
+                "History",
+                "3.5",
+                "2023-01-15"
+            ],
+            [
+                "Thomas Miller",
+                "Computer Science",
+                "4.0",
+                "2022-08-20"
+            ],
+            [
+                "Sarah Johnson",
+                "English",
+                "3.9",
+                "2023-01-15"
+            ],
+            [
+                "Robert Brown",
+                "Mathematics",
+                "3.7",
+                "2022-08-20"
+            ]
+        ]
+    }
+}

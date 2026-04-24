@@ -1,0 +1,52 @@
+{
+    "table-80-80": {
+        "title": [
+            "Make",
+            "Model",
+            "Horsepower",
+            "Cylinders"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Car Models with 3 Cylinders",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum horsepower and the make of the car models with 3 cylinders?",
+        "data": [
+            [
+                "BMW",
+                "i3",
+                "170",
+                "3"
+            ],
+            [
+                "MINI",
+                "Cooper",
+                "134",
+                "3"
+            ],
+            [
+                "Ford",
+                "Fiesta",
+                "123",
+                "3"
+            ],
+            [
+                "Mitsuoka",
+                "Like",
+                "51",
+                "3"
+            ],
+            [
+                "Daihatsu",
+                "Cuore",
+                "58",
+                "3"
+            ]
+        ]
+    }
+}

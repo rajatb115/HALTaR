@@ -1,0 +1,69 @@
+{
+    "table-1263-1263": {
+        "title": [
+            "Patient ID",
+            "Complement 3 Level",
+            "ANA Pattern",
+            "ANA Titer",
+            "Exam Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal level of complement 3 have a P pattern observed in the sheet of ANA examination?",
+        "data": [
+            [
+                "P001",
+                "Normal",
+                "P",
+                "1:160",
+                "2023-01-15"
+            ],
+            [
+                "P002",
+                "Normal",
+                "Homogeneous",
+                "1:320",
+                "2023-02-01"
+            ],
+            [
+                "P003",
+                "Low",
+                "P",
+                "1:80",
+                "2023-03-10"
+            ],
+            [
+                "P004",
+                "Normal",
+                "Speckled",
+                "1:640",
+                "2023-04-05"
+            ],
+            [
+                "P005",
+                "Normal",
+                "P",
+                "1:80",
+                "2023-05-20"
+            ],
+            [
+                "P006",
+                "High",
+                "Nucleolar",
+                "1:40",
+                "2023-06-12"
+            ],
+            [
+                "P007",
+                "Normal",
+                "P",
+                "1:160",
+                "2023-07-01"
+            ]
+        ]
+    }
+}

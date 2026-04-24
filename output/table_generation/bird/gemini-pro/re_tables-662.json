@@ -1,0 +1,46 @@
+{
+    "table-662-662": {
+        "title": [
+            "User",
+            "Influence Score",
+            "Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Influential Users",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How old is the most influential user?",
+        "data": [
+            [
+                "User A",
+                "95",
+                "32"
+            ],
+            [
+                "User B",
+                "92",
+                "28"
+            ],
+            [
+                "User C",
+                "89",
+                "45"
+            ],
+            [
+                "User D",
+                "85",
+                "38"
+            ],
+            [
+                "User E",
+                "82",
+                "24"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-552-552": {
+        "title": [
+            "User",
+            "Badge Name",
+            "Date Awarded"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "User Badge Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many badges has the user csgillespie obtained?",
+        "data": [
+            [
+                "csgillespie",
+                "Editor",
+                "2023-03-15"
+            ],
+            [
+                "csgillespie",
+                "Reviewer",
+                "2023-04-20"
+            ],
+            [
+                "csgillespie",
+                "Helpful Answer",
+                "2023-05-10"
+            ],
+            [
+                "csgillespie",
+                "Active Contributor",
+                "2023-06-01"
+            ],
+            [
+                "csgillespie",
+                "Data Scientist",
+                "2023-07-05"
+            ]
+        ]
+    }
+}

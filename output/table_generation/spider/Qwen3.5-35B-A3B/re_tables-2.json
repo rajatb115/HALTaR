@@ -1,0 +1,63 @@
+{
+    "table-2-2": {
+        "title": [
+            "Singer Name",
+            "Country",
+            "Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 9,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names, countries, and ages for every singer in descending order of age?",
+        "data": [
+            [
+                "Adele",
+                "United Kingdom",
+                "46"
+            ],
+            [
+                "Taylor Swift",
+                "United States",
+                "37"
+            ],
+            [
+                "Beyonc\u00e9",
+                "United States",
+                "50"
+            ],
+            [
+                "Dua Lipa",
+                "Albania/United Kingdom",
+                "60"
+            ],
+            [
+                "Ed Sheeran",
+                "United Kingdom",
+                "55"
+            ],
+            [
+                "Lady Gaga",
+                "United States",
+                "70"
+            ],
+            [
+                "Rihanna",
+                "Barbados",
+                "80"
+            ],
+            [
+                "Billie Eilish",
+                "United States",
+                "90"
+            ],
+            [
+                "Harry Styles",
+                "United Kingdom",
+                ""
+            ]
+        ]
+    }
+}

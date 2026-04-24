@@ -1,0 +1,77 @@
+{
+    "table-54-54": {
+        "title": [
+            "School Name",
+            "Mailing City",
+            "Mailing State",
+            "Zip Code",
+            "Test Takers Count",
+            "Last Admin Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many test takers are there at the school/s whose mailing city address is in Fresno?",
+        "data": [
+            [
+                "Fresno High School",
+                "Fresno",
+                "CA",
+                "93701",
+                "450",
+                "2023-10-15"
+            ],
+            [
+                "Edison High School",
+                "Fresno",
+                "CA",
+                "93702",
+                "380",
+                "2023-11-01"
+            ],
+            [
+                "Roosevelt High School",
+                "Fresno",
+                "CA",
+                "93703",
+                "510",
+                "2023-09-20"
+            ],
+            [
+                "Central High School",
+                "Fresno",
+                "CA",
+                "93704",
+                "320",
+                "2023-10-28"
+            ],
+            [
+                "Clovis North High School",
+                "Clovis",
+                "CA",
+                "93611",
+                "600",
+                "2023-11-10"
+            ],
+            [
+                "Buchanan High School",
+                "Clovis",
+                "CA",
+                "93612",
+                "550",
+                "2023-09-05"
+            ],
+            [
+                "Sanger High School",
+                "Sanger",
+                "CA",
+                "93657",
+                "290",
+                "2023-10-22"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-855-855": {
+        "title": [
+            "Circuit Name",
+            "City",
+            "Country",
+            "Latitude",
+            "Longitude",
+            "Track Length (km)",
+            "First GP Year"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the location coordinates of the circuits for Australian grand prix?",
+        "data": [
+            [
+                "Albert Park Circuit",
+                "Melbourne",
+                "Australia",
+                "-37.8497",
+                "144.9683",
+                "5.303",
+                "1996"
+            ],
+            [
+                "Albert Park Circuit",
+                "Melbourne",
+                "Australia",
+                "-37.8497",
+                "144.9683",
+                "5.303",
+                "2022"
+            ],
+            [
+                "Adelaide Street Circuit",
+                "Adelaide",
+                "Australia",
+                "-34.9217",
+                "138.6000",
+                "3.780",
+                "1985"
+            ],
+            [
+                "Sydney Motorsport Park",
+                "Eastern Creek",
+                "Australia",
+                "-33.7750",
+                "150.8750",
+                "3.930",
+                "N/A"
+            ],
+            [
+                "Phillip Island Circuit",
+                "Phillip Island",
+                "Australia",
+                "-38.4900",
+                "145.2300",
+                "4.445",
+                "N/A"
+            ],
+            [
+                "Calder Park Raceway",
+                "Melbourne",
+                "Australia",
+                "-37.6400",
+                "144.7500",
+                "4.216",
+                "N/A"
+            ]
+        ]
+    }
+}

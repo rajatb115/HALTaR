@@ -1,0 +1,85 @@
+{
+    "table-602-602": {
+        "title": [
+            "OwnerLastName",
+            "DogName",
+            "AgeYears",
+            "Breed",
+            "City",
+            "RegistrationID"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the last name of the owner owning the youngest dog.",
+        "data": [
+            [
+                "Smith",
+                "Bella",
+                "4",
+                "Labrador Retriever",
+                "Austin",
+                "REG-1002"
+            ],
+            [
+                "Johnson",
+                "Max",
+                "6",
+                "German Shepherd",
+                "Denver",
+                "REG-A772"
+            ],
+            [
+                "Williams",
+                "Luna",
+                "3",
+                "Beagle",
+                "Seattle",
+                "REG-B991"
+            ],
+            [
+                "Brown",
+                "Charlie",
+                "5",
+                "Bulldog",
+                "Miami",
+                "REG-C445"
+            ],
+            [
+                "Davis",
+                "Daisy",
+                "7",
+                "Poodle",
+                "Boston",
+                "REG-D112"
+            ],
+            [
+                "Miller",
+                "Cooper",
+                "8",
+                "Boxer",
+                "Portland",
+                "REG-E334"
+            ],
+            [
+                "Wilson",
+                "Rocky",
+                "9",
+                "Rottweiler",
+                "Chicago",
+                "REG-F556"
+            ],
+            [
+                "Taylor",
+                "Molly",
+                "0",
+                "Chihuahua",
+                "Phoenix",
+                "REG-G889"
+            ]
+        ]
+    }
+}

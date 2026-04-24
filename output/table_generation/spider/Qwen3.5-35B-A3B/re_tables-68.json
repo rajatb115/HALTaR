@@ -1,0 +1,85 @@
+{
+    "table-68-68": {
+        "title": [
+            "Model Name",
+            "Manufacturer",
+            "Production Start Year",
+            "Body Style",
+            "Engine Size",
+            "Country Origin"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which distinct car models are the produced after 1980?",
+        "data": [
+            [
+                "Toyota Camry",
+                "Toyota",
+                "1982",
+                "Sedan",
+                "3.5L",
+                "Japan"
+            ],
+            [
+                "Ford Mustang",
+                "Ford Motor Company",
+                "1964",
+                "Coupe",
+                "6.2L",
+                "United States"
+            ],
+            [
+                "Honda Civic",
+                "Honda",
+                "1972",
+                "Hatchback",
+                "1.8L",
+                "Japan"
+            ],
+            [
+                "BMW 3 Series",
+                "BMW Group",
+                "1975",
+                "Wagon",
+                "3.0L",
+                "Germany"
+            ],
+            [
+                "Mercedes-Benz C-Class",
+                "Mercedes-Benz AG",
+                "1993",
+                "Convertible",
+                "1.5L",
+                "Germany"
+            ],
+            [
+                "Audi Q5",
+                "Audi AG",
+                "2008",
+                "SUV",
+                "2.0L",
+                "Germany"
+            ],
+            [
+                "Volkswagen Golf",
+                "Volkswagen",
+                "1974",
+                "Station Wagon",
+                "1.4L",
+                "Germany"
+            ],
+            [
+                "Subaru Outback",
+                "Subaru Corporation",
+                "1994",
+                "Wagon",
+                "2.5L",
+                "Japan"
+            ]
+        ]
+    }
+}

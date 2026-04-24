@@ -1,0 +1,52 @@
+{
+    "table-1258-1258": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "C-Reactive Protein Level",
+            "Abnormal CRP"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Patient Demographics with Abnormal C-Reactive Protein",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients whose C-reactive protein level is abnormal, how many of them aren't 18 yet?",
+        "data": [
+            [
+                "12345",
+                "15",
+                "15 mg/L",
+                "Yes"
+            ],
+            [
+                "67890",
+                "22",
+                "2 mg/L",
+                "No"
+            ],
+            [
+                "24680",
+                "17",
+                "12 mg/L",
+                "Yes"
+            ],
+            [
+                "13579",
+                "30",
+                "3 mg/L",
+                "No"
+            ],
+            [
+                "98765",
+                "16",
+                "18 mg/L",
+                "Yes"
+            ]
+        ]
+    }
+}

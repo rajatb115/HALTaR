@@ -1,0 +1,69 @@
+{
+    "table-540-540": {
+        "title": [
+            "Conductor Name",
+            "Years Active",
+            "Debut Year",
+            "Primary Orchestra",
+            "Nationality"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of the conductor with the most years of work.",
+        "data": [
+            [
+                "Herbert von Karajan",
+                "65",
+                "1929",
+                "Berlin Philharmonic",
+                "Austrian"
+            ],
+            [
+                "Leonard Bernstein",
+                "47",
+                "1943",
+                "New York Philharmonic",
+                "American"
+            ],
+            [
+                "Arturo Toscanini",
+                "68",
+                "1886",
+                "NBC Symphony Orchestra",
+                "Italian"
+            ],
+            [
+                "Georg Solti",
+                "60",
+                "1938",
+                "Chicago Symphony Orchestra",
+                "Hungarian-British"
+            ],
+            [
+                "Bernard Haitink",
+                "67",
+                "1954",
+                "Royal Concertgebouw Orchestra",
+                "Dutch"
+            ],
+            [
+                "Zubin Mehta",
+                "65",
+                "1958",
+                "Los Angeles Philharmonic",
+                "Indian"
+            ],
+            [
+                "Riccardo Muti",
+                "55",
+                "1967",
+                "Chicago Symphony Orchestra",
+                "Italian"
+            ]
+        ]
+    }
+}

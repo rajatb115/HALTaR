@@ -1,0 +1,77 @@
+{
+    "table-903-903": {
+        "title": [
+            "Driver",
+            "Race Event",
+            "Track Number",
+            "Position Finished",
+            "Season",
+            "Team"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which race was Alex Yoong in when he was in track number less than 10?",
+        "data": [
+            [
+                "Alex Yoong",
+                "Malaysian Grand Prix",
+                "4",
+                "N/A",
+                "36th",
+                "Minardi Cosworth"
+            ],
+            [
+                "Alex Yoong",
+                "Brazilian Grand Prix (Simulated)",
+                "7",
+                "N/D",
+                "52nd",
+                "Jordan Mugen-Honda"
+            ],
+            [
+                "Alex Yoong",
+                "Spanish Grand Prix Test",
+                "9",
+                "N/E",
+                "61st",
+                "Arrows Asiatech"
+            ],
+            [
+                "Ralf Schumacher",
+                "German Grand Prix Reference",
+                "8",
+                "P1",
+                "01st - Winner",
+                "Williams BMW"
+            ],
+            [
+                "Jenson Button",
+                "British Grand Prix Comparison",
+                "",
+                "P2",
+                "02nd Runner-up",
+                "BAR Honda"
+            ],
+            [
+                "David Coulthard",
+                "Monaco Grand Prix Context",
+                "",
+                "P3",
+                "03rd Podium",
+                "McLaren Mercedes"
+            ],
+            [
+                "Rubens Barrichello",
+                "Italian Grand Prix Note",
+                "",
+                "P4",
+                "04th Points Scorer",
+                "Ferrari Marlboro"
+            ]
+        ]
+    }
+}

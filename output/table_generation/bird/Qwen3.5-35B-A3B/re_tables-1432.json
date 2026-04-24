@@ -1,0 +1,85 @@
+{
+    "table-1432-1432": {
+        "title": [
+            "Last_Name",
+            "First_Name",
+            "Club_ID",
+            "Event_Attended",
+            "Attendance_Date",
+            "Status",
+            "Role"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the last name of the members of the club that attended the women's soccer event.",
+        "data": [
+            [
+                "Smith",
+                "Emily",
+                "CLB004",
+                "Women_s_Soccer_2023",
+                "7/15/2016",
+                "Confirmed",
+                "Player"
+            ],
+            [
+                "Johnson",
+                "Sarah",
+                "CLB005",
+                "Women_Soccer_Event",
+                "8/22/2106",
+                "Attended",
+                "Coach"
+            ],
+            [
+                "Williams",
+                "Jessica",
+                "CLB102",
+                "Womens_Soccer_Tournament",
+                "9/03/2306 Present",
+                "Active Member",
+                "Spectator"
+            ],
+            [
+                "Brown",
+                "Amanda",
+                "CLB203",
+                "Soccer_Women_Gala",
+                "6/11/2406 Registered",
+                "Participant",
+                "Volunteer"
+            ],
+            [
+                "Davis",
+                "Rachel",
+                "CLB304 Women_Soc_Match",
+                "5/30/2506 Checked_In",
+                "Team_Manager",
+                "N/A",
+                ""
+            ],
+            [
+                "Miller",
+                "Lisa",
+                "CLB405 Women_soccer_fest",
+                "4/12/1606 No_Show",
+                "Supporter",
+                "Assistant",
+                ""
+            ],
+            [
+                "Wilson",
+                "Karen",
+                "CLB501 WomenSoccer_Cup",
+                "3/08/1706 Abs",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

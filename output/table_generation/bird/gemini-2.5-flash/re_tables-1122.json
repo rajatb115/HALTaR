@@ -1,0 +1,69 @@
+{
+    "table-1122-1122": {
+        "title": [
+            "Match ID",
+            "Player Name",
+            "Player Age",
+            "Team Role",
+            "Goals Scored"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total home team goal scored by players whose age are 30 years old and below.",
+        "data": [
+            [
+                "101",
+                "Alex Smith",
+                "28",
+                "Home",
+                "1"
+            ],
+            [
+                "101",
+                "Ben Carter",
+                "32",
+                "Home",
+                "0"
+            ],
+            [
+                "102",
+                "Chris Evans",
+                "25",
+                "Away",
+                "1"
+            ],
+            [
+                "102",
+                "David Lee",
+                "29",
+                "Home",
+                "2"
+            ],
+            [
+                "103",
+                "Emily White",
+                "35",
+                "Home",
+                "1"
+            ],
+            [
+                "103",
+                "Frank Green",
+                "22",
+                "Away",
+                "0"
+            ],
+            [
+                "104",
+                "Grace Hall",
+                "27",
+                "Home",
+                "1"
+            ]
+        ]
+    }
+}

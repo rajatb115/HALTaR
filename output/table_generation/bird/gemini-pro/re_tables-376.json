@@ -1,0 +1,52 @@
+{
+    "table-376-376": {
+        "title": [
+            "Card ID",
+            "Card Name",
+            "Converted Mana Cost (CMC)",
+            "Card Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Magic: The Gathering Cards with CMC of 0",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down all the card IDs with converted mana cost of 0.",
+        "data": [
+            [
+                "1",
+                "Ornithopter",
+                "0",
+                "Artifact Creature"
+            ],
+            [
+                "2",
+                "Memnite",
+                "0",
+                "Artifact Creature"
+            ],
+            [
+                "3",
+                "Shield Sphere",
+                "0",
+                "Artifact Creature"
+            ],
+            [
+                "4",
+                "Mox Opal",
+                "0",
+                "Artifact"
+            ],
+            [
+                "5",
+                "Lotus Petal",
+                "0",
+                "Artifact"
+            ]
+        ]
+    }
+}

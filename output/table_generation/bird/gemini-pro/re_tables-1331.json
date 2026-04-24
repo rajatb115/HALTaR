@@ -1,0 +1,43 @@
+{
+    "table-1331-1331": {
+        "title": [
+            "Student Name",
+            "Major",
+            "College"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "College Major Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What college offers the major that Tyler Hewitt took?",
+        "data": [
+            [
+                "Tyler Hewitt",
+                "Computer Science",
+                "Massachusetts Institute of Technology"
+            ],
+            [
+                "Alice Smith",
+                "Biology",
+                "Stanford University"
+            ],
+            [
+                "Bob Johnson",
+                "Engineering",
+                "University of California, Berkeley"
+            ],
+            [
+                "Carol Davis",
+                "Psychology",
+                "Harvard University"
+            ],
+            [
+                "David Brown",
+                "Economics",
+                "University of Chicago"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-972-972": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Date of Birth",
+            "Reference Name"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Oldest German Race Car Drivers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please state the reference name of the oldest German driver.",
+        "data": [
+            [
+                "Hans Stuck",
+                "German",
+                "December 27, 1900",
+                "H. Stuck"
+            ],
+            [
+                "Rudolf Caracciola",
+                "German",
+                "January 30, 1901",
+                "R. Caracciola"
+            ],
+            [
+                "Manfred von Brauchitsch",
+                "German",
+                "August 15, 1905",
+                "M. von Brauchitsch"
+            ],
+            [
+                "Hermann Lang",
+                "German",
+                "April 6, 1909",
+                "H. Lang"
+            ],
+            [
+                "Karl Kling",
+                "German",
+                "September 16, 1910",
+                "K. Kling"
+            ]
+        ]
+    }
+}

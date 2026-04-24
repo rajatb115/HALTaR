@@ -1,0 +1,52 @@
+{
+    "table-1517-1517": {
+        "title": [
+            "Transaction ID",
+            "Timestamp",
+            "Currency",
+            "Amount"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "EUR Transactions on August 26, 2012 (Morning)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many transactions were paid in EUR in the morning of 2012/8/26?",
+        "data": [
+            [
+                "12345",
+                "2012-08-26 08:00:00",
+                "EUR",
+                "50.00"
+            ],
+            [
+                "67890",
+                "2012-08-26 09:15:00",
+                "EUR",
+                "25.50"
+            ],
+            [
+                "24680",
+                "2012-08-26 11:00:00",
+                "USD",
+                "100.00"
+            ],
+            [
+                "13579",
+                "2012-08-26 07:30:00",
+                "EUR",
+                "75.20"
+            ],
+            [
+                "98765",
+                "2012-08-26 10:45:00",
+                "EUR",
+                "12.80"
+            ]
+        ]
+    }
+}

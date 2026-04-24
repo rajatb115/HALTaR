@@ -1,0 +1,61 @@
+{
+    "table-537-537": {
+        "title": [
+            "User ID",
+            "Account Created",
+            "Total Views",
+            "User Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users with more than 10 views created their account after the year 2013?",
+        "data": [
+            [
+                "U001",
+                "2015",
+                "25",
+                "Active"
+            ],
+            [
+                "U002",
+                "2012",
+                "15",
+                "Inactive"
+            ],
+            [
+                "U003",
+                "2018",
+                "5",
+                "Active"
+            ],
+            [
+                "U004",
+                "2014",
+                "30",
+                "Premium"
+            ],
+            [
+                "U005",
+                "2016",
+                "12",
+                "Active"
+            ],
+            [
+                "U006",
+                "2010",
+                "50",
+                "Inactive"
+            ],
+            [
+                "U007",
+                "2019",
+                "8",
+                "Active"
+            ]
+        ]
+    }
+}

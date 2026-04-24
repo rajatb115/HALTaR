@@ -1,0 +1,51 @@
+{
+    "table-639-639": {
+        "title": [
+            "User ID",
+            "User Name",
+            "Badge Type",
+            "Date Earned"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Organizer Badge Holders",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the name of users that obtained the Organizer Badges.",
+        "data": [
+            [
+                "123",
+                "Alice Smith",
+                "Organizer",
+                "2023-01-15"
+            ],
+            [
+                "456",
+                "Bob Johnson",
+                "Organizer",
+                "2023-02-20"
+            ],
+            [
+                "789",
+                "Charlie Brown",
+                "Organizer",
+                "2023-03-10"
+            ],
+            [
+                "101",
+                "Diana Lee",
+                "Organizer",
+                "2023-04-05"
+            ],
+            [
+                "202",
+                "Eve Williams",
+                "Organizer",
+                "2023-05-12"
+            ]
+        ]
+    }
+}

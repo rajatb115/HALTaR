@@ -1,0 +1,53 @@
+{
+    "table-661-661": {
+        "title": [
+            "Post ID",
+            "Title",
+            "Value",
+            "Owner User ID"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2,
+            3
+        ],
+        "pgTitle": "Valuable Post Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the owner user id of the most valuable post?",
+        "data": [
+            [
+                "123",
+                "Guide to Quantum Physics",
+                "500",
+                "456"
+            ],
+            [
+                "456",
+                "Cooking with Spices",
+                "350",
+                "789"
+            ],
+            [
+                "789",
+                "Intro to Machine Learning",
+                "620",
+                "123"
+            ],
+            [
+                "101",
+                "History of Ancient Rome",
+                "480",
+                "456"
+            ],
+            [
+                "222",
+                "Advanced Calculus Techniques",
+                "580",
+                "987"
+            ]
+        ]
+    }
+}

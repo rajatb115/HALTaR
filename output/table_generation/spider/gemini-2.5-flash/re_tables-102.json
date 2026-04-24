@@ -1,0 +1,61 @@
+{
+    "table-102-102": {
+        "title": [
+            "Make/Model",
+            "Year",
+            "Cylinders",
+            "MPG"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum miles per gallon of the car with 8 cylinders or produced before 1980 ?",
+        "data": [
+            [
+                "Ford Mustang",
+                "1970",
+                "8",
+                "12.5"
+            ],
+            [
+                "Chevrolet Nova",
+                "1976",
+                "6",
+                "18.2"
+            ],
+            [
+                "Pontiac Firebird",
+                "1982",
+                "8",
+                "14.0"
+            ],
+            [
+                "Cadillac Eldorado",
+                "1968",
+                "8",
+                "10.1"
+            ],
+            [
+                "Honda Civic",
+                "1985",
+                "4",
+                "32.8"
+            ],
+            [
+                "Volkswagen Beetle",
+                "1973",
+                "4",
+                "26.5"
+            ],
+            [
+                "Dodge Charger",
+                "1972",
+                "8",
+                "11.8"
+            ]
+        ]
+    }
+}

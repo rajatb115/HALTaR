@@ -1,0 +1,61 @@
+{
+    "table-158-158": {
+        "title": [
+            "Account ID",
+            "District",
+            "Committed Crimes",
+            "Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the number of committed crimes in 1995 in the district of the account with the id 532?",
+        "data": [
+            [
+                "528",
+                "Northside",
+                "42",
+                "996"
+            ],
+            [
+                "530",
+                "Eastview",
+                "37",
+                "595"
+            ],
+            [
+                "531",
+                "Central",
+                "89",
+                "994"
+            ],
+            [
+                "533",
+                "Westgate",
+                "61",
+                "997"
+            ],
+            [
+                "1042",
+                "Harbor",
+                "29",
+                "988"
+            ],
+            [
+                "2105",
+                "Riverside",
+                "55",
+                "976"
+            ],
+            [
+                "",
+                "Unknown",
+                "N/A",
+                ""
+            ]
+        ]
+    }
+}

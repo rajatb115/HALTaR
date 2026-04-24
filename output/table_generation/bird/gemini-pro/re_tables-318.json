@@ -1,0 +1,49 @@
+{
+    "table-318-318": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Contains Chlorine (Cl)",
+            "Carcinogenic"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenic Molecules with Chlorine",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of carcinogenic molecules which contain the Chlorine element.",
+        "data": [
+            [
+                "Vinyl Chloride",
+                "C2H3Cl",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Chloroform",
+                "CHCl3",
+                "Yes",
+                "Possible"
+            ],
+            [
+                "Carbon Tetrachloride",
+                "CCl4",
+                "Yes",
+                "Possible"
+            ],
+            [
+                "Dichloromethane",
+                "CH2Cl2",
+                "Yes",
+                "Possible"
+            ],
+            [
+                "Benzene",
+                "C6H6",
+                "No",
+                "Yes"
+            ]
+        ]
+    }
+}

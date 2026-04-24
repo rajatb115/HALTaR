@@ -1,0 +1,61 @@
+{
+    "table-614-614": {
+        "title": [
+            "User ID",
+            "Location",
+            "Badge Name",
+            "Date Obtained"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the dates that users who are located in Rochester, NY obtained their badges?",
+        "data": [
+            [
+                "USR001",
+                "Rochester, NY",
+                "First Login",
+                "2023-01-15"
+            ],
+            [
+                "USR002",
+                "Rochester, NY",
+                "Profile Complete",
+                "2022-11-20"
+            ],
+            [
+                "USR003",
+                "Rochester, NY",
+                "Community Contributor",
+                "2023-03-10"
+            ],
+            [
+                "USR004",
+                "Rochester, NY",
+                "Top Learner",
+                "2023-02-28"
+            ],
+            [
+                "USR005",
+                "Rochester, NY",
+                "Event Attendee",
+                "2022-12-05"
+            ],
+            [
+                "USR006",
+                "Rochester, NY",
+                "Certified User",
+                "2023-04-01"
+            ],
+            [
+                "USR007",
+                "Rochester, NY",
+                "Mentor",
+                "2023-01-22"
+            ]
+        ]
+    }
+}

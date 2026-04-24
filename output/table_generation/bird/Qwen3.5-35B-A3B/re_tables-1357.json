@@ -1,0 +1,69 @@
+{
+    "table-1357-1357": {
+        "title": [
+            "Club Member",
+            "Role",
+            "Department",
+            "Tenure Start",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which department was the President of the club in?",
+        "data": [
+            [
+                "John Smith",
+                "President",
+                "Marketing",
+                "4/1/2021",
+                "Active"
+            ],
+            [
+                "Sarah Johnson",
+                "Vice-President",
+                "Engineering",
+                "6/15/2021",
+                "Active"
+            ],
+            [
+                "Michael Chen",
+                "Secretary",
+                "Finance",
+                "7/10/2020",
+                "Inactive"
+            ],
+            [
+                "Emily Davis",
+                "Treasurer",
+                "Human Resources",
+                "3/5/1922",
+                "Active"
+            ],
+            [
+                "Robert Wilson",
+                "Director",
+                "Operations",
+                "9/12/2323",
+                "N/A"
+            ],
+            [
+                "Lisa Brown",
+                "Advisor",
+                "Legal",
+                "5/30/1824",
+                "Retired"
+            ],
+            [
+                "David Lee",
+                "Coordinator",
+                "IT Support",
+                "8/14/2525",
+                "Pending"
+            ]
+        ]
+    }
+}

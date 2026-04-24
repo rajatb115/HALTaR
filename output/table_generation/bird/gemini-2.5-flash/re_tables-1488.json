@@ -1,0 +1,69 @@
+{
+    "table-1488-1488": {
+        "title": [
+            "Customer Name",
+            "Currency",
+            "Consumption (MWh)",
+            "Month",
+            "Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which LAM customer used the Euro as their currency and had the highest consumption in October 2013?",
+        "data": [
+            [
+                "EuroTech Solutions",
+                "Euro",
+                "2150",
+                "October",
+                "2013"
+            ],
+            [
+                "Global Corp",
+                "USD",
+                "1800",
+                "October",
+                "2013"
+            ],
+            [
+                "Alpine Logistics",
+                "Euro",
+                "1980",
+                "October",
+                "2013"
+            ],
+            [
+                "Nordic Innovations",
+                "GBP",
+                "1250",
+                "October",
+                "2013"
+            ],
+            [
+                "Mediterra Group",
+                "Euro",
+                "2050",
+                "September",
+                "2013"
+            ],
+            [
+                "Atlantic Ventures",
+                "Euro",
+                "1700",
+                "October",
+                "2013"
+            ],
+            [
+                "Continental Systems",
+                "USD",
+                "2200",
+                "November",
+                "2013"
+            ]
+        ]
+    }
+}

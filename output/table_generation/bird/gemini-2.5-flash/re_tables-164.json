@@ -1,0 +1,62 @@
+{
+    "table-164-164": {
+        "title": [
+            "District Name",
+            "Total Accounts",
+            "Finished Loans",
+            "Problem-Free Loans",
+            "Success Rate (%)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which district has the most accounts with loan contracts finished with no problems?",
+        "data": [
+            [
+                "Central City",
+                "15000",
+                "8000",
+                "7500",
+                "93.75"
+            ],
+            [
+                "Northwood",
+                "12000",
+                "7000",
+                "6800",
+                "97.14"
+            ],
+            [
+                "Eastside Borough",
+                "18000",
+                "9500",
+                "9200",
+                "96.84"
+            ],
+            [
+                "West End",
+                "10000",
+                "6000",
+                "5500",
+                "91.67"
+            ],
+            [
+                "Southbridge",
+                "13000",
+                "7200",
+                "6900",
+                "95.83"
+            ],
+            [
+                "Riverfront",
+                "9000",
+                "5000",
+                "4850",
+                "97.00"
+            ]
+        ]
+    }
+}

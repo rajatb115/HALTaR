@@ -1,0 +1,69 @@
+{
+    "table-80-80": {
+        "title": [
+            "County",
+            "School ID",
+            "Institution Name",
+            "Physical Building Status",
+            "Total Schools in Category"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Between San Diego and Santa Barbara, which county offers the most number of schools that does not offer physical building? Indicate the amount.",
+        "data": [
+            [
+                "San Diego",
+                "SD-4012",
+                "Horizon Virtual Academy",
+                "No",
+                "47"
+            ],
+            [
+                "Santa Barbara",
+                "SB-2205",
+                "Coastal Online Learning Center",
+                "No",
+                "32"
+            ],
+            [
+                "San Francisco",
+                "SF-1109",
+                "Bay Area Digital Institute",
+                "Yes",
+                "0"
+            ],
+            [
+                "Los Angeles",
+                "LA-5567",
+                "Metro E-Learning Hub",
+                "No",
+                "58"
+            ],
+            [
+                "Riverside",
+                "RV-3321",
+                "Desert Sky Distance Ed",
+                "No",
+                "51"
+            ],
+            [
+                "Ventura",
+                "VN-8890",
+                "Pacific Coast Cyber Charter",
+                "No",
+                "63"
+            ],
+            [
+                "Orange",
+                "OR-7742",
+                "Golden State Remote High",
+                "No",
+                "71"
+            ]
+        ]
+    }
+}

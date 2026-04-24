@@ -1,0 +1,69 @@
+{
+    "table-1214-1214": {
+        "title": [
+            "Patient ID",
+            "Date of Birth",
+            "ALP Level (U/L)",
+            "ALP Normal Min (U/L)",
+            "ALP Normal Max (U/L)",
+            "ALP Within Range"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the ID of the patient who is born on the April 1st, 1982. Is his/her alkaliphophatase (ALP) within normal range?",
+        "data": [
+            [
+                "P1001",
+                "1981-11-15",
+                "130",
+                "40",
+                "120",
+                "No"
+            ],
+            [
+                "P1002",
+                "1983-01-20",
+                "55",
+                "40",
+                "120",
+                "Yes"
+            ],
+            [
+                "P1003",
+                "1982-04-01",
+                "125",
+                "40",
+                "120",
+                "No"
+            ],
+            [
+                "P1004",
+                "1982-03-30",
+                "38",
+                "40",
+                "120",
+                "No"
+            ],
+            [
+                "P1005",
+                "1982-04-01",
+                "85",
+                "40",
+                "120",
+                "Yes"
+            ],
+            [
+                "P1006",
+                "1982-04-02",
+                "110",
+                "40",
+                "120",
+                "Yes"
+            ]
+        ]
+    }
+}

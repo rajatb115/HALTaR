@@ -1,0 +1,51 @@
+{
+    "table-1210-1210": {
+        "title": [
+            "Patient ID",
+            "Date of Birth",
+            "ALT Level",
+            "Diagnosis"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Diagnoses with Elevated ALT Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide the diagnosis of patients with ALT glutamic pylvic transaminase beyond the normal range by ascending order of their date of birth.",
+        "data": [
+            [
+                "12345",
+                "1955-03-15",
+                "85 U/L",
+                "Nonalcoholic Fatty Liver Disease"
+            ],
+            [
+                "67890",
+                "1962-07-22",
+                "92 U/L",
+                "Hepatitis B"
+            ],
+            [
+                "24680",
+                "1970-11-01",
+                "78 U/L",
+                "Medication-Induced Liver Injury"
+            ],
+            [
+                "13579",
+                "1978-04-08",
+                "110 U/L",
+                "Alcoholic Liver Disease"
+            ],
+            [
+                "98765",
+                "1985-09-10",
+                "60 U/L",
+                "Acute Viral Hepatitis"
+            ]
+        ]
+    }
+}

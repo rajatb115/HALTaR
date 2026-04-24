@@ -1,0 +1,53 @@
+{
+    "table-50-50": {
+        "title": [
+            "County",
+            "School Name",
+            "Closure Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which different county has the most number of closed schools? Please provide the name of each school as well as the closure date.",
+        "data": [
+            [
+                "Green County",
+                "Green Valley Elementary",
+                "2010-06-30"
+            ],
+            [
+                "Green County",
+                "Northwood High School",
+                "2015-07-15"
+            ],
+            [
+                "Green County",
+                "Riverside Middle School",
+                "2008-08-01"
+            ],
+            [
+                "Blue County",
+                "Blue Lake Academy",
+                "2012-05-20"
+            ],
+            [
+                "Blue County",
+                "Westside Primary",
+                "2018-06-01"
+            ],
+            [
+                "Red County",
+                "Red Oak High School",
+                "2005-07-01"
+            ],
+            [
+                "Yellow County",
+                "Sunnydale Elementary",
+                "2011-06-15"
+            ]
+        ]
+    }
+}

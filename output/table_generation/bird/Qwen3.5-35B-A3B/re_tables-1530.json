@@ -1,0 +1,67 @@
+{
+    "table-1530-1530": {
+        "title": [
+            "Customer ID",
+            "Merchant Category",
+            "Transaction Date",
+            "Amount Spent ($)",
+            "Payment Method",
+            "Status",
+            "Location Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the amount spent by customer \"38508\" at the gas stations? How much had the customer spent in January 2012?",
+        "data": [
+            [
+                "38490",
+                "Gas Station",
+                "01/05/2022",
+                "45.20",
+                "Credit Card",
+                "Completed",
+                "GSN-01"
+            ],
+            [
+                "38508",
+                "Gas Station",
+                "01/15/2012",
+                "67.50",
+                "Debit Card",
+                "Completed",
+                "GS-02"
+            ],
+            [
+                "38509",
+                "Gas Station",
+                "01/22/2012",
+                "52.10",
+                "Cash",
+                "Completed",
+                "GS-03"
+            ],
+            [
+                "38510",
+                "Gas Station",
+                "01/03/2012",
+                "58.90",
+                "Credit Card",
+                "Completed",
+                "GS-04"
+            ],
+            [
+                "38520",
+                "Gas Station",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

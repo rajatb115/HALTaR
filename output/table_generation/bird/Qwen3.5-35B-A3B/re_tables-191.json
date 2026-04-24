@@ -1,0 +1,85 @@
+{
+    "table-191-191": {
+        "title": [
+            "Client ID",
+            "Birth Year",
+            "Region",
+            "Status",
+            "Last Known Address",
+            "Contact Method",
+            "Active Case"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many clients who were born in 1920 stay in east Bohemia?",
+        "data": [
+            [
+                "C-4021",
+                "67",
+                "East Bohemia",
+                "Resident",
+                "N\u00e1chod Street 12",
+                "Email",
+                "Yes"
+            ],
+            [
+                "C-A892",
+                "72",
+                "East Hradec Kr\u00e1lov\u00e9 District",
+                "Retired",
+                "Palack\u00e9ho Avenue 5",
+                "Phone",
+                "No"
+            ],
+            [
+                "B-1103",
+                "58",
+                "Pardubice County",
+                "Inactive",
+                "Smetana Road 88",
+                "Mail",
+                "Pending"
+            ],
+            [
+                "D-3345",
+                "81",
+                "Trutnov Area",
+                "Deceased",
+                "R\u016f\u017eov\u00e1 Lane 3",
+                "None",
+                "Closed"
+            ],
+            [
+                "E-9921",
+                "63",
+                "Chrudim Subregion",
+                "Probationary",
+                "Lidick\u00e1 14",
+                "SMS",
+                "Open"
+            ],
+            [
+                "F-2210",
+                "45",
+                "\u00dast\u00ed nad Orlic\u00ed Zone",
+                "Displaced",
+                "Masarykova 22",
+                "Portal",
+                "Reviewing"
+            ],
+            [
+                "G-7754",
+                "90",
+                "Vysok\u00e9 M\u00fdto Sector",
+                "Voluntary",
+                "Komensk\u00e9ho 7",
+                "Letter",
+                ""
+            ]
+        ]
+    }
+}

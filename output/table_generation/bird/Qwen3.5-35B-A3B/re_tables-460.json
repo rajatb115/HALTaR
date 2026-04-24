@@ -1,0 +1,45 @@
+{
+    "table-460-460": {
+        "title": [
+            "Card Name",
+            "Converted Mana Cost",
+            "Rarity",
+            "Set Code",
+            "Color Identity",
+            "Price Estimate USD"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which card costs more converted mana, \"Serra Angel\" or \"Shrine Keeper\"?",
+        "data": [
+            [
+                "Serra Angel",
+                "4",
+                "Rare",
+                "M19",
+                "White/Green",
+                "$12.50"
+            ],
+            [
+                "Mesa Enchantress",
+                "3",
+                "Uncommon",
+                "M20",
+                "Blue/White",
+                "$0.75"
+            ],
+            [
+                "Runechanter's Pike",
+                "6",
+                "Mythic",
+                "KLD",
+                "Red/Blue",
+                "$45.00"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-496-496": {
+        "title": [
+            "Country Code",
+            "Country Name",
+            "Primary Language",
+            "Government Form",
+            "Region",
+            "Population Estimate"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the codes of the countries that do not speak English and whose government forms are not Republic?",
+        "data": [
+            [
+                "SAU",
+                "Saudi Arabia",
+                "Arabic",
+                "Absolute Monarchy",
+                "Middle East",
+                "36 million"
+            ],
+            [
+                "QAT",
+                "Qatar",
+                "Arabic",
+                "Constitutional Monarchy",
+                "Middle East",
+                "2.9 million"
+            ],
+            [
+                "OMN",
+                "Oman",
+                "Arabic",
+                "Sultanate",
+                "Middle East",
+                "4.7 million"
+            ],
+            [
+                "BRN",
+                "Brunei",
+                "Malay",
+                "Islamic Monarchy",
+                "Southeast Asia",
+                "0.4 million"
+            ],
+            [
+                "LIE",
+                "Liechtenstein",
+                "German",
+                "Principality",
+                "Europe",
+                "80k"
+            ],
+            [
+                "MCO",
+                "Monaco",
+                "French",
+                "Principality",
+                "Europe",
+                "39k"
+            ],
+            [
+                "VUT",
+                "Vanuatu",
+                "Bislama",
+                "Constitutional Republic",
+                "Oceania",
+                "50k"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1434-1434": {
+        "title": [
+            "Country",
+            "Postal Code Type",
+            "PO Box System",
+            "Example PO Box Address",
+            "Notes"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which countries have zip codes with post office boxes?",
+        "data": [
+            [
+                "United States",
+                "Numeric (ZIP Code)",
+                "Integrated",
+                "PO Box 1234, Anytown, CA 90210",
+                "ZIP+4 often used for specific PO Box ranges"
+            ],
+            [
+                "Canada",
+                "Alphanumeric",
+                "Integrated",
+                "PO Box 5678, Toronto, ON M5V 1A1",
+                "Some post offices have dedicated PO Box postal codes"
+            ],
+            [
+                "United Kingdom",
+                "Alphanumeric",
+                "Dedicated Service",
+                "PO Box 9000, London, SW1A 0AA",
+                "PO Boxes often have unique postal codes"
+            ],
+            [
+                "Australia",
+                "Numeric",
+                "Integrated",
+                "PO Box 100, Sydney, NSW 2001",
+                "PO Boxes are common and use standard postcodes"
+            ],
+            [
+                "Germany",
+                "Numeric (PLZ)",
+                "Dedicated Service",
+                "Postfach 1234, 10117 Berlin",
+                "\"Postfach\" (PO Box) system is widely used"
+            ],
+            [
+                "India",
+                "Numeric (PIN Code)",
+                "Integrated",
+                "PO Box 500, New Delhi, 110001",
+                "PO Boxes are available at most post offices"
+            ],
+            [
+                "South Africa",
+                "Numeric",
+                "Integrated",
+                "PO Box 789, Cape Town, 8000",
+                "PO Boxes are a very common form of mail delivery"
+            ]
+        ]
+    }
+}

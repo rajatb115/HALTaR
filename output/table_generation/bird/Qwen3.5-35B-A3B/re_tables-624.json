@@ -1,0 +1,69 @@
+{
+    "table-624-624": {
+        "title": [
+            "Elder ID",
+            "Badge Status",
+            "Date Awarded",
+            "Region",
+            "Total Points",
+            "Verification Source"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many elders obtained the \"Supporter\" badge?",
+        "data": [
+            [
+                "Elder_402",
+                "Supporter",
+                "7/15/2023",
+                "North America",
+                "500",
+                "System Log"
+            ],
+            [
+                "Elders_415",
+                "Support",
+                "N/A",
+                "Europe",
+                "450",
+                "Manual Review"
+            ],
+            [
+                "Elds_429",
+                "Supportive",
+                "8/22/2323",
+                "Asia Pacific",
+                "600",
+                "Community Report"
+            ],
+            [
+                "Eldr_433",
+                "Support Level 1",
+                "9/10/24",
+                "South America",
+                "N/A",
+                "Internal DB"
+            ],
+            [
+                "Elde_441",
+                "Active Supporter 10",
+                "01/05/02",
+                "Africa",
+                "300",
+                "Audit Trail"
+            ],
+            [
+                "Eler_455",
+                "Pending Support",
+                "",
+                "Oceania",
+                "N/A",
+                "Data Sync Error"
+            ]
+        ]
+    }
+}

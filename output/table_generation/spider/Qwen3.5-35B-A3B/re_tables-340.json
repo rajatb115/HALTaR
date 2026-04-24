@@ -1,0 +1,85 @@
+{
+    "table-340-340": {
+        "title": [
+            "First_Name",
+            "Country",
+            "Cell_Phone_Number",
+            "Status",
+            "Enrollment_Year",
+            "Major",
+            "GPA"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name of the students who permanently live in the country Haiti or have the cell phone number 09700166582 .",
+        "data": [
+            [
+                "Jean",
+                "Haiti",
+                "N/A",
+                "Permanent Resident",
+                "4",
+                "Computer Science",
+                "3.8"
+            ],
+            [
+                "Marie",
+                "Dominican Republic",
+                "0123456789",
+                "Temporary Visitor",
+                "5",
+                "Biology",
+                "9.2"
+            ],
+            [
+                "Pierre",
+                "Haiti",
+                "888777666",
+                "Permanent Residency",
+                "6",
+                "Engineering",
+                "7.5"
+            ],
+            [
+                "Sophie",
+                "France",
+                "0233344455",
+                "Exchange Student",
+                "",
+                "Mathematics",
+                "3"
+            ],
+            [
+                "Lucas",
+                "Canada",
+                "N/A",
+                "International Scholar",
+                "",
+                "Physics",
+                ""
+            ],
+            [
+                "Claire",
+                "USA",
+                "0970016658",
+                "Visa Holder",
+                "",
+                "Chemistry",
+                ""
+            ],
+            [
+                "Antoine",
+                "Brazil",
+                "None",
+                "Transfer Student",
+                "",
+                "History",
+                ""
+            ]
+        ]
+    }
+}

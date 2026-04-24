@@ -1,0 +1,53 @@
+{
+    "table-399-399": {
+        "title": [
+            "Player ID",
+            "Player Name",
+            "Earnings",
+            "Final Tables"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2,
+            3
+        ],
+        "pgTitle": "Poker Player Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the maximum final tables made across all poker players who have earnings below 200000.",
+        "data": [
+            [
+                "123",
+                "Alice Smith",
+                "150000",
+                "5"
+            ],
+            [
+                "456",
+                "Bob Johnson",
+                "180000",
+                "3"
+            ],
+            [
+                "789",
+                "Carol Williams",
+                "190000",
+                "7"
+            ],
+            [
+                "101",
+                "David Brown",
+                "120000",
+                "2"
+            ],
+            [
+                "112",
+                "Eve Davis",
+                "160000",
+                "4"
+            ]
+        ]
+    }
+}

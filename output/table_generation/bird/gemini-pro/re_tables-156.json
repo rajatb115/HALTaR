@@ -1,0 +1,46 @@
+{
+    "table-156-156": {
+        "title": [
+            "Card Type",
+            "Year",
+            "Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Card Issuance Statistics by Card Type and Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many percent of 'Gold' cards were issued prior to 1998?",
+        "data": [
+            [
+                "Gold",
+                "1996",
+                "125"
+            ],
+            [
+                "Gold",
+                "1997",
+                "150"
+            ],
+            [
+                "Gold",
+                "1998",
+                "175"
+            ],
+            [
+                "Gold",
+                "1999",
+                "200"
+            ],
+            [
+                "Gold",
+                "2000",
+                "225"
+            ]
+        ]
+    }
+}

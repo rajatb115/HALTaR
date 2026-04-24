@@ -1,0 +1,37 @@
+{
+    "table-1454-1454": {
+        "title": [
+            "Event Name",
+            "Parking Cost"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Event Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of events with less than average parking cost.",
+        "data": [
+            [
+                "Concert A",
+                "$10"
+            ],
+            [
+                "Festival B",
+                "$12"
+            ],
+            [
+                "Conference C",
+                "$8"
+            ],
+            [
+                "Sports Game D",
+                "$15"
+            ],
+            [
+                "Theater E",
+                "$9"
+            ]
+        ]
+    }
+}

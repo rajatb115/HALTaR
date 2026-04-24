@@ -1,0 +1,77 @@
+{
+    "table-1403-1403": {
+        "title": [
+            "Member ID",
+            "T-Shirt Size",
+            "Order Date",
+            "Quantity Ordered",
+            "Club Branch",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the most popular size of t-shirt ordered by the club members?",
+        "data": [
+            [
+                "M1042",
+                "Large",
+                "06/12/2023",
+                "3",
+                "North Division",
+                "Completed"
+            ],
+            [
+                "M2195",
+                "Medium",
+                "07/15/2023",
+                "2",
+                "South Division",
+                "Pending"
+            ],
+            [
+                "M3088",
+                "Small",
+                "08/01/2024",
+                "1",
+                "East Division",
+                "Shipped"
+            ],
+            [
+                "M4122",
+                "Extra-Large",
+                "09/10/2022",
+                "5",
+                "West Division",
+                "Cancelled"
+            ],
+            [
+                "M5501",
+                "Large",
+                "10/05/2005",
+                "2",
+                "Central Division",
+                "Processing"
+            ],
+            [
+                "M6734",
+                "Medium",
+                "11/11/2023",
+                "N/A",
+                "North Division",
+                "Returned"
+            ],
+            [
+                "M7890",
+                "X-Small",
+                "12/01/2004",
+                "4",
+                "South Division",
+                "Delivered"
+            ]
+        ]
+    }
+}

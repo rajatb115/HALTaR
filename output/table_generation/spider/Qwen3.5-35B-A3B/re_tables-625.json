@@ -1,0 +1,76 @@
+{
+    "table-625-625": {
+        "title": [
+            "Charge_Type",
+            "Amount_Currency",
+            "Amount_Value",
+            "Transaction_ID",
+            "Date_Charged",
+            "Status",
+            "Description"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List each charge type and its amount.",
+        "data": [
+            [
+                "Service_Fee",
+                "USD",
+                "45.00",
+                "TXN_100234",
+                "06/15/2024",
+                "Completed",
+                "Monthly maintenance fee"
+            ],
+            [
+                "Rental_Payment",
+                "EUR",
+                "850.75",
+                "TX_N102299",
+                "6/28/24",
+                "Pending",
+                "Apartment rent for June"
+            ],
+            [
+                "Interest_Charge",
+                "GBP",
+                "32.50",
+                "INT_554321",
+                "7/01/23",
+                "Applied",
+                "Late payment interest on invoice #992"
+            ],
+            [
+                "Shipping_Cost",
+                "CAD",
+                "55.20",
+                "SHP_7788990",
+                "9/12/22",
+                "Delivered",
+                "Express delivery surcharge"
+            ],
+            [
+                "Subscription_Annual",
+                "JPY",
+                "120,000.0",
+                "SUB_JPN_009",
+                "Jan 1, 23 Active Annual software license renewal",
+                "",
+                ""
+            ],
+            [
+                "Refund_Processed",
+                "AUD",
+                "-125.55",
+                "REF_AUD",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "table-706-706": {
+        "title": [
+            "User",
+            "Reputation",
+            "Upvotes",
+            "Comment"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "User Reputation and Upvote Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the user's reputation and up vote number of the user that commented \"fine, you win :)\".",
+        "data": [
+            [
+                "UserA",
+                "125",
+                "32",
+                "fine, you win :)"
+            ],
+            [
+                "UserB",
+                "50",
+                "10",
+                "Okay"
+            ],
+            [
+                "UserC",
+                "230",
+                "15",
+                "Great"
+            ],
+            [
+                "UserD",
+                "10",
+                "2",
+                "Bad"
+            ],
+            [
+                "UserE",
+                "500",
+                "100",
+                "fine, you win :)"
+            ]
+        ]
+    }
+}

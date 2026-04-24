@@ -1,0 +1,39 @@
+{
+    "table-1129-1129": {
+        "title": [
+            "Country",
+            "Average Weight (kg)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Average Weights of Players by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country's players have the heaviest average weights?",
+        "data": [
+            [
+                "Tonga",
+                "115"
+            ],
+            [
+                "Samoa",
+                "114"
+            ],
+            [
+                "Georgia",
+                "112"
+            ],
+            [
+                "New Zealand",
+                "111"
+            ],
+            [
+                "Australia",
+                "110"
+            ]
+        ]
+    }
+}

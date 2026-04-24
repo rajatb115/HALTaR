@@ -1,0 +1,46 @@
+{
+    "table-163-163": {
+        "title": [
+            "District ID",
+            "Number of Shops Selling < 3000 Products",
+            "Number of Shops Selling > 10000 Products"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "District-Based Product Inventory Overview",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the districts in which there are both shops selling less than 3000 products and shops selling more than 10000 products.",
+        "data": [
+            [
+                "District A",
+                "5",
+                "2"
+            ],
+            [
+                "District B",
+                "2",
+                "1"
+            ],
+            [
+                "District C",
+                "8",
+                "3"
+            ],
+            [
+                "District D",
+                "1",
+                "0"
+            ],
+            [
+                "District E",
+                "3",
+                "2"
+            ]
+        ]
+    }
+}

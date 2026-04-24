@@ -1,0 +1,77 @@
+{
+    "table-166-166": {
+        "title": [
+            "Transaction ID",
+            "Account ID",
+            "District ID",
+            "Transaction Type",
+            "Amount",
+            "Transaction Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list all the transactions made by accounts from district 5.",
+        "data": [
+            [
+                "T98765",
+                "A5001",
+                "5",
+                "Withdrawal",
+                "150.00",
+                "2023-10-26"
+            ],
+            [
+                "T98766",
+                "A5002",
+                "5",
+                "Deposit",
+                "500.00",
+                "2023-10-26"
+            ],
+            [
+                "T98767",
+                "A5003",
+                "5",
+                "Transfer",
+                "75.50",
+                "2023-10-25"
+            ],
+            [
+                "T98768",
+                "A5001",
+                "5",
+                "Payment",
+                "1200.00",
+                "2023-10-25"
+            ],
+            [
+                "T98769",
+                "A5004",
+                "5",
+                "Withdrawal",
+                "300.00",
+                "2023-10-24"
+            ],
+            [
+                "T98770",
+                "A5002",
+                "5",
+                "Deposit",
+                "250.00",
+                "2023-10-24"
+            ],
+            [
+                "T98771",
+                "A5003",
+                "5",
+                "Transfer",
+                "100.00",
+                "2023-10-23"
+            ]
+        ]
+    }
+}

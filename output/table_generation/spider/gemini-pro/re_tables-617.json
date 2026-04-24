@@ -1,0 +1,43 @@
+{
+    "table-617-617": {
+        "title": [
+            "Treatment",
+            "Date Performed",
+            "Cost"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Recent Treatment Costs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show me the cost of the most recently performed treatment.",
+        "data": [
+            [
+                "Root Canal",
+                "2024-01-26",
+                "$1,200"
+            ],
+            [
+                "Cleaning",
+                "2024-01-26",
+                "$200"
+            ],
+            [
+                "Filling",
+                "2024-01-25",
+                "$300"
+            ],
+            [
+                "Crown",
+                "2024-01-24",
+                "$1,500"
+            ],
+            [
+                "Extraction",
+                "2024-01-23",
+                "$400"
+            ]
+        ]
+    }
+}

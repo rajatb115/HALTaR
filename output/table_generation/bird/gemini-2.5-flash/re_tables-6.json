@@ -1,0 +1,69 @@
+{
+    "table-6-6": {
+        "title": [
+            "School Name",
+            "Avg SAT Math Score",
+            "Virtual Status",
+            "Student Enrollment",
+            "Location"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many schools with an average score in Math under 400 in the SAT test are exclusively virtual?",
+        "data": [
+            [
+                "Virtual Academy East",
+                "385",
+                "Exclusively Virtual",
+                "1200",
+                "New York"
+            ],
+            [
+                "Online Learning Hub",
+                "392",
+                "Exclusively Virtual",
+                "950",
+                "California"
+            ],
+            [
+                "Tech Prep Institute",
+                "410",
+                "Hybrid",
+                "1500",
+                "Texas"
+            ],
+            [
+                "Global Digital School",
+                "370",
+                "Exclusively Virtual",
+                "800",
+                "Florida"
+            ],
+            [
+                "Community High School",
+                "450",
+                "In-Person",
+                "2000",
+                "Illinois"
+            ],
+            [
+                "Virtual Success Center",
+                "395",
+                "Exclusively Virtual",
+                "1100",
+                "Ohio"
+            ],
+            [
+                "Pioneer Online Academy",
+                "405",
+                "Exclusively Virtual",
+                "700",
+                "Colorado"
+            ]
+        ]
+    }
+}

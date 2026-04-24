@@ -1,0 +1,53 @@
+{
+    "table-282-282": {
+        "title": [
+            "Battle Name",
+            "Date",
+            "Outcome"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name, date and result of each battle.",
+        "data": [
+            [
+                "Battle of Hastings",
+                "1066-10-14",
+                "Norman Victory"
+            ],
+            [
+                "Battle of Gettysburg",
+                "1863-07-03",
+                "Union Victory"
+            ],
+            [
+                "Battle of Thermopylae",
+                "480 BC-08-19",
+                "Persian Victory"
+            ],
+            [
+                "Battle of Waterloo",
+                "1815-06-18",
+                "Coalition Victory"
+            ],
+            [
+                "Battle of Stalingrad",
+                "1943-02-02",
+                "Soviet Victory"
+            ],
+            [
+                "Battle of Midway",
+                "1942-06-07",
+                "Allied Victory"
+            ],
+            [
+                "Battle of Cannae",
+                "216 BC-08-02",
+                "Carthaginian Victory"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-1053-1053": {
+        "title": [
+            "Player ID",
+            "Weight (lbs)",
+            "Preferred Foot (Attacking)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Player Attributes Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all the players whose weight is under 130, how many of them preferred foot in attacking is left?",
+        "data": [
+            [
+                "101",
+                "125",
+                "Left"
+            ],
+            [
+                "112",
+                "128",
+                "Right"
+            ],
+            [
+                "134",
+                "122",
+                "Left"
+            ],
+            [
+                "145",
+                "129",
+                "Left"
+            ],
+            [
+                "167",
+                "120",
+                "Right"
+            ]
+        ]
+    }
+}

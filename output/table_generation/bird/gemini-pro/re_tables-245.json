@@ -1,0 +1,45 @@
+{
+    "table-245-245": {
+        "title": [
+            "Molecule Name",
+            "Number of Double Bonds",
+            "Carcinogenic"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Molecular Carcinogenicity and Double Bond Count",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Is the molecule with the most double bonds carcinogenic?",
+        "data": [
+            [
+                "Benzene",
+                "3",
+                "Yes"
+            ],
+            [
+                "Formaldehyde",
+                "1",
+                "Yes"
+            ],
+            [
+                "Ethylene",
+                "1",
+                "No"
+            ],
+            [
+                "Benzo[a]pyrene",
+                "5",
+                "Yes"
+            ],
+            [
+                "Acrylamide",
+                "1",
+                "Yes"
+            ]
+        ]
+    }
+}

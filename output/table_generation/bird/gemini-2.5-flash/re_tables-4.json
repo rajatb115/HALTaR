@@ -1,0 +1,77 @@
+{
+    "table-4-4": {
+        "title": [
+            "School Name",
+            "FRPM Count",
+            "Street Address",
+            "City",
+            "State",
+            "Zip Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the unabbreviated mailing address of the school with the highest FRPM count for K-12 students?",
+        "data": [
+            [
+                "Northwood Elementary School",
+                "875",
+                "123 Oak Avenue",
+                "Springfield",
+                "IL",
+                "62704"
+            ],
+            [
+                "Central High School",
+                "1420",
+                "456 Main Street",
+                "Riverdale",
+                "CA",
+                "90210"
+            ],
+            [
+                "Westside Middle School",
+                "610",
+                "789 Pine Lane",
+                "Lakeside",
+                "TX",
+                "78701"
+            ],
+            [
+                "Eastview Academy",
+                "1150",
+                "101 Elm Road",
+                "Greenfield",
+                "NY",
+                "10001"
+            ],
+            [
+                "Summit Ridge K-12",
+                "930",
+                "202 Mountain View Drive",
+                "Boulder",
+                "CO",
+                "80302"
+            ],
+            [
+                "Harborfront Charter School",
+                "780",
+                "303 Ocean Boulevard",
+                "Seaview",
+                "FL",
+                "33101"
+            ],
+            [
+                "Evergreen Preparatory",
+                "1350",
+                "404 Forest Way",
+                "Maplewood",
+                "OR",
+                "97204"
+            ]
+        ]
+    }
+}

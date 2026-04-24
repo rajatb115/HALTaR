@@ -1,0 +1,77 @@
+{
+    "table-610-610": {
+        "title": [
+            "Post ID",
+            "Title",
+            "Score",
+            "Author",
+            "Category",
+            "Views"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts have a score of 10 on the list?",
+        "data": [
+            [
+                "101",
+                "Understanding Data Analytics",
+                "12",
+                "Alice Smith",
+                "Data Science",
+                "1500"
+            ],
+            [
+                "102",
+                "Markdown Table Formatting Guide",
+                "10",
+                "Bob Johnson",
+                "Programming",
+                "2300"
+            ],
+            [
+                "103",
+                "The Future of AI",
+                "8",
+                "Charlie Brown",
+                "Artificial Intelligence",
+                "980"
+            ],
+            [
+                "104",
+                "SQL Best Practices",
+                "10",
+                "Diana Prince",
+                "Databases",
+                "1850"
+            ],
+            [
+                "105",
+                "Python for Beginners",
+                "15",
+                "Eve Adams",
+                "Programming",
+                "3100"
+            ],
+            [
+                "106",
+                "Cloud Computing Essentials",
+                "9",
+                "Frank White",
+                "Cloud",
+                "1120"
+            ],
+            [
+                "107",
+                "Data Visualization Techniques",
+                "10",
+                "Grace Lee",
+                "Data Science",
+                "2500"
+            ]
+        ]
+    }
+}

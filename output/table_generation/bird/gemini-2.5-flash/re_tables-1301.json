@@ -1,0 +1,61 @@
+{
+    "table-1301-1301": {
+        "title": [
+            "Patient ID",
+            "Disease",
+            "Triglyceride (mg/dL)",
+            "Range Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the disease name of the patient who has the highest level of triglyceride within the normal range?",
+        "data": [
+            [
+                "P001",
+                "Type 2 Diabetes",
+                "280",
+                "High"
+            ],
+            [
+                "P002",
+                "Hypertension",
+                "85",
+                "Normal"
+            ],
+            [
+                "P003",
+                "Hypothyroidism",
+                "120",
+                "Normal"
+            ],
+            [
+                "P004",
+                "Metabolic Syndrome",
+                "148",
+                "Normal"
+            ],
+            [
+                "P005",
+                "Coronary Artery Disease",
+                "185",
+                "Borderline High"
+            ],
+            [
+                "P006",
+                "Fatty Liver Disease",
+                "110",
+                "Normal"
+            ],
+            [
+                "P007",
+                "Chronic Kidney Disease",
+                "135",
+                "Normal"
+            ]
+        ]
+    }
+}

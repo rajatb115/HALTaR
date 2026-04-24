@@ -1,0 +1,76 @@
+{
+    "table-338-338": {
+        "title": [
+            "Section ID",
+            "Title",
+            "Status",
+            "Author",
+            "Last Updated",
+            "Review Count",
+            "Priority Level"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the section h.",
+        "data": [
+            [
+                "H.1",
+                "Data Validation Protocols",
+                "Active",
+                "J. Smith",
+                "4/12/2023",
+                "3",
+                "High"
+            ],
+            [
+                "H.2",
+                "User Authentication Flow",
+                "Draft",
+                "M. Johnson",
+                "6/15/2023",
+                "1",
+                "Medium"
+            ],
+            [
+                "H.3",
+                "API Response Standards",
+                "Active",
+                "R. Lee",
+                "7/22/1970",
+                "5",
+                "High"
+            ],
+            [
+                "H.4",
+                "Error Handling Procedures",
+                "Pending",
+                "K. Williams",
+                "1/10/2100",
+                "2",
+                "Low"
+            ],
+            [
+                "H.5",
+                "Logging Configuration",
+                "Archived",
+                "T. Brown",
+                "12/31/2999",
+                "0",
+                "Medium"
+            ],
+            [
+                "H.6",
+                "Security Audit Results",
+                "Reviewing",
+                "S. Davis",
+                "3/3/2400",
+                "",
+                "Critical"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-225-225": {
+        "title": [
+            "Instructor_Name",
+            "Course_Code",
+            "Department",
+            "Semester",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the people who teach math courses?",
+        "data": [
+            [
+                "John Smith",
+                "MATH101A",
+                "Mathematics",
+                "Fall 24",
+                "Active"
+            ],
+            [
+                "Sarah Johnson",
+                "MTHG202B",
+                "Math & Stats",
+                "Spring 25",
+                "Pending"
+            ],
+            [
+                "Michael Chen",
+                "CALCULUSIII",
+                "Science Dept",
+                "Summer 26",
+                "Inactive"
+            ],
+            [
+                "Emily Davis",
+                "ALGEBRAI",
+                "Liberal Arts",
+                "Fall '24",
+                "Active"
+            ],
+            [
+                "Robert Lee",
+                "STATISTICS",
+                "Data Sciences",
+                "Winter 27",
+                "N/A"
+            ],
+            [
+                "Lisa Brown",
+                "GEOMETRY",
+                "Education Faculty",
+                "Spring '25",
+                "Reviewing"
+            ],
+            [
+                "David Wilson",
+                "TRIGONOMETRY",
+                "STEM Center",
+                "Fall '25",
+                "Approved"
+            ],
+            [
+                "Maria Garcia",
+                "NUMBER_THEORY",
+                "Research Div",
+                "Summer '26",
+                "Cancelled"
+            ]
+        ]
+    }
+}

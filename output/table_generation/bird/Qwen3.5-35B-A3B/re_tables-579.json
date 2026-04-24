@@ -1,0 +1,69 @@
+{
+    "table-579-579": {
+        "title": [
+            "Post Title",
+            "User ID",
+            "Username",
+            "Reputation Score",
+            "Join Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user made a post titled 'Understanding what Dassault iSight is doing?' and how much is the reputation of the user?",
+        "data": [
+            [
+                "Understanding what Dassault iSight is doing?",
+                "U_4921",
+                "TechGuru_Mike",
+                "4520",
+                "06/12/2018",
+                "Active"
+            ],
+            [
+                "iSight Integration Guide",
+                "U_A77B",
+                "DataWiz_Sam",
+                "3100",
+                "Jan 22, 2109",
+                "Active"
+            ],
+            [
+                "Dassault Systems Overview",
+                "U_C33X",
+                "SysAdmin_Lisa",
+                "8900",
+                "Nov 15, 1017",
+                "Inactive"
+            ],
+            [
+                "What is Dassault iSight?",
+                "U_B99Z",
+                "Newbie_Joe",
+                "50",
+                "Mar 03, 0220",
+                "Pending"
+            ],
+            [
+                "Advanced iSight Features",
+                "U_D11A",
+                "Expert_Kate",
+                "6750",
+                "Jul 08, 9998",
+                "Active"
+            ],
+            [
+                "Troubleshooting Dassault iSight",
+                "E_U_EE",
+                "HelpDesk_Tom",
+                "920",
+                "Feb 14, 8887",
+                "Active"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1373-1373": {
+        "title": [
+            "Member Name",
+            "Income Type",
+            "Date Received",
+            "Amount (USD)",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When did the member, Casey Mason, received the income?",
+        "data": [
+            [
+                "Casey Mason",
+                "Salary",
+                "2023-01-15",
+                "5500.00",
+                "Paid"
+            ],
+            [
+                "Casey Mason",
+                "Bonus",
+                "2023-03-10",
+                "1200.00",
+                "Paid"
+            ],
+            [
+                "Casey Mason",
+                "Commission",
+                "2023-04-22",
+                "850.50",
+                "Paid"
+            ],
+            [
+                "Casey Mason",
+                "Reimbursement",
+                "2023-05-01",
+                "150.75",
+                "Paid"
+            ],
+            [
+                "Casey Mason",
+                "Salary",
+                "2023-02-15",
+                "5500.00",
+                "Paid"
+            ],
+            [
+                "Casey Mason",
+                "Dividend",
+                "2023-06-30",
+                "300.00",
+                "Paid"
+            ],
+            [
+                "Casey Mason",
+                "Royalty",
+                "2023-07-12",
+                "450.20",
+                "Pending"
+            ]
+        ]
+    }
+}

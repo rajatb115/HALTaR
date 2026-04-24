@@ -1,0 +1,76 @@
+{
+    "table-896-896": {
+        "title": [
+            "Driver",
+            "Event",
+            "Season",
+            "Lap Time",
+            "Track Length",
+            "Sector Best",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average lap time for Sebastian Vettel in the 2009 Chinese Grand Prix?",
+        "data": [
+            [
+                "Sebastian Vettel",
+                "Chinese GP",
+                "4765",
+                "01:34.210",
+                "5.451 km",
+                "32.105s",
+                "Finished"
+            ],
+            [
+                "Mark Webber",
+                "Chinese GP",
+                "7645",
+                "N/A",
+                "8.921 km",
+                "N/A",
+                "DNF"
+            ],
+            [
+                "Lewis Hamilton",
+                "Chinese Grand Prix",
+                "9876",
+                "654321",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Jenson Button",
+                "China Race",
+                "1234",
+                "N/A",
+                "",
+                "",
+                "Retired"
+            ],
+            [
+                "Fernando Alonso",
+                "Shanghai Event",
+                "5678",
+                "No Data",
+                "",
+                "",
+                "DNS"
+            ],
+            [
+                "Kimi Raikkonen",
+                "F1 China 2010",
+                "999",
+                "Missing",
+                "",
+                "",
+                "Did Not Start"
+            ]
+        ]
+    }
+}

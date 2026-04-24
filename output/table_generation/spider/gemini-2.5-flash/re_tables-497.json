@@ -1,0 +1,61 @@
+{
+    "table-497-497": {
+        "title": [
+            "Country Name",
+            "Country Code",
+            "Official Language",
+            "Government Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the codes of countries that do not speak English and do not have Republics for governments.",
+        "data": [
+            [
+                "Saudi Arabia",
+                "SA",
+                "Arabic",
+                "Absolute Monarchy"
+            ],
+            [
+                "Japan",
+                "JP",
+                "Japanese",
+                "Constitutional Monarchy"
+            ],
+            [
+                "Thailand",
+                "TH",
+                "Thai",
+                "Constitutional Monarchy"
+            ],
+            [
+                "Spain",
+                "ES",
+                "Spanish",
+                "Parliamentary Monarchy"
+            ],
+            [
+                "Sweden",
+                "SE",
+                "Swedish",
+                "Constitutional Monarchy"
+            ],
+            [
+                "Bhutan",
+                "BT",
+                "Dzongkha",
+                "Constitutional Monarchy"
+            ],
+            [
+                "Oman",
+                "OM",
+                "Arabic",
+                "Absolute Monarchy"
+            ]
+        ]
+    }
+}

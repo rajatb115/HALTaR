@@ -1,0 +1,45 @@
+{
+    "table-1457-1457": {
+        "title": [
+            "Member ID",
+            "Full Name",
+            "Total Spending"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Top Spending Members",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the full name of the top five members who spend the most money in the descending order of spending.",
+        "data": [
+            [
+                "123",
+                "John Smith",
+                "$10,000"
+            ],
+            [
+                "456",
+                "Alice Johnson",
+                "$9,500"
+            ],
+            [
+                "789",
+                "Robert Brown",
+                "$9,000"
+            ],
+            [
+                "101",
+                "Emily Davis",
+                "$8,500"
+            ],
+            [
+                "112",
+                "David Wilson",
+                "$8,000"
+            ]
+        ]
+    }
+}

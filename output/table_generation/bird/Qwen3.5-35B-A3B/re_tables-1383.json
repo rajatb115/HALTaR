@@ -1,0 +1,69 @@
+{
+    "table-1383-1383": {
+        "title": [
+            "Student ID",
+            "Full Name",
+            "Major",
+            "Event Attended",
+            "Attendance Date",
+            "Ticket Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the students majored in interior design, who have attended the Community Theater event?",
+        "data": [
+            [
+                "STU1042",
+                "Elena Rodriguez",
+                "Interior Design",
+                "Community Theater Gala",
+                "06/15/2023",
+                "Confirmed"
+            ],
+            [
+                "STI2091",
+                "Marcus Chen",
+                "Interior Architecture",
+                "Community Workshop Night",
+                "7/22/2023",
+                ""
+            ],
+            [
+                "SIT3305",
+                "Sarah Jenkins",
+                "Interior Decor",
+                "Summer Opening Show",
+                "8/01/2024",
+                ""
+            ],
+            [
+                "INT4412",
+                "David O'Neil",
+                "Landscape & Interiors",
+                "Fall Fundraiser Play",
+                "9/10/2021",
+                ""
+            ],
+            [
+                "IDT5567",
+                "Priya Patel",
+                "Interior Styling",
+                "Holiday Charity Spectacle",
+                "5/12/2019",
+                ""
+            ],
+            [
+                "DES6689",
+                "Liam Foster",
+                "Visual Arts w/ Focus on Interiors",
+                "No Record Found",
+                "",
+                "Pending Verification"
+            ]
+        ]
+    }
+}

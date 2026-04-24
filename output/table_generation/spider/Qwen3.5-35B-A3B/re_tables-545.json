@@ -1,0 +1,61 @@
+{
+    "table-545-545": {
+        "title": [
+            "Conductor Name",
+            "Orchestra Founded",
+            "Founding Year",
+            "Location",
+            "Genre",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of conductors who have conducted orchestras founded after the year 2008?",
+        "data": [
+            [
+                "Elena Volkov",
+                "New Horizon Symphony",
+                "4762",
+                "Berlin",
+                "Contemporary Classical",
+                "Active"
+            ],
+            [
+                "Marcus Thorne",
+                "Pacific Rim Philharmonic",
+                "5123",
+                "Seattle",
+                "Symphonic",
+                "Active"
+            ],
+            [
+                "Sofia Rossi",
+                "Aurora Chamber Ensemble",
+                "3988",
+                "Milan",
+                "Baroque Revival",
+                "Inactive"
+            ],
+            [
+                "David Chen",
+                "Future Sounds Orchestra",
+                "6201",
+                "Tokyo",
+                "Electronic Fusion",
+                "Disbanded"
+            ],
+            [
+                "Amara Diallo",
+                "Sahel Rhythmic Collective",
+                "7104",
+                "Dakar",
+                "World Music",
+                "Active"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "table-143-143": {
+        "title": [
+            "Account ID",
+            "City",
+            "Payment Type",
+            "Order Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Orders by Account and Location",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which accounts placed orders for household payment in Pisek?",
+        "data": [
+            [
+                "12345",
+                "Pisek",
+                "Household",
+                "3"
+            ],
+            [
+                "67890",
+                "Pisek",
+                "Household",
+                "1"
+            ],
+            [
+                "24680",
+                "Pisek",
+                "Household",
+                "2"
+            ],
+            [
+                "13579",
+                "Pisek",
+                "Household",
+                "5"
+            ],
+            [
+                "98765",
+                "Pisek",
+                "Household",
+                "1"
+            ]
+        ]
+    }
+}

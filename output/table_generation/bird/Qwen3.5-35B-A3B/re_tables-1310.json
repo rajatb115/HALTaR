@@ -1,0 +1,40 @@
+{
+    "table-1310-1310": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "Platelet Level (/\u00b5L)",
+            "Status",
+            "Date Measured",
+            "Age Range",
+            "Gender"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list a patient's platelet level if it is within the normal range and if he or she is diagnosed with MCTD.",
+        "data": [
+            [
+                "P-1042",
+                "Mixed Connective Tissue Disease",
+                "320,000",
+                "Normal",
+                "06/15/2023",
+                "Adult",
+                "Female"
+            ],
+            [
+                "P-1105",
+                "Mixed Connective Tissue Disease",
+                "410,500",
+                "Normal",
+                "07/22/2023",
+                "Adult",
+                "Male"
+            ]
+        ]
+    }
+}

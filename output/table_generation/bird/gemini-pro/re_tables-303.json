@@ -1,0 +1,52 @@
+{
+    "table-303-303": {
+        "title": [
+            "Element",
+            "Symbol",
+            "Atomic Number",
+            "Abundance (%)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Atomic Composition of TR001_2_4",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the elements that comprise the atoms of bond TR001_2_4.",
+        "data": [
+            [
+                "Carbon",
+                "C",
+                "6",
+                "66.67"
+            ],
+            [
+                "Hydrogen",
+                "H",
+                "1",
+                "22.22"
+            ],
+            [
+                "Oxygen",
+                "O",
+                "8",
+                "11.11"
+            ],
+            [
+                "Nitrogen",
+                "N",
+                "7",
+                "0.00"
+            ],
+            [
+                "Sulfur",
+                "S",
+                "16",
+                "0.00"
+            ]
+        ]
+    }
+}

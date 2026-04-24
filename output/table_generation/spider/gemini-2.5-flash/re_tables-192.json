@@ -1,0 +1,49 @@
+{
+    "table-192-192": {
+        "title": [
+            "Template Type Code",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all template type codes and descriptions.",
+        "data": [
+            [
+                "EMAIL",
+                "Standard email communication template"
+            ],
+            [
+                "SMS",
+                "Short Message Service (SMS) text template"
+            ],
+            [
+                "DOC",
+                "General document generation template"
+            ],
+            [
+                "RPT",
+                "Structured report layout template"
+            ],
+            [
+                "INV",
+                "Financial invoice generation template"
+            ],
+            [
+                "NOTIF",
+                "System notification message template"
+            ],
+            [
+                "WEB",
+                "Web page content and layout template"
+            ],
+            [
+                "API_RESP",
+                "API response structure template"
+            ]
+        ]
+    }
+}

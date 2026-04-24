@@ -1,0 +1,69 @@
+{
+    "table-629-629": {
+        "title": [
+            "User ID",
+            "Username",
+            "Total Views",
+            "Account Status",
+            "Joined Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which users have the highest number of views?",
+        "data": [
+            [
+                "U001",
+                "DataExplorer77",
+                "1,876,543",
+                "Premium",
+                "2020-03-15"
+            ],
+            [
+                "U002",
+                "InsightSeeker",
+                "1,521,987",
+                "Active",
+                "2019-11-22"
+            ],
+            [
+                "U003",
+                "ChartMaster",
+                "1,298,765",
+                "Premium",
+                "2021-01-05"
+            ],
+            [
+                "U004",
+                "QueryQueen",
+                "987,654",
+                "Active",
+                "2020-07-10"
+            ],
+            [
+                "U005",
+                "VizWhiz",
+                "765,432",
+                "Basic",
+                "2022-04-18"
+            ],
+            [
+                "U006",
+                "MetricMaven",
+                "543,210",
+                "Active",
+                "2018-09-01"
+            ],
+            [
+                "U007",
+                "ReportRider",
+                "321,098",
+                "Basic",
+                "2021-12-30"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "table-204-204": {
+        "title": [
+            "Compound Name",
+            "Chemical Formula",
+            "Number of Bromine Atoms",
+            "Total Number of Atoms",
+            "Atoms Without Bromine"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2,
+            3,
+            4
+        ],
+        "pgTitle": "Abundance of Bromine in Common Compounds",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In how many atoms is there no bromine?",
+        "data": [
+            [
+                "Water",
+                "H\u2082O",
+                "0",
+                "3",
+                "3"
+            ],
+            [
+                "Methane",
+                "CH\u2084",
+                "0",
+                "5",
+                "5"
+            ],
+            [
+                "Glucose",
+                "C\u2086H\u2081\u2082O\u2086",
+                "0",
+                "24",
+                "24"
+            ],
+            [
+                "Sodium Chloride",
+                "NaCl",
+                "0",
+                "2",
+                "2"
+            ],
+            [
+                "Ammonia",
+                "NH\u2083",
+                "0",
+                "4",
+                "4"
+            ]
+        ]
+    }
+}

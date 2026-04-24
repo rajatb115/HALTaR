@@ -1,0 +1,37 @@
+{
+    "table-1413-1413": {
+        "title": [
+            "Expense Type",
+            "Avg. Expense (X-Large)"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Expenses by T-Shirt Size",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What kind of expenses incurred by members who have X-Large in size of tee shirt?",
+        "data": [
+            [
+                "Travel",
+                "$250"
+            ],
+            [
+                "Accommodation",
+                "$150"
+            ],
+            [
+                "Meals",
+                "$75"
+            ],
+            [
+                "Registration",
+                "$100"
+            ],
+            [
+                "Miscellaneous",
+                "$25"
+            ]
+        ]
+    }
+}

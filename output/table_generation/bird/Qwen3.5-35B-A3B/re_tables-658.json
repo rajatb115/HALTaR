@@ -1,0 +1,76 @@
+{
+    "table-658-658": {
+        "title": [
+            "Vote_Type_8_User_ID",
+            "Display_Name",
+            "Website_URL",
+            "Bounty_Amount_Currency",
+            "Highest_Bounty_Value",
+            "Status",
+            "Date_Joined"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Under the vote type of 8, provide the display names and websites URLs of the user who got the highest bounty amount.",
+        "data": [
+            [
+                "U7482",
+                "Alex Rivera",
+                "https://alexrivera.dev",
+                "USD",
+                "$500.00",
+                "Active",
+                "06/15/2019"
+            ],
+            [
+                "U9103",
+                "Sarah Chen",
+                "https:sarahchen.io",
+                "EUR",
+                "\u20ac450.50",
+                "Inactive",
+                "3/22/21"
+            ],
+            [
+                "U2291",
+                "Jordan Lee",
+                "https:jordanlee.net",
+                "GBP",
+                "\u00a3380.25",
+                "Pending",
+                "9/10/23"
+            ],
+            [
+                "U5567",
+                "Priya Patel",
+                "https:priyapatel.com",
+                "JPY",
+                "\u00a5550,000 N/A",
+                "Verified",
+                "7/01/24"
+            ],
+            [
+                "U8834",
+                "Marcus Johnson",
+                "https:mjohnson.org",
+                "CAD",
+                "C$420.75",
+                "Suspended",
+                "4/12/18"
+            ],
+            [
+                "U3321",
+                "Elena Rossi",
+                "https:erossi.design",
+                "AUD",
+                "A$395.0 N",
+                "",
+                ""
+            ]
+        ]
+    }
+}

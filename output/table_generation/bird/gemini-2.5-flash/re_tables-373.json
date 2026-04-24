@@ -1,0 +1,77 @@
+{
+    "table-373-373": {
+        "title": [
+            "Card Name",
+            "Card Type",
+            "Power",
+            "Toughness",
+            "Mana Cost",
+            "Set"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards are there with toughness of 99?",
+        "data": [
+            [
+                "Worldspine Wurm",
+                "Creature",
+                "15",
+                "15",
+                "{11}{G}{G}{G}",
+                "Return to Ravnica"
+            ],
+            [
+                "Emrakul, the Aeons Torn",
+                "Legendary Creature",
+                "15",
+                "15",
+                "{15}",
+                "Rise of the Eldrazi"
+            ],
+            [
+                "Phyrexian Dreadnought",
+                "Artifact Creature",
+                "12",
+                "12",
+                "{1}",
+                "Mirage"
+            ],
+            [
+                "Marit Lage Token",
+                "Legendary Creature Token",
+                "20",
+                "20",
+                "N/A",
+                "Coldsnap"
+            ],
+            [
+                "Colossus of Akros",
+                "Artifact Creature",
+                "10",
+                "10",
+                "{8}",
+                "Theros"
+            ],
+            [
+                "Hypothetical Behemoth",
+                "Creature",
+                "99",
+                "99",
+                "{X}",
+                "Un-Set"
+            ],
+            [
+                "Krosan Cloudscraper",
+                "Creature",
+                "13",
+                "13",
+                "{10}{G}{G}{G}",
+                "Legions"
+            ]
+        ]
+    }
+}

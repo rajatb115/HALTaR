@@ -1,0 +1,76 @@
+{
+    "table-187-187": {
+        "title": [
+            "Client Gender",
+            "Statement Frequency",
+            "Requested Percentage",
+            "Total Clients Sampled",
+            "Data Source Region",
+            "Reporting Period",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of male clients request for weekly statements to be issued?",
+        "data": [
+            [
+                "Male",
+                "Weekly",
+                "42%",
+                "500",
+                "North America",
+                "Q1 27",
+                "Active"
+            ],
+            [
+                "Female",
+                "Weekly / Monthly",
+                "N/A",
+                "600",
+                "Europe",
+                "Q2 24",
+                "Inactive"
+            ],
+            [
+                "Non-Binary",
+                "Bi-weekly",
+                "35%",
+                "150",
+                "Asia Pacific",
+                "Q3 23",
+                "Pending"
+            ],
+            [
+                "Male",
+                "Daily",
+                "8%",
+                "450",
+                "South America",
+                "Q4 22",
+                "Archived"
+            ],
+            [
+                "Unknown",
+                "Annual",
+                "0%",
+                "20",
+                "Africa",
+                "Q5 21",
+                "Retired"
+            ],
+            [
+                "Total",
+                "All Frequencies",
+                "75%",
+                "1920",
+                "Global",
+                "FY 26",
+                "Finalized"
+            ]
+        ]
+    }
+}

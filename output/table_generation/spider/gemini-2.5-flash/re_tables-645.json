@@ -1,0 +1,69 @@
+{
+    "table-645-645": {
+        "title": [
+            "Citizenship",
+            "Richest Individual",
+            "Maximum Net Worth",
+            "Currency",
+            "Year Recorded"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For each citizenship, what is the maximum net worth?",
+        "data": [
+            [
+                "United States",
+                "Elon Musk",
+                "250000000000",
+                "USD",
+                "2023"
+            ],
+            [
+                "France",
+                "Bernard Arnault",
+                "220000000000",
+                "EUR",
+                "2023"
+            ],
+            [
+                "India",
+                "Mukesh Ambani",
+                "95000000000",
+                "INR",
+                "2023"
+            ],
+            [
+                "China",
+                "Zhong Shanshan",
+                "65000000000",
+                "CNY",
+                "2023"
+            ],
+            [
+                "Germany",
+                "Dieter Schwarz",
+                "45000000000",
+                "EUR",
+                "2023"
+            ],
+            [
+                "Canada",
+                "David Thomson",
+                "50000000000",
+                "CAD",
+                "2023"
+            ],
+            [
+                "Australia",
+                "Gina Rinehart",
+                "30000000000",
+                "AUD",
+                "2023"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-239-239": {
+        "title": [
+            "Visitor ID",
+            "Membership Level",
+            "Ticket Type",
+            "Ticket Price",
+            "Quantity",
+            "Purchase Date",
+            "Total Expense"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total ticket expense of the visitors whose membership level is 1?",
+        "data": [
+            [
+                "101",
+                "1",
+                "Adult",
+                "25.00",
+                "2",
+                "2023-10-26",
+                "50.00"
+            ],
+            [
+                "102",
+                "2",
+                "Child",
+                "15.00",
+                "3",
+                "2023-10-25",
+                "45.00"
+            ],
+            [
+                "103",
+                "1",
+                "Senior",
+                "20.00",
+                "1",
+                "2023-10-26",
+                "20.00"
+            ],
+            [
+                "104",
+                "1",
+                "Adult",
+                "25.00",
+                "4",
+                "2023-10-24",
+                "100.00"
+            ],
+            [
+                "105",
+                "3",
+                "Student",
+                "18.00",
+                "1",
+                "2023-10-23",
+                "18.00"
+            ],
+            [
+                "106",
+                "1",
+                "Child",
+                "15.00",
+                "2",
+                "2023-10-25",
+                "30.00"
+            ],
+            [
+                "107",
+                "2",
+                "Adult",
+                "25.00",
+                "1",
+                "2023-10-26",
+                "25.00"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-11-11": {
+        "title": [
+            "School Name",
+            "Avg SAT Reading Score",
+            "FRPM Count (5-17)",
+            "Total Enrollment",
+            "District"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the school with the highest average score in Reading in the SAT test, what is its FRPM count for students aged 5-17?",
+        "data": [
+            [
+                "Summit View High",
+                "695",
+                "310",
+                "1600",
+                "Highland District"
+            ],
+            [
+                "Northwood High School",
+                "685",
+                "420",
+                "1850",
+                "Maplewood USD"
+            ],
+            [
+                "Green Valley HS",
+                "670",
+                "550",
+                "1900",
+                "Valley Central"
+            ],
+            [
+                "Evergreen Collegiate",
+                "660",
+                "680",
+                "2050",
+                "Forest Hills SD"
+            ],
+            [
+                "Riverside Academy",
+                "650",
+                "780",
+                "2100",
+                "Riverbend SD"
+            ],
+            [
+                "Oceanfront High",
+                "630",
+                "950",
+                "2300",
+                "Coastal Unified"
+            ],
+            [
+                "Central Prep",
+                "610",
+                "1120",
+                "2500",
+                "Metro City Schools"
+            ]
+        ]
+    }
+}

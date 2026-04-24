@@ -1,0 +1,103 @@
+{
+    "table-1253-1253": {
+        "title": [
+            "Patient ID",
+            "IgG Level Status",
+            "Symptom Present",
+            "Count",
+            "Diagnosis Category",
+            "Treatment Plan",
+            "Follow-up Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 9,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients with a normal Ig G level, how many of them have symptoms?",
+        "data": [
+            [
+                "P-1042",
+                "Normal",
+                "Yes",
+                "45",
+                "Autoimmune Disorder",
+                "Immunomodulation",
+                "6 months"
+            ],
+            [
+                "P-A77B",
+                "Normal",
+                "No",
+                "0",
+                "Healthy Control",
+                "None",
+                "Annual Checkup"
+            ],
+            [
+                "M-33C1",
+                "Normal",
+                "Yes",
+                "12",
+                "Chronic Fatigue Syndrome",
+                "Lifestyle Modification",
+                "3 months"
+            ],
+            [
+                "F-99XZ",
+                "Normal",
+                "Yes",
+                "8",
+                "Migraine Variant",
+                "Preventive Care",
+                "Monthly Review"
+            ],
+            [
+                "T-55K2",
+                "Normal",
+                "No",
+                "5",
+                "Viral Infection Recovery",
+                "Observation",
+                "90 days"
+            ],
+            [
+                "J-22LQ",
+                "Normal",
+                "No",
+                "7",
+                "Genetic Condition",
+                "Monitoring",
+                "Biannual"
+            ],
+            [
+                "R-88WY",
+                "Normal",
+                "Yes",
+                "19",
+                "Allergic Reaction",
+                "Antihistamines",
+                "As needed"
+            ],
+            [
+                "S-11DD",
+                "Normal",
+                "No",
+                "3",
+                "Post-Surgical",
+                "Wound Care",
+                "Weekly"
+            ],
+            [
+                "V-44MM",
+                "Normal",
+                "Yes",
+                "22",
+                "Neurological Issue",
+                "Specialist Referral",
+                ""
+            ]
+        ]
+    }
+}

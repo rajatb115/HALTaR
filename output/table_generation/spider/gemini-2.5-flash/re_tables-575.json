@@ -1,0 +1,69 @@
+{
+    "table-575-575": {
+        "title": [
+            "State",
+            "Owner Count",
+            "Professional Count",
+            "Primary Industry",
+            "Population (Millions)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the states where both owners and professionals live.",
+        "data": [
+            [
+                "California",
+                "1,250,000",
+                "3,500,000",
+                "Technology",
+                "39.2"
+            ],
+            [
+                "New York",
+                "850,000",
+                "2,800,000",
+                "Finance",
+                "19.5"
+            ],
+            [
+                "Texas",
+                "980,000",
+                "2,900,000",
+                "Energy",
+                "30.5"
+            ],
+            [
+                "Florida",
+                "720,000",
+                "2,100,000",
+                "Tourism",
+                "22.6"
+            ],
+            [
+                "Illinois",
+                "450,000",
+                "1,500,000",
+                "Manufacturing",
+                "12.5"
+            ],
+            [
+                "Massachusetts",
+                "310,000",
+                "1,100,000",
+                "Biotechnology",
+                "7.0"
+            ],
+            [
+                "Washington",
+                "380,000",
+                "1,300,000",
+                "Aerospace",
+                "7.8"
+            ]
+        ]
+    }
+}

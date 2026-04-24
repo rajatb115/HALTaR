@@ -1,0 +1,73 @@
+{
+    "table-168-168": {
+        "title": [
+            "Document_Name",
+            "Template_ID",
+            "Description_Snippet",
+            "Status",
+            "Created_Date",
+            "Owner",
+            "Version",
+            "Size_MB"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the document name and template id for document with description with the letter 'w' in it?",
+        "data": [
+            [
+                "Weekly_Report_Q4",
+                "TPL-WKLY-004",
+                "Weekly summary with weekly metrics included",
+                "Active",
+                "06/15/2023",
+                "J Smith",
+                "v2.1",
+                "4.5"
+            ],
+            [
+                "Workshop_Plan_20X",
+                "TLP-SCHD-092",
+                "Workshop schedule with workshop details attached",
+                "Draft",
+                "7/22/2023",
+                "M Jones",
+                "v1.0",
+                "8.2"
+            ],
+            [
+                "Weather_Alert_Doc",
+                "TLT-NOTF-115",
+                "Weather warning with weather forecast updates",
+                "Archived",
+                "3/10/2024",
+                "K Lee",
+                "v3.4",
+                "6.7"
+            ],
+            [
+                "Webinar_Agenda_May",
+                "TPT-MEET-033",
+                "Webinar agenda with webinar speaker list",
+                "Pending",
+                "5/01/2025",
+                "R Davis",
+                "v0.9",
+                "9.1"
+            ],
+            [
+                "Warehouse_Log_Jan",
+                "TRC-STOR-088",
+                "Warehouse log with warehouse",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

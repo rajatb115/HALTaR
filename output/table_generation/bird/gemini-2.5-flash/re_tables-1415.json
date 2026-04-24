@@ -1,0 +1,62 @@
+{
+    "table-1415-1415": {
+        "title": [
+            "Student Name",
+            "Student ID",
+            "Major",
+            "Enrollment Status",
+            "Enrollment Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the name of major that Phillip Cullen has joined.",
+        "data": [
+            [
+                "Phillip Cullen",
+                "S001234",
+                "Computer Science",
+                "Joined",
+                "2023"
+            ],
+            [
+                "Sarah Chen",
+                "S001235",
+                "Biology",
+                "Joined",
+                "2022"
+            ],
+            [
+                "Michael Lee",
+                "S001236",
+                "Business Administration",
+                "Pending",
+                "2024"
+            ],
+            [
+                "Emily White",
+                "S001237",
+                "Psychology",
+                "Joined",
+                "2023"
+            ],
+            [
+                "David Kim",
+                "S001238",
+                "Electrical Engineering",
+                "Graduated",
+                "2021"
+            ],
+            [
+                "Jessica Brown",
+                "S001239",
+                "English Literature",
+                "Joined",
+                "2023"
+            ]
+        ]
+    }
+}

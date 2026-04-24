@@ -1,0 +1,62 @@
+{
+    "table-1447-1447": {
+        "title": [
+            "Zip Code Region",
+            "Total Addresses",
+            "PO Box Count",
+            "Percentage PO Boxes",
+            "Data Source Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of zip codes that are PO boxes.",
+        "data": [
+            [
+                "Northeast Metro Area",
+                "45,201,300",
+                "6,780,195",
+                "",
+                "01/15/2023"
+            ],
+            [
+                "Southeast Suburban Zone",
+                "32,100,450",
+                "4,815,068",
+                "5.0%",
+                "7.5%"
+            ],
+            [
+                "Midwest Urban District",
+                "88,900",
+                "",
+                "",
+                ""
+            ],
+            [
+                "South Central Rural Sector",
+                "9,400",
+                "",
+                "",
+                ""
+            ],
+            [
+                "West Coast Coastal Strip",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Pacific Northwest Inland Valley",
+                "12,345",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

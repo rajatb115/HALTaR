@@ -1,0 +1,93 @@
+{
+    "table-464-464": {
+        "title": [
+            "Card Set",
+            "Language Code",
+            "Translation Count",
+            "Status",
+            "Last Updated",
+            "Source ID",
+            "Region",
+            "Notes"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many translations are there for the set of cards with \"Angel of Mercy\" in it?",
+        "data": [
+            [
+                "Magic Origins",
+                "EN_US",
+                "47",
+                "Active",
+                "6/15/2023",
+                "SET_004",
+                "North America",
+                "Base English count"
+            ],
+            [
+                "Magic Origins",
+                "DE_DE",
+                "3",
+                "Active",
+                "",
+                "SET_102",
+                "Europe",
+                "German translation included"
+            ],
+            [
+                "Magic Origins",
+                "FR_FR",
+                "5",
+                "Active",
+                "2/28/2023",
+                "SET_FRA",
+                "France",
+                "French variant available"
+            ],
+            [
+                "Magic Origins",
+                "JP_JP",
+                "8",
+                "Active",
+                "12/01/2022",
+                "JP_SET",
+                "Japan",
+                "Japanese localized version"
+            ],
+            [
+                "Magic Origins",
+                "ZH_CN",
+                "9",
+                "Pending Review",
+                "",
+                "CN_DATA",
+                "China",
+                "Simplified Chinese draft"
+            ],
+            [
+                "Magic Origins",
+                "ES_ES",
+                "7",
+                "Archived",
+                "22/11/2010",
+                "ES_LEGACY",
+                "Spain",
+                "Legacy Spanish edition"
+            ],
+            [
+                "Magic Origins",
+                "PT_BR",
+                "0",
+                "Not Released",
+                "",
+                "BR_RELEASE",
+                "Brazil",
+                "Portuguese pending release"
+            ]
+        ]
+    }
+}

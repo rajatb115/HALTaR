@@ -1,0 +1,69 @@
+{
+    "table-42-42": {
+        "title": [
+            "School Name",
+            "Average Reading Score",
+            "Enrollment",
+            "State",
+            "Accreditation Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which exclusively virtual schools have the top 5 highest average reading scores?",
+        "data": [
+            [
+                "Global Online Academy",
+                "92.5",
+                "1500",
+                "CA",
+                "WASC"
+            ],
+            [
+                "Virtual Learning Institute",
+                "91.8",
+                "1200",
+                "TX",
+                "SACS CASI"
+            ],
+            [
+                "Horizon Digital School",
+                "90.1",
+                "1800",
+                "FL",
+                "AdvancED"
+            ],
+            [
+                "Elite E-Learning Academy",
+                "89.7",
+                "950",
+                "NY",
+                "MSA-CESS"
+            ],
+            [
+                "Pinnacle Virtual High",
+                "88.9",
+                "1100",
+                "IL",
+                "Cognia"
+            ],
+            [
+                "Summit Online Prep",
+                "88.2",
+                "1300",
+                "VA",
+                "SACS CASI"
+            ],
+            [
+                "Future Forward Academy",
+                "87.5",
+                "1050",
+                "WA",
+                "NWAC"
+            ]
+        ]
+    }
+}

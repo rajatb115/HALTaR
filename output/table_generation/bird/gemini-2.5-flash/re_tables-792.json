@@ -1,0 +1,69 @@
+{
+    "table-792-792": {
+        "title": [
+            "Superhero Name",
+            "Universe",
+            "Gender",
+            "Height (cm)",
+            "Weight (kg)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average height for each superhero.",
+        "data": [
+            [
+                "Superman",
+                "DC Comics",
+                "Male",
+                "191",
+                "107"
+            ],
+            [
+                "Batman",
+                "DC Comics",
+                "Male",
+                "188",
+                "95"
+            ],
+            [
+                "Wonder Woman",
+                "DC Comics",
+                "Female",
+                "183",
+                "75"
+            ],
+            [
+                "Spider-Man",
+                "Marvel Comics",
+                "Male",
+                "178",
+                "74"
+            ],
+            [
+                "Captain America",
+                "Marvel Comics",
+                "Male",
+                "188",
+                "108"
+            ],
+            [
+                "Black Widow",
+                "Marvel Comics",
+                "Female",
+                "170",
+                "60"
+            ],
+            [
+                "The Flash",
+                "DC Comics",
+                "Male",
+                "183",
+                "88"
+            ]
+        ]
+    }
+}

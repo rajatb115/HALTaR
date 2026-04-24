@@ -1,0 +1,37 @@
+{
+    "table-546-546": {
+        "title": [
+            "Post Type",
+            "Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Posts by csgillespie",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts owned by csgillespie, how many of them are root posts?",
+        "data": [
+            [
+                "Root Post",
+                "123"
+            ],
+            [
+                "Child Post",
+                "456"
+            ],
+            [
+                "Grandchild Post",
+                "789"
+            ],
+            [
+                "Total Posts",
+                "1368"
+            ],
+            [
+                "Percentage Root",
+                "8.99%"
+            ]
+        ]
+    }
+}

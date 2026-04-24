@@ -1,0 +1,45 @@
+{
+    "table-138-138": {
+        "title": [
+            "Branch Location",
+            "Contract Status",
+            "Number of Accounts"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Account Contracts by Branch Location",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts have running contracts in Branch location 1?",
+        "data": [
+            [
+                "Branch 1",
+                "Running",
+                "125"
+            ],
+            [
+                "Branch 1",
+                "Expired",
+                "78"
+            ],
+            [
+                "Branch 2",
+                "Running",
+                "92"
+            ],
+            [
+                "Branch 2",
+                "Expired",
+                "45"
+            ],
+            [
+                "Branch 3",
+                "Running",
+                "110"
+            ]
+        ]
+    }
+}

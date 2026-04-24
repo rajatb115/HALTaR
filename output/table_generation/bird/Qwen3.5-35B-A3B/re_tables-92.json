@@ -1,0 +1,61 @@
+{
+    "table-92-92": {
+        "title": [
+            "Region",
+            "Unemployment Ratio",
+            "Unemployed Count",
+            "Total Labor Force",
+            "Average Rate (%)",
+            "Trend Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "The average unemployment ratio of 1995 and 1996, which one has higher percentage?",
+        "data": [
+            [
+                "North America",
+                "4.2%",
+                "7,500,000",
+                "350,208,095",
+                "5.1%",
+                "Rising"
+            ],
+            [
+                "Europe",
+                "6.8%",
+                "12,045,023",
+                "85,234,100",
+                "9.2%",
+                "Stable"
+            ],
+            [
+                "Asia Pacific",
+                "0.8%",
+                "1,245,000",
+                "150,234,102",
+                "0.8%",
+                "Declining"
+            ],
+            [
+                "South America",
+                "-1.2%",
+                "2,301,456",
+                "123,456,789",
+                "1.9%",
+                "Volatile"
+            ],
+            [
+                "Africa",
+                "N/A",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

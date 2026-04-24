@@ -1,0 +1,62 @@
+{
+    "table-156-156": {
+        "title": [
+            "Employee Name",
+            "Employee ID",
+            "Department",
+            "Last Evaluation Score",
+            "Awards Won"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the names of employees who never won any award in the evaluation.",
+        "data": [
+            [
+                "Alice Smith",
+                "EMP001",
+                "Sales",
+                "3.8",
+                "0"
+            ],
+            [
+                "Bob Johnson",
+                "EMP002",
+                "Marketing",
+                "3.5",
+                "0"
+            ],
+            [
+                "Carol White",
+                "EMP003",
+                "Engineering",
+                "4.1",
+                "0"
+            ],
+            [
+                "David Green",
+                "EMP004",
+                "HR",
+                "3.9",
+                "0"
+            ],
+            [
+                "Emily Brown",
+                "EMP005",
+                "Finance",
+                "3.7",
+                "0"
+            ],
+            [
+                "Frank Black",
+                "EMP006",
+                "Operations",
+                "3.6",
+                "0"
+            ]
+        ]
+    }
+}

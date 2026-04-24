@@ -1,0 +1,69 @@
+{
+    "table-619-619": {
+        "title": [
+            "User ID",
+            "Age",
+            "City",
+            "Country",
+            "Badge Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the age of users who located in Vienna, Austria obtained the badge?",
+        "data": [
+            [
+                "U001",
+                "28",
+                "Vienna",
+                "Austria",
+                "Obtained"
+            ],
+            [
+                "U002",
+                "35",
+                "Vienna",
+                "Austria",
+                "Obtained"
+            ],
+            [
+                "U003",
+                "42",
+                "Vienna",
+                "Austria",
+                "Not Obtained"
+            ],
+            [
+                "U004",
+                "22",
+                "Vienna",
+                "Austria",
+                "Obtained"
+            ],
+            [
+                "U005",
+                "51",
+                "Vienna",
+                "Austria",
+                "Not Obtained"
+            ],
+            [
+                "U006",
+                "30",
+                "Vienna",
+                "Austria",
+                "Obtained"
+            ],
+            [
+                "U007",
+                "25",
+                "Vienna",
+                "Austria",
+                "Obtained"
+            ]
+        ]
+    }
+}

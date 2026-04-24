@@ -1,0 +1,61 @@
+{
+    "table-519-519": {
+        "title": [
+            "Country",
+            "Continent",
+            "Population (Millions)",
+            "Surface Area (sq km)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the total population and average surface area corresponding to countries in North America that have a surface area greater than 3000 .",
+        "data": [
+            [
+                "United States",
+                "North America",
+                "335",
+                "9833520"
+            ],
+            [
+                "Canada",
+                "North America",
+                "40",
+                "9984670"
+            ],
+            [
+                "Mexico",
+                "North America",
+                "128",
+                "1972550"
+            ],
+            [
+                "Cuba",
+                "North America",
+                "11",
+                "109884"
+            ],
+            [
+                "Dominican Republic",
+                "North America",
+                "11",
+                "48671"
+            ],
+            [
+                "Honduras",
+                "North America",
+                "10",
+                "112492"
+            ],
+            [
+                "Guatemala",
+                "North America",
+                "18",
+                "108889"
+            ]
+        ]
+    }
+}

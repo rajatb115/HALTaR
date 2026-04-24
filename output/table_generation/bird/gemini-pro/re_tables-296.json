@@ -1,0 +1,51 @@
+{
+    "table-296-296": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Number of Hydrogen Atoms",
+            "Carcinogenic"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Properties of Hydrogen-Containing Carcinogenic Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many atoms belong to the molecule that element is hydrogen and labeled with carcinogenic compound?",
+        "data": [
+            [
+                "Benzene",
+                "C6H6",
+                "6",
+                "Yes"
+            ],
+            [
+                "Formaldehyde",
+                "CH2O",
+                "2",
+                "Yes"
+            ],
+            [
+                "Toluene",
+                "C7H8",
+                "8",
+                "Yes"
+            ],
+            [
+                "Vinyl Chloride",
+                "C2H3Cl",
+                "3",
+                "Yes"
+            ],
+            [
+                "Benzo[a]pyrene",
+                "C20H12",
+                "12",
+                "Yes"
+            ]
+        ]
+    }
+}

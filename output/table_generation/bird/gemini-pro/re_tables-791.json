@@ -1,0 +1,39 @@
+{
+    "table-791-791": {
+        "title": [
+            "Character Name",
+            "Weight (lbs)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Weight Comparison of Characters",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the difference between Emil Blonsky's weight and Charles Chandler's weight.",
+        "data": [
+            [
+                "Emil Blonsky",
+                "620"
+            ],
+            [
+                "Charles Chandler",
+                "300"
+            ],
+            [
+                "Bruce Banner",
+                "128"
+            ],
+            [
+                "James Howlett",
+                "195"
+            ],
+            [
+                "Peter Parker",
+                "167"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-959-959": {
+        "title": [
+            "Forename",
+            "Surname",
+            "Team",
+            "Race",
+            "Lap Time (s)",
+            "Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which driver has the fastest lap time? Please give their forenames and surnames.",
+        "data": [
+            [
+                "Max",
+                "Verstappen",
+                "Red Bull Racing",
+                "Monaco Grand Prix",
+                "71.234",
+                "2023"
+            ],
+            [
+                "Lewis",
+                "Hamilton",
+                "Mercedes-AMG Petronas",
+                "British Grand Prix",
+                "83.567",
+                "2022"
+            ],
+            [
+                "Charles",
+                "Leclerc",
+                "Scuderia Ferrari",
+                "Italian Grand Prix",
+                "79.876",
+                "2023"
+            ],
+            [
+                "Sergio",
+                "Perez",
+                "Red Bull Racing",
+                "Saudi Arabian Grand Prix",
+                "90.123",
+                "2023"
+            ],
+            [
+                "Lando",
+                "Norris",
+                "McLaren",
+                "Spanish Grand Prix",
+                "85.432",
+                "2022"
+            ],
+            [
+                "George",
+                "Russell",
+                "Mercedes-AMG Petronas",
+                "Hungarian Grand Prix",
+                "78.901",
+                "2023"
+            ],
+            [
+                "Fernando",
+                "Alonso",
+                "Aston Martin Aramco",
+                "Bahrain Grand Prix",
+                "92.345",
+                "2023"
+            ]
+        ]
+    }
+}

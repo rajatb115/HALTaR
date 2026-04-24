@@ -1,0 +1,39 @@
+{
+    "table-66-66": {
+        "title": [
+            "Make",
+            "Production Year"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Earliest Car Production Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the make and production time of the cars that were produced in the earliest year?",
+        "data": [
+            [
+                "Ford",
+                "1903"
+            ],
+            [
+                "Fiat",
+                "1899"
+            ],
+            [
+                "Benz",
+                "1886"
+            ],
+            [
+                "Peugeot",
+                "1889"
+            ],
+            [
+                "Opel",
+                "1899"
+            ]
+        ]
+    }
+}

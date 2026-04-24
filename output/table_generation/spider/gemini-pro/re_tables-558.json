@@ -1,0 +1,46 @@
+{
+    "table-558-558": {
+        "title": [
+            "Student ID",
+            "Name",
+            "Grade Level"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Student Identifications",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the ID of the high schooler named Kyle.",
+        "data": [
+            [
+                "12345",
+                "Alice",
+                "10"
+            ],
+            [
+                "67890",
+                "Bob",
+                "11"
+            ],
+            [
+                "24680",
+                "Kyle",
+                "9"
+            ],
+            [
+                "13579",
+                "David",
+                "12"
+            ],
+            [
+                "98765",
+                "Emily",
+                "10"
+            ]
+        ]
+    }
+}

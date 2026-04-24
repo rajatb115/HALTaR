@@ -1,0 +1,77 @@
+{
+    "table-1429-1429": {
+        "title": [
+            "Member ID",
+            "Department",
+            "City",
+            "State",
+            "Enrollment Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the city and state of members enrolled under electrical and computer engineering department.",
+        "data": [
+            [
+                "ECE-1042",
+                "Electrical Engineering",
+                "Austin",
+                "Texas",
+                "06/15/2021",
+                "Active"
+            ],
+            [
+                "ECE-1105",
+                "Computer Engineering",
+                "San Jose",
+                "California",
+                "03/22/2021",
+                "Inactive"
+            ],
+            [
+                "ECC-2098",
+                "Electrical & Comp Eng",
+                "Boston",
+                "Massachusetts",
+                "09/01/2023",
+                "Pending"
+            ],
+            [
+                "ECM-3312",
+                "Computer Science",
+                "Seattle",
+                "Washington",
+                "04/10/2024",
+                "Active"
+            ],
+            [
+                "ECT-4456",
+                "Electrical Systems",
+                "Chicago",
+                "Illinois",
+                "07/28/2025",
+                "Suspended"
+            ],
+            [
+                "ECD-5501",
+                "",
+                "New York",
+                "New York",
+                "12/05/2019",
+                "Revoked"
+            ],
+            [
+                "EDP-6678",
+                "Embedded Computing",
+                "Denver",
+                "Colorado",
+                "08/14/2026",
+                "Active"
+            ]
+        ]
+    }
+}

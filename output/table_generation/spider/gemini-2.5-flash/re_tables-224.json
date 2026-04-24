@@ -1,0 +1,61 @@
+{
+    "table-224-224": {
+        "title": [
+            "Course Name",
+            "Subject",
+            "Teacher Name",
+            "Room Number"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the name of the teacher for the math course.",
+        "data": [
+            [
+                "Algebra I",
+                "Mathematics",
+                "Mr. David Chen",
+                "M201"
+            ],
+            [
+                "Geometry",
+                "Mathematics",
+                "Ms. Sarah Miller",
+                "M203"
+            ],
+            [
+                "Pre-Calculus",
+                "Mathematics",
+                "Dr. Emily White",
+                "M205"
+            ],
+            [
+                "Calculus AB",
+                "Mathematics",
+                "Mr. John Davis",
+                "M207"
+            ],
+            [
+                "Statistics",
+                "Mathematics",
+                "Ms. Laura Green",
+                "M202"
+            ],
+            [
+                "Algebra II",
+                "Mathematics",
+                "Mr. Michael Brown",
+                "M204"
+            ],
+            [
+                "Discrete Math",
+                "Mathematics",
+                "Dr. Olivia Kim",
+                "M206"
+            ]
+        ]
+    }
+}

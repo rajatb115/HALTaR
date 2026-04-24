@@ -1,0 +1,76 @@
+{
+    "table-844-844": {
+        "title": [
+            "Hero_ID",
+            "Full_Name",
+            "Primary_Power",
+            "Intelligence_Level",
+            "Affiliation",
+            "Status",
+            "Origin_Year"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the hero ID of superheroes have intellegence as their power.",
+        "data": [
+            [
+                "H-472",
+                "Lex Luthor",
+                "Genius Intellect",
+                "Level 10",
+                "Legion of Doom",
+                "Active",
+                "65"
+            ],
+            [
+                "H-891",
+                "Mr. Terrific",
+                "Superhuman Mind",
+                "Level +9",
+                "Justice Society",
+                "Retired",
+                "40"
+            ],
+            [
+                "H-K22",
+                "T'Challa",
+                "Tactical Analysis",
+                "Level High",
+                "Wakanda",
+                "Active",
+                ""
+            ],
+            [
+                "H-M11",
+                "Brainiac",
+                "Cosmic Knowledge",
+                "Level Omega",
+                "Independent",
+                "Dormant",
+                "-100"
+            ],
+            [
+                "P-334",
+                "Professor X",
+                "Telepathic Intellects",
+                "Level Alpha",
+                "X-Men",
+                "Deceased",
+                "55"
+            ],
+            [
+                "S-901",
+                "",
+                "N/A",
+                "Unknown",
+                "Inactive",
+                "N/A",
+                ""
+            ]
+        ]
+    }
+}

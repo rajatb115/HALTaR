@@ -1,0 +1,37 @@
+{
+    "table-1486-1486": {
+        "title": [
+            "Customer ID",
+            "Consumption (April 2013)"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Customer Consumption Comparison - April 2013",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much more was customer 7 consuming in April 2013 than customer 5?",
+        "data": [
+            [
+                "5",
+                "150 Units"
+            ],
+            [
+                "7",
+                "275 Units"
+            ],
+            [
+                "Difference",
+                "125 Units"
+            ],
+            [
+                "Month",
+                "April"
+            ],
+            [
+                "Year",
+                "2013"
+            ]
+        ]
+    }
+}

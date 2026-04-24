@@ -1,0 +1,85 @@
+{
+    "table-69-69": {
+        "title": [
+            "County",
+            "School Ownership Code",
+            "Closure Count",
+            "Decade",
+            "Facility ID",
+            "Status",
+            "Reported By"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which county reported the most number of school closure in the 1980s with school wonership code belonging to Youth Authority Facilities (CEA)?",
+        "data": [
+            [
+                "Alameda",
+                "CEA",
+                "47",
+                "80s",
+                "YAF-ALD-012",
+                "Closed",
+                "State Dept Ed"
+            ],
+            [
+                "Contra Costa",
+                "CEA",
+                "32",
+                "90s",
+                "YAF-COC-005",
+                "Opened",
+                "Local District"
+            ],
+            [
+                "Los Angeles",
+                "CEA",
+                "61",
+                "70s",
+                "YAF-LOS-099",
+                "Suspended",
+                "Regional Office"
+            ],
+            [
+                "San Diego",
+                "CEA",
+                "55",
+                "00s",
+                "YAF-SD-022",
+                "Active",
+                "State Audit"
+            ],
+            [
+                "Santa Clara",
+                "CEA",
+                "29",
+                "-1",
+                "YAF-SC-044",
+                "Pending",
+                "Federal Review"
+            ],
+            [
+                "Ventura",
+                "CEA",
+                "18",
+                "+1",
+                "YAF-VN-033",
+                "Reopened",
+                "County Board"
+            ],
+            [
+                "Sacramento",
+                "CEA",
+                "41",
+                "--",
+                "YAS-SAC-077",
+                "Terminated",
+                "Oversight Comm"
+            ]
+        ]
+    }
+}

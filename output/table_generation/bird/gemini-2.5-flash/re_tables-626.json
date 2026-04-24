@@ -1,0 +1,61 @@
+{
+    "table-626-626": {
+        "title": [
+            "State",
+            "City",
+            "User Count",
+            "Last Updated"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users were from New York?",
+        "data": [
+            [
+                "New York",
+                "New York City",
+                "1,250,000",
+                "2023-10-26"
+            ],
+            [
+                "New York",
+                "Buffalo",
+                "85,000",
+                "2023-10-26"
+            ],
+            [
+                "California",
+                "Los Angeles",
+                "1,800,000",
+                "2023-10-25"
+            ],
+            [
+                "Texas",
+                "Houston",
+                "950,000",
+                "2023-10-26"
+            ],
+            [
+                "Florida",
+                "Miami",
+                "620,000",
+                "2023-10-25"
+            ],
+            [
+                "Illinois",
+                "Chicago",
+                "780,000",
+                "2023-10-26"
+            ],
+            [
+                "New York",
+                "Albany",
+                "30,000",
+                "2023-10-26"
+            ]
+        ]
+    }
+}

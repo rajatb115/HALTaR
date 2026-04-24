@@ -1,0 +1,69 @@
+{
+    "table-375-375": {
+        "title": [
+            "Card Name",
+            "Set Code",
+            "Border Color",
+            "Availability Status",
+            "MTGO Exclusive"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many black border cards are only available on mtgo?",
+        "data": [
+            [
+                "Black Lotus",
+                "ANI",
+                "Black",
+                "Available Only on MTGO",
+                "Yes"
+            ],
+            [
+                "Mox Pearl",
+                "UNH",
+                "Black",
+                "Limited Distribution via MTGO Events",
+                "No"
+            ],
+            [
+                "Dark Ritual",
+                "MBS",
+                "Black",
+                "Standard Print Run",
+                "No"
+            ],
+            [
+                "Timetwister",
+                "CMB",
+                "Black",
+                "Digital-Only Release",
+                "Yes"
+            ],
+            [
+                "Tarmogoyf",
+                "GTC",
+                "Black",
+                "Legacy Format Restriction",
+                "No"
+            ],
+            [
+                "Lion's Eye Diamond",
+                "VOW",
+                "Black",
+                "Special Event Drop",
+                "Yes"
+            ],
+            [
+                "Ancestral Recall",
+                "UDG",
+                "Black",
+                "Vintage Legal",
+                "No"
+            ]
+        ]
+    }
+}

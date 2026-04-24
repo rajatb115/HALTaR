@@ -1,0 +1,58 @@
+{
+    "table-31-31": {
+        "title": [
+            "Pet Type",
+            "Maximum Weight",
+            "Weight Unit"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the maximum weight and type for each type of pet.",
+        "data": [
+            [
+                "Dog",
+                "200",
+                "lbs"
+            ],
+            [
+                "Cat",
+                "25",
+                "lbs"
+            ],
+            [
+                "Rabbit",
+                "20",
+                "lbs"
+            ],
+            [
+                "Bird",
+                "4",
+                "lbs"
+            ],
+            [
+                "Fish",
+                "50",
+                "lbs"
+            ],
+            [
+                "Horse",
+                "2200",
+                "lbs"
+            ],
+            [
+                "Guinea Pig",
+                "4",
+                "lbs"
+            ],
+            [
+                "Snake",
+                "300",
+                "lbs"
+            ]
+        ]
+    }
+}

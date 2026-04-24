@@ -1,0 +1,77 @@
+{
+    "table-130-130": {
+        "title": [
+            "District Name",
+            "Withdrawal Amount",
+            "Transaction Date",
+            "Transaction Type",
+            "Branch ID",
+            "Customer ID"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which are the top ten withdrawals (non-credit card) by district names for the month of January 1996?",
+        "data": [
+            [
+                "Central Business",
+                "15000",
+                "1996-01-15",
+                "Bank Transfer",
+                "101",
+                "5001"
+            ],
+            [
+                "Riverside",
+                "12500",
+                "1996-01-22",
+                "ATM Withdrawal",
+                "205",
+                "5008"
+            ],
+            [
+                "Northwood",
+                "11000",
+                "1996-01-05",
+                "Cash Withdrawal",
+                "310",
+                "5012"
+            ],
+            [
+                "Greenfield",
+                "9800",
+                "1996-01-18",
+                "Bank Transfer",
+                "402",
+                "5023"
+            ],
+            [
+                "Portside",
+                "8750",
+                "1996-01-29",
+                "ATM Withdrawal",
+                "101",
+                "5030"
+            ],
+            [
+                "Hilltop",
+                "7900",
+                "1996-01-10",
+                "Cash Withdrawal",
+                "205",
+                "5045"
+            ],
+            [
+                "West End",
+                "7200",
+                "1996-01-03",
+                "Bank Transfer",
+                "310",
+                "5051"
+            ]
+        ]
+    }
+}

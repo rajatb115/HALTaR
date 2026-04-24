@@ -1,0 +1,49 @@
+{
+    "table-1317-1317": {
+        "title": [
+            "Student Name",
+            "Club Affiliation",
+            "Event Attended",
+            "Phone Number"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Student Contact Information for Event Attendees",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the phone numbers of the students from the Student_Club that has attended the event \"Women's Soccer\".",
+        "data": [
+            [
+                "Alice Smith",
+                "Student_Club",
+                "Women's Soccer",
+                "555-123-4567"
+            ],
+            [
+                "Bob Johnson",
+                "Math Club",
+                "Chess Tournament",
+                "555-987-6543"
+            ],
+            [
+                "Carol Davis",
+                "Student_Club",
+                "Women's Soccer",
+                "555-246-8013"
+            ],
+            [
+                "David Lee",
+                "Debate Team",
+                "Public Speaking",
+                "555-135-7912"
+            ],
+            [
+                "Emily Brown",
+                "Student_Club",
+                "Women's Soccer",
+                "555-864-2097"
+            ]
+        ]
+    }
+}

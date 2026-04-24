@@ -1,0 +1,58 @@
+{
+    "table-442-442": {
+        "title": [
+            "Set Code",
+            "Release Date",
+            "Theme",
+            "Product Count",
+            "Price USD",
+            "Region",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the set code of the set with release date of 07/13/2007?",
+        "data": [
+            [
+                "4657",
+                "06/15/27",
+                "Star Wars",
+                "342",
+                "$49.99",
+                "North America",
+                "Active"
+            ],
+            [
+                "4661",
+                "4/12/28",
+                "Harry Potter",
+                "512",
+                "N/A",
+                "Europe",
+                "Discontinued"
+            ],
+            [
+                "75000",
+                "7/22/07",
+                "LEGO City",
+                "89",
+                "$24.95",
+                "Asia Pacific",
+                "Retired"
+            ],
+            [
+                "80102",
+                "6/30/08",
+                "Marvel Super Heroes",
+                "920",
+                "$129.00",
+                "Global",
+                "Active"
+            ]
+        ]
+    }
+}

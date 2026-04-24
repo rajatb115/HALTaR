@@ -1,0 +1,94 @@
+{
+    "table-173-173": {
+        "title": [
+            "Account Number",
+            "Disposition Type",
+            "Owner Count",
+            "Disponent Count",
+            "Total Transactions",
+            "Status",
+            "Date Range"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many owner and disponent dispositions are there from account number 1 to account number 10?",
+        "data": [
+            [
+                "1",
+                "Owner",
+                "45",
+                "N/A",
+                "67",
+                "Active",
+                "Jan-Mar 24"
+            ],
+            [
+                "1",
+                "Disident",
+                "N/A",
+                "32",
+                "58",
+                "Pending",
+                "Apr-Jun 23"
+            ],
+            [
+                "2",
+                "Owner",
+                "52",
+                "N/A",
+                "71",
+                "Completed",
+                "Feb-Apr 25"
+            ],
+            [
+                "3",
+                "Disponent",
+                "N/A",
+                "89",
+                "94",
+                "Active",
+                "Jul-Sep 22"
+            ],
+            [
+                "4",
+                "Owner",
+                "63",
+                "N/A",
+                "",
+                "Closed",
+                "Oct-Dec 21"
+            ],
+            [
+                "5",
+                "Disponent",
+                "N/A",
+                "41",
+                "44",
+                "Open",
+                "Nov-Jan 26"
+            ],
+            [
+                "6",
+                "Owner",
+                "",
+                "N/A",
+                "0",
+                "Suspended",
+                "Dec-Feb 27"
+            ],
+            [
+                "7",
+                "Disponent",
+                "N/A",
+                "",
+                "",
+                "Inactive",
+                "Mar-May 28"
+            ]
+        ]
+    }
+}

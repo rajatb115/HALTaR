@@ -1,0 +1,69 @@
+{
+    "table-4-4": {
+        "title": [
+            "Singer Name",
+            "Nationality",
+            "Age",
+            "Role",
+            "Active Since"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average, minimum, and maximum age for all French singers?",
+        "data": [
+            [
+                "Charles Aznavour",
+                "France",
+                "94",
+                "Vocalist/Songwriter",
+                "76"
+            ],
+            [
+                "Edith Piaf",
+                "France",
+                "N/A",
+                "Vocalist",
+                "87"
+            ],
+            [
+                "Myl\u00e8ne Farmer",
+                "France / Canada",
+                "58",
+                "Pop Artist",
+                "36"
+            ],
+            [
+                "Stromae",
+                "Belgium/France",
+                "40",
+                "Rapper/Producer",
+                "6"
+            ],
+            [
+                "Zazie",
+                "France/Germany",
+                "0",
+                "Rock Singer",
+                ""
+            ],
+            [
+                "Johnny Hallyday",
+                "France/Belgium",
+                "74",
+                "Rock Icon",
+                "N/A"
+            ],
+            [
+                "Julien Dor\u00e9",
+                "France/Cameroon",
+                "38",
+                "Indie Pop",
+                "Singer-Songwriter"
+            ]
+        ]
+    }
+}

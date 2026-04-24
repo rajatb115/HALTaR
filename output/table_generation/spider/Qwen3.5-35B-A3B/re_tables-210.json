@@ -1,0 +1,93 @@
+{
+    "table-210-210": {
+        "title": [
+            "Teacher_Name",
+            "Age",
+            "Subject",
+            "School_District",
+            "Years_Experience",
+            "Certification_Status",
+            "Hire_Date",
+            "Salary_Range"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of teachers in ascending order of age.",
+        "data": [
+            [
+                "Alice Johnson",
+                "47",
+                "Mathematics",
+                "North County",
+                "6",
+                "Active",
+                "01/15/2018",
+                "$55k-$60k"
+            ],
+            [
+                "Bob Smith",
+                "52",
+                "History",
+                "East District",
+                "8",
+                "Active - Renewed",
+                "3/22/2106",
+                "$62k-$70k"
+            ],
+            [
+                "Carol Davis",
+                "71",
+                "Science",
+                "West Valley",
+                "9",
+                "Pending Review",
+                "09/01 /2020",
+                "$75k+$80k"
+            ],
+            [
+                "David Lee",
+                "38",
+                "English",
+                "Central High",
+                "N/A",
+                "Expired",
+                "",
+                "$45k$50k"
+            ],
+            [
+                "Elena Rodriguez",
+                "29",
+                "Art",
+                "South Shore",
+                "N/A",
+                "New Hire",
+                "",
+                "$38k$42k"
+            ],
+            [
+                "Frank Miller",
+                "n/a",
+                "PE",
+                "North Hills",
+                "n/a",
+                "Inactive",
+                "NA",
+                "NA"
+            ],
+            [
+                "Grace Kim",
+                "male",
+                "Math",
+                "East Side",
+                "active",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

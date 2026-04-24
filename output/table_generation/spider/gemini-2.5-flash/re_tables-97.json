@@ -1,0 +1,69 @@
+{
+    "table-97-97": {
+        "title": [
+            "Model",
+            "Year",
+            "Engine Type",
+            "Cylinders",
+            "0-60 MPH (s)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For a volvo model, how many cylinders does the version with least accelerate have?",
+        "data": [
+            [
+                "Volvo S60",
+                "2023",
+                "B5 AWD",
+                "4",
+                "6.4"
+            ],
+            [
+                "Volvo XC40",
+                "2024",
+                "B4 FWD",
+                "4",
+                "8.1"
+            ],
+            [
+                "Volvo V90",
+                "2022",
+                "B6 AWD",
+                "4",
+                "6.1"
+            ],
+            [
+                "Volvo XC90",
+                "2023",
+                "B5 AWD",
+                "4",
+                "7.3"
+            ],
+            [
+                "Volvo S90",
+                "2021",
+                "T6 AWD",
+                "4",
+                "5.9"
+            ],
+            [
+                "Volvo C40 Recharge",
+                "2024",
+                "Single Motor",
+                "N/A",
+                "7.2"
+            ],
+            [
+                "Volvo V60 Cross Country",
+                "2023",
+                "B5 AWD",
+                "4",
+                "6.7"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-354-354": {
+        "title": [
+            "Serial Name",
+            "Channel Name",
+            "Package Option"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "TV Channel Package Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the Package Option of TV Channel with serial name \"Sky Radio\"?",
+        "data": [
+            [
+                "Sky Radio",
+                "Sky Radio",
+                "Entertainment"
+            ],
+            [
+                "BBC One",
+                "BBC One",
+                "Basic"
+            ],
+            [
+                "ITV",
+                "ITV",
+                "Basic"
+            ],
+            [
+                "Sky Sports",
+                "Sky Sports",
+                "Sports"
+            ],
+            [
+                "Channel 4",
+                "Channel 4",
+                "Basic"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-197-197": {
+        "title": [
+            "Template Type Code",
+            "Description",
+            "Category",
+            "Is Active"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the type code of the template type with the description \"Book\".",
+        "data": [
+            [
+                "TMPL001",
+                "Book",
+                "Publication",
+                "Yes"
+            ],
+            [
+                "TMPL002",
+                "Article",
+                "Publication",
+                "Yes"
+            ],
+            [
+                "TMPL003",
+                "Report",
+                "Document",
+                "Yes"
+            ],
+            [
+                "TMPL004",
+                "Presentation",
+                "Document",
+                "Yes"
+            ],
+            [
+                "TMPL005",
+                "Email",
+                "Communication",
+                "No"
+            ],
+            [
+                "TMPL006",
+                "Letter",
+                "Communication",
+                "Yes"
+            ],
+            [
+                "TMPL007",
+                "Invoice",
+                "Financial",
+                "Yes"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-729-729": {
+        "title": [
+            "Superhero Name",
+            "Eye Color",
+            "First Appearance",
+            "Publisher Status",
+            "Is Active"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the superheroes from Marvel Comics, how many of them have blue eyes?",
+        "data": [
+            [
+                "Captain America",
+                "Blue",
+                "Captain America #1 (1941)",
+                "Active",
+                "Yes"
+            ],
+            [
+                "Thor",
+                "Blue/Gray",
+                "Journey into Mystery #83 (1962)",
+                "Retired",
+                "No"
+            ],
+            [
+                "Iron Man",
+                "Brown",
+                "Tales of Suspense #39 (1963)",
+                "Active",
+                "Yes"
+            ],
+            [
+                "Spider-Man",
+                "Hazel",
+                "Amazing Fantasy #15 (1962)",
+                "Active",
+                "Yes"
+            ],
+            [
+                "Black Widow",
+                "Green",
+                "Tales of Suspense #52 (1964)",
+                "Active",
+                "No"
+            ],
+            [
+                "Hawkeye",
+                "Blue",
+                "Tales of Suspense #57 (1964)",
+                "Retired",
+                "No"
+            ],
+            [
+                "Wolverine",
+                "Brown",
+                "The Incredible Hulk #180 (1974)",
+                "Active",
+                "No"
+            ]
+        ]
+    }
+}

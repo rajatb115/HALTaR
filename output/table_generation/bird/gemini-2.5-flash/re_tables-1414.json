@@ -1,0 +1,69 @@
+{
+    "table-1414-1414": {
+        "title": [
+            "Member ID",
+            "Zip Code",
+            "Amount Incurred (USD)",
+            "Transaction Date",
+            "Membership Tier"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Mention the zip code of member who incurred less than 50USD.",
+        "data": [
+            [
+                "1001",
+                "90210",
+                "35.50",
+                "2023-10-26",
+                "Gold"
+            ],
+            [
+                "1002",
+                "10001",
+                "12.75",
+                "2023-10-25",
+                "Silver"
+            ],
+            [
+                "1003",
+                "60601",
+                "78.20",
+                "2023-10-24",
+                "Bronze"
+            ],
+            [
+                "1004",
+                "75001",
+                "49.99",
+                "2023-10-23",
+                "Gold"
+            ],
+            [
+                "1005",
+                "30303",
+                "22.00",
+                "2023-10-22",
+                "Silver"
+            ],
+            [
+                "1006",
+                "02108",
+                "115.30",
+                "2023-10-21",
+                "Platinum"
+            ],
+            [
+                "1007",
+                "94105",
+                "8.99",
+                "2023-10-20",
+                "Bronze"
+            ]
+        ]
+    }
+}

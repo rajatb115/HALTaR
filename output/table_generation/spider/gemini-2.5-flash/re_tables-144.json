@@ -1,0 +1,62 @@
+{
+    "table-144-144": {
+        "title": [
+            "Employee ID",
+            "Employee Name",
+            "Age",
+            "Department",
+            "Hire Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Sort employee names by their age in ascending order.",
+        "data": [
+            [
+                "105",
+                "Alice Smith",
+                "24",
+                "Marketing",
+                "2022-03-15"
+            ],
+            [
+                "102",
+                "Bob Johnson",
+                "28",
+                "Sales",
+                "2020-07-01"
+            ],
+            [
+                "108",
+                "Carol White",
+                "31",
+                "HR",
+                "2019-11-20"
+            ],
+            [
+                "101",
+                "David Green",
+                "35",
+                "Engineering",
+                "2018-01-10"
+            ],
+            [
+                "104",
+                "Eve Brown",
+                "42",
+                "Finance",
+                "2015-05-22"
+            ],
+            [
+                "107",
+                "Frank Black",
+                "48",
+                "Operations",
+                "2010-09-01"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-49-49": {
+        "title": [
+            "Pet Type",
+            "Average Age",
+            "Maximum Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Pet Age Summary by Type",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average and maximum age for each pet type?",
+        "data": [
+            [
+                "Dog",
+                "7.2",
+                "15"
+            ],
+            [
+                "Cat",
+                "5.5",
+                "18"
+            ],
+            [
+                "Bird",
+                "3",
+                "10"
+            ],
+            [
+                "Hamster",
+                "1.5",
+                "3"
+            ],
+            [
+                "Fish",
+                "2",
+                "7"
+            ]
+        ]
+    }
+}

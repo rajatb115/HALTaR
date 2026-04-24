@@ -1,0 +1,77 @@
+{
+    "table-1185-1185": {
+        "title": [
+            "Patient ID",
+            "Examination Date",
+            "Symptom",
+            "Severity",
+            "Duration (Days)",
+            "Diagnosis"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient whose birthday was 1959/3/1, what symptoms did he/she have during the examination on 1993/9/27?",
+        "data": [
+            [
+                "P19590301",
+                "1993-09-27",
+                "Persistent Headache",
+                "Moderate",
+                "5",
+                "Tension Headache"
+            ],
+            [
+                "P19590301",
+                "1993-09-27",
+                "Nausea",
+                "Mild",
+                "2",
+                "Gastric Upset"
+            ],
+            [
+                "P19590301",
+                "1993-09-27",
+                "Fatigue",
+                "Severe",
+                "10",
+                "Viral Infection"
+            ],
+            [
+                "P19590301",
+                "1993-09-27",
+                "Joint Stiffness",
+                "Moderate",
+                "7",
+                "Early Arthritis"
+            ],
+            [
+                "P19590301",
+                "1993-09-27",
+                "Dizziness",
+                "Mild",
+                "1",
+                "Orthostatic Hypotension"
+            ],
+            [
+                "P19590301",
+                "1993-09-27",
+                "Muscle Aches",
+                "Moderate",
+                "3",
+                "Flu-like Symptoms"
+            ],
+            [
+                "P19590301",
+                "1993-09-27",
+                "Insomnia",
+                "Severe",
+                "14",
+                "Stress-related"
+            ]
+        ]
+    }
+}

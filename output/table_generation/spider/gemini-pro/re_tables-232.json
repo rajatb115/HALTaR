@@ -1,0 +1,46 @@
+{
+    "table-232-232": {
+        "title": [
+            "Museum Name",
+            "Year Opened",
+            "Number of Staff"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Museum Staffing Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average number of staff working for the museums that were open before 2009.",
+        "data": [
+            [
+                "Museum A",
+                "1995",
+                "25"
+            ],
+            [
+                "Museum B",
+                "2002",
+                "30"
+            ],
+            [
+                "Museum C",
+                "1980",
+                "15"
+            ],
+            [
+                "Museum D",
+                "2005",
+                "40"
+            ],
+            [
+                "Museum E",
+                "1990",
+                "20"
+            ]
+        ]
+    }
+}

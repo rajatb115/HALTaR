@@ -1,0 +1,77 @@
+{
+    "table-1164-1164": {
+        "title": [
+            "Patient ID",
+            "Initial Arrival Age",
+            "Diagnosis Category",
+            "Admission Date",
+            "Department",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the age of the youngest patient when they initially arrived at the hospital?",
+        "data": [
+            [
+                "P-1042",
+                "6 months",
+                "Respiratory Infection",
+                "01/15/2023",
+                "Pediatrics",
+                "Discharged"
+            ],
+            [
+                "P-A99",
+                "7 years",
+                "Appendicitis",
+                "03/22/2023",
+                "Surgery",
+                "Recovered"
+            ],
+            [
+                "P-B22",
+                "N/A",
+                "Trauma",
+                "05/10/2024",
+                "Emergency",
+                "Critical Care"
+            ],
+            [
+                "P-C55",
+                "4 days",
+                "Neonatal Jaundice",
+                "08/01/2020",
+                "NICU",
+                "Stable"
+            ],
+            [
+                "P-D88",
+                "9 years",
+                "Asthma Exacerbation",
+                "2020-01-02",
+                "Pediatric Ward",
+                "Outpatient Follow-up"
+            ],
+            [
+                "P-E11",
+                "\u00bd year",
+                "Congenital Heart Defect",
+                "11/05/2020",
+                "Cardiology",
+                "Surgical Candidate"
+            ],
+            [
+                "P-F33",
+                "",
+                "Fracture",
+                "12/12/2020",
+                "Orthopedics",
+                "Cast Removed"
+            ]
+        ]
+    }
+}

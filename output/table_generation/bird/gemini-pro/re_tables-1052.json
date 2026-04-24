@@ -1,0 +1,45 @@
+{
+    "table-1052-1052": {
+        "title": [
+            "Player Name",
+            "Position",
+            "Potential Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Football Players with High Potential",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the football player with the highest potential score.",
+        "data": [
+            [
+                "John Smith",
+                "Striker",
+                "95"
+            ],
+            [
+                "David Lee",
+                "Midfielder",
+                "92"
+            ],
+            [
+                "Mike Brown",
+                "Defender",
+                "90"
+            ],
+            [
+                "Kevin Wang",
+                "Goalkeeper",
+                "88"
+            ],
+            [
+                "Tom Green",
+                "Winger",
+                "87"
+            ]
+        ]
+    }
+}

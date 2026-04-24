@@ -1,0 +1,39 @@
+{
+    "table-1064-1064": {
+        "title": [
+            "Player Name",
+            "Potential Score"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Football Player Potential Scores",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is Aaron Doran's potential score?",
+        "data": [
+            [
+                "Aaron Doran",
+                "75"
+            ],
+            [
+                "John Doe",
+                "82"
+            ],
+            [
+                "Jane Smith",
+                "88"
+            ],
+            [
+                "Peter Jones",
+                "70"
+            ],
+            [
+                "Emily Brown",
+                "91"
+            ]
+        ]
+    }
+}

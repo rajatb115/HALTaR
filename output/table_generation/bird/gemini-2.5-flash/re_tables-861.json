@@ -1,0 +1,77 @@
+{
+    "table-861-861": {
+        "title": [
+            "Driver Name",
+            "Race Number",
+            "Q2 Time",
+            "Nationality",
+            "Team",
+            "Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the driver who had the Q2 time as 0:01:40 in the qualifying race No. 355, what is his nationality?",
+        "data": [
+            [
+                "Max Verstappen",
+                "355",
+                "0:01:40",
+                "Dutch",
+                "Red Bull Racing",
+                "2023"
+            ],
+            [
+                "Lewis Hamilton",
+                "355",
+                "0:01:41",
+                "British",
+                "Mercedes-AMG",
+                "2023"
+            ],
+            [
+                "Charles Leclerc",
+                "354",
+                "0:01:39",
+                "Monegasque",
+                "Scuderia Ferrari",
+                "2023"
+            ],
+            [
+                "Pierre Gasly",
+                "355",
+                "0:01:40",
+                "French",
+                "Alpine",
+                "2022"
+            ],
+            [
+                "Fernando Alonso",
+                "356",
+                "0:01:42",
+                "Spanish",
+                "Aston Martin",
+                "2023"
+            ],
+            [
+                "Lando Norris",
+                "355",
+                "0:01:40",
+                "British",
+                "McLaren",
+                "2023"
+            ],
+            [
+                "Valtteri Bottas",
+                "355",
+                "0:01:43",
+                "Finnish",
+                "Alfa Romeo",
+                "2023"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-251-251": {
+        "title": [
+            "Loser Name",
+            "Event Type",
+            "Event Date",
+            "Final Rank",
+            "Prize Won"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the number of distinct name of losers.",
+        "data": [
+            [
+                "Alice Smith",
+                "Chess Championship",
+                "2023-10-26",
+                "2nd",
+                "Silver Medal"
+            ],
+            [
+                "Bob Johnson",
+                "Marathon",
+                "2023-09-15",
+                "15th",
+                "Finisher's Medal"
+            ],
+            [
+                "Charlie Brown",
+                "Debate Competition",
+                "2023-11-01",
+                "3rd",
+                "Certificate"
+            ],
+            [
+                "Diana Prince",
+                "Coding Challenge",
+                "2023-08-20",
+                "5th",
+                "N/A"
+            ],
+            [
+                "Eve Adams",
+                "Singing Contest",
+                "2023-12-05",
+                "2nd",
+                "Runner-up Trophy"
+            ],
+            [
+                "Frank White",
+                "Poker Tournament",
+                "2023-07-10",
+                "4th",
+                "N/A"
+            ],
+            [
+                "Grace Lee",
+                "Spelling Bee",
+                "2023-06-22",
+                "2nd",
+                "Participation Award"
+            ]
+        ]
+    }
+}

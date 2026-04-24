@@ -1,0 +1,45 @@
+{
+    "table-1446-1446": {
+        "title": [
+            "Member ID",
+            "Full Name",
+            "T-Shirt Size"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Member Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the full name of members whose t-shirt size is extra large.",
+        "data": [
+            [
+                "123",
+                "John Smith",
+                "XL"
+            ],
+            [
+                "456",
+                "Alice Johnson",
+                "S"
+            ],
+            [
+                "789",
+                "Robert Williams",
+                "XL"
+            ],
+            [
+                "101",
+                "Emily Brown",
+                "M"
+            ],
+            [
+                "202",
+                "David Jones",
+                "XL"
+            ]
+        ]
+    }
+}

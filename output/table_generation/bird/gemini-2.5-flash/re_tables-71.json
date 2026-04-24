@@ -1,0 +1,69 @@
+{
+    "table-71-71": {
+        "title": [
+            "School Name",
+            "County",
+            "Status",
+            "School Type",
+            "Opened Year",
+            "Closed Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many active and closed District Community Day Schools are there in the county of Alpine?",
+        "data": [
+            [
+                "Alpine Peak Community Day School",
+                "Alpine",
+                "Active",
+                "District Community Day School",
+                "2005",
+                "N/A"
+            ],
+            [
+                "Bear Valley Community Day School",
+                "Alpine",
+                "Closed",
+                "District Community Day School",
+                "1998",
+                "2015"
+            ],
+            [
+                "Markleeville Community Day School",
+                "Alpine",
+                "Active",
+                "District Community Day School",
+                "2010",
+                "N/A"
+            ],
+            [
+                "Silver Mountain Community Day School",
+                "Alpine",
+                "Closed",
+                "District Community Day School",
+                "1990",
+                "2008"
+            ],
+            [
+                "Hope Valley Community Day School",
+                "Alpine",
+                "Closed",
+                "District Community Day School",
+                "2018",
+                "2022"
+            ],
+            [
+                "Monitor Pass Community Day School",
+                "Alpine",
+                "Closed",
+                "District Community Day School",
+                "1985",
+                "1995"
+            ]
+        ]
+    }
+}

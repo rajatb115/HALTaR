@@ -1,0 +1,69 @@
+{
+    "table-999-999": {
+        "title": [
+            "Driver Rank",
+            "Total Points Acquired",
+            "Victories Counted",
+            "Season Context",
+            "Team Affiliation",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In terms of number of points acquired, how many victories did the driver who ranked 91st acquired?",
+        "data": [
+            [
+                "90th",
+                "42",
+                "0",
+                "Current Championship",
+                "Alpha Racing",
+                "Active"
+            ],
+            [
+                "91st",
+                "38",
+                "0",
+                "Current Championship",
+                "Beta Motorsport",
+                "Active"
+            ],
+            [
+                "92nd",
+                "36",
+                "5",
+                "Previous Season",
+                "Gamma F1",
+                "Retired"
+            ],
+            [
+                "93rd",
+                "71",
+                "8",
+                "Current Season",
+                "Delta Grand Prix",
+                "Injured"
+            ],
+            [
+                "89th",
+                "N/A",
+                "6",
+                "Historical Data",
+                "Epsilon Force",
+                "Deceased"
+            ],
+            [
+                "100th",
+                "12",
+                "N/A",
+                "Qualifying Round",
+                "Zeta Squad",
+                "Disqualified"
+            ]
+        ]
+    }
+}

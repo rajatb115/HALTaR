@@ -1,0 +1,39 @@
+{
+    "table-643-643": {
+        "title": [
+            "Date",
+            "Post Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Daily Post Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts were created on 21st July, 2010?",
+        "data": [
+            [
+                "2010-07-19",
+                "15"
+            ],
+            [
+                "2010-07-20",
+                "22"
+            ],
+            [
+                "2010-07-21",
+                "37"
+            ],
+            [
+                "2010-07-22",
+                "18"
+            ],
+            [
+                "2010-07-23",
+                "25"
+            ]
+        ]
+    }
+}

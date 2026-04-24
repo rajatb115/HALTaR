@@ -1,0 +1,47 @@
+{
+    "table-688-688": {
+        "title": [
+            "Post ID",
+            "Post Score",
+            "Number of Comments"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Post Comments Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many comments were added to the post with the highest score?",
+        "data": [
+            [
+                "123",
+                "150",
+                "25"
+            ],
+            [
+                "456",
+                "120",
+                "10"
+            ],
+            [
+                "789",
+                "90",
+                "5"
+            ],
+            [
+                "101",
+                "80",
+                "12"
+            ],
+            [
+                "112",
+                "70",
+                "8"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-302-302": {
+        "title": [
+            "Bond ID",
+            "Issuer",
+            "Coupon Rate (%)",
+            "Maturity Date",
+            "Credit Rating",
+            "Issue Price ($)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the bond type of TR007_4_19?",
+        "data": [
+            [
+                "TR006_4_A",
+                "TechCorp Inc",
+                "4.25",
+                "01/15/2030",
+                "AA+",
+                "98.50"
+            ],
+            [
+                "TR700_B",
+                "GreenEnergy Ltd",
+                "3.75",
+                "",
+                "BBB",
+                "89.20"
+            ],
+            [
+                "TQ100_C",
+                "UrbanDev Corp",
+                "5.00",
+                "",
+                "BB",
+                "75.10"
+            ],
+            [
+                "TS202_D",
+                "GlobalTrade Co",
+                "",
+                "2045",
+                "AAA",
+                "102.30"
+            ],
+            [
+                "TX303_E",
+                "BioPharm Labs",
+                "0.50",
+                "12/31/2101",
+                "Not Rated",
+                "95.70"
+            ],
+            [
+                "TY404_F",
+                "AutoMotive Group",
+                "",
+                "",
+                "C",
+                ""
+            ],
+            [
+                "TZ505_G",
+                "RetailChain LLC",
+                "",
+                "Q3 2201",
+                "D",
+                "50.05"
+            ]
+        ]
+    }
+}

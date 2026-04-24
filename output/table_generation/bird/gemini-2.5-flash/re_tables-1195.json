@@ -1,0 +1,76 @@
+{
+    "table-1195-1195": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Diagnosis",
+            "CRP (mg/L)",
+            "Creatinine (mg/dL)",
+            "LDH (U/L)",
+            "Exam Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What sex is the patient who in a medical examination was diagnosed with PSS and in a laboratory examination had a blood level of C-reactive protein de 2+, createnine 1 and LDH 123?",
+        "data": [
+            [
+                "P001",
+                "Female",
+                "PSS",
+                "25",
+                "1.0",
+                "123",
+                "2023-10-15"
+            ],
+            [
+                "P002",
+                "Male",
+                "SLE",
+                "18",
+                "1.1",
+                "180",
+                "2023-10-14"
+            ],
+            [
+                "P003",
+                "Female",
+                "Rheumatoid Arthritis",
+                "30",
+                "0.9",
+                "150",
+                "2023-10-16"
+            ],
+            [
+                "P004",
+                "Male",
+                "PSS",
+                "22",
+                "1.2",
+                "135",
+                "2023-10-15"
+            ],
+            [
+                "P005",
+                "Female",
+                "Healthy Check-up",
+                "5",
+                "0.8",
+                "160",
+                "2023-10-17"
+            ],
+            [
+                "P006",
+                "Female",
+                "PSS",
+                "28",
+                "1.0",
+                "128",
+                "2023-10-16"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-257-257": {
+        "title": [
+            "First_Name",
+            "Country_Code",
+            "Age",
+            "Team_Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name and country code of the oldest player.",
+        "data": [
+            [
+                "John",
+                "USA",
+                "42",
+                "Active"
+            ],
+            [
+                "Maria",
+                "ESP",
+                "38",
+                "Retired"
+            ],
+            [
+                "Ahmed",
+                "EGY",
+                "67",
+                "Consultant"
+            ],
+            [
+                "Li",
+                "CHN",
+                "55",
+                "Injured"
+            ],
+            [
+                "Sofia",
+                "BRA",
+                "71",
+                "Coach"
+            ],
+            [
+                "Kenji",
+                "JPN",
+                "83",
+                "Legend"
+            ],
+            [
+                "Elena",
+                "RUS",
+                "92",
+                "Hall_of_Fame"
+            ],
+            [
+                "David",
+                "GBR",
+                "0",
+                "N/A"
+            ]
+        ]
+    }
+}

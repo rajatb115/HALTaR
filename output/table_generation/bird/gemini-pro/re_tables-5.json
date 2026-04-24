@@ -1,0 +1,51 @@
+{
+    "table-5-5": {
+        "title": [
+            "School Name",
+            "Phone Number",
+            "Year Opened",
+            "Funding Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Charter School Contact Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the phone numbers of the direct charter-funded schools that are opened after 2000/1/1.",
+        "data": [
+            [
+                "Example Charter Academy",
+                "555-123-4567",
+                "2005",
+                "Direct Charter"
+            ],
+            [
+                "New Millennium School",
+                "555-987-6543",
+                "2010",
+                "Direct Charter"
+            ],
+            [
+                "Future Leaders Institute",
+                "555-246-8013",
+                "2002",
+                "Direct Charter"
+            ],
+            [
+                "Innovation Charter High",
+                "555-135-7912",
+                "2015",
+                "Direct Charter"
+            ],
+            [
+                "Progressive Learning Center",
+                "555-864-2000",
+                "2008",
+                "Direct Charter"
+            ]
+        ]
+    }
+}

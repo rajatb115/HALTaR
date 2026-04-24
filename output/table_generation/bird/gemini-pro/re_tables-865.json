@@ -1,0 +1,39 @@
+{
+    "table-865-865": {
+        "title": [
+            "Race Date",
+            "Number of Drivers Finished"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Race Results Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the race happened on 2015/11/29, how many drivers finished the game?",
+        "data": [
+            [
+                "2015-11-29",
+                "15"
+            ],
+            [
+                "2016-05-22",
+                "18"
+            ],
+            [
+                "2017-03-26",
+                "12"
+            ],
+            [
+                "2018-09-09",
+                "16"
+            ],
+            [
+                "2019-07-14",
+                "14"
+            ]
+        ]
+    }
+}

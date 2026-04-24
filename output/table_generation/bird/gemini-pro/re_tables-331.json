@@ -1,0 +1,58 @@
+{
+    "table-331-331": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Number of Triple Bonded Hydrogen Atoms",
+            "Total Number of Atoms",
+            "Percentage"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Carcinogenic Molecules with Triple Bonded Hydrogen",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of carcinogenic molecules with triple bonded Hidrogen atoms.",
+        "data": [
+            [
+                "Acetylene",
+                "C\u2082H\u2082",
+                "2",
+                "4",
+                "50%"
+            ],
+            [
+                "Hydrogen Cyanide",
+                "HCN",
+                "1",
+                "2",
+                "50%"
+            ],
+            [
+                "Cyanoacetylene",
+                "C\u2083HN",
+                "1",
+                "5",
+                "20%"
+            ],
+            [
+                "Propargyl Alcohol",
+                "C\u2083H\u2084O",
+                "1",
+                "8",
+                "12.5%"
+            ],
+            [
+                "Diacetylene",
+                "C\u2084H\u2082",
+                "2",
+                "6",
+                "33.3%"
+            ]
+        ]
+    }
+}

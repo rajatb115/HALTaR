@@ -1,0 +1,43 @@
+{
+    "table-370-370": {
+        "title": [
+            "Episode Title",
+            "TV Series Title",
+            "TV Channel"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "TV Series and Channels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the TV Channel of TV series with Episode \"A Love of a Lifetime\"? List the TV Channel's series name.",
+        "data": [
+            [
+                "A Love of a Lifetime",
+                "Grey's Anatomy",
+                "ABC"
+            ],
+            [
+                "A Love of a Lifetime",
+                "This Is Us",
+                "NBC"
+            ],
+            [
+                "A Love of a Lifetime",
+                "The Good Doctor",
+                "ABC"
+            ],
+            [
+                "A Love of a Lifetime",
+                "New Amsterdam",
+                "NBC"
+            ],
+            [
+                "A Love of a Lifetime",
+                "Chicago Fire",
+                "NBC"
+            ]
+        ]
+    }
+}

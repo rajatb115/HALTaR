@@ -1,0 +1,52 @@
+{
+    "table-588-588": {
+        "title": [
+            "Title",
+            "Comments",
+            "Score",
+            "Average View Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            3
+        ],
+        "pgTitle": "Humor Posts Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average view count of posts tagged as 'humor' and write the title and the comments of the posts alongside their scores if applicable.",
+        "data": [
+            [
+                "Hilarious Cat Video",
+                "125",
+                "4.5",
+                "15000"
+            ],
+            [
+                "Best Dad Joke Ever",
+                "87",
+                "N/A",
+                "12000"
+            ],
+            [
+                "Funny Work From Home Fails",
+                "210",
+                "4.8",
+                "22000"
+            ],
+            [
+                "Sarcastic Take on Current Events",
+                "155",
+                "4.2",
+                "18000"
+            ],
+            [
+                "The Ultimate Guide to Puns",
+                "92",
+                "N/A",
+                "10000"
+            ]
+        ]
+    }
+}

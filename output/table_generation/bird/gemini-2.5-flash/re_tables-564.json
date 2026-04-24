@@ -1,0 +1,77 @@
+{
+    "table-564-564": {
+        "title": [
+            "Post ID",
+            "User ID",
+            "Comment Date",
+            "Comment Time",
+            "Favorite Counts",
+            "Comment Text (Snippet)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "User No.3025 gave a comment at 20:29:39 on 2014/4/23 to a post, how many favorite counts did that post get?",
+        "data": [
+            [
+                "1001",
+                "3025",
+                "2014-04-23",
+                "20:29:39",
+                "152",
+                "\"This is a fantastic post!\""
+            ],
+            [
+                "1001",
+                "3026",
+                "2014-04-23",
+                "21:05:12",
+                "152",
+                "\"I found this very insightful.\""
+            ],
+            [
+                "1002",
+                "3027",
+                "2014-04-24",
+                "09:15:00",
+                "87",
+                "\"Great points made here.\""
+            ],
+            [
+                "1003",
+                "3025",
+                "2014-04-25",
+                "14:30:00",
+                "210",
+                "\"Thanks for sharing this information.\""
+            ],
+            [
+                "1004",
+                "3028",
+                "2014-04-25",
+                "18:00:00",
+                "45",
+                "\"Could you clarify the last part?\""
+            ],
+            [
+                "1001",
+                "3029",
+                "2014-04-23",
+                "22:10:05",
+                "152",
+                "\"Very well explained, thank you.\""
+            ],
+            [
+                "1005",
+                "3030",
+                "2014-04-26",
+                "10:00:00",
+                "112",
+                "\"I learned a lot from this.\""
+            ]
+        ]
+    }
+}

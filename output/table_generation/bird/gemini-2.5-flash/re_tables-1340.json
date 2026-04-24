@@ -1,0 +1,69 @@
+{
+    "table-1340-1340": {
+        "title": [
+            "Event Name",
+            "Participant Name",
+            "Event Date",
+            "Cost (USD)",
+            "Payment Method"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total average cost that Elijah Allen spent in the events on September and October.",
+        "data": [
+            [
+                "Tech Conference",
+                "Elijah Allen",
+                "2023-09-15",
+                "550.00",
+                "Credit Card"
+            ],
+            [
+                "Workshop Fee",
+                "Elijah Allen",
+                "2023-09-28",
+                "120.50",
+                "Debit Card"
+            ],
+            [
+                "Networking Dinner",
+                "Elijah Allen",
+                "2023-10-05",
+                "75.25",
+                "Cash"
+            ],
+            [
+                "Software License",
+                "Elijah Allen",
+                "2023-10-18",
+                "300.00",
+                "Bank Transfer"
+            ],
+            [
+                "Travel Expense",
+                "Elijah Allen",
+                "2023-10-25",
+                "180.75",
+                "Credit Card"
+            ],
+            [
+                "Project Meeting Lunch",
+                "Elijah Allen",
+                "2023-09-03",
+                "45.00",
+                "Company Card"
+            ],
+            [
+                "Training Session",
+                "Sarah Connor",
+                "2023-09-20",
+                "200.00",
+                "Credit Card"
+            ]
+        ]
+    }
+}

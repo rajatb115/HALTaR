@@ -1,0 +1,69 @@
+{
+    "table-317-317": {
+        "title": [
+            "StudentID",
+            "LastName",
+            "FirstName",
+            "State",
+            "DegreeProgram"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the last name of the students who live in North Carolina but have not registered in any degree programs?",
+        "data": [
+            [
+                "101",
+                "Chen",
+                "Li",
+                "North Carolina",
+                "N/A"
+            ],
+            [
+                "102",
+                "Patel",
+                "Priya",
+                "North Carolina",
+                "N/A"
+            ],
+            [
+                "103",
+                "Garcia",
+                "Mateo",
+                "North Carolina",
+                "N/A"
+            ],
+            [
+                "104",
+                "Kim",
+                "Joon",
+                "North Carolina",
+                "N/A"
+            ],
+            [
+                "105",
+                "Schmidt",
+                "Anna",
+                "North Carolina",
+                "N/A"
+            ],
+            [
+                "106",
+                "Singh",
+                "Raj",
+                "North Carolina",
+                "N/A"
+            ],
+            [
+                "107",
+                "Dubois",
+                "Chloe",
+                "North Carolina",
+                "N/A"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-682-682": {
+        "title": [
+            "Display Name",
+            "Post ID",
+            "View Count",
+            "Date Posted",
+            "Platform",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the users' display names whose posts had over 20000 views in 2011.",
+        "data": [
+            [
+                "John Doe",
+                "POST_4421",
+                "32450",
+                "03/15/2021",
+                "Twitter",
+                "Active"
+            ],
+            [
+                "Sarah Smith",
+                "POST_A7B2",
+                "45100",
+                "July 22, 2021",
+                "LinkedIn",
+                "Archived"
+            ],
+            [
+                "Michael Chen",
+                "POST_X9K1",
+                "21050",
+                "Jan 10, 2001",
+                "Facebook",
+                "Deleted"
+            ],
+            [
+                "Emily Davis",
+                "POST_M3L8",
+                "67890",
+                "Dec 31, 2011",
+                "Instagram",
+                "Active"
+            ],
+            [
+                "Robert Wilson",
+                "POST_Q2P9",
+                "N/A",
+                "Feb 14, 1999",
+                "Reddit",
+                "Pending Review"
+            ]
+        ]
+    }
+}

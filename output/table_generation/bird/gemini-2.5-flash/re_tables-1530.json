@@ -1,0 +1,61 @@
+{
+    "table-1530-1530": {
+        "title": [
+            "CustomerID",
+            "TransactionDate",
+            "MerchantCategory",
+            "AmountSpent"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the amount spent by customer \"38508\" at the gas stations? How much had the customer spent in January 2012?",
+        "data": [
+            [
+                "38508",
+                "2012-01-05",
+                "Gas Station",
+                "55.23"
+            ],
+            [
+                "38508",
+                "2012-01-18",
+                "Gas Station",
+                "62.80"
+            ],
+            [
+                "38508",
+                "2012-01-22",
+                "Grocery Store",
+                "120.50"
+            ],
+            [
+                "38508",
+                "2012-02-01",
+                "Gas Station",
+                "58.15"
+            ],
+            [
+                "38508",
+                "2012-01-10",
+                "Restaurant",
+                "45.00"
+            ],
+            [
+                "38508",
+                "2012-03-15",
+                "Online Retail",
+                "210.99"
+            ],
+            [
+                "38508",
+                "2012-01-28",
+                "Pharmacy",
+                "30.75"
+            ]
+        ]
+    }
+}

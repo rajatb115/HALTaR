@@ -1,0 +1,69 @@
+{
+    "table-55-55": {
+        "title": [
+            "StudentID",
+            "StudentLastName",
+            "PetID",
+            "PetName",
+            "PetType"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the id of the pet owned by the student whose last name is 'Smith'?",
+        "data": [
+            [
+                "101",
+                "Johnson",
+                "501",
+                "Buddy",
+                "Dog"
+            ],
+            [
+                "102",
+                "Williams",
+                "502",
+                "Whiskers",
+                "Cat"
+            ],
+            [
+                "103",
+                "Smith",
+                "503",
+                "Goldie",
+                "Fish"
+            ],
+            [
+                "104",
+                "Brown",
+                "504",
+                "Rocky",
+                "Hamster"
+            ],
+            [
+                "105",
+                "Davis",
+                "505",
+                "Luna",
+                "Dog"
+            ],
+            [
+                "106",
+                "Miller",
+                "506",
+                "Mittens",
+                "Cat"
+            ],
+            [
+                "107",
+                "Wilson",
+                "507",
+                "Spike",
+                "Lizard"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "table-10-10": {
+        "title": [
+            "School ID",
+            "School Name",
+            "Avg Math Score",
+            "Funding Source",
+            "Charter Status",
+            "Enrollment Count",
+            "District Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the schools with the average score in Math over 560 in the SAT test, how many schools are directly charter-funded?",
+        "data": [
+            [
+                "SCH_0042",
+                "Lincoln Academy",
+                "572",
+                "State Grant",
+                "Yes",
+                "450",
+                "North Central"
+            ],
+            [
+                "SCH_A109",
+                "Westview Prep",
+                "615",
+                "Federal Block",
+                "No",
+                "820",
+                "South East"
+            ],
+            [
+                "SCH_B331",
+                "Horizon High",
+                "701",
+                "Private Endowment",
+                "No",
+                "310",
+                "Metro Core"
+            ],
+            [
+                "SCH_C055",
+                "Riverdale Institute",
+                "980",
+                "Local Tax Levy",
+                "No",
+                "0",
+                "Coastal Zone"
+            ],
+            [
+                "SCH_D228",
+                "Summit Learning Center",
+                "588",
+                "Municipal Bond",
+                "Yes",
+                "",
+                ""
+            ],
+            [
+                "SCH_E117",
+                "Oakwood STEM",
+                "",
+                "Unknown Fund",
+                "",
+                "",
+                ""
+            ],
+            [
+                "SCH_F440",
+                "Valley View Tech",
+                "",
+                "Deficit Budget",
+                "False",
+                "",
+                ""
+            ],
+            [
+                "SCH_G992",
+                "Pinecrest Arts",
+                "",
+                "Crowdfunding",
+                "True",
+                "",
+                ""
+            ]
+        ]
+    }
+}

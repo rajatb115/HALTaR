@@ -1,0 +1,43 @@
+{
+    "table-125-125": {
+        "title": [
+            "Loan ID",
+            "District",
+            "Average Salary"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Loan Information by District",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the loan ID, district and average salary for loan with duration of 60 months.",
+        "data": [
+            [
+                "LP001",
+                "Central",
+                "$60,000"
+            ],
+            [
+                "LP002",
+                "East",
+                "$75,000"
+            ],
+            [
+                "LP003",
+                "West",
+                "$55,000"
+            ],
+            [
+                "LP004",
+                "North",
+                "$80,000"
+            ],
+            [
+                "LP005",
+                "South",
+                "$70,000"
+            ]
+        ]
+    }
+}

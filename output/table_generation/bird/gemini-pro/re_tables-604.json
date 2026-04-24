@@ -1,0 +1,47 @@
+{
+    "table-604-604": {
+        "title": [
+            "User ID",
+            "Year",
+            "Favorite Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "User Favorite Counts Over Time",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the sum of favourite count gained by user ID 686 in 2011?",
+        "data": [
+            [
+                "686",
+                "2010",
+                "150"
+            ],
+            [
+                "686",
+                "2011",
+                "200"
+            ],
+            [
+                "686",
+                "2012",
+                "250"
+            ],
+            [
+                "700",
+                "2010",
+                "100"
+            ],
+            [
+                "700",
+                "2011",
+                "120"
+            ]
+        ]
+    }
+}

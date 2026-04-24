@@ -1,0 +1,69 @@
+{
+    "table-1183-1183": {
+        "title": [
+            "Patient ID",
+            "Admission Date",
+            "Diagnosis",
+            "Test Category",
+            "Total Tests Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who first came to the hospital on 1991/6/13 who was diagnosed with SJS, what is the total number of his/her Laboratory tests in 1995?",
+        "data": [
+            [
+                "P-7492",
+                "1991-Jun-13",
+                "Stevens-Johnson Syndrome",
+                "Hematology",
+                "42"
+            ],
+            [
+                "P-7801",
+                "1991-Jul-02",
+                "Stevens-Johnson Syndrome",
+                "Chemistry",
+                "38"
+            ],
+            [
+                "P-7990",
+                "1992-Jan-15",
+                "SJS",
+                "Immunology",
+                "29"
+            ],
+            [
+                "P-A102",
+                "N/A",
+                "SJS Variant",
+                "Microbiology",
+                "55"
+            ],
+            [
+                "Q-B203",
+                "1989-Nov-11",
+                "Toxic Epidermal Necrolysis",
+                "Pathology",
+                "31"
+            ],
+            [
+                "R-C304",
+                "2000-Mar-22",
+                "Drug Reaction",
+                "Radiology",
+                "N"
+            ],
+            [
+                "S-D405",
+                "1965-Aug-08",
+                "Erythema Multiforme",
+                "Genetics",
+                "7"
+            ]
+        ]
+    }
+}

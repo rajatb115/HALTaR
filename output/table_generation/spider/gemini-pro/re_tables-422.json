@@ -1,0 +1,39 @@
+{
+    "table-422-422": {
+        "title": [
+            "Contestant Number",
+            "Contestant Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Contestant Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the contestant numbers and names, ordered by contestant name descending.",
+        "data": [
+            [
+                "101",
+                "Xavier"
+            ],
+            [
+                "105",
+                "Wendy"
+            ],
+            [
+                "103",
+                "Umar"
+            ],
+            [
+                "102",
+                "Sarah"
+            ],
+            [
+                "104",
+                "Quinn"
+            ]
+        ]
+    }
+}

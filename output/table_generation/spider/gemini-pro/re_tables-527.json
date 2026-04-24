@@ -1,0 +1,39 @@
+{
+    "table-527-527": {
+        "title": [
+            "Conductor Name",
+            "Age"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Conductors' Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of conductors, ordered by age?",
+        "data": [
+            [
+                "Marin Alsop",
+                "67"
+            ],
+            [
+                "Esa-Pekka Salonen",
+                "66"
+            ],
+            [
+                "Riccardo Muti",
+                "82"
+            ],
+            [
+                "John Williams",
+                "92"
+            ],
+            [
+                "Herbert Blomstedt",
+                "96"
+            ]
+        ]
+    }
+}

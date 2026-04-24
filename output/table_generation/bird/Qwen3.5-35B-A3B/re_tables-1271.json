@@ -1,0 +1,69 @@
+{
+    "table-1271-1271": {
+        "title": [
+            "Patient ID",
+            "Anti-SCL70 Status",
+            "Gender",
+            "Symptom Present",
+            "Vertigo Diagnosis"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients who has a normal anti-scl70, how many of them are male and have the symptom of vertigo?",
+        "data": [
+            [
+                "P-1042",
+                "Normal",
+                "Male",
+                "Yes",
+                "Confirmed"
+            ],
+            [
+                "P-1105",
+                "Normal",
+                "Male",
+                "Yes",
+                "Suspected"
+            ],
+            [
+                "P-1230",
+                "Normal",
+                "Female",
+                "No",
+                "None"
+            ],
+            [
+                "P-1456",
+                "Normal",
+                "Male",
+                "Yes",
+                "Confirmed"
+            ],
+            [
+                "P-1599",
+                "Normal",
+                "Male",
+                "No",
+                "None"
+            ],
+            [
+                "P-1602",
+                "Normal",
+                "",
+                "vertigo only",
+                "pending"
+            ],
+            [
+                "P-1701",
+                "Normal",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-1518-1518": {
+        "title": [
+            "CustomerID",
+            "CustomerName",
+            "SignupDate",
+            "Segment",
+            "TotalRevenue"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the earliest customer, what segment did he/she have?",
+        "data": [
+            [
+                "CUST001",
+                "Alpha Corp",
+                "2018-01-15",
+                "Enterprise",
+                "1500000"
+            ],
+            [
+                "CUST002",
+                "Beta Solutions",
+                "2018-03-22",
+                "SMB",
+                "350000"
+            ],
+            [
+                "CUST003",
+                "Gamma Innovations",
+                "2019-07-01",
+                "Startup",
+                "80000"
+            ],
+            [
+                "CUST004",
+                "Delta Services",
+                "2020-02-10",
+                "Enterprise",
+                "1200000"
+            ],
+            [
+                "CUST005",
+                "Epsilon Tech",
+                "2020-11-05",
+                "SMB",
+                "420000"
+            ],
+            [
+                "CUST006",
+                "Zeta Analytics",
+                "2021-04-18",
+                "Individual",
+                "15000"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1324-1324": {
+        "title": [
+            "Event_Name",
+            "Date_Attended",
+            "Attendance_Count",
+            "Club_Organization",
+            "Location",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the names of all the events of the Student_Club that had an attendance of over 20 students.",
+        "data": [
+            [
+                "Annual Science Fair",
+                "4/12/2023",
+                "35",
+                "Student_Clubs",
+                "Main Hall",
+                "Completed"
+            ],
+            [
+                "Mystery Night Gala",
+                "5/28/2023",
+                "42",
+                "Student_Clubs",
+                "Auditorium",
+                "Completed"
+            ],
+            [
+                "Charity Run Fundraiser",
+                "6/15/1975",
+                "28",
+                "Student_Clubs",
+                "Campus Grounds",
+                "Completed"
+            ],
+            [
+                "Tech Workshop Series",
+                "9/10/2022",
+                "65",
+                "Student Clubs",
+                "Computer Lab",
+                "Ongoing"
+            ],
+            [
+                "Annual Cultural Festival",
+                "8/30/1899",
+                "72",
+                "Student Clubs",
+                "Outdoor Plaza",
+                "Planned"
+            ],
+            [
+                "Debate Championship Finals",
+                "3/14/2021",
+                "24",
+                "Student Clbbs",
+                "Lecture Hall H",
+                "Cancelled"
+            ],
+            [
+                "Spring Music Showcase",
+                "April 2nd, 21st Century",
+                "N/A",
+                "Student Cllbs",
+                "Gymnasium",
+                "Postponed"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1000-1000": {
+        "title": [
+            "Race Name",
+            "Year",
+            "Track",
+            "Racer Name",
+            "Fastest Lap Time (s)",
+            "Fastest Lap Speed (km/h)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In terms of the fastest lap time, what is the name of the race which recorded the fastest lap speed by a racer?",
+        "data": [
+            [
+                "Italian Grand Prix",
+                "2020",
+                "Autodromo Nazionale Monza",
+                "Lewis Hamilton",
+                "81.832",
+                "254.87"
+            ],
+            [
+                "Saudi Arabian Grand Prix",
+                "2023",
+                "Jeddah Corniche Circuit",
+                "Sergio P\u00e9rez",
+                "90.925",
+                "253.89"
+            ],
+            [
+                "Belgian Grand Prix",
+                "2019",
+                "Circuit de Spa-Francorchamps",
+                "Sebastian Vettel",
+                "106.204",
+                "240.12"
+            ],
+            [
+                "British Grand Prix",
+                "2022",
+                "Silverstone Circuit",
+                "Max Verstappen",
+                "87.096",
+                "243.55"
+            ],
+            [
+                "Bahrain Grand Prix",
+                "2024",
+                "Bahrain International Circuit",
+                "Charles Leclerc",
+                "92.664",
+                "228.11"
+            ],
+            [
+                "Monaco Grand Prix",
+                "2021",
+                "Circuit de Monaco",
+                "Lewis Hamilton",
+                "74.042",
+                "162.87"
+            ],
+            [
+                "Hungarian Grand Prix",
+                "2021",
+                "Hungaroring",
+                "Pierre Gasly",
+                "79.248",
+                "198.76"
+            ]
+        ]
+    }
+}

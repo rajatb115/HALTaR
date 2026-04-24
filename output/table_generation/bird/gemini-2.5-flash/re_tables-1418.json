@@ -1,0 +1,61 @@
+{
+    "table-1418-1418": {
+        "title": [
+            "Event Type",
+            "Allocated Budget (USD)",
+            "Spent Budget (USD)",
+            "Remaining Budget (USD)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the type of events which have remaining budget more than 30 USD.",
+        "data": [
+            [
+                "Conference",
+                "5000",
+                "4950",
+                "50"
+            ],
+            [
+                "Workshop",
+                "1500",
+                "1480",
+                "20"
+            ],
+            [
+                "Seminar",
+                "800",
+                "720",
+                "80"
+            ],
+            [
+                "Product Launch",
+                "10000",
+                "9960",
+                "40"
+            ],
+            [
+                "Team Building",
+                "1200",
+                "1195",
+                "5"
+            ],
+            [
+                "Gala Dinner",
+                "7000",
+                "6900",
+                "100"
+            ],
+            [
+                "Training Session",
+                "600",
+                "585",
+                "15"
+            ]
+        ]
+    }
+}

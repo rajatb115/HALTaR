@@ -1,0 +1,61 @@
+{
+    "table-514-514": {
+        "title": [
+            "Set ID",
+            "Expansion Type",
+            "Total Cards (Excl. Alchemy)",
+            "Promotional Count",
+            "Supplemental Products",
+            "Highest Rank"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the sets whose expansion type is Commander, which set has the highest total number of cards including promotional and related supplemental products but excluding Alchemy modifications? Indicate the id of the set.",
+        "data": [
+            [
+                "CMDR004",
+                "Commander",
+                "67",
+                "4",
+                "Yes",
+                "N/A"
+            ],
+            [
+                "CMDRB012",
+                "Commander & Dragons",
+                "58",
+                "3",
+                "No",
+                "N/A"
+            ],
+            [
+                "CMDC002",
+                "Commanders Definitive",
+                "72",
+                "8",
+                "Yes",
+                "N/A"
+            ],
+            [
+                "CMDX009",
+                "Commander Legends",
+                "94",
+                "0",
+                "Yes",
+                "N/A"
+            ],
+            [
+                "CMDK003",
+                "Kaldheim Commander",
+                "None",
+                "",
+                "",
+                "N/A"
+            ]
+        ]
+    }
+}

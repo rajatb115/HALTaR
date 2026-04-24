@@ -1,0 +1,45 @@
+{
+    "table-815-815": {
+        "title": [
+            "Superhero",
+            "Attribute Value",
+            "Skin Color"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Superhero Skin Colors and Attribute Values",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the skin colour of the superheroes with 100 attribute value.",
+        "data": [
+            [
+                "Superman",
+                "100",
+                "White"
+            ],
+            [
+                "Hulk",
+                "100",
+                "Green"
+            ],
+            [
+                "Mystique",
+                "100",
+                "Blue"
+            ],
+            [
+                "Martian Manhunter",
+                "100",
+                "Green"
+            ],
+            [
+                "Spider-Man",
+                "100",
+                "Red and Blue"
+            ]
+        ]
+    }
+}

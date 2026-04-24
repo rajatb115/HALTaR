@@ -1,0 +1,43 @@
+{
+    "table-526-526": {
+        "title": [
+            "Card Name",
+            "UUID",
+            "Legality in Old School"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Magic: The Gathering Legality of Cards in Old School Format",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the uuid of cards in which the old school format is restricted or banned.",
+        "data": [
+            [
+                "Ancestral Recall",
+                "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+                "Restricted"
+            ],
+            [
+                "Balance",
+                "b2c3d4e5-f6a7-8901-2345-67890abcdef0",
+                "Restricted"
+            ],
+            [
+                "Black Lotus",
+                "c3d4e5f6-a7b8-9012-3456-7890abcdef01",
+                "Restricted"
+            ],
+            [
+                "Demonic Tutor",
+                "d4e5f6a7-b8c9-0123-4567-890abcdef012",
+                "Restricted"
+            ],
+            [
+                "Channel",
+                "e5f6a7b8-c9d0-1234-5678-90abcdef0123",
+                "Banned"
+            ]
+        ]
+    }
+}

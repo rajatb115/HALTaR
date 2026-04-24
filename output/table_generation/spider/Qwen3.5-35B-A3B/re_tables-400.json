@@ -1,0 +1,55 @@
+{
+    "table-400-400": {
+        "title": [
+            "Player Name",
+            "Nationality",
+            "Primary Event",
+            "Career Earnings",
+            "Active Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of poker players?",
+        "data": [
+            [
+                "Daniel Negreanu",
+                "Canada",
+                "World Series of Poker",
+                "$46M+",
+                "Yes"
+            ],
+            [
+                "Phil Ivey",
+                "USA",
+                "High Stakes Cash Games",
+                "$27M+ (Live Tournaments)",
+                "Yes (Limited)"
+            ],
+            [
+                "Doyle Brunson",
+                "USA (Deceased)",
+                "World Championship",
+                "$7.3M (Lifetime)",
+                "No"
+            ],
+            [
+                "Johnny Chan",
+                "USA/China",
+                "World Championships",
+                "$10M+ Live",
+                "Retired"
+            ],
+            [
+                "Brynn Kenney",
+                "USA / Australia",
+                "WSOP Main Events",
+                "$5.5M+ Online/Live",
+                "Yes"
+            ]
+        ]
+    }
+}

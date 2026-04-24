@@ -1,0 +1,61 @@
+{
+    "table-1102-1102": {
+        "title": [
+            "Season",
+            "Opponent City",
+            "Goals Scored Away",
+            "Matches Played",
+            "League Tier",
+            "Home Team Avg Goals Conceded"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average number of goals made by Parma as the away team while playing in Italy?",
+        "data": [
+            [
+                "2/2024",
+                "Milan",
+                "0",
+                "6",
+                "Serie A",
+                "N/A"
+            ],
+            [
+                "20/23",
+                "Rome",
+                "7",
+                "5",
+                "Serie B",
+                "N/A"
+            ],
+            [
+                "19/22",
+                "Turin",
+                "4",
+                "8",
+                "Serie C",
+                "N/A"
+            ],
+            [
+                "8/21",
+                "Naples",
+                "",
+                "4",
+                "Serie D",
+                "N/A"
+            ],
+            [
+                "7/24",
+                "Florence",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

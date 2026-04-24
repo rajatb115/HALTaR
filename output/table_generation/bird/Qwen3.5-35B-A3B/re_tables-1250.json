@@ -1,0 +1,61 @@
+{
+    "table-1250-1250": {
+        "title": [
+            "Patient ID",
+            "Disease Name",
+            "Proteinuria Level (mg/dL)",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the disease names of the patients that have a proteinuria level higher than normal.",
+        "data": [
+            [
+                "P-1042",
+                "Diabetic Nephropathy",
+                "350",
+                "Abnormal"
+            ],
+            [
+                "P-A77B",
+                "Hypertensive Kidney Disease",
+                "420",
+                "High"
+            ],
+            [
+                "M-22C1",
+                "Lupus Nephritis",
+                "680",
+                "Severe"
+            ],
+            [
+                "F-99XZ",
+                "IgA Nephrology",
+                "510",
+                "Elevated"
+            ],
+            [
+                "K-44LM",
+                "Minimal Change Disease",
+                "",
+                "Normal"
+            ],
+            [
+                "R-11QW",
+                "Focal Segmental Glomerulosclerosis",
+                "890",
+                "Critical"
+            ],
+            [
+                "T-33OP",
+                "Membranous Nephopathy",
+                "720",
+                "Very High"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-396-396": {
+        "title": [
+            "Player Rank",
+            "Poker Player",
+            "Total Earnings ($)",
+            "Highest Single Event Win ($)",
+            "Primary Game Variant",
+            "Active Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the money rank of the poker player with the highest earnings?",
+        "data": [
+            [
+                "1",
+                "Phil Ivey",
+                "47,600,000",
+                "12,100.00",
+                "No Limit Hold'em",
+                "Active"
+            ],
+            [
+                "2",
+                "Daniel Negreanu",
+                "39,500.00",
+                "11,800.00",
+                "Texas Hold'em",
+                "Active"
+            ],
+            [
+                "3",
+                "Doyle Brunson",
+                "27,400.00",
+                "10,500,000",
+                "No Limit Omaha",
+                "Inactive"
+            ],
+            [
+                "4",
+                "Bryn Kenney",
+                "52,300.00",
+                "",
+                "High Stakes Cash Games",
+                "Active"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-710-710": {
+        "title": [
+            "Comment ID",
+            "Comment Score",
+            "Post ID",
+            "Post View Count",
+            "Post Title",
+            "Comment Text Snippet"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In comments with 0 score, how many of the posts have view count lower than 5?",
+        "data": [
+            [
+                "C101",
+                "0",
+                "P501",
+                "3",
+                "How to fix a broken link?",
+                "This solution didn't work for me."
+            ],
+            [
+                "C102",
+                "0",
+                "P502",
+                "12",
+                "Best practices for database indexing",
+                "I found this article confusing."
+            ],
+            [
+                "C103",
+                "2",
+                "P503",
+                "1",
+                "My first Python script",
+                "Great start! Keep learning."
+            ],
+            [
+                "C104",
+                "0",
+                "P504",
+                "4",
+                "Understanding CSS Flexbox",
+                "Still struggling with alignment."
+            ],
+            [
+                "C105",
+                "-1",
+                "P505",
+                "2",
+                "Beginner's guide to Git",
+                "This explanation is unclear."
+            ],
+            [
+                "C106",
+                "0",
+                "P506",
+                "3",
+                "Setting up a local development server",
+                "I got an error at step 3."
+            ],
+            [
+                "C107",
+                "0",
+                "P507",
+                "25",
+                "Advanced JavaScript closures",
+                "This example is too complex."
+            ]
+        ]
+    }
+}

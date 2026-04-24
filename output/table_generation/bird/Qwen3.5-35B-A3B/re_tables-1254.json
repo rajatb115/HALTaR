@@ -1,0 +1,67 @@
+{
+    "table-1254-1254": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "IgA Level (mg/dL)",
+            "Status",
+            "Age",
+            "Gender",
+            "Sample Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who has the highest Ig A within the normal range, what is his or her diagnosis?",
+        "data": [
+            [
+                "P-1042",
+                "Healthy Control",
+                "320",
+                "Normal Range",
+                "45",
+                "Male",
+                "06/15/2023"
+            ],
+            [
+                "P-1109",
+                "Allergic Rhinitis",
+                "580",
+                "High-Normal",
+                "67",
+                "Female",
+                "07/22/2023"
+            ],
+            [
+                "P-A201",
+                "Celiac Disease Remission",
+                "890",
+                "Upper Limit",
+                "92",
+                "Male",
+                "08/01/2024"
+            ],
+            [
+                "P-B305",
+                "Chronic Fatigue Syndrome",
+                "410",
+                "Mid-Range",
+                "33",
+                "Female",
+                "09/10/2021"
+            ],
+            [
+                "P-C412",
+                "Hypertension",
+                "250",
+                "Low-Mid",
+                "",
+                "Male",
+                "Nov 12, 2022"
+            ]
+        ]
+    }
+}

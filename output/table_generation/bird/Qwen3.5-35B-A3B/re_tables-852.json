@@ -1,0 +1,69 @@
+{
+    "table-852-852": {
+        "title": [
+            "Circuit Name",
+            "Constructor",
+            "Location",
+            "First Built",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the positions of the circuits built by the constructor Renault.",
+        "data": [
+            [
+                "Circuit de la Sarthe",
+                "Renault",
+                "Le Mans, France",
+                "476",
+                "Active"
+            ],
+            [
+                "Circuit Paul Ricard",
+                "Renault",
+                "Marseille, France",
+                "1066",
+                "Active"
+            ],
+            [
+                "Circuit de Nevers Magny-Cours",
+                "Renault",
+                "Nevers, France",
+                "1234",
+                "Decommissioned"
+            ],
+            [
+                "Circuit Gilles Villeneuve",
+                "Renault",
+                "Montreal, Canada",
+                "1567",
+                "Active"
+            ],
+            [
+                "Autodromo Nazionale Monza",
+                "Renault",
+                "Monza, Italy",
+                "1890",
+                "Active"
+            ],
+            [
+                "Spa-Francorchamps",
+                "Renault",
+                "Stavelot, Belgium",
+                "1456",
+                "Active"
+            ],
+            [
+                "N\u00fcrburgring",
+                "Renault",
+                "N\u00fcrburg, Germany",
+                "1345",
+                "Active"
+            ]
+        ]
+    }
+}

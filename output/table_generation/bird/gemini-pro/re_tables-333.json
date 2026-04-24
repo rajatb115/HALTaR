@@ -1,0 +1,39 @@
+{
+    "table-333-333": {
+        "title": [
+            "Molecule ID",
+            "Number of Single Bonds"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Single Bond Counts in Molecule Range",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the molecules between TR004 to TR010, how many of them has single bonds?",
+        "data": [
+            [
+                "TR004",
+                "12"
+            ],
+            [
+                "TR005",
+                "8"
+            ],
+            [
+                "TR006",
+                "15"
+            ],
+            [
+                "TR007",
+                "10"
+            ],
+            [
+                "TR008",
+                "7"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-1281-1281": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "GOT (AST)",
+            "Normal Range"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Liver Enzyme Levels in Male Patients",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male patients have their glutamic oxaloacetic transaminase in the normal range?",
+        "data": [
+            [
+                "12345",
+                "Male",
+                "35 U/L",
+                "Yes"
+            ],
+            [
+                "67890",
+                "Male",
+                "60 U/L",
+                "No"
+            ],
+            [
+                "24680",
+                "Male",
+                "28 U/L",
+                "Yes"
+            ],
+            [
+                "13579",
+                "Male",
+                "42 U/L",
+                "No"
+            ],
+            [
+                "98765",
+                "Male",
+                "30 U/L",
+                "Yes"
+            ]
+        ]
+    }
+}

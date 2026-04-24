@@ -1,0 +1,49 @@
+{
+    "table-256-256": {
+        "title": [
+            "Compound Name",
+            "Chemical Formula",
+            "Bond Type",
+            "Carcinogenic"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Examples of Carcinogenic Compounds",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What proportion of single bonds are carcinogenic?",
+        "data": [
+            [
+                "Benzene",
+                "C6H6",
+                "Single & Double",
+                "Yes"
+            ],
+            [
+                "Vinyl Chloride",
+                "C2H3Cl",
+                "Single & Double",
+                "Yes"
+            ],
+            [
+                "Formaldehyde",
+                "CH2O",
+                "Single & Double",
+                "Yes"
+            ],
+            [
+                "Acrylamide",
+                "C3H5NO",
+                "Single & Double",
+                "Yes"
+            ],
+            [
+                "Ethylene Oxide",
+                "C2H4O",
+                "Single",
+                "Yes"
+            ]
+        ]
+    }
+}

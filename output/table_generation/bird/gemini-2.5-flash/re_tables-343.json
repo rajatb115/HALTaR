@@ -1,0 +1,69 @@
+{
+    "table-343-343": {
+        "title": [
+            "Card Name",
+            "Card Type",
+            "Converted Mana Cost",
+            "Power/Toughness",
+            "Market Price (USD)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the card names with value that cost more converted mana for the face.",
+        "data": [
+            [
+                "Colossal Dreadmaw",
+                "Creature",
+                "6",
+                "6/6",
+                "0.25"
+            ],
+            [
+                "Ulamog, the Ceaseless Hunger",
+                "Legendary Creature",
+                "10",
+                "10/10",
+                "40.00"
+            ],
+            [
+                "Lightning Bolt",
+                "Instant",
+                "1",
+                "N/A",
+                "1.50"
+            ],
+            [
+                "Dark Confidant",
+                "Creature",
+                "2",
+                "2/1",
+                "20.00"
+            ],
+            [
+                "Force of Will",
+                "Instant",
+                "5",
+                "N/A",
+                "80.00"
+            ],
+            [
+                "Grizzly Bears",
+                "Creature",
+                "2",
+                "2/2",
+                "0.10"
+            ],
+            [
+                "Black Lotus",
+                "Artifact",
+                "0",
+                "N/A",
+                "500000.00"
+            ]
+        ]
+    }
+}

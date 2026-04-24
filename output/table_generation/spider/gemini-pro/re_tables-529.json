@@ -1,0 +1,37 @@
+{
+    "table-529-529": {
+        "title": [
+            "Conductor Name",
+            "Nationality"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Conductors by Nationality",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of conductors that do not have the nationality \"USA\".",
+        "data": [
+            [
+                "Georg Solti",
+                "Hungarian"
+            ],
+            [
+                "Herbert von Karajan",
+                "Austrian"
+            ],
+            [
+                "Carlos Kleiber",
+                "Austrian"
+            ],
+            [
+                "Leonard Bernstein",
+                "USA"
+            ],
+            [
+                "Claudio Abbado",
+                "Italian"
+            ]
+        ]
+    }
+}

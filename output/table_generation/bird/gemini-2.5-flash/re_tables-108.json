@@ -1,0 +1,85 @@
+{
+    "table-108-108": {
+        "title": [
+            "Client ID",
+            "Client Name",
+            "Gender",
+            "Date of Birth",
+            "Account Open Date",
+            "Branch Name",
+            "Branch Avg Salary"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the gender of the oldest client who opened his/her account in the highest average salary branch?",
+        "data": [
+            [
+                "C001",
+                "Alice Johnson",
+                "Female",
+                "1968-03-15",
+                "2005-01-20",
+                "Financial District",
+                "85000"
+            ],
+            [
+                "C002",
+                "Bob Williams",
+                "Male",
+                "1975-11-01",
+                "2008-06-10",
+                "Financial District",
+                "85000"
+            ],
+            [
+                "C003",
+                "Carol Davis",
+                "Female",
+                "1982-07-22",
+                "2010-03-05",
+                "Downtown",
+                "72000"
+            ],
+            [
+                "C004",
+                "David Miller",
+                "Male",
+                "1965-09-08",
+                "2003-11-12",
+                "Financial District",
+                "85000"
+            ],
+            [
+                "C005",
+                "Emily White",
+                "Female",
+                "1970-04-30",
+                "2007-09-18",
+                "Uptown",
+                "68000"
+            ],
+            [
+                "C006",
+                "Frank Green",
+                "Male",
+                "1988-02-25",
+                "2012-04-01",
+                "Downtown",
+                "72000"
+            ],
+            [
+                "C007",
+                "Grace Hall",
+                "Female",
+                "1971-12-05",
+                "2006-08-23",
+                "Financial District",
+                "85000"
+            ]
+        ]
+    }
+}

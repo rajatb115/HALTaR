@@ -1,0 +1,61 @@
+{
+    "table-16-16": {
+        "title": [
+            "District Name",
+            "Status",
+            "Avg Reading Score",
+            "Avg Math Score"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which active district has the highest average score in Reading?",
+        "data": [
+            [
+                "Northwood Unified",
+                "Active",
+                "88.5",
+                "82.1"
+            ],
+            [
+                "Central Valley SD",
+                "Active",
+                "91.2",
+                "85.7"
+            ],
+            [
+                "Lakeside Charter",
+                "Inactive",
+                "78.9",
+                "75.3"
+            ],
+            [
+                "Summit Heights PS",
+                "Active",
+                "89.1",
+                "83.9"
+            ],
+            [
+                "Riverbend Academy",
+                "Active",
+                "90.5",
+                "86.0"
+            ],
+            [
+                "Evergreen District",
+                "Inactive",
+                "82.3",
+                "79.8"
+            ],
+            [
+                "Coastal Plains ISD",
+                "Active",
+                "92.8",
+                "87.5"
+            ]
+        ]
+    }
+}

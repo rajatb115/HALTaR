@@ -1,0 +1,45 @@
+{
+    "table-166-166": {
+        "title": [
+            "Document ID",
+            "Document Name",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Document Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List document IDs, document names, and document descriptions for all documents.",
+        "data": [
+            [
+                "12345",
+                "Project Proposal",
+                "Initial proposal for project funding and scope."
+            ],
+            [
+                "67890",
+                "Requirements Document",
+                "Detailed specification of system requirements."
+            ],
+            [
+                "24680",
+                "Design Document",
+                "High-level design of the system architecture."
+            ],
+            [
+                "13579",
+                "Test Plan",
+                "Plan for testing the system functionality."
+            ],
+            [
+                "98765",
+                "User Manual",
+                "Instructions for end-users on how to operate the system."
+            ]
+        ]
+    }
+}

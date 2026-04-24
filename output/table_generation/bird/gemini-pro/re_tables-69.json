@@ -1,0 +1,51 @@
+{
+    "table-69-69": {
+        "title": [
+            "County Name",
+            "School Ownership Code",
+            "Number of Closures",
+            "Decade"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "School Closure Data in the 1980s by County",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which county reported the most number of school closure in the 1980s with school wonership code belonging to Youth Authority Facilities (CEA)?",
+        "data": [
+            [
+                "Los Angeles",
+                "CEA",
+                "15",
+                "1980s"
+            ],
+            [
+                "San Diego",
+                "CEA",
+                "8",
+                "1980s"
+            ],
+            [
+                "Alameda",
+                "CEA",
+                "5",
+                "1980s"
+            ],
+            [
+                "Fresno",
+                "CEA",
+                "3",
+                "1980s"
+            ],
+            [
+                "Orange",
+                "CEA",
+                "2",
+                "1980s"
+            ]
+        ]
+    }
+}

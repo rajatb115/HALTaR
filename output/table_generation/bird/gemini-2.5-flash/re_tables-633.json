@@ -1,0 +1,69 @@
+{
+    "table-633-633": {
+        "title": [
+            "Voter Name",
+            "Election Year",
+            "Vote Count",
+            "Vote Type",
+            "District"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many votes were made by Harlan?",
+        "data": [
+            [
+                "Harlan",
+                "2022",
+                "1",
+                "General",
+                "District 5"
+            ],
+            [
+                "Sarah Chen",
+                "2022",
+                "1",
+                "General",
+                "District 5"
+            ],
+            [
+                "Harlan",
+                "2020",
+                "1",
+                "Primary",
+                "District 5"
+            ],
+            [
+                "Michael Lee",
+                "2020",
+                "1",
+                "Primary",
+                "District 6"
+            ],
+            [
+                "Harlan",
+                "2018",
+                "1",
+                "Referendum",
+                "District 5"
+            ],
+            [
+                "Emily White",
+                "2018",
+                "1",
+                "Referendum",
+                "District 4"
+            ],
+            [
+                "Harlan",
+                "2016",
+                "1",
+                "General",
+                "District 5"
+            ]
+        ]
+    }
+}

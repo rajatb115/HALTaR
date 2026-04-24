@@ -1,0 +1,45 @@
+{
+    "table-1075-1075": {
+        "title": [
+            "Team Name",
+            "Short Name",
+            "Home Team Goals"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Football Teams and Home Goals",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the short name of the football team that had a home team goal of 10?",
+        "data": [
+            [
+                "Manchester United",
+                "MU",
+                "15"
+            ],
+            [
+                "Liverpool FC",
+                "LFC",
+                "12"
+            ],
+            [
+                "Arsenal FC",
+                "AFC",
+                "10"
+            ],
+            [
+                "Chelsea FC",
+                "CFC",
+                "8"
+            ],
+            [
+                "Tottenham Hotspur",
+                "THFC",
+                "7"
+            ]
+        ]
+    }
+}

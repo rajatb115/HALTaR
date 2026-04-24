@@ -1,0 +1,61 @@
+{
+    "table-578-578": {
+        "title": [
+            "Dog Name",
+            "Breed",
+            "Treatment Cost (USD)",
+            "Last Treatment Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which dogs have not cost their owner more than 1000 for treatment ? List the dog names .",
+        "data": [
+            [
+                "Buddy",
+                "Golden Retriever",
+                "450",
+                "2023-10-15"
+            ],
+            [
+                "Luna",
+                "Labrador",
+                "780",
+                "2024-01-22"
+            ],
+            [
+                "Max",
+                "Beagle",
+                "210",
+                "2023-11-01"
+            ],
+            [
+                "Daisy",
+                "Poodle",
+                "950",
+                "2024-02-10"
+            ],
+            [
+                "Charlie",
+                "French Bulldog",
+                "620",
+                "2023-09-05"
+            ],
+            [
+                "Bella",
+                "Shih Tzu",
+                "300",
+                "2024-03-18"
+            ],
+            [
+                "Rocky",
+                "German Shepherd",
+                "890",
+                "2023-12-01"
+            ]
+        ]
+    }
+}

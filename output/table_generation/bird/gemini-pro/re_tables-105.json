@@ -1,0 +1,51 @@
+{
+    "table-105-105": {
+        "title": [
+            "Transaction Date",
+            "Transaction Amount (USD)",
+            "Account ID",
+            "Account Opening Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Account Opening Dates and Transaction Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "The transaction of 840 USD happened in 1998/10/14, when was this account opened?",
+        "data": [
+            [
+                "1998-10-14",
+                "840",
+                "Account 1",
+                "1995-03-20"
+            ],
+            [
+                "1998-10-14",
+                "840",
+                "Account 2",
+                "1997-07-15"
+            ],
+            [
+                "1998-10-14",
+                "840",
+                "Account 3",
+                "1998-01-05"
+            ],
+            [
+                "1998-10-14",
+                "840",
+                "Account 4",
+                "1996-11-01"
+            ],
+            [
+                "1998-10-14",
+                "840",
+                "Account 5",
+                "1994-09-10"
+            ]
+        ]
+    }
+}

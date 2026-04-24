@@ -1,0 +1,39 @@
+{
+    "table-511-511": {
+        "title": [
+            "Country",
+            "Surface Area (km\u00b2)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Largest Countries by Surface Area",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names and surface areas of the 5 largest countries.",
+        "data": [
+            [
+                "Russia",
+                "17,098,246"
+            ],
+            [
+                "Canada",
+                "9,984,670"
+            ],
+            [
+                "China",
+                "9,706,961"
+            ],
+            [
+                "United States",
+                "9,372,610"
+            ],
+            [
+                "Brazil",
+                "8,515,767"
+            ]
+        ]
+    }
+}

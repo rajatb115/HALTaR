@@ -1,0 +1,85 @@
+{
+    "table-386-386": {
+        "title": [
+            "Channel_ID",
+            "Channel_Name",
+            "Cartoon_Director_Status",
+            "Last_Cartoon_Aired",
+            "Total_Episodes_Yearly",
+            "Is_Ben_Jones_Directed"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the id of tv channels that do not play any cartoon directed by Ben Jones.",
+        "data": [
+            [
+                "CH004",
+                "Sky Kids",
+                "No Cartoons Found",
+                "N/A",
+                "0",
+                "False"
+            ],
+            [
+                "CH112",
+                "ToonTastic HD",
+                "None in Database",
+                "N/A",
+                "45",
+                "False"
+            ],
+            [
+                "CH205",
+                "Retro TV Network",
+                "No Animation Block",
+                "N/A",
+                "67",
+                "False"
+            ],
+            [
+                "CH330",
+                "Family First Cable",
+                "Only Live Action Shows",
+                "N/A",
+                "89",
+                "False"
+            ],
+            [
+                "CH441",
+                "News & Sports Plus",
+                "Non-Fiction Content Only",
+                "N/A",
+                "92",
+                "False"
+            ],
+            [
+                "CH558",
+                "Classic Cinema Hub",
+                "Film Focused Schedule",
+                "N/A",
+                "34",
+                "False"
+            ],
+            [
+                "CH669",
+                "Local Community TV",
+                "Public Service Announcements",
+                "N/A",
+                "56",
+                "False"
+            ],
+            [
+                "CH774",
+                "International Food Channel",
+                "Culinary Programming Only",
+                "N/A",
+                "78",
+                "False"
+            ]
+        ]
+    }
+}

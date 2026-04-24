@@ -1,0 +1,37 @@
+{
+    "table-196-196": {
+        "title": [
+            "Template Type Description",
+            "Template Type Code"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Template Type Codes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the template type code for template type description \"Book\".",
+        "data": [
+            [
+                "Book",
+                "BOOK"
+            ],
+            [
+                "Article",
+                "ARTICLE"
+            ],
+            [
+                "Report",
+                "REPORT"
+            ],
+            [
+                "Presentation",
+                "PRESENTATION"
+            ],
+            [
+                "Email",
+                "EMAIL"
+            ]
+        ]
+    }
+}

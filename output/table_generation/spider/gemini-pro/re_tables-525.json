@@ -1,0 +1,37 @@
+{
+    "table-525-525": {
+        "title": [
+            "Country",
+            "Code"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Countries with Spanish as an Official Language",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the codes of countries for which Spanish is the predominantly spoken language.",
+        "data": [
+            [
+                "Spain",
+                "ES"
+            ],
+            [
+                "Mexico",
+                "MX"
+            ],
+            [
+                "Colombia",
+                "CO"
+            ],
+            [
+                "Argentina",
+                "AR"
+            ],
+            [
+                "Peru",
+                "PE"
+            ]
+        ]
+    }
+}

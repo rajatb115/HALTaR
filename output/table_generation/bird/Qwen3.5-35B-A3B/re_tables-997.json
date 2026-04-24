@@ -1,0 +1,85 @@
+{
+    "table-997-997": {
+        "title": [
+            "Decade Start",
+            "Race Category",
+            "Annual Average Count",
+            "Total Races in Period",
+            "Data Source Reliability",
+            "Region Focus",
+            "Notes on Variability"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the annual average number of races held during the first 10 years of the 21st century?",
+        "data": [
+            [
+                "27",
+                "Motorsport Global Series",
+                "42",
+                "630",
+                "High",
+                "Worldwide",
+                "Includes F1, MotoGP, IndyCar"
+            ],
+            [
+                "2020",
+                "Horse Racing International",
+                "38",
+                "570",
+                "Medium",
+                "Europe/Asia",
+                "Excludes minor regional events"
+            ],
+            [
+                "300",
+                "Greyhound Racing UK",
+                "85",
+                "935",
+                "Low",
+                "United Kingdom",
+                "Seasonal fluctuations noted"
+            ],
+            [
+                "450",
+                "NASCAR Cup Series",
+                "-",
+                "N/A",
+                "High North America",
+                "Only major tracks included",
+                ""
+            ],
+            [
+                "5000",
+                "Formula E Championship",
+                "0",
+                "7",
+                "HighGlobal",
+                "Newer series; limited historical data",
+                ""
+            ],
+            [
+                "620",
+                "Rally World Championship",
+                "-12",
+                "N/APartial",
+                "Mixed",
+                "Some seasons cancelled due to weather",
+                ""
+            ],
+            [
+                "710",
+                "Stock Car Brasil",
+                "",
+                "N/A",
+                "MediumSouth America",
+                "Incomplete records for early 2s",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-1265-1265": {
+        "title": [
+            "Patient ID",
+            "Condition",
+            "Complement 4 Level",
+            "Status",
+            "Sample Date",
+            "Lab Result Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients have blood clots in veins, how many of them have a normal level of complement 4?",
+        "data": [
+            [
+                "P-1004",
+                "Deep Vein Thrombosis",
+                "Normal",
+                "Positive",
+                "06/12/2023",
+                "C4-NRM"
+            ],
+            [
+                "P-1109",
+                "Pulmonary Embolism",
+                "High",
+                "Negative",
+                "07/15/2022",
+                "C-HGH"
+            ],
+            [
+                "P-1255",
+                "Superficial Phlebitis",
+                "Low",
+                "Negative",
+                "08/03/2023",
+                "C-LWR"
+            ],
+            [
+                "P-1302",
+                "DVT Recurrence",
+                "Normal",
+                "Positive",
+                "09/21/2024",
+                "C-NRM"
+            ],
+            [
+                "P-1418",
+                "Mild Venous Insufficiency",
+                "High",
+                "Negative",
+                "10/05/2019",
+                "C-HGH"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-651-651": {
+        "title": [
+            "User ID",
+            "Badge Received Date",
+            "Last Accessed Date",
+            "Last Accessed Location"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Outlier Badge User Access Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the last accessed date and location of the users who received the outliers badge.",
+        "data": [
+            [
+                "123",
+                "2023-01-15",
+                "2023-03-10",
+                "New York"
+            ],
+            [
+                "456",
+                "2023-02-20",
+                "2023-04-01",
+                "London"
+            ],
+            [
+                "789",
+                "2023-03-10",
+                "2023-04-15",
+                "Tokyo"
+            ],
+            [
+                "101",
+                "2023-03-15",
+                "2023-04-20",
+                "Sydney"
+            ],
+            [
+                "202",
+                "2023-04-01",
+                "2023-05-01",
+                "Paris"
+            ]
+        ]
+    }
+}

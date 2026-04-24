@@ -1,0 +1,40 @@
+{
+    "table-247-247": {
+        "title": [
+            "Match ID",
+            "Loser Rank"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Match Loser Ranks",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the highest rank of losers in all matches.",
+        "data": [
+            [
+                "1",
+                "2"
+            ],
+            [
+                "2",
+                "1"
+            ],
+            [
+                "3",
+                "3"
+            ],
+            [
+                "4",
+                "2"
+            ],
+            [
+                "5",
+                "1"
+            ]
+        ]
+    }
+}

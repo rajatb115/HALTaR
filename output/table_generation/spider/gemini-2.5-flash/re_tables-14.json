@@ -1,0 +1,69 @@
+{
+    "table-14-14": {
+        "title": [
+            "Stadium Name",
+            "City",
+            "Country",
+            "Capacity",
+            "Primary Sport"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average and maximum capacities for all stadiums ?",
+        "data": [
+            [
+                "Narendra Modi Stadium",
+                "Ahmedabad",
+                "India",
+                "132000",
+                "Cricket"
+            ],
+            [
+                "Rungrado 1st of May Stadium",
+                "Pyongyang",
+                "North Korea",
+                "114000",
+                "Multi-purpose"
+            ],
+            [
+                "Michigan Stadium",
+                "Ann Arbor",
+                "USA",
+                "107601",
+                "American Football"
+            ],
+            [
+                "Beaver Stadium",
+                "State College",
+                "USA",
+                "106572",
+                "American Football"
+            ],
+            [
+                "Ohio Stadium",
+                "Columbus",
+                "USA",
+                "102780",
+                "American Football"
+            ],
+            [
+                "Camp Nou",
+                "Barcelona",
+                "Spain",
+                "99354",
+                "Football"
+            ],
+            [
+                "Wembley Stadium",
+                "London",
+                "UK",
+                "90000",
+                "Football"
+            ]
+        ]
+    }
+}

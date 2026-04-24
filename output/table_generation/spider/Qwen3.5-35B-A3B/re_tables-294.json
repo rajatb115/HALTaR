@@ -1,0 +1,85 @@
+{
+    "table-294-294": {
+        "title": [
+            "Address Line 1",
+            "Address Line",
+            "City",
+            "State",
+            "Zip Code",
+            "Country",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "what are all the addresses including line 1 and line 2?",
+        "data": [
+            [
+                "742 Evergreen Terrace",
+                "Apt 4B",
+                "Springfield",
+                "IL",
+                "62704",
+                "USA",
+                "Active"
+            ],
+            [
+                "123 Main Street",
+                "Suite 100",
+                "Metropolis",
+                "NY",
+                "33101USA",
+                "Inactive",
+                ""
+            ],
+            [
+                "456 Oak Avenue",
+                "Unit 2A",
+                "Gotham",
+                "NJ",
+                "07002",
+                "USAActive",
+                ""
+            ],
+            [
+                "789 Pine Road",
+                "N/A",
+                "Starville",
+                "CA",
+                "90210",
+                "USAPending",
+                ""
+            ],
+            [
+                "321 Elm Blvd",
+                "Floor 3",
+                "Riverdale",
+                "MI",
+                "48201USAArchived",
+                "",
+                ""
+            ],
+            [
+                "654 Maple Drive",
+                "Building C",
+                "Lakeside",
+                "TX",
+                "75000USA",
+                "ActiveInactive",
+                ""
+            ],
+            [
+                "987 Cedar Lane",
+                "P.O. Box 55",
+                "Hilltown",
+                "WA",
+                "80031",
+                "USAN/A",
+                ""
+            ]
+        ]
+    }
+}

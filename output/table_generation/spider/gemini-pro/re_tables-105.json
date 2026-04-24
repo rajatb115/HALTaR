@@ -1,0 +1,45 @@
+{
+    "table-105-105": {
+        "title": [
+            "Model",
+            "Manufacturer",
+            "Weight (lbs)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Vehicle Models by Weight and Manufacturer",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the different models wthat are lighter than 3500 but were not built by the Ford Motor Company?",
+        "data": [
+            [
+                "Mazda MX-5",
+                "Mazda",
+                "2,341"
+            ],
+            [
+                "Lotus Elise",
+                "Lotus",
+                "1,984"
+            ],
+            [
+                "Porsche 718 Cayman",
+                "Porsche",
+                "3,097"
+            ],
+            [
+                "Subaru BRZ",
+                "Subaru",
+                "2,815"
+            ],
+            [
+                "Toyota GR86",
+                "Toyota",
+                "2,833"
+            ]
+        ]
+    }
+}

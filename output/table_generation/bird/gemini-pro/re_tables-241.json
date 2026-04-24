@@ -1,0 +1,49 @@
+{
+    "table-241-241": {
+        "title": [
+            "Element",
+            "Description",
+            "Example Value",
+            "Units"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Toxicology Profile of Chemical Compounds",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the elements of the toxicology of the molecule \"TR004\".",
+        "data": [
+            [
+                "LD50 (Oral, Rat)",
+                "Lethal Dose, 50% kill in rats, oral route",
+                "150",
+                "mg/kg"
+            ],
+            [
+                "LC50 (Inhalation, Rat)",
+                "Lethal Concentration, 50% kill in rats, inhalation",
+                "5000",
+                "ppm"
+            ],
+            [
+                "Skin Irritation",
+                "Degree of irritation upon skin contact",
+                "Mild",
+                "-"
+            ],
+            [
+                "Eye Irritation",
+                "Degree of irritation upon eye contact",
+                "Severe",
+                "-"
+            ],
+            [
+                "Mutagenicity",
+                "Potential to cause genetic mutations",
+                "Negative",
+                "-"
+            ]
+        ]
+    }
+}

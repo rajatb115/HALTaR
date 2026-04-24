@@ -1,0 +1,45 @@
+{
+    "table-1305-1305": {
+        "title": [
+            "Blood Glucose",
+            "Thrombosis",
+            "Number of Patients"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Patients with Normal Blood Glucose and Thrombosis Status",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients with a normal blood glucose, how many of them don't have thrombosis?",
+        "data": [
+            [
+                "Normal",
+                "Yes",
+                "15"
+            ],
+            [
+                "Normal",
+                "No",
+                "35"
+            ],
+            [
+                "High",
+                "Yes",
+                "25"
+            ],
+            [
+                "High",
+                "No",
+                "5"
+            ],
+            [
+                "Low",
+                "No",
+                "10"
+            ]
+        ]
+    }
+}

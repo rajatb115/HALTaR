@@ -1,0 +1,49 @@
+{
+    "table-509-509": {
+        "title": [
+            "Card Name",
+            "Printing Type",
+            "Artist",
+            "Text Box"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Card Printing Types",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the available printing types of the cards that doesn't have a text box created by Aleksi Briclot?",
+        "data": [
+            [
+                "Card A",
+                "Foil",
+                "John Avon",
+                "Yes"
+            ],
+            [
+                "Card B",
+                "Regular",
+                "Aleksi Briclot",
+                "Yes"
+            ],
+            [
+                "Card C",
+                "Extended Art",
+                "Aleksi Briclot",
+                "No"
+            ],
+            [
+                "Card D",
+                "Borderless",
+                "Kev Walker",
+                "Yes"
+            ],
+            [
+                "Card E",
+                "Regular",
+                "Terese Nielsen",
+                "No"
+            ]
+        ]
+    }
+}

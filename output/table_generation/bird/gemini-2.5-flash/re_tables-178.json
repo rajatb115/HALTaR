@@ -1,0 +1,85 @@
+{
+    "table-178-178": {
+        "title": [
+            "Client ID",
+            "Account Number",
+            "Transaction ID",
+            "Transaction Type",
+            "Transaction Amount",
+            "Post-Transaction Balance",
+            "Account Owner Gender"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the sum that client number 4's account has following transaction 851? Who owns this account, a man or a woman?",
+        "data": [
+            [
+                "4",
+                "10045678",
+                "851",
+                "Deposit",
+                "1500.00",
+                "12500.50",
+                "Woman"
+            ],
+            [
+                "4",
+                "10045678",
+                "850",
+                "Withdrawal",
+                "200.00",
+                "11000.50",
+                "Woman"
+            ],
+            [
+                "5",
+                "10051234",
+                "852",
+                "Deposit",
+                "500.00",
+                "5500.75",
+                "Man"
+            ],
+            [
+                "3",
+                "10039876",
+                "849",
+                "Fee",
+                "15.00",
+                "8985.20",
+                "Man"
+            ],
+            [
+                "4",
+                "10045678",
+                "848",
+                "Deposit",
+                "3000.00",
+                "11200.50",
+                "Woman"
+            ],
+            [
+                "6",
+                "10067890",
+                "853",
+                "Withdrawal",
+                "100.00",
+                "2345.00",
+                "Woman"
+            ],
+            [
+                "4",
+                "10045678",
+                "847",
+                "Interest",
+                "25.00",
+                "8200.50",
+                "Woman"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-642-642": {
+        "title": [
+            "Year",
+            "Badge Type",
+            "Number of Users"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Commentator Badge Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users received commentator badges in 2014?",
+        "data": [
+            [
+                "2012",
+                "Commentator",
+                "150"
+            ],
+            [
+                "2013",
+                "Commentator",
+                "210"
+            ],
+            [
+                "2014",
+                "Commentator",
+                "185"
+            ],
+            [
+                "2015",
+                "Commentator",
+                "200"
+            ],
+            [
+                "2016",
+                "Commentator",
+                "220"
+            ]
+        ]
+    }
+}

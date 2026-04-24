@@ -1,0 +1,45 @@
+{
+    "table-521-521": {
+        "title": [
+            "Illustrator",
+            "Number of Cards Illustrated",
+            "Format(s) of Play"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Illustrators with the Fewest Card Illustrations and Associated Formats",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the illustrator that illustrated the least amount of cards? List the format of play of the cards that he/she illustrated.",
+        "data": [
+            [
+                "Drew Tucker",
+                "1",
+                "Commander"
+            ],
+            [
+                "Quinton Hoover",
+                "2",
+                "Commander, Duel"
+            ],
+            [
+                "Mark Poole",
+                "3",
+                "Commander, Duel, Highlander"
+            ],
+            [
+                "Dan Frazier",
+                "4",
+                "Commander, Duel, Highlander, Vintage"
+            ],
+            [
+                "Amy Weber",
+                "5",
+                "Commander, Duel, Highlander, Vintage, Legacy"
+            ]
+        ]
+    }
+}

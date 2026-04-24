@@ -1,0 +1,85 @@
+{
+    "table-1490-1490": {
+        "title": [
+            "Customer Segment",
+            "Month",
+            "Year (Numeric)",
+            "Total Consumption Units",
+            "Currency Unit",
+            "Data Source Status",
+            "Region Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much did the KAM customers consume in total in May 2013?",
+        "data": [
+            [
+                "KAM Customers",
+                "May",
+                "5",
+                "4520",
+                "USD",
+                "Verified",
+                "NA-EAST"
+            ],
+            [
+                "Key Account Managers",
+                "May 1st - May 7th",
+                "6",
+                "890",
+                "EUR",
+                "Pending Review",
+                "EU-WEST"
+            ],
+            [
+                "Strategic Partners",
+                "May Week 2",
+                "7",
+                "3150",
+                "GBP",
+                "Confirmed",
+                "UK-LON"
+            ],
+            [
+                "Enterprise Clients",
+                "Mid-May Period",
+                "9",
+                "0",
+                "N/A",
+                "Incomplete",
+                "US-CAL"
+            ],
+            [
+                "Global Accounts",
+                "Last Week of May",
+                "",
+                "",
+                "JPY",
+                "Reconciling",
+                "ASIA-TOK"
+            ],
+            [
+                "Major Distributors",
+                "Full Cycle May",
+                "July",
+                "120500",
+                "CNY",
+                "Finalized",
+                "CN-SHANG"
+            ],
+            [
+                "Regional Hubs",
+                "May Operational Days",
+                "August",
+                "",
+                "AUD",
+                "Under Audit",
+                "AU-SYD"
+            ]
+        ]
+    }
+}

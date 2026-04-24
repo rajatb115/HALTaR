@@ -1,0 +1,62 @@
+{
+    "table-39-39": {
+        "title": [
+            "School Name",
+            "District",
+            "City",
+            "Test Takers (Approx.)",
+            "Website"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the webpages for the Los Angeles County school that has between 2,000 and 3,000 test takers?",
+        "data": [
+            [
+                "Lincoln High School",
+                "Los Angeles Unified",
+                "Los Angeles",
+                "2350",
+                "www.lincoln.lausd.net"
+            ],
+            [
+                "Roosevelt High School",
+                "Los Angeles Unified",
+                "Los Angeles",
+                "2800",
+                "www.roosevelt.lausd.net"
+            ],
+            [
+                "Wilson High School",
+                "Long Beach Unified",
+                "Long Beach",
+                "2100",
+                "www.wilsonhs.lbschools.net"
+            ],
+            [
+                "Grant High School",
+                "Los Angeles Unified",
+                "Van Nuys",
+                "2650",
+                "www.grant.lausd.net"
+            ],
+            [
+                "Venice High School",
+                "Los Angeles Unified",
+                "Los Angeles",
+                "2400",
+                "www.venicehs.org"
+            ],
+            [
+                "Palisades Charter High School",
+                "Independent Charter",
+                "Pacific Palisades",
+                "2950",
+                "www.palihigh.org"
+            ]
+        ]
+    }
+}

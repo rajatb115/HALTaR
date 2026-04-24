@@ -1,0 +1,69 @@
+{
+    "table-617-617": {
+        "title": [
+            "Treatment ID",
+            "Procedure Name",
+            "Date Performed",
+            "Cost ($)",
+            "Provider",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show me the cost of the most recently performed treatment.",
+        "data": [
+            [
+                "TRT-2024-089",
+                "Dental Cleaning",
+                "6/15/2017",
+                "$120.00",
+                "Dr. Smith",
+                "Completed"
+            ],
+            [
+                "TRD-2938-102",
+                "MRI Scan",
+                "5/10/2917",
+                "$N/A",
+                "City Hospital",
+                "Pending"
+            ],
+            [
+                "TXR-4421-005",
+                "Physical Therapy Session",
+                "4/22/2197",
+                "-$50.50",
+                "Wellness Center",
+                "Cancelled"
+            ],
+            [
+                "MED-7732-111",
+                "Blood Test Panel",
+                "3/18/2817",
+                "$205.75",
+                "LabCorp",
+                "In Progress"
+            ],
+            [
+                "SURG-9921-A",
+                "Appendectomy",
+                "8/01/2717",
+                "$8,500.25",
+                "General Surgery Dept",
+                "Scheduled"
+            ],
+            [
+                "VAC-1234-B",
+                "Vaccination Shot",
+                "7/14/191",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

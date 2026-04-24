@@ -1,0 +1,46 @@
+{
+    "table-677-677": {
+        "title": [
+            "User ID",
+            "Display Name",
+            "Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "User Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list all display names of users who are adults.",
+        "data": [
+            [
+                "123",
+                "John Doe",
+                "30"
+            ],
+            [
+                "456",
+                "Jane Smith",
+                "25"
+            ],
+            [
+                "789",
+                "Peter Jones",
+                "40"
+            ],
+            [
+                "101",
+                "Alice Brown",
+                "22"
+            ],
+            [
+                "112",
+                "Bob Williams",
+                "35"
+            ]
+        ]
+    }
+}

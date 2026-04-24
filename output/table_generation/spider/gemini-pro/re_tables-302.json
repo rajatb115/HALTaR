@@ -1,0 +1,43 @@
+{
+    "table-302-302": {
+        "title": [
+            "Degree Name",
+            "Department",
+            "Level"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Degree Program Overview",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different degree names are offered?",
+        "data": [
+            [
+                "Bachelor of Science",
+                "Computer Science",
+                "Undergraduate"
+            ],
+            [
+                "Master of Arts",
+                "English",
+                "Graduate"
+            ],
+            [
+                "Doctor of Philosophy",
+                "Physics",
+                "Graduate"
+            ],
+            [
+                "Associate of Arts",
+                "Liberal Arts",
+                "Undergraduate"
+            ],
+            [
+                "Bachelor of Fine Arts",
+                "Art",
+                "Undergraduate"
+            ]
+        ]
+    }
+}

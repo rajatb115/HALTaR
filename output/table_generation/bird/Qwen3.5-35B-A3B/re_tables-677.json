@@ -1,0 +1,85 @@
+{
+    "table-677-677": {
+        "title": [
+            "Display Name",
+            "Age Group",
+            "Status",
+            "Last Login Date",
+            "Account ID",
+            "Region",
+            "Role"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list all display names of users who are adults.",
+        "data": [
+            [
+                "John Smith",
+                "Adult",
+                "Active",
+                "4/12/2024",
+                "USR_10023",
+                "North America",
+                "Editor"
+            ],
+            [
+                "Maria Garcia",
+                "Adult",
+                "Pending Review",
+                "3/28/2024",
+                "USR_10024",
+                "US",
+                "Admin"
+            ],
+            [
+                "David Chen",
+                "Adult",
+                "Suspended",
+                "6/15/2022",
+                "USR_10025",
+                "UK",
+                "Viewer"
+            ],
+            [
+                "Sarah Johnson",
+                "Adult",
+                "Active",
+                "8/01/2021",
+                "USR_10026",
+                "EU",
+                "Moderator"
+            ],
+            [
+                "Michael Brown",
+                "Adult",
+                "Dormant",
+                "9/19/2029",
+                "USR_10027",
+                "APAC",
+                "Contributor"
+            ],
+            [
+                "Emily Davis",
+                "Adult",
+                "Active",
+                "5/05/2035",
+                "USR_10028",
+                "LATAM",
+                "Subscriber"
+            ],
+            [
+                "Robert Wilson",
+                "Adult",
+                "Expiring Soon",
+                "7/02/2042",
+                "USR_10029",
+                "MENA",
+                "Guest"
+            ]
+        ]
+    }
+}

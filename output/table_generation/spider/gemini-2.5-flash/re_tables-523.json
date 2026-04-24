@@ -1,0 +1,61 @@
+{
+    "table-523-523": {
+        "title": [
+            "Country",
+            "Country Code",
+            "Primary Language",
+            "Language Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the country codes of the different countries, and what are the languages spoken by the greatest percentage of people for each?",
+        "data": [
+            [
+                "United States",
+                "US",
+                "English",
+                "80%"
+            ],
+            [
+                "Canada",
+                "CA",
+                "English",
+                "58%"
+            ],
+            [
+                "Mexico",
+                "MX",
+                "Spanish",
+                "90%"
+            ],
+            [
+                "Brazil",
+                "BR",
+                "Portuguese",
+                "95%"
+            ],
+            [
+                "United Kingdom",
+                "GB",
+                "English",
+                "98%"
+            ],
+            [
+                "France",
+                "FR",
+                "French",
+                "90%"
+            ],
+            [
+                "Germany",
+                "DE",
+                "German",
+                "90%"
+            ]
+        ]
+    }
+}

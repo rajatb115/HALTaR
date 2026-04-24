@@ -1,0 +1,76 @@
+{
+    "table-167-167": {
+        "title": [
+            "Account ID",
+            "District",
+            "Status",
+            "Created Date",
+            "Owner Name",
+            "Balance",
+            "Region Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the accounts are from Jesenik district?",
+        "data": [
+            [
+                "ACC-1042",
+                "Jesen\u00edk",
+                "Active",
+                "06/15/2021",
+                "Jan Nov\u00e1k",
+                "$1,250",
+                "CZ-JE"
+            ],
+            [
+                "ACC-A77B",
+                "Jesn\u00edky",
+                "Inactive",
+                "03/22/2021",
+                "Petra Svoboda",
+                "$0",
+                "N/A"
+            ],
+            [
+                "CC-99XJ",
+                "Jesenice",
+                "Pending",
+                "08/01/2023",
+                "Tom\u00e1\u0161 Dvo\u0159\u00e1k",
+                "-$45",
+                "CZ-ZL"
+            ],
+            [
+                "DB-22K1",
+                "Jeseni\u010dany",
+                "Closed",
+                "05/10/2024",
+                "Marie \u010cern\u00e1",
+                "$3,400",
+                "SK-TT"
+            ],
+            [
+                "AC-55M9",
+                "Jesensk\u00fd",
+                "Active",
+                "09/12/2019",
+                "Luk\u00e1\u0161 Hor\u00e1k",
+                "$890",
+                "CZ-MO"
+            ],
+            [
+                "TR-88PQ",
+                "Jeseniova",
+                "Suspended",
+                "07/30/2018",
+                "Eva Mal\u00e1",
+                "",
+                "CZ-KR"
+            ]
+        ]
+    }
+}

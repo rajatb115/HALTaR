@@ -1,0 +1,69 @@
+{
+    "table-1446-1446": {
+        "title": [
+            "Member ID",
+            "Full Name",
+            "T-Shirt Size",
+            "Department",
+            "Status",
+            "Enrollment Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the full name of members whose t-shirt size is extra large.",
+        "data": [
+            [
+                "M004",
+                "Sarah Jenkins",
+                "Extra Large",
+                "Marketing",
+                "Active",
+                "06/15/2021"
+            ],
+            [
+                "M017",
+                "Michael Chen",
+                "Extra Large",
+                "Engineering",
+                "Inactive",
+                "03/22/2021"
+            ],
+            [
+                "M023",
+                "David O'Connor",
+                "XL",
+                "Sales",
+                "Active",
+                "11/05/1978"
+            ],
+            [
+                "M309",
+                "Emily Rodriguez",
+                "XXL",
+                "HR",
+                "Pending",
+                "09/01/2023"
+            ],
+            [
+                "M412",
+                "James Wilson",
+                "Extra Large",
+                "Operations",
+                "Active",
+                "05/30/2024"
+            ],
+            [
+                "M556",
+                "Robert Taylor",
+                "X-Large",
+                "IT",
+                "",
+                "07/12/2018"
+            ]
+        ]
+    }
+}

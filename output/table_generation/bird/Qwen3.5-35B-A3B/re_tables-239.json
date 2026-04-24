@@ -1,0 +1,77 @@
+{
+    "table-239-239": {
+        "title": [
+            "Molecule ID",
+            "Name",
+            "Triple Bond Count",
+            "Bond Length (\u00c5)",
+            "Stability Status",
+            "Source Database"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many molecules have a triple bond type?",
+        "data": [
+            [
+                "MOL_0042",
+                "Acetylene",
+                "1",
+                "1.20",
+                "High",
+                "PubChem"
+            ],
+            [
+                "MEL_0115",
+                "Hydrogen Cyanide",
+                "1",
+                "1.16",
+                "Medium",
+                "ChEBI"
+            ],
+            [
+                "RIB_0299",
+                "Propyne",
+                "1",
+                "1.17",
+                "Low",
+                "DrugBank"
+            ],
+            [
+                "xyl_0331",
+                "Dicyanogen",
+                "2",
+                "1.15",
+                "High",
+                "KEGG"
+            ],
+            [
+                "mth_0442",
+                "Methyl Isocyanide",
+                "1",
+                "1.11",
+                "Unstable",
+                "HMDB"
+            ],
+            [
+                "rtn_0556",
+                "Nitrogen Gas",
+                "1",
+                "1.09",
+                "Very High",
+                "NCBI"
+            ],
+            [
+                "hcl_0667",
+                "Cyanamide",
+                "1",
+                "",
+                "Moderate",
+                "ZINC"
+            ]
+        ]
+    }
+}

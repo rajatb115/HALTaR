@@ -1,0 +1,37 @@
+{
+    "table-199-199": {
+        "title": [
+            "Template Name",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Document Template Descriptions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the different descriptions for templates that have been used in a document.",
+        "data": [
+            [
+                "Basic Report",
+                "Standard report template with title, author, and date."
+            ],
+            [
+                "Marketing Brochure",
+                "Template designed for marketing materials, featuring image placeholders and call-to-action sections."
+            ],
+            [
+                "Project Proposal",
+                "Template to outline project scope, objectives, and timeline."
+            ],
+            [
+                "Meeting Minutes",
+                "Standard template for recording meeting discussions and action items."
+            ],
+            [
+                "Invoice",
+                "Template for creating professional invoices for services rendered."
+            ]
+        ]
+    }
+}

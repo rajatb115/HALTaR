@@ -1,0 +1,41 @@
+{
+    "table-138-138": {
+        "title": [
+            "Account ID",
+            "Contract Status",
+            "Location Code",
+            "Active Since",
+            "Total Value"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts have running contracts in Branch location 1?",
+        "data": [
+            [
+                "ACC-1042",
+                "Running",
+                "",
+                "01-Jan-2023",
+                "$12,500"
+            ],
+            [
+                "ACC-A77B",
+                "Running branch contract",
+                "",
+                "6-Mar-2022",
+                "$8,300"
+            ],
+            [
+                "ACC-B9C1",
+                "Pending renewal",
+                "",
+                "4-Feb-2024",
+                "$22,100"
+            ]
+        ]
+    }
+}

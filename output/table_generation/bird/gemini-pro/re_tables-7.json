@@ -1,0 +1,57 @@
+{
+    "table-7-7": {
+        "title": [
+            "School Name",
+            "City",
+            "State",
+            "Number of SAT Takers",
+            "Magnet School/Program"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Magnet Schools with High SAT Test Takers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the schools with the SAT test takers of over 500, please list the schools that are magnet schools or offer a magnet program.",
+        "data": [
+            [
+                "High School for Math, Science, and Engineering at City College",
+                "New York",
+                "NY",
+                "678",
+                "Yes"
+            ],
+            [
+                "Stuyvesant High School",
+                "New York",
+                "NY",
+                "743",
+                "Yes"
+            ],
+            [
+                "Bronx High School of Science",
+                "New York",
+                "NY",
+                "712",
+                "Yes"
+            ],
+            [
+                "Thomas Jefferson High School for Science and Technology",
+                "Alexandria",
+                "VA",
+                "589",
+                "Yes"
+            ],
+            [
+                "Boston Latin School",
+                "Boston",
+                "MA",
+                "520",
+                "Yes"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "table-642-642": {
+        "title": [
+            "Badge ID",
+            "User Count",
+            "Category",
+            "Awarded Date",
+            "Platform",
+            "Status",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users received commentator badges in 2014?",
+        "data": [
+            [
+                "BADG-CMT-01",
+                "1245",
+                "Commentary",
+                "01/15/2024",
+                "Global Live",
+                "Active",
+                "North America"
+            ],
+            [
+                "BADg-CMT-NY",
+                "890",
+                "Commentary Q&A",
+                "3/22/2021",
+                "Regional Stream",
+                "Inactive",
+                "Europe"
+            ],
+            [
+                "CMT-SPEC-UK",
+                "672",
+                "Special Event Commentator",
+                "7/10/2024",
+                "Community Hub",
+                "Pending",
+                "Asia Pacific"
+            ],
+            [
+                "MOD-COMM-US",
+                "2103",
+                "Moderator & Commentator",
+                "9/05/2015",
+                "Main Server",
+                "Verified",
+                "South America"
+            ]
+        ]
+    }
+}

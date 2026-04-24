@@ -1,0 +1,69 @@
+{
+    "table-1359-1359": {
+        "title": [
+            "Full Name",
+            "Payment Date",
+            "Amount Paid",
+            "Membership Type",
+            "Payment Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who was the first one paid his/her dues? Tell the full name.",
+        "data": [
+            [
+                "David C. Lee",
+                "2022-12-01",
+                "$120.00",
+                "Annual",
+                "Paid"
+            ],
+            [
+                "William G. Miller",
+                "2023-01-05",
+                "$60.00",
+                "Monthly",
+                "Paid"
+            ],
+            [
+                "Robert E. Johnson",
+                "2023-01-10",
+                "$60.00",
+                "Monthly",
+                "Paid"
+            ],
+            [
+                "John A. Smith",
+                "2023-01-15",
+                "$120.00",
+                "Annual",
+                "Paid"
+            ],
+            [
+                "Maria B. Garcia",
+                "2023-01-20",
+                "$60.00",
+                "Monthly",
+                "Paid"
+            ],
+            [
+                "Emily F. Davis",
+                "2023-01-25",
+                "$120.00",
+                "Annual",
+                "Paid"
+            ],
+            [
+                "Sarah D. Chen",
+                "2023-02-05",
+                "$120.00",
+                "Annual",
+                "Pending"
+            ]
+        ]
+    }
+}

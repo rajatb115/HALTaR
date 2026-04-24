@@ -1,0 +1,45 @@
+{
+    "table-16-16": {
+        "title": [
+            "District",
+            "Status",
+            "Average Reading Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "District Reading Scores",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which active district has the highest average score in Reading?",
+        "data": [
+            [
+                "District A",
+                "Active",
+                "85.2"
+            ],
+            [
+                "District B",
+                "Inactive",
+                "78.9"
+            ],
+            [
+                "District C",
+                "Active",
+                "92.5"
+            ],
+            [
+                "District D",
+                "Active",
+                "88.1"
+            ],
+            [
+                "District E",
+                "Active",
+                "75.6"
+            ]
+        ]
+    }
+}

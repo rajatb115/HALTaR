@@ -1,0 +1,45 @@
+{
+    "table-185-185": {
+        "title": [
+            "Gender",
+            "Credit Card Type",
+            "Customer Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Customer Demographics by Credit Card Type",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female customers have a junior credit card?",
+        "data": [
+            [
+                "Female",
+                "Junior",
+                "125"
+            ],
+            [
+                "Male",
+                "Junior",
+                "150"
+            ],
+            [
+                "Female",
+                "Standard",
+                "300"
+            ],
+            [
+                "Male",
+                "Standard",
+                "325"
+            ],
+            [
+                "Female",
+                "Premium",
+                "75"
+            ]
+        ]
+    }
+}

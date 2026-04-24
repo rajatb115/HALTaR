@@ -1,0 +1,39 @@
+{
+    "table-696-696": {
+        "title": [
+            "Badge Name",
+            "Number of Users Awarded"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Badge Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users were awarded with 'Citizen Patrol' badge?",
+        "data": [
+            [
+                "Citizen Patrol",
+                "150"
+            ],
+            [
+                "Helpful Hand",
+                "230"
+            ],
+            [
+                "Active Contributor",
+                "185"
+            ],
+            [
+                "Rising Star",
+                "120"
+            ],
+            [
+                "Problem Solver",
+                "200"
+            ]
+        ]
+    }
+}

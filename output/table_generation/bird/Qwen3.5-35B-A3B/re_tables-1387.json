@@ -1,0 +1,85 @@
+{
+    "table-1387-1387": {
+        "title": [
+            "Event ID",
+            "Event Name",
+            "Category",
+            "Total Expense",
+            "Currency",
+            "Status",
+            "Date Range"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total expense for the Yearly Kickoff?",
+        "data": [
+            [
+                "EVT-2024-009",
+                "Yearly Global Kickoff",
+                "Corporate Strategy",
+                "$125,400",
+                "USD",
+                "Completed",
+                "Jan 15 - Jan 26, 24"
+            ],
+            [
+                "EVT-2Q-012",
+                "Q2 Regional Sync",
+                "Departmental Review",
+                "$42,150",
+                "EUR",
+                "Pending Approval",
+                "Apr 05 - Apr 12, 7"
+            ],
+            [
+                "EVT-FY-088",
+                "Annual Fiscal Planning",
+                "Finance & Ops",
+                "$89,300",
+                "GBP",
+                "In Progress",
+                "Oct 01 - Oct 10, 8"
+            ],
+            [
+                "EVENT-XK-045",
+                "Summer Team Retreat",
+                "Employee Engagement",
+                "$67,800",
+                "CAD",
+                "Scheduled",
+                "Jul 22 - Aug 02,"
+            ],
+            [
+                "EVT-WEB-112",
+                "Webinar Series Launch",
+                "Digital Marketing",
+                "$15,20",
+                "N/A",
+                "Open",
+                "All Year"
+            ],
+            [
+                "COST-OVERHEAD-03",
+                "Office Lease Renewal",
+                "Facility Management",
+                "$240,000",
+                "USD",
+                "Committed",
+                "Dec 0"
+            ],
+            [
+                "INC",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

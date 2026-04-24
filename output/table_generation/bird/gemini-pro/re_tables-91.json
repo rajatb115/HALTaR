@@ -1,0 +1,39 @@
+{
+    "table-91-91": {
+        "title": [
+            "Region",
+            "Eligible Accounts"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Loan Eligibility by Region",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts who have region in Prague are eligible for loans?",
+        "data": [
+            [
+                "Prague",
+                "125"
+            ],
+            [
+                "Berlin",
+                "150"
+            ],
+            [
+                "London",
+                "200"
+            ],
+            [
+                "Paris",
+                "175"
+            ],
+            [
+                "Rome",
+                "100"
+            ]
+        ]
+    }
+}

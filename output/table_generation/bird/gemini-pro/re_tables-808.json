@@ -1,0 +1,43 @@
+{
+    "table-808-808": {
+        "title": [
+            "Superhero Name",
+            "Alias",
+            "Superpower"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Superhero Abilities",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the superpowers of the superhero has Helen Parr as their full name?",
+        "data": [
+            [
+                "Helen Parr",
+                "Elastigirl",
+                "Elasticity"
+            ],
+            [
+                "Peter Parker",
+                "Spider-Man",
+                "Wall-crawling, Spider-Sense"
+            ],
+            [
+                "Bruce Banner",
+                "Hulk",
+                "Superhuman Strength"
+            ],
+            [
+                "Clark Kent",
+                "Superman",
+                "Flight, Super Strength"
+            ],
+            [
+                "Tony Stark",
+                "Iron Man",
+                "Genius-level intellect, Powered Armor"
+            ]
+        ]
+    }
+}

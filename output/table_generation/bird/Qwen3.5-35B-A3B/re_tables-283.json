@@ -1,0 +1,58 @@
+{
+    "table-283-283": {
+        "title": [
+            "Molecule_ID",
+            "Element_Label",
+            "Atomic_Count",
+            "Total_Atoms",
+            "Ratio_Hydrogen",
+            "Formula",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the ratio of Hydrogen elements in molecule ID TR006? Please indicate its label.",
+        "data": [
+            [
+                "TR004",
+                "Hydrogen",
+                "H",
+                "4",
+                "12",
+                "C\u2082H\u2084O\u2082",
+                "Verified"
+            ],
+            [
+                "RF007",
+                "Hydride",
+                "H\u207b",
+                "2",
+                "10",
+                "CH\u2083OH",
+                "Pending"
+            ],
+            [
+                "RZ991",
+                "Protonic H",
+                "H+",
+                "6",
+                "18",
+                "NH\u2083Cl",
+                "Active"
+            ],
+            [
+                "MOL_22",
+                "Deuterium",
+                "D",
+                "1",
+                "8",
+                "CD\u2084",
+                "Draft"
+            ]
+        ]
+    }
+}

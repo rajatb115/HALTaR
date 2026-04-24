@@ -1,0 +1,62 @@
+{
+    "table-1302-1302": {
+        "title": [
+            "Patient ID",
+            "Thrombosis Status",
+            "CPK Level (U/L)",
+            "CPK Interpretation",
+            "Age"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the IDs of the patients with no thrombosis and an abnormal level of creatinine phosphokinase.",
+        "data": [
+            [
+                "P101",
+                "Absent",
+                "1250",
+                "Abnormal High",
+                "58"
+            ],
+            [
+                "P102",
+                "Present",
+                "90",
+                "Normal",
+                "72"
+            ],
+            [
+                "P103",
+                "Absent",
+                "800",
+                "Abnormal High",
+                "45"
+            ],
+            [
+                "P104",
+                "Absent",
+                "65",
+                "Normal",
+                "33"
+            ],
+            [
+                "P105",
+                "Present",
+                "400",
+                "Abnormal High",
+                "61"
+            ],
+            [
+                "P106",
+                "Absent",
+                "70",
+                "Normal",
+                "29"
+            ]
+        ]
+    }
+}

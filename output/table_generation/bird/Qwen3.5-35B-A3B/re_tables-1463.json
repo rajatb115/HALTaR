@@ -1,0 +1,76 @@
+{
+    "table-1463-1463": {
+        "title": [
+            "Event Name",
+            "Budget Category",
+            "Amount Budgeted ($)",
+            "Currency",
+            "Approval Status",
+            "Department",
+            "Fiscal Quarter"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What category was budgeted for the 'January Speaker' event and how much was the amount budgeted for that category?",
+        "data": [
+            [
+                "January Speaker",
+                "Venue Rental",
+                "4500",
+                "USD",
+                "Approved",
+                "Events Team",
+                "Q1"
+            ],
+            [
+                "January Speaker",
+                "Catering Services",
+                "320",
+                "USD",
+                "Pending",
+                "Operations",
+                "Q1"
+            ],
+            [
+                "January Speaker",
+                "Audio/Visual Equipment",
+                "675",
+                "USD",
+                "Approved",
+                "IT Support",
+                "Q2"
+            ],
+            [
+                "January Guest Speakers",
+                "Honorariums",
+                "50",
+                "GBP",
+                "Approved",
+                "HR",
+                "Q2"
+            ],
+            [
+                "Jan Speaker Series",
+                "Marketing Materials",
+                "890",
+                "EUR",
+                "Draft",
+                "Communications",
+                "Q3"
+            ],
+            [
+                "Annual Kickoff",
+                "Planning Committee",
+                "0",
+                "N/A",
+                "Rejected",
+                "Executive Board",
+                "Q4"
+            ]
+        ]
+    }
+}

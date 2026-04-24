@@ -1,0 +1,49 @@
+{
+    "table-977-977": {
+        "title": [
+            "Driver ID",
+            "Driver Name",
+            "First Lap Time",
+            "Team"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the driver's ID of the top five driver, by descending order, the fastest time during the first lap of the race.",
+        "data": [
+            [
+                "DRV001",
+                "Max Verstappen",
+                "1:28.123",
+                "Red Bull Racing"
+            ],
+            [
+                "DRV002",
+                "Charles Leclerc",
+                "1:28.345",
+                "Ferrari"
+            ],
+            [
+                "DRV003",
+                "Lewis Hamilton",
+                "1:28.489",
+                "Mercedes"
+            ],
+            [
+                "DRV004",
+                "Sergio Perez",
+                "1:28.551",
+                "Red Bull Racing"
+            ],
+            [
+                "DRV005",
+                "Lando Norris",
+                "1:28.602",
+                "McLaren"
+            ]
+        ]
+    }
+}

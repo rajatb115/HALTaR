@@ -1,0 +1,45 @@
+{
+    "table-480-480": {
+        "title": [
+            "Card Name",
+            "CMC",
+            "Card Type",
+            "Power",
+            "Rarity",
+            "Set"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the cards with converted mana cost higher than 5 in the set Coldsnap, how many of them have unknown power?",
+        "data": [
+            [
+                "Greater Gargadon",
+                "10",
+                "Creature",
+                "9",
+                "Rare",
+                "Coldsnap"
+            ],
+            [
+                "Jotun Owl Keeper",
+                "6",
+                "Creature",
+                "3",
+                "Common",
+                "Coldsnap"
+            ],
+            [
+                "Rimebound Dead",
+                "6",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

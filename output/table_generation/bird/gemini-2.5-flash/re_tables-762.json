@@ -1,0 +1,69 @@
+{
+    "table-762-762": {
+        "title": [
+            "Superhero Alias",
+            "Full Name",
+            "Weight (lbs)",
+            "Gender",
+            "Team"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the male superheroes, list the full names of superheroes with weight greater than the 79% average weight of all superheroes.",
+        "data": [
+            [
+                "Hulk",
+                "Robert Bruce Banner",
+                "1400",
+                "Male",
+                "Avengers"
+            ],
+            [
+                "Thor",
+                "Thor Odinson",
+                "640",
+                "Male",
+                "Avengers"
+            ],
+            [
+                "Aquaman",
+                "Arthur Curry",
+                "325",
+                "Male",
+                "Justice League"
+            ],
+            [
+                "Superman",
+                "Clark Kent",
+                "225",
+                "Male",
+                "Justice League"
+            ],
+            [
+                "Captain America",
+                "Steve Rogers",
+                "240",
+                "Male",
+                "Avengers"
+            ],
+            [
+                "Colossus",
+                "Piotr Rasputin",
+                "500",
+                "Male",
+                "X-Men"
+            ],
+            [
+                "Martian Manhunter",
+                "J'onn J'onzz",
+                "300",
+                "Male",
+                "Justice League"
+            ]
+        ]
+    }
+}

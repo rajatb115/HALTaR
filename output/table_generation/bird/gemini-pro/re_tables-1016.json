@@ -1,0 +1,57 @@
+{
+    "table-1016-1016": {
+        "title": [
+            "Grand Prix",
+            "Year",
+            "Lap Time",
+            "Driver",
+            "Team"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Austrian Grand Prix Lap Records",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which Formula_1 race was the lap record for the Austrian Grand Prix Circuit set?",
+        "data": [
+            [
+                "Austrian GP",
+                "2003",
+                "1:08.337",
+                "Michael Schumacher",
+                "Ferrari"
+            ],
+            [
+                "Austrian GP",
+                "2020",
+                "1:05.619",
+                "Carlos Sainz Jr.",
+                "McLaren"
+            ],
+            [
+                "Austrian GP",
+                "2021",
+                "1:06.957",
+                "Sergio P\u00e9rez",
+                "Red Bull Racing"
+            ],
+            [
+                "Styrian GP",
+                "2020",
+                "1:07.275",
+                "Valtteri Bottas",
+                "Mercedes"
+            ],
+            [
+                "Styrian GP",
+                "2021",
+                "1:07.058",
+                "Max Verstappen",
+                "Red Bull Racing"
+            ]
+        ]
+    }
+}

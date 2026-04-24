@@ -1,0 +1,46 @@
+{
+    "table-1231-1231": {
+        "title": [
+            "Outpatient ID",
+            "CPK Value",
+            "CPK Range"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Outpatient Records with Normal Creatine Phosphokinase",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all outpatient within normal range of creatinine phosphokinase. Give me the distinct ids.",
+        "data": [
+            [
+                "12345",
+                "150",
+                "Normal"
+            ],
+            [
+                "67890",
+                "180",
+                "Normal"
+            ],
+            [
+                "24680",
+                "100",
+                "Normal"
+            ],
+            [
+                "13579",
+                "170",
+                "Normal"
+            ],
+            [
+                "98765",
+                "120",
+                "Normal"
+            ]
+        ]
+    }
+}

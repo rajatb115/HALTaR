@@ -1,0 +1,83 @@
+{
+    "table-589-589": {
+        "title": [
+            "User_ID",
+            "Comment_Count",
+            "Date_Range_Start",
+            "Date_End",
+            "Platform_Status",
+            "Verification_Source",
+            "Last_Activity_Date",
+            "Total_Likes_Received"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the total number of comments posted by user ID 13.",
+        "data": [
+            [
+                "1",
+                "42",
+                "01/01/2023",
+                "31/12/2233",
+                "Active",
+                "System_Logs",
+                "5/16/2033 14:22",
+                "N/A"
+            ],
+            [
+                "13",
+                "1",
+                "7/15/2224",
+                "8/2/2324",
+                "Inactive",
+                "Audit_Trail",
+                "9/1/2424 09:00",
+                "67"
+            ],
+            [
+                "2",
+                "2",
+                "None",
+                "None",
+                "Pending",
+                "Manual_Entry",
+                "N/N/N",
+                ""
+            ],
+            [
+                "3",
+                "-1",
+                "Invalid",
+                "Invalid",
+                "Error_State",
+                "DB_Corruption",
+                "N/D/N",
+                "N/E"
+            ],
+            [
+                "4",
+                "0",
+                "Never",
+                "Never",
+                "New_User",
+                "Registration_DB",
+                "N/R/N",
+                ""
+            ],
+            [
+                "5",
+                "3",
+                "Jan 1, 2201",
+                "Dec 30",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

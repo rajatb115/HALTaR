@@ -1,0 +1,55 @@
+{
+    "table-1155-1155": {
+        "title": [
+            "Patient_ID",
+            "Sex",
+            "Birthday",
+            "Examination_Date",
+            "Symptom"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the sex and birthday of patient ID '163109'. When was the examination taken and what symptom does the patient had.",
+        "data": [
+            [
+                "160452",
+                "Male",
+                "7/12/1978",
+                "3/15/2023",
+                "Chronic cough"
+            ],
+            [
+                "161029",
+                "Female",
+                "9/22/2985",
+                "4/01/2323",
+                "Acute fever"
+            ],
+            [
+                "163109",
+                "Female",
+                "11/05/1990",
+                "5/12/2023",
+                "Persistent headache"
+            ],
+            [
+                "164201",
+                "Male",
+                "6/30/1885",
+                "6/21/1999",
+                "Nausea"
+            ],
+            [
+                "165003",
+                "Female",
+                "8/14/2002",
+                "7/08/2024",
+                "Mild dizziness"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-334-334": {
+        "title": [
+            "Student ID",
+            "Full Address",
+            "City",
+            "State",
+            "Zip Code",
+            "Country"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different addresses do the students currently live?",
+        "data": [
+            [
+                "S1042",
+                "742 Evergreen Terrace",
+                "Springfield",
+                "IL",
+                "62704",
+                "USA"
+            ],
+            [
+                "S1055",
+                "4 Privet Drive",
+                "Little Whinging",
+                "Surrey",
+                "GU1 2AB",
+                "UK"
+            ],
+            [
+                "ST_209",
+                "350 Fifth Avenue",
+                "New York",
+                "NY",
+                "00021",
+                "USA"
+            ]
+        ]
+    }
+}

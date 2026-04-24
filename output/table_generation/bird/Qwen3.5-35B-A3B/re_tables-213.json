@@ -1,0 +1,77 @@
+{
+    "table-213-213": {
+        "title": [
+            "Molecule Name",
+            "Element",
+            "Atom Count",
+            "Classification",
+            "Source",
+            "Notes"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which element is the least numerous in non-carcinogenic molecules?",
+        "data": [
+            [
+                "Methane",
+                "Carbon",
+                "1",
+                "Non-Carcinogen",
+                "Chemical Database",
+                "Simplest hydrocarbon"
+            ],
+            [
+                "Methane",
+                "Hydrogen",
+                "4",
+                "Non-Mutagenic",
+                "Chemical Database",
+                "Most abundant atom here"
+            ],
+            [
+                "Ribose Sugar",
+                "Oxygen",
+                "5",
+                "Safe Compound",
+                "Biochemistry Text",
+                "Key biological molecule"
+            ],
+            [
+                "Glucose",
+                "Carbon",
+                "6",
+                "Metabolite",
+                "Wikipedia",
+                "Common sugar structure"
+            ],
+            [
+                "Ethanol",
+                "Carbon",
+                "0",
+                "Alcohol Beverage",
+                "FDA Records",
+                "No nitrogen present"
+            ],
+            [
+                "Acetic Acid",
+                "Carbon",
+                "0",
+                "Vine Component",
+                "EPA Data",
+                "Trace elements absent"
+            ],
+            [
+                "Sucrose",
+                "Carbon",
+                "0",
+                "Dietary Sweetener",
+                "Natural Food Sources",
+                "No sulfur detected"
+            ]
+        ]
+    }
+}

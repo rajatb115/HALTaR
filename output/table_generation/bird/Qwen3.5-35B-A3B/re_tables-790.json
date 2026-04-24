@@ -1,0 +1,69 @@
+{
+    "table-790-790": {
+        "title": [
+            "Hero Name",
+            "Origin Species",
+            "Weight (kg)",
+            "Affiliation",
+            "Status",
+            "Power Level"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average weight of the heroes who are aliens.",
+        "data": [
+            [
+                "Superman",
+                "Kryptonian",
+                "764",
+                "Justice League",
+                "Active",
+                "High"
+            ],
+            [
+                "Martian Manhunter",
+                "Martians",
+                "816",
+                "Justice Society",
+                "Retired",
+                "Very High"
+            ],
+            [
+                "Manta Ray",
+                "Atlantean Hybrid",
+                "920",
+                "Dark Knights",
+                "Deceased",
+                "Medium"
+            ],
+            [
+                "Supergirl",
+                "Kryptonian",
+                "680",
+                "Young Heroes",
+                "Active",
+                "High"
+            ],
+            [
+                "Starfire",
+                "Tamaranean",
+                "590",
+                "Teen Titans",
+                "Active",
+                "High"
+            ],
+            [
+                "Zatanna",
+                "Human/Magic User",
+                "N/A",
+                "Justice Leaguers",
+                "Active",
+                ""
+            ]
+        ]
+    }
+}

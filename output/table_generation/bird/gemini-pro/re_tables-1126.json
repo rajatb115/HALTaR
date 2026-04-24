@@ -1,0 +1,46 @@
+{
+    "table-1126-1126": {
+        "title": [
+            "Player Name",
+            "Finishing Rate",
+            "Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Players with Perfect Finishing Rate",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the players with finishing rate of 1, pick the eldest player and state the player's name.",
+        "data": [
+            [
+                "Player A",
+                "1.0",
+                "25"
+            ],
+            [
+                "Player B",
+                "1.0",
+                "28"
+            ],
+            [
+                "Player C",
+                "1.0",
+                "22"
+            ],
+            [
+                "Player D",
+                "1.0",
+                "31"
+            ],
+            [
+                "Player E",
+                "1.0",
+                "29"
+            ]
+        ]
+    }
+}

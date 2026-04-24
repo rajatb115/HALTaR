@@ -1,0 +1,67 @@
+{
+    "table-362-362": {
+        "title": [
+            "Card Name",
+            "Legality Format",
+            "Legality Status",
+            "Has Text Box"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards of legalities whose status is restricted have text boxes?",
+        "data": [
+            [
+                "Ancestral Recall",
+                "Vintage",
+                "Restricted",
+                "Yes"
+            ],
+            [
+                "Black Lotus",
+                "Vintage",
+                "Restricted",
+                "Yes"
+            ],
+            [
+                "Brainstorm",
+                "Legacy",
+                "Legal",
+                "Yes"
+            ],
+            [
+                "Mox Emerald",
+                "Vintage",
+                "Restricted",
+                "Yes"
+            ],
+            [
+                "Sol Ring",
+                "Commander",
+                "Legal",
+                "Yes"
+            ],
+            [
+                "Flash",
+                "Legacy",
+                "Banned",
+                "Yes"
+            ],
+            [
+                "Chaos Orb",
+                "Vintage",
+                "Restricted",
+                "Yes"
+            ],
+            [
+                "Island",
+                "Standard",
+                "Legal",
+                "No"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-553-553": {
+        "title": [
+            "Student Name",
+            "Grade Level"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "High School Student Grades",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the grade of each high schooler?",
+        "data": [
+            [
+                "John Doe",
+                "9"
+            ],
+            [
+                "Jane Smith",
+                "10"
+            ],
+            [
+                "Peter Jones",
+                "11"
+            ],
+            [
+                "Alice Brown",
+                "12"
+            ],
+            [
+                "David Lee",
+                "9"
+            ]
+        ]
+    }
+}

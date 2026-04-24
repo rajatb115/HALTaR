@@ -1,0 +1,40 @@
+{
+    "table-875-875": {
+        "title": [
+            "Driver",
+            "Team",
+            "Position",
+            "Points",
+            "Grid",
+            "Fastest Lap",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who finished second in the San Marino Grand Prix in 2006?",
+        "data": [
+            [
+                "Felipe Massa",
+                "Ferrari",
+                "4th",
+                "7",
+                "3rd",
+                "No",
+                "Finished"
+            ],
+            [
+                "Nick Heidfeld",
+                "BMW Sauber",
+                "5th",
+                "N/A",
+                "6th",
+                "Yes",
+                "Finished"
+            ]
+        ]
+    }
+}

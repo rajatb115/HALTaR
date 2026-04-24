@@ -1,0 +1,69 @@
+{
+    "table-1497-1497": {
+        "title": [
+            "Client Segment",
+            "Month",
+            "Year Total Spend ($)",
+            "Rank by Spending",
+            "Data Source Verified"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which client segment consumed the least in September 2013?",
+        "data": [
+            [
+                "Enterprise Clients",
+                "September",
+                "45000",
+                "3",
+                "Yes"
+            ],
+            [
+                "Small Business Owners",
+                "September",
+                "6750",
+                "N/A",
+                "No"
+            ],
+            [
+                "Government Agencies",
+                "September",
+                "8900",
+                "5",
+                "Yes"
+            ],
+            [
+                "Individual Consumers",
+                "September",
+                "920",
+                "7",
+                "Yes"
+            ],
+            [
+                "Non-Profit Organizations",
+                "September",
+                "0",
+                "8",
+                "Partially"
+            ],
+            [
+                "Corporate Partnerships",
+                "September",
+                "",
+                "-",
+                "Pending"
+            ],
+            [
+                "Freelance Professionals",
+                "September",
+                "",
+                "-",
+                "Rejected"
+            ]
+        ]
+    }
+}

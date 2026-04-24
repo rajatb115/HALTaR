@@ -1,0 +1,51 @@
+{
+    "table-1511-1511": {
+        "title": [
+            "Gas Station",
+            "Total Transactions",
+            "Average Price",
+            "Currency"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Gas Station Transaction Data in Czech Republic",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average total price of the transactions taken place in gas stations in the Czech Republic?",
+        "data": [
+            [
+                "Station A",
+                "125",
+                "1500 CZK",
+                "CZK"
+            ],
+            [
+                "Station B",
+                "180",
+                "1750 CZK",
+                "CZK"
+            ],
+            [
+                "Station C",
+                "95",
+                "1600 CZK",
+                "CZK"
+            ],
+            [
+                "Station D",
+                "210",
+                "1800 CZK",
+                "CZK"
+            ],
+            [
+                "Station E",
+                "150",
+                "1550 CZK",
+                "CZK"
+            ]
+        ]
+    }
+}

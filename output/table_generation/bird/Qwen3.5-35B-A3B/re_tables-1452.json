@@ -1,0 +1,69 @@
+{
+    "table-1452-1452": {
+        "title": [
+            "Member ID",
+            "Total Events Incurred",
+            "Number of Expenses > $1",
+            "Highest Single Expense Amount ($)",
+            "Most Expensive Event Date",
+            "Primary Category Spent On"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the members who incurred expenses in more than one event, who paid the most amount?",
+        "data": [
+            [
+                "M104",
+                "3",
+                "Yes",
+                "450.75",
+                "6/12/2023",
+                "Conference Fees"
+            ],
+            [
+                "M109",
+                "2",
+                "Yes",
+                "320.00",
+                "5/22/2023",
+                "Travel & Lodging"
+            ],
+            [
+                "M215",
+                "4",
+                "Yes",
+                "512.50",
+                "7/01/2023",
+                "Equipment Rental"
+            ],
+            [
+                "M302",
+                "2",
+                "",
+                "289.99",
+                "",
+                "Software License"
+            ],
+            [
+                "M418",
+                "3",
+                "Yes",
+                "405.20",
+                "8/10/2024",
+                "Venue Deposit"
+            ],
+            [
+                "M501",
+                "2",
+                "",
+                "",
+                "",
+                "Training Materials"
+            ]
+        ]
+    }
+}

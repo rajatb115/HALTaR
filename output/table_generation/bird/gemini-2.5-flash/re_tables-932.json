@@ -1,0 +1,62 @@
+{
+    "table-932-932": {
+        "title": [
+            "Driver",
+            "Team",
+            "Fastest Lap Time",
+            "Average Speed (km/h)",
+            "Race Position"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the fastest lap speed among all drivers in the 2009 Spanish Grand Prix?",
+        "data": [
+            [
+                "Rubens Barrichello",
+                "Brawn-Mercedes",
+                "1:22.762",
+                "202.4",
+                "1"
+            ],
+            [
+                "Sebastian Vettel",
+                "Red Bull-Renault",
+                "1:23.015",
+                "201.8",
+                "4"
+            ],
+            [
+                "Jenson Button",
+                "Brawn-Mercedes",
+                "1:23.188",
+                "201.4",
+                "1"
+            ],
+            [
+                "Mark Webber",
+                "Red Bull-Renault",
+                "1:23.350",
+                "201.0",
+                "3"
+            ],
+            [
+                "Felipe Massa",
+                "Ferrari",
+                "1:23.501",
+                "200.7",
+                "6"
+            ],
+            [
+                "Lewis Hamilton",
+                "McLaren-Mercedes",
+                "1:23.620",
+                "200.4",
+                "9"
+            ]
+        ]
+    }
+}

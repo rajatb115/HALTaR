@@ -1,0 +1,77 @@
+{
+    "table-1009-1009": {
+        "title": [
+            "Driver",
+            "Event",
+            "Lap Number",
+            "Stop Reason",
+            "Team",
+            "Duration"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "During which lap did Lewis Hamilton take a pit stop during the 2011 Australian Grand Prix?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "47",
+                "",
+                "Strategy Change",
+                "McLaren-Mercedes",
+                "6.2s"
+            ],
+            [
+                "Jenson Button",
+                "52",
+                "",
+                "Tires Wear",
+                "McLaren-Honda",
+                "7.1s"
+            ],
+            [
+                "Sebastian Vettel",
+                "38",
+                "",
+                "Safety Car",
+                "Red Bull-Renault",
+                "8.4s"
+            ],
+            [
+                "Fernando Alonso",
+                "91",
+                "",
+                "Tire Degradation",
+                "Ferrari-Ferrari",
+                "0.0s"
+            ],
+            [
+                "Mark Webber",
+                "45",
+                "",
+                "Fuel Load",
+                "Red Bull Sport",
+                "0.0s"
+            ],
+            [
+                "Kimi Raikkonen",
+                "",
+                "",
+                "N/A",
+                "Lotus-Cosworth",
+                "N/A"
+            ],
+            [
+                "Felipe Massa",
+                "",
+                "",
+                "",
+                "Scuderia Toro Rosso",
+                "FIA Penalty"
+            ]
+        ]
+    }
+}

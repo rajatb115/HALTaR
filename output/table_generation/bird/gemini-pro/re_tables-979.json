@@ -1,0 +1,47 @@
+{
+    "table-979-979": {
+        "title": [
+            "Location",
+            "Times Held",
+            "Latitude",
+            "Longitude"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Austrian Grand Prix Locations",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many times the circuits were held in Austria? Please give their location and coordinates.",
+        "data": [
+            [
+                "Zeltweg Airfield",
+                "1",
+                "47.2197",
+                "14.7597"
+            ],
+            [
+                "\u00d6sterreichring",
+                "11",
+                "47.2150",
+                "14.7647"
+            ],
+            [
+                "A1-Ring",
+                "7",
+                "47.2150",
+                "14.7647"
+            ],
+            [
+                "Red Bull Ring",
+                "14",
+                "47.2197",
+                "14.7597"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-88-88": {
+        "title": [
+            "Number of Cylinders",
+            "Engine Configuration",
+            "Vehicle Type",
+            "Max Acceleration (0-60 mph)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum accelerate for different number of cylinders?",
+        "data": [
+            [
+                "3",
+                "Inline-3",
+                "Economy Hatchback",
+                "9.8 seconds"
+            ],
+            [
+                "4",
+                "Inline-4",
+                "Compact Sedan",
+                "7.5 seconds"
+            ],
+            [
+                "6",
+                "V6",
+                "Mid-size SUV",
+                "6.2 seconds"
+            ],
+            [
+                "8",
+                "V8",
+                "Sports Car",
+                "3.8 seconds"
+            ],
+            [
+                "8",
+                "V8",
+                "Full-size Pickup",
+                "6.5 seconds"
+            ],
+            [
+                "10",
+                "V10",
+                "Supercar",
+                "2.9 seconds"
+            ],
+            [
+                "12",
+                "V12",
+                "Luxury GT",
+                "3.4 seconds"
+            ]
+        ]
+    }
+}

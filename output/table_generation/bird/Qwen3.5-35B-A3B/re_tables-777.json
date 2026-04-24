@@ -1,0 +1,85 @@
+{
+    "table-777-777": {
+        "title": [
+            "Hero Name",
+            "Race",
+            "Class",
+            "Affiliation",
+            "Status",
+            "Region",
+            "Level"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the hero name and race of Charles Chandler.",
+        "data": [
+            [
+                "Charles Chandler",
+                "Human",
+                "Paladin",
+                "Order of the Silver Dawn",
+                "Active",
+                "Kingdom of Eldoria",
+                "42"
+            ],
+            [
+                "Caelum Vance",
+                "Elf",
+                "Ranger",
+                "Forest Wardens",
+                "Deceased",
+                "Verdant Woods",
+                "38"
+            ],
+            [
+                "Thorne Ironwood",
+                "Dwarf",
+                "Warrior",
+                "Stonehold Guard",
+                "Retired",
+                "Mountain Peaks",
+                "55"
+            ],
+            [
+                "Lyra Moonwhisper",
+                "Tiefling",
+                "Sorcerer",
+                "Arcane Circle",
+                "Missing",
+                "Shadowlands",
+                "67"
+            ],
+            [
+                "Kaelen Stormwind",
+                "Dragonborn",
+                "Monk",
+                "Sky Temple",
+                "Active",
+                "High Desert",
+                "71"
+            ],
+            [
+                "Jory Blackthorn",
+                "Halfling",
+                "Rogue",
+                "Thieves Guild",
+                "Inactive",
+                "Lowland Marshes",
+                "29"
+            ],
+            [
+                "Mira Sunstrider",
+                "Night Elf",
+                "Druid",
+                "Cenarion Circle",
+                "Alive",
+                "Emerald Dream",
+                "83"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-197-197": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Carcinogenic Status",
+            "Contains Chlorine",
+            "Molecular Weight (g/mol)",
+            "Primary Use"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the non-carcinogenic molecules, how many contain chlorine atoms?",
+        "data": [
+            [
+                "Sodium Chloride",
+                "NaCl",
+                "Non-carcinogenic",
+                "Yes",
+                "58.44",
+                "Food seasoning, electrolyte"
+            ],
+            [
+                "Ascorbic Acid",
+                "C6H8O6",
+                "Non-carcinogenic",
+                "No",
+                "176.12",
+                "Vitamin C, antioxidant"
+            ],
+            [
+                "Sucralose",
+                "C12H19Cl3O8",
+                "Non-carcinogenic",
+                "Yes",
+                "397.64",
+                "Artificial sweetener"
+            ],
+            [
+                "Glucose",
+                "C6H12O6",
+                "Non-carcinogenic",
+                "No",
+                "180.16",
+                "Energy source, sugar"
+            ],
+            [
+                "Chlorhexidine",
+                "C22H30Cl2N10",
+                "Non-carcinogenic",
+                "Yes",
+                "505.45",
+                "Antiseptic, disinfectant"
+            ],
+            [
+                "Water",
+                "H2O",
+                "Non-carcinogenic",
+                "No",
+                "18.02",
+                "Solvent, life support"
+            ],
+            [
+                "Chloroprocaine",
+                "C13H19ClN2O2",
+                "Non-carcinogenic",
+                "Yes",
+                "270.75",
+                "Local anesthetic"
+            ]
+        ]
+    }
+}

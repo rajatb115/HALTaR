@@ -1,0 +1,51 @@
+{
+    "table-144-144": {
+        "title": [
+            "Account ID",
+            "Customer Name",
+            "Gold Card",
+            "Junior Card"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Accounts with Multiple Credit Card Types",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the accounts that have both gold and junior credit cards?",
+        "data": [
+            [
+                "12345",
+                "John Smith",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "67890",
+                "Alice Brown",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "24680",
+                "Carol White",
+                "Yes",
+                "No"
+            ],
+            [
+                "13579",
+                "David Black",
+                "No",
+                "Yes"
+            ],
+            [
+                "98765",
+                "Emily Green",
+                "Yes",
+                "Yes"
+            ]
+        ]
+    }
+}

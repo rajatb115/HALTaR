@@ -1,0 +1,43 @@
+{
+    "table-455-455": {
+        "title": [
+            "Card Name",
+            "Border Color",
+            "Power"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Cards with White Border Color and Unknown Power",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the cards with a white border color, how many of them have unknown power?",
+        "data": [
+            [
+                "Example Card 1",
+                "White",
+                "Unknown"
+            ],
+            [
+                "Example Card 2",
+                "White",
+                "Unknown"
+            ],
+            [
+                "Example Card 3",
+                "White",
+                "Unknown"
+            ],
+            [
+                "Example Card 4",
+                "White",
+                "Unknown"
+            ],
+            [
+                "Example Card 5",
+                "White",
+                "Unknown"
+            ]
+        ]
+    }
+}

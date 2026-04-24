@@ -1,0 +1,69 @@
+{
+    "table-420-420": {
+        "title": [
+            "Card Name",
+            "Color Identity",
+            "Card Type",
+            "Border Style",
+            "EDHRec Rank"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many color cards with no borders have been ranked higher than 12000 on EDHRec?",
+        "data": [
+            [
+                "Solitude",
+                "W",
+                "Creature",
+                "Borderless",
+                "13500"
+            ],
+            [
+                "Fierce Guardianship",
+                "U",
+                "Instant",
+                "Borderless",
+                "14200"
+            ],
+            [
+                "Dockside Extortionist",
+                "R",
+                "Creature",
+                "Borderless",
+                "16000"
+            ],
+            [
+                "Tevesh Szat, Doom of Fools",
+                "B",
+                "Planeswalker",
+                "Borderless",
+                "12100"
+            ],
+            [
+                "Endurance",
+                "G",
+                "Creature",
+                "Borderless",
+                "11500"
+            ],
+            [
+                "Rhystic Study",
+                "U",
+                "Enchantment",
+                "Extended Art",
+                "15000"
+            ],
+            [
+                "Fury",
+                "R",
+                "Creature",
+                "Borderless",
+                "12800"
+            ]
+        ]
+    }
+}

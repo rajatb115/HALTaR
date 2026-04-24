@@ -1,0 +1,49 @@
+{
+    "table-1373-1373": {
+        "title": [
+            "Member Name",
+            "Income Type",
+            "Date Received",
+            "Amount"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Member Income Dates",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When did the member, Casey Mason, received the income?",
+        "data": [
+            [
+                "Casey Mason",
+                "Salary",
+                "2023-01-15",
+                "$5000"
+            ],
+            [
+                "Casey Mason",
+                "Bonus",
+                "2023-06-30",
+                "$2500"
+            ],
+            [
+                "Casey Mason",
+                "Salary",
+                "2023-07-15",
+                "$5000"
+            ],
+            [
+                "Casey Mason",
+                "Commission",
+                "2023-09-30",
+                "$1000"
+            ],
+            [
+                "Casey Mason",
+                "Salary",
+                "2024-01-15",
+                "$5000"
+            ]
+        ]
+    }
+}

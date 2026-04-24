@@ -1,0 +1,51 @@
+{
+    "table-295-295": {
+        "title": [
+            "Bond ID",
+            "Compound Name",
+            "Carcinogenic",
+            "Bond Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Carcinogenic Compounds and Double Bonds",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which bond ids are double-bond with carcinogenic compound?",
+        "data": [
+            [
+                "123",
+                "Benzene",
+                "Yes",
+                "Double"
+            ],
+            [
+                "456",
+                "Benzo[a]pyrene",
+                "Yes",
+                "Double"
+            ],
+            [
+                "789",
+                "Formaldehyde",
+                "Yes",
+                "Double"
+            ],
+            [
+                "101",
+                "Vinyl chloride",
+                "Yes",
+                "Double"
+            ],
+            [
+                "112",
+                "Acrylamide",
+                "Yes",
+                "Double"
+            ]
+        ]
+    }
+}

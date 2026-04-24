@@ -1,0 +1,77 @@
+{
+    "table-329-329": {
+        "title": [
+            "Element",
+            "Bond Count",
+            "Molecule ID",
+            "Location Index",
+            "Bond Order",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the elements with double bond, consisted in molecule TR024.",
+        "data": [
+            [
+                "Carbon",
+                "6",
+                "TR072",
+                "C1-C2",
+                "Double",
+                "Present"
+            ],
+            [
+                "Oxygen",
+                "4",
+                "TR105",
+                "O1=O2",
+                "Single",
+                "Absent"
+            ],
+            [
+                "Nitrogen",
+                "3",
+                "TR201",
+                "N=N",
+                "Triple",
+                "Incomplete"
+            ],
+            [
+                "Sulfur",
+                "5",
+                "TR304",
+                "S=S",
+                "Double",
+                "Stable"
+            ],
+            [
+                "Carbon",
+                "7",
+                "TR412",
+                "C=C",
+                "Double",
+                "Mixed"
+            ],
+            [
+                "Phosphorus",
+                "8",
+                "TR520",
+                "P=P",
+                "Double",
+                "Rare"
+            ],
+            [
+                "Chlorine",
+                "9",
+                "TR630",
+                "Cl-Cl",
+                "Single",
+                "Stable"
+            ]
+        ]
+    }
+}

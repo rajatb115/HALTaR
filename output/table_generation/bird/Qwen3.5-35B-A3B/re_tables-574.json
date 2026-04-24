@@ -1,0 +1,76 @@
+{
+    "table-574-574": {
+        "title": [
+            "Comment ID",
+            "Score",
+            "Content Summary",
+            "Author",
+            "Timestamp",
+            "Status",
+            "Platform"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write the contents of comments with a score of 17.",
+        "data": [
+            [
+                "CMT_4021",
+                "6",
+                "User praised the new feature update for its intuitive design.",
+                "Alex Chen",
+                "01/15/2023",
+                "Approved",
+                "Reddit"
+            ],
+            [
+                "CMT_8832",
+                "7",
+                "Discussion about potential bugs in the latest patch release.",
+                "Sarah Jones",
+                "3/22/2024",
+                "Pending Review",
+                "GitHub"
+            ],
+            [
+                "CMT_1109",
+                "5",
+                "Feedback on customer support response time being too slow.",
+                "Mike Ross",
+                "4/10/2024",
+                "Flagged",
+                "Twitter"
+            ],
+            [
+                "CMT_5543",
+                "8",
+                "Suggestion to add dark mode option in future updates.",
+                "Emily White",
+                "9/05/1900",
+                "Accepted",
+                "Discord"
+            ],
+            [
+                "CMT_2210",
+                "",
+                "Complaint regarding unexpected charges on monthly bill.",
+                "John Doe",
+                "/12/12012",
+                "Escalated",
+                "Email Support"
+            ],
+            [
+                "CMT_9981",
+                "",
+                "Inquiry about compatibility with older operating systems.",
+                "Lisa Brown",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "table-576-576": {
+        "title": [
+            "User ID",
+            "Username",
+            "Badge Name",
+            "Date Obtained",
+            "Category",
+            "Points Awarded",
+            "Status",
+            "Source Platform"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the badge name that user 'SilentGhost' obtained?",
+        "data": [
+            [
+                "U7482",
+                "SilentGhost",
+                "Gold Medalist",
+                "06/15/2023",
+                "Achievement",
+                "500",
+                "Active",
+                "Community Forum"
+            ],
+            [
+                "U7491",
+                "TechGuru",
+                "Code Master",
+                "3/22/2024",
+                "Skill",
+                "750",
+                "Inactive",
+                "Dev Hub"
+            ],
+            [
+                "U8002",
+                "DataWiz",
+                "Insight Pro",
+                "8/10/2023",
+                "Recognition",
+                "600",
+                "Pending",
+                "Analytics Portal"
+            ],
+            [
+                "U9103",
+                "NightOwl",
+                "Late Contributor",
+                "9/01/2021",
+                "Participation",
+                "400",
+                "Expired",
+                "Support Desk"
+            ],
+            [
+                "U1024",
+                "QuietMind",
+                "Zenith Level",
+                "",
+                "N/A",
+                "",
+                "NDA",
+                "Internal System"
+            ]
+        ]
+    }
+}

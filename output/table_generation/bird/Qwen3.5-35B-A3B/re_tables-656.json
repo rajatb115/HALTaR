@@ -1,0 +1,76 @@
+{
+    "table-656-656": {
+        "title": [
+            "Post Title",
+            "Link Type ID",
+            "Category",
+            "Status",
+            "Author",
+            "Created Date",
+            "View Count"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write down the related posts titles and link type IDs of the post \"What are principal component scores?\".",
+        "data": [
+            [
+                "What are principal components?",
+                "LTI_402",
+                "Statistics",
+                "Published",
+                "Dr. Smith",
+                "06/15/2023",
+                "3420"
+            ],
+            [
+                "How to calculate PCA loadings",
+                "LTY_415",
+                "Data Science",
+                "Draft",
+                "J. Doe",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "Interpreting eigenvalues in PCA",
+                "LTK_398",
+                "Mathematics",
+                "Archived",
+                "Prof. Lee",
+                "09/12/2022",
+                "890"
+            ],
+            [
+                "Principal Component Analysis basics",
+                "LTU_421",
+                "Tutorial",
+                "Active",
+                "Admin User",
+                "07/01/2023",
+                "12500"
+            ],
+            [
+                "Visualizing PC Scores",
+                "LTS_433",
+                "Visualization",
+                "Published",
+                "S. Kim",
+                "05/10/2024",
+                "5600"
+            ],
+            [
+                "Dimensionality Reduction Guide",
+                "LTV_440",
+                "Reference",
+                "Pending",
+                "M. Chen",
+                "",
+                ""
+            ]
+        ]
+    }
+}

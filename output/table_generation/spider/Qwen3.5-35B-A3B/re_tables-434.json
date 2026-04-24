@@ -1,0 +1,85 @@
+{
+    "table-434-434": {
+        "title": [
+            "Country",
+            "Surface Area Sq Km",
+            "Region Subgroup",
+            "Data Source Status",
+            "Last Updated",
+            "Population Density Per Sq Km",
+            "GDP per Capita USD"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much surface area do the countires in the Carribean cover together?",
+        "data": [
+            [
+                "Cuba",
+                "746,410",
+                "Greater Antilles",
+                "Verified",
+                "01/01/YYYY",
+                "98",
+                "$10,500"
+            ],
+            [
+                "Haiti",
+                "42,789",
+                "Hispaniola",
+                "Verified",
+                "02/02/YYYY",
+                "380",
+                "$1,800"
+            ],
+            [
+                "Dominican Republic",
+                "80,000",
+                "Hispaniola",
+                "Verified",
+                "03/03/YYYY",
+                "180",
+                "$8,200"
+            ],
+            [
+                "Jamaica",
+                "30,100",
+                "Greater Antilles",
+                "Verified",
+                "04/04/YYYY",
+                "250",
+                "$6,550"
+            ],
+            [
+                "Trinidad and Tobago",
+                "5,128",
+                "Caribbean Sea Islands",
+                "Verified",
+                "05/05/YYYY",
+                "300",
+                "$15,050"
+            ],
+            [
+                "Bahamas",
+                "6,275",
+                "Lucayan Archipelago",
+                "Verified",
+                "06/06/YYYY",
+                "35",
+                "$18,020"
+            ],
+            [
+                "Barbados",
+                "430",
+                "Windward Islands",
+                "Verified",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

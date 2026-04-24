@@ -1,0 +1,45 @@
+{
+    "table-1364-1364": {
+        "title": [
+            "Department Name",
+            "Building",
+            "Number of Faculty"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "University Departments within the College of Humanities and Social Sciences",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all of the College of Humanities and Social Sciences' departments.",
+        "data": [
+            [
+                "History",
+                "Old Main",
+                "25"
+            ],
+            [
+                "English",
+                "Griffin Hall",
+                "30"
+            ],
+            [
+                "Political Science",
+                "Miller Hall",
+                "18"
+            ],
+            [
+                "Sociology",
+                "Miller Hall",
+                "15"
+            ],
+            [
+                "Philosophy",
+                "Old Main",
+                "12"
+            ]
+        ]
+    }
+}

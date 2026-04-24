@@ -1,0 +1,53 @@
+{
+    "table-673-673": {
+        "title": [
+            "User ID",
+            "Location",
+            "Post Count",
+            "Total Favorites"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2,
+            3
+        ],
+        "pgTitle": "UK Users and Post Favorites",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the users located in United Kingdom, how many users whose post have a total favorite amount of 4 or more?",
+        "data": [
+            [
+                "123",
+                "United Kingdom",
+                "5",
+                "7"
+            ],
+            [
+                "456",
+                "United Kingdom",
+                "2",
+                "2"
+            ],
+            [
+                "789",
+                "United Kingdom",
+                "3",
+                "5"
+            ],
+            [
+                "101",
+                "United Kingdom",
+                "1",
+                "0"
+            ],
+            [
+                "202",
+                "United Kingdom",
+                "4",
+                "4"
+            ]
+        ]
+    }
+}

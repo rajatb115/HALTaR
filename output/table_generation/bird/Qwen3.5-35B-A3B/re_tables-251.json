@@ -1,0 +1,53 @@
+{
+    "table-251-251": {
+        "title": [
+            "Molecule ID",
+            "Common Name",
+            "Formula",
+            "Double Bonds Count",
+            "Carcinogen Status",
+            "Source Category"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of all the carcinogenic molecules, which one has the most double bonds?",
+        "data": [
+            [
+                "MOL-0042",
+                "Benzo[a]pyrene",
+                "C\u2082\u2080H\u2081\u2082",
+                "6",
+                "Confirmed Human Carcinogen",
+                "Combustion Byproduct"
+            ],
+            [
+                "MOL-1105",
+                "Aflatoxin B1",
+                "C\u2081\u2087H\u2081\u2084O\u2086",
+                "7",
+                "Group 1 Carcinogenicity",
+                "Fungal Metabolite"
+            ],
+            [
+                "MOL-2290",
+                "Dibenz[a,h]anthracene",
+                "C\u2083\u2080H\u2082\u2080",
+                "6",
+                "Confirmed Animal Carcinogen",
+                "Polycyclic Aromatic Hydrocarbon"
+            ],
+            [
+                "MOL-3312",
+                "Chrysene",
+                "C\u2081\u2088H\u2081\u2082",
+                "6",
+                "Potential Carcinogen",
+                "Natural Occurrence"
+            ]
+        ]
+    }
+}

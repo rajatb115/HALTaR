@@ -1,0 +1,43 @@
+{
+    "table-1010-1010": {
+        "title": [
+            "Driver",
+            "Team",
+            "Time Spent in Pit Stop"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "2011 Australian Grand Prix Pit Stop Durations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the time each driver spent at the pit stop during the 2011 Australian Grand Prix.",
+        "data": [
+            [
+                "Sebastian Vettel",
+                "Red Bull Racing",
+                "23.5 seconds"
+            ],
+            [
+                "Lewis Hamilton",
+                "McLaren",
+                "24.1 seconds"
+            ],
+            [
+                "Vitaly Petrov",
+                "Renault",
+                "25.9 seconds"
+            ],
+            [
+                "Mark Webber",
+                "Red Bull Racing",
+                "22.8 seconds"
+            ],
+            [
+                "Jenson Button",
+                "McLaren",
+                "23.3 seconds"
+            ]
+        ]
+    }
+}

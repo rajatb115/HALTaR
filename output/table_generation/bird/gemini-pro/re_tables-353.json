@@ -1,0 +1,45 @@
+{
+    "table-353-353": {
+        "title": [
+            "Language",
+            "Card Count",
+            "Percentage"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Card Language Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of the cards availabe in Chinese Simplified.",
+        "data": [
+            [
+                "English",
+                "1000",
+                "50.0%"
+            ],
+            [
+                "Chinese Simplified",
+                "300",
+                "15.0%"
+            ],
+            [
+                "Spanish",
+                "200",
+                "10.0%"
+            ],
+            [
+                "French",
+                "200",
+                "10.0%"
+            ],
+            [
+                "German",
+                "100",
+                "5.0%"
+            ]
+        ]
+    }
+}

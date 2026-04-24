@@ -1,0 +1,76 @@
+{
+    "table-46-46": {
+        "title": [
+            "School Name",
+            "Manager",
+            "Average Writing Score",
+            "Total Students Tested",
+            "Academic Rating",
+            "Location",
+            "Enrollment Size"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average writing score of each of the schools managed by Ricci Ulrich? List the schools and the corresponding average writing scores.",
+        "data": [
+            [
+                "Northwood High School",
+                "Ricci Ulrich",
+                "74.2",
+                "312",
+                "Proficient",
+                "Springfield",
+                "850"
+            ],
+            [
+                "Southside Academy",
+                "Ricci Ulrich",
+                "68.5",
+                "245",
+                "Developing",
+                "Springfield",
+                "620"
+            ],
+            [
+                "Eastview Preparatory",
+                "Ricci Ulric",
+                "69.8",
+                "401",
+                "Needs Improvement",
+                "Riverside",
+                "910"
+            ],
+            [
+                "Westgate Institute",
+                "Ricci Ulich",
+                "58.3",
+                "0",
+                "Below Standard",
+                "Oakville",
+                ""
+            ],
+            [
+                "Central City Charter",
+                "Ricci Urihl",
+                "71.0",
+                "289",
+                "Approaching Expectations",
+                "Metro Center",
+                ""
+            ],
+            [
+                "Lincoln Heights Magnet",
+                "Ricchi Ulrich",
+                "76.4",
+                "330",
+                "Advanced",
+                "Hilltop District",
+                ""
+            ]
+        ]
+    }
+}

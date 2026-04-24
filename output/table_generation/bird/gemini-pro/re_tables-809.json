@@ -1,0 +1,52 @@
+{
+    "table-809-809": {
+        "title": [
+            "Name",
+            "Race",
+            "Weight (kg)",
+            "Height (cm)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Superhero Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the race of the superhero who weighs 108kg and is 188cm tall.",
+        "data": [
+            [
+                "Superman",
+                "Kryptonian",
+                "100",
+                "191"
+            ],
+            [
+                "Spider-Man",
+                "Human",
+                "76",
+                "178"
+            ],
+            [
+                "Hulk",
+                "Human",
+                "635",
+                "244"
+            ],
+            [
+                "Wolverine",
+                "Mutant",
+                "136",
+                "160"
+            ],
+            [
+                "Unknown",
+                "Unknown",
+                "108",
+                "188"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "table-1180-1180": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "Diagnosis Date",
+            "Test Type",
+            "Test Date",
+            "Result Value",
+            "Result Unit",
+            "Interpretation"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who was diagnosed with SLE on 1994/2/19, what was his/her anti-Cardiolipin antibody concentration status on 1993/11/12?",
+        "data": [
+            [
+                "P001",
+                "SLE",
+                "1994/02/19",
+                "Anti-Cardiolipin IgG",
+                "1993/11/12",
+                "25",
+                "MPL U/mL",
+                "Positive"
+            ],
+            [
+                "P001",
+                "SLE",
+                "1994/02/19",
+                "Anti-Cardiolipin IgM",
+                "1993/11/12",
+                "8",
+                "MPL U/mL",
+                "Negative"
+            ],
+            [
+                "P002",
+                "Rheumatoid Arthritis",
+                "1995/07/01",
+                "ANA Screen",
+                "1995/06/20",
+                "Positive",
+                "N/A",
+                "High Titer"
+            ],
+            [
+                "P003",
+                "Lupus Nephritis",
+                "1996/03/15",
+                "dsDNA Antibody",
+                "1996/03/01",
+                "120",
+                "IU/mL",
+                "Elevated"
+            ],
+            [
+                "P001",
+                "SLE",
+                "1994/02/19",
+                "C3 Complement",
+                "1994/01/25",
+                "65",
+                "mg/dL",
+                "Low"
+            ],
+            [
+                "P004",
+                "Sjogren's Syndrome",
+                "1997/11/05",
+                "Anti-Ro/SSA",
+                "1997/10/28",
+                "Positive",
+                "N/A",
+                "Detected"
+            ],
+            [
+                "P005",
+                "Antiphospholipid Syndrome",
+                "1998/09/10",
+                "Lupus Anticoagulant",
+                "1998/08/20",
+                "Positive",
+                "N/A",
+                "Present"
+            ]
+        ]
+    }
+}

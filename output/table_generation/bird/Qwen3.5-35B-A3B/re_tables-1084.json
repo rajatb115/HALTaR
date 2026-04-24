@@ -1,0 +1,85 @@
+{
+    "table-1084-1084": {
+        "title": [
+            "Player Name",
+            "Overall Rating",
+            "Strength Attribute",
+            "Position",
+            "Team",
+            "League",
+            "Age"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which player has the strongest overall strength?",
+        "data": [
+            [
+                "Lionel Messi",
+                "94",
+                "High",
+                "Forward",
+                "Inter Miami",
+                "MLS",
+                "36"
+            ],
+            [
+                "Erling Haaland",
+                "89",
+                "Very High",
+                "Striker",
+                "Manchester City",
+                "EPL",
+                "23"
+            ],
+            [
+                "Kylian Mbapp\u00e9",
+                "68",
+                "Moderate",
+                "Winger",
+                "PSG",
+                "Ligue 1",
+                "25"
+            ],
+            [
+                "Kevin De Bruyne",
+                "45",
+                "Low",
+                "Midfielder",
+                "Man City",
+                "EFL",
+                "32"
+            ],
+            [
+                "Virgil van Dijk",
+                "88",
+                "Strong",
+                "Defender",
+                "Liverpool",
+                "PL",
+                "32"
+            ],
+            [
+                "Mohamed Salah",
+                "",
+                "N/A",
+                "Forward",
+                "Liverpool FC",
+                "",
+                ""
+            ],
+            [
+                "Harry Kane",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-959-959": {
+        "title": [
+            "Driver Forename",
+            "Driver Surname",
+            "Lap Time",
+            "Circuit",
+            "Event Date",
+            "Position"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which driver has the fastest lap time? Please give their forenames and surnames.",
+        "data": [
+            [
+                "Max",
+                "Verstappen",
+                "74.62s",
+                "Silverstone",
+                "07/07",
+                "3rd"
+            ],
+            [
+                "Lewis",
+                "Hamilton",
+                "82.15s",
+                "Monza",
+                "",
+                "4th"
+            ],
+            [
+                "Charles",
+                "Leclerc",
+                "91.33s",
+                "Spa-Francorchamps",
+                "",
+                "5th"
+            ],
+            [
+                "Fernando",
+                "Alonso",
+                "68.44s",
+                "Monaco",
+                "",
+                ""
+            ],
+            [
+                "George",
+                "Russell",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Lando",
+                "Norris",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sergio",
+                "Perez",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

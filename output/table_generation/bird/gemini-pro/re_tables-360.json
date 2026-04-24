@@ -1,0 +1,33 @@
+{
+    "table-360-360": {
+        "title": [
+            "Card Name",
+            "Set Name",
+            "Type"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Magic: The Gathering Card Details",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the type of the card \"Ancestor's Chosen\" as originally printed?",
+        "data": [
+            [
+                "Ancestor's Chosen",
+                "Seventh Edition",
+                "Creature - Human Monk"
+            ],
+            [
+                "Ancestor's Chosen",
+                "Classic Sixth Edition",
+                "Creature - Human Monk"
+            ],
+            [
+                "...",
+                "...",
+                "..."
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "table-1388-1388": {
+        "title": [
+            "Event",
+            "Budget Manager",
+            "Role Status",
+            "Department",
+            "Allocation Amount",
+            "Start Date",
+            "End Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which student has been entrusted to manage the budget for the Yearly Kickoff?",
+        "data": [
+            [
+                "Yearly Kickout",
+                "Sarah Jenkins",
+                "Active",
+                "Finance",
+                "$45,000",
+                "01/15/2024",
+                "31/03/2024"
+            ],
+            [
+                "Annual Summit",
+                "Michael Chen",
+                "Pending",
+                "Operations",
+                "$62,500",
+                "02/01/2024",
+                "30/06/2024"
+            ],
+            [
+                "Quarterly Review",
+                "Emily Davis",
+                "Completed",
+                "Marketing",
+                "$12,000",
+                "10/10/2023",
+                "09/12/2023"
+            ],
+            [
+                "Global Conference",
+                "David Lee",
+                "Assigned",
+                "IT",
+                "$120,000",
+                "01/01/2024",
+                "31/07/2024"
+            ]
+        ]
+    }
+}

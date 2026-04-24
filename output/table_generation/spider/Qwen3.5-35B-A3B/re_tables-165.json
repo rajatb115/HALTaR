@@ -1,0 +1,85 @@
+{
+    "table-165-165": {
+        "title": [
+            "Store ID",
+            "Location City",
+            "Region",
+            "Status",
+            "Opened Date",
+            "Square Footage",
+            "Manager"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of distinct store locations.",
+        "data": [
+            [
+                "ST-1042",
+                "New York",
+                "Northeast",
+                "Active",
+                "06/15/2018",
+                "4500",
+                "Sarah Jenkins"
+            ],
+            [
+                "ST-A773",
+                "Los Angeles",
+                "West",
+                "Active",
+                "03/22/2021",
+                "520",
+                "Michael Chen"
+            ],
+            [
+                "ST-B991",
+                "Chicago",
+                "Midwest",
+                "Closed",
+                "09/10/2002",
+                "N/A",
+                "David Ross"
+            ],
+            [
+                "ST-C205",
+                "Houston",
+                "South",
+                "Active",
+                "Jan 15, 2022",
+                "6100",
+                "Emily White"
+            ],
+            [
+                "ST-D448",
+                "Phoenix",
+                "Southwest",
+                "Pending",
+                "N/A",
+                "7800",
+                "James Brown"
+            ],
+            [
+                "ST-E112",
+                "Philadelphia",
+                "East Coast",
+                "Active",
+                "Nov 30, 2017",
+                "3900",
+                "Lisa Green"
+            ],
+            [
+                "ST-F339",
+                "San Antonio",
+                "Texas",
+                "Inactive",
+                "Feb 14, 2023",
+                "N/A",
+                "Robert Taylor"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-1527-1527": {
+        "title": [
+            "Customer ID",
+            "Transaction Date",
+            "Amount Paid",
+            "Consumption Rate 2Q12",
+            "Consumption Ratio 2Yr",
+            "Decrease Rate %",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the customer who paid 634.8 in 2012/8/25, what was the consumption decrease rate from Year 2012 to 2013?",
+        "data": [
+            [
+                "CUST_7721",
+                "8/15/2022",
+                "$630.50",
+                "High",
+                "0.92",
+                "-8%",
+                "Active"
+            ],
+            [
+                "CUS_8834",
+                "9/2/2023",
+                "$590.00",
+                "Medium",
+                "3.10",
+                "+12%",
+                "Inactive"
+            ],
+            [
+                "CUS_9912",
+                "",
+                "$710.25",
+                "Low",
+                "N/A",
+                "N/D",
+                "Pending"
+            ],
+            [
+                "CUZ_1123",
+                "10/1/2124",
+                "$450.75",
+                "Very High",
+                "-0.15",
+                "-15%",
+                "Review"
+            ],
+            [
+                "CUR_2245",
+                "7/30/2325",
+                "$620.80",
+                "Average",
+                "5.05",
+                "+5%",
+                "Closed"
+            ],
+            [
+                "CVS_3356",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-837-837": {
+        "title": [
+            "Superhero Name",
+            "Gender",
+            "Universe",
+            "Powers"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Superheroes with \"John\" in their Name",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total number of superheroes that have John as their first name?",
+        "data": [
+            [
+                "Johnny Quick",
+                "Male",
+                "DC",
+                "Speed"
+            ],
+            [
+                "John Stewart",
+                "Male",
+                "DC",
+                "Ring"
+            ],
+            [
+                "John Wraith",
+                "Male",
+                "Marvel",
+                "Teleportation"
+            ],
+            [
+                "John Constantine",
+                "Male",
+                "DC",
+                "Magic"
+            ],
+            [
+                "John Jameson",
+                "Male",
+                "Marvel",
+                "Strength"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "table-334-334": {
+        "title": [
+            "Molecule",
+            "Number of Carbons",
+            "Number of Hydrogens",
+            "Number of Oxygens",
+            "Number of Nitrogens"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Molecular Composition Examples",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the molecule TR008, how many carbons are present?",
+        "data": [
+            [
+                "TR008",
+                "*See Database*",
+                "*See Database*",
+                "*See Database*",
+                "*See Database*"
+            ],
+            [
+                "Methane",
+                "1",
+                "4",
+                "0",
+                "0"
+            ],
+            [
+                "Ethane",
+                "2",
+                "6",
+                "0",
+                "0"
+            ],
+            [
+                "Ethanol",
+                "2",
+                "6",
+                "1",
+                "0"
+            ],
+            [
+                "Glycine",
+                "2",
+                "5",
+                "2",
+                "1"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1241-1241": {
+        "title": [
+            "Patient ID",
+            "Exam Date",
+            "Hematocrit Level (%)",
+            "Normal Range Min (%)",
+            "Status",
+            "Lab Technician"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From laboratory examinations in 1991, what is the average hematoclit level that is lower than the normal range.",
+        "data": [
+            [
+                "P-4021",
+                "03/12/1961",
+                "N/A",
+                "Low",
+                "Dr. Aris Thorne",
+                ""
+            ],
+            [
+                "P-4105",
+                "7/22/2023",
+                "32.1",
+                "Lower Limit",
+                "Anemia Detected",
+                "Sarah Jenkins"
+            ],
+            [
+                "A-99210",
+                "9/15/1891",
+                "None",
+                "Below Standard",
+                "Critical Alert",
+                "Mark O'Neil"
+            ],
+            [
+                "B-334211",
+                "Dec 01, 1881",
+                "Data Missing",
+                "Outlier",
+                "Review Required",
+                "Emily Chen"
+            ],
+            [
+                "C-778899",
+                "Feb 28, 2191",
+                "Invalid Entry",
+                "Error Code",
+                "System Failure",
+                "John Doe"
+            ],
+            [
+                "D-112233",
+                "Oct 31, -500 BC",
+                "Historical Record",
+                "Ancient Norms",
+                "Archived",
+                "Lisa Wong"
+            ],
+            [
+                "E-556677",
+                "May 05",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

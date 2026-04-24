@@ -1,0 +1,51 @@
+{
+    "table-577-577": {
+        "title": [
+            "Comment ID",
+            "User ID",
+            "Comment Text",
+            "Timestamp"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "User Comments Example",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the user that commented 'thank you user93!'",
+        "data": [
+            [
+                "1",
+                "user12",
+                "Great post!",
+                "2023-10-26 10:00:00"
+            ],
+            [
+                "2",
+                "user93",
+                "Interesting points.",
+                "2023-10-26 10:15:00"
+            ],
+            [
+                "3",
+                "user47",
+                "Thank you user93!",
+                "2023-10-26 10:30:00"
+            ],
+            [
+                "4",
+                "user12",
+                "Agreed!",
+                "2023-10-26 10:45:00"
+            ],
+            [
+                "5",
+                "user93",
+                "No problem!",
+                "2023-10-26 11:00:00"
+            ]
+        ]
+    }
+}

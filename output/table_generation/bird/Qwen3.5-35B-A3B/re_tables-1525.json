@@ -1,0 +1,76 @@
+{
+    "table-1525-1525": {
+        "title": [
+            "Customer ID",
+            "Transaction Date",
+            "Amount Spent",
+            "Nationality",
+            "Status",
+            "Region",
+            "Account Age"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What's the nationality of the customer who spent 548.4 in 2012/8/24?",
+        "data": [
+            [
+                "CUST_7721",
+                "8/16/2024",
+                "$542.10",
+                "Canadian",
+                "Active",
+                "North America",
+                "3 years"
+            ],
+            [
+                "CUTST_8834",
+                "9/2/2124",
+                "$551.25",
+                "German",
+                "Inactive",
+                "Europe",
+                "5 years"
+            ],
+            [
+                "CUS_T9912",
+                "7/30/2224",
+                "$545.80",
+                "Japanese",
+                "Pending",
+                "Asia",
+                "6 months"
+            ],
+            [
+                "CUS_1123",
+                "4/12//2034",
+                "$549.90",
+                "Brazilian",
+                "Active",
+                "South America",
+                "2years"
+            ],
+            [
+                "CUSX_4455",
+                "08/01/2324",
+                "",
+                "$550.00",
+                "French",
+                "Europe",
+                "4years"
+            ],
+            [
+                "CUZS_6677",
+                "09/15/2524",
+                "$538.50",
+                "Australian",
+                "Active",
+                "Oceania",
+                "1year"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-219-219": {
+        "title": [
+            "Teacher Name",
+            "Age",
+            "City",
+            "State"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Teacher Demographics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Where is the youngest teacher from?",
+        "data": [
+            [
+                "John Smith",
+                "32",
+                "New York",
+                "NY"
+            ],
+            [
+                "Alice Brown",
+                "28",
+                "Chicago",
+                "IL"
+            ],
+            [
+                "David Lee",
+                "45",
+                "Houston",
+                "TX"
+            ],
+            [
+                "Emily Davis",
+                "35",
+                "Phoenix",
+                "AZ"
+            ],
+            [
+                "Michael Chen",
+                "29",
+                "Los Angeles",
+                "CA"
+            ]
+        ]
+    }
+}

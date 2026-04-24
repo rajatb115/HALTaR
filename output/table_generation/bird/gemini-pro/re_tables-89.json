@@ -1,0 +1,52 @@
+{
+    "table-89-89": {
+        "title": [
+            "School Name",
+            "Administrator Email",
+            "SAT Score Threshold",
+            "Number of Test Takers Above Threshold"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "School Information and Administrator Contact",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the administrator's email address for the school with the highest number of test takers who received SAT scores of at least 1500?Provide the name of the school.",
+        "data": [
+            [
+                "High Achievers Academy",
+                "admin@highachievers.edu",
+                "1500",
+                "250"
+            ],
+            [
+                "Pinnacle Prep School",
+                "principal@pinnacleprep.org",
+                "1500",
+                "230"
+            ],
+            [
+                "Summit High",
+                "info@summithigh.com",
+                "1500",
+                "210"
+            ],
+            [
+                "Elite Learning Center",
+                "contact@elitelearning.net",
+                "1500",
+                "190"
+            ],
+            [
+                "Vanguard Institute",
+                "registrar@vanguard.edu",
+                "1500",
+                "170"
+            ]
+        ]
+    }
+}

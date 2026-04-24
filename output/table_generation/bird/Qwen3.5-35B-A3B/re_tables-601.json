@@ -1,0 +1,83 @@
+{
+    "table-601-601": {
+        "title": [
+            "Post_ID",
+            "Related_Post_ID",
+            "Relation_Type",
+            "Popularity_Score",
+            "Engagement_Rate",
+            "Last_Updated",
+            "Author_ID",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out all post that are related to post ID 61217 and what is the popularity of this post?",
+        "data": [
+            [
+                "64821",
+                "6",
+                "Upvote",
+                "892",
+                "High",
+                "01/15/2024",
+                "User_A",
+                "Active"
+            ],
+            [
+                "61105",
+                "7",
+                "Comment",
+                "450",
+                "Medium",
+                "30/12/2023",
+                "User_B",
+                "Archived"
+            ],
+            [
+                "59302",
+                "9",
+                "Share",
+                "560",
+                "Low",
+                "10/01/2023",
+                "User_C",
+                "Deleted"
+            ],
+            [
+                "72104",
+                "",
+                "Direct_Link",
+                "N/A",
+                "Unknown",
+                "",
+                "User_D",
+                "Pending"
+            ],
+            [
+                "88291",
+                "-1",
+                "Cross_Ref",
+                "None",
+                "N/A",
+                "--/--/--",
+                "System",
+                "Error"
+            ],
+            [
+                "90112",
+                "+1",
+                "Reply_Chain",
+                "TBA",
+                "TBD",
+                "YYYY/MM/DD",
+                "Bot_X",
+                "Draft"
+            ]
+        ]
+    }
+}

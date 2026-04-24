@@ -1,0 +1,62 @@
+{
+    "table-263-263": {
+        "title": [
+            "First_Name",
+            "Country_Code",
+            "Total_Tours",
+            "Last_Competition_Date",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name and country code of the player who did the most number of tours.",
+        "data": [
+            [
+                "John",
+                "USA",
+                "45",
+                "7/12/2023",
+                "Active"
+            ],
+            [
+                "Maria",
+                "ESP",
+                "38",
+                "6/30/2023",
+                "Inactive"
+            ],
+            [
+                "Liam",
+                "GBR",
+                "52",
+                "8/15/2024",
+                "Active"
+            ],
+            [
+                "Sophie",
+                "FRA",
+                "9",
+                "",
+                "Retired"
+            ],
+            [
+                "Chen",
+                "CHN",
+                "0",
+                "",
+                "Pending"
+            ],
+            [
+                "Ahmed",
+                "EGY",
+                "12",
+                "",
+                "Suspended"
+            ]
+        ]
+    }
+}

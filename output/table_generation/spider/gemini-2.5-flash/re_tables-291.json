@@ -1,0 +1,48 @@
+{
+    "table-291-291": {
+        "title": [
+            "Battle Name",
+            "Date",
+            "Ship Lost"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name and date the battle that has lost the ship named 'Lettice' and the ship named 'HMS Atalanta'",
+        "data": [
+            [
+                "Atlantic Ocean (Storm)",
+                "1880-01-31",
+                "HMS Atalanta"
+            ],
+            [
+                "North Sea Convoy Attack",
+                "1917-05-12",
+                "Lettice"
+            ],
+            [
+                "Battle of Cape Matapan",
+                "1941-03-28",
+                "HMS Atalanta"
+            ],
+            [
+                "Battle of the Atlantic",
+                "1943-09-05",
+                "Lettice"
+            ],
+            [
+                "Skirmish off Heligoland",
+                "1914-08-28",
+                "HMS Atalanta"
+            ],
+            [
+                "Mediterranean Convoy HX-23",
+                "1942-07-18",
+                "Lettice"
+            ]
+        ]
+    }
+}

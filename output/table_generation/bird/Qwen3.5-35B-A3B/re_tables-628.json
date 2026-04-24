@@ -1,0 +1,58 @@
+{
+    "table-628-628": {
+        "title": [
+            "User ID",
+            "Age Group",
+            "Status",
+            "Region",
+            "Account Created",
+            "Last Login Date",
+            "Total Purchases"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users were adult?",
+        "data": [
+            [
+                "U1045",
+                "Adult",
+                "Active",
+                "North America",
+                "06/12/2019",
+                "3 days ago",
+                "$124.50"
+            ],
+            [
+                "U1089",
+                "Adult",
+                "Inactive",
+                "Europe",
+                "01/15/2021",
+                "Yesterday",
+                "N/A"
+            ],
+            [
+                "U2103",
+                "Adult",
+                "Active",
+                "Asia Pacific",
+                "03/22/2018",
+                "Today",
+                "$89.00"
+            ],
+            [
+                "U3341",
+                "Minor",
+                "Pending",
+                "South America",
+                "07/08/2023",
+                "Never",
+                "$0.00"
+            ]
+        ]
+    }
+}

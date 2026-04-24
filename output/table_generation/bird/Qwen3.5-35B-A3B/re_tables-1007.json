@@ -1,0 +1,76 @@
+{
+    "table-1007-1007": {
+        "title": [
+            "Circuit Name",
+            "Driver",
+            "Vehicle Class",
+            "Lap Time",
+            "Date Set",
+            "Track Length (km)",
+            "Weather Condition"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all the lap records set on various circuits, what is the time for the fastest one?",
+        "data": [
+            [
+                "Circuit de Spa-Francorchamps",
+                "Max Verstappen",
+                "Formula 1",
+                "47.652s",
+                "August 29, 2021",
+                "7.004",
+                "Dry"
+            ],
+            [
+                "Silverstone Circuit",
+                "Lewis Hamilton",
+                "Formula E",
+                "52.103s",
+                "June 12, 1022",
+                "5.891",
+                "Wet"
+            ],
+            [
+                "Monaco Grand Prix",
+                "Charles Leclerc",
+                "Formula FIA GT",
+                "61.234s",
+                "May 28, 0202",
+                "3.337",
+                "Overcast"
+            ],
+            [
+                "Suzuka International Racing Course",
+                "Fernando Alonso",
+                "Super Formula",
+                "34.567s",
+                "April 15, 9023",
+                "5.799",
+                "Sunny"
+            ],
+            [
+                "Indianapolis Motor Speedway",
+                "Scott Dixon",
+                "IndyCar Series",
+                "01:02.456",
+                "July 04, 8021",
+                "4.024",
+                "Clear"
+            ],
+            [
+                "Red Bull Ring",
+                "Sergio Perez",
+                "Formula One",
+                "7",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-952-952": {
+        "title": [
+            "Constructor",
+            "Races with 0 Points",
+            "Total Races Entered"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "F1 Constructor Performance",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many Japanese constructors have 0 points in 2 races?",
+        "data": [
+            [
+                "McLaren",
+                "5",
+                "935"
+            ],
+            [
+                "Ferrari",
+                "4",
+                "1079"
+            ],
+            [
+                "Williams",
+                "3",
+                "813"
+            ],
+            [
+                "Mercedes",
+                "2",
+                "281"
+            ],
+            [
+                "Red Bull",
+                "1",
+                "371"
+            ]
+        ]
+    }
+}

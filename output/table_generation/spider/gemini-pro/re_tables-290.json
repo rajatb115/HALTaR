@@ -1,0 +1,37 @@
+{
+    "table-290-290": {
+        "title": [
+            "Battle",
+            "Result"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Battle Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different results are there for the battles?",
+        "data": [
+            [
+                "Battle of A",
+                "Win"
+            ],
+            [
+                "Battle of B",
+                "Loss"
+            ],
+            [
+                "Battle of C",
+                "Draw"
+            ],
+            [
+                "Battle of D",
+                "Win"
+            ],
+            [
+                "Battle of E",
+                "Loss"
+            ]
+        ]
+    }
+}

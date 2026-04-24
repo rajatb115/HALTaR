@@ -1,0 +1,37 @@
+{
+    "table-1066-1066": {
+        "title": [
+            "Team Name",
+            "Speed Class"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Team Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list all team names which the speed class is fast.",
+        "data": [
+            [
+                "Alpha Team",
+                "Fast"
+            ],
+            [
+                "Bravo Team",
+                "Slow"
+            ],
+            [
+                "Charlie Team",
+                "Fast"
+            ],
+            [
+                "Delta Team",
+                "Moderate"
+            ],
+            [
+                "Echo Team",
+                "Fast"
+            ]
+        ]
+    }
+}

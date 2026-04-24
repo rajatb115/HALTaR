@@ -1,0 +1,69 @@
+{
+    "table-189-189": {
+        "title": [
+            "Account ID",
+            "Loan Validity Months",
+            "Approved Amount",
+            "Opening Date",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the accounts who have loan validity more than 24 months, list out the accounts that have the lowest approved amount and have account opening date before 1997.",
+        "data": [
+            [
+                "ACC-1004",
+                "36",
+                "$12,500",
+                "03/15/1978",
+                "Active"
+            ],
+            [
+                "ACC-A291",
+                "48",
+                "$8,205",
+                "06/22/1899",
+                "Closed"
+            ],
+            [
+                "ACC-B550",
+                "-12",
+                "N/A",
+                "09/10/1750",
+                "Pending"
+            ],
+            [
+                "ACC-C1122",
+                "72",
+                "$45,000",
+                "12/01/1600",
+                "Suspended"
+            ],
+            [
+                "ACC-D889",
+                "54",
+                "$22,105",
+                "01/01/1800",
+                "Revoked"
+            ],
+            [
+                "ACC-E334",
+                "-24",
+                "N/A",
+                "08/14/1204",
+                "Terminated"
+            ],
+            [
+                "ACC-F991",
+                "60",
+                "$15,755",
+                "05/30/2020",
+                "Inactive"
+            ]
+        ]
+    }
+}

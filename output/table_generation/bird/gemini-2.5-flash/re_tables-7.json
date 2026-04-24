@@ -1,0 +1,77 @@
+{
+    "table-7-7": {
+        "title": [
+            "School Name",
+            "School Type",
+            "Magnet Program Focus",
+            "SAT Test Takers",
+            "City",
+            "State"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the schools with the SAT test takers of over 500, please list the schools that are magnet schools or offer a magnet program.",
+        "data": [
+            [
+                "Northwood STEM Academy",
+                "Public Magnet",
+                "STEM",
+                "620",
+                "Springfield",
+                "IL"
+            ],
+            [
+                "Riverside Arts High School",
+                "Public",
+                "Performing Arts",
+                "580",
+                "Austin",
+                "TX"
+            ],
+            [
+                "Central International Baccalaureate",
+                "Public Magnet",
+                "IB Diploma",
+                "710",
+                "Miami",
+                "FL"
+            ],
+            [
+                "Evergreen Science & Tech",
+                "Public",
+                "Engineering",
+                "535",
+                "Seattle",
+                "WA"
+            ],
+            [
+                "Harborview Global Studies",
+                "Public Magnet",
+                "World Languages",
+                "670",
+                "Boston",
+                "MA"
+            ],
+            [
+                "Summit Leadership Academy",
+                "Public",
+                "Leadership & Public Service",
+                "590",
+                "Denver",
+                "CO"
+            ],
+            [
+                "Westlake Health Sciences",
+                "Public Magnet",
+                "Medical Professions",
+                "740",
+                "Houston",
+                "TX"
+            ]
+        ]
+    }
+}

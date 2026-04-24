@@ -1,0 +1,55 @@
+{
+    "table-924-924": {
+        "title": [
+            "Circuit_Name",
+            "Location_City",
+            "First_Race_Year",
+            "Last_Race_Lasted",
+            "Total_F1_Grand_Prix_Held"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many Formula_1 races took place on the circuits in Italy?",
+        "data": [
+            [
+                "Autodromo Nazionale Monza",
+                "Monza",
+                "1950",
+                "2023",
+                "74"
+            ],
+            [
+                "Circuito di Imola",
+                "Imola (Bologna)",
+                "1980",
+                "2006",
+                "39"
+            ],
+            [
+                "Aut\u00f3dromo Enzo e Dino Ferrari",
+                "Vallelunga",
+                "1980",
+                "2006",
+                "N/A"
+            ],
+            [
+                "Circuit de Monaco",
+                "Monte Carlo",
+                "1929",
+                "2023",
+                "N/A"
+            ],
+            [
+                "Sicily Autodrome",
+                "Palermo",
+                "",
+                "",
+                "N/A"
+            ]
+        ]
+    }
+}

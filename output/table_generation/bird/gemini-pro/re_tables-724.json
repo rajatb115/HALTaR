@@ -1,0 +1,43 @@
+{
+    "table-724-724": {
+        "title": [
+            "Superhero",
+            "Eye Color",
+            "Superpower"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Superheroes with Blue Eyes and Agility",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the superheroes with blue eyes, how many of them have the super power of \"Agility\"?",
+        "data": [
+            [
+                "Daredevil",
+                "Blue",
+                "Agility"
+            ],
+            [
+                "Quicksilver",
+                "Blue",
+                "Agility"
+            ],
+            [
+                "Nightcrawler",
+                "Yellow (appears blue)",
+                "Agility"
+            ],
+            [
+                "Batman",
+                "Blue",
+                "Agility"
+            ],
+            [
+                "Captain America",
+                "Blue",
+                "Agility"
+            ]
+        ]
+    }
+}

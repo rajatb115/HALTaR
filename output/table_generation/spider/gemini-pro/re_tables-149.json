@@ -1,0 +1,46 @@
+{
+    "table-149-149": {
+        "title": [
+            "Shop Name",
+            "Minimum Products",
+            "Maximum Products"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Product Count Summary Across Shops",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the minimum and maximum number of products across all the shops?",
+        "data": [
+            [
+                "Shop A",
+                "10",
+                "100"
+            ],
+            [
+                "Shop B",
+                "5",
+                "50"
+            ],
+            [
+                "Shop C",
+                "20",
+                "200"
+            ],
+            [
+                "Shop D",
+                "1",
+                "10"
+            ],
+            [
+                "Shop E",
+                "15",
+                "150"
+            ]
+        ]
+    }
+}

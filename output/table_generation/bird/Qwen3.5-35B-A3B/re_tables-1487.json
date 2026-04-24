@@ -1,0 +1,85 @@
+{
+    "table-1487-1487": {
+        "title": [
+            "Region",
+            "Currency",
+            "SME Payment Count",
+            "Percentage Share",
+            "Data Source",
+            "Survey Year",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Is it true that more SMEs pay in Czech koruna than in euros? If so, how many more?",
+        "data": [
+            [
+                "Czech Republic",
+                "CZK",
+                "452,100",
+                "68%",
+                "National Bank Report",
+                "7",
+                "Active"
+            ],
+            [
+                "Croatia",
+                "EUR",
+                "310,500",
+                "N/A",
+                "EU Statistics Office",
+                "8",
+                "Inactive"
+            ],
+            [
+                "Slovakia",
+                "SKK/EUR",
+                "0",
+                "N/A",
+                "Historical Record",
+                "9",
+                "Merged"
+            ],
+            [
+                "Austria",
+                "EUR",
+                "520,000",
+                "N/A",
+                "Federal Chamber",
+                "",
+                "Pending"
+            ],
+            [
+                "Germany",
+                "EUR",
+                "1,205,050",
+                "",
+                "Statistisches Bundesamt",
+                "",
+                ""
+            ],
+            [
+                "Poland",
+                "PLN",
+                "",
+                "",
+                "GUS Database",
+                "",
+                ""
+            ],
+            [
+                "Hungary",
+                "HUF",
+                "",
+                "",
+                "KSH Portal",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-181-181": {
+        "title": [
+            "Template ID",
+            "Template Code",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Template Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the ids of templates that have the code PP or PPT.",
+        "data": [
+            [
+                "123",
+                "PP",
+                "Presentation Template A"
+            ],
+            [
+                "124",
+                "PPT",
+                "Presentation Template B"
+            ],
+            [
+                "125",
+                "DOC",
+                "Document Template A"
+            ],
+            [
+                "126",
+                "PPX",
+                "Presentation Template C"
+            ],
+            [
+                "127",
+                "TXT",
+                "Text Template A"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-651-651": {
+        "title": [
+            "User ID",
+            "Badge Name",
+            "Last Accessed Date",
+            "Last Accessed Location"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the last accessed date and location of the users who received the outliers badge.",
+        "data": [
+            [
+                "U00123",
+                "Outliers Badge",
+                "2023-10-26",
+                "New York, USA"
+            ],
+            [
+                "U00456",
+                "Outliers Badge",
+                "2023-10-25",
+                "London, UK"
+            ],
+            [
+                "U00789",
+                "Outliers Badge",
+                "2023-10-26",
+                "Tokyo, Japan"
+            ],
+            [
+                "U01011",
+                "Outliers Badge",
+                "2023-10-24",
+                "Berlin, Germany"
+            ],
+            [
+                "U01213",
+                "Outliers Badge",
+                "2023-10-25",
+                "Sydney, Australia"
+            ],
+            [
+                "U01415",
+                "Outliers Badge",
+                "2023-10-26",
+                "Toronto, Canada"
+            ],
+            [
+                "U01617",
+                "Outliers Badge",
+                "2023-10-24",
+                "Paris, France"
+            ]
+        ]
+    }
+}

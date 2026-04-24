@@ -1,0 +1,76 @@
+{
+    "table-1375-1375": {
+        "title": [
+            "Member ID",
+            "Phone Number",
+            "Event Date",
+            "Event Name",
+            "Attendance Status",
+            "Total Events Attended",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many events did the member with the phone number \"954-555-6240\" attend?",
+        "data": [
+            [
+                "M1024",
+                "953-512-7788",
+                "01/15/2023",
+                "Winter Gala",
+                "Present",
+                "3",
+                "Nearby record for comparison"
+            ],
+            [
+                "M2091",
+                "850-599-1122",
+                "February 10, 2023",
+                "Spring Workshop",
+                "Absent",
+                "5",
+                "Nearby demographic match"
+            ],
+            [
+                "M3045",
+                "950-",
+                "March 22, 2023",
+                "",
+                "Present",
+                "4",
+                "Close area code prefix"
+            ],
+            [
+                "M4109",
+                "951-544-3321",
+                "April 05, 2023",
+                "Summer Conference",
+                "Absent",
+                "2",
+                "Similar local exchange"
+            ],
+            [
+                "M5220",
+                "949-588-9900",
+                "May 12, N/A",
+                "Autumn Summit",
+                "Pending",
+                "6",
+                "Neighboring region entry"
+            ],
+            [
+                "M6331",
+                "952-56",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

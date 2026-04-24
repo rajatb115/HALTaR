@@ -1,0 +1,51 @@
+{
+    "table-1260-1260": {
+        "title": [
+            "Patient ID",
+            "Birth Date",
+            "Rheumatoid Factor",
+            "Disease"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Diseases with Normal Rheumatoid Factor",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the diseases of the patients born after 1995-1-1 and have a normal Rhuematoid Factor.",
+        "data": [
+            [
+                "12345",
+                "1996-03-15",
+                "Normal",
+                "Asthma"
+            ],
+            [
+                "67890",
+                "1998-07-22",
+                "Normal",
+                "Eczema"
+            ],
+            [
+                "24680",
+                "2000-11-01",
+                "Normal",
+                "Allergies"
+            ],
+            [
+                "13579",
+                "1997-05-10",
+                "Normal",
+                "Migraine"
+            ],
+            [
+                "98765",
+                "1999-09-28",
+                "Normal",
+                "Sinusitis"
+            ]
+        ]
+    }
+}

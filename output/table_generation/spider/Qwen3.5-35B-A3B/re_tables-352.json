@@ -1,0 +1,61 @@
+{
+    "table-352-352": {
+        "title": [
+            "Serial_Name",
+            "Content_Type",
+            "Genre",
+            "Language",
+            "Region",
+            "Broadcast_Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the content of TV Channel with serial name \"Sky Radio\"?",
+        "data": [
+            [
+                "Sky Radio",
+                "Talk Show",
+                "News & Current Affairs",
+                "Dutch",
+                "Netherlands",
+                "Active"
+            ],
+            [
+                "Radio Mixx",
+                "Music Program",
+                "Pop Hits",
+                "English",
+                "UK",
+                "Active"
+            ],
+            [
+                "Mega FM",
+                "Entertainment",
+                "Variety",
+                "Spanish",
+                "Spain",
+                "Active"
+            ],
+            [
+                "Classic Gold",
+                "Nostalgia",
+                "Oldies",
+                "French",
+                "France",
+                "Inactive"
+            ],
+            [
+                "Urban Beats",
+                "Hip Hop",
+                "Urban Culture",
+                "German",
+                "Germany",
+                "Active"
+            ]
+        ]
+    }
+}

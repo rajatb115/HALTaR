@@ -1,0 +1,76 @@
+{
+    "table-371-371": {
+        "title": [
+            "Card ID",
+            "Title Language",
+            "Border Style",
+            "Illustration Count",
+            "Status",
+            "Region Code",
+            "Release Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many borderless cards are illustrated in Russian?",
+        "data": [
+            [
+                "BRD-RU-004",
+                "Russian",
+                "None",
+                "3",
+                "Active",
+                "RU",
+                "06/15/2023"
+            ],
+            [
+                "BRD-RUS-112",
+                "Russian / English",
+                "None",
+                "7",
+                "Archived",
+                "RU/EU",
+                "09/22/2021"
+            ],
+            [
+                "RUB-COL-88",
+                "Russian Only",
+                "None",
+                "1",
+                "Draft",
+                "RU",
+                "N/A"
+            ],
+            [
+                "RU-BRD-205",
+                "Russian Variant",
+                "None",
+                "5",
+                "Released",
+                "RU",
+                "04/10/2024"
+            ],
+            [
+                "SLV-RU-MIX",
+                "Mixed Script",
+                "None",
+                "8",
+                "Pending",
+                "INTL",
+                "07/30/2019"
+            ],
+            [
+                "BORDERLESS-RU",
+                "Cyrillic Text",
+                "None",
+                "6",
+                "Cancelled",
+                "RU",
+                "01/01/2023"
+            ]
+        ]
+    }
+}

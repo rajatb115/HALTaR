@@ -1,0 +1,43 @@
+{
+    "table-496-496": {
+        "title": [
+            "Country Code",
+            "Official Language",
+            "Government Form"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Country Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the codes of the countries that do not speak English and whose government forms are not Republic?",
+        "data": [
+            [
+                "AFG",
+                "Dari, Pashto",
+                "Islamic Emirate"
+            ],
+            [
+                "ALB",
+                "Albanian",
+                "Parliamentary Republic"
+            ],
+            [
+                "AND",
+                "Catalan",
+                "Parliamentary Democracy"
+            ],
+            [
+                "ARM",
+                "Armenian",
+                "Unitary Semi-Presidential Republic"
+            ],
+            [
+                "AUT",
+                "German",
+                "Federal Parliamentary Republic"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-25-25": {
+        "title": [
+            "School Name",
+            "Percent Eligible for Free Meals (K-12)",
+            "Number of Test Takers",
+            "Test Score Threshold"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Schools Meeting Specific Eligibility and Test Score Criteria",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the names of the schools with the percent eligible for free meals in K-12 is more than 0.1 and test takers whose test score is greater than or equal to 1500?",
+        "data": [
+            [
+                "School A",
+                "0.15",
+                "250",
+                "1500"
+            ],
+            [
+                "School B",
+                "0.20",
+                "300",
+                "1500"
+            ],
+            [
+                "School C",
+                "0.12",
+                "180",
+                "1500"
+            ],
+            [
+                "School D",
+                "0.25",
+                "400",
+                "1500"
+            ],
+            [
+                "School E",
+                "0.18",
+                "220",
+                "1500"
+            ]
+        ]
+    }
+}

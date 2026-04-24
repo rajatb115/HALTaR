@@ -1,0 +1,77 @@
+{
+    "table-143-143": {
+        "title": [
+            "Account Name",
+            "Order ID",
+            "Payment Type",
+            "City",
+            "Order Date",
+            "Amount (CZK)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which accounts placed orders for household payment in Pisek?",
+        "data": [
+            [
+                "Pisek Utilities",
+                "ORD-2023-1001",
+                "Utility Bill",
+                "Pisek",
+                "2023-10-26",
+                "1850"
+            ],
+            [
+                "Local Residents Assoc.",
+                "ORD-2023-1002",
+                "Service Fee",
+                "Pisek",
+                "2023-10-25",
+                "3200"
+            ],
+            [
+                "Jan Nov\u00e1k",
+                "ORD-2023-1003",
+                "Rent Payment",
+                "Pisek",
+                "2023-10-24",
+                "12500"
+            ],
+            [
+                "Eva Svobodov\u00e1",
+                "ORD-2023-1004",
+                "Household Bill",
+                "Pisek",
+                "2023-10-23",
+                "890"
+            ],
+            [
+                "Pisek Property Mgmt",
+                "ORD-2023-1005",
+                "Maintenance Fee",
+                "Pisek",
+                "2023-10-22",
+                "5600"
+            ],
+            [
+                "Karel Dvo\u0159\u00e1k",
+                "ORD-2023-1006",
+                "Utility Bill",
+                "Pisek",
+                "2023-10-21",
+                "1120"
+            ],
+            [
+                "Pisek City Council",
+                "ORD-2023-1007",
+                "Public Service Fee",
+                "Pisek",
+                "2023-10-20",
+                "7500"
+            ]
+        ]
+    }
+}

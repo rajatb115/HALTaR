@@ -1,0 +1,45 @@
+{
+    "table-1287-1287": {
+        "title": [
+            "Patient ID",
+            "Alkaliphosphatase Level",
+            "Hospital Admission"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Data with Alkaliphosphatase Levels and Hospital Admissions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient with an abnormal alkaliphophatase level, how many of them are admitted to the hospital?",
+        "data": [
+            [
+                "12345",
+                "High",
+                "Yes"
+            ],
+            [
+                "67890",
+                "Normal",
+                "No"
+            ],
+            [
+                "24680",
+                "High",
+                "Yes"
+            ],
+            [
+                "13579",
+                "Low",
+                "No"
+            ],
+            [
+                "98765",
+                "High",
+                "No"
+            ]
+        ]
+    }
+}

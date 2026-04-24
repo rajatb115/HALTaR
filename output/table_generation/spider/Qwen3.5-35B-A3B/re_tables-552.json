@@ -1,0 +1,53 @@
+{
+    "table-552-552": {
+        "title": [
+            "Student ID",
+            "First Name",
+            "Last Name",
+            "Grade Level",
+            "GPA",
+            "Attendance Rate"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all the grades of the high schoolers.",
+        "data": [
+            [
+                "HS0042",
+                "Liam",
+                "Johnson",
+                "9th",
+                "3.6",
+                "0.97"
+            ],
+            [
+                "HS0055",
+                "Olivia",
+                "Smith",
+                "8th",
+                "N/A",
+                "4.2"
+            ],
+            [
+                "HS0103",
+                "Noah",
+                "Williams",
+                "7th",
+                "B+",
+                "6.5"
+            ],
+            [
+                "HS0211",
+                "Emma",
+                "Brown",
+                "6th",
+                "C",
+                "0.8"
+            ]
+        ]
+    }
+}

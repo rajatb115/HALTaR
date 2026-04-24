@@ -1,0 +1,69 @@
+{
+    "table-121-121": {
+        "title": [
+            "Airport Name",
+            "IATA Code",
+            "City",
+            "State",
+            "Country"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the name of the airport with code 'AKO'.",
+        "data": [
+            [
+                "Colorado Plains Regional Airport",
+                "AKO",
+                "Akron",
+                "Colorado",
+                "USA"
+            ],
+            [
+                "Denver International Airport",
+                "DEN",
+                "Denver",
+                "Colorado",
+                "USA"
+            ],
+            [
+                "Los Angeles International Airport",
+                "LAX",
+                "Los Angeles",
+                "California",
+                "USA"
+            ],
+            [
+                "O'Hare International Airport",
+                "ORD",
+                "Chicago",
+                "Illinois",
+                "USA"
+            ],
+            [
+                "Hartsfield-Jackson Atlanta International Airport",
+                "ATL",
+                "Atlanta",
+                "Georgia",
+                "USA"
+            ],
+            [
+                "Dallas/Fort Worth International Airport",
+                "DFW",
+                "Dallas/Fort Worth",
+                "Texas",
+                "USA"
+            ],
+            [
+                "Miami International Airport",
+                "MIA",
+                "Miami",
+                "Florida",
+                "USA"
+            ]
+        ]
+    }
+}

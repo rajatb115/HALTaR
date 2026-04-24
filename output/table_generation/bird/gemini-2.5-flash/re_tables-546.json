@@ -1,0 +1,77 @@
+{
+    "table-546-546": {
+        "title": [
+            "Post ID",
+            "Author Username",
+            "Is Root Post",
+            "Topic ID",
+            "Post Date",
+            "View Count"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts owned by csgillespie, how many of them are root posts?",
+        "data": [
+            [
+                "101",
+                "csgillespie",
+                "Yes",
+                "50",
+                "2023-01-15",
+                "1250"
+            ],
+            [
+                "102",
+                "csgillespie",
+                "No",
+                "50",
+                "2023-01-16",
+                "345"
+            ],
+            [
+                "103",
+                "csgillespie",
+                "Yes",
+                "51",
+                "2023-02-01",
+                "890"
+            ],
+            [
+                "104",
+                "csgillespie",
+                "No",
+                "51",
+                "2023-02-03",
+                "210"
+            ],
+            [
+                "105",
+                "csgillespie",
+                "Yes",
+                "52",
+                "2023-03-10",
+                "1500"
+            ],
+            [
+                "106",
+                "jsmith",
+                "Yes",
+                "53",
+                "2023-03-15",
+                "780"
+            ],
+            [
+                "107",
+                "csgillespie",
+                "No",
+                "52",
+                "2023-03-12",
+                "450"
+            ]
+        ]
+    }
+}

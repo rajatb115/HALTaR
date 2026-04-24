@@ -1,0 +1,76 @@
+{
+    "table-68-68": {
+        "title": [
+            "District Name",
+            "City",
+            "Year",
+            "Event Type",
+            "Financial Impact (USD)",
+            "Campuses Affected",
+            "Primary Reason"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total amount of Community College District closure in 1989 in the city of San Francisco?",
+        "data": [
+            [
+                "San Francisco City College District",
+                "San Francisco",
+                "1989",
+                "Restructuring",
+                "18500000",
+                "2",
+                "Budget Deficit"
+            ],
+            [
+                "Bay Area Community College Consortium",
+                "San Francisco",
+                "1989",
+                "Merger",
+                "9200000",
+                "1",
+                "Administrative Efficiency"
+            ],
+            [
+                "Golden Gate Community College",
+                "San Francisco",
+                "1988",
+                "Program Reduction",
+                "6100000",
+                "1",
+                "Declining Enrollment"
+            ],
+            [
+                "East Bay Community College District",
+                "Oakland",
+                "1989",
+                "Closure",
+                "25300000",
+                "3",
+                "State Funding Cuts"
+            ],
+            [
+                "Silicon Valley Community College",
+                "San Jose",
+                "1990",
+                "Consolidation",
+                "14700000",
+                "2",
+                "Operational Overlap"
+            ],
+            [
+                "Mission District College",
+                "San Francisco",
+                "1991",
+                "Financial Review",
+                "8800000",
+                "1",
+                "Mismanagement"
+            ]
+        ]
+    }
+}

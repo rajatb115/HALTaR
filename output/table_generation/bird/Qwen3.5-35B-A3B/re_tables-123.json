@@ -1,0 +1,33 @@
+{
+    "table-123-123": {
+        "title": [
+            "Loan_ID",
+            "District",
+            "Region",
+            "Status",
+            "Amount",
+            "Lender_Type",
+            "Application_Date",
+            "Approval_Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the district and region for loan ID '4990'.",
+        "data": [
+            [
+                "4987",
+                "North County",
+                "Metro East",
+                "Active",
+                "$125,000",
+                "Credit Union",
+                "06/12/2023",
+                "Approved"
+            ]
+        ]
+    }
+}

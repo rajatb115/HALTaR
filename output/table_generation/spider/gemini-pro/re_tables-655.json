@@ -1,0 +1,45 @@
+{
+    "table-655-655": {
+        "title": [
+            "Singer Name",
+            "Birth Year",
+            "Citizenship"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Singer Citizenship Overview",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the citizenships that are shared by singers with a birth year before 1945 and after 1955?",
+        "data": [
+            [
+                "Frank Sinatra",
+                "1915",
+                "United States"
+            ],
+            [
+                "Elvis Presley",
+                "1935",
+                "United States"
+            ],
+            [
+                "Chuck Berry",
+                "1926",
+                "United States"
+            ],
+            [
+                "Johnny Cash",
+                "1932",
+                "United States"
+            ],
+            [
+                "Tina Turner",
+                "1939",
+                "United States, Switzerland"
+            ]
+        ]
+    }
+}

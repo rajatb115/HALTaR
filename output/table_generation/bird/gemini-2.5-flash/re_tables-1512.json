@@ -1,0 +1,77 @@
+{
+    "table-1512-1512": {
+        "title": [
+            "CustomerID",
+            "TransactionID",
+            "Currency",
+            "TotalPrice",
+            "TransactionDate",
+            "PaymentMethod"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the customers who paid in the euro, what is their average total price of the transactions?",
+        "data": [
+            [
+                "CUST001",
+                "TXN001",
+                "EUR",
+                "120.50",
+                "2023-10-01",
+                "Credit Card"
+            ],
+            [
+                "CUST002",
+                "TXN002",
+                "EUR",
+                "85.20",
+                "2023-10-02",
+                "PayPal"
+            ],
+            [
+                "CUST001",
+                "TXN003",
+                "USD",
+                "50.00",
+                "2023-10-03",
+                "Debit Card"
+            ],
+            [
+                "CUST003",
+                "TXN004",
+                "EUR",
+                "210.00",
+                "2023-10-04",
+                "Bank Transfer"
+            ],
+            [
+                "CUST002",
+                "TXN005",
+                "GBP",
+                "30.00",
+                "2023-10-05",
+                "Credit Card"
+            ],
+            [
+                "CUST004",
+                "TXN006",
+                "EUR",
+                "99.99",
+                "2023-10-06",
+                "Credit Card"
+            ],
+            [
+                "CUST003",
+                "TXN007",
+                "EUR",
+                "150.75",
+                "2023-10-07",
+                "PayPal"
+            ]
+        ]
+    }
+}

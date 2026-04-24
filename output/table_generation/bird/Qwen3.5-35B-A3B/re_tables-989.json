@@ -1,0 +1,55 @@
+{
+    "table-989-989": {
+        "title": [
+            "Driver Name",
+            "Birth Year",
+            "Nationality",
+            "Avg Pit Stop Duration (s)",
+            "Team"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down top 5 German drivers who has the shortest average pit stop duration and were born between 1980-1985.",
+        "data": [
+            [
+                "Michael Schumacher",
+                "1968",
+                "Germany",
+                "4.2",
+                "Ferrari"
+            ],
+            [
+                "Ralf Schumacher",
+                "1975",
+                "Germany",
+                "3.9",
+                "Williams"
+            ],
+            [
+                "Nick Heidfeld",
+                "1980",
+                "Germany",
+                "5.1",
+                "BMW Sauber"
+            ],
+            [
+                "Timo Glock",
+                "1990",
+                "Germany",
+                "0.0",
+                "Toyota"
+            ],
+            [
+                "Sebastian Vettel",
+                "1987",
+                "Germany",
+                "N/A",
+                "Red Bull Racing"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "table-610-610": {
+        "title": [
+            "Post ID",
+            "Score",
+            "Author",
+            "Status",
+            "Category",
+            "Created Date",
+            "View Count",
+            "Comment Count"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts have a score of 10 on the list?",
+        "data": [
+            [
+                "P_1042",
+                "7",
+                "User_Alice",
+                "Active",
+                "Tech",
+                "06/15/2023",
+                "3420",
+                "45"
+            ],
+            [
+                "P_B891",
+                "9",
+                "Bob_Dev",
+                "Archived",
+                "Science",
+                "08/22/2023",
+                "N/A",
+                "67"
+            ],
+            [
+                "C_5502",
+                "10",
+                "Carol_Smith",
+                "Active",
+                "General",
+                "05/10/2024",
+                "",
+                ""
+            ],
+            [
+                "D_9921",
+                "8",
+                "Dave_Jones",
+                "Pending",
+                "Sports",
+                "",
+                "120",
+                ""
+            ],
+            [
+                "E_3310",
+                "9",
+                "Eve_Williams",
+                "Deleted",
+                "Arts",
+                "2024-01-15",
+                "N/A",
+                ""
+            ],
+            [
+                "F_7742",
+                "7",
+                "Frank_Lee",
+                "Active",
+                "Health",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

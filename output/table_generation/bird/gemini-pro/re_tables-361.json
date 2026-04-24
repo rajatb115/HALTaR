@@ -1,0 +1,49 @@
+{
+    "table-361-361": {
+        "title": [
+            "Card Name",
+            "Set Name",
+            "Release Date",
+            "Rarity"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Card Game Set Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "cards are not directly linked to language but through table 'set'. you need to add set in covered table & rephrase your question",
+        "data": [
+            [
+                "Card A",
+                "Set X",
+                "2023-01-15",
+                "Common"
+            ],
+            [
+                "Card B",
+                "Set Y",
+                "2023-03-01",
+                "Uncommon"
+            ],
+            [
+                "Card C",
+                "Set X",
+                "2023-01-15",
+                "Rare"
+            ],
+            [
+                "Card D",
+                "Set Z",
+                "2023-05-20",
+                "Common"
+            ],
+            [
+                "Card E",
+                "Set Y",
+                "2023-03-01",
+                "Mythic Rare"
+            ]
+        ]
+    }
+}

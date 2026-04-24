@@ -1,0 +1,76 @@
+{
+    "table-1038-1038": {
+        "title": [
+            "Player Name",
+            "Preferred Foot",
+            "Birth Year",
+            "Position",
+            "Nationality"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of players who prefer left foot, who were born between 1987 and 1992.",
+        "data": [
+            [
+                "Lionel Messi",
+                "Left",
+                "1987",
+                "Forward",
+                "Argentina"
+            ],
+            [
+                "Antoine Griezmann",
+                "Left",
+                "1991",
+                "Forward",
+                "France"
+            ],
+            [
+                "Kevin De Bruyne",
+                "Right",
+                "1991",
+                "Midfielder",
+                "Belgium"
+            ],
+            [
+                "Mohamed Salah",
+                "Left",
+                "1992",
+                "Forward",
+                "Egypt"
+            ],
+            [
+                "Virgil van Dijk",
+                "Right",
+                "1991",
+                "Defender",
+                "Netherlands"
+            ],
+            [
+                "Gareth Bale",
+                "Left",
+                "1989",
+                "Forward",
+                "Wales"
+            ],
+            [
+                "Robert Lewandowski",
+                "Right",
+                "1988",
+                "Forward",
+                "Poland"
+            ],
+            [
+                "Luka Modric",
+                "Right",
+                "1985",
+                "Midfielder",
+                "Croatia"
+            ]
+        ]
+    }
+}

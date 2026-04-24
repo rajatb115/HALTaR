@@ -1,0 +1,77 @@
+{
+    "table-1292-1292": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Albumin (g/dL)",
+            "Total Protein (g/dL)",
+            "Albumin Status",
+            "Total Protein Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male patients have a normal level of both albumin and total protein?",
+        "data": [
+            [
+                "P001",
+                "Male",
+                "4.2",
+                "7.5",
+                "Normal",
+                "Normal"
+            ],
+            [
+                "P002",
+                "Female",
+                "3.8",
+                "6.9",
+                "Normal",
+                "Normal"
+            ],
+            [
+                "P003",
+                "Male",
+                "3.1",
+                "6.2",
+                "Low",
+                "Normal"
+            ],
+            [
+                "P004",
+                "Male",
+                "4.8",
+                "5.8",
+                "Normal",
+                "Low"
+            ],
+            [
+                "P005",
+                "Female",
+                "5.5",
+                "8.0",
+                "High",
+                "Normal"
+            ],
+            [
+                "P006",
+                "Male",
+                "4.5",
+                "7.1",
+                "Normal",
+                "Normal"
+            ],
+            [
+                "P007",
+                "Male",
+                "3.9",
+                "7.8",
+                "Normal",
+                "Normal"
+            ]
+        ]
+    }
+}

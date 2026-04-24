@@ -1,0 +1,85 @@
+{
+    "table-1060-1060": {
+        "title": [
+            "Player Name",
+            "Height cm",
+            "Team",
+            "Position",
+            "Games Played",
+            "Points Per Game"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list player names which are higher than 180.",
+        "data": [
+            [
+                "LeBron James",
+                "206",
+                "Lakers",
+                "Forward",
+                "75",
+                "30.5"
+            ],
+            [
+                "Giannis Antetokounmpo",
+                "211",
+                "Bucks",
+                "Power Forward",
+                "72",
+                "30.5"
+            ],
+            [
+                "Joel Embiid",
+                "213",
+                "Sixers",
+                "Center",
+                "66",
+                "34.7"
+            ],
+            [
+                "Shai Gilgeous-Alexander",
+                "198",
+                "Thunder",
+                "Guard",
+                "68",
+                "31.0"
+            ],
+            [
+                "Victor Wembanyama",
+                "224",
+                "Spurs",
+                "Center/Forward",
+                "71",
+                "21.4"
+            ],
+            [
+                "Zion Williamson",
+                "198",
+                "Pelicans",
+                "Power Forward",
+                "70",
+                "26.0"
+            ],
+            [
+                "Anthony Davis",
+                "208",
+                "Lakers",
+                "Center",
+                "76",
+                "24.7"
+            ],
+            [
+                "Rudy Gobert",
+                "216",
+                "Timberwolves",
+                "Center",
+                "76",
+                "13.9"
+            ]
+        ]
+    }
+}

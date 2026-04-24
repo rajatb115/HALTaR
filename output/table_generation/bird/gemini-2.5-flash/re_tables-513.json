@@ -1,0 +1,77 @@
+{
+    "table-513-513": {
+        "title": [
+            "Card Name",
+            "Deck",
+            "Card Type",
+            "Power",
+            "Foil Available",
+            "Rarity"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards with unknown power that can't be found in foil is in duel deck A?",
+        "data": [
+            [
+                "Goblin Guide",
+                "Duel Deck A",
+                "Creature",
+                "2",
+                "Yes",
+                "Rare"
+            ],
+            [
+                "Lightning Bolt",
+                "Duel Deck A",
+                "Instant",
+                "N/A",
+                "Yes",
+                "Common"
+            ],
+            [
+                "Mountain",
+                "Duel Deck A",
+                "Land",
+                "N/A",
+                "No",
+                "Basic Land"
+            ],
+            [
+                "Kird Ape",
+                "Duel Deck A",
+                "Creature",
+                "2",
+                "No",
+                "Common"
+            ],
+            [
+                "Giant Growth",
+                "Duel Deck A",
+                "Instant",
+                "N/A",
+                "No",
+                "Common"
+            ],
+            [
+                "Tarmogoyf",
+                "Duel Deck A",
+                "Creature",
+                "X",
+                "Yes",
+                "Mythic Rare"
+            ],
+            [
+                "Forest",
+                "Duel Deck A",
+                "Land",
+                "N/A",
+                "No",
+                "Basic Land"
+            ]
+        ]
+    }
+}

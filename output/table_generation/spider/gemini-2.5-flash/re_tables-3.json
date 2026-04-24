@@ -1,0 +1,61 @@
+{
+    "table-3-3": {
+        "title": [
+            "Singer Name",
+            "Nationality",
+            "Age",
+            "Genre"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average, minimum, and maximum age of all singers from France?",
+        "data": [
+            [
+                "Zaz",
+                "France",
+                "43",
+                "Jazz Pop"
+            ],
+            [
+                "Vianney",
+                "France",
+                "33",
+                "French Pop"
+            ],
+            [
+                "Myl\u00e8ne Farmer",
+                "France",
+                "62",
+                "Pop Rock"
+            ],
+            [
+                "Clara Luciani",
+                "France",
+                "31",
+                "Indie Pop"
+            ],
+            [
+                "Johnny Hallyday",
+                "France",
+                "74",
+                "Rock"
+            ],
+            [
+                "Louane",
+                "France",
+                "27",
+                "Pop"
+            ],
+            [
+                "Christine and the Queens",
+                "France",
+                "36",
+                "Synth-pop"
+            ]
+        ]
+    }
+}

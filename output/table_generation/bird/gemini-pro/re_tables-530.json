@@ -1,0 +1,43 @@
+{
+    "table-530-530": {
+        "title": [
+            "Set Name",
+            "Korean Translation",
+            "Japanese Translation"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Sets with Korean Translation but No Japanese Translation",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find and list the names of sets which doesn't have Japanese translation but have Korean translation.",
+        "data": [
+            [
+                "Set A",
+                "Yes",
+                "No"
+            ],
+            [
+                "Set B",
+                "Yes",
+                "No"
+            ],
+            [
+                "Set C",
+                "Yes",
+                "No"
+            ],
+            [
+                "Set D",
+                "Yes",
+                "No"
+            ],
+            [
+                "Set E",
+                "Yes",
+                "No"
+            ]
+        ]
+    }
+}

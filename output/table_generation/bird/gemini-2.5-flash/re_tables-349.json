@@ -1,0 +1,69 @@
+{
+    "table-349-349": {
+        "title": [
+            "Ruling Date",
+            "Ruling Type",
+            "Ruling Summary",
+            "Affected Card Text",
+            "Source"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the information about rulings for card named 'Sublime Epiphany' with number 74s.",
+        "data": [
+            [
+                "2020-08-07",
+                "General",
+                "You must choose four *different* modes. You cannot choose the same mode multiple times.",
+                "\"Choose four different modes:\"",
+                "Gatherer Rulings"
+            ],
+            [
+                "2020-08-07",
+                "Targeting",
+                "Each chosen mode requires its own target(s) if applicable. All targets are chosen simultaneously.",
+                "Any mode with \"target\"",
+                "Comprehensive Rules 601.2c"
+            ],
+            [
+                "2020-08-07",
+                "Resolution",
+                "The chosen modes resolve in the order they are printed on the card, from top to bottom.",
+                "All modes",
+                "Gatherer Rulings"
+            ],
+            [
+                "2020-08-07",
+                "Copy Effect",
+                "The token copies the original creature as it exists on the battlefield, including any copy effects.",
+                "\"Create a token that's a copy of target creature you control.\"",
+                "Comprehensive Rules 706.2"
+            ],
+            [
+                "2020-08-07",
+                "Targeting",
+                "If a chosen target becomes illegal before resolution, that specific mode fails, but other modes still resolve.",
+                "Any mode with \"target\"",
+                "Comprehensive Rules 608.2b"
+            ],
+            [
+                "2021-03-19",
+                "Interaction",
+                "If you control no creatures, you cannot choose the \"create a token\" or \"gains hexproof\" modes.",
+                "\"Create a token...\", \"Target creature you control gains hexproof...\"",
+                "Official FAQ"
+            ],
+            [
+                "2021-03-19",
+                "Timing",
+                "The hexproof granted by Sublime Epiphany lasts until the end of the current turn.",
+                "\"Target creature you control gains hexproof until end of turn.\"",
+                "Gatherer Rulings"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "table-306-306": {
+        "title": [
+            "Bond Type",
+            "Atoms Connected",
+            "Bond Length (pm)",
+            "Bond Energy (kJ/mol)",
+            "Example Molecule"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Single Bond Properties in Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name all bonds with single bond types and what atoms are connected to the molecules.",
+        "data": [
+            [
+                "Single (C-C)",
+                "Carbon-Carbon",
+                "154",
+                "347",
+                "Ethane"
+            ],
+            [
+                "Single (C-H)",
+                "Carbon-Hydrogen",
+                "109",
+                "413",
+                "Methane"
+            ],
+            [
+                "Single (O-H)",
+                "Oxygen-Hydrogen",
+                "96",
+                "467",
+                "Water"
+            ],
+            [
+                "Single (N-H)",
+                "Nitrogen-Hydrogen",
+                "101",
+                "391",
+                "Ammonia"
+            ],
+            [
+                "Single (Si-O)",
+                "Silicon-Oxygen",
+                "161",
+                "452",
+                "Quartz"
+            ]
+        ]
+    }
+}

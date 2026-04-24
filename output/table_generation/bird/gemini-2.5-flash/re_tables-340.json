@@ -1,0 +1,77 @@
+{
+    "table-340-340": {
+        "title": [
+            "Compound ID",
+            "Molecule Name",
+            "Chemical Formula",
+            "Contains Oxygen",
+            "Carcinogenicity",
+            "Primary Target Organ"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the atom ID of the carcinogenic molecule that contains oxygen?",
+        "data": [
+            [
+                "M001",
+                "Formaldehyde",
+                "CH2O",
+                "Yes",
+                "Known",
+                "Respiratory Tract"
+            ],
+            [
+                "M002",
+                "Ethylene Oxide",
+                "C2H4O",
+                "Yes",
+                "Known",
+                "Lymphohematopoietic"
+            ],
+            [
+                "M003",
+                "TCDD (Dioxin)",
+                "C12H4Cl4O2",
+                "Yes",
+                "Known",
+                "Liver, Immune System"
+            ],
+            [
+                "M004",
+                "Aflatoxin B1",
+                "C17H12O6",
+                "Yes",
+                "Known",
+                "Liver"
+            ],
+            [
+                "M005",
+                "Acrylamide",
+                "C3H5NO",
+                "Yes",
+                "Probable",
+                "Nervous System"
+            ],
+            [
+                "M006",
+                "Chromium(VI) Oxide",
+                "CrO3",
+                "Yes",
+                "Known",
+                "Lungs"
+            ],
+            [
+                "M007",
+                "Arsenic Trioxide",
+                "As2O3",
+                "Yes",
+                "Known",
+                "Skin, Lungs, Bladder"
+            ]
+        ]
+    }
+}

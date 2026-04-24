@@ -1,0 +1,52 @@
+{
+    "table-1038-1038": {
+        "title": [
+            "Birth Year",
+            "Foot Preference",
+            "Player Count",
+            "Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Player Foot Preference by Birth Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of players who prefer left foot, who were born between 1987 and 1992.",
+        "data": [
+            [
+                "1987",
+                "Left",
+                "150",
+                "12.5%"
+            ],
+            [
+                "1988",
+                "Left",
+                "165",
+                "13.8%"
+            ],
+            [
+                "1989",
+                "Left",
+                "170",
+                "14.2%"
+            ],
+            [
+                "1990",
+                "Left",
+                "180",
+                "15.0%"
+            ],
+            [
+                "1991",
+                "Left",
+                "175",
+                "14.6%"
+            ]
+        ]
+    }
+}

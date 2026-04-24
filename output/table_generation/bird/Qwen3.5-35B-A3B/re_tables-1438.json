@@ -1,0 +1,62 @@
+{
+    "table-1438-1438": {
+        "title": [
+            "Member ID",
+            "Approval Date",
+            "Event Attended",
+            "Event Link",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which members who were approved from 1/10/2019 to 11/19/2019? Please identify the member who attended the event and the link to their event.",
+        "data": [
+            [
+                "MBR-4021",
+                "01/05/2021",
+                "Annual Tech Summit",
+                "https://events.techsummit.com/register/mbr4012",
+                "Approved"
+            ],
+            [
+                "MBR-4105",
+                "31/27/2919",
+                "Global Innovation Expo",
+                "https://expo.globalinnovation.org/join/mbr-4205",
+                "Approved"
+            ],
+            [
+                "MBB-4302",
+                "61/30/1299",
+                "Future AI Conference",
+                "https//ai-conference.future.net/signup/mbrb432",
+                "Pending Review"
+            ],
+            [
+                "MBC-4501",
+                "02/02/2020",
+                "Data Science Workshop",
+                "https:/datascience.workshop.edu/enroll/mc451",
+                "Rejected"
+            ],
+            [
+                "MDB-4608",
+                "71/40/3910",
+                "Cloud Security Forum",
+                "https/cloudsecurity.forum.io/access/mdb468",
+                "Approved"
+            ],
+            [
+                "MDE-4712",
+                "12/15/1191",
+                "Blockchain Meetup",
+                "",
+                ""
+            ]
+        ]
+    }
+}

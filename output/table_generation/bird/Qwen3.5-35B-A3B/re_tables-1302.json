@@ -1,0 +1,69 @@
+{
+    "table-1302-1302": {
+        "title": [
+            "Patient_ID",
+            "Thrombosis_Status",
+            "Creatine_Phosphokinase_Level",
+            "Unit",
+            "Status_Description"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the IDs of the patients with no thrombosis and an abnormal level of creatinine phosphokinase.",
+        "data": [
+            [
+                "P-4021",
+                "None",
+                "Elevated",
+                "U/L",
+                "Abnormal CPK detected"
+            ],
+            [
+                "P-A77B",
+                "Absent",
+                "High",
+                "U/mL",
+                "No clotting observed"
+            ],
+            [
+                "M-99XZ",
+                "Negative",
+                "Increased",
+                "IU/L",
+                "Normal coagulation profile"
+            ],
+            [
+                "R-11QW",
+                "Clear",
+                "Above Range",
+                "mg/dL",
+                "Healthy vascular system"
+            ],
+            [
+                "T-66LM",
+                "Unaffected",
+                "Marked Elevation",
+                "U/gHr",
+                "No evidence of DVT"
+            ],
+            [
+                "S-33RT",
+                "Not Present",
+                "Outlier Value",
+                "nmol/min",
+                "Routine screening complete"
+            ],
+            [
+                "V-88JK",
+                "Intact",
+                "Significantly Raised",
+                "kU/L",
+                "Baseline metabolic check passed"
+            ]
+        ]
+    }
+}

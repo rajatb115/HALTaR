@@ -1,0 +1,37 @@
+{
+    "table-117-117": {
+        "title": [
+            "Airline Name",
+            "Abbreviation"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Airline Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the airline with abbreviation 'UAL'.",
+        "data": [
+            [
+                "United Airlines",
+                "UAL"
+            ],
+            [
+                "American Airlines",
+                "AAL"
+            ],
+            [
+                "Delta Airlines",
+                "DAL"
+            ],
+            [
+                "Southwest Airlines",
+                "WN"
+            ],
+            [
+                "JetBlue Airways",
+                "JBLU"
+            ]
+        ]
+    }
+}

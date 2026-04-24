@@ -1,0 +1,43 @@
+{
+    "table-380-380": {
+        "title": [
+            "Country",
+            "TV Channel",
+            "Todd Casey Cartoons Played"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Cartoon Programming by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "which countries' tv channels are not playing any cartoon written by Todd Casey?",
+        "data": [
+            [
+                "USA",
+                "Cartoon Network",
+                "Yes"
+            ],
+            [
+                "Japan",
+                "TV Tokyo",
+                "No"
+            ],
+            [
+                "France",
+                "Gulli",
+                "No"
+            ],
+            [
+                "UK",
+                "CBBC",
+                "Yes"
+            ],
+            [
+                "Canada",
+                "Teletoon",
+                "No"
+            ]
+        ]
+    }
+}

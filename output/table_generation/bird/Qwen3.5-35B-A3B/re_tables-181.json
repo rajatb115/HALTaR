@@ -1,0 +1,48 @@
+{
+    "table-181-181": {
+        "title": [
+            "Client ID",
+            "Full Name",
+            "Birth Year",
+            "Account Branch Region",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide a list of clients who were born between 1983 and 1987 and whose account branch is in East Bohemia, along with their IDs.",
+        "data": [
+            [
+                "CUST_4021",
+                "Jan Novak",
+                "1983",
+                "East Bohemia",
+                "Active"
+            ],
+            [
+                "CULT_5592",
+                "Petra Svoboda",
+                "1994",
+                "East Bohemia",
+                "Inactive"
+            ],
+            [
+                "CUS_6710",
+                "Tomas Dvorak",
+                "1985",
+                "East Bohemia",
+                "Pending"
+            ],
+            [
+                "CLI_8823",
+                "Lucie Cerny",
+                "1996",
+                "East Bohemia",
+                "Active"
+            ]
+        ]
+    }
+}

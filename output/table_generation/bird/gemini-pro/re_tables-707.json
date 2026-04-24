@@ -1,0 +1,37 @@
+{
+    "table-707-707": {
+        "title": [
+            "Commenter",
+            "Comment Text"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Comments on Linear Regression Post",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the texts commented on the post about linear regression.",
+        "data": [
+            [
+                "User A",
+                "\"Great explanation of linear regression!\""
+            ],
+            [
+                "User B",
+                "\"How does this relate to polynomial regression?\""
+            ],
+            [
+                "User C",
+                "\"I'm having trouble understanding the cost function.\""
+            ],
+            [
+                "User D",
+                "\"Can you provide some examples in Python?\""
+            ],
+            [
+                "User E",
+                "\"Thanks for sharing this helpful post!\""
+            ]
+        ]
+    }
+}

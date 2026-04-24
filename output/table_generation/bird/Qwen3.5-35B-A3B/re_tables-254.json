@@ -1,0 +1,62 @@
+{
+    "table-254-254": {
+        "title": [
+            "Element Pair",
+            "Bond Order",
+            "Typical Molecule",
+            "Length (pm)",
+            "Hybridization"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the elements of all the triple bonds.",
+        "data": [
+            [
+                "C-C",
+                "Single",
+                "Ethane",
+                "154",
+                "sp\u00b3-sp\u00b3"
+            ],
+            [
+                "C-N",
+                "Double",
+                "Imine",
+                "128",
+                "sp\u00b2-sp\u00b2"
+            ],
+            [
+                "N-O",
+                "Double",
+                "Nitric Oxide",
+                "115",
+                "sp\u00b2-sp\u00b2"
+            ],
+            [
+                "O-Si",
+                "Single",
+                "Silanol",
+                "163",
+                "sp\u00b3-sp\u00b3"
+            ],
+            [
+                "S-P",
+                "Single",
+                "Phosphorus Sulfide",
+                "200",
+                "sp\u00b3-sp\u00b3"
+            ],
+            [
+                "P-B",
+                "Single",
+                "Boron Phosphide",
+                "190",
+                "sp\u00b3-sp\u00b3"
+            ]
+        ]
+    }
+}

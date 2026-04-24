@@ -1,0 +1,61 @@
+{
+    "table-1025-1025": {
+        "title": [
+            "Player ID",
+            "Full Name",
+            "Crossing Success Rate (%)",
+            "Total Crosses Attempted",
+            "League",
+            "Position"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who are the top 5 players who perform better in crossing actions? Indicate their player id.",
+        "data": [
+            [
+                "P_4021",
+                "Kevin De Bruyne",
+                "34.2",
+                "412",
+                "Premier League",
+                "Midfielder"
+            ],
+            [
+                "P_A773",
+                "Trent Alexander-Arnold",
+                "68.5",
+                "523",
+                "Premier League",
+                "Defender"
+            ],
+            [
+                "P_B992",
+                "Bukayo Saka",
+                "71.1",
+                "89",
+                "Premier League",
+                "Forward"
+            ],
+            [
+                "P_C104",
+                "Alejandro Grimaldo",
+                "92.3",
+                "0",
+                "La Liga",
+                "Defender/Forward"
+            ],
+            [
+                "P_D556",
+                "Kieran Trippier",
+                "88.7",
+                "",
+                "EFL Championship",
+                "Defender"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-113-113": {
+        "title": [
+            "Client ID",
+            "Gender",
+            "Date of Birth",
+            "Account Opening District",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the female client who was born in 1976/1/29, which district did she opened her account?",
+        "data": [
+            [
+                "CUST_4921",
+                "Female",
+                "01/09/1929",
+                "Downtown Metro",
+                "Active"
+            ],
+            [
+                "CUS_8832",
+                "Male",
+                "30/01/1930",
+                "Westside Branch",
+                "Inactive"
+            ],
+            [
+                "CUS_1104",
+                "Female",
+                "19/02/1899",
+                "Northgate Hub",
+                "Pending"
+            ],
+            [
+                "FEM_7721",
+                "Female",
+                "29/20/1776",
+                "Eastport Zone",
+                "Active"
+            ],
+            [
+                "GND_3392",
+                "Non-binary",
+                "29-01-1900",
+                "Southbank Center",
+                "Closed"
+            ],
+            [
+                "WOM_5510",
+                "Female",
+                "28/03/1654",
+                "Harbor View",
+                "Suspended"
+            ],
+            [
+                "LADY_9923",
+                "Female",
+                "",
+                "Unknown Region",
+                "Verified"
+            ]
+        ]
+    }
+}

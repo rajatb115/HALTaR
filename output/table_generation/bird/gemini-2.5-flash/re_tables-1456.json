@@ -1,0 +1,69 @@
+{
+    "table-1456-1456": {
+        "title": [
+            "Budget Name",
+            "Department",
+            "Water Budget ($)",
+            "Chips Budget ($)",
+            "Cookies Budget ($)",
+            "Total Snack/Drink Budget ($)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which budget allowed the most money for water, chips, and cookies?",
+        "data": [
+            [
+                "Office Supplies Q1",
+                "Operations",
+                "150",
+                "100",
+                "80",
+                "330"
+            ],
+            [
+                "Marketing Event",
+                "Marketing",
+                "250",
+                "180",
+                "220",
+                "650"
+            ],
+            [
+                "Employee Wellness",
+                "HR",
+                "300",
+                "120",
+                "150",
+                "570"
+            ],
+            [
+                "Breakroom Refresh",
+                "Facilities",
+                "400",
+                "250",
+                "300",
+                "950"
+            ],
+            [
+                "Annual Picnic",
+                "Events",
+                "500",
+                "350",
+                "400",
+                "1250"
+            ],
+            [
+                "Client Meeting Supplies",
+                "Sales",
+                "100",
+                "70",
+                "60",
+                "230"
+            ]
+        ]
+    }
+}

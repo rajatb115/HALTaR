@@ -1,0 +1,46 @@
+{
+    "table-16-16": {
+        "title": [
+            "Stadium Name",
+            "Capacity",
+            "Average Attendance"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Stadium Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name and capacity for the stadium with the highest average attendance?",
+        "data": [
+            [
+                "AT&T Stadium",
+                "80,000",
+                "93,450"
+            ],
+            [
+                "Wembley Stadium",
+                "90,000",
+                "81,750"
+            ],
+            [
+                "Melbourne Cricket Ground",
+                "100,024",
+                "78,120"
+            ],
+            [
+                "Camp Nou",
+                "99,354",
+                "75,230"
+            ],
+            [
+                "Beijing National Stadium",
+                "80,000",
+                "72,500"
+            ]
+        ]
+    }
+}

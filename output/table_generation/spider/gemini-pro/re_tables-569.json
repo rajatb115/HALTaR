@@ -1,0 +1,43 @@
+{
+    "table-569-569": {
+        "title": [
+            "Student Name",
+            "Has Friends",
+            "Is Liked"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "High School Student Social Connections",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of high schoolers who both have friends and are liked?",
+        "data": [
+            [
+                "Alice Smith",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Bob Johnson",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Carol Williams",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "David Brown",
+                "No",
+                "Yes"
+            ],
+            [
+                "Emily Davis",
+                "Yes",
+                "No"
+            ]
+        ]
+    }
+}

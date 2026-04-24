@@ -1,0 +1,46 @@
+{
+    "table-543-543": {
+        "title": [
+            "User",
+            "Post ID",
+            "Number of Comments"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Post Statistics by User",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total number of comments of all the posts owned by csgillespie?",
+        "data": [
+            [
+                "csgillespie",
+                "123",
+                "15"
+            ],
+            [
+                "csgillespie",
+                "456",
+                "22"
+            ],
+            [
+                "csgillespie",
+                "789",
+                "8"
+            ],
+            [
+                "csgillespie",
+                "101",
+                "31"
+            ],
+            [
+                "csgillespie",
+                "112",
+                "12"
+            ]
+        ]
+    }
+}

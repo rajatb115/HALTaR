@@ -1,0 +1,76 @@
+{
+    "table-1153-1153": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "Outpatient Follow-ups",
+            "Inpatient Follow-up Days",
+            "Total Encounters",
+            "Ratio Calculation",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the ratio of outpatient to inpatient followed up treatment among all the 'SLE' diagnosed patient?",
+        "data": [
+            [
+                "P-1042",
+                "SLE",
+                "6",
+                "3",
+                "7",
+                "0.50",
+                "Active"
+            ],
+            [
+                "P-A891",
+                "Systemic Lupus Erythematosus",
+                "4",
+                "5",
+                "",
+                "N/A",
+                "Discharged"
+            ],
+            [
+                "P-B203",
+                "SLP",
+                "8",
+                "9",
+                "",
+                "",
+                "Pending Review"
+            ],
+            [
+                "P-C556",
+                "Autoimmune Disorder",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "P-D112",
+                "Rheumatic Disease",
+                "2",
+                "",
+                "",
+                "N/A",
+                ""
+            ],
+            [
+                "P-E998",
+                "S.L.E.",
+                "",
+                "",
+                "",
+                "",
+                "Excluded from Analysis"
+            ]
+        ]
+    }
+}

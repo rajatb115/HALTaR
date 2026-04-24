@@ -1,0 +1,61 @@
+{
+    "table-1471-1471": {
+        "title": [
+            "Station ID",
+            "Location City",
+            "Fuel Grade",
+            "Status",
+            "Owner Operator",
+            "Last Inspection Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many gas stations in CZE has Premium gas?",
+        "data": [
+            [
+                "CZ-PREM-004",
+                "Prague",
+                "Premium Unleaded",
+                "Active",
+                "Shell Czech Republic s.r.o.",
+                "06/15/2023"
+            ],
+            [
+                "CZ-PREM-CAR-012",
+                "Brno",
+                "Premium Diesel",
+                "Active",
+                "OMV \u010cesk\u00e1 republika s.r.o.",
+                "07/22/2023"
+            ],
+            [
+                "Cz-prem-oil-089",
+                "Ostrava",
+                "Super Plus Petrol",
+                "Open",
+                "MOL Group Slovakia a.s.",
+                "N/A"
+            ],
+            [
+                "cz-prem-north-02",
+                "Liberec",
+                "Euro 95 Premium",
+                "Closed for Renovation",
+                "BP Central Europe Ltd",
+                "08/01/2024"
+            ],
+            [
+                "Czech-Gas-Est-11",
+                "Plzen",
+                "High Octane Gasoline",
+                "Operational",
+                "Lukoil Czechia s.r.l.",
+                "Feb 10, 2023"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-563-563": {
+        "title": [
+            "StudentID",
+            "FirstName",
+            "LastName",
+            "GradeLevel",
+            "FriendCount",
+            "StatusReason",
+            "EnrollmentYear"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the ids of high school students who do not have friends?",
+        "data": [
+            [
+                "S1042",
+                "Liam",
+                "Johnson",
+                "9th",
+                "0",
+                "No registered connections",
+                "7/1/2023"
+            ],
+            [
+                "S2156",
+                "Olivia",
+                "Smith",
+                "8th",
+                "-1",
+                "Data entry error",
+                "6/15/22"
+            ],
+            [
+                "S3098",
+                "Noah",
+                "Williams",
+                "5th",
+                "null",
+                "Pending verification",
+                "3/10/24"
+            ],
+            [
+                "S4123",
+                "Emma",
+                "Brown",
+                "4th",
+                "None",
+                "Transferred mid-year",
+                "/"
+            ],
+            [
+                "S5671",
+                "James",
+                "Davis",
+                "1st",
+                "",
+                "System sync failure",
+                "N/A"
+            ],
+            [
+                "S6209",
+                "Ava",
+                "Miller",
+                "New",
+                "Unknown",
+                "Incomplete profile",
+                "N/A"
+            ]
+        ]
+    }
+}

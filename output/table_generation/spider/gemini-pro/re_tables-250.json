@@ -1,0 +1,39 @@
+{
+    "table-250-250": {
+        "title": [
+            "Nationality",
+            "Number of Players"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Player Nationalities",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many distinct countries do players come from?",
+        "data": [
+            [
+                "USA",
+                "150"
+            ],
+            [
+                "Canada",
+                "85"
+            ],
+            [
+                "UK",
+                "62"
+            ],
+            [
+                "Germany",
+                "48"
+            ],
+            [
+                "France",
+                "35"
+            ]
+        ]
+    }
+}

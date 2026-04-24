@@ -1,0 +1,45 @@
+{
+    "table-545-545": {
+        "title": [
+            "Conductor Name",
+            "Orchestra Name",
+            "Year Founded"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Conductors and Orchestras",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of conductors who have conducted orchestras founded after the year 2008?",
+        "data": [
+            [
+                "Mirga Gra\u017einyt\u0117-Tyla",
+                "Kremerata Baltica",
+                "1997"
+            ],
+            [
+                "Yannick N\u00e9zet-S\u00e9guin",
+                "Orchestre M\u00e9tropolitain",
+                "1981"
+            ],
+            [
+                "Elim Chan",
+                "Hong Kong Philharmonic Orchestra",
+                "1947"
+            ],
+            [
+                "Santtu-Matias Rouvali",
+                "Philharmonia Orchestra",
+                "1945"
+            ],
+            [
+                "Klaus M\u00e4kel\u00e4",
+                "Orchestre de Paris",
+                "1967"
+            ]
+        ]
+    }
+}

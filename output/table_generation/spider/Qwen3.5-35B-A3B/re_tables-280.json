@@ -1,0 +1,94 @@
+{
+    "table-280-280": {
+        "title": [
+            "First_Name",
+            "Country_Code",
+            "Birth_Date",
+            "Winner_Rank_Points",
+            "Match_Count",
+            "Win_Rate",
+            "Tournament_Wins"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the first name, country code, and birth date of the player with the most winner rank points across all matches?",
+        "data": [
+            [
+                "John",
+                "USA",
+                "4/12/1976",
+                "8500",
+                "342",
+                "0.78",
+                "62"
+            ],
+            [
+                "Maria",
+                "ESP",
+                "9/23/18950",
+                "N/A",
+                "N/N/A",
+                "72",
+                "NNA"
+            ],
+            [
+                "Luis",
+                "BRA",
+                "5/15/2010",
+                "NA",
+                "NA",
+                "",
+                ""
+            ],
+            [
+                "Sarah",
+                "FRA",
+                "11/02/2100",
+                "8450\t330\t0.81\t58",
+                "",
+                "",
+                ""
+            ],
+            [
+                "David",
+                "GER",
+                "7/14/2202",
+                "8400",
+                "315",
+                "0.69",
+                "55"
+            ],
+            [
+                "Elena",
+                "RUS",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Tom",
+                "JPN",
+                "/10/1019",
+                "N/A",
+                "N/A",
+                "",
+                ""
+            ],
+            [
+                "Anna",
+                "CHN",
+                "-03-05",
+                "NA",
+                "NANA",
+                "",
+                ""
+            ]
+        ]
+    }
+}

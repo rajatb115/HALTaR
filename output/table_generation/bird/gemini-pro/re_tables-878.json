@@ -1,0 +1,53 @@
+{
+    "table-878-878": {
+        "title": [
+            "Driver Name",
+            "Finishing Position",
+            "Race Number",
+            "Age"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Race Results and Driver Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the drivers who finished the game in race No. 872, who is the youngest?",
+        "data": [
+            [
+                "Max Verstappen",
+                "1",
+                "872",
+                "25"
+            ],
+            [
+                "Lewis Hamilton",
+                "2",
+                "872",
+                "38"
+            ],
+            [
+                "Charles Leclerc",
+                "3",
+                "872",
+                "25"
+            ],
+            [
+                "George Russel",
+                "4",
+                "872",
+                "25"
+            ],
+            [
+                "Lando Norris",
+                "5",
+                "872",
+                "23"
+            ]
+        ]
+    }
+}

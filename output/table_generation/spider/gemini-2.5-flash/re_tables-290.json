@@ -1,0 +1,69 @@
+{
+    "table-290-290": {
+        "title": [
+            "Battle Name",
+            "Date",
+            "Location",
+            "Outcome",
+            "Victor"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different results are there for the battles?",
+        "data": [
+            [
+                "Battle of Thermopylae",
+                "480 BC",
+                "Greece",
+                "Pyrrhic Victory",
+                "Persian Empire"
+            ],
+            [
+                "Battle of Cannae",
+                "216 BC",
+                "Italy",
+                "Decisive Victory",
+                "Carthage"
+            ],
+            [
+                "Battle of Hastings",
+                "1066 AD",
+                "England",
+                "Decisive Victory",
+                "Norman Conquest"
+            ],
+            [
+                "Battle of Agincourt",
+                "1415 AD",
+                "France",
+                "Decisive Victory",
+                "England"
+            ],
+            [
+                "Battle of Gettysburg",
+                "1863 AD",
+                "USA",
+                "Tactical Victory",
+                "Union"
+            ],
+            [
+                "Battle of Stalingrad",
+                "1942 AD",
+                "Russia",
+                "Decisive Victory",
+                "Soviet Union"
+            ],
+            [
+                "Battle of Midway",
+                "1942 AD",
+                "Pacific Ocean",
+                "Decisive Victory",
+                "United States"
+            ]
+        ]
+    }
+}

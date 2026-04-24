@@ -1,0 +1,69 @@
+{
+    "table-102-102": {
+        "title": [
+            "Car Model",
+            "Cylinders",
+            "ProductionYear",
+            "MaxMPG",
+            "FuelType"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum miles per gallon of the car with 8 cylinders or produced before 1980 ?",
+        "data": [
+            [
+                "Ford Mustang GT",
+                "8",
+                "76",
+                "42",
+                "Gasoline"
+            ],
+            [
+                "Chevrolet Camaro Z28",
+                "V8",
+                "'79",
+                "38",
+                "Diesel"
+            ],
+            [
+                "Dodge Challenger R/T",
+                "6",
+                "'81",
+                "N/A",
+                "Electric"
+            ],
+            [
+                "Plymouth Barracuda",
+                "5",
+                "'68",
+                "N/a",
+                "Hybrid"
+            ],
+            [
+                "Pontiac Firebird Trans Am",
+                "9",
+                "'55",
+                "0",
+                "Hydrogen"
+            ],
+            [
+                "Buick Grand National",
+                "",
+                "'90",
+                "N/A",
+                "NaturalGas"
+            ],
+            [
+                "Oldsmobile Cutlass Supreme",
+                "",
+                "'72",
+                "45",
+                "Biofuel"
+            ]
+        ]
+    }
+}

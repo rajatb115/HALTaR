@@ -1,0 +1,85 @@
+{
+    "table-1006-1006": {
+        "title": [
+            "Driver Team",
+            "Event Location",
+            "Pit Stop Duration (Seconds)",
+            "Reason for Delay",
+            "Date",
+            "Car Number",
+            "Race Category"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the longest time a driver had ever spent at a pit stop?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "Silverstone Circuit",
+                "47.6",
+                "Wheel gun malfunction",
+                "06/14/2021",
+                "77",
+                "Formula One"
+            ],
+            [
+                "Max Verstappen",
+                "Monza Circuit",
+                "",
+                "N/A",
+                "09/12/2022",
+                "33",
+                "Formula Two"
+            ],
+            [
+                "Fernando Alonso",
+                "Bahrain International",
+                "52.1",
+                "Incorrect tire pressure check",
+                "08/28/2019",
+                "6",
+                "IndyCar Series"
+            ],
+            [
+                "Sebastian Vettel",
+                "Spa-Francorchamps",
+                "",
+                "Engine fire suppression system activation",
+                "07/29/2021",
+                "",
+                "Formula Three"
+            ],
+            [
+                "Charles Leclerc",
+                "Monaco Grand Prix",
+                "",
+                "Safety car deployment confusion",
+                "05/2023",
+                "16",
+                "NASCAR Cup"
+            ],
+            [
+                "Lando Norris",
+                "Hockenheimring",
+                "",
+                "Crew member injury requiring medical attention",
+                "",
+                "",
+                "Formula E"
+            ],
+            [
+                "George Russell",
+                "Hungaroring",
+                "",
+                "Puncture detection sensor failure during service",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-705-705": {
+        "title": [
+            "Tag Name",
+            "Excerpt Post ID",
+            "Wiki Post ID"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Tag IDs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the excerpt post ID and wiki post ID of the tag named sample?",
+        "data": [
+            [
+                "Sample",
+                "123",
+                "456"
+            ],
+            [
+                "Example",
+                "789",
+                "101"
+            ],
+            [
+                "Test",
+                "112",
+                "131"
+            ],
+            [
+                "Dummy",
+                "415",
+                "161"
+            ],
+            [
+                "Another",
+                "718",
+                "191"
+            ]
+        ]
+    }
+}

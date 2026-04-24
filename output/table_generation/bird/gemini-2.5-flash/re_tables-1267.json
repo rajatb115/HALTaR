@@ -1,0 +1,69 @@
+{
+    "table-1267-1267": {
+        "title": [
+            "Patient ID",
+            "Date of Birth",
+            "Anti-RNP Level (U/mL)",
+            "Reference Range (U/mL)",
+            "Result"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which is the youngest patient with an abnormal anti-ribonuclear protein level? Please list his or her date of birth.",
+        "data": [
+            [
+                "P001",
+                "1998-05-15",
+                "12.5",
+                "< 10.0",
+                "Abnormal"
+            ],
+            [
+                "P002",
+                "1975-11-22",
+                "5.2",
+                "< 10.0",
+                "Normal"
+            ],
+            [
+                "P003",
+                "2005-03-10",
+                "8.1",
+                "< 10.0",
+                "Normal"
+            ],
+            [
+                "P004",
+                "1988-07-01",
+                "18.9",
+                "< 10.0",
+                "Abnormal"
+            ],
+            [
+                "P005",
+                "1962-01-30",
+                "25.0",
+                "< 10.0",
+                "Abnormal"
+            ],
+            [
+                "P006",
+                "2010-09-05",
+                "3.7",
+                "< 10.0",
+                "Normal"
+            ],
+            [
+                "P007",
+                "2001-02-14",
+                "15.1",
+                "< 10.0",
+                "Abnormal"
+            ]
+        ]
+    }
+}

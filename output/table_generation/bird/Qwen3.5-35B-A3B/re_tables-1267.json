@@ -1,0 +1,55 @@
+{
+    "table-1267-1267": {
+        "title": [
+            "Patient ID",
+            "Date of Birth",
+            "Anti-Ribonuclear Protein Level",
+            "Status",
+            "Age at Diagnosis"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which is the youngest patient with an abnormal anti-ribonuclear protein level? Please list his or her date of birth.",
+        "data": [
+            [
+                "P-4021",
+                "7/15/1965",
+                "High Positive",
+                "Abnormal",
+                "42"
+            ],
+            [
+                "P-4109",
+                "3/22/1890",
+                "Low Negative",
+                "Normal",
+                "N/A"
+            ],
+            [
+                "P-X882",
+                "9/10/1755",
+                "Elevated",
+                "Abnormally High",
+                "65"
+            ],
+            [
+                "M-2210",
+                "5/30/2012",
+                "Borderline",
+                "Suspicious",
+                "8"
+            ],
+            [
+                "F-9941",
+                "12/05/1920",
+                "Undetectable",
+                "Normal",
+                ""
+            ]
+        ]
+    }
+}

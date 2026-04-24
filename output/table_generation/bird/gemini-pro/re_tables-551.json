@@ -1,0 +1,51 @@
+{
+    "table-551-551": {
+        "title": [
+            "Tag Excerpt",
+            "Post Title",
+            "Post Body",
+            "Post ID"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Most Popular Tag Excerpts and Corresponding Posts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From which post is the most popular tag excerpted from? Please give the body of the post.",
+        "data": [
+            [
+                "AI",
+                "Introduction to AI",
+                "This post provides a basic introduction to Artificial Intelligence...",
+                "123"
+            ],
+            [
+                "Machine Learning",
+                "Machine Learning Fundamentals",
+                "This article covers the fundamental concepts of Machine Learning...",
+                "456"
+            ],
+            [
+                "Data Science",
+                "Data Science for Beginners",
+                "A beginner-friendly guide to the world of Data Science...",
+                "789"
+            ],
+            [
+                "Python",
+                "Python Programming Basics",
+                "Learn the basics of Python programming language...",
+                "101"
+            ],
+            [
+                "Cloud Computing",
+                "Understanding Cloud Computing",
+                "An overview of Cloud Computing technologies and services...",
+                "112"
+            ]
+        ]
+    }
+}

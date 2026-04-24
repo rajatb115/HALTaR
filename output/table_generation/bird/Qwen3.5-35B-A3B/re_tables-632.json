@@ -1,0 +1,67 @@
+{
+    "table-632-632": {
+        "title": [
+            "Author",
+            "Post Title",
+            "Date Created",
+            "Status",
+            "Category",
+            "View Count",
+            "Comment Count"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts were created by Daniel Vassallo?",
+        "data": [
+            [
+                "Daniel Vassello",
+                "Introduction to Rust Macros",
+                "4/12/2023",
+                "Published",
+                "Programming",
+                "3420",
+                "56"
+            ],
+            [
+                "Daniel Vasallo",
+                "Building Scalable APIs in Go",
+                "7/22/2019",
+                "Archived",
+                "Backend Dev",
+                "8900",
+                "N/A"
+            ],
+            [
+                "Daniele Vassalo",
+                "Understanding Kubernetes Networking",
+                "9/05/2021",
+                "Draft",
+                "Cloud Native",
+                "0",
+                "-"
+            ],
+            [
+                "Dan Vassal",
+                "Security Best Practices for Docker",
+                "6/14/2023",
+                "Deleted",
+                "Security",
+                "",
+                ""
+            ],
+            [
+                "Daniela Vasso",
+                "Microservices Architecture Patterns",
+                "11/30/2024",
+                "Active",
+                "System Design",
+                "1205",
+                "N/A"
+            ]
+        ]
+    }
+}

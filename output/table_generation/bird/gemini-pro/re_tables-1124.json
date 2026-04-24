@@ -1,0 +1,39 @@
+{
+    "table-1124-1124": {
+        "title": [
+            "Player Name",
+            "Potential"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Player Potential Rankings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of players with the highest potential?",
+        "data": [
+            [
+                "Player A",
+                "95"
+            ],
+            [
+                "Player B",
+                "94"
+            ],
+            [
+                "Player C",
+                "93"
+            ],
+            [
+                "Player D",
+                "92"
+            ],
+            [
+                "Player E",
+                "91"
+            ]
+        ]
+    }
+}

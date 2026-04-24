@@ -1,0 +1,69 @@
+{
+    "table-987-987": {
+        "title": [
+            "Race Name",
+            "Circuit",
+            "Driver",
+            "Lap Time (ms)",
+            "Race Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which race did the fastest 1st lap time was recorded? Please indicate the time in milliseconds.",
+        "data": [
+            [
+                "Monaco Grand Prix",
+                "Circuit de Monaco",
+                "Max Verstappen",
+                "72123",
+                "2023-05-28"
+            ],
+            [
+                "British Grand Prix",
+                "Silverstone Circuit",
+                "Lewis Hamilton",
+                "87567",
+                "2022-07-03"
+            ],
+            [
+                "Italian Grand Prix",
+                "Autodromo Nazionale Monza",
+                "Charles Leclerc",
+                "81901",
+                "2023-09-03"
+            ],
+            [
+                "Japanese Grand Prix",
+                "Suzuka International Racing Course",
+                "Sergio Perez",
+                "90123",
+                "2023-09-24"
+            ],
+            [
+                "United States Grand Prix",
+                "Circuit of the Americas",
+                "Lando Norris",
+                "95678",
+                "2022-10-23"
+            ],
+            [
+                "Brazilian Grand Prix",
+                "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+                "George Russell",
+                "71765",
+                "2023-11-05"
+            ],
+            [
+                "Abu Dhabi Grand Prix",
+                "Yas Marina Circuit",
+                "Fernando Alonso",
+                "86345",
+                "2022-11-20"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-11-11": {
+        "title": [
+            "Stadium Name",
+            "Location",
+            "Capacity"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show location and name for all stadiums with a capacity between 5000 and 10000.",
+        "data": [
+            [
+                "Riverside Arena",
+                "Springfield",
+                "6400"
+            ],
+            [
+                "Oakwood Field",
+                "Lakewood",
+                "7250"
+            ],
+            [
+                "Central Park Grounds",
+                "Metro City",
+                "8105"
+            ],
+            [
+                "Hillside Pavilion",
+                "Northville",
+                "5503"
+            ],
+            [
+                "Valley View Complex",
+                "Southport",
+                "9201"
+            ],
+            [
+                "Westgate Coliseum",
+                "Westbridge",
+                "4980"
+            ],
+            [
+                "Easton Sports Center",
+                "Easttown",
+                "3205"
+            ]
+        ]
+    }
+}

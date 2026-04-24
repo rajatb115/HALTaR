@@ -1,0 +1,49 @@
+{
+    "table-1136-1136": {
+        "title": [
+            "Player ID",
+            "Full Name",
+            "Potential Rating",
+            "Preferred Foot",
+            "Current Club",
+            "Position",
+            "Age"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide top three football players' IDs who are among the lowest potential players and prefer to use the right foot when attacking.",
+        "data": [
+            [
+                "P_4021",
+                "Mateo Silva",
+                "62",
+                "Right",
+                "Real Betis",
+                "Midfielder",
+                "34"
+            ],
+            [
+                "P_7739",
+                "Luca Rossi",
+                "58",
+                "Right",
+                "AC Milan",
+                "Defender",
+                "41"
+            ],
+            [
+                "K_1102",
+                "Elias Thorne",
+                "71",
+                "Right",
+                "Rangers FC",
+                "Forward",
+                "89"
+            ]
+        ]
+    }
+}

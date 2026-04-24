@@ -1,0 +1,61 @@
+{
+    "table-104-104": {
+        "title": [
+            "Client ID",
+            "Client Name",
+            "Card Type",
+            "Issue Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which client issued his/her card in 1994/3/3, give his/her client id.",
+        "data": [
+            [
+                "1001",
+                "Alice Smith",
+                "Credit",
+                "1994/03/03"
+            ],
+            [
+                "1002",
+                "Bob Johnson",
+                "Debit",
+                "1995/01/15"
+            ],
+            [
+                "1003",
+                "Carol White",
+                "Credit",
+                "1993/11/22"
+            ],
+            [
+                "1004",
+                "David Green",
+                "Debit",
+                "1994/07/01"
+            ],
+            [
+                "1005",
+                "Eve Black",
+                "Credit",
+                "1996/02/28"
+            ],
+            [
+                "1006",
+                "Frank Blue",
+                "Debit",
+                "1994/03/03"
+            ],
+            [
+                "1007",
+                "Grace Lee",
+                "Credit",
+                "1994/02/10"
+            ]
+        ]
+    }
+}

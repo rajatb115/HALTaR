@@ -1,0 +1,43 @@
+{
+    "table-880-880": {
+        "title": [
+            "Driver Name",
+            "Fastest Lap Speed",
+            "Nationality"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Fastest Lap Driver Nationality",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the driver who set the fastest lap speed, what is his nationality?",
+        "data": [
+            [
+                "Max Verstappen",
+                "235 km/h",
+                "Dutch"
+            ],
+            [
+                "Lewis Hamilton",
+                "230 km/h",
+                "British"
+            ],
+            [
+                "Charles LeClerc",
+                "228 km/h",
+                "Monegasque"
+            ],
+            [
+                "Sergio Perez",
+                "225 km/h",
+                "Mexican"
+            ],
+            [
+                "George Russell",
+                "222 km/h",
+                "British"
+            ]
+        ]
+    }
+}

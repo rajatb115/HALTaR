@@ -1,0 +1,45 @@
+{
+    "table-873-873": {
+        "title": [
+            "Race Number",
+            "Driver Abbreviated Code",
+            "Q3 Time"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Driver Information and Qualifying Results",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the race No. 45, for the driver who had the Q3 time as 0:01:33, what is his abbreviated code?",
+        "data": [
+            [
+                "45",
+                "ABC",
+                "0:01:33"
+            ],
+            [
+                "12",
+                "XYZ",
+                "0:01:35"
+            ],
+            [
+                "7",
+                "PQR",
+                "0:01:37"
+            ],
+            [
+                "23",
+                "LMN",
+                "0:01:39"
+            ],
+            [
+                "99",
+                "STU",
+                "0:01:41"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-1063-1063": {
+        "title": [
+            "Player Name",
+            "Overall Rating (2008)",
+            "Overall Rating (2009)",
+            "Overall Rating (2010)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Highly Rated Players (2008-2010)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which players had an overall rating of over 80 from 2008 to 2010? Please list player names.",
+        "data": [
+            [
+                "Lionel Messi",
+                "88",
+                "90",
+                "92"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "87",
+                "89",
+                "91"
+            ],
+            [
+                "Xavi Hernandez",
+                "85",
+                "87",
+                "89"
+            ],
+            [
+                "Iker Casillas",
+                "84",
+                "86",
+                "88"
+            ],
+            [
+                "Fernando Torres",
+                "82",
+                "84",
+                "86"
+            ]
+        ]
+    }
+}

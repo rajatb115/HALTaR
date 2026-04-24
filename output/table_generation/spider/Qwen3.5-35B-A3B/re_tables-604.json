@@ -1,0 +1,62 @@
+{
+    "table-604-604": {
+        "title": [
+            "Email Address",
+            "Full Name",
+            "State",
+            "Profession",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the emails of the professionals who live in the state of Hawaii or the state of Wisconsin.",
+        "data": [
+            [
+                "james.h@hawaii.com",
+                "James H.",
+                "Hawaii",
+                "Architect",
+                "Active"
+            ],
+            [
+                "sarah.m@wisconsin.net",
+                "Sarah M.",
+                "Wisconsin",
+                "Accountant",
+                "Active"
+            ],
+            [
+                "michael.k@hi.gov",
+                "Michael K.",
+                "HI",
+                "Engineer",
+                "Inactive"
+            ],
+            [
+                "linda.p@wi.org",
+                "Linda P.",
+                "WI",
+                "Nurse",
+                "Active"
+            ],
+            [
+                "robert.t@hawaiian.edu",
+                "Robert T.",
+                "Hawaiian Islands",
+                "Teacher",
+                "Pending"
+            ],
+            [
+                "emily.r@wisc.edu",
+                "Emily R.",
+                "WISCONSIN",
+                "Developer",
+                "Active"
+            ]
+        ]
+    }
+}

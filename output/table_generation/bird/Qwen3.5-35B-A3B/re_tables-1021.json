@@ -1,0 +1,85 @@
+{
+    "table-1021-1021": {
+        "title": [
+            "Player Name",
+            "Overall Rating",
+            "API ID",
+            "Position",
+            "Club",
+            "League",
+            "Age"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which player has the highest overall rating? Indicate the player's api id.",
+        "data": [
+            [
+                "Erling Haaland",
+                "94",
+                "PL_7654321",
+                "ST",
+                "Manchester City",
+                "Premier League",
+                "31"
+            ],
+            [
+                "Kylian Mbapp\u00e9",
+                "89",
+                "FR_8761234",
+                "LW",
+                "Real Madrid",
+                "La Liga",
+                "45"
+            ],
+            [
+                "Lionel Messi",
+                "78",
+                "AR_9872314",
+                "CAM",
+                "Inter Miami",
+                "MLS",
+                "52"
+            ],
+            [
+                "Kevin De Bruyne",
+                "67",
+                "BE_1293847",
+                "CM",
+                "Manchester United",
+                "Premier League",
+                "09"
+            ],
+            [
+                "Vin\u00edcius J\u00fanior",
+                "88",
+                "BR_3456789",
+                "RW",
+                "Real Betis",
+                "Primeira Liga",
+                "-1"
+            ],
+            [
+                "Jude Bellingham",
+                "-5",
+                "EN_5647382",
+                "CDM",
+                "Borussia Dortmund",
+                "Bundesliga",
+                "2"
+            ],
+            [
+                "Harry Kane",
+                "",
+                "DE_7829103",
+                "CF",
+                "Bayern Munich",
+                "Serie A",
+                ""
+            ]
+        ]
+    }
+}

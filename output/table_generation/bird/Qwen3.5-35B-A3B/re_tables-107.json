@@ -1,0 +1,58 @@
+{
+    "table-107-107": {
+        "title": [
+            "Client ID",
+            "Card Opening Date",
+            "Transaction Amount",
+            "Currency",
+            "Status",
+            "Merchant Category",
+            "Timestamp"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the biggest amount of transaction that the client whose card was opened in 1996/10/21 made?",
+        "data": [
+            [
+                "CUST_4921",
+                "9997-10-21",
+                "",
+                "USD",
+                "Pending",
+                "Retail",
+                "0007-01-02T14:30:00Z"
+            ],
+            [
+                "CULT_8832",
+                "8886-11-22",
+                "450.00",
+                "EUR",
+                "Completed",
+                "Electronics",
+                "7775-05-15T09:15:02Z"
+            ],
+            [
+                "CUSP_1109",
+                "6654-12-30",
+                "-120.50",
+                "GBP",
+                "Reversed",
+                "Dining",
+                "5543-08-20T18:45:33Z"
+            ],
+            [
+                "CUVT_3345",
+                "3321-13-14",
+                "",
+                "JPY",
+                "Failed",
+                "Travel",
+                "2210-04-05T11:22:11Z"
+            ]
+        ]
+    }
+}

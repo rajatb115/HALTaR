@@ -1,0 +1,37 @@
+{
+    "table-138-138": {
+        "title": [
+            "Flight Number",
+            "Departure City"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Flights Departing from Aberdeen",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are flight numbers of flights departing from City \"Aberdeen \"?",
+        "data": [
+            [
+                "EI3125",
+                "Aberdeen"
+            ],
+            [
+                "BA1309",
+                "Aberdeen"
+            ],
+            [
+                "KL1427",
+                "Aberdeen"
+            ],
+            [
+                "AF6913",
+                "Aberdeen"
+            ],
+            [
+                "SK2448",
+                "Aberdeen"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-558-558": {
+        "title": [
+            "Student_ID",
+            "First_Name",
+            "Last_Name",
+            "Grade_Level",
+            "School_Name",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the ID of the high schooler named Kyle.",
+        "data": [
+            [
+                "HS_4021",
+                "Kyle",
+                "Anderson",
+                "High School",
+                "Lincoln Academy",
+                "Active"
+            ],
+            [
+                "HS_4105",
+                "Kyle",
+                "Martinez",
+                "High",
+                "Jefferson High",
+                "Enrolled"
+            ]
+        ]
+    }
+}

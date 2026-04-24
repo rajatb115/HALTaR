@@ -1,0 +1,46 @@
+{
+    "table-425-425": {
+        "title": [
+            "Layout Type",
+            "Number of Cards",
+            "Proportion of Total Cards"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Card Layout Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What proportion of cards do not have a text box with a normal layout?",
+        "data": [
+            [
+                "Normal with Textbox",
+                "450",
+                "0.45"
+            ],
+            [
+                "Normal without Textbox",
+                "250",
+                "0.25"
+            ],
+            [
+                "Full Art",
+                "150",
+                "0.15"
+            ],
+            [
+                "Textless",
+                "100",
+                "0.10"
+            ],
+            [
+                "Other",
+                "50",
+                "0.05"
+            ]
+        ]
+    }
+}

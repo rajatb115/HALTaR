@@ -1,0 +1,69 @@
+{
+    "table-1504-1504": {
+        "title": [
+            "Product Description",
+            "Transaction ID",
+            "Amount",
+            "Currency",
+            "Transaction Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the product description of the products bought in transactions in euro.",
+        "data": [
+            [
+                "Premium Wireless Headphones",
+                "TXN001",
+                "149.99",
+                "EUR",
+                "2023-10-26"
+            ],
+            [
+                "Ergonomic Office Chair",
+                "TXN002",
+                "299.50",
+                "EUR",
+                "2023-10-25"
+            ],
+            [
+                "4K Ultra HD Smart TV",
+                "TXN003",
+                "789.00",
+                "EUR",
+                "2023-10-24"
+            ],
+            [
+                "Stainless Steel Coffee Maker",
+                "TXN004",
+                "85.75",
+                "EUR",
+                "2023-10-23"
+            ],
+            [
+                "Portable Bluetooth Speaker",
+                "TXN005",
+                "59.99",
+                "EUR",
+                "2023-10-22"
+            ],
+            [
+                "High-Performance Laptop",
+                "TXN006",
+                "1250.00",
+                "EUR",
+                "2023-10-21"
+            ],
+            [
+                "Organic Cotton Bedding Set",
+                "TXN007",
+                "110.25",
+                "EUR",
+                "2023-10-20"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-378-378": {
+        "title": [
+            "Country",
+            "Channel Name",
+            "Cartoon Title",
+            "Writer"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Cartoon Airing by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "which countries' tv channels are playing some cartoon written by Todd Casey?",
+        "data": [
+            [
+                "USA",
+                "Cartoon Network",
+                "Regular Show",
+                "Todd Casey"
+            ],
+            [
+                "Canada",
+                "Teletoon",
+                "Regular Show",
+                "Todd Casey"
+            ],
+            [
+                "UK",
+                "Cartoon Network",
+                "Regular Show",
+                "Todd Casey"
+            ],
+            [
+                "Australia",
+                "Boomerang",
+                "Regular Show",
+                "Todd Casey"
+            ],
+            [
+                "France",
+                "Boing",
+                "Regular Show",
+                "Todd Casey"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-275-275": {
+        "title": [
+            "Winner Name",
+            "Rank",
+            "Age",
+            "Match ID"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Youngest Winners in Matches",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name and rank of the 3 youngest winners across all matches.",
+        "data": [
+            [
+                "John Smith",
+                "5",
+                "18",
+                "123"
+            ],
+            [
+                "Alice Brown",
+                "2",
+                "19",
+                "456"
+            ],
+            [
+                "Bob Williams",
+                "1",
+                "20",
+                "789"
+            ],
+            [
+                "Carol Davis",
+                "3",
+                "21",
+                "101"
+            ],
+            [
+                "David Green",
+                "4",
+                "22",
+                "202"
+            ]
+        ]
+    }
+}

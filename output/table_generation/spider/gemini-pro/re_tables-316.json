@@ -1,0 +1,43 @@
+{
+    "table-316-316": {
+        "title": [
+            "Last Name",
+            "State",
+            "Degree Program"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Students Without Program Enrollment in North Carolina",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the last name of the students who currently live in the state of North Carolina but have not registered in any degree program.",
+        "data": [
+            [
+                "Smith",
+                "NC",
+                "Null"
+            ],
+            [
+                "Jones",
+                "NC",
+                "Null"
+            ],
+            [
+                "Williams",
+                "NC",
+                "Null"
+            ],
+            [
+                "Brown",
+                "NC",
+                "Null"
+            ],
+            [
+                "Davis",
+                "NC",
+                "Null"
+            ]
+        ]
+    }
+}

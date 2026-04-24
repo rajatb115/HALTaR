@@ -1,0 +1,85 @@
+{
+    "table-596-596": {
+        "title": [
+            "Owner First Name",
+            "Dog Name",
+            "Breed",
+            "Age",
+            "Color",
+            "Weight (lbs)",
+            "Last Checkup Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List pairs of the owner's first name and the dogs's name.",
+        "data": [
+            [
+                "John",
+                "Max",
+                "Labrador Retriever",
+                "4",
+                "Golden",
+                "72",
+                "06/15/2023"
+            ],
+            [
+                "Sarah",
+                "Luna",
+                "Border Collie",
+                "3",
+                "Black & White",
+                "55",
+                "08/22/2023"
+            ],
+            [
+                "Michael",
+                "Charlie",
+                "Beagle",
+                "6",
+                "Tri-color",
+                "28",
+                "Jan 10, 2023"
+            ],
+            [
+                "Emily",
+                "Bella",
+                "Poodle",
+                "9",
+                "Apricot",
+                "",
+                "Dec 05, 2022"
+            ],
+            [
+                "David",
+                "Rocky",
+                "German Shepherd",
+                "2",
+                "Tan & Black",
+                "",
+                "Feb 29, 2024"
+            ],
+            [
+                "Lisa",
+                "Daisy",
+                "Bulldog",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Robert",
+                "Cooper",
+                "Boxer",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

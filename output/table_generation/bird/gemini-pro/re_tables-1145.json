@@ -1,0 +1,53 @@
+{
+    "table-1145-1145": {
+        "title": [
+            "Player Name",
+            "Weight (kg)",
+            "Finishing Rate",
+            "Curve Score"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Player Statistics Based on Weight",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please state the finishing rate and curve score of the player who has the heaviest weight.",
+        "data": [
+            [
+                "John Smith",
+                "105",
+                "88",
+                "75"
+            ],
+            [
+                "Alice Brown",
+                "98",
+                "92",
+                "80"
+            ],
+            [
+                "David Lee",
+                "90",
+                "78",
+                "65"
+            ],
+            [
+                "Emily Chen",
+                "85",
+                "85",
+                "70"
+            ],
+            [
+                "Tom Wilson",
+                "110",
+                "95",
+                "85"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-806-806": {
+        "title": [
+            "Superhero Name",
+            "Weight (lbs)"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Superheroes with Missing Weight Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the full names of superheroes with missing weight.",
+        "data": [
+            [
+                "Spider-Man",
+                "N/A"
+            ],
+            [
+                "Iron Man",
+                "N/A"
+            ],
+            [
+                "Captain America",
+                "N/A"
+            ],
+            [
+                "Hulk",
+                "N/A"
+            ],
+            [
+                "Thor",
+                "N/A"
+            ]
+        ]
+    }
+}

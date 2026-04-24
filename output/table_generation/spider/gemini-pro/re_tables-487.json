@@ -1,0 +1,45 @@
+{
+    "table-487-487": {
+        "title": [
+            "Country",
+            "Continent",
+            "Area (sq km)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Countries by Area",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which countries have greater area than that of any country in Europe?",
+        "data": [
+            [
+                "Russia",
+                "Europe/Asia",
+                "17,098,246"
+            ],
+            [
+                "Canada",
+                "North America",
+                "9,984,670"
+            ],
+            [
+                "China",
+                "Asia",
+                "9,706,961"
+            ],
+            [
+                "United States",
+                "North America",
+                "9,372,610"
+            ],
+            [
+                "Brazil",
+                "South America",
+                "8,515,767"
+            ]
+        ]
+    }
+}

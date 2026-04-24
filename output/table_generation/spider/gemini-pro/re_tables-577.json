@@ -1,0 +1,58 @@
+{
+    "table-577-577": {
+        "title": [
+            "Dog ID",
+            "Breed",
+            "Age",
+            "Treatment Type",
+            "Outcome"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Dog Treatment Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average age of the dogs who went through treatments.",
+        "data": [
+            [
+                "123",
+                "Labrador",
+                "3",
+                "Chemotherapy",
+                "Success"
+            ],
+            [
+                "456",
+                "Poodle",
+                "7",
+                "Physical Therapy",
+                "Partial Success"
+            ],
+            [
+                "789",
+                "Bulldog",
+                "5",
+                "Acupuncture",
+                "No Change"
+            ],
+            [
+                "101",
+                "Terrier",
+                "10",
+                "Surgery",
+                "Success"
+            ],
+            [
+                "112",
+                "Shepherd",
+                "2",
+                "Medication",
+                "Success"
+            ]
+        ]
+    }
+}

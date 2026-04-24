@@ -1,0 +1,85 @@
+{
+    "table-552-552": {
+        "title": [
+            "User ID",
+            "Username",
+            "Badge Category",
+            "Badge Count",
+            "Last Updated",
+            "Status",
+            "Source Platform"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many badges has the user csgillespie obtained?",
+        "data": [
+            [
+                "U7482",
+                "csg Gillespie",
+                "Community Recognition",
+                "42",
+                "6/15/2024",
+                "Active",
+                "Stack Overflow"
+            ],
+            [
+                "P9921",
+                "cs_gilliesp",
+                "Technical Expertise",
+                "38",
+                "5/30/2024",
+                "Verified",
+                "GitHub"
+            ],
+            [
+                "M1029",
+                "c.s.gillespie",
+                "Contribution Award",
+                "0",
+                "N/A",
+                "Pending",
+                "Internal DB"
+            ],
+            [
+                "T5541",
+                "cgs_dev",
+                "Documentation Help",
+                "7",
+                "8/1/2024",
+                "Inactive",
+                "GitLab"
+            ],
+            [
+                "R3302",
+                "cgille_spie",
+                "Mentorship Role",
+                "9",
+                "/12/23",
+                "Suspended",
+                "Jira"
+            ],
+            [
+                "W8810",
+                "c-gillespie-c",
+                "Security Clearance",
+                "1",
+                "/22/19",
+                "Expired",
+                "Azure DevOps"
+            ],
+            [
+                "K4421",
+                "",
+                "Unknown",
+                "",
+                "/05/18",
+                "Deleted",
+                "Bitbucket"
+            ]
+        ]
+    }
+}

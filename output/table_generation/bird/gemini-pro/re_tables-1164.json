@@ -1,0 +1,52 @@
+{
+    "table-1164-1164": {
+        "title": [
+            "Patient ID",
+            "Age at Arrival",
+            "Gender",
+            "Admission Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Patient Demographics at Initial Hospital Visit",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the age of the youngest patient when they initially arrived at the hospital?",
+        "data": [
+            [
+                "12345",
+                "62",
+                "Male",
+                "2022-01-15"
+            ],
+            [
+                "67890",
+                "12",
+                "Female",
+                "2022-03-20"
+            ],
+            [
+                "24680",
+                "35",
+                "Male",
+                "2022-05-10"
+            ],
+            [
+                "13579",
+                "8",
+                "Male",
+                "2023-02-01"
+            ],
+            [
+                "98765",
+                "48",
+                "Female",
+                "2023-04-05"
+            ]
+        ]
+    }
+}

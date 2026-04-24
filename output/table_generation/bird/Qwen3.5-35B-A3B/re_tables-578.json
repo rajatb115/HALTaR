@@ -1,0 +1,77 @@
+{
+    "table-578-578": {
+        "title": [
+            "Comment ID",
+            "User",
+            "Date",
+            "Content",
+            "Platform",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write all comments made by user 'A Lion.'",
+        "data": [
+            [
+                "CMT_0042",
+                "A Lion",
+                "7/12/2023",
+                "Great article on wildlife conservation!",
+                "Blog",
+                "Approved"
+            ],
+            [
+                "CNT_0891",
+                "A Lions",
+                "8/05/23",
+                "I disagree with your point about migration patterns.",
+                "Forum",
+                "Pending"
+            ],
+            [
+                "COM_2210",
+                "A_Lion",
+                "9/14/22",
+                "Can you share more details?",
+                "Support Ticket",
+                "Resolved"
+            ],
+            [
+                "MSG_5567",
+                "ALION_USER",
+                "3/21/24",
+                "Thanks for the quick response.",
+                "Chat",
+                "Closed"
+            ],
+            [
+                "REV_9901",
+                "A.Lion",
+                "6/30/25",
+                "Excellent work on this project update.",
+                "Review Board",
+                "Published"
+            ],
+            [
+                "QST_1123",
+                "A-Lion",
+                "N/A",
+                "What is the deadline for submission?",
+                "Q&A Site",
+                "Answered"
+            ],
+            [
+                "NOT_3344",
+                "Alion",
+                "5/10/99",
+                "System notification sent successfully.",
+                "",
+                ""
+            ]
+        ]
+    }
+}

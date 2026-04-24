@@ -1,0 +1,61 @@
+{
+    "table-1160-1160": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Diagnosis",
+            "Albumin Level (g/dL)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patient with albumin level lower than 3.5, list their ID, sex and diagnosis.",
+        "data": [
+            [
+                "P1001",
+                "Female",
+                "Liver Cirrhosis",
+                "2.9"
+            ],
+            [
+                "P1002",
+                "Male",
+                "Chronic Kidney Disease",
+                "3.2"
+            ],
+            [
+                "P1003",
+                "Female",
+                "Severe Malnutrition",
+                "2.5"
+            ],
+            [
+                "P1004",
+                "Male",
+                "Inflammatory Bowel Disease",
+                "3.4"
+            ],
+            [
+                "P1005",
+                "Female",
+                "Sepsis",
+                "3.1"
+            ],
+            [
+                "P1006",
+                "Male",
+                "Heart Failure",
+                "3.3"
+            ],
+            [
+                "P1007",
+                "Female",
+                "Cancer Cachexia",
+                "2.7"
+            ]
+        ]
+    }
+}

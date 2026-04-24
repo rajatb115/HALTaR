@@ -1,0 +1,61 @@
+{
+    "table-626-626": {
+        "title": [
+            "Charge Type",
+            "Description",
+            "Cost (USD)",
+            "Billing Frequency"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much does the most expensive charge type costs?",
+        "data": [
+            [
+                "Basic Subscription",
+                "Standard platform access",
+                "29.99",
+                "Monthly"
+            ],
+            [
+                "Premium Support",
+                "24/7 dedicated technical assistance",
+                "1500.00",
+                "Monthly"
+            ],
+            [
+                "Data Storage (TB)",
+                "Per terabyte cloud storage",
+                "50.00",
+                "Monthly"
+            ],
+            [
+                "On-site Consulting",
+                "Expert consultation (per day rate)",
+                "2500.00",
+                "Per Day"
+            ],
+            [
+                "Custom Development Project",
+                "Bespoke feature implementation",
+                "12000.00",
+                "One-time"
+            ],
+            [
+                "Enterprise Software License",
+                "Full suite access for large organizations",
+                "18000.00",
+                "Annually"
+            ],
+            [
+                "Advanced Analytics Module",
+                "Enhanced reporting and insights",
+                "350.00",
+                "Monthly"
+            ]
+        ]
+    }
+}

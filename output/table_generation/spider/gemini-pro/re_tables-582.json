@@ -1,0 +1,45 @@
+{
+    "table-582-582": {
+        "title": [
+            "Professional ID",
+            "Role",
+            "Email"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Professionals Not Performing Dog Treatments",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which professional did not operate any treatment on dogs? List the professional's id, role and email.",
+        "data": [
+            [
+                "101",
+                "Veterinarian",
+                "vet1@example.com"
+            ],
+            [
+                "102",
+                "Dog Walker",
+                "walker2@example.com"
+            ],
+            [
+                "103",
+                "Groomer",
+                "groomer3@example.com"
+            ],
+            [
+                "104",
+                "Receptionist",
+                "frontdesk4@example.com"
+            ],
+            [
+                "105",
+                "Vet Assistant",
+                "assistant5@example.com"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-224-224": {
+        "title": [
+            "Course Name",
+            "Teacher Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Math Course Teachers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the name of the teacher for the math course.",
+        "data": [
+            [
+                "Math 101",
+                "John Smith"
+            ],
+            [
+                "Math 201",
+                "Alice Brown"
+            ],
+            [
+                "Math 301",
+                "David Lee"
+            ],
+            [
+                "Math 401",
+                "Emily Wilson"
+            ],
+            [
+                "Math 501",
+                "Michael Chen"
+            ]
+        ]
+    }
+}

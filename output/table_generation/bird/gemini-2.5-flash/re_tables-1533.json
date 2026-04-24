@@ -1,0 +1,69 @@
+{
+    "table-1533-1533": {
+        "title": [
+            "Country",
+            "Gas Station",
+            "Product ID",
+            "Unit Price",
+            "Currency"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country had the gas station that sold the most expensive product id No.2 for one unit?",
+        "data": [
+            [
+                "USA",
+                "Speedway",
+                "2",
+                "15.99",
+                "USD"
+            ],
+            [
+                "Germany",
+                "Aral",
+                "2",
+                "14.50",
+                "EUR"
+            ],
+            [
+                "Norway",
+                "Circle K",
+                "2",
+                "189.00",
+                "NOK"
+            ],
+            [
+                "Japan",
+                "Eneos",
+                "2",
+                "2200.00",
+                "JPY"
+            ],
+            [
+                "UK",
+                "BP",
+                "2",
+                "12.75",
+                "GBP"
+            ],
+            [
+                "Australia",
+                "Caltex",
+                "2",
+                "24.99",
+                "AUD"
+            ],
+            [
+                "Switzerland",
+                "Shell",
+                "2",
+                "16.50",
+                "CHF"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-67-67": {
+        "title": [
+            "School Name",
+            "Opening Date",
+            "Funding Type",
+            "County"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Directly Funded School Openings in Stanislaus County (2000-2005)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Between 1/1/2000 to 12/31/2005, how many directly funded schools opened in the county of Stanislaus?",
+        "data": [
+            [
+                "School A",
+                "2001-03-15",
+                "Direct",
+                "Stanislaus"
+            ],
+            [
+                "School B",
+                "2002-09-01",
+                "Direct",
+                "Stanislaus"
+            ],
+            [
+                "School C",
+                "2003-06-20",
+                "Direct",
+                "Stanislaus"
+            ],
+            [
+                "School D",
+                "2004-11-08",
+                "Direct",
+                "Stanislaus"
+            ],
+            [
+                "School E",
+                "2005-04-22",
+                "Direct",
+                "Stanislaus"
+            ]
+        ]
+    }
+}

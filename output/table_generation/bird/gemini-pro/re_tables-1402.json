@@ -1,0 +1,49 @@
+{
+    "table-1402-1402": {
+        "title": [
+            "Item Description",
+            "Quantity",
+            "Unit Cost",
+            "Total Cost"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "September Speaker Event Poster Costs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicate the cost of posters for 'September Speaker' event.",
+        "data": [
+            [
+                "Poster Design",
+                "1",
+                "$150",
+                "$150"
+            ],
+            [
+                "Printing (Posters)",
+                "100",
+                "$2.50",
+                "$250"
+            ],
+            [
+                "Shipping",
+                "1",
+                "$25",
+                "$25"
+            ],
+            [
+                "Distribution",
+                "5",
+                "$10",
+                "$50"
+            ],
+            [
+                "**Total**",
+                "",
+                "",
+                "**$475**"
+            ]
+        ]
+    }
+}

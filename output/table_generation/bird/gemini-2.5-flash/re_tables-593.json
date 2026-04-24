@@ -1,0 +1,69 @@
+{
+    "table-593-593": {
+        "title": [
+            "UserID",
+            "Username",
+            "TotalBadges",
+            "AccountStatus",
+            "LastActivityDate"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users are awarded with more than 5 badges?",
+        "data": [
+            [
+                "1001",
+                "AliceSmith",
+                "7",
+                "Active",
+                "2023-10-26"
+            ],
+            [
+                "1002",
+                "BobJohnson",
+                "3",
+                "Active",
+                "2023-10-25"
+            ],
+            [
+                "1003",
+                "CarolWhite",
+                "12",
+                "Active",
+                "2023-10-27"
+            ],
+            [
+                "1004",
+                "DavidGreen",
+                "5",
+                "Active",
+                "2023-10-24"
+            ],
+            [
+                "1005",
+                "EveBrown",
+                "9",
+                "Active",
+                "2023-10-26"
+            ],
+            [
+                "1006",
+                "FrankBlack",
+                "2",
+                "Inactive",
+                "2023-09-15"
+            ],
+            [
+                "1007",
+                "GraceBlue",
+                "6",
+                "Active",
+                "2023-10-27"
+            ]
+        ]
+    }
+}

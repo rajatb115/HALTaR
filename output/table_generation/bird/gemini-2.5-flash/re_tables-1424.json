@@ -1,0 +1,69 @@
+{
+    "table-1424-1424": {
+        "title": [
+            "Income Source",
+            "Date Received",
+            "Amount",
+            "Currency",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many income are received with an amount of 50?",
+        "data": [
+            [
+                "Freelance Project",
+                "2023-10-26",
+                "150.00",
+                "USD",
+                "Received"
+            ],
+            [
+                "Dividend Payment",
+                "2023-10-20",
+                "50.00",
+                "USD",
+                "Received"
+            ],
+            [
+                "Rental Income",
+                "2023-10-15",
+                "800.00",
+                "EUR",
+                "Received"
+            ],
+            [
+                "Consulting Fee",
+                "2023-10-10",
+                "50.00",
+                "USD",
+                "Received"
+            ],
+            [
+                "Royalty Payment",
+                "2023-10-05",
+                "25.00",
+                "GBP",
+                "Received"
+            ],
+            [
+                "Bonus Payment",
+                "2023-09-30",
+                "500.00",
+                "USD",
+                "Received"
+            ],
+            [
+                "Reimbursement",
+                "2023-09-25",
+                "50.00",
+                "USD",
+                "Received"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-645-645": {
+        "title": [
+            "Post Title",
+            "Last Edit Date",
+            "Last Editor User ID",
+            "Status",
+            "Version",
+            "Category",
+            "Action Taken"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the last edit date and last edit user ID for the post \"Detecting a given face in a database of facial images\".",
+        "data": [
+            [
+                "Detecting Face in Database",
+                "4/12/2023",
+                "U_7742",
+                "Published",
+                "v2.1",
+                "Computer Vision",
+                "Minor Correction"
+            ],
+            [
+                "Face Detection Algorithm Update",
+                "3/28/2021",
+                "U_Alice",
+                "Draft",
+                "v1.0",
+                "AI Research",
+                "Initial Draft"
+            ],
+            [
+                "Database Query Optimization",
+                "5/01/2023",
+                "U_Bob",
+                "Archived",
+                "v0.9",
+                "Data Science",
+                "Deprecated"
+            ],
+            [
+                "Facial Recognition System",
+                "6/15/2022",
+                "U_Chris",
+                "Active",
+                "v3.0",
+                "Security",
+                "Major Release"
+            ],
+            [
+                "Image Processing Pipeline",
+                "7/02/2019",
+                "U_Dave",
+                "Retired",
+                "v4.2",
+                "Engineering",
+                "Decommissioned"
+            ],
+            [
+                "Biometric Authentication Log",
+                "8/10/2024",
+                "U_Eve",
+                "Pending Review",
+                "v5.0",
+                "HR",
+                "Compliance Audit"
+            ],
+            [
+                "Neural Network Training Set",
+                "9/05/2018",
+                "U_Frank",
+                "Public",
+                "v6.1",
+                "Machine Learning",
+                "Open Source"
+            ]
+        ]
+    }
+}

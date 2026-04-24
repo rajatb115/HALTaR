@@ -1,0 +1,45 @@
+{
+    "table-510-510": {
+        "title": [
+            "Set ID",
+            "Set Name",
+            "Card Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Set Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the unique id of the set that has the highest number of cards?",
+        "data": [
+            [
+                "stx",
+                "Strixhaven: School of Mages",
+                "352"
+            ],
+            [
+                "neo",
+                "Kamigawa: Neon Dynasty",
+                "302"
+            ],
+            [
+                "snc",
+                "Streets of New Capenna",
+                "281"
+            ],
+            [
+                "bro",
+                "The Brothers' War",
+                "287"
+            ],
+            [
+                "mom",
+                "March of the Machine",
+                "433"
+            ]
+        ]
+    }
+}

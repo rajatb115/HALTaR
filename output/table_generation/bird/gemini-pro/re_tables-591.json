@@ -1,0 +1,39 @@
+{
+    "table-591-591": {
+        "title": [
+            "User ID",
+            "Views"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "User View Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user ID has the lowest view?",
+        "data": [
+            [
+                "user_123",
+                "150"
+            ],
+            [
+                "user_456",
+                "200"
+            ],
+            [
+                "user_789",
+                "100"
+            ],
+            [
+                "user_012",
+                "300"
+            ],
+            [
+                "user_345",
+                "250"
+            ]
+        ]
+    }
+}

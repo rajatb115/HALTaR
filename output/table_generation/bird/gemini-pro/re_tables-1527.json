@@ -1,0 +1,66 @@
+{
+    "table-1527-1527": {
+        "title": [
+            "Customer ID",
+            "Payment Date",
+            "Payment Amount",
+            "Consumption (2012)",
+            "Consumption (2013)",
+            "Consumption Decrease Rate"
+        ],
+        "numCols": 6,
+        "numericColumns": [
+            0,
+            2,
+            3,
+            4
+        ],
+        "pgTitle": "Customer Consumption Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the customer who paid 634.8 in 2012/8/25, what was the consumption decrease rate from Year 2012 to 2013?",
+        "data": [
+            [
+                "12345",
+                "2012-08-25",
+                "634.80",
+                "1500",
+                "1200",
+                "20%"
+            ],
+            [
+                "67890",
+                "2012-07-15",
+                "500.00",
+                "1000",
+                "900",
+                "10%"
+            ],
+            [
+                "24680",
+                "2012-09-01",
+                "750.25",
+                "1800",
+                "1600",
+                "11.11%"
+            ],
+            [
+                "13579",
+                "2012-08-10",
+                "400.50",
+                "800",
+                "750",
+                "6.25%"
+            ],
+            [
+                "98765",
+                "2012-08-28",
+                "900.00",
+                "2000",
+                "1900",
+                "5%"
+            ]
+        ]
+    }
+}

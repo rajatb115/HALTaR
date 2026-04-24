@@ -1,0 +1,43 @@
+{
+    "table-908-908": {
+        "title": [
+            "Race Name",
+            "Hosting Country",
+            "Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Formula 1 Races in 2017",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all races in 2017 and the hosting country order by date of the event.",
+        "data": [
+            [
+                "Australian Grand Prix",
+                "Australia",
+                "2017-03-26"
+            ],
+            [
+                "Chinese Grand Prix",
+                "China",
+                "2017-04-09"
+            ],
+            [
+                "Bahrain Grand Prix",
+                "Bahrain",
+                "2017-04-16"
+            ],
+            [
+                "Russian Grand Prix",
+                "Russia",
+                "2017-04-30"
+            ],
+            [
+                "Spanish Grand Prix",
+                "Spain",
+                "2017-05-14"
+            ]
+        ]
+    }
+}

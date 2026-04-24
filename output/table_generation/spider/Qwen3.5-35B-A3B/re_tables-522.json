@@ -1,0 +1,94 @@
+{
+    "table-522-522": {
+        "title": [
+            "Country",
+            "Primary Language",
+            "Percentage Spoken",
+            "Script Used",
+            "Official Status",
+            "Region",
+            "Population Estimate"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the language spoken by the largest percentage of people in each country?",
+        "data": [
+            [
+                "Japan",
+                "Japanese",
+                "99%",
+                "Kanji/Hiragana/Katakana",
+                "De Facto",
+                "East Asia",
+                "126M"
+            ],
+            [
+                "Brazil",
+                "Portuguese",
+                "",
+                "Latin",
+                "Yes",
+                "South America",
+                "215M"
+            ],
+            [
+                "India",
+                "Hindi",
+                "44%",
+                "Devanagari",
+                "Co-official",
+                "South Asia",
+                "1400M"
+            ],
+            [
+                "Germany",
+                "German",
+                "88%",
+                "Latin",
+                "Yes",
+                "Central Europe",
+                "84M"
+            ],
+            [
+                "Egypt",
+                "Arabic",
+                "60%",
+                "Arabic Script",
+                "Yes & Minorities",
+                "North Africa",
+                "105M"
+            ],
+            [
+                "Russia",
+                "Russian",
+                "85%",
+                "Cyrillic",
+                "Yes + Regional",
+                "Eastern Europe",
+                "144M"
+            ],
+            [
+                "France",
+                "French",
+                "90%",
+                "Latin",
+                "Exclusive",
+                "Western Europe",
+                "68M"
+            ],
+            [
+                "Mexico",
+                "Spanish",
+                "",
+                "Latin",
+                "Yes",
+                "North America",
+                "128M"
+            ]
+        ]
+    }
+}

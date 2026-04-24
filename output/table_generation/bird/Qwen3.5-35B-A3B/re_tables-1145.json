@@ -1,0 +1,94 @@
+{
+    "table-1145-1145": {
+        "title": [
+            "Player_Name",
+            "Weight_kg",
+            "Finishing_Rate",
+            "Curve_Score",
+            "Position",
+            "Team",
+            "League_Season"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please state the finishing rate and curve score of the player who has the heaviest weight.",
+        "data": [
+            [
+                "John Smith",
+                "94",
+                "76%",
+                "82",
+                "Forward",
+                "City FC",
+                "3rd Division"
+            ],
+            [
+                "Mike Johnson",
+                "68",
+                "45%",
+                "N/A",
+                "Midfielder",
+                "United SC",
+                "5th Division"
+            ],
+            [
+                "Sarah Lee",
+                "",
+                "",
+                "",
+                "Defender",
+                "Athletic DC",
+                "National Cup"
+            ],
+            [
+                "David Brown",
+                "85",
+                "%",
+                "/",
+                "Goalkeeper",
+                "Royal FC",
+                "Youth Academy"
+            ],
+            [
+                "Emily Davis",
+                "",
+                "",
+                "",
+                "Striker",
+                "Blue Stars",
+                "Regional League"
+            ],
+            [
+                "Chris Wilson",
+                "",
+                "",
+                "",
+                "Winger",
+                "Green Town",
+                "Amateur Series"
+            ],
+            [
+                "Tom Harris",
+                "",
+                "",
+                "",
+                "Center Back",
+                "Red Lions",
+                "Semi-Pro League"
+            ],
+            [
+                "Lisa Clark",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

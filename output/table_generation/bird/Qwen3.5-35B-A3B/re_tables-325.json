@@ -1,0 +1,73 @@
+{
+    "table-325-325": {
+        "title": [
+            "Molecule ID",
+            "Total Atoms",
+            "Single Bonded Atoms",
+            "% Single Bonded",
+            "Bonding Environment",
+            "Sample Source",
+            "Analysis Method",
+            "Confidence Level"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the percentage of atoms with single bond.",
+        "data": [
+            [
+                "MOL-A42",
+                "120",
+                "76",
+                "63.3%",
+                "Aliphatic Chain",
+                "Synthetic Lab",
+                "X-Ray Diffraction",
+                "High"
+            ],
+            [
+                "MEL-B99",
+                "85",
+                "52",
+                "61.2%",
+                "Saturated Ring",
+                "Natural Extract",
+                "NMR Spectroscopy",
+                "Medium"
+            ],
+            [
+                "/GLC-C11",
+                "204",
+                "145",
+                "71.1%",
+                "Linear Polymer",
+                "Industrial Batch",
+                "FTIR Analysis",
+                "High/"
+            ],
+            [
+                "/HYD-D05",
+                "48",
+                "30",
+                "62.5%",
+                "Branched Structure",
+                "Petrochemical Refinery",
+                "GC-MS",
+                "Low/MEDIAN-E01"
+            ],
+            [
+                "/SULF-F22",
+                "92",
+                "55",
+                "60.9%Heterocycle",
+                "Environmental Soil",
+                "UV-Vis Spectrophotometry",
+                "",
+                ""
+            ]
+        ]
+    }
+}

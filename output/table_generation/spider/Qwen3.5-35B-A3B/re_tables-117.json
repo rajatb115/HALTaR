@@ -1,0 +1,49 @@
+{
+    "table-117-117": {
+        "title": [
+            "Airline Abbreviation",
+            "Full Airline Name",
+            "IATA Code",
+            "Headquarters City",
+            "Country",
+            "Founded Year",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the airline with abbreviation 'UAL'.",
+        "data": [
+            [
+                "UAL",
+                "United Airlines Inc.",
+                "UA",
+                "Chicago",
+                "USA",
+                "1926",
+                "Active"
+            ],
+            [
+                "US Airways",
+                "American Airlines Group",
+                "AA",
+                "Phoenix",
+                "USA",
+                "",
+                "Inactive"
+            ],
+            [
+                "Delta Air Lines",
+                "Delta Air Lines Inc.",
+                "DL",
+                "Atlanta",
+                "USA",
+                "1925",
+                "Active"
+            ]
+        ]
+    }
+}

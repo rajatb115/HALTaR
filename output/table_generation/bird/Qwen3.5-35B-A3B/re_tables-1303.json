@@ -1,0 +1,62 @@
+{
+    "table-1303-1303": {
+        "title": [
+            "Patient ID",
+            "Creatinine Phosphokinase Level",
+            "CPK Status",
+            "Coagulation Degree Measure",
+            "Is Positive"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients with a normal range of creatinine phosphokinase, how many of them have a positive measure of degree of coagulation?",
+        "data": [
+            [
+                "P-1042",
+                "78 U/L",
+                "Normal",
+                "High",
+                "Yes"
+            ],
+            [
+                "P-1105",
+                "65 U/L",
+                "Normal",
+                "Moderate",
+                "Yes"
+            ],
+            [
+                "P-A29",
+                "92 U/L",
+                "",
+                "Low",
+                "No"
+            ],
+            [
+                "B-331",
+                "88 U/L",
+                "Low",
+                "",
+                ""
+            ],
+            [
+                "C-442",
+                "",
+                "High",
+                "Yes",
+                ""
+            ],
+            [
+                "D-559",
+                "N/A",
+                "Unknown",
+                "Very Low",
+                "No"
+            ]
+        ]
+    }
+}

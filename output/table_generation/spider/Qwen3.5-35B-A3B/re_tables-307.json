@@ -1,0 +1,83 @@
+{
+    "table-307-307": {
+        "title": [
+            "Section_Name",
+            "Category_ID",
+            "Status",
+            "Last_Updated",
+            "Record_Count",
+            "Owner_Department",
+            "Region_Code",
+            "Active_Flag"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the sections in reverse alphabetical order?",
+        "data": [
+            [
+                "Zebra_Section",
+                "ZEB-004",
+                "Archived",
+                "7/15/2023",
+                "450",
+                "Logistics",
+                "NA-EAST",
+                "No"
+            ],
+            [
+                "Yield_Management",
+                "YLD-012",
+                "Active",
+                "9/22/236",
+                "890",
+                "Finance",
+                "EU-WEST",
+                "Yes"
+            ],
+            [
+                "X-Ray_Diagnostics",
+                "XRD-021",
+                "Maintenance",
+                "3/10/242",
+                "0",
+                "Medical_Tech",
+                "APAC-SOUTH",
+                "No"
+            ],
+            [
+                "Waste_Disposal",
+                "WST-033",
+                "Active",
+                "5/05/192",
+                "120",
+                "Operations",
+                "US-CENTRAL",
+                "Yes"
+            ],
+            [
+                "Voucher_Processing",
+                "VCH-045",
+                "Pending",
+                "6/30/182",
+                "N/A",
+                "Accounting",
+                "SA-NORTH",
+                "No"
+            ],
+            [
+                "Urgent_Care_Unit",
+                "URG-056",
+                "Active",
+                "1/12/172",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

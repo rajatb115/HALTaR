@@ -1,0 +1,45 @@
+{
+    "table-265-265": {
+        "title": [
+            "Winner Name",
+            "Rank Points",
+            "Tournament"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Australian Open Tournament Winners",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name of the winner who has the highest rank points and participated in the Australian Open tourney.",
+        "data": [
+            [
+                "Rafael Nadal",
+                "7500",
+                "Australian Open"
+            ],
+            [
+                "Novak Djokovic",
+                "7000",
+                "Australian Open"
+            ],
+            [
+                "Roger Federer",
+                "6500",
+                "Australian Open"
+            ],
+            [
+                "Stan Wawrinka",
+                "6000",
+                "Australian Open"
+            ],
+            [
+                "Andy Murray",
+                "5500",
+                "Australian Open"
+            ]
+        ]
+    }
+}

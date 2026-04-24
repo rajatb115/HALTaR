@@ -1,0 +1,45 @@
+{
+    "table-916-916": {
+        "title": [
+            "Country",
+            "Driver Name",
+            "Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Oldest Drivers by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country is the oldest driver from?",
+        "data": [
+            [
+                "Japan",
+                "Kamata Hongo",
+                "109"
+            ],
+            [
+                "France",
+                "Jeanne Calment",
+                "107"
+            ],
+            [
+                "Italy",
+                "Emma Morano",
+                "106"
+            ],
+            [
+                "USA",
+                "Bessie Hendricks",
+                "105"
+            ],
+            [
+                "UK",
+                "Louisa Carman",
+                "104"
+            ]
+        ]
+    }
+}

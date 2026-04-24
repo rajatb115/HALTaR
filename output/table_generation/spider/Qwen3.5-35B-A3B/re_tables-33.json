@@ -1,0 +1,77 @@
+{
+    "table-33-33": {
+        "title": [
+            "Pet Category",
+            "Common Examples",
+            "Typical Lifespan Range",
+            "Primary Care Level",
+            "Popularity Rank",
+            "Origin Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different types of pet are there?",
+        "data": [
+            [
+                "Carnivores",
+                "Cats, Dogs, Ferrets",
+                "7\u201316 years",
+                "Moderate",
+                "High",
+                "Global"
+            ],
+            [
+                "Birds",
+                "Parrots, Canaries, Finches",
+                "5\u201340+ years",
+                "Variable",
+                "Medium",
+                "Worldwide"
+            ],
+            [
+                "Reptiles",
+                "Snakes, Lizards, Turtles",
+                "8\u201350+ years",
+                "Specialized",
+                "Low",
+                "Tropical/Subtropical"
+            ],
+            [
+                "Fish",
+                "Goldfish, Betta, Guppies",
+                "3\u201310 years",
+                "Technical",
+                "Very High",
+                "Freshwater/Marine"
+            ],
+            [
+                "Small Mammals",
+                "Hamsters, Rabbits, Guinea Pigs",
+                "4\u201312 years",
+                "Daily Maintenance",
+                "High",
+                "Temperate Zones"
+            ],
+            [
+                "Invertebrates",
+                "Tarantulas, Scorpions, Hermit Crabs",
+                "6 months \u2013 25 years",
+                "Minimal",
+                "Niche",
+                "Various Climates"
+            ],
+            [
+                "Amphibians",
+                "Frogs, Salamanders, Newts",
+                "9\u201320 years",
+                "Habitat Dependent",
+                "Rare",
+                "Wetland Regions"
+            ]
+        ]
+    }
+}

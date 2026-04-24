@@ -1,0 +1,77 @@
+{
+    "table-90-90": {
+        "title": [
+            "Model",
+            "Maker",
+            "Weight_Lbs",
+            "Distinctive_Feature",
+            "Production_Start",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which distinctive models are produced by maker with the full name General Motors or weighing more than 3500?",
+        "data": [
+            [
+                "Silverado HD",
+                "General Motors",
+                "7400",
+                "Heavy-duty towing capacity",
+                "2023-01-01",
+                "Active"
+            ],
+            [
+                "Maverick Hybrid",
+                "Ford Motor Company",
+                "3650",
+                "Unibody truck design",
+                "2023-01-01",
+                "Discontinued"
+            ],
+            [
+                "Rivian R1T",
+                "Rivian Automotive Inc",
+                "6900",
+                "All-electric powertrain",
+                "2021-01-01",
+                "Active"
+            ],
+            [
+                "F-150 Lightning",
+                "Ford Mustang Division",
+                "8005",
+                "Electric pickup variant",
+                "2022-01-01",
+                "Active"
+            ],
+            [
+                "Chevrolet Express",
+                "General motors LLC",
+                "5505",
+                "Full-size cargo van",
+                "2000-01-01",
+                "Active"
+            ],
+            [
+                "Mitsubishi Delica D:5",
+                "Mitsubishi Motors Corp",
+                "3605",
+                "Compact minivan SUV hybrid",
+                "2004-01-01",
+                "Discontinued"
+            ],
+            [
+                "Ram ProMaster City",
+                "Stellantis North America",
+                "3555",
+                "Urban delivery vehicle",
+                "2019-01-01",
+                ""
+            ]
+        ]
+    }
+}

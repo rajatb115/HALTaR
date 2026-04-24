@@ -1,0 +1,37 @@
+{
+    "table-656-656": {
+        "title": [
+            "Feature Name",
+            "Feature Type Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Feature Type Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the feature type name of feature AirCon?",
+        "data": [
+            [
+                "AirCon",
+                "Cooling"
+            ],
+            [
+                "Engine",
+                "Powertrain"
+            ],
+            [
+                "Brakes",
+                "Chassis"
+            ],
+            [
+                "Seats",
+                "Interior"
+            ],
+            [
+                "Radio",
+                "Entertainment"
+            ]
+        ]
+    }
+}

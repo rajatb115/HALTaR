@@ -1,0 +1,49 @@
+{
+    "table-137-137": {
+        "title": [
+            "Flight Number",
+            "Origin Airport",
+            "Arrival Airport",
+            "Scheduled Arrival Time"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Flights Landing at APG",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the flight numbers of flights landing at APG.",
+        "data": [
+            [
+                "UA123",
+                "ORD",
+                "APG",
+                "14:00"
+            ],
+            [
+                "AA456",
+                "DFW",
+                "APG",
+                "15:30"
+            ],
+            [
+                "DL789",
+                "ATL",
+                "APG",
+                "17:00"
+            ],
+            [
+                "WN101",
+                "MDW",
+                "APG",
+                "18:45"
+            ],
+            [
+                "F9222",
+                "DEN",
+                "APG",
+                "20:15"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-906-906": {
+        "title": [
+            "Driver",
+            "Season",
+            "Team",
+            "Races Entered",
+            "Total Points",
+            "Average Points per Race"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is Eddie Irvine's average points scored in year 2000?",
+        "data": [
+            [
+                "Eddie Irvine",
+                "47",
+                "Ferrari",
+                "68",
+                "34",
+                "0.72"
+            ],
+            [
+                "Mika Hakkinen",
+                "50",
+                "McLaren-Mercedes",
+                "70",
+                "89",
+                "9.89"
+            ],
+            [
+                "Michael Schumacher",
+                "49",
+                "Ferrari-Mercedes",
+                "69",
+                "108",
+                "1.56"
+            ],
+            [
+                "David Coulthard",
+                "-1",
+                "McLaren-Petronas",
+                "",
+                "60",
+                "0"
+            ],
+            [
+                "Rubens Barrichello",
+                "+2",
+                "Stewart-Ford",
+                "",
+                "0",
+                "0"
+            ],
+            [
+                "Heinz-Harald Frentzen",
+                "*3",
+                "Jordan-Mugen",
+                "",
+                "1",
+                "0"
+            ],
+            [
+                "Ralf Schumacher",
+                "***",
+                "Williams-BMW",
+                "",
+                "0",
+                "0"
+            ]
+        ]
+    }
+}

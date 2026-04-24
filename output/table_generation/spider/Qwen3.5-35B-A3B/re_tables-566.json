@@ -1,0 +1,93 @@
+{
+    "table-566-566": {
+        "title": [
+            "Student_ID",
+            "Has_Friends",
+            "Is_Liked_By_Others",
+            "School_Name",
+            "Grade_Level",
+            "Friend_Count",
+            "Like_Count",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the ids of high schoolers who have friends and are also liked by someone else.",
+        "data": [
+            [
+                "HS_1042",
+                "Yes",
+                "Yes",
+                "Lincoln High",
+                "9th",
+                "5",
+                "3",
+                "Active"
+            ],
+            [
+                "HS_A773",
+                "No",
+                "Yes",
+                "Roosevelt HS",
+                "8th",
+                "",
+                "6",
+                "Inactive"
+            ],
+            [
+                "HS_B291",
+                "Yes",
+                "Yes",
+                "Jefferson Academy",
+                "7th",
+                "2",
+                "4",
+                "Pending"
+            ],
+            [
+                "HS_C558",
+                "Yes",
+                "No",
+                "Washington Prep",
+                "",
+                "8",
+                "0",
+                "Suspended"
+            ],
+            [
+                "HS_D119",
+                "Yes",
+                "Yes",
+                "Madison Charter",
+                "",
+                "",
+                "",
+                "Verified"
+            ],
+            [
+                "HS_E884",
+                "Yes",
+                "Yes",
+                "Adams Middle",
+                "",
+                "",
+                "",
+                "Confirmed"
+            ],
+            [
+                "HS_F332",
+                "No",
+                "Yes",
+                "Monroe District",
+                "",
+                "",
+                "",
+                "Reviewing"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-31-31": {
+        "title": [
+            "City",
+            "State",
+            "Total Enrollment K-12",
+            "Rank by Lowest Enrollment",
+            "School District Count",
+            "Average Class Size"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which cities have the top 5 lowest enrollment number for students in grades 1 through 12?",
+        "data": [
+            [
+                "Bakersfield",
+                "California",
+                "4,250",
+                "6",
+                "3",
+                "78"
+            ],
+            [
+                "Laredo",
+                "Texas",
+                "5,100",
+                "N/A",
+                "8",
+                "92"
+            ],
+            [
+                "El Paso",
+                "New Mexico",
+                "0",
+                "-",
+                "",
+                ""
+            ],
+            [
+                "Hobbs",
+                "Oklahoma",
+                "20",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Rapid City",
+                "South Dakota",
+                "0",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Cheyenne",
+                "Wyoming",
+                "0",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Billings",
+                "Montana",
+                "0",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Missoula",
+                "Idaho",
+                "0",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-15-15": {
+        "title": [
+            "Stadium Name",
+            "Capacity",
+            "Average Attendance"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name and capacity for the stadium with highest average attendance?",
+        "data": [
+            [
+                "Signal Iduna Park",
+                "81365",
+                "81000"
+            ],
+            [
+                "Camp Nou",
+                "99354",
+                "79500"
+            ],
+            [
+                "Wembley Stadium",
+                "90000",
+                "85000"
+            ],
+            [
+                "Old Trafford",
+                "74310",
+                "73500"
+            ],
+            [
+                "Santiago Bernab\u00e9u",
+                "81044",
+                "76000"
+            ],
+            [
+                "Allianz Arena",
+                "75000",
+                "75000"
+            ],
+            [
+                "MetLife Stadium",
+                "82500",
+                "70000"
+            ]
+        ]
+    }
+}

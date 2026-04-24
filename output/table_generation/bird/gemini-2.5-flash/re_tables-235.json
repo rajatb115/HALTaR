@@ -1,0 +1,69 @@
+{
+    "table-235-235": {
+        "title": [
+            "Molecule ID",
+            "Atom ID",
+            "Element",
+            "Bond Type",
+            "Count of Bond Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many bonds which involved atom 12 does molecule TR009 have?",
+        "data": [
+            [
+                "TR009",
+                "12",
+                "Carbon",
+                "Single",
+                "3"
+            ],
+            [
+                "TR009",
+                "12",
+                "Carbon",
+                "Double",
+                "1"
+            ],
+            [
+                "TR009",
+                "1",
+                "Hydrogen",
+                "Single",
+                "1"
+            ],
+            [
+                "TR010",
+                "12",
+                "Oxygen",
+                "Double",
+                "1"
+            ],
+            [
+                "TR010",
+                "5",
+                "Carbon",
+                "Single",
+                "4"
+            ],
+            [
+                "TR011",
+                "23",
+                "Nitrogen",
+                "Triple",
+                "1"
+            ],
+            [
+                "TR009",
+                "15",
+                "Sulfur",
+                "Single",
+                "2"
+            ]
+        ]
+    }
+}

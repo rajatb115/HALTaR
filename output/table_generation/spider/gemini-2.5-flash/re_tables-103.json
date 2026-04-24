@@ -1,0 +1,61 @@
+{
+    "table-103-103": {
+        "title": [
+            "Car Model",
+            "Year",
+            "Cylinders",
+            "MPG"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum mpg of the cars that had 8 cylinders or that were produced before 1980 ?",
+        "data": [
+            [
+                "Ford F-150",
+                "1978",
+                "8",
+                "12.5"
+            ],
+            [
+                "Chevrolet Impala",
+                "1975",
+                "8",
+                "14.2"
+            ],
+            [
+                "Honda Civic",
+                "1992",
+                "4",
+                "35.0"
+            ],
+            [
+                "Dodge Charger",
+                "2018",
+                "8",
+                "19.0"
+            ],
+            [
+                "Volkswagen Beetle",
+                "1972",
+                "4",
+                "28.0"
+            ],
+            [
+                "Toyota Camry",
+                "2005",
+                "6",
+                "24.5"
+            ],
+            [
+                "Plymouth Barracuda",
+                "1970",
+                "8",
+                "13.8"
+            ]
+        ]
+    }
+}

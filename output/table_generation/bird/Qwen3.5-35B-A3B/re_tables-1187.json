@@ -1,0 +1,76 @@
+{
+    "table-1187-1187": {
+        "title": [
+            "Patient_ID",
+            "Diagnosis",
+            "Exam_Date",
+            "Status",
+            "Age_at_Diagnosis",
+            "Department",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Lists all patients by ID who were diagnosed with Behcet's and had their exams between 01/01/197 and 12/31/1997.",
+        "data": [
+            [
+                "P-4021",
+                "Behcet's Syndrome",
+                "03/15/176",
+                "Active",
+                "34",
+                "Rheumatology",
+                "Initial diagnosis confirmed"
+            ],
+            [
+                "P-A992",
+                "Behcet's Disease",
+                "06/22/182",
+                "Remission",
+                "41",
+                "Immunology",
+                "Follow-up exam completed"
+            ],
+            [
+                "P-B103",
+                "Beh\u00e7et's Uveitis",
+                "09/08/145",
+                "Stable",
+                "52",
+                "Ophthalmology",
+                "Eye inflammation noted"
+            ],
+            [
+                "P-C204",
+                "Behcet's Vasculitis",
+                "Nov 11, 158",
+                "Flare-up",
+                "8",
+                "Dermatology",
+                "Skin lesions present"
+            ],
+            [
+                "P-D305",
+                "Behcet's Arthritis",
+                "Jan 29, 210",
+                "Chronic",
+                "76",
+                "Neurology",
+                "Joint pain reported"
+            ],
+            [
+                "P-E406",
+                "Behcet's Spondylitis",
+                "Apr 04, 322",
+                "Inactive",
+                "63",
+                "Orthopedics",
+                "Spinal involvement"
+            ]
+        ]
+    }
+}

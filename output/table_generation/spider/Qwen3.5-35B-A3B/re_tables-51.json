@@ -1,0 +1,76 @@
+{
+    "table-51-51": {
+        "title": [
+            "Pet Type",
+            "Average Weight (kg)",
+            "Sample Size",
+            "Unit Standardized",
+            "Data Source",
+            "Confidence Level",
+            "Last Updated"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average weight for each type of pet?",
+        "data": [
+            [
+                "Dog",
+                "45.2",
+                "320",
+                "kg",
+                "National Vet Survey",
+                "High",
+                "06/15/2023"
+            ],
+            [
+                "Cat",
+                "7.8",
+                "510",
+                "g",
+                "Domestic Animal Study",
+                "Medium",
+                "8/22/2024"
+            ],
+            [
+                "Hamster",
+                "95.5",
+                "60",
+                "grams",
+                "Small Mammal Registry",
+                "Low",
+                "N/A"
+            ],
+            [
+                "Rabbit",
+                "4.1",
+                "120",
+                "kilograms",
+                "Exotic Pet Database",
+                "High",
+                "1/10/2023"
+            ],
+            [
+                "Parrot",
+                "0.65",
+                "45",
+                "pounds",
+                "Avian Health Network",
+                "Medium",
+                "N/A"
+            ],
+            [
+                "Turtle",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

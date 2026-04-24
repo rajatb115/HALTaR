@@ -1,0 +1,77 @@
+{
+    "table-1203-1203": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Test Date",
+            "Diagnosis",
+            "Hospital Stay (Days)",
+            "Treatment Location"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male patients who underwent testing between 1995 and 1997 and were subsequently diagnosed with BEHCET disease did not stay in the hospital for treatment?",
+        "data": [
+            [
+                "P101",
+                "Male",
+                "1996-03-15",
+                "BEHCET Disease",
+                "0",
+                "Outpatient Clinic"
+            ],
+            [
+                "P102",
+                "Male",
+                "1995-11-22",
+                "BEHCET Disease",
+                "0",
+                "Home"
+            ],
+            [
+                "P103",
+                "Female",
+                "1997-01-10",
+                "BEHCET Disease",
+                "5",
+                "Hospital"
+            ],
+            [
+                "P104",
+                "Male",
+                "1998-05-01",
+                "BEHCET Disease",
+                "0",
+                "Outpatient Clinic"
+            ],
+            [
+                "P105",
+                "Male",
+                "1996-07-20",
+                "Lupus",
+                "0",
+                "Outpatient Clinic"
+            ],
+            [
+                "P106",
+                "Male",
+                "1997-09-05",
+                "BEHCET Disease",
+                "10",
+                "Hospital"
+            ],
+            [
+                "P107",
+                "Male",
+                "1996-04-18",
+                "BEHCET Disease",
+                "0",
+                "Outpatient Clinic"
+            ]
+        ]
+    }
+}

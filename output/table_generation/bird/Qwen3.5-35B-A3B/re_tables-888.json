@@ -1,0 +1,34 @@
+{
+    "table-888-888": {
+        "title": [
+            "Race Name",
+            "Host Country",
+            "Year Held",
+            "Status Compared To 2023",
+            "Notes"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the races in year 2017 that are not hosted in year 2000.",
+        "data": [
+            [
+                "MotoGP Grand Prix",
+                "Spain",
+                "2024",
+                "Not Hosted",
+                "Modern Circuit"
+            ],
+            [
+                "Rally Dakar",
+                "Saudi Arabia",
+                "2024",
+                "New Venue",
+                "Relocated from South America"
+            ]
+        ]
+    }
+}

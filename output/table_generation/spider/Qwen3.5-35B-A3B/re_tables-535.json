@@ -1,0 +1,103 @@
+{
+    "table-535-535": {
+        "title": [
+            "Performance ID",
+            "Title",
+            "Share Count",
+            "Min Shares",
+            "Max Shares",
+            "Status",
+            "Date",
+            "Venue"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the maximum and minimum shares for performances that do not have the type \"Live final\".",
+        "data": [
+            [
+                "PF-104",
+                "Spring Gala Rehearsal",
+                "45",
+                "30",
+                "60",
+                "Scheduled",
+                "07/12/2023",
+                "Main Hall"
+            ],
+            [
+                "PF-112",
+                "Autumn Workshop Session",
+                "52",
+                "85",
+                "N/A",
+                "Completed",
+                "9/15/23 / Community Center",
+                ""
+            ],
+            [
+                "PQ-201 Evening Showcase Prep",
+                "78",
+                "",
+                "",
+                "",
+                "10/02/",
+                "Studio B",
+                ""
+            ],
+            [
+                "PR-305 Summer Festival Run",
+                "*",
+                "**",
+                "***",
+                "****",
+                "*****",
+                "******",
+                "*******"
+            ],
+            [
+                "PS-410 Winter Recital Draft",
+                "99",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "PT-522 Holiday Concert Trial",
+                "#",
+                "$",
+                "%",
+                "&",
+                "^",
+                "( )",
+                ""
+            ],
+            [
+                "PU-633 New Year Preview Show",
+                "@",
+                "!",
+                "?",
+                ".",
+                ",",
+                "; :",
+                ""
+            ],
+            [
+                "PV-744 Tech Demo Night One",
+                "[ ] { } <",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "table-658-658": {
+        "title": [
+            "Property ID",
+            "Name",
+            "Type",
+            "Bedrooms",
+            "Status",
+            "Price Range",
+            "Location",
+            "Owner"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of properties that are either houses or apartments with more than 1 room?",
+        "data": [
+            [
+                "P1042",
+                "Sunnyvale House",
+                "House",
+                "",
+                "Active",
+                "$450k-$600k",
+                "North District",
+                "J. Smith"
+            ],
+            [
+                "P1055",
+                "Greenview Apartments",
+                "Apartment",
+                "",
+                "Pending",
+                "$320k-$400k",
+                "South Zone",
+                "M. Johnson"
+            ],
+            [
+                "A2011",
+                "Oakwood Manor",
+                "House",
+                "",
+                "Inactive",
+                "N/A",
+                "East Side",
+                "R. Davis"
+            ],
+            [
+                "B3022",
+                "Cityscape Lofts",
+                "Apartment",
+                "",
+                "Completed",
+                "$750m+",
+                "Downtown",
+                "L. Wilson"
+            ],
+            [
+                "C4033",
+                "Maple Ridge Estate",
+                "House",
+                "",
+                "Listed",
+                "$800k-$1M",
+                "West Hills",
+                "T. Brown"
+            ],
+            [
+                "D5044",
+                "Riverfront Condos",
+                "Apartment",
+                "",
+                "Processing",
+                "$250k-$350k",
+                "Harbor View",
+                "K. Lee"
+            ],
+            [
+                "E6051",
+                "Highland Villa",
+                "House",
+                "",
+                "Reserved",
+                "$900k-$1.2M",
+                "Mountain Area",
+                "S. Garcia"
+            ]
+        ]
+    }
+}

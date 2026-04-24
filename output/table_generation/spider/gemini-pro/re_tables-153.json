@@ -1,0 +1,39 @@
+{
+    "table-153-153": {
+        "title": [
+            "Shop Name",
+            "Number of Products"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Shops and Product Counts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which shops' number products is above the average? Give me the shop names.",
+        "data": [
+            [
+                "Shop A",
+                "15"
+            ],
+            [
+                "Shop B",
+                "22"
+            ],
+            [
+                "Shop C",
+                "8"
+            ],
+            [
+                "Shop D",
+                "19"
+            ],
+            [
+                "Shop E",
+                "12"
+            ]
+        ]
+    }
+}

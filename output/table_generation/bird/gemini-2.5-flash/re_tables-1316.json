@@ -1,0 +1,61 @@
+{
+    "table-1316-1316": {
+        "title": [
+            "Student Name",
+            "Club Name",
+            "Event Name",
+            "Attendance Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many students of the Student_Club have attended the event \"Women's Soccer\"?",
+        "data": [
+            [
+                "Alice Smith",
+                "Student_Club",
+                "Women's Soccer",
+                "Attended"
+            ],
+            [
+                "Bob Johnson",
+                "Student_Club",
+                "Women's Soccer",
+                "Attended"
+            ],
+            [
+                "Carol White",
+                "Student_Club",
+                "Men's Basketball",
+                "Attended"
+            ],
+            [
+                "David Green",
+                "Sports Enthusiasts",
+                "Women's Soccer",
+                "Attended"
+            ],
+            [
+                "Emily Brown",
+                "Student_Club",
+                "Women's Soccer",
+                "Attended"
+            ],
+            [
+                "Frank Black",
+                "Debate Society",
+                "Annual Gala",
+                "Attended"
+            ],
+            [
+                "Grace Lee",
+                "Student_Club",
+                "Women's Soccer",
+                "Registered"
+            ]
+        ]
+    }
+}

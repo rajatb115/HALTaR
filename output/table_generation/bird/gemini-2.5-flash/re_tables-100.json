@@ -1,0 +1,62 @@
+{
+    "table-100-100": {
+        "title": [
+            "Account ID",
+            "Opening Date",
+            "Loan Validity (Months)",
+            "Approved Amount",
+            "Account Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the accounts who have loan validity more than 12 months, list out the accounts that have the highest approved amount and have account opening date in 1993.",
+        "data": [
+            [
+                "A001",
+                "1993-01-15",
+                "24",
+                "150000",
+                "Personal"
+            ],
+            [
+                "A002",
+                "1993-05-20",
+                "36",
+                "200000",
+                "Business"
+            ],
+            [
+                "A003",
+                "1993-11-01",
+                "18",
+                "180000",
+                "Personal"
+            ],
+            [
+                "A004",
+                "1994-03-10",
+                "12",
+                "90000",
+                "Personal"
+            ],
+            [
+                "A005",
+                "1992-07-22",
+                "48",
+                "250000",
+                "Business"
+            ],
+            [
+                "A006",
+                "1993-09-05",
+                "30",
+                "175000",
+                "Personal"
+            ]
+        ]
+    }
+}

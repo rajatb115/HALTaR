@@ -1,0 +1,40 @@
+{
+    "table-144-144": {
+        "title": [
+            "Account ID",
+            "Cardholder Name",
+            "Gold Cards Issued",
+            "Junior Cards Issed",
+            "Total Active Cards",
+            "Status",
+            "Last Review Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the accounts that have both gold and junior credit cards?",
+        "data": [
+            [
+                "ACC-74012",
+                "Sarah Jenkins",
+                "3",
+                "6",
+                "9",
+                "Active",
+                "01/15/2024"
+            ],
+            [
+                "ACC-88291",
+                "Michael Chen",
+                "5",
+                "4",
+                "7",
+                "Active; Pending Audit",
+                "ACC-92033"
+            ]
+        ]
+    }
+}

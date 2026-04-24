@@ -1,0 +1,46 @@
+{
+    "table-15-15": {
+        "title": [
+            "School Name",
+            "NCES ID",
+            "Enrollment (Ages 5-17)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Schools by Enrollment (Ages 5-17)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the top five schools, by descending order, from the highest to the lowest, the most number of Enrollment (Ages 5-17). Please give their NCES school identification number.",
+        "data": [
+            [
+                "School A",
+                "123456",
+                "1500"
+            ],
+            [
+                "School B",
+                "789012",
+                "1450"
+            ],
+            [
+                "School C",
+                "345678",
+                "1400"
+            ],
+            [
+                "School D",
+                "901234",
+                "1350"
+            ],
+            [
+                "School E",
+                "567890",
+                "1300"
+            ]
+        ]
+    }
+}

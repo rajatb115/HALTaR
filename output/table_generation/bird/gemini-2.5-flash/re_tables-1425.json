@@ -1,0 +1,69 @@
+{
+    "table-1425-1425": {
+        "title": [
+            "Member ID",
+            "Member Name",
+            "T-Shirt Size",
+            "Membership Status",
+            "Join Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the members, how many of them have an extra large t-shirt size?",
+        "data": [
+            [
+                "1001",
+                "Alice Smith",
+                "Large",
+                "Active",
+                "2022-01-15"
+            ],
+            [
+                "1002",
+                "Bob Johnson",
+                "Extra Large",
+                "Active",
+                "2021-03-20"
+            ],
+            [
+                "1003",
+                "Carol White",
+                "Medium",
+                "Active",
+                "2023-07-01"
+            ],
+            [
+                "1004",
+                "David Green",
+                "Extra Large",
+                "Active",
+                "2020-11-10"
+            ],
+            [
+                "1005",
+                "Eve Black",
+                "Small",
+                "Inactive",
+                "2022-05-22"
+            ],
+            [
+                "1006",
+                "Frank Blue",
+                "Large",
+                "Active",
+                "2023-01-05"
+            ],
+            [
+                "1007",
+                "Grace Red",
+                "Extra Large",
+                "Active",
+                "2021-09-18"
+            ]
+        ]
+    }
+}

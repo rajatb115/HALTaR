@@ -1,0 +1,46 @@
+{
+    "table-906-906": {
+        "title": [
+            "Driver Name",
+            "Year",
+            "Points"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Formula 1 Driver Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is Eddie Irvine's average points scored in year 2000?",
+        "data": [
+            [
+                "Eddie Irvine",
+                "1999",
+                "74"
+            ],
+            [
+                "Eddie Irvine",
+                "2000",
+                "4"
+            ],
+            [
+                "Eddie Irvine",
+                "2001",
+                "6"
+            ],
+            [
+                "Mika H\u00e4kkinen",
+                "2000",
+                "89"
+            ],
+            [
+                "Michael Schumacher",
+                "2000",
+                "108"
+            ]
+        ]
+    }
+}

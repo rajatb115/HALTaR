@@ -1,0 +1,93 @@
+{
+    "table-436-436": {
+        "title": [
+            "Card ID",
+            "Border Color",
+            "Status",
+            "Quantity",
+            "Last Updated",
+            "Supplier Region",
+            "Price Tier",
+            "Stock Level"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many card border with black color ? List out the card id.",
+        "data": [
+            [
+                "CARD-7401-BK",
+                "Black",
+                "Active",
+                "450",
+                "6/15/2024",
+                "North America",
+                "Standard",
+                "High"
+            ],
+            [
+                "CARD-7822-BL",
+                "Black",
+                "Inactive",
+                "120",
+                "",
+                "Europe",
+                "Premium",
+                "Low"
+            ],
+            [
+                "CARD-C991-KR",
+                "Black",
+                "Active",
+                "89",
+                "",
+                "Asia",
+                "Budget",
+                "Medium"
+            ],
+            [
+                "CARD-D445-MX",
+                "Black",
+                "Pending",
+                "33",
+                "",
+                "South America",
+                "Standard",
+                "High"
+            ],
+            [
+                "CARD-E112-ZZ",
+                "Black",
+                "Cancelled",
+                "0",
+                "",
+                "Global",
+                "N/A",
+                "None"
+            ],
+            [
+                "CARD-F330-WW",
+                "Black",
+                "Shipped",
+                "210",
+                "",
+                "Africa",
+                "Luxury",
+                "Moderate"
+            ],
+            [
+                "CARD-G555-VV",
+                "Black",
+                "On Hold",
+                "55",
+                "",
+                "Oceania",
+                "Standard",
+                "Low"
+            ]
+        ]
+    }
+}

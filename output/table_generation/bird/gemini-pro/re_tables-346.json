@@ -1,0 +1,37 @@
+{
+    "table-346-346": {
+        "title": [
+            "Card Name",
+            "Legality in Vintage"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Vintage Legality of Single-Faced Artifact Cards",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For artifact type of cards that do not have multiple faces on the same card, state its legalities for vintage play format.",
+        "data": [
+            [
+                "Black Lotus",
+                "Restricted"
+            ],
+            [
+                "Mox Sapphire",
+                "Restricted"
+            ],
+            [
+                "Sol Ring",
+                "Restricted"
+            ],
+            [
+                "Mana Crypt",
+                "Restricted"
+            ],
+            [
+                "Sensei's Divining Top",
+                "Banned"
+            ]
+        ]
+    }
+}

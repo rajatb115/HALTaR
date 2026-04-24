@@ -1,0 +1,77 @@
+{
+    "table-305-305": {
+        "title": [
+            "Molecule ID",
+            "Common Name",
+            "Primary Carcinogen Element",
+            "Secondary Elements",
+            "CAS Registry Number",
+            "Classification Category"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all carcinogenic molecules and their elements.",
+        "data": [
+            [
+                "C6H4Cl2",
+                "Benzene Derivative I",
+                "Chlorine",
+                "Carbon, Hydrogen",
+                "71-43-2",
+                "Aromatic Compound"
+            ],
+            [
+                "RuO4",
+                "Ruthenium Tetroxide",
+                "Rutheniun",
+                "Oxygen",
+                "20816-12-0",
+                "Inorganic Oxide"
+            ],
+            [
+                "*CdS*",
+                "Cadmium Sulfide",
+                "Cadium",
+                "Sulfur",
+                "1306-23-6",
+                "Heavy Metal Salt"
+            ],
+            [
+                "As2O3",
+                "Arsenic Trioxide",
+                "Arsenical",
+                "Oxygenn",
+                "1010-21-5",
+                "Metalloid Oxide"
+            ],
+            [
+                "Hg(CH3)2",
+                "Methylmercury",
+                "Mercurial",
+                "Hydrocarbon",
+                "22967-92-6",
+                "Organometallic"
+            ],
+            [
+                "Pb(C2H5)4",
+                "Tetraethyllead",
+                "Lead",
+                "Ethyl Groups",
+                "78-00-0",
+                "Fuel Additive"
+            ],
+            [
+                "Cr(VI)",
+                "Hexavalent Chromium",
+                "Chromium",
+                "O",
+                "",
+                ""
+            ]
+        ]
+    }
+}

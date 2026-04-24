@@ -1,0 +1,77 @@
+{
+    "table-255-255": {
+        "title": [
+            "Bond_ID",
+            "Element_1",
+            "Element_Count_1 (%)",
+            "Element_Total_1 (%)",
+            "Most_Common_Element",
+            "Frequency_Rank"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of bonds have the most common combination of atoms' elements?",
+        "data": [
+            [
+                "BND-0042",
+                "Carbon",
+                "76.4",
+                "82.1",
+                "C",
+                "0"
+            ],
+            [
+                "BOND-0115",
+                "Oxygen",
+                "68.2",
+                "91.5",
+                "O",
+                "3"
+            ],
+            [
+                "CHM-B99",
+                "Nitrogen",
+                "54.1",
+                "45.2",
+                "N",
+                ""
+            ],
+            [
+                "MOLEC-A1",
+                "Hydrogen",
+                "88.9",
+                "99.1",
+                "H",
+                ""
+            ],
+            [
+                "CHEM-X22",
+                "Sulfur",
+                "0.3",
+                "",
+                "S",
+                ""
+            ],
+            [
+                "ORG-P007",
+                "Chlorine",
+                "",
+                "N/A",
+                "Cl",
+                ""
+            ],
+            [
+                "INOR-M55",
+                "Phosphorus",
+                "",
+                "P",
+                "",
+                ""
+            ]
+        ]
+    }
+}

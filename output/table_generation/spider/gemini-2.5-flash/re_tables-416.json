@@ -1,0 +1,61 @@
+{
+    "table-416-416": {
+        "title": [
+            "Name",
+            "Nationality",
+            "Occupation",
+            "Age"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show names of people whose nationality is not \"Russia\".",
+        "data": [
+            [
+                "Alice Smith",
+                "USA",
+                "Engineer",
+                "34"
+            ],
+            [
+                "Bob Johnson",
+                "Canada",
+                "Doctor",
+                "48"
+            ],
+            [
+                "Carol White",
+                "UK",
+                "Artist",
+                "29"
+            ],
+            [
+                "David Lee",
+                "South Korea",
+                "Software Developer",
+                "41"
+            ],
+            [
+                "Eva Green",
+                "France",
+                "Chef",
+                "37"
+            ],
+            [
+                "Frank Miller",
+                "Germany",
+                "Architect",
+                "55"
+            ],
+            [
+                "Grace Chen",
+                "China",
+                "Scientist",
+                "31"
+            ]
+        ]
+    }
+}

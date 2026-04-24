@@ -1,0 +1,45 @@
+{
+    "table-1285-1285": {
+        "title": [
+            "Patient ID",
+            "Lactate Dehydrogenase",
+            "First Recorded Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Sample Patient Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient with the highest lactate dehydrogenase in the normal range, when was his or her data first recorded?",
+        "data": [
+            [
+                "12345",
+                "220 U/L",
+                "2023-01-15"
+            ],
+            [
+                "67890",
+                "210 U/L",
+                "2022-11-01"
+            ],
+            [
+                "24680",
+                "200 U/L",
+                "2023-03-10"
+            ],
+            [
+                "13579",
+                "190 U/L",
+                "2022-12-20"
+            ],
+            [
+                "98765",
+                "180 U/L",
+                "2023-02-05"
+            ]
+        ]
+    }
+}

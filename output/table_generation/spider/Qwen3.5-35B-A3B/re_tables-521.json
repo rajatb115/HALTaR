@@ -1,0 +1,77 @@
+{
+    "table-521-521": {
+        "title": [
+            "City Name",
+            "Population",
+            "Country",
+            "Region",
+            "Density per km\u00b2",
+            "Area in km\u00b2"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of cities that have a population between 160000 and 900000 .",
+        "data": [
+            [
+                "Austin",
+                "978908",
+                "USA",
+                "Texas",
+                "400",
+                "827"
+            ],
+            [
+                "Portland",
+                "652503",
+                "USA",
+                "Pacific Northwest",
+                "3800",
+                "375"
+            ],
+            [
+                "Nashville",
+                "715006",
+                "USA",
+                "Southeast",
+                "50",
+                "1362"
+            ],
+            [
+                "Charlotte",
+                "897007",
+                "USA",
+                "South Atlantic",
+                "",
+                ""
+            ],
+            [
+                "Columbus",
+                "898553",
+                "USA",
+                "Midwest",
+                "",
+                ""
+            ],
+            [
+                "Indianapolis",
+                "887642",
+                "USA",
+                "Great Lakes",
+                "",
+                ""
+            ],
+            [
+                "Louisville",
+                "175042",
+                "USA",
+                "Appalachia",
+                "",
+                ""
+            ]
+        ]
+    }
+}

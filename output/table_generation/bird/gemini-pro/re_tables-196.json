@@ -1,0 +1,49 @@
+{
+    "table-196-196": {
+        "title": [
+            "Bond Type",
+            "Description",
+            "Strength (kJ/mol)",
+            "Example"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Common Chemical Bond Types",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the most common bond type?",
+        "data": [
+            [
+                "Covalent",
+                "Sharing of electrons between atoms",
+                "50-1000",
+                "Water (H\u2082O)"
+            ],
+            [
+                "Ionic",
+                "Transfer of electrons between atoms",
+                "100-1000",
+                "Sodium Chloride (NaCl)"
+            ],
+            [
+                "Metallic",
+                "Sharing of electrons within a \"sea\" of electrons",
+                "70-1000",
+                "Iron (Fe)"
+            ],
+            [
+                "Hydrogen",
+                "Attraction between a hydrogen atom and a highly electronegative atom",
+                "10-40",
+                "DNA base pairs"
+            ],
+            [
+                "Van der Waals",
+                "Weak attraction between atoms or molecules",
+                "0.4-4",
+                "Noble Gases"
+            ]
+        ]
+    }
+}

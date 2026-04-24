@@ -1,0 +1,52 @@
+{
+    "table-1424-1424": {
+        "title": [
+            "Income ID",
+            "Amount",
+            "Payer",
+            "Date Received"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Income Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many income are received with an amount of 50?",
+        "data": [
+            [
+                "1",
+                "50",
+                "ABC Corp",
+                "2023-01-15"
+            ],
+            [
+                "2",
+                "100",
+                "XYZ Inc",
+                "2023-02-20"
+            ],
+            [
+                "3",
+                "50",
+                "ABC Corp",
+                "2023-03-10"
+            ],
+            [
+                "4",
+                "75",
+                "LMN Ltd",
+                "2023-04-05"
+            ],
+            [
+                "5",
+                "50",
+                "PQR Co",
+                "2023-05-12"
+            ]
+        ]
+    }
+}

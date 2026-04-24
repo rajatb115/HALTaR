@@ -1,0 +1,77 @@
+{
+    "table-1479-1479": {
+        "title": [
+            "Segment",
+            "Consumption (Units)",
+            "Revenue (USD)",
+            "Market Share (%)",
+            "Region",
+            "Growth Rate (%)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which segment had the least consumption?",
+        "data": [
+            [
+                "Consumer",
+                "125000",
+                "15000000",
+                "35.2",
+                "North America",
+                "4.5"
+            ],
+            [
+                "Industrial",
+                "85000",
+                "22000000",
+                "28.1",
+                "Europe",
+                "2.1"
+            ],
+            [
+                "Commercial",
+                "110000",
+                "18000000",
+                "20.5",
+                "Asia-Pacific",
+                "3.8"
+            ],
+            [
+                "Public Sector",
+                "45000",
+                "9000000",
+                "8.3",
+                "Global",
+                "1.5"
+            ],
+            [
+                "Healthcare",
+                "60000",
+                "11000000",
+                "5.9",
+                "North America",
+                "6.2"
+            ],
+            [
+                "Education",
+                "30000",
+                "5000000",
+                "2.0",
+                "Europe",
+                "0.8"
+            ],
+            [
+                "Retail",
+                "95000",
+                "13000000",
+                "15.0",
+                "Asia-Pacific",
+                "3.1"
+            ]
+        ]
+    }
+}

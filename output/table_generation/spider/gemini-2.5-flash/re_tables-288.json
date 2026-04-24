@@ -1,0 +1,53 @@
+{
+    "table-288-288": {
+        "title": [
+            "Battle ID",
+            "Battle Name",
+            "Total Casualties"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the ids and names of the battles that led to more than 10 people killed in total.",
+        "data": [
+            [
+                "BTL001",
+                "Siege of Acre",
+                "15000"
+            ],
+            [
+                "BTL002",
+                "Battle of Thermopylae",
+                "20000"
+            ],
+            [
+                "BTL003",
+                "Battle of Cannae",
+                "70000"
+            ],
+            [
+                "BTL004",
+                "Battle of Stalingrad",
+                "1100000"
+            ],
+            [
+                "BTL005",
+                "Battle of Gettysburg",
+                "51000"
+            ],
+            [
+                "BTL006",
+                "Battle of Waterloo",
+                "47000"
+            ],
+            [
+                "BTL007",
+                "Battle of the Somme",
+                "1000000"
+            ]
+        ]
+    }
+}

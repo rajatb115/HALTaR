@@ -1,0 +1,77 @@
+{
+    "table-337-337": {
+        "title": [
+            "Molecule ID",
+            "Chemical Formula",
+            "Bond Type",
+            "Carcinogenic Status",
+            "Source Category",
+            "Risk Level"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "in molecules with triple bonds, how many of them are not carcinogenic?",
+        "data": [
+            [
+                "MOL-004",
+                "C\u2082H\u2082",
+                "Triple Bond",
+                "Not Carcinogenic",
+                "Industrial Gas",
+                "Low"
+            ],
+            [
+                "MOL-112",
+                "HC\u2261CH",
+                "Triple Bond",
+                "Not Carcinogenic",
+                "Laboratory Reagent",
+                "Medium"
+            ],
+            [
+                "MOL-205",
+                "C\u2083H\u2084",
+                "Triple Bond",
+                "Non-carcinogen",
+                "Petrochemicals",
+                "High"
+            ],
+            [
+                "MOL-330",
+                "C\u2081\u2080H\u2088O",
+                "Triple Linkage",
+                "Safe for Exposure",
+                "Pharmaceutical Intermediate",
+                "Very Low"
+            ],
+            [
+                "MOL-441",
+                "C6H6-Nitrile",
+                "Alkyne Group",
+                "No Evidence",
+                "Synthetic Polymer",
+                "Moderate"
+            ],
+            [
+                "MOL-552",
+                "Propyne Derivative",
+                "Carbon Triple",
+                "Benign Classification",
+                "Research Sample",
+                "Negligible"
+            ],
+            [
+                "MOL-678",
+                "Acetonitrile Variant",
+                "Triple Covalent",
+                "Unclassified Risk",
+                "Organic Solvent",
+                "Unknown"
+            ]
+        ]
+    }
+}

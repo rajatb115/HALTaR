@@ -1,0 +1,29 @@
+{
+    "table-912-912": {
+        "title": [
+            "Circuit Name",
+            "Latitude"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Circuit Locations by Latitude",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which of these circuits is located at a higher latitude, Silverstone Circuit, Hockenheimring or Hungaroring?",
+        "data": [
+            [
+                "Hungaroring",
+                "47.58\u00b0 N"
+            ],
+            [
+                "Silverstone Circuit",
+                "52.07\u00b0 N"
+            ],
+            [
+                "Hockenheimring",
+                "49.33\u00b0 N"
+            ]
+        ]
+    }
+}

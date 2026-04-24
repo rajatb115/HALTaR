@@ -1,0 +1,85 @@
+{
+    "table-547-547": {
+        "title": [
+            "Orchestra_ID",
+            "Orchestra_Name",
+            "City",
+            "Founded_Year",
+            "Status",
+            "Last_Performance_Date",
+            "Total_Past_Shows"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the orchestras that do not have any performances?",
+        "data": [
+            [
+                "ORC-004",
+                "Silent Strings Ensemble",
+                "Vienna",
+                "7654",
+                "Inactive",
+                "N/A",
+                "0"
+            ],
+            [
+                "ORC-112",
+                "Northern Silence Philharmonic",
+                "Oslo",
+                "8901",
+                "Suspended",
+                "N/AA",
+                "5"
+            ],
+            [
+                "Orc-229",
+                "Desert Echo Chamber",
+                "Cairo",
+                "3321",
+                "Dissolved",
+                "4455-01-02",
+                "99"
+            ],
+            [
+                "Orch-330",
+                "Frozen Notes Collective",
+                "Reykjavik",
+                "6789",
+                "Dormant",
+                "N/a",
+                ""
+            ],
+            [
+                "orc-441",
+                "Void Symphony Group",
+                "Tokyo",
+                "2211",
+                "Cancelled",
+                "N /A",
+                "-1"
+            ],
+            [
+                "orch-552",
+                "Whispering Winds Band",
+                "London",
+                "1110",
+                "Pending",
+                "N",
+                "A"
+            ],
+            [
+                "orcs-663",
+                "Null Melody Troupe",
+                "Paris",
+                "something",
+                "Unknown",
+                "N",
+                "a"
+            ]
+        ]
+    }
+}

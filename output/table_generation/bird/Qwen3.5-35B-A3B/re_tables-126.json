@@ -1,0 +1,61 @@
+{
+    "table-126-126": {
+        "title": [
+            "District",
+            "State",
+            "Unemployment Rate",
+            "Unemployed Clients Count",
+            "Contract Status",
+            "Debt Amount USD"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For loans contracts which are still running where client are in debt, list the district of the and the state the percentage unemployment rate increment from year 1995 to 1996.",
+        "data": [
+            [
+                "Maricopa County",
+                "Arizona",
+                "4.2%",
+                "342",
+                "Active",
+                "$12,500"
+            ],
+            [
+                "Cook County",
+                "Illinois",
+                "7.8%",
+                "89",
+                "Active - Overdue",
+                "$45,200"
+            ],
+            [
+                "Orange County",
+                "California",
+                "5.1%",
+                "",
+                "Pending Review",
+                "$22,100"
+            ],
+            [
+                "Los Angeles County",
+                "New York",
+                "6.9%",
+                "",
+                "Defaulted",
+                "$31,400"
+            ],
+            [
+                "Harris County",
+                "Texas",
+                "9.2%",
+                "",
+                "Restructuring",
+                "$56,700"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "table-691-691": {
+        "title": [
+            "User ID",
+            "Display Name",
+            "Badge Awarded",
+            "Date Earned",
+            "Category",
+            "Points",
+            "Status",
+            "Source Platform"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the latest badge awarded to the user with the display name Emmett.",
+        "data": [
+            [
+                "U7482",
+                "Emmett",
+                "Gold Contributor",
+                "06/15/2023",
+                "Achievement",
+                "500",
+                "Active",
+                "Stack Overflow"
+            ],
+            [
+                "E9201a",
+                "Emmet T.",
+                "Top Answerer",
+                "03/22/2024",
+                "Recognition",
+                "750",
+                "Pending",
+                "Community Hub"
+            ],
+            [
+                "EM-004",
+                "Emmette",
+                "Problem Solver",
+                "01/10/2430",
+                "Skill",
+                "420",
+                "Inactive",
+                "Legacy System"
+            ],
+            [
+                "USER_EMM",
+                "Emmitt J.",
+                "Verified Expert",
+                "12/31/999",
+                "Certification",
+                "N/A",
+                "Suspended",
+                "Test Environment"
+            ],
+            [
+                "emmet_01@example.com",
+                "Emmo",
+                "Early Adopter",
+                "02/02/1800s",
+                "Historical",
+                "90",
+                "Archived",
+                "Beta Program"
+            ],
+            [
+                "Emmett_Dev",
+                "Emmatt D.",
+                "Code Master",
+                "11/11/-50 BC",
+                "Ancient",
+                "888",
+                "Retired",
+                "Mythic Realm"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-44-44": {
+        "title": [
+            "Pet Name",
+            "Type",
+            "Age (Years)",
+            "Weight (kg)",
+            "Breed"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the type and weight of the youngest pet.",
+        "data": [
+            [
+                "Buddy",
+                "Dog",
+                "5",
+                "25.5",
+                "Golden Retriever"
+            ],
+            [
+                "Whiskers",
+                "Cat",
+                "3",
+                "4.2",
+                "Siamese"
+            ],
+            [
+                "Pip",
+                "Hamster",
+                "1",
+                "0.1",
+                "Syrian"
+            ],
+            [
+                "Shadow",
+                "Dog",
+                "7",
+                "30.1",
+                "German Shepherd"
+            ],
+            [
+                "Mittens",
+                "Cat",
+                "2",
+                "3.8",
+                "Domestic Shorthair"
+            ],
+            [
+                "Rocky",
+                "Turtle",
+                "10",
+                "1.5",
+                "Red-eared Slider"
+            ],
+            [
+                "Daisy",
+                "Rabbit",
+                "4",
+                "2.0",
+                "Netherland Dwarf"
+            ],
+            [
+                "Max",
+                "Dog",
+                "6",
+                "28.0",
+                "Labrador Retriever"
+            ]
+        ]
+    }
+}

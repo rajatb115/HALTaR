@@ -1,0 +1,85 @@
+{
+    "table-1467-1467": {
+        "title": [
+            "Full Name",
+            "Position",
+            "College",
+            "Club Affiliation",
+            "Membership ID",
+            "Join Date",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write the full name of the club member with the position of 'Secretary' and list which college the club member belongs to.",
+        "data": [
+            [
+                "Alice Johnson",
+                "Secretary",
+                "Harvard University",
+                "Debate Society",
+                "MEM-1042",
+                "06/15/2021",
+                "Active"
+            ],
+            [
+                "Michael Chen",
+                "Secretary (Acting)",
+                "Yale University",
+                "Student Council",
+                "MEM-A773",
+                "09/01/2022",
+                "Active"
+            ],
+            [
+                "Sarah Williams",
+                "Secretary of Finance",
+                "Princeton University",
+                "Accounting Club",
+                "FIN-S2019",
+                "08/25/2019",
+                ""
+            ],
+            [
+                "David Miller",
+                "Junior Secretary",
+                "Columbia University",
+                "History Association",
+                "HIS-JR05",
+                "03/10/2023",
+                ""
+            ],
+            [
+                "Emily Davis",
+                "International Secretary",
+                "Brown University",
+                "Model UN",
+                "MUN-IS88",
+                "05/05/1999",
+                ""
+            ],
+            [
+                "James Wilson",
+                "Correspondence Secretary",
+                "Dartmouth College",
+                "Literary Review",
+                "LIT-COR1",
+                "04/12/2021",
+                ""
+            ],
+            [
+                "Rachel Green",
+                "Alumni Relations Secretary",
+                "Cornell University",
+                "Engineering Network",
+                "ENG-ALM4",
+                "07/30/2018",
+                ""
+            ]
+        ]
+    }
+}

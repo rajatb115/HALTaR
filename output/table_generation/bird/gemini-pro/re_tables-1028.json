@@ -1,0 +1,46 @@
+{
+    "table-1028-1028": {
+        "title": [
+            "Rank",
+            "Player Name",
+            "Penalties"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Top Players with Most Penalties",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicate the full names of the top 10 players with the highest number of penalties.",
+        "data": [
+            [
+                "1",
+                "Player Name 1",
+                "150"
+            ],
+            [
+                "2",
+                "Player Name 2",
+                "145"
+            ],
+            [
+                "3",
+                "Player Name 3",
+                "140"
+            ],
+            [
+                "4",
+                "Player Name 4",
+                "135"
+            ],
+            [
+                "5",
+                "Player Name 5",
+                "130"
+            ]
+        ]
+    }
+}

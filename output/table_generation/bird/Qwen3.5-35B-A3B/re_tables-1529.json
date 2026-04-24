@@ -1,0 +1,85 @@
+{
+    "table-1529-1529": {
+        "title": [
+            "Segment Category",
+            "Region Code",
+            "Premium Share (%)",
+            "Total Volume",
+            "Growth Rate",
+            "Data Source",
+            "Last Updated"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of \"premium\" against the overall segment in \"SVK\"?",
+        "data": [
+            [
+                "Premium",
+                "SVK",
+                "42.5%",
+                "8,900 units",
+                "+3.2%",
+                "Internal Sales Report",
+                "06/15/2024"
+            ],
+            [
+                "Standard",
+                "SVK",
+                "35.1%",
+                "",
+                "-1.5%",
+                "Internal Inventory Log",
+                "07/01/2024"
+            ],
+            [
+                "Economy",
+                "SVA",
+                "5.2%",
+                "90",
+                "6.7%",
+                "Market Analysis Q2",
+                "June 24th"
+            ],
+            [
+                "Luxury",
+                "SKV",
+                "17.2%",
+                "",
+                "",
+                "Sales Dashboard v3",
+                "July 2nd"
+            ],
+            [
+                "Mid-Tier",
+                "SVA",
+                "",
+                "",
+                "",
+                "Regional Summary",
+                "June 30"
+            ],
+            [
+                "Entry-Level",
+                "SVB",
+                "",
+                "",
+                "",
+                "Audit Trail",
+                "May 15"
+            ],
+            [
+                "Total Mix",
+                "SVX",
+                "",
+                "",
+                "",
+                "Consolidated View",
+                "Feb 28"
+            ]
+        ]
+    }
+}

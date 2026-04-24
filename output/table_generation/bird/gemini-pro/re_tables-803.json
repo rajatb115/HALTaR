@@ -1,0 +1,43 @@
+{
+    "table-803-803": {
+        "title": [
+            "Superhero",
+            "Height (feet)",
+            "Universe"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Superhero Height Comparison",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the tallest superhero?",
+        "data": [
+            [
+                "Superman",
+                "6'3\"",
+                "DC"
+            ],
+            [
+                "Thor",
+                "6'6\"",
+                "Marvel"
+            ],
+            [
+                "Hulk",
+                "7'0\" - 8'0\"+ (Variable)",
+                "Marvel"
+            ],
+            [
+                "Colossus",
+                "6'7\"",
+                "Marvel"
+            ],
+            [
+                "Wonder Woman",
+                "6'0\"",
+                "DC"
+            ]
+        ]
+    }
+}

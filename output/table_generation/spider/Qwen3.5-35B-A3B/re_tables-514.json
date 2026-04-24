@@ -1,0 +1,55 @@
+{
+    "table-514-514": {
+        "title": [
+            "Nation",
+            "Population",
+            "Continent",
+            "Capital City",
+            "Area_km\u00b2"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the nations with the 3 lowest populations?",
+        "data": [
+            [
+                "Vatican City",
+                "825",
+                "Europe",
+                "Vatican City",
+                "<0.44"
+            ],
+            [
+                "Monaco",
+                "36,782",
+                "Europe",
+                "Monaco-Ville",
+                "0.78"
+            ],
+            [
+                "Tuvalu",
+                "9,900",
+                "Oceania",
+                "Funafuti",
+                "6.00"
+            ],
+            [
+                "Nauru",
+                "7,600 (est.)",
+                "Oceania",
+                "Yaren District",
+                "4.05"
+            ],
+            [
+                "Palau",
+                "5,000+",
+                "Oceania",
+                "Ngerulmud",
+                "459.0"
+            ]
+        ]
+    }
+}

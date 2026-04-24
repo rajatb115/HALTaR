@@ -1,0 +1,45 @@
+{
+    "table-267-267": {
+        "title": [
+            "Player Name",
+            "Result",
+            "Match Duration (Minutes)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Match Winners and Losers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the names of loser and winner who played in the match with greatest number of minutes.",
+        "data": [
+            [
+                "John Doe",
+                "Winner",
+                "120"
+            ],
+            [
+                "Jane Smith",
+                "Loser",
+                "120"
+            ],
+            [
+                "Alice Brown",
+                "Winner",
+                "90"
+            ],
+            [
+                "Bob Green",
+                "Loser",
+                "90"
+            ],
+            [
+                "Chris White",
+                "Winner",
+                "60"
+            ]
+        ]
+    }
+}

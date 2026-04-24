@@ -1,0 +1,85 @@
+{
+    "table-1516-1516": {
+        "title": [
+            "Customer ID",
+            "Timestamp",
+            "Segment",
+            "Status",
+            "Source System",
+            "Confidence Score",
+            "Last Updated By"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What segment did the customer have at 2012/8/23 21:20:00?",
+        "data": [
+            [
+                "CUST_4921",
+                "8/16/2023",
+                "Premium",
+                "Active",
+                "CRM_v2",
+                "0.98",
+                "Admin_Smith"
+            ],
+            [
+                "CUS_7732",
+                "Aug 23, 2024",
+                "Standard",
+                "Inactive",
+                "Legacy_DB",
+                "95%",
+                "Sys_Auto"
+            ],
+            [
+                "CUS_1029",
+                "7/15/2024",
+                "Enterprise",
+                "Pending",
+                "Data_Warehouse",
+                "High",
+                "Manager_Jones"
+            ],
+            [
+                "USR_8841",
+                "August 22",
+                "Basic",
+                "Suspended",
+                "Billing_Proc",
+                "Medium",
+                "Support_Team"
+            ],
+            [
+                "ACC_5510",
+                "6/30/2025",
+                "VIP",
+                "Verified",
+                "Analytics_Eng",
+                "Very_High",
+                "Lead_Analyst"
+            ],
+            [
+                "MEM_3392",
+                "July 1",
+                "Trial",
+                "Expiring",
+                "Marketing_Cloud",
+                "Low",
+                "Bot_Alpha"
+            ],
+            [
+                "CLI_9901",
+                "2/28/1999",
+                "Unknown",
+                "Error_Log",
+                "Backup_Server",
+                "None",
+                "Tech_Ops"
+            ]
+        ]
+    }
+}

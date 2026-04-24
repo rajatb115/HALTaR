@@ -1,0 +1,77 @@
+{
+    "table-221-221": {
+        "title": [
+            "Teacher_Name",
+            "Course_Title",
+            "Department",
+            "Semester",
+            "Enrollment_Count",
+            "Room_Number"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of each teacher and what course they teach?",
+        "data": [
+            [
+                "Sarah Jenkins",
+                "Advanced Calculus I",
+                "Mathematics",
+                "Fall 24",
+                "32",
+                "Hall-B102"
+            ],
+            [
+                "Michael Chen",
+                "Introduction to Biology",
+                "Science",
+                "Spring 25",
+                "45",
+                "Lab-C301"
+            ],
+            [
+                "Emily Rodriguez",
+                "World History II",
+                "Humanities",
+                "Fall 24",
+                "28",
+                "Main-A105"
+            ],
+            [
+                "David Thompson",
+                "Computer Programming Basics",
+                "Technology",
+                "Winter 26",
+                "50",
+                "Tech-D204"
+            ],
+            [
+                "Lisa Wang",
+                "English Literature Analysis",
+                "Humanities",
+                "Spring 27",
+                "35",
+                "Lib-E110"
+            ],
+            [
+                "James O'Connor",
+                "Organic Chemistry",
+                "Science",
+                "Fall 23",
+                "40",
+                "Lab-F402"
+            ],
+            [
+                "Amanda Lewis",
+                "Statistics for Data Science",
+                "Mathematics",
+                "Winter 22",
+                "55",
+                "Math-G108"
+            ]
+        ]
+    }
+}

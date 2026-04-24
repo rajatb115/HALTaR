@@ -1,0 +1,55 @@
+{
+    "table-815-815": {
+        "title": [
+            "Superhero Name",
+            "Attribute Value",
+            "Skin Colour",
+            "Origin World",
+            "Power Level"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the skin colour of the superheroes with 100 attribute value.",
+        "data": [
+            [
+                "Captain Atom",
+                "476",
+                "Blue",
+                "Earth-One",
+                "High"
+            ],
+            [
+                "",
+                "120",
+                "Green",
+                "Prime Earth",
+                "Medium"
+            ],
+            [
+                "Mystique",
+                "300",
+                "Red",
+                "Marvel Universe",
+                "Variable"
+            ],
+            [
+                "",
+                "",
+                "",
+                "N/A",
+                "Low"
+            ],
+            [
+                "Rogue",
+                "500",
+                "",
+                "X-Men Reality",
+                "High"
+            ]
+        ]
+    }
+}

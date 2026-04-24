@@ -1,0 +1,76 @@
+{
+    "table-280-280": {
+        "title": [
+            "Bond_ID",
+            "Label_Type",
+            "Issuer_Name",
+            "Maturity_Date",
+            "Coupon_Rate",
+            "Credit_Rating",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the label for bond ID TR001_10_11?",
+        "data": [
+            [
+                "TR000_09_14",
+                "Corporate",
+                "TechGlobal Inc",
+                "06/15/2030",
+                "4.75%",
+                "AA+",
+                "Active"
+            ],
+            [
+                "TR100_A1_B2",
+                "Government",
+                "Federal Treasury",
+                "31/12/21010",
+                "N/A",
+                "AAA",
+                "Open"
+            ],
+            [
+                "TR011_0A_C3",
+                "Municipal",
+                "City Metro Authority",
+                "5 years from now",
+                "6.25%",
+                "BBB-",
+                "Active"
+            ],
+            [
+                "TSR_99_X_Y_Z",
+                "Convertible",
+                "BioPharma Corp",
+                "8 years from today",
+                "7.00%",
+                "BBB",
+                "Suspended"
+            ],
+            [
+                "TGB_LK_M_N_O",
+                "Zero-Coupon",
+                "Energy Holdings Ltd",
+                "Dec 30, 2125",
+                "9.50% (Accrued)",
+                "BB",
+                "Matured"
+            ],
+            [
+                "TXY_PQ_RS_TU",
+                "Senior Secured",
+                "Retail Giants LLC",
+                "Jan 1st, 3",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

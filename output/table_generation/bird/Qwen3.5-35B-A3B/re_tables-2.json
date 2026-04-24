@@ -1,0 +1,77 @@
+{
+    "table-2-2": {
+        "title": [
+            "School District",
+            "Student Age Range",
+            "Program Type",
+            "Free Rate Percentage",
+            "Eligibility Status",
+            "Lowest Rank"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the lowest three eligible free rates for students aged 5-17 in continuation schools.",
+        "data": [
+            [
+                "Westside Continuation High",
+                "5\u201317",
+                "Academic Support",
+                "4.2%",
+                "Fully Eligible",
+                "3rd"
+            ],
+            [
+                "Northgate Alternative Academy",
+                "6\u201316",
+                "Credit Recovery",
+                "8.5%",
+                "Partially Eligible*",
+                "7th"
+            ],
+            [
+                "Riverside Youth Center",
+                "9\u201318",
+                "Vocational Training",
+                "0.0%",
+                "Not Applicable**",
+                "N/A"
+            ],
+            [
+                "Oakwood Continuation Campus",
+                "5\u201317",
+                "Special Education",
+                "12.1%",
+                "Conditional***",
+                "1st"
+            ],
+            [
+                "Valley View Learning Hub",
+                "5\u201317",
+                "General Studies",
+                "15.3%",
+                "Unverified****",
+                "5th"
+            ],
+            [
+                "Sunset Bridge Charter",
+                "5\u201317",
+                "Dual Enrollment",
+                "20.4%",
+                "Pending Review",
+                "9th"
+            ],
+            [
+                "Harbor Point Institute",
+                "5\u201317",
+                "Career Prep",
+                "25.6%",
+                "Ineligible*****",
+                ""
+            ]
+        ]
+    }
+}

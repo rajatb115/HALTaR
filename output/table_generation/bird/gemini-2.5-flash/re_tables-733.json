@@ -1,0 +1,69 @@
+{
+    "table-733-733": {
+        "title": [
+            "Superhero Name",
+            "Publisher",
+            "Movement Type",
+            "Top Speed (mph)",
+            "Key Trait"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which publisher published the slowest superhero?",
+        "data": [
+            [
+                "Professor X",
+                "Marvel Comics",
+                "Wheelchair",
+                "5",
+                "Telepathic Genius"
+            ],
+            [
+                "MODOK",
+                "Marvel Comics",
+                "Hoverchair",
+                "10",
+                "Super-Intelligent"
+            ],
+            [
+                "The Thing",
+                "Marvel Comics",
+                "Walking",
+                "15",
+                "Super-Strength"
+            ],
+            [
+                "Swamp Thing",
+                "DC Comics",
+                "Walking/Root-based",
+                "3",
+                "Elemental Being"
+            ],
+            [
+                "Blob",
+                "Marvel Comics",
+                "Walking",
+                "8",
+                "Immovable Mass"
+            ],
+            [
+                "Man-Thing",
+                "Marvel Comics",
+                "Walking/Swamp-based",
+                "2",
+                "Empathic Monster"
+            ],
+            [
+                "Doomsday",
+                "DC Comics",
+                "Walking/Leaping",
+                "25",
+                "Unstoppable Force"
+            ]
+        ]
+    }
+}

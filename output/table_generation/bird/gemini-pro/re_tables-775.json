@@ -1,0 +1,37 @@
+{
+    "table-775-775": {
+        "title": [
+            "Superhero",
+            "Team Affiliation"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Superhero Affiliations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which group does superhero A-Bomb belong to?",
+        "data": [
+            [
+                "A-Bomb",
+                "Gamma Corps, Revengers"
+            ],
+            [
+                "Spider-Man",
+                "Avengers, Fantastic Four"
+            ],
+            [
+                "Wolverine",
+                "X-Men, Avengers"
+            ],
+            [
+                "Hulk",
+                "Avengers, Defenders"
+            ],
+            [
+                "Captain America",
+                "Avengers, Secret Avengers"
+            ]
+        ]
+    }
+}

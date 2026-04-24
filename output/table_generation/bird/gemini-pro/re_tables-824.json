@@ -1,0 +1,49 @@
+{
+    "table-824-824": {
+        "title": [
+            "Superhero",
+            "Publisher",
+            "Gender",
+            "Powers"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Female Superheroes in Marvel and DC",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female superheroes are in Marvel Comics?",
+        "data": [
+            [
+                "Spider-Woman",
+                "Marvel",
+                "Female",
+                "Super strength, wall-crawling, venom blasts"
+            ],
+            [
+                "Captain Marvel",
+                "Marvel",
+                "Female",
+                "Flight, energy projection, super strength"
+            ],
+            [
+                "Wonder Woman",
+                "DC",
+                "Female",
+                "Super strength, flight, combat skills"
+            ],
+            [
+                "Batgirl",
+                "DC",
+                "Female",
+                "Martial arts, detective skills, gadgets"
+            ],
+            [
+                "Storm",
+                "Marvel",
+                "Female",
+                "Weather manipulation, flight"
+            ]
+        ]
+    }
+}

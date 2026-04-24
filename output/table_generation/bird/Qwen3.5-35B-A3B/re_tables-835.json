@@ -1,0 +1,48 @@
+{
+    "table-835-835": {
+        "title": [
+            "Superhero Name",
+            "Creator",
+            "Gender",
+            "Creation Year",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all superheroes created by George Lucas, identify the percentage of female superheroes.",
+        "data": [
+            [
+                "Luke Skywalker",
+                "George Lucas",
+                "Male",
+                "1977",
+                "Active"
+            ],
+            [
+                "Leia Organa",
+                "George Lucas",
+                "Female",
+                "1977",
+                "Deceased"
+            ],
+            [
+                "Padm\u00e9 Amidala",
+                "George Lucas",
+                "Female",
+                "1996",
+                "Deceased"
+            ],
+            [
+                "Anakin Skywalker",
+                "George Lucas",
+                "Male",
+                "1999",
+                "Deceased"
+            ]
+        ]
+    }
+}

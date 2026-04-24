@@ -1,0 +1,77 @@
+{
+    "table-308-308": {
+        "title": [
+            "Department Name",
+            "Department ID",
+            "Description",
+            "Head",
+            "Budget (USD)",
+            "Location"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the description of the department whose name has the substring the computer?",
+        "data": [
+            [
+                "The Computer Science Department",
+                "CS001",
+                "Focuses on algorithms, data structures, and software development.",
+                "Dr. Alice Smith",
+                "1500000",
+                "Main Campus, Building A"
+            ],
+            [
+                "Information Technology Services",
+                "IT002",
+                "Manages network infrastructure, user support, and system administration.",
+                "Mr. Bob Johnson",
+                "2100000",
+                "Annex Building, Floor 3"
+            ],
+            [
+                "Electrical and Computer Engineering",
+                "ECE003",
+                "Combines hardware design, embedded systems, and software engineering.",
+                "Prof. Carol White",
+                "1800000",
+                "Engineering Hall"
+            ],
+            [
+                "Data Science and Analytics",
+                "DSA004",
+                "Applies statistical methods and machine learning to large datasets.",
+                "Dr. David Green",
+                "1200000",
+                "Research Tower, Level 5"
+            ],
+            [
+                "Cybersecurity Operations",
+                "CSO005",
+                "Protects digital assets from threats, manages security protocols and incident response.",
+                "Ms. Emily Black",
+                "950000",
+                "Secure Facility, Basement"
+            ],
+            [
+                "Research & Development (Computing)",
+                "RDC006",
+                "Explores new technologies, conducts experimental projects, and publishes findings.",
+                "Dr. Frank Blue",
+                "2500000",
+                "Innovation Lab"
+            ],
+            [
+                "Digital Media and Computer Graphics",
+                "DMCG007",
+                "Specializes in visual computing, animation, and interactive media design.",
+                "Prof. Grace Red",
+                "800000",
+                "Arts & Tech Center"
+            ]
+        ]
+    }
+}

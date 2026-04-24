@@ -1,0 +1,77 @@
+{
+    "table-1037-1037": {
+        "title": [
+            "Team Name",
+            "Year",
+            "Build-up Play Style",
+            "Pass Completion Rate (%)",
+            "Average Pass Length",
+            "Key Passes per Game"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the long name of teams with above-average build-up play passing in 2012.",
+        "data": [
+            [
+                "FC Barcelona",
+                "2012",
+                "Possession-based",
+                "91.5",
+                "Short",
+                "17.2"
+            ],
+            [
+                "Real Madrid CF",
+                "2012",
+                "Fluid Counter",
+                "88.3",
+                "Medium-Short",
+                "15.8"
+            ],
+            [
+                "Manchester United FC",
+                "2012",
+                "Controlled Build-up",
+                "87.9",
+                "Medium",
+                "14.5"
+            ],
+            [
+                "FC Bayern Munich",
+                "2012",
+                "Structured Passing",
+                "90.1",
+                "Short",
+                "16.5"
+            ],
+            [
+                "Juventus FC",
+                "2012",
+                "Tactical Possession",
+                "89.2",
+                "Medium-Short",
+                "13.9"
+            ],
+            [
+                "Borussia Dortmund",
+                "2012",
+                "High-Tempo Passing",
+                "86.7",
+                "Medium",
+                "14.1"
+            ],
+            [
+                "Paris Saint-Germain FC",
+                "2012",
+                "Technical Control",
+                "88.5",
+                "Short",
+                "15.1"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-1035-1035": {
+        "title": [
+            "Player Name",
+            "API ID",
+            "Overall Rating"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Players with Highest Above Average Overall Ratings in 2010",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the players' api id who had the highest above average overall ratings in 2010.",
+        "data": [
+            [
+                "Player A",
+                "12345",
+                "88"
+            ],
+            [
+                "Player B",
+                "67890",
+                "87"
+            ],
+            [
+                "Player C",
+                "13579",
+                "86"
+            ],
+            [
+                "Player D",
+                "24680",
+                "85"
+            ],
+            [
+                "Player E",
+                "98765",
+                "84"
+            ]
+        ]
+    }
+}

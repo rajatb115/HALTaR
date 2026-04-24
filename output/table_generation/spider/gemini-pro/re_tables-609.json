@@ -1,0 +1,39 @@
+{
+    "table-609-609": {
+        "title": [
+            "Treatment Type",
+            "Number of Dogs Treated"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Dog Treatment Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of dogs that went through a treatment.",
+        "data": [
+            [
+                "Chemotherapy",
+                "15"
+            ],
+            [
+                "Physical Therapy",
+                "23"
+            ],
+            [
+                "Acupuncture",
+                "12"
+            ],
+            [
+                "Hydrotherapy",
+                "18"
+            ],
+            [
+                "Medication",
+                "35"
+            ]
+        ]
+    }
+}

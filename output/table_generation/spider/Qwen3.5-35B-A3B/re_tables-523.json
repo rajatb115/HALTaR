@@ -1,0 +1,94 @@
+{
+    "table-523-523": {
+        "title": [
+            "Country Code",
+            "Country Name",
+            "Primary Language",
+            "Percentage Spoken",
+            "Population Estimate",
+            "Region",
+            "ISO Standard"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the country codes of the different countries, and what are the languages spoken by the greatest percentage of people for each?",
+        "data": [
+            [
+                "US",
+                "United States",
+                "English",
+                "78%",
+                "334M",
+                "North America",
+                "US/USA"
+            ],
+            [
+                "CN",
+                "China",
+                "Mandarin Chinese",
+                "65%",
+                "N/A",
+                "Asia",
+                "CN/CHN"
+            ],
+            [
+                "IN",
+                "India",
+                "Hindi",
+                "44%",
+                "NA",
+                "Asia",
+                "IN/IND"
+            ],
+            [
+                "BR",
+                "Brazil",
+                "Portuguese",
+                "98%",
+                "NA",
+                "South America",
+                "BR/BRA"
+            ],
+            [
+                "DE",
+                "Germany",
+                "German",
+                "88%",
+                "NA",
+                "Europe",
+                "DE/DEU"
+            ],
+            [
+                "JP",
+                "Japan",
+                "Japanese",
+                "5%",
+                "NA",
+                "Asia",
+                "JP/JPN"
+            ],
+            [
+                "FR",
+                "France",
+                "French",
+                "0%",
+                "NA",
+                "Europe",
+                "FR/FRA"
+            ],
+            [
+                "ES",
+                "Spain",
+                "Spanish",
+                "0%",
+                "NA",
+                "Europe",
+                "ES/ESP"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-1034-1034": {
+        "title": [
+            "Player Name",
+            "Birth Year",
+            "Height (cm)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Player Height Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average height of players born between 1990 and 1995?",
+        "data": [
+            [
+                "Player A",
+                "1991",
+                "185"
+            ],
+            [
+                "Player B",
+                "1993",
+                "190"
+            ],
+            [
+                "Player C",
+                "1990",
+                "180"
+            ],
+            [
+                "Player D",
+                "1995",
+                "200"
+            ],
+            [
+                "Player E",
+                "1992",
+                "175"
+            ]
+        ]
+    }
+}

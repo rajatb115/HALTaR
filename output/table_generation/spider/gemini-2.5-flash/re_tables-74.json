@@ -1,0 +1,62 @@
+{
+    "table-74-74": {
+        "title": [
+            "Make",
+            "Model",
+            "Year",
+            "Cylinders",
+            "Weight (lbs)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the smallest weight of the car produced with 8 cylinders on 1974 ?",
+        "data": [
+            [
+                "Ford",
+                "Mustang II Mach 1",
+                "1974",
+                "8",
+                "3200"
+            ],
+            [
+                "Plymouth",
+                "Barracuda",
+                "1974",
+                "8",
+                "3550"
+            ],
+            [
+                "Dodge",
+                "Challenger",
+                "1974",
+                "8",
+                "3600"
+            ],
+            [
+                "Chevrolet",
+                "Chevelle Malibu",
+                "1974",
+                "8",
+                "3750"
+            ],
+            [
+                "Pontiac",
+                "Firebird Trans Am",
+                "1974",
+                "8",
+                "3850"
+            ],
+            [
+                "AMC",
+                "Matador",
+                "1974",
+                "8",
+                "3900"
+            ]
+        ]
+    }
+}

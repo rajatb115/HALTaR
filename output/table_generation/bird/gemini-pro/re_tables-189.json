@@ -1,0 +1,53 @@
+{
+    "table-189-189": {
+        "title": [
+            "Account ID",
+            "Loan Validity (Months)",
+            "Approved Amount",
+            "Account Opening Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Loan Account Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the accounts who have loan validity more than 24 months, list out the accounts that have the lowest approved amount and have account opening date before 1997.",
+        "data": [
+            [
+                "12345",
+                "36",
+                "10000",
+                "1995-03-15"
+            ],
+            [
+                "67890",
+                "48",
+                "12000",
+                "1996-11-01"
+            ],
+            [
+                "24680",
+                "30",
+                "15000",
+                "1994-07-20"
+            ],
+            [
+                "13579",
+                "60",
+                "18000",
+                "1993-05-10"
+            ],
+            [
+                "98765",
+                "25",
+                "20000",
+                "1997-02-28"
+            ]
+        ]
+    }
+}

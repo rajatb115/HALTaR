@@ -1,0 +1,69 @@
+{
+    "table-165-165": {
+        "title": [
+            "Store ID",
+            "Store Name",
+            "City",
+            "State",
+            "Country"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of distinct store locations.",
+        "data": [
+            [
+                "1001",
+                "Central Plaza",
+                "New York",
+                "NY",
+                "USA"
+            ],
+            [
+                "1002",
+                "Lakeside Market",
+                "Chicago",
+                "IL",
+                "USA"
+            ],
+            [
+                "1003",
+                "Downtown Hub",
+                "Los Angeles",
+                "CA",
+                "USA"
+            ],
+            [
+                "1004",
+                "Midtown Branch",
+                "New York",
+                "NY",
+                "USA"
+            ],
+            [
+                "1005",
+                "Coastal Outlet",
+                "Miami",
+                "FL",
+                "USA"
+            ],
+            [
+                "1006",
+                "Mountain View",
+                "Denver",
+                "CO",
+                "USA"
+            ],
+            [
+                "1007",
+                "Riverfront Store",
+                "Chicago",
+                "IL",
+                "USA"
+            ]
+        ]
+    }
+}

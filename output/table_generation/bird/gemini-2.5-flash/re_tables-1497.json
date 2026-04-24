@@ -1,0 +1,61 @@
+{
+    "table-1497-1497": {
+        "title": [
+            "Client Segment",
+            "Month",
+            "Year",
+            "Consumption (USD)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which client segment consumed the least in September 2013?",
+        "data": [
+            [
+                "Individual",
+                "September",
+                "2013",
+                "85000"
+            ],
+            [
+                "Small Business",
+                "September",
+                "2013",
+                "160000"
+            ],
+            [
+                "Enterprise",
+                "September",
+                "2013",
+                "720000"
+            ],
+            [
+                "Government",
+                "September",
+                "2013",
+                "310000"
+            ],
+            [
+                "Non-Profit",
+                "September",
+                "2013",
+                "55000"
+            ],
+            [
+                "Individual",
+                "August",
+                "2013",
+                "82000"
+            ],
+            [
+                "Small Business",
+                "October",
+                "2013",
+                "175000"
+            ]
+        ]
+    }
+}

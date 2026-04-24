@@ -1,0 +1,55 @@
+{
+    "table-1416-1416": {
+        "title": [
+            "Member Name",
+            "Position",
+            "Major",
+            "Join Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the position of members who joined major of Business.",
+        "data": [
+            [
+                "Alice Smith",
+                "Student",
+                "Business",
+                "2022"
+            ],
+            [
+                "Bob Johnson",
+                "Team Lead",
+                "Business",
+                "2021"
+            ],
+            [
+                "Carol White",
+                "Project Coordinator",
+                "Business",
+                "2023"
+            ],
+            [
+                "David Green",
+                "Intern",
+                "Business",
+                "2022"
+            ],
+            [
+                "Emily Brown",
+                "Research Assistant",
+                "Business",
+                "2021"
+            ],
+            [
+                "Frank Black",
+                "Club President",
+                "Business",
+                "2020"
+            ]
+        ]
+    }
+}

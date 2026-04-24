@@ -1,0 +1,45 @@
+{
+    "table-429-429": {
+        "title": [
+            "Area Code",
+            "Contestant 1",
+            "Contestant 2"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Voter Area Code Overlap",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the area codes in which voters voted both for the contestant 'Tabatha Gehling' and the contestant 'Kelly Clauss'.",
+        "data": [
+            [
+                "205",
+                "Tabatha Gehling",
+                "Kelly Clauss"
+            ],
+            [
+                "615",
+                "Tabatha Gehling",
+                "Kelly Clauss"
+            ],
+            [
+                "713",
+                "Tabatha Gehling",
+                "Kelly Clauss"
+            ],
+            [
+                "423",
+                "Tabatha Gehling",
+                "Kelly Clauss"
+            ],
+            [
+                "301",
+                "Tabatha Gehling",
+                "Kelly Clauss"
+            ]
+        ]
+    }
+}

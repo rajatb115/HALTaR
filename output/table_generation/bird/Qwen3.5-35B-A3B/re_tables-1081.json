@@ -1,0 +1,85 @@
+{
+    "table-1081-1081": {
+        "title": [
+            "Player_Name",
+            "Preferred_Foot_Attack",
+            "Position_Maintained",
+            "Match_ID",
+            "Team_Affiliation",
+            "Season_Year",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the players whose preferred foot was the left foot when attacking, how many of them would remain in his position when the team attacked?",
+        "data": [
+            [
+                "Lionel Messi",
+                "Left",
+                "Yes",
+                "MCH-2024-012",
+                "FC Barcelona",
+                "76",
+                "Active"
+            ],
+            [
+                "Kylian Mbapp\u00e9",
+                "Right",
+                "No",
+                "MCK-2405-003",
+                "PSG",
+                "82",
+                "Injured"
+            ],
+            [
+                "Vin\u00edcius J\u00fanior",
+                "Left",
+                "Yes",
+                "MVC-2311-099",
+                "Real Madrid",
+                "91",
+                "Active"
+            ],
+            [
+                "Mohamed Salah",
+                "Right",
+                "Yes",
+                "MSF-2208-044",
+                "Liverpool",
+                "65",
+                "Suspended"
+            ],
+            [
+                "Rafael Le\u00e3o",
+                "Left",
+                "No",
+                "RLA-2109-022",
+                "AC Milan",
+                "54",
+                "Transferred"
+            ],
+            [
+                "Jadon Sancho",
+                "Both",
+                "N/A",
+                "JSC-2501-110",
+                "Manchester Utd",
+                "33",
+                "Loaned Out"
+            ],
+            [
+                "Antony",
+                "Left",
+                "Yes",
+                "ANT-2602-088",
+                "Ajax",
+                "",
+                ""
+            ]
+        ]
+    }
+}

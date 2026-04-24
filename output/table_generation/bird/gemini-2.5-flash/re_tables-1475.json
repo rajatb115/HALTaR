@@ -1,0 +1,69 @@
+{
+    "table-1475-1475": {
+        "title": [
+            "Customer Name",
+            "Currency",
+            "Year",
+            "Gas Consumption (MWh)",
+            "Industry"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which customers, paying in CZK, consumed the most gas in 2011?",
+        "data": [
+            [
+                "Prague Steelworks s.r.o.",
+                "CZK",
+                "2011",
+                "185000",
+                "Manufacturing"
+            ],
+            [
+                "Czech Chemical Plants a.s.",
+                "CZK",
+                "2011",
+                "210000",
+                "Chemicals"
+            ],
+            [
+                "Brno Glassworks Ltd.",
+                "CZK",
+                "2011",
+                "120000",
+                "Glass Production"
+            ],
+            [
+                "Ostrava Energy Solutions",
+                "CZK",
+                "2011",
+                "195000",
+                "Energy"
+            ],
+            [
+                "Pilsen Brewery Group",
+                "CZK",
+                "2011",
+                "95000",
+                "Food & Beverage"
+            ],
+            [
+                "Karlovy Vary Ceramics",
+                "CZK",
+                "2011",
+                "110000",
+                "Ceramics"
+            ],
+            [
+                "Liberec Textile Mills",
+                "CZK",
+                "2011",
+                "88000",
+                "Textiles"
+            ]
+        ]
+    }
+}

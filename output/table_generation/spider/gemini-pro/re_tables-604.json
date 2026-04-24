@@ -1,0 +1,43 @@
+{
+    "table-604-604": {
+        "title": [
+            "Name",
+            "Email",
+            "State"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Contact Information by State",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the emails of the professionals who live in the state of Hawaii or the state of Wisconsin.",
+        "data": [
+            [
+                "John Smith",
+                "john.smith@example.com",
+                "Hawaii"
+            ],
+            [
+                "Alice Johnson",
+                "alice.johnson@example.com",
+                "Wisconsin"
+            ],
+            [
+                "Bob Williams",
+                "bob.williams@example.com",
+                "Hawaii"
+            ],
+            [
+                "Carol Davis",
+                "carol.davis@example.com",
+                "Wisconsin"
+            ],
+            [
+                "Eve Brown",
+                "eve.brown@example.com",
+                "Hawaii"
+            ]
+        ]
+    }
+}

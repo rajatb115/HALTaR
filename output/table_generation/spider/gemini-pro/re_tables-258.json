@@ -1,0 +1,45 @@
+{
+    "table-258-258": {
+        "title": [
+            "First Name",
+            "Country Code",
+            "Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Player Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the first name and country code of the oldest player?",
+        "data": [
+            [
+                "John",
+                "USA",
+                "30"
+            ],
+            [
+                "Maria",
+                "ESP",
+                "28"
+            ],
+            [
+                "Kenji",
+                "JPN",
+                "35"
+            ],
+            [
+                "Irina",
+                "RUS",
+                "32"
+            ],
+            [
+                "Ahmed",
+                "EGY",
+                "29"
+            ]
+        ]
+    }
+}

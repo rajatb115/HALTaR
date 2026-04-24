@@ -1,0 +1,77 @@
+{
+    "table-101-101": {
+        "title": [
+            "CustomerID",
+            "Gender",
+            "BirthYear",
+            "City",
+            "AccountStatus",
+            "AccountOpenDate"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the account opened, how many female customers who were born before 1950 and stayed in Slokolov?",
+        "data": [
+            [
+                "1001",
+                "Female",
+                "1945",
+                "Slokolov",
+                "Active",
+                "1998-03-15"
+            ],
+            [
+                "1002",
+                "Female",
+                "1962",
+                "Slokolov",
+                "Active",
+                "2005-07-22"
+            ],
+            [
+                "1003",
+                "Male",
+                "1938",
+                "Slokolov",
+                "Active",
+                "1990-11-01"
+            ],
+            [
+                "1004",
+                "Female",
+                "1948",
+                "Prague",
+                "Active",
+                "2001-01-10"
+            ],
+            [
+                "1005",
+                "Female",
+                "1942",
+                "Slokolov",
+                "Closed",
+                "1995-06-05"
+            ],
+            [
+                "1006",
+                "Female",
+                "1935",
+                "Slokolov",
+                "Active",
+                "1988-09-20"
+            ],
+            [
+                "1007",
+                "Male",
+                "1955",
+                "Brno",
+                "Inactive",
+                "2010-04-12"
+            ]
+        ]
+    }
+}

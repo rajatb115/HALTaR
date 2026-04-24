@@ -1,0 +1,53 @@
+{
+    "table-190-190": {
+        "title": [
+            "Account Number",
+            "Gender",
+            "Age",
+            "Average Salary"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2,
+            3
+        ],
+        "pgTitle": "Oldest Female Clients with Lowest Average Salary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the account numbers of female clients who are oldest and have lowest average salary?",
+        "data": [
+            [
+                "12345",
+                "Female",
+                "65",
+                "30000"
+            ],
+            [
+                "67890",
+                "Female",
+                "62",
+                "32000"
+            ],
+            [
+                "24680",
+                "Female",
+                "60",
+                "35000"
+            ],
+            [
+                "13579",
+                "Female",
+                "58",
+                "38000"
+            ],
+            [
+                "98765",
+                "Female",
+                "55",
+                "40000"
+            ]
+        ]
+    }
+}

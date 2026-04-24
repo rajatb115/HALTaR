@@ -1,0 +1,43 @@
+{
+    "table-1493-1493": {
+        "title": [
+            "Customer Type",
+            "Payment Currency",
+            "Percentage"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Customer Payment Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of KAM customers pay in euros?",
+        "data": [
+            [
+                "KAM",
+                "USD",
+                "60%"
+            ],
+            [
+                "KAM",
+                "EUR",
+                "30%"
+            ],
+            [
+                "KAM",
+                "GBP",
+                "10%"
+            ],
+            [
+                "SMB",
+                "USD",
+                "75%"
+            ],
+            [
+                "SMB",
+                "EUR",
+                "20%"
+            ]
+        ]
+    }
+}

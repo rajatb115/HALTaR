@@ -1,0 +1,73 @@
+{
+    "table-559-559": {
+        "title": [
+            "User ID",
+            "Full Name",
+            "Role",
+            "Department",
+            "Status",
+            "Last Login Date",
+            "Account Created",
+            "Email Domain"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is Kyle's id?",
+        "data": [
+            [
+                "KYL-4921",
+                "Kyle Anderson",
+                "Analyst",
+                "Finance",
+                "Active",
+                "7/16/2024",
+                "3/12/2021",
+                "company.com"
+            ],
+            [
+                "KYL-8832",
+                "Kyle Thompson",
+                "Developer",
+                "Engineering",
+                "Inactive",
+                "N/A",
+                "9/5/2022",
+                "tech.io"
+            ],
+            [
+                "KYB-1104",
+                "Kyle Brown",
+                "Manager",
+                "Sales",
+                "Pending Review",
+                "8/1/2024",
+                "5/10/2023",
+                "corp.net"
+            ],
+            [
+                "KLW-3391",
+                "Kevin Lee",
+                "Intern",
+                "Marketing",
+                "Suspended",
+                "6/30/1990",
+                "N/A",
+                "mail.org"
+            ],
+            [
+                "KRJ-5520",
+                "Robert King",
+                "Director",
+                "HR",
+                "Active",
+                "7/15/2000",
+                "1/11/2010",
+                "staff.co"
+            ]
+        ]
+    }
+}

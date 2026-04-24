@@ -1,0 +1,83 @@
+{
+    "table-648-648": {
+        "title": [
+            "User ID",
+            "Location",
+            "Badge Name",
+            "Award Date",
+            "Category",
+            "Status",
+            "Points Earned",
+            "Issuer"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the badge names received in 2011 for the user whose location is in the North Pole.",
+        "data": [
+            [
+                "U7492",
+                "North Pole",
+                "Arctic Explorer",
+                "03/15/2021",
+                "Geography",
+                "Active",
+                "500",
+                "Global Map Team"
+            ],
+            [
+                "U7488",
+                "North Station",
+                "Polar Pioneer",
+                "06/22/2111",
+                "Exploration",
+                "Inactive",
+                "750",
+                "Ice Cap Council"
+            ],
+            [
+                "U7455",
+                "North Base Camp",
+                "Winter Guardian",
+                "09/10/2311",
+                "Survival",
+                "Pending",
+                "N/A",
+                "Field Ops Unit"
+            ],
+            [
+                "U8821",
+                "North Sector",
+                "Snow Walker",
+                "04/01/2411",
+                "Adventure",
+                "Completed",
+                "300",
+                "Community Leaders"
+            ],
+            [
+                "U9902",
+                "Magnetic North",
+                "Compass Master",
+                "08/18/2511",
+                "Navigation",
+                "Verified",
+                "",
+                "Tech Guild"
+            ],
+            [
+                "U1023",
+                "Deep Freeze Zone",
+                "Glacier Guide",
+                "12/31/2611",
+                "Environment",
+                "Retired",
+                "N/A",
+                "Eco Watchers"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-1437-1437": {
+        "title": [
+            "Event Name",
+            "Event Date",
+            "Event Link",
+            "Required Payment",
+            "Member Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide links to events for members who have paid more than 50 dollar.",
+        "data": [
+            [
+                "Annual Gala Dinner",
+                "2024-11-15",
+                "https://events.org/gala2024",
+                "$100",
+                "Premium"
+            ],
+            [
+                "Exclusive Workshop Series",
+                "2024-09-22",
+                "https://events.org/workshop-series",
+                "$75",
+                "Gold"
+            ],
+            [
+                "Leadership Summit",
+                "2025-01-10",
+                "https://events.org/summit2025",
+                "$150",
+                "Platinum"
+            ],
+            [
+                "Networking Mixer",
+                "2024-10-05",
+                "https://events.org/mixer-oct",
+                "$60",
+                "Silver"
+            ],
+            [
+                "Advanced Analytics Seminar",
+                "2024-12-01",
+                "https://events.org/analytics-sem",
+                "$90",
+                "Gold"
+            ],
+            [
+                "Volunteer Appreciation Brunch",
+                "2025-02-20",
+                "https://events.org/volunteer-brunch",
+                "$55",
+                "Premium"
+            ]
+        ]
+    }
+}

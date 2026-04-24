@@ -1,0 +1,39 @@
+{
+    "table-65-65": {
+        "title": [
+            "Manufacturer",
+            "Year"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Car Manufacturers and Production Years",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of the different car makers who produced a car in 1970?",
+        "data": [
+            [
+                "Ford",
+                "1970"
+            ],
+            [
+                "Chevrolet",
+                "1970"
+            ],
+            [
+                "Plymouth",
+                "1970"
+            ],
+            [
+                "Dodge",
+                "1970"
+            ],
+            [
+                "Pontiac",
+                "1970"
+            ]
+        ]
+    }
+}

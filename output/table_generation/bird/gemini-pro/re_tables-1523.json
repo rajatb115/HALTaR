@@ -1,0 +1,59 @@
+{
+    "table-1523-1523": {
+        "title": [
+            "Customer ID",
+            "Month",
+            "Year",
+            "Amount Spent",
+            "Currency"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            2,
+            3
+        ],
+        "pgTitle": "Customer Spending by Currency",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "There's one customer spent 214582.17 in the June of 2013, which currency did he/she use?",
+        "data": [
+            [
+                "12345",
+                "June",
+                "2013",
+                "214582.17",
+                "USD"
+            ],
+            [
+                "67890",
+                "July",
+                "2013",
+                "150000.00",
+                "EUR"
+            ],
+            [
+                "24680",
+                "August",
+                "2013",
+                "75000.50",
+                "GBP"
+            ],
+            [
+                "13579",
+                "June",
+                "2014",
+                "300000.00",
+                "JPY"
+            ],
+            [
+                "98765",
+                "May",
+                "2013",
+                "100000.00",
+                "CAD"
+            ]
+        ]
+    }
+}

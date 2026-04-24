@@ -1,0 +1,31 @@
+{
+    "table-116-116": {
+        "title": [
+            "Airline Code",
+            "Full Airline Name",
+            "Country",
+            "IATA Code",
+            "Status",
+            "Founded",
+            "Hub Airport"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airline has abbreviation 'UAL'?",
+        "data": [
+            [
+                "UAL",
+                "United Airlines",
+                "USA",
+                "UA",
+                "Active",
+                "1926",
+                "O'Hare International Airport"
+            ]
+        ]
+    }
+}

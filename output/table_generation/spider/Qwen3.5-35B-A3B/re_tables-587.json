@@ -1,0 +1,41 @@
+{
+    "table-587-587": {
+        "title": [
+            "Owner ID",
+            "Total Spent ($)",
+            "Zip Code",
+            "Dog Count",
+            "Last Transaction Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the owner id and zip code of the owner who spent the most money in total for his or her dogs.",
+        "data": [
+            [
+                "O-4921",
+                "4520.75",
+                "60614",
+                "3",
+                "03/15/2024"
+            ],
+            [
+                "O-1038",
+                "8932.40",
+                "",
+                "",
+                ""
+            ],
+            [
+                "O-A77B",
+                "7105.20",
+                "M-1234",
+                "5",
+                ""
+            ]
+        ]
+    }
+}

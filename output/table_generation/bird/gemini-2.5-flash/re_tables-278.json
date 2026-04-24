@@ -1,0 +1,77 @@
+{
+    "table-278-278": {
+        "title": [
+            "Bond ID",
+            "Toxicology Element",
+            "Concentration (ppm)",
+            "Detection Method",
+            "Regulatory Limit (ppm)",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the toxicology elements associated with bond ID TR005_16_26?",
+        "data": [
+            [
+                "TR005_16_26",
+                "Lead",
+                "0.008",
+                "ICP-MS",
+                "0.01",
+                "Compliant"
+            ],
+            [
+                "TR005_16_26",
+                "Cadmium",
+                "0.003",
+                "AAS",
+                "0.005",
+                "Compliant"
+            ],
+            [
+                "TR005_16_26",
+                "Mercury",
+                "0.002",
+                "CVAA",
+                "0.001",
+                "Exceeds Limit"
+            ],
+            [
+                "TR005_16_26",
+                "Arsenic",
+                "0.007",
+                "ICP-MS",
+                "0.01",
+                "Compliant"
+            ],
+            [
+                "TR005_16_26",
+                "Benzene",
+                "0.001",
+                "GC-MS",
+                "0.005",
+                "Compliant"
+            ],
+            [
+                "TR005_16_26",
+                "Dioxins",
+                "0.000002",
+                "HRGC-HRMS",
+                "0.000001",
+                "Exceeds Limit"
+            ],
+            [
+                "TR005_16_26",
+                "PFAS (Total)",
+                "0.00005",
+                "LC-MS/MS",
+                "0.00007",
+                "Compliant"
+            ]
+        ]
+    }
+}

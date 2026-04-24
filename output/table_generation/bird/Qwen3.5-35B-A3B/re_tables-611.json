@@ -1,0 +1,61 @@
+{
+    "table-611-611": {
+        "title": [
+            "User_ID",
+            "Reputation_Score",
+            "Badge_Name",
+            "Category",
+            "Date_Achieved",
+            "Platform_Source"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of badges that users who have the highest reputation obtained?",
+        "data": [
+            [
+                "U_7492",
+                "98500",
+                "Legendary",
+                "Community",
+                "06/15/2023",
+                "StackOverflow"
+            ],
+            [
+                "U_1029",
+                "8720",
+                "Civic Duty",
+                "Moderation",
+                "03/22/2024",
+                "MetaStackExchange"
+            ],
+            [
+                "U_3381",
+                "764000",
+                "Great Answer",
+                "Top Contributor",
+                "04/10/2023",
+                "GitHub"
+            ],
+            [
+                "U_5512",
+                "",
+                "Gold Star",
+                "Achievement",
+                "05/01/2021",
+                "Reddit"
+            ],
+            [
+                "U_Ultima",
+                "",
+                "Infinite Wisdom",
+                "Knowledge Base",
+                "N/A",
+                "UnknownPlatform"
+            ]
+        ]
+    }
+}

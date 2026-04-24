@@ -1,0 +1,46 @@
+{
+    "table-424-424": {
+        "title": [
+            "Area Code",
+            "Minimum Value",
+            "Maximum Value"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Area Code Ranges",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the maximum and minimum values of area codes?",
+        "data": [
+            [
+                "201",
+                "-100",
+                "500"
+            ],
+            [
+                "202",
+                "0",
+                "1000"
+            ],
+            [
+                "203",
+                "-50",
+                "750"
+            ],
+            [
+                "204",
+                "-25",
+                "250"
+            ],
+            [
+                "205",
+                "-125",
+                "125"
+            ]
+        ]
+    }
+}

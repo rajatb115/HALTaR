@@ -1,0 +1,77 @@
+{
+    "table-82-82": {
+        "title": [
+            "Model Name",
+            "Fuel Economy MPG",
+            "Engine Size Liters",
+            "Vehicle Class",
+            "Price USD",
+            "Release Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which model saves the most gasoline? That is to say, have the maximum miles per gallon.",
+        "data": [
+            [
+                "Prius Prime",
+                "54",
+                "0.6",
+                "Compact Hybrid",
+                "$27,450",
+                "2023"
+            ],
+            [
+                "Corolla Hybrid",
+                "49",
+                "1.8",
+                "Sedan",
+                "$19,500",
+                "2022"
+            ],
+            [
+                "Civic Hybrid",
+                "48",
+                "2.0",
+                "Hatchback",
+                "$32,100",
+                "2021"
+            ],
+            [
+                "Camry Hybrid",
+                "52",
+                "2.5",
+                "Midsize Sedan",
+                "$28,900",
+                "2022"
+            ],
+            [
+                "Accord Hybrid",
+                "38",
+                "2.0",
+                "Sedan",
+                "$30,205",
+                "2020"
+            ],
+            [
+                "Insight",
+                "55",
+                "1.5",
+                "Subcompact",
+                "$23,150",
+                "2023"
+            ],
+            [
+                "Clarity Plug-in",
+                "-",
+                "N/A",
+                "Full-size",
+                "$40,000",
+                "-"
+            ]
+        ]
+    }
+}

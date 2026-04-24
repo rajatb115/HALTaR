@@ -1,0 +1,43 @@
+{
+    "table-199-199": {
+        "title": [
+            "Property",
+            "Description",
+            "Example"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Common Properties of Carcinogenic Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "On average how many carcinogenic molecules are single bonded?",
+        "data": [
+            [
+                "Molecular Weight (g/mol)",
+                "Average mass of one molecule",
+                "78.11 (Benzene)"
+            ],
+            [
+                "Bonding Type",
+                "Type of chemical bonds present",
+                "Single, Double, Aromatic"
+            ],
+            [
+                "Presence of Single Bonds",
+                "Indicates saturation and stability",
+                "Common in alkyl groups"
+            ],
+            [
+                "Carcinogenicity",
+                "Ability to cause cancer",
+                "Classified by IARC (Group 1, 2A, 2B)"
+            ],
+            [
+                "Common Elements",
+                "Most abundant elements",
+                "Carbon, Hydrogen, Oxygen, Nitrogen"
+            ]
+        ]
+    }
+}

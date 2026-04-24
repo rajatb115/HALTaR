@@ -1,0 +1,61 @@
+{
+    "table-148-148": {
+        "title": [
+            "Store Name",
+            "Location",
+            "Number of Products",
+            "Store Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the minimum and maximum number of products of all stores.",
+        "data": [
+            [
+                "Global Mart",
+                "New York",
+                "15000",
+                "Supermarket"
+            ],
+            [
+                "Tech Haven",
+                "San Francisco",
+                "3500",
+                "Electronics"
+            ],
+            [
+                "Book Nook",
+                "London",
+                "8000",
+                "Bookstore"
+            ],
+            [
+                "Fashion Hub",
+                "Paris",
+                "6000",
+                "Apparel"
+            ],
+            [
+                "Home Essentials",
+                "Berlin",
+                "12000",
+                "Home Goods"
+            ],
+            [
+                "Pet Paradise",
+                "Tokyo",
+                "2500",
+                "Pet Supplies"
+            ],
+            [
+                "Auto Zone",
+                "Dallas",
+                "4000",
+                "Automotive"
+            ]
+        ]
+    }
+}

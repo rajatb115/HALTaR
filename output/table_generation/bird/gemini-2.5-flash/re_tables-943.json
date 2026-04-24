@@ -1,0 +1,77 @@
+{
+    "table-943-943": {
+        "title": [
+            "Race Name",
+            "Year",
+            "Track",
+            "Driver",
+            "Fastest Lap Time (s)",
+            "Lap Number"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average fastest lap time in seconds for Lewis Hamilton in all the Formula_1 races?",
+        "data": [
+            [
+                "Bahrain Grand Prix",
+                "2021",
+                "Bahrain International Circuit",
+                "Lewis Hamilton",
+                "94.042",
+                "44"
+            ],
+            [
+                "Spanish Grand Prix",
+                "2021",
+                "Circuit de Barcelona-Catalunya",
+                "Lewis Hamilton",
+                "80.725",
+                "60"
+            ],
+            [
+                "Monaco Grand Prix",
+                "2021",
+                "Circuit de Monaco",
+                "Lewis Hamilton",
+                "74.090",
+                "55"
+            ],
+            [
+                "British Grand Prix",
+                "2021",
+                "Silverstone Circuit",
+                "Lewis Hamilton",
+                "89.287",
+                "50"
+            ],
+            [
+                "Italian Grand Prix",
+                "2021",
+                "Autodromo Nazionale Monza",
+                "Lewis Hamilton",
+                "84.066",
+                "48"
+            ],
+            [
+                "Abu Dhabi Grand Prix",
+                "2021",
+                "Yas Marina Circuit",
+                "Lewis Hamilton",
+                "90.739",
+                "53"
+            ],
+            [
+                "Brazilian Grand Prix",
+                "2021",
+                "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+                "Lewis Hamilton",
+                "71.054",
+                "65"
+            ]
+        ]
+    }
+}

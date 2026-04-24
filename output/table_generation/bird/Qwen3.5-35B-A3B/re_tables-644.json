@@ -1,0 +1,76 @@
+{
+    "table-644-644": {
+        "title": [
+            "Display_Name",
+            "Age",
+            "Total_Views",
+            "Rank",
+            "Status",
+            "Last_Active_Date",
+            "Account_ID"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the display names and ages of user who got the highest in views?",
+        "data": [
+            [
+                "Alex Chen",
+                "42",
+                "9876543",
+                "0",
+                "Active",
+                "5/15/2024",
+                "USR-100234"
+            ],
+            [
+                "Jordan Smith",
+                "35",
+                "8721090",
+                "7",
+                "Inactive",
+                "6/1/2024",
+                "USR-192837"
+            ],
+            [
+                "Taylor Doe",
+                "29",
+                "7600050",
+                "12",
+                "Pending",
+                "4/30/2025",
+                "USR-203948"
+            ],
+            [
+                "Casey Johnson",
+                "",
+                "N/A",
+                "N/A",
+                "Suspended",
+                "March 1st",
+                "USR-304059"
+            ],
+            [
+                "Morgan Lee",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Samuel Kim",
+                "38",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

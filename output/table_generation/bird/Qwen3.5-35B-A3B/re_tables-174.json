@@ -1,0 +1,85 @@
+{
+    "table-174-174": {
+        "title": [
+            "Account Number",
+            "Request Frequency",
+            "Transaction ID",
+            "Debit Amount",
+            "Purpose Category",
+            "Status",
+            "Release Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How often does account number 3 request an account statement to be released? What was the aim of debiting 3539 in total?",
+        "data": [
+            [
+                "3",
+                "Monthly",
+                "TXN-3501-A",
+                "$450.00",
+                "Statement Generation",
+                "Completed",
+                "01/15/2023"
+            ],
+            [
+                "###",
+                "Quarterly",
+                "TXT-3602-B",
+                "$120.50",
+                "Fee Assessment",
+                "Pending",
+                "N/A"
+            ],
+            [
+                "####",
+                "Bi-weekly",
+                "TRX-3703-C",
+                "$89.99",
+                "Service Charge",
+                "Completed",
+                "02/01/2023"
+            ],
+            [
+                "#####",
+                "Annual",
+                "TST-3804-D",
+                "$2,500.10",
+                "Audit Review",
+                "In Progress",
+                "N.A."
+            ],
+            [
+                "######",
+                "Weekly",
+                "TWK-3905-E",
+                "$35.05",
+                "Interest Adjustment",
+                "Failed",
+                "N/a"
+            ],
+            [
+                "#######",
+                "Daily",
+                "TDY-4006-F",
+                "$5.55",
+                "Penalty Application",
+                "Cancelled",
+                "N.a"
+            ],
+            [
+                "########",
+                "On Demand",
+                "TOD-4107-G",
+                "$0.9",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

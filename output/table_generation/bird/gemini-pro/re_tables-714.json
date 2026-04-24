@@ -1,0 +1,45 @@
+{
+    "table-714-714": {
+        "title": [
+            "Comment",
+            "User",
+            "Upvotes"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "User Comments and Upvotes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the up vote number of the user that commented \"R is also lazy evaluated.\"?",
+        "data": [
+            [
+                "R is also lazy evaluated.",
+                "austin9999",
+                "2"
+            ],
+            [
+                "Thank you! This is very helpful",
+                "randomUser",
+                "5"
+            ],
+            [
+                "I have a question regarding the dataset",
+                "exampleUser",
+                "1"
+            ],
+            [
+                "Great explanation!",
+                "learningAI",
+                "3"
+            ],
+            [
+                "Can you provide more details?",
+                "dataAnalyst",
+                "0"
+            ]
+        ]
+    }
+}

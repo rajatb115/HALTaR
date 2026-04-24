@@ -1,0 +1,112 @@
+{
+    "table-573-573": {
+        "title": [
+            "Student ID",
+            "Grade Level",
+            "Friend Count",
+            "Status",
+            "Last Updated",
+            "School District",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 10,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the lowest grade of students who do not have any friends?",
+        "data": [
+            [
+                "S1042",
+                "Kindergarten",
+                "0",
+                "Isolated",
+                "6/15/2023",
+                "Northside",
+                "No recorded interactions"
+            ],
+            [
+                "S1055",
+                "First Grade",
+                "3",
+                "Active",
+                "7/2/23",
+                "",
+                ""
+            ],
+            [
+                "Southview",
+                "Regular social group",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "--",
+                "--",
+                "--",
+                "--",
+                "",
+                "",
+                ""
+            ],
+            [
+                "S2011",
+                "Second Grade",
+                "-1",
+                "Error",
+                "N/A",
+                "Westend",
+                "Data entry issue resolved"
+            ],
+            [
+                "Tara L.",
+                "Third Grade",
+                "None",
+                "Unlisted",
+                "8/10/24",
+                "Eastgate",
+                "Parent reported no peers"
+            ],
+            [
+                "Miguel R.",
+                "Fourth Grade",
+                "Zero",
+                "Confirmed",
+                "9/1/22",
+                "Central",
+                "Quiet student profile"
+            ],
+            [
+                "Ava J.",
+                "Fifth Grade",
+                "Null",
+                "Pending Review",
+                "5/30/19",
+                "Riverside",
+                "Needs counselor check-in"
+            ],
+            [
+                "Leo K.",
+                "Sixth Grade",
+                "Absentee",
+                "Flagged",
+                "4/12/18",
+                "Oakwood",
+                "Truancy linked to isolation"
+            ],
+            [
+                "Zoe M.",
+                "Seventh Grade",
+                "One",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

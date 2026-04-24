@@ -1,0 +1,61 @@
+{
+    "table-501-501": {
+        "title": [
+            "City Name",
+            "Country/Region",
+            "Official Language",
+            "Continent"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the different names of cities that are in Asia and for which Chinese is the official language.",
+        "data": [
+            [
+                "Beijing",
+                "China",
+                "Mandarin Chinese",
+                "Asia"
+            ],
+            [
+                "Shanghai",
+                "China",
+                "Mandarin Chinese",
+                "Asia"
+            ],
+            [
+                "Taipei",
+                "Taiwan",
+                "Mandarin Chinese",
+                "Asia"
+            ],
+            [
+                "Singapore",
+                "Singapore",
+                "Mandarin Chinese",
+                "Asia"
+            ],
+            [
+                "Hong Kong",
+                "Hong Kong",
+                "Cantonese Chinese",
+                "Asia"
+            ],
+            [
+                "Macau",
+                "Macau",
+                "Cantonese Chinese",
+                "Asia"
+            ],
+            [
+                "Guangzhou",
+                "China",
+                "Mandarin Chinese",
+                "Asia"
+            ]
+        ]
+    }
+}

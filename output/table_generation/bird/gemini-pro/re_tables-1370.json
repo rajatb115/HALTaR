@@ -1,0 +1,37 @@
+{
+    "table-1370-1370": {
+        "title": [
+            "Event Name",
+            "Budget Amount"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Event Budgets",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which event has the highest budget amount?",
+        "data": [
+            [
+                "Opening Ceremony",
+                "$10,000,000"
+            ],
+            [
+                "Keynote Speech",
+                "$5,000,000"
+            ],
+            [
+                "Closing Concert",
+                "$7,500,000"
+            ],
+            [
+                "Tech Expo",
+                "$2,000,000"
+            ],
+            [
+                "Charity Auction",
+                "$1,000,000"
+            ]
+        ]
+    }
+}

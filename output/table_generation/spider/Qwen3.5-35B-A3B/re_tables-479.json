@@ -1,0 +1,85 @@
+{
+    "table-479-479": {
+        "title": [
+            "Country",
+            "Official Language(s)",
+            "Mean Life Expectancy (Years)",
+            "Region",
+            "Population Estimate",
+            "GDP per Capita (USD)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the mean life expectancy of countries in which English is not the official language.",
+        "data": [
+            [
+                "France",
+                "French",
+                "82.7",
+                "Europe",
+                "68 million",
+                "43,000"
+            ],
+            [
+                "Germany",
+                "German",
+                "79.8",
+                "Europe",
+                "84 million",
+                "51,020"
+            ],
+            [
+                "Japan",
+                "Japanese",
+                "90.5",
+                "Asia",
+                "126 million",
+                "39,285"
+            ],
+            [
+                "Brazil",
+                "Portuguese",
+                "76.0",
+                "South America",
+                "215 million",
+                "8,900"
+            ],
+            [
+                "Italy",
+                "Italian",
+                "83.5",
+                "Europe",
+                "59 million",
+                "35,000"
+            ],
+            [
+                "Spain",
+                "Spanish",
+                "83.5",
+                "Europe",
+                "47 million",
+                "30,000"
+            ],
+            [
+                "Mexico",
+                "Spanish",
+                "75.0",
+                "North America",
+                "128 million",
+                "10,000"
+            ],
+            [
+                "Russia",
+                "Russian",
+                "72.5",
+                "Europe",
+                "144 million",
+                "11,000"
+            ]
+        ]
+    }
+}

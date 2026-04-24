@@ -1,0 +1,58 @@
+{
+    "table-552-552": {
+        "title": [
+            "Student ID",
+            "Name",
+            "Grade Level",
+            "Course",
+            "Grade"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "High School Student Grades",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all the grades of the high schoolers.",
+        "data": [
+            [
+                "12345",
+                "Alice Smith",
+                "9",
+                "Math",
+                "A"
+            ],
+            [
+                "67890",
+                "Bob Johnson",
+                "10",
+                "English",
+                "B"
+            ],
+            [
+                "24680",
+                "Carol Williams",
+                "11",
+                "History",
+                "C"
+            ],
+            [
+                "13579",
+                "David Brown",
+                "12",
+                "Science",
+                "A"
+            ],
+            [
+                "98765",
+                "Eve Davis",
+                "9",
+                "Computer Science",
+                "B+"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1004-1004": {
+        "title": [
+            "Driver Name",
+            "Grand Prix",
+            "Year",
+            "Accidents Count",
+            "Team",
+            "Race Outcome"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accidents did the driver who had the highest number accidents in the Canadian Grand Prix have?",
+        "data": [
+            [
+                "Ayrton Senna",
+                "Canadian Grand Prix",
+                "1989",
+                "2",
+                "McLaren",
+                "DNF"
+            ],
+            [
+                "Michael Schumacher",
+                "Canadian Grand Prix",
+                "2001",
+                "1",
+                "Ferrari",
+                "DNF"
+            ],
+            [
+                "Lewis Hamilton",
+                "Canadian Grand Prix",
+                "2011",
+                "1",
+                "McLaren",
+                "DNF"
+            ],
+            [
+                "Max Verstappen",
+                "Canadian Grand Prix",
+                "2017",
+                "1",
+                "Red Bull Racing",
+                "DNF"
+            ],
+            [
+                "Juan Pablo Montoya",
+                "Canadian Grand Prix",
+                "2004",
+                "1",
+                "Williams",
+                "DNF"
+            ],
+            [
+                "Gilles Villeneuve",
+                "Canadian Grand Prix",
+                "1979",
+                "0",
+                "Ferrari",
+                "Finished"
+            ],
+            [
+                "Kimi R\u00e4ikk\u00f6nen",
+                "Canadian Grand Prix",
+                "2008",
+                "0",
+                "Ferrari",
+                "Finished"
+            ]
+        ]
+    }
+}

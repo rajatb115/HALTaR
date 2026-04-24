@@ -1,0 +1,43 @@
+{
+    "table-173-173": {
+        "title": [
+            "Account Number",
+            "Disposition Type",
+            "Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Disposition Summary by Account Range",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many owner and disponent dispositions are there from account number 1 to account number 10?",
+        "data": [
+            [
+                "1",
+                "Owner",
+                "15"
+            ],
+            [
+                "1",
+                "Disponent",
+                "5"
+            ],
+            [
+                "2",
+                "Owner",
+                "12"
+            ],
+            [
+                "2",
+                "Disponent",
+                "8"
+            ],
+            [
+                "...",
+                "...",
+                "..."
+            ]
+        ]
+    }
+}

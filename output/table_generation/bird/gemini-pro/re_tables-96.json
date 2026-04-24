@@ -1,0 +1,46 @@
+{
+    "table-96-96": {
+        "title": [
+            "Account Number",
+            "Client Age",
+            "Average Salary"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Youngest Clients with Highest Average Salaries",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the account numbers of clients who are youngest and have highest average salary?",
+        "data": [
+            [
+                "12345",
+                "25",
+                "$120,000"
+            ],
+            [
+                "67890",
+                "25",
+                "$115,000"
+            ],
+            [
+                "24680",
+                "26",
+                "$130,000"
+            ],
+            [
+                "13579",
+                "26",
+                "$125,000"
+            ],
+            [
+                "98765",
+                "27",
+                "$140,000"
+            ]
+        ]
+    }
+}

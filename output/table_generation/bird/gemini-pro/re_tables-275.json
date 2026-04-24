@@ -1,0 +1,49 @@
+{
+    "table-275-275": {
+        "title": [
+            "Element ID",
+            "Element Name",
+            "Description",
+            "Associated Data"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Toxicology Profile Elements",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the toxicology elements associated with molecule TR001.",
+        "data": [
+            [
+                "E101",
+                "Acute Oral Toxicity",
+                "Measures the toxicity of a substance when administered orally in a single dose.",
+                "LD50 Value, Observation Notes"
+            ],
+            [
+                "E102",
+                "Acute Dermal Toxicity",
+                "Measures the toxicity of a substance when applied to the skin in a single dose.",
+                "LD50 Value, Observation Notes"
+            ],
+            [
+                "E103",
+                "Skin Irritation/Corrosion",
+                "Assesses the potential of a substance to cause irritation or corrosion to the skin.",
+                "Irritation Score, Observation Notes"
+            ],
+            [
+                "E104",
+                "Eye Irritation/Corrosion",
+                "Assesses the potential of a substance to cause irritation or corrosion to the eyes.",
+                "Irritation Score, Observation Notes"
+            ],
+            [
+                "E105",
+                "Genotoxicity",
+                "Assesses the potential of a substance to cause damage to genetic material.",
+                "Ames Test Result, Chromosome Aberration Assay Result"
+            ]
+        ]
+    }
+}

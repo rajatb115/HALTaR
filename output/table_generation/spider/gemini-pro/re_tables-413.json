@@ -1,0 +1,37 @@
+{
+    "table-413-413": {
+        "title": [
+            "Player Name",
+            "Earnings"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Poker Player Earnings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of poker players sorted by their earnings descending.",
+        "data": [
+            [
+                "Phil Ivey",
+                "$10,000,000"
+            ],
+            [
+                "Doyle Brunson",
+                "$8,000,000"
+            ],
+            [
+                "Daniel Negreanu",
+                "$7,500,000"
+            ],
+            [
+                "Erik Seidel",
+                "$6,800,000"
+            ],
+            [
+                "Chip Reese",
+                "$6,000,000"
+            ]
+        ]
+    }
+}

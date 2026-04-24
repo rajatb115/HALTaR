@@ -1,0 +1,45 @@
+{
+    "table-188-188": {
+        "title": [
+            "Issuance Frequency",
+            "Client Count",
+            "User Status"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Client Issuance Preferences",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many clients who choose statement of weekly issuance are User?",
+        "data": [
+            [
+                "Weekly",
+                "150",
+                "Yes"
+            ],
+            [
+                "Monthly",
+                "200",
+                "Yes"
+            ],
+            [
+                "Weekly",
+                "50",
+                "No"
+            ],
+            [
+                "Monthly",
+                "100",
+                "No"
+            ],
+            [
+                "Bi-weekly",
+                "75",
+                "Yes"
+            ]
+        ]
+    }
+}

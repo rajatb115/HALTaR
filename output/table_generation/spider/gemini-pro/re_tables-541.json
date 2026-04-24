@@ -1,0 +1,45 @@
+{
+    "table-541-541": {
+        "title": [
+            "Conductor Name",
+            "Orchestra",
+            "Years Served"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Longest Tenured Music Conductors",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of the conductor who has worked the greatest number of years?",
+        "data": [
+            [
+                "Kurt Masur",
+                "Gewandhausorchester Leipzig",
+                "27"
+            ],
+            [
+                "Herbert von Karajan",
+                "Berlin Philharmonic",
+                "35"
+            ],
+            [
+                "Eugene Ormandy",
+                "Philadelphia Orchestra",
+                "44"
+            ],
+            [
+                "Antal Dor\u00e1ti",
+                "Detroit Symphony Orchestra",
+                "14"
+            ],
+            [
+                "Seiji Ozawa",
+                "Boston Symphony Orchestra",
+                "29"
+            ]
+        ]
+    }
+}

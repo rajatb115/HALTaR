@@ -1,0 +1,94 @@
+{
+    "table-164-164": {
+        "title": [
+            "Store ID",
+            "Location Name",
+            "City",
+            "State/Province",
+            "Country",
+            "Store Type",
+            "Opening Year"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different store locations are there?",
+        "data": [
+            [
+                "1001",
+                "Downtown Plaza",
+                "New York",
+                "NY",
+                "USA",
+                "Retail",
+                "2005"
+            ],
+            [
+                "1002",
+                "Westside Market",
+                "Los Angeles",
+                "CA",
+                "USA",
+                "Retail",
+                "2010"
+            ],
+            [
+                "1003",
+                "Lakeside Outlet",
+                "Chicago",
+                "IL",
+                "USA",
+                "Outlet",
+                "2012"
+            ],
+            [
+                "1004",
+                "North End Hub",
+                "Toronto",
+                "ON",
+                "Canada",
+                "Retail",
+                "2008"
+            ],
+            [
+                "1005",
+                "City Centre",
+                "London",
+                "England",
+                "UK",
+                "Flagship",
+                "2003"
+            ],
+            [
+                "1006",
+                "Eastern Warehouse",
+                "Berlin",
+                "Brandenburg",
+                "Germany",
+                "Warehouse",
+                "2015"
+            ],
+            [
+                "1007",
+                "Southern Galleria",
+                "Sydney",
+                "NSW",
+                "Australia",
+                "Retail",
+                "2007"
+            ],
+            [
+                "1008",
+                "Mountain View",
+                "Denver",
+                "CO",
+                "USA",
+                "Retail",
+                "2018"
+            ]
+        ]
+    }
+}

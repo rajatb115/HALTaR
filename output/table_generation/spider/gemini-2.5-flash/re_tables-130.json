@@ -1,0 +1,62 @@
+{
+    "table-130-130": {
+        "title": [
+            "Airline Name",
+            "Operates From CVO",
+            "Operates From APG",
+            "Hub Airport",
+            "Fleet Size"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find all airlines that have flights from airport 'CVO' but not from 'APG'.",
+        "data": [
+            [
+                "SkyLink Airways",
+                "Yes",
+                "No",
+                "ORD",
+                "120"
+            ],
+            [
+                "AeroConnect",
+                "Yes",
+                "No",
+                "ATL",
+                "85"
+            ],
+            [
+                "Regional Express",
+                "Yes",
+                "No",
+                "DEN",
+                "45"
+            ],
+            [
+                "Horizon Air",
+                "Yes",
+                "No",
+                "SEA",
+                "60"
+            ],
+            [
+                "Coastal Wings",
+                "Yes",
+                "No",
+                "LAX",
+                "30"
+            ],
+            [
+                "Pioneer Aviation",
+                "Yes",
+                "No",
+                "DFW",
+                "70"
+            ]
+        ]
+    }
+}

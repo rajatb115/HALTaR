@@ -1,0 +1,76 @@
+{
+    "table-1157-1157": {
+        "title": [
+            "Patient_ID",
+            "Age",
+            "Coagulation_Status",
+            "Diagnosis_Code",
+            "Lab_Result_Value",
+            "Test_Date",
+            "Status_Flag"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the ID and age of patient with positive degree of coagulation.",
+        "data": [
+            [
+                "P_4021",
+                "67",
+                "Positive",
+                "D68.9",
+                "High",
+                "03/15/2023",
+                "Active"
+            ],
+            [
+                "P_A892",
+                "54",
+                "Positive ICD-10",
+                "D75.8",
+                "Elevated",
+                "4/2/23",
+                "Pending Review"
+            ],
+            [
+                "B_1103",
+                "72",
+                "Strongly Positive",
+                "C91.0",
+                "Critical",
+                "3/28/24",
+                "Admitted"
+            ],
+            [
+                "C_5541",
+                "N/A",
+                "Mildly Positive ESRD",
+                "R60.0",
+                "Borderline",
+                "9/10/22",
+                "Stable"
+            ],
+            [
+                "F_2290",
+                "81",
+                "Moderate Positive Hemophilia",
+                "D82.0",
+                "Normal Range",
+                "11/05/19",
+                "Monitoring"
+            ],
+            [
+                "G_7734",
+                "45",
+                "Weakly Positive Leukemia",
+                "C42.",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

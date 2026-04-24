@@ -1,0 +1,76 @@
+{
+    "table-247-247": {
+        "title": [
+            "Match ID",
+            "Tournament",
+            "Match Date",
+            "Loser Player",
+            "Loser Rank",
+            "Winner Player",
+            "Winner Rank"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the highest rank of losers in all matches.",
+        "data": [
+            [
+                "1001",
+                "Grand Slam Open",
+                "2023-01-25",
+                "Player X",
+                "5",
+                "Player A",
+                "1"
+            ],
+            [
+                "1002",
+                "City Championship",
+                "2023-02-10",
+                "Player Y",
+                "12",
+                "Player B",
+                "8"
+            ],
+            [
+                "1003",
+                "Regional Cup",
+                "2023-03-01",
+                "Player Z",
+                "3",
+                "Player C",
+                "2"
+            ],
+            [
+                "1004",
+                "Masters Series",
+                "2023-04-15",
+                "Player W",
+                "1",
+                "Player D",
+                "10"
+            ],
+            [
+                "1005",
+                "Open Challenge",
+                "2023-05-20",
+                "Player V",
+                "25",
+                "Player E",
+                "15"
+            ],
+            [
+                "1006",
+                "Elite Tournament",
+                "2023-06-05",
+                "Player U",
+                "7",
+                "Player F",
+                "4"
+            ]
+        ]
+    }
+}

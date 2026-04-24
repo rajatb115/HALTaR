@@ -1,0 +1,53 @@
+{
+    "table-179-179": {
+        "title": [
+            "Template Type Code",
+            "Description",
+            "Category"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the different template type codes?",
+        "data": [
+            [
+                "EMAIL_NOTIF",
+                "Email Notification",
+                "Communication"
+            ],
+            [
+                "SMS_OTP",
+                "SMS One-Time Password",
+                "Security"
+            ],
+            [
+                "DOC_INVOICE",
+                "Document Invoice",
+                "Financial"
+            ],
+            [
+                "WEB_LANDING",
+                "Web Landing Page",
+                "Marketing"
+            ],
+            [
+                "PUSH_ALERT",
+                "Push Notification Alert",
+                "Communication"
+            ],
+            [
+                "EMAIL_MARKETING",
+                "Email Marketing Campaign",
+                "Marketing"
+            ],
+            [
+                "SMS_PROMO",
+                "SMS Promotional Message",
+                "Marketing"
+            ]
+        ]
+    }
+}

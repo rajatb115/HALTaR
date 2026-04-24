@@ -1,0 +1,77 @@
+{
+    "table-126-126": {
+        "title": [
+            "Airline",
+            "Flight No.",
+            "Origin",
+            "Arrival",
+            "Scheduled Time",
+            "Aircraft"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are airlines that have flights arriving at airport 'AHD'?",
+        "data": [
+            [
+                "Delta Air Lines",
+                "DL1234",
+                "ATL",
+                "AHD",
+                "10:30 AM",
+                "Boeing 737"
+            ],
+            [
+                "United Airlines",
+                "UA5678",
+                "ORD",
+                "AHD",
+                "11:45 AM",
+                "Airbus A320"
+            ],
+            [
+                "American Airlines",
+                "AA9012",
+                "DFW",
+                "AHD",
+                "01:15 PM",
+                "Embraer 175"
+            ],
+            [
+                "Southwest Airlines",
+                "WN3456",
+                "MDW",
+                "AHD",
+                "02:00 PM",
+                "Boeing 737"
+            ],
+            [
+                "Alaska Airlines",
+                "AS7890",
+                "SEA",
+                "AHD",
+                "03:30 PM",
+                "Airbus A321"
+            ],
+            [
+                "Spirit Airlines",
+                "NK1122",
+                "FLL",
+                "AHD",
+                "04:45 PM",
+                "Airbus A320"
+            ],
+            [
+                "Frontier Airlines",
+                "F93344",
+                "DEN",
+                "AHD",
+                "05:50 PM",
+                "Airbus A319"
+            ]
+        ]
+    }
+}

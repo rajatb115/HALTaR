@@ -1,0 +1,49 @@
+{
+    "table-1284-1284": {
+        "title": [
+            "Patient ID",
+            "Glutamic Pyruvic Transaminase Level",
+            "Gender",
+            "Status",
+            "Age Group",
+            "Hospital Code",
+            "Visit Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients with the normal glutamic pylvic transaminase level, how many of them are male?",
+        "data": [
+            [
+                "P-1042",
+                "Normal",
+                "Male",
+                "Active",
+                "Adult",
+                "HOSP-A",
+                "06/15/2023"
+            ],
+            [
+                "P-1105",
+                "Normal",
+                "Female",
+                "Inactive",
+                "Senior",
+                "HOSP-B",
+                "07/22/2023"
+            ],
+            [
+                "P-1158",
+                "Normal",
+                "Male",
+                "Active",
+                "Child",
+                "HOSP-C",
+                "08/01/2024"
+            ]
+        ]
+    }
+}

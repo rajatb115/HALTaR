@@ -1,0 +1,62 @@
+{
+    "table-762-762": {
+        "title": [
+            "Full Name",
+            "Gender",
+            "Weight_lbs",
+            "Percentile_Rank",
+            "Superhero_Universe"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the male superheroes, list the full names of superheroes with weight greater than the 79% average weight of all superheroes.",
+        "data": [
+            [
+                "Bruce Wayne",
+                "Male",
+                "460",
+                "92nd",
+                "DC Comics"
+            ],
+            [
+                "Thor Odinson",
+                "Male",
+                "450",
+                "90th",
+                "Marvel Universe"
+            ],
+            [
+                "Hercules",
+                "Male",
+                "380",
+                "85th",
+                "Greek Mythology Adaptation"
+            ],
+            [
+                "Kryptonian Soldier",
+                "Male",
+                "350",
+                "82nd",
+                "DC Comics"
+            ],
+            [
+                "Daredevil Matt Murdock",
+                "Male",
+                "",
+                "N/A",
+                "Marvel Universe"
+            ],
+            [
+                "Black Panther T'Challa",
+                "Male",
+                "",
+                "N/A",
+                "Marvel Universe"
+            ]
+        ]
+    }
+}

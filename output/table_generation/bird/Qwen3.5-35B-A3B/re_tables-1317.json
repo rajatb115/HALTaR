@@ -1,0 +1,53 @@
+{
+    "table-1317-1317": {
+        "title": [
+            "Club_Name",
+            "Event_Attended",
+            "Phone_Number"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the phone numbers of the students from the Student_Club that has attended the event \"Women's Soccer\".",
+        "data": [
+            [
+                "Student_Club",
+                "Women's Soccer",
+                "+1-555-0147"
+            ],
+            [
+                "Student_Alumni",
+                "Women's Soccer",
+                "N/A"
+            ],
+            [
+                "Varsity_Soccer",
+                "Women's Soccer",
+                "555-0192"
+            ],
+            [
+                "Campus_Rec",
+                "Women's Soccer",
+                "(555) 501-6633"
+            ],
+            [
+                "Athletics_Dept",
+                "Women's Soccer",
+                "+1-800-505-1234"
+            ],
+            [
+                "Sports_Council",
+                "Women's Soccer",
+                "999-888-7776"
+            ],
+            [
+                "Recreation_Unit",
+                "Women's Soccer",
+                "+44 2 7901 23"
+            ]
+        ]
+    }
+}

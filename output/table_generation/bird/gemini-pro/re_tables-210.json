@@ -1,0 +1,45 @@
+{
+    "table-210-210": {
+        "title": [
+            "Compound",
+            "Bonding Type",
+            "Electronegativity Difference"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Common Bonding Types of Tellurium Compounds",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Tellurium is in what type of bond?",
+        "data": [
+            [
+                "TeCl2",
+                "Covalent",
+                "0.2"
+            ],
+            [
+                "TeO2",
+                "Covalent",
+                "1.0"
+            ],
+            [
+                "ZnTe",
+                "Covalent",
+                "0.5"
+            ],
+            [
+                "CdTe",
+                "Covalent",
+                "0.3"
+            ],
+            [
+                "Na2Te",
+                "Ionic",
+                "1.6"
+            ]
+        ]
+    }
+}

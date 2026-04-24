@@ -1,0 +1,85 @@
+{
+    "table-1048-1048": {
+        "title": [
+            "Player Name",
+            "Match Date",
+            "Shot Type",
+            "Shot Attempts",
+            "Goals Scored",
+            "Finishing Rate (%)",
+            "Match Result"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the football player Francois Affolter header's finishing rate on 18/09/2014?",
+        "data": [
+            [
+                "Francois Affolter",
+                "2014-09-18",
+                "Header",
+                "2",
+                "1",
+                "50",
+                "Win"
+            ],
+            [
+                "Francois Affolter",
+                "2014-09-18",
+                "Right Foot",
+                "3",
+                "1",
+                "33",
+                "Win"
+            ],
+            [
+                "Francois Affolter",
+                "2014-09-11",
+                "Header",
+                "1",
+                "0",
+                "0",
+                "Draw"
+            ],
+            [
+                "Francois Affolter",
+                "2014-09-25",
+                "Header",
+                "3",
+                "1",
+                "33",
+                "Loss"
+            ],
+            [
+                "Francois Affolter",
+                "2014-10-02",
+                "Header",
+                "1",
+                "1",
+                "100",
+                "Win"
+            ],
+            [
+                "Player X",
+                "2014-09-18",
+                "Header",
+                "2",
+                "1",
+                "50",
+                "Win"
+            ],
+            [
+                "Player Y",
+                "2014-09-18",
+                "Header",
+                "1",
+                "0",
+                "0",
+                "Win"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-330-330": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Total Atoms",
+            "Carcinogen Class",
+            "Primary Source"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which carcinogenic molecule have the highest number of atoms consisted in it?",
+        "data": [
+            [
+                "Formaldehyde",
+                "CH2O",
+                "4",
+                "Aldehyde",
+                "Building Materials"
+            ],
+            [
+                "Vinyl Chloride",
+                "C2H3Cl",
+                "6",
+                "Halogenated Hydrocarbon",
+                "PVC Manufacturing"
+            ],
+            [
+                "Benzene",
+                "C6H6",
+                "12",
+                "Aromatic Hydrocarbon",
+                "Tobacco Smoke"
+            ],
+            [
+                "Asbestos (Chrysotile)",
+                "Mg3Si2O5(OH)4",
+                "18",
+                "Mineral Fiber",
+                "Construction Materials"
+            ],
+            [
+                "Polychlorinated Biphenyl (PCB)",
+                "C12H5Cl5",
+                "22",
+                "Halogenated Aromatic",
+                "Electrical Equipment"
+            ],
+            [
+                "Benzo[a]pyrene",
+                "C20H12",
+                "32",
+                "Polycyclic Aromatic Hydrocarbon",
+                "Incomplete Combustion"
+            ],
+            [
+                "Aflatoxin B1",
+                "C17H12O6",
+                "35",
+                "Mycotoxin",
+                "Moldy Crops"
+            ]
+        ]
+    }
+}

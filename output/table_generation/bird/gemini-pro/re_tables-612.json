@@ -1,0 +1,52 @@
+{
+    "table-612-612": {
+        "title": [
+            "User ID",
+            "Badge Name",
+            "Reputation at Time of Award",
+            "Award Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Users Earning Badges on Specific Date",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Mention the reputation of users who had obtained the badge on 7/19/2010 7:39:08 PM.",
+        "data": [
+            [
+                "123",
+                "Nice Answer",
+                "500",
+                "2010-07-19 19:39:08"
+            ],
+            [
+                "456",
+                "Good Question",
+                "1000",
+                "2010-07-19 19:39:08"
+            ],
+            [
+                "789",
+                "Editor",
+                "250",
+                "2010-07-19 19:39:08"
+            ],
+            [
+                "101",
+                "Commentator",
+                "150",
+                "2010-07-19 19:39:08"
+            ],
+            [
+                "112",
+                "Supporter",
+                "750",
+                "2010-07-19 19:39:08"
+            ]
+        ]
+    }
+}

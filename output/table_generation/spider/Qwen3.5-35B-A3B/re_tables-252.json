@@ -1,0 +1,69 @@
+{
+    "table-252-252": {
+        "title": [
+            "Contestant ID",
+            "Full Name",
+            "Elimination Round",
+            "Season Number",
+            "Total Votes Against",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different loser names are there?",
+        "data": [
+            [
+                "C0042",
+                "Sarah Jenkins",
+                "Quarterfinals",
+                "7",
+                "450",
+                "Loser"
+            ],
+            [
+                "C1109",
+                "Marcus Thorne",
+                "Semifinals",
+                "6",
+                "320",
+                "Winner"
+            ],
+            [
+                "C2231",
+                "Elena Rodriguez",
+                "Final Four",
+                "8",
+                "510",
+                "Runner-up"
+            ],
+            [
+                "C3345",
+                "David Kim",
+                "Top Six",
+                "9",
+                "0",
+                "Disqualified"
+            ],
+            [
+                "C4412",
+                "Priya Patel",
+                "Semi-finals",
+                "7",
+                "",
+                "N/A"
+            ],
+            [
+                "C5567",
+                "James O'Connor",
+                "Episode 10",
+                "",
+                "",
+                "N"
+            ]
+        ]
+    }
+}

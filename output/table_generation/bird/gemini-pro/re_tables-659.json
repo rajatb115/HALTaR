@@ -1,0 +1,46 @@
+{
+    "table-659-659": {
+        "title": [
+            "Rank",
+            "Post Title",
+            "Popularity Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Most Popular Posts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the titles of the top 5 posts with the highest popularity?",
+        "data": [
+            [
+                "1",
+                "How to Bake the Perfect Cake",
+                "98"
+            ],
+            [
+                "2",
+                "The Ultimate Guide to Traveling in Europe",
+                "95"
+            ],
+            [
+                "3",
+                "10 Tips for a Healthier Lifestyle",
+                "92"
+            ],
+            [
+                "4",
+                "Understanding Quantum Physics",
+                "89"
+            ],
+            [
+                "5",
+                "The Art of Writing a Great Novel",
+                "86"
+            ]
+        ]
+    }
+}

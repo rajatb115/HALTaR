@@ -1,0 +1,85 @@
+{
+    "table-224-224": {
+        "title": [
+            "Course ID",
+            "Subject",
+            "Teacher Name",
+            "Department",
+            "Semester",
+            "Status",
+            "Enrollment Count"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the name of the teacher for the math course.",
+        "data": [
+            [
+                "MATH101A",
+                "Mathematics I",
+                "Dr. Sarah Jenkins",
+                "Science & Math",
+                "Fall 24",
+                "Active",
+                "32"
+            ],
+            [
+                "MTHG202B",
+                "Geometry II",
+                "Mr. Robert Chen",
+                "Science and Math",
+                "Spring 25",
+                "Pending",
+                "0"
+            ],
+            [
+                "ALGB303C",
+                "Algebra III",
+                "Ms. Emily Davis",
+                "STEM Division",
+                "Summer 26",
+                "Draft",
+                "N/A"
+            ],
+            [
+                "CALC404D",
+                "Calculus IV",
+                "Prof. James Wilson",
+                "Advanced Sciences",
+                "Fall '27",
+                "Approved",
+                "45"
+            ],
+            [
+                "STAT505E",
+                "Statistics V",
+                "Mrs. Linda Martinez",
+                "Data Analytics",
+                "Winter 28",
+                "Open",
+                "60"
+            ],
+            [
+                "TRIG606F",
+                "Trigonometry VI",
+                "Dr. Alan Brown",
+                "Core Curriculum",
+                "Spring '29",
+                "Closed",
+                "55"
+            ],
+            [
+                "APMC707G",
+                "AP Math Prep",
+                "Miss Karen White",
+                "Honors Program",
+                "Fall '30",
+                "Reviewing",
+                "88"
+            ]
+        ]
+    }
+}

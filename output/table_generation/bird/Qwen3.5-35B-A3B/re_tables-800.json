@@ -1,0 +1,34 @@
+{
+    "table-800-800": {
+        "title": [
+            "Superhero Name",
+            "Publisher Status",
+            "First Appearance Year",
+            "Origin Story Summary",
+            "Verification Source"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many superheroes didn't have any publisher?",
+        "data": [
+            [
+                "Unknown Entity Alpha",
+                "None Listed",
+                "N/A",
+                "Mysterious origin without corporate affiliation",
+                "Archive Log #402"
+            ],
+            [
+                "",
+                "None Listed",
+                "",
+                "Unverified identity in public records",
+                "Database Error"
+            ]
+        ]
+    }
+}

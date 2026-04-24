@@ -1,0 +1,85 @@
+{
+    "table-155-155": {
+        "title": [
+            "Employee ID",
+            "Full Name",
+            "Department",
+            "Bonus Amount ($)",
+            "Performance Rating",
+            "Payment Date",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which employee received the biggest bonus? Give me the employee name.",
+        "data": [
+            [
+                "E1042",
+                "Sarah Jenkins",
+                "Sales",
+                "$15,000",
+                "Exceeds Expectations",
+                "06/15/2023",
+                "Paid"
+            ],
+            [
+                "E1089",
+                "Michael Chen",
+                "Engineering",
+                "$8,500",
+                "Meets Expectations",
+                "07/01/2022",
+                "Pending"
+            ],
+            [
+                "E2015",
+                "David Rodriguez",
+                "Marketing",
+                "$6,205",
+                "Slightly Below Target",
+                "08/10/2023",
+                "Processed"
+            ],
+            [
+                "E3004",
+                "Emily Watson",
+                "HR",
+                "$4,100",
+                "On Track",
+                "09/05/2002",
+                "Approved"
+            ],
+            [
+                "E4120",
+                "James O'Connor",
+                "Operations",
+                "$3,850",
+                "Needs Improvement",
+                "10/12/2002",
+                "Rejected"
+            ],
+            [
+                "E5098",
+                "Lisa Park",
+                "Finance",
+                "$2,900",
+                "Average",
+                "11/03/2002",
+                "Completed"
+            ],
+            [
+                "E6033",
+                "Robert Kim",
+                "IT Support",
+                "$0",
+                "No Qualification",
+                "N/A",
+                "Not Eligible"
+            ]
+        ]
+    }
+}

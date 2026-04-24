@@ -1,0 +1,69 @@
+{
+    "table-1130-1130": {
+        "title": [
+            "Team ID",
+            "Long Name",
+            "Speed Class",
+            "Status",
+            "Region",
+            "Founded"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down the long name for slow speed class team.",
+        "data": [
+            [
+                "T004",
+                "Slow Pace United FC",
+                "Low",
+                "Active",
+                "North America",
+                "07/15/1965"
+            ],
+            [
+                "T102",
+                "Leisure League Strikers",
+                "Very Low",
+                "Inactive",
+                "Europe",
+                "3/22/1892"
+            ],
+            [
+                "T215",
+                "Trailing Edge Rangers",
+                "Moderate-Low",
+                "Active",
+                "Asia Pacific",
+                "9/1/2010"
+            ],
+            [
+                "T330",
+                "Delayed Motion Dynamo",
+                "Low",
+                "Suspended",
+                "South America",
+                "11/11/N/A"
+            ],
+            [
+                "T441",
+                "Plodding Pathfinders",
+                "Very High",
+                "N/A",
+                "Africa",
+                "5/5/2100"
+            ],
+            [
+                "T552",
+                "Glacial Velocity Giants",
+                "Extremely Low",
+                "Pending Review",
+                "Oceania",
+                "8/8/1776"
+            ]
+        ]
+    }
+}

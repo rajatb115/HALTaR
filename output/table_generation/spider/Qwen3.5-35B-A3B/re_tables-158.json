@@ -1,0 +1,76 @@
+{
+    "table-158-158": {
+        "title": [
+            "Shop ID",
+            "Shop Name",
+            "Location",
+            "Status",
+            "Employee Count",
+            "Last Audit Date",
+            "Manager Assigned"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name of the shops that do not hire any employee.",
+        "data": [
+            [
+                "S004",
+                "Silent Corner Books",
+                "Downtown",
+                "Inactive",
+                "0",
+                "6/15/2023",
+                "N/A"
+            ],
+            [
+                "S012",
+                "Empty Shelf Gallery",
+                "Uptown",
+                "Closed",
+                "",
+                "7/22/2024",
+                "None"
+            ],
+            [
+                "S105",
+                "Quiet Quarters Cafe",
+                "Suburbs",
+                "Suspended",
+                "0",
+                "Jan 10, 2024",
+                "Unassigned"
+            ],
+            [
+                "S201",
+                "Void Vending Co",
+                "Industrial Zone",
+                "Pending Review",
+                "0",
+                "Mar 3, 2023",
+                "TBD"
+            ],
+            [
+                "S309",
+                "Ghost Gear Outlet",
+                "Mall District",
+                "Dormant",
+                "0",
+                "Nov 11, 2022",
+                "Vacant"
+            ],
+            [
+                "S412",
+                "Phantom Prints Hub",
+                "Tech Park",
+                "Under Investigation",
+                "0",
+                "Aug 8, 2015",
+                "Not Found"
+            ]
+        ]
+    }
+}

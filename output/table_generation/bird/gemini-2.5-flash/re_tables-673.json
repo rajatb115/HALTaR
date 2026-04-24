@@ -1,0 +1,69 @@
+{
+    "table-673-673": {
+        "title": [
+            "User ID",
+            "Country",
+            "Total Posts",
+            "Total Favorites",
+            "Last Activity Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the users located in United Kingdom, how many users whose post have a total favorite amount of 4 or more?",
+        "data": [
+            [
+                "101",
+                "United Kingdom",
+                "15",
+                "23",
+                "2023-10-26"
+            ],
+            [
+                "102",
+                "United States",
+                "8",
+                "3",
+                "2023-10-25"
+            ],
+            [
+                "103",
+                "United Kingdom",
+                "22",
+                "4",
+                "2023-10-26"
+            ],
+            [
+                "104",
+                "Germany",
+                "5",
+                "12",
+                "2023-10-24"
+            ],
+            [
+                "105",
+                "United Kingdom",
+                "3",
+                "1",
+                "2023-10-23"
+            ],
+            [
+                "106",
+                "United Kingdom",
+                "10",
+                "7",
+                "2023-10-26"
+            ],
+            [
+                "107",
+                "Canada",
+                "12",
+                "6",
+                "2023-10-25"
+            ]
+        ]
+    }
+}

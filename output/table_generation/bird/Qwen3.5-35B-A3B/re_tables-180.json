@@ -1,0 +1,37 @@
+{
+    "table-180-180": {
+        "title": [
+            "Client ID",
+            "Transaction Date",
+            "Description",
+            "Amount Paid ($)",
+            "Payment Method",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much, in total, did client number 617 pay for all of the transactions in 1998?",
+        "data": [
+            [
+                "604",
+                "01/15/1978",
+                "Office Supplies",
+                "$1,250.00",
+                "Check",
+                "Completed"
+            ],
+            [
+                "610",
+                "03/22/1798",
+                "Consulting Services",
+                "$4,500.50",
+                "Wire Transfer",
+                "Completed"
+            ]
+        ]
+    }
+}

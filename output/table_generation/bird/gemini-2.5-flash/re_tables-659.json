@@ -1,0 +1,55 @@
+{
+    "table-659-659": {
+        "title": [
+            "Post Title",
+            "Author",
+            "Popularity Score",
+            "Category",
+            "Publish Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the titles of the top 5 posts with the highest popularity?",
+        "data": [
+            [
+                "The Future of AI in Healthcare",
+                "Dr. Anya Sharma",
+                "9875",
+                "Technology",
+                "2023-10-26"
+            ],
+            [
+                "10 Essential Tips for Remote Work",
+                "John Doe",
+                "9520",
+                "Lifestyle",
+                "2022-03-15"
+            ],
+            [
+                "Mastering Data Analytics: A Beginner's Guide",
+                "Sarah Lee",
+                "9100",
+                "Education",
+                "2023-01-05"
+            ],
+            [
+                "Sustainable Living: Small Changes, Big Impact",
+                "EcoWarrior",
+                "8850",
+                "Environment",
+                "2021-11-01"
+            ],
+            [
+                "The Art of Storytelling in Marketing",
+                "Creative Minds Inc.",
+                "8700",
+                "Business",
+                "2023-07-19"
+            ]
+        ]
+    }
+}

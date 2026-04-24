@@ -1,0 +1,52 @@
+{
+    "table-1165-1165": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Thrombosis Severity",
+            "Examination Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Thrombosis Patient Demographics in 1997",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the patients with the most serious thrombosis cases examined in 1997 are women?",
+        "data": [
+            [
+                "12345",
+                "Male",
+                "Severe",
+                "1997"
+            ],
+            [
+                "67890",
+                "Female",
+                "Severe",
+                "1997"
+            ],
+            [
+                "24680",
+                "Male",
+                "Moderate",
+                "1997"
+            ],
+            [
+                "13579",
+                "Female",
+                "Severe",
+                "1997"
+            ],
+            [
+                "98765",
+                "Male",
+                "Mild",
+                "1997"
+            ]
+        ]
+    }
+}

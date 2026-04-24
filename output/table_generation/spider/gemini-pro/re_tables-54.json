@@ -1,0 +1,52 @@
+{
+    "table-54-54": {
+        "title": [
+            "Student ID",
+            "Last Name",
+            "Pet ID",
+            "Pet Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Pet Ownership by Students",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the id of the pet owned by student whose last name is \u00e2\u20ac\u02dcSmith\u00e2\u20ac\u2122.",
+        "data": [
+            [
+                "101",
+                "Smith",
+                "201",
+                "Dog"
+            ],
+            [
+                "101",
+                "Smith",
+                "202",
+                "Cat"
+            ],
+            [
+                "102",
+                "Jones",
+                "203",
+                "Fish"
+            ],
+            [
+                "103",
+                "Brown",
+                "204",
+                "Bird"
+            ],
+            [
+                "104",
+                "Smith",
+                "205",
+                "Hamster"
+            ]
+        ]
+    }
+}

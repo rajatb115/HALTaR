@@ -1,0 +1,46 @@
+{
+    "table-1396-1396": {
+        "title": [
+            "Event Name",
+            "Year",
+            "Number of Members Attended"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Event Attendance Records",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many members did attend the event 'Community Theater' in 2019?",
+        "data": [
+            [
+                "Community Theater",
+                "2017",
+                "45"
+            ],
+            [
+                "Community Theater",
+                "2018",
+                "52"
+            ],
+            [
+                "Community Theater",
+                "2019",
+                "68"
+            ],
+            [
+                "Community Theater",
+                "2020",
+                "25"
+            ],
+            [
+                "Community Theater",
+                "2021",
+                "30"
+            ]
+        ]
+    }
+}

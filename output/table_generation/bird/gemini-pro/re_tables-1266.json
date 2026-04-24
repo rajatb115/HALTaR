@@ -1,0 +1,45 @@
+{
+    "table-1266-1266": {
+        "title": [
+            "Patient ID",
+            "Anti-RNP Level",
+            "Hospital Admission"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Data with Anti-RNP Status and Admission Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients have a normal level of anti-ribonuclear protein and have been admitted to the hospital?",
+        "data": [
+            [
+                "1234",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "5678",
+                "Elevated",
+                "No"
+            ],
+            [
+                "9012",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "3456",
+                "Normal",
+                "No"
+            ],
+            [
+                "7890",
+                "Elevated",
+                "Yes"
+            ]
+        ]
+    }
+}

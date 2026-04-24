@@ -1,0 +1,52 @@
+{
+    "table-177-177": {
+        "title": [
+            "Template ID",
+            "Version",
+            "Type Code",
+            "Description"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Template Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the ids, version numbers, and type codes for each template?",
+        "data": [
+            [
+                "123",
+                "1.0",
+                "A",
+                "Standard Template"
+            ],
+            [
+                "124",
+                "1.1",
+                "B",
+                "Marketing Template"
+            ],
+            [
+                "125",
+                "2.0",
+                "A",
+                "Updated Standard"
+            ],
+            [
+                "126",
+                "1.0",
+                "C",
+                "Sales Template"
+            ],
+            [
+                "127",
+                "1.2",
+                "B",
+                "New Marketing Template"
+            ]
+        ]
+    }
+}

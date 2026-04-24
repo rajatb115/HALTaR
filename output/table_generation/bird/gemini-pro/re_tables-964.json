@@ -1,0 +1,43 @@
+{
+    "table-964-964": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Lap Time"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "French Drivers with Lap Times Under 2 Minutes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many French drivers who obtain the laptime less than 02:00.00?",
+        "data": [
+            [
+                "Pierre Gasly",
+                "French",
+                "01:58.34"
+            ],
+            [
+                "Esteban Ocon",
+                "French",
+                "01:59.12"
+            ],
+            [
+                "Romain Grosjean",
+                "French",
+                "01:59.87"
+            ],
+            [
+                "Jean Alesi",
+                "French",
+                "01:57.65"
+            ],
+            [
+                "Olivier Panis",
+                "French",
+                "01:58.90"
+            ]
+        ]
+    }
+}

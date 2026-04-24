@@ -1,0 +1,69 @@
+{
+    "table-203-203": {
+        "title": [
+            "Molecule Formula",
+            "Bond Count",
+            "Atom Pair",
+            "Bond Order",
+            "Classification"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many triple type bonds are there?",
+        "data": [
+            [
+                "C\u2082H\u2082",
+                "1",
+                "Carbon-Carbon",
+                "Triple",
+                "Alkyne"
+            ],
+            [
+                "(CN)\u2082",
+                "4",
+                "Nitrogen-Nitrogen",
+                "Triple",
+                "Rare Diatomic"
+            ],
+            [
+                "[Fe(CO)]\u2083",
+                "6",
+                "Iron-Oxygen",
+                "Partial Triple",
+                "Metal Carbonyl Cluster"
+            ],
+            [
+                "[N]\u2261[P]",
+                "1",
+                "Phosphorus-Nitrogren",
+                "Triple",
+                "Molecular Nitride"
+            ],
+            [
+                "HCN",
+                "1 Carbon-Nitroge n",
+                "Triple Cyanide Derivative",
+                "",
+                ""
+            ],
+            [
+                "CO",
+                "1 Oxygen-Carbon Partial Triple Metal Complex Ligand",
+                "",
+                "",
+                ""
+            ],
+            [
+                "NO\u207a",
+                "1 Nitrogen-Oxygen Isoelectronic Species",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

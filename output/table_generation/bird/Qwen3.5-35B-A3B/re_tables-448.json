@@ -1,0 +1,90 @@
+{
+    "table-448-448": {
+        "title": [
+            "Set Code",
+            "Expansion",
+            "Commander Type",
+            "Release Date",
+            "Card Count",
+            "Rarity Distribution",
+            "Price Range USD",
+            "Availability Status",
+            "Publisher"
+        ],
+        "numCols": 9,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the code of sets have expansion commander type?",
+        "data": [
+            [
+                "SETC01",
+                "Standard",
+                "Commander",
+                "2024-06-15",
+                "101",
+                "Rare/Mythic",
+                "$45-$75",
+                "In Stock",
+                "Wizards of the Coast"
+            ],
+            [
+                "SETC02",
+                "Premium",
+                "Commander",
+                "1924",
+                "120",
+                "Ultra Rare",
+                "$125-$205",
+                "Limited Edition",
+                "WotC Premium"
+            ],
+            [
+                "CMDR-A",
+                "Legacy",
+                "Commander",
+                "0987-03-22",
+                "95",
+                "Common/Rare",
+                "$15-$30",
+                "Discontinued",
+                "Fan Studio X"
+            ],
+            [
+                "CMND-B",
+                "Starter",
+                "Commander",
+                "3000-01-05",
+                "",
+                "High Value",
+                "$500+",
+                "Pre-order Only",
+                "Future Games Inc."
+            ],
+            [
+                "CMDX-Z",
+                "Collector's",
+                "Commander",
+                "4567-12-31",
+                "150",
+                "Exclusive Artwork",
+                "$999+",
+                "Out of Print",
+                "Museum Editions"
+            ],
+            [
+                "COMD-E",
+                "Event Exclusive",
+                "Commander",
+                "777-77",
+                "88",
+                "Tournament Legal",
+                "$250-$350",
+                "",
+                ""
+            ]
+        ]
+    }
+}

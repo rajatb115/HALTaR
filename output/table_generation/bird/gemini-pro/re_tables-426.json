@@ -1,0 +1,51 @@
+{
+    "table-426-426": {
+        "title": [
+            "Card Name",
+            "Card Number",
+            "Subtypes",
+            "Multiple Faces"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Magic: The Gathering Card Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the card numbers that don't have multiple faces on a single card and have the subtypes Angel and Wizard?",
+        "data": [
+            [
+                "Angelic Wizard",
+                "123",
+                "Angel, Wizard",
+                "No"
+            ],
+            [
+                "Seraphic Sage",
+                "456",
+                "Angel, Wizard",
+                "No"
+            ],
+            [
+                "Avacyn's Pilgrim",
+                "789",
+                "Angel",
+                "No"
+            ],
+            [
+                "Celestial Arcanist",
+                "101",
+                "Wizard",
+                "No"
+            ],
+            [
+                "Azure Angel",
+                "112",
+                "Angel",
+                "No"
+            ]
+        ]
+    }
+}

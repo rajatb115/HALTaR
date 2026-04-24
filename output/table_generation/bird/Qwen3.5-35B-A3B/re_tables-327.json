@@ -1,0 +1,77 @@
+{
+    "table-327-327": {
+        "title": [
+            "Molecule Formula",
+            "Common Name",
+            "Bond Configuration",
+            "Sulphur Oxidation State",
+            "State at STP",
+            "CAS Number"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which molecule consisted of Sulphur atom with double bond?",
+        "data": [
+            [
+                "SO\u2082",
+                "Sulfur Dioxide",
+                "One S=O Double Bond",
+                "+4",
+                "Gas",
+                "7446-09-5"
+            ],
+            [
+                "H\u2082S\u2082",
+                "Disulfane",
+                "Two S-S Single Bonds",
+                "-1",
+                "Liquid",
+                "1314-80-3"
+            ],
+            [
+                "CS\u2082",
+                "Carbon Disulfide",
+                "Two C=S Double Bonds",
+                "+2",
+                "Liquid",
+                "(Not Listed)"
+            ],
+            [
+                "SF\u2084",
+                "Sulfur Tetrafluoride",
+                "Four S-F Single Bonds",
+                "+4",
+                "Gas",
+                "(Not Applicable)"
+            ],
+            [
+                "SO\u2083",
+                "Sulfur Trioxide",
+                "Three S=Double Bonds",
+                "+6",
+                "Solid",
+                "7732-18-5"
+            ],
+            [
+                "CH\u2083SH",
+                "Methanethiol",
+                "Single S-C and S-H bonds",
+                "-2",
+                "Gas",
+                "(Not Listed)"
+            ],
+            [
+                "C\u2082H\u2085SSC\u2083H\u2087",
+                "Ethyl propyl disulfide",
+                "Single S-S bond",
+                "-1",
+                "Liquid",
+                "(Not Listed)"
+            ]
+        ]
+    }
+}

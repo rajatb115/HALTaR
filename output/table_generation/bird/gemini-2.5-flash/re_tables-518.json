@@ -1,0 +1,77 @@
+{
+    "table-518-518": {
+        "title": [
+            "Card Name",
+            "Rarity",
+            "Type",
+            "Mana Cost",
+            "Set",
+            "Legality Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many rare enchantment Abundance cards are there whose play format status are all legal?",
+        "data": [
+            [
+                "Abundance",
+                "Rare",
+                "Enchantment",
+                "2GG",
+                "Urza's Saga",
+                "All Legal"
+            ],
+            [
+                "Bountiful Harvest",
+                "Rare",
+                "Enchantment",
+                "3G",
+                "Core Set 2021",
+                "All Legal"
+            ],
+            [
+                "Verdant Bloom",
+                "Rare",
+                "Enchantment",
+                "1GG",
+                "Zendikar Rising",
+                "All Legal"
+            ],
+            [
+                "Evergrowing Wealth",
+                "Rare",
+                "Enchantment",
+                "4G",
+                "Strixhaven",
+                "All Legal"
+            ],
+            [
+                "Prosperity's Boon",
+                "Rare",
+                "Enchantment",
+                "2WW",
+                "Innistrad: Midnight Hunt",
+                "All Legal"
+            ],
+            [
+                "Nature's Bounty",
+                "Rare",
+                "Enchantment",
+                "3GG",
+                "Dominaria United",
+                "All Legal"
+            ],
+            [
+                "Endless Plenty",
+                "Rare",
+                "Enchantment",
+                "2G",
+                "Wilds of Eldraine",
+                "All Legal"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-1146-1146": {
+        "title": [
+            "League",
+            "Season Start",
+            "Total Games Played",
+            "Top Scorer Team",
+            "Average Attendance",
+            "Status",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which league had the most games in the 2015\u20132016 season?",
+        "data": [
+            [
+                "Premier League",
+                "7/4/2020",
+                "380",
+                "Manchester City",
+                "40,000",
+                "Completed",
+                "England"
+            ],
+            [
+                "La Liga",
+                "8/22/2021",
+                "570",
+                "Real Madrid",
+                "65,050",
+                "Active",
+                "Spain"
+            ],
+            [
+                "Bundesliga",
+                "9/18/2019",
+                "0",
+                "Bayern Munich",
+                "N/A",
+                "Cancelled",
+                "Germany"
+            ],
+            [
+                "Serie A",
+                "August 24th",
+                "306",
+                "Juventus",
+                "N/A",
+                "Ongoing",
+                "Italy"
+            ],
+            [
+                "Ligue 1",
+                "August",
+                "None",
+                "PSG",
+                "TBC",
+                "Suspended",
+                "France"
+            ],
+            [
+                "MLS",
+                "February",
+                "No Data",
+                "Seattle Sounders",
+                "Unknown",
+                "Delayed",
+                "USA"
+            ]
+        ]
+    }
+}

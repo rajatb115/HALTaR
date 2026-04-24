@@ -1,0 +1,45 @@
+{
+    "table-624-624": {
+        "title": [
+            "Charge Type",
+            "Amount"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much does each charge type costs? List both charge type and amount.",
+        "data": [
+            [
+                "Standard Service Fee",
+                "$50.00"
+            ],
+            [
+                "Expedited Processing",
+                "$25.00"
+            ],
+            [
+                "Late Payment Penalty",
+                "$15.00"
+            ],
+            [
+                "Premium Support Add-on",
+                "$75.00"
+            ],
+            [
+                "Data Storage Overage",
+                "$10.00"
+            ],
+            [
+                "Custom Report Generation",
+                "$30.00"
+            ],
+            [
+                "Setup Fee",
+                "$100.00"
+            ]
+        ]
+    }
+}

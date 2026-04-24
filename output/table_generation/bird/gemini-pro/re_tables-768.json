@@ -1,0 +1,53 @@
+{
+    "table-768-768": {
+        "title": [
+            "Skin Color",
+            "Count",
+            "Average Intelligence",
+            "Average Strength"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Superhero Statistics by Skin Color",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average of superheroes with no skin colour?",
+        "data": [
+            [
+                "No Skin Color",
+                "5",
+                "85",
+                "70"
+            ],
+            [
+                "Green",
+                "12",
+                "78",
+                "82"
+            ],
+            [
+                "Blue",
+                "3",
+                "92",
+                "65"
+            ],
+            [
+                "Red",
+                "6",
+                "80",
+                "90"
+            ],
+            [
+                "White",
+                "200",
+                "75",
+                "72"
+            ]
+        ]
+    }
+}

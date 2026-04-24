@@ -1,0 +1,49 @@
+{
+    "table-222-222": {
+        "title": [
+            "Bond ID",
+            "Molecule ID",
+            "Atom 1",
+            "Atom 2"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Bonded Atoms in Molecule TR001",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the atoms that are bonded in the molecule TR001 with the bond ID of TR001_2_6?",
+        "data": [
+            [
+                "TR001_2_6",
+                "TR001",
+                "C",
+                "O"
+            ],
+            [
+                "TR001_1_2",
+                "TR001",
+                "H",
+                "C"
+            ],
+            [
+                "TR001_1_3",
+                "TR001",
+                "H",
+                "C"
+            ],
+            [
+                "TR001_2_4",
+                "TR001",
+                "C",
+                "C"
+            ],
+            [
+                "TR001_4_5",
+                "TR001",
+                "C",
+                "H"
+            ]
+        ]
+    }
+}

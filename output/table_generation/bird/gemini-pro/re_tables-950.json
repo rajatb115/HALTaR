@@ -1,0 +1,53 @@
+{
+    "table-950-950": {
+        "title": [
+            "Constructor",
+            "Points",
+            "Wins",
+            "Podiums"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Formula 1 Constructor Standings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which constructor has the highest point?",
+        "data": [
+            [
+                "Red Bull Racing",
+                "759",
+                "17",
+                "28"
+            ],
+            [
+                "Mercedes",
+                "409",
+                "1",
+                "8"
+            ],
+            [
+                "Ferrari",
+                "406",
+                "1",
+                "9"
+            ],
+            [
+                "McLaren",
+                "302",
+                "0",
+                "9"
+            ],
+            [
+                "Aston Martin",
+                "280",
+                "0",
+                "8"
+            ]
+        ]
+    }
+}

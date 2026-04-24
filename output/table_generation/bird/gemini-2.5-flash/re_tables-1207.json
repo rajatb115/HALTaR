@@ -1,0 +1,85 @@
+{
+    "table-1207-1207": {
+        "title": [
+            "Patient ID",
+            "Test Name",
+            "Result (U/L)",
+            "Normal Range (U/L)",
+            "Examination Date",
+            "Examination Time",
+            "Interpretation"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When is the laboratory examination of patient '48473' where his/her AST glutamic oxaloacetic transaminase (GOT) index is above the normal range.",
+        "data": [
+            [
+                "48473",
+                "AST (GOT)",
+                "65",
+                "10-40",
+                "2023-10-26",
+                "08:30",
+                "High"
+            ],
+            [
+                "48473",
+                "AST (GOT)",
+                "52",
+                "10-40",
+                "2023-09-15",
+                "09:15",
+                "High"
+            ],
+            [
+                "48473",
+                "ALT (GPT)",
+                "30",
+                "7-56",
+                "2023-10-26",
+                "08:30",
+                "Normal"
+            ],
+            [
+                "48473",
+                "Bilirubin Total",
+                "0.8",
+                "0.2-1.2",
+                "2023-10-26",
+                "08:30",
+                "Normal"
+            ],
+            [
+                "48474",
+                "AST (GOT)",
+                "28",
+                "10-40",
+                "2023-10-25",
+                "10:00",
+                "Normal"
+            ],
+            [
+                "48473",
+                "AST (GOT)",
+                "45",
+                "10-40",
+                "2023-08-01",
+                "07:45",
+                "Slightly High"
+            ],
+            [
+                "48473",
+                "Creatinine",
+                "0.9",
+                "0.6-1.2",
+                "2023-10-26",
+                "08:30",
+                "Normal"
+            ]
+        ]
+    }
+}

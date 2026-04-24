@@ -1,0 +1,76 @@
+{
+    "table-34-34": {
+        "title": [
+            "School Name",
+            "Website Address",
+            "Free Meal Count",
+            "Age Range",
+            "Enrollment Status",
+            "Region",
+            "Last Updated"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "If there are any, what are the websites address of the schools with a free meal count of 1,900-2,000 to students aged 5-17? Include the name of the school.",
+        "data": [
+            [
+                "Oakwood Elementary District",
+                "www.oakwodelem.edu",
+                "46",
+                "K-5",
+                "Active",
+                "North",
+                "01/15/2024"
+            ],
+            [
+                "Riverside High Academy",
+                "www.riversidehigh.org",
+                "52",
+                "9-12",
+                "Active",
+                "South",
+                "3/22/24"
+            ],
+            [
+                "Maple Grove Middle School",
+                "www.maplegrove.ms.net",
+                "89",
+                "6-8",
+                "Active",
+                "Central",
+                "7/10/23"
+            ],
+            [
+                "Sunset Valley Charter",
+                "www.sunsetvalleycharter.com",
+                "1950",
+                "K-12",
+                "Active",
+                "West",
+                "12/01/2023"
+            ],
+            [
+                "Pinecrest Community Learning Center",
+                "www.pinecreaclc.edu",
+                "1875",
+                "K-10",
+                "Active",
+                "East",
+                "05/18/2025"
+            ],
+            [
+                "Lakeshore Preparatory Institute",
+                "www.lakeshoresprep.io",
+                "2100",
+                "6-11",
+                "Active",
+                "Midwest",
+                "09/30/2019"
+            ]
+        ]
+    }
+}

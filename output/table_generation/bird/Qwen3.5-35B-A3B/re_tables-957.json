@@ -1,0 +1,77 @@
+{
+    "table-957-957": {
+        "title": [
+            "Forename",
+            "Surname",
+            "Birth Year",
+            "Rank Achieved",
+            "Season",
+            "Team"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which drivers born after 1975 have been ranked 2? Please give their forenames and surnames.",
+        "data": [
+            [
+                "Lewis",
+                "Hamilton",
+                "46",
+                "3rd",
+                "7th",
+                "Mercedes"
+            ],
+            [
+                "Max",
+                "Verstappen",
+                "5",
+                "6th",
+                "8th",
+                "Red Bull Racing"
+            ],
+            [
+                "Fernando",
+                "Alonso",
+                "9",
+                "0th",
+                "N/A",
+                "Aston Martin"
+            ],
+            [
+                "Sergio",
+                "Perez",
+                "",
+                "2nd",
+                "N/A",
+                "Red Bull Racing"
+            ],
+            [
+                "Charles",
+                "Leclerc",
+                "",
+                "",
+                "2",
+                "Ferrari"
+            ],
+            [
+                "Lando",
+                "Norris",
+                "",
+                "",
+                "",
+                "McLaren"
+            ],
+            [
+                "George",
+                "Russell",
+                "",
+                "",
+                "",
+                "Williams"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-8-8": {
+        "title": [
+            "School Name",
+            "City",
+            "State",
+            "Total SAT Takers",
+            "Takers > 1500 SAT",
+            "Phone Number"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the phone number of the school that has the highest number of test takers with an SAT score of over 1500?",
+        "data": [
+            [
+                "Northwood High School",
+                "Irvine",
+                "CA",
+                "450",
+                "85",
+                "(949) 555-1234"
+            ],
+            [
+                "Eastside Prep Academy",
+                "Bellevue",
+                "WA",
+                "380",
+                "72",
+                "(425) 555-5678"
+            ],
+            [
+                "Central Valley High",
+                "Phoenix",
+                "AZ",
+                "520",
+                "60",
+                "(602) 555-9012"
+            ],
+            [
+                "Lakeside Charter School",
+                "Austin",
+                "TX",
+                "310",
+                "55",
+                "(512) 555-3456"
+            ],
+            [
+                "Summit Ridge Academy",
+                "Denver",
+                "CO",
+                "410",
+                "78",
+                "(303) 555-7890"
+            ],
+            [
+                "Oceanview High School",
+                "Miami",
+                "FL",
+                "480",
+                "68",
+                "(305) 555-2345"
+            ],
+            [
+                "Evergreen High School",
+                "Portland",
+                "OR",
+                "390",
+                "65",
+                "(503) 555-6789"
+            ]
+        ]
+    }
+}

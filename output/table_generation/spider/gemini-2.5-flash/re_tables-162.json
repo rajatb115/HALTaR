@@ -1,0 +1,67 @@
+{
+    "table-162-162": {
+        "title": [
+            "District",
+            "Store Name",
+            "Product Count",
+            "Store Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which district has both stores with less than 3000 products and stores with more than 10000 products?",
+        "data": [
+            [
+                "Northwood",
+                "Alpha Mart",
+                "2500",
+                "Supermarket"
+            ],
+            [
+                "Northwood",
+                "Beta Emporium",
+                "12500",
+                "Department Store"
+            ],
+            [
+                "Southside",
+                "Gamma Goods",
+                "5500",
+                "Electronics"
+            ],
+            [
+                "Southside",
+                "Delta Depot",
+                "7800",
+                "Home Improvement"
+            ],
+            [
+                "Eastview",
+                "Epsilon Boutique",
+                "1800",
+                "Fashion"
+            ],
+            [
+                "Eastview",
+                "Zeta Pharmacy",
+                "2900",
+                "Health"
+            ],
+            [
+                "Westend",
+                "Eta Hypermarket",
+                "11000",
+                "Hypermarket"
+            ],
+            [
+                "Westend",
+                "Theta Express",
+                "2100",
+                "Convenience Store"
+            ]
+        ]
+    }
+}

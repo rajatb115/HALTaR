@@ -1,0 +1,69 @@
+{
+    "table-1445-1445": {
+        "title": [
+            "Expense Category",
+            "Monthly Average ($)",
+            "Frequency",
+            "Status",
+            "Last Updated"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the expenses that spend more than fifty dollars on average.",
+        "data": [
+            [
+                "Office Supplies",
+                "$64.50",
+                "Weekly",
+                "Active",
+                "07/15/2023"
+            ],
+            [
+                "Cloud Services",
+                "$120.00",
+                "Monthly",
+                "Active",
+                "08/01/2023"
+            ],
+            [
+                "Marketing Ads",
+                "$250.75",
+                "Bi-weekly",
+                "Pending",
+                "08/10/2024"
+            ],
+            [
+                "Travel & Lodging",
+                "$85.20",
+                "Per Trip",
+                "Active",
+                "09/05/2019"
+            ],
+            [
+                "Software Licenses",
+                "$45.01",
+                "Annual",
+                "Renewed",
+                "03/12/2022"
+            ],
+            [
+                "Professional Fees",
+                "$310.99",
+                "Quarterly",
+                "Active",
+                "06/30/2018"
+            ],
+            [
+                "Equipment Maintenance",
+                "$72.15",
+                "Monthly",
+                "Scheduled",
+                "04/21/2017"
+            ]
+        ]
+    }
+}

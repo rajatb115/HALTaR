@@ -1,0 +1,85 @@
+{
+    "table-298-298": {
+        "title": [
+            "City",
+            "Zip Code",
+            "State",
+            "Country",
+            "Status",
+            "Last Verified",
+            "Source ID"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the zip code of the address in the city Port Chelsea?",
+        "data": [
+            [
+                "Port Chelsea",
+                "67421",
+                "NY",
+                "USA",
+                "Active",
+                "01/15/2024",
+                "SRC_9921"
+            ],
+            [
+                "Port Chelsea",
+                "98203",
+                "WA",
+                "USA",
+                "Inactive",
+                "3/10/2023",
+                "SRC_A4B2"
+            ],
+            [
+                "Port Chelsea",
+                "55012",
+                "MN",
+                "USA",
+                "Pending",
+                "4/22/2024",
+                "SRC_C7D8"
+            ],
+            [
+                "Port-Chelsea",
+                "76004",
+                "TX",
+                "USA",
+                "Active",
+                "8/01/2020",
+                "SRC_EF1G"
+            ],
+            [
+                "Port Chelsea",
+                "33101",
+                "FL",
+                "USA",
+                "Active",
+                "2/14/2019",
+                "SRC_HIJK"
+            ],
+            [
+                "Port Chelsea",
+                "48226",
+                "MI",
+                "USA",
+                "Unknown",
+                "12/31/2021",
+                "SRC_LMNO"
+            ],
+            [
+                "Port Chelsea",
+                "",
+                "CA",
+                "USA",
+                "Error",
+                "",
+                "SRC_PQRS"
+            ]
+        ]
+    }
+}

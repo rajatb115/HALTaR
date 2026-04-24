@@ -1,0 +1,58 @@
+{
+    "table-178-178": {
+        "title": [
+            "Template Type Code",
+            "Description",
+            "Category"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all distinct template type codes for all templates.",
+        "data": [
+            [
+                "INV",
+                "Invoice Template",
+                "Financial"
+            ],
+            [
+                "ORD",
+                "Order Confirmation",
+                "Sales"
+            ],
+            [
+                "QUO",
+                "Quotation Template",
+                "Sales"
+            ],
+            [
+                "ACK",
+                "Acknowledgment Notice",
+                "Communication"
+            ],
+            [
+                "NOT",
+                "System Notification",
+                "System"
+            ],
+            [
+                "REP",
+                "Standard Report Layout",
+                "Reporting"
+            ],
+            [
+                "WEL",
+                "Welcome Email Template",
+                "Marketing"
+            ],
+            [
+                "CON",
+                "Contract Document",
+                "Legal"
+            ]
+        ]
+    }
+}

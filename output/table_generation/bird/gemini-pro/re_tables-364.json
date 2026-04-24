@@ -1,0 +1,49 @@
+{
+    "table-364-364": {
+        "title": [
+            "Set Name",
+            "Card Name",
+            "Legality",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Magic: The Gathering Card Legality",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards of legalities whose status is restricted are found in a starter deck?",
+        "data": [
+            [
+                "Starter",
+                "Ancestral Recall",
+                "Restricted",
+                "Restricted"
+            ],
+            [
+                "Starter",
+                "Balance",
+                "Restricted",
+                "Restricted"
+            ],
+            [
+                "Starter",
+                "Demonic Tutor",
+                "Restricted",
+                "Restricted"
+            ],
+            [
+                "Starter",
+                "Lightning Bolt",
+                "Legal",
+                "Restricted"
+            ],
+            [
+                "Starter",
+                "Sol Ring",
+                "Restricted",
+                "Restricted"
+            ]
+        ]
+    }
+}

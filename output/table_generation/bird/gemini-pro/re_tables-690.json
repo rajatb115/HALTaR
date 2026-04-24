@@ -1,0 +1,37 @@
+{
+    "table-690-690": {
+        "title": [
+            "Column",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "User Information and Last Modified Details",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the display name and location of the user, who was the last to edit the post with ID 183.",
+        "data": [
+            [
+                "User Display Name",
+                "User's preferred display name"
+            ],
+            [
+                "User Location",
+                "User's geographical location"
+            ],
+            [
+                "Post ID",
+                "Unique identifier of the post"
+            ],
+            [
+                "Last Modified By",
+                "User who last edited the post"
+            ],
+            [
+                "Last Modified Timestamp",
+                "Date and time of the last edit"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "table-579-579": {
+        "title": [
+            "Username",
+            "Post Title",
+            "User Reputation Score",
+            "Post Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user made a post titled 'Understanding what Dassault iSight is doing?' and how much is the reputation of the user?",
+        "data": [
+            [
+                "TechExplorer",
+                "Understanding what Dassault iSight is doing?",
+                "1250",
+                "2023-10-26"
+            ],
+            [
+                "CADMaster",
+                "Troubleshooting CATIA V5 licensing issues",
+                "3400",
+                "2023-09-15"
+            ],
+            [
+                "SimEngineer",
+                "Best practices for Abaqus FEA simulations",
+                "890",
+                "2023-11-01"
+            ],
+            [
+                "PLM_Guru",
+                "Integrating ENOVIA with enterprise systems",
+                "5100",
+                "2023-08-20"
+            ],
+            [
+                "DesignPro",
+                "Tips for efficient SolidWorks modeling",
+                "1750",
+                "2023-10-05"
+            ],
+            [
+                "DataAnalystX",
+                "Comparing different PDM solutions",
+                "620",
+                "2023-07-12"
+            ]
+        ]
+    }
+}

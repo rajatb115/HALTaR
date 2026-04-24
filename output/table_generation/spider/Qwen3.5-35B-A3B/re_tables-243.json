@@ -1,0 +1,85 @@
+{
+    "table-243-243": {
+        "title": [
+            "Match ID",
+            "Winner Age",
+            "Loser Age",
+            "Average Age",
+            "Date",
+            "Tournament",
+            "Location"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average age of losers and winners of all matches.",
+        "data": [
+            [
+                "M0042",
+                "34",
+                "41",
+                "75",
+                "6/12/2023",
+                "Grand Slam",
+                "Paris"
+            ],
+            [
+                "M1058",
+                "52",
+                "",
+                "N/A",
+                "8/03/2345",
+                "Regional Cup",
+                "Berlin"
+            ],
+            [
+                "T2901",
+                "",
+                "0",
+                "9",
+                "11/11/2019",
+                "Youth League",
+                "Tokyo"
+            ],
+            [
+                "R3302",
+                "22",
+                "19",
+                "41",
+                "1/01/2205",
+                "Winter Series",
+                "Oslo"
+            ],
+            [
+                "S4410",
+                "67",
+                "",
+                "67",
+                "5/05/2100",
+                "Senior Tour",
+                "Rome"
+            ],
+            [
+                "V5521",
+                "29",
+                "31",
+                "60",
+                "9/09/2400",
+                "Summer Open",
+                "London"
+            ],
+            [
+                "W6632",
+                "45",
+                "45",
+                "",
+                "2/02/1900",
+                "",
+                ""
+            ]
+        ]
+    }
+}

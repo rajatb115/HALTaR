@@ -1,0 +1,73 @@
+{
+    "table-194-194": {
+        "title": [
+            "Client_ID",
+            "District",
+            "Order_Type",
+            "Loan_Status",
+            "Eligibility_Score",
+            "Last_Activity_Date",
+            "Account_Status",
+            "Risk_Level"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all ID and district for clients that can only have the right to issue permanent orders or apply for loans.",
+        "data": [
+            [
+                "C1045",
+                "North_District",
+                "Permanent_Order",
+                "Not_Approved",
+                "High",
+                "7/15/2023",
+                "Active",
+                "Low_Risk"
+            ],
+            [
+                "C2089",
+                "South_District",
+                "Permanent_Order",
+                "Approved",
+                "Medium",
+                "6/22/2023",
+                "Active",
+                "Medium_Risk"
+            ],
+            [
+                "D3102",
+                "East_County",
+                "Permanent_Other",
+                "Rejected",
+                "Low",
+                "5/10/2024",
+                "Inactive",
+                "High_Risk"
+            ],
+            [
+                "E4567",
+                "West_Township",
+                "No_Permission",
+                "Pending",
+                "N/A",
+                "8/01/2021",
+                "Suspended",
+                "Critical_Fail"
+            ],
+            [
+                "F5011",
+                "Central_Zone",
+                "Permanent_Loan",
+                "Denied",
+                "Very_High",
+                "4/30/2019",
+                "Closed",
+                "Extreme_Risk"
+            ]
+        ]
+    }
+}

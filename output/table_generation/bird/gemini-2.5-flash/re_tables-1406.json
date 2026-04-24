@@ -1,0 +1,61 @@
+{
+    "table-1406-1406": {
+        "title": [
+            "Budget Category",
+            "Budgeted Amount ($)",
+            "Approval Status",
+            "Responsible Dept"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the amount budgeted for 'April Speaker' event. List all the budgeted categories for said event in an ascending order based on their amount.",
+        "data": [
+            [
+                "Event Materials",
+                "150",
+                "Approved",
+                "Event Ops"
+            ],
+            [
+                "Marketing & Promotion",
+                "300",
+                "Approved",
+                "Marketing"
+            ],
+            [
+                "AV Equipment Rental",
+                "500",
+                "Approved",
+                "Tech Services"
+            ],
+            [
+                "Speaker Travel & Accom.",
+                "800",
+                "Approved",
+                "Program Mgmt"
+            ],
+            [
+                "Catering Services",
+                "1200",
+                "Approved",
+                "Event Ops"
+            ],
+            [
+                "Venue Rental",
+                "2500",
+                "Approved",
+                "Facilities"
+            ],
+            [
+                "Speaker Fee",
+                "5000",
+                "Approved",
+                "Program Mgmt"
+            ]
+        ]
+    }
+}

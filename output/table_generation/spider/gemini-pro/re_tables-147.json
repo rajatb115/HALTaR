@@ -1,0 +1,45 @@
+{
+    "table-147-147": {
+        "title": [
+            "Manager Name",
+            "District",
+            "Number of Products Sold"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Top Performing Shops",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the manager name and district of the shop that sells the largest number of products?",
+        "data": [
+            [
+                "John Smith",
+                "Downtown",
+                "150"
+            ],
+            [
+                "Alice Brown",
+                "Uptown",
+                "140"
+            ],
+            [
+                "David Lee",
+                "Midtown",
+                "130"
+            ],
+            [
+                "Emily Wilson",
+                "Downtown",
+                "120"
+            ],
+            [
+                "Michael Garcia",
+                "Uptown",
+                "110"
+            ]
+        ]
+    }
+}

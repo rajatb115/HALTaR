@@ -1,0 +1,69 @@
+{
+    "table-1285-1285": {
+        "title": [
+            "Patient ID",
+            "Lactate Dehydrogenases (U/L)",
+            "Data Recorded Date",
+            "Status",
+            "Test Site"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient with the highest lactate dehydrogenase in the normal range, when was his or her data first recorded?",
+        "data": [
+            [
+                "P-4021",
+                "670",
+                "01/15/2023",
+                "Normal",
+                "North Wing Lab"
+            ],
+            [
+                "P-4105",
+                "710",
+                "N/A",
+                "Abnormal",
+                "South Wing Lab"
+            ],
+            [
+                "P-A992",
+                "590",
+                "March 12, 2022",
+                "Normal",
+                "Central Clinic"
+            ],
+            [
+                "P-B331",
+                "N/D",
+                "April 04, 2100",
+                "Pending",
+                "East Ward"
+            ],
+            [
+                "P-C774",
+                "800",
+                "June 21, 1999",
+                "Critical",
+                "ICU"
+            ],
+            [
+                "P-D112",
+                "N/C",
+                "July 15, 1988",
+                "Discharged",
+                "Home"
+            ],
+            [
+                "P-E558",
+                "450",
+                "August 30, 1976",
+                "Follow-up",
+                "Visit"
+            ]
+        ]
+    }
+}

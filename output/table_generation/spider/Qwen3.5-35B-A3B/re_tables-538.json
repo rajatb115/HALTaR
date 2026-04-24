@@ -1,0 +1,76 @@
+{
+    "table-538-538": {
+        "title": [
+            "Conductor Name",
+            "Years Active",
+            "Total Work Duration",
+            "Primary Orchestra",
+            "Nationality",
+            "Debut Year",
+            "Retirement Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List names of conductors in descending order of years of work.",
+        "data": [
+            [
+                "Leonard Bernstein",
+                "United States",
+                "Retired",
+                "New York Philharmonic",
+                "American",
+                "47",
+                "Yes"
+            ],
+            [
+                "Herbert von Karajan",
+                "Austria",
+                "Retired",
+                "Berlin Philharmonic",
+                "Austrian",
+                "68",
+                "Yes"
+            ],
+            [
+                "Claudio Abbado",
+                "Italy",
+                "Retired",
+                "La Scala Opera",
+                "Italian",
+                "59",
+                "Yes"
+            ],
+            [
+                "Gustavo Dudamel",
+                "Venezuela",
+                "Active",
+                "Sim\u00f3n Bol\u00edvar Symphony",
+                "Venezuelan",
+                "32",
+                "No"
+            ],
+            [
+                "Valery Gergiev",
+                "Russia",
+                "Active",
+                "Mariinsky Theatre",
+                "Russian",
+                "71",
+                "No"
+            ],
+            [
+                "Kirill Petrenko",
+                "Germany",
+                "Active",
+                "Berlin State Opera",
+                "German",
+                "8",
+                "No"
+            ]
+        ]
+    }
+}

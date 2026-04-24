@@ -1,0 +1,62 @@
+{
+    "table-363-363": {
+        "title": [
+            "Episode Title",
+            "Season",
+            "Episode Number",
+            "Rating (IMDb)",
+            "Number of Votes"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are 3 most highly rated episodes in the TV series table and what were those ratings?",
+        "data": [
+            [
+                "Ozymandias",
+                "5",
+                "14",
+                "10.0",
+                "200000"
+            ],
+            [
+                "Felina",
+                "5",
+                "16",
+                "9.9",
+                "150000"
+            ],
+            [
+                "Face Off",
+                "4",
+                "13",
+                "9.9",
+                "120000"
+            ],
+            [
+                "Crawl Space",
+                "4",
+                "11",
+                "9.7",
+                "95000"
+            ],
+            [
+                "Full Measure",
+                "3",
+                "13",
+                "9.7",
+                "88000"
+            ],
+            [
+                "One Minute",
+                "3",
+                "7",
+                "9.6",
+                "80000"
+            ]
+        ]
+    }
+}

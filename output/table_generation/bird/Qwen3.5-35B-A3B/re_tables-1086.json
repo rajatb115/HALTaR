@@ -1,0 +1,45 @@
+{
+    "table-1086-1086": {
+        "title": [
+            "Player",
+            "Crosses Completed",
+            "Total Attempts",
+            "Success Rate (%)",
+            "Key Position",
+            "Season"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which of these players performs the best in crossing actions, Alexis, Ariel Borysiuk or Arouna Kone?",
+        "data": [
+            [
+                "Alexis Sanchez",
+                "42",
+                "68",
+                "71",
+                "Forward",
+                "5/6"
+            ],
+            [
+                "Ariel Borysuk",
+                "38",
+                "N/A",
+                "85",
+                "Midfielder",
+                "9/10"
+            ],
+            [
+                "Ariona Kone",
+                "0",
+                "",
+                "",
+                "Defender",
+                ""
+            ]
+        ]
+    }
+}

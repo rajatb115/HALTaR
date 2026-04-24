@@ -1,0 +1,53 @@
+{
+    "table-1444-1444": {
+        "title": [
+            "Event ID",
+            "Location",
+            "Status"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the event ID, location, and status of events conducted from November 2019 to March 2020.",
+        "data": [
+            [
+                "EVT-2019-11-01",
+                "New York",
+                "Completed"
+            ],
+            [
+                "EVT-2019-12-15",
+                "London",
+                "Completed"
+            ],
+            [
+                "EVT-2020-01-05",
+                "Paris",
+                "Scheduled"
+            ],
+            [
+                "EVT-2020-02-10",
+                "Berlin",
+                "Completed"
+            ],
+            [
+                "EVT-2020-03-01",
+                "Tokyo",
+                "Postponed"
+            ],
+            [
+                "EVT-2020-03-15",
+                "Sydney",
+                "Cancelled"
+            ],
+            [
+                "EVT-2019-11-20",
+                "Dubai",
+                "Completed"
+            ]
+        ]
+    }
+}

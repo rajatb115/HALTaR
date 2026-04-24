@@ -1,0 +1,62 @@
+{
+    "table-66-66": {
+        "title": [
+            "Funding Source Category",
+            "School Type",
+            "County",
+            "Count of Charter Schools",
+            "Percentage of Total Charter Schools"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the ratio in percentage of Santa Clara County schools that are locally funded compared to all other types of charter school funding?",
+        "data": [
+            [
+                "Local District Funds",
+                "Charter",
+                "Santa Clara",
+                "45",
+                "35%"
+            ],
+            [
+                "State Grants & Programs",
+                "Charter",
+                "Santa Clara",
+                "30",
+                "23%"
+            ],
+            [
+                "Federal Title I/II Funds",
+                "Charter",
+                "Santa Clara",
+                "10",
+                "8%"
+            ],
+            [
+                "Private Foundation Grants",
+                "Charter",
+                "Santa Clara",
+                "15",
+                "12%"
+            ],
+            [
+                "Mixed Funding Sources",
+                "Charter",
+                "Santa Clara",
+                "28",
+                "22%"
+            ],
+            [
+                "Parent & Community Donations",
+                "Charter",
+                "Santa Clara",
+                "2",
+                "2%"
+            ]
+        ]
+    }
+}

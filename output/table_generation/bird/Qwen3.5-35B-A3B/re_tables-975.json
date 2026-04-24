@@ -1,0 +1,61 @@
+{
+    "table-975-975": {
+        "title": [
+            "Racing Year",
+            "Driver",
+            "Team",
+            "Lap Time",
+            "Track",
+            "Circuit Length"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the racing year which has the fastest lap time?",
+        "data": [
+            [
+                "2024",
+                "Max Verstappen",
+                "Red Bull Racing",
+                "1:16.785",
+                "Monaco Grand Prix",
+                "3.337 km"
+            ],
+            [
+                "1974",
+                "Emerson Fittipaldi",
+                "Lotus-Ford",
+                "1'15.88",
+                "Brands Hatch GP Circuit",
+                "4.209 km"
+            ],
+            [
+                "2018",
+                "Lewis Hamilton",
+                "Mercedes AMG Petronas",
+                "1m 12s 800",
+                "Silverstone Circuit",
+                "5.900 km"
+            ],
+            [
+                "1968",
+                "Jackie Stewart",
+                "March Engineering",
+                "1h 22m 45s",
+                "Spa-Francorchamps",
+                "14.120 km"
+            ],
+            [
+                "2030",
+                "Charles Leclerc",
+                "Ferrari",
+                "1min 10sec",
+                "Baku City Circuit",
+                "6.003 km"
+            ]
+        ]
+    }
+}

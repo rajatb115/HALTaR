@@ -1,0 +1,51 @@
+{
+    "table-1209-1209": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "ALT (GPT) Value",
+            "History of Elevated ALT"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Male Patients with Elevated ALT",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide IDs for male patients with ALT glutamic pylvic transaminase (GPT) that have history of ALT glutamic pylvic transaminase (GPT) exceed the normal range.",
+        "data": [
+            [
+                "12345",
+                "Male",
+                "75 U/L",
+                "Yes"
+            ],
+            [
+                "67890",
+                "Male",
+                "82 U/L",
+                "Yes"
+            ],
+            [
+                "24680",
+                "Male",
+                "60 U/L",
+                "Yes"
+            ],
+            [
+                "13579",
+                "Male",
+                "45 U/L",
+                "No"
+            ],
+            [
+                "98765",
+                "Male",
+                "90 U/L",
+                "Yes"
+            ]
+        ]
+    }
+}

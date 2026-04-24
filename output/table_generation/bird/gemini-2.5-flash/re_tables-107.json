@@ -1,0 +1,85 @@
+{
+    "table-107-107": {
+        "title": [
+            "Client ID",
+            "Card Open Date",
+            "Transaction ID",
+            "Transaction Date",
+            "Amount (USD)",
+            "Type",
+            "Merchant Category"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the biggest amount of transaction that the client whose card was opened in 1996/10/21 made?",
+        "data": [
+            [
+                "C001",
+                "1996/10/21",
+                "T00101",
+                "2000/01/15",
+                "1250.00",
+                "Purchase",
+                "Electronics"
+            ],
+            [
+                "C001",
+                "1996/10/21",
+                "T00102",
+                "2000/02/01",
+                "500.00",
+                "ATM Withdrawal",
+                "N/A"
+            ],
+            [
+                "C001",
+                "1996/10/21",
+                "T00103",
+                "2000/03/10",
+                "3500.50",
+                "Purchase",
+                "Travel"
+            ],
+            [
+                "C002",
+                "1998/05/01",
+                "T00201",
+                "2001/07/20",
+                "800.00",
+                "Purchase",
+                "Groceries"
+            ],
+            [
+                "C001",
+                "1996/10/21",
+                "T00104",
+                "2000/04/05",
+                "150.75",
+                "Purchase",
+                "Restaurant"
+            ],
+            [
+                "C003",
+                "1995/11/11",
+                "T00301",
+                "1999/12/01",
+                "2500.00",
+                "Purchase",
+                "Home Goods"
+            ],
+            [
+                "C001",
+                "1996/10/21",
+                "T00105",
+                "2000/05/12",
+                "7500.00",
+                "Purchase",
+                "Luxury Goods"
+            ]
+        ]
+    }
+}

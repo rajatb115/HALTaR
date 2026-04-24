@@ -1,0 +1,69 @@
+{
+    "table-1489-1489": {
+        "title": [
+            "Customer Name",
+            "Consumption Value",
+            "Consumption Unit",
+            "Period",
+            "Industry"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who among KAM's customers consumed the most? How much did it consume?",
+        "data": [
+            [
+                "Manufacturing Hub",
+                "210000",
+                "kWh",
+                "Q4 2023",
+                "Manufacturing"
+            ],
+            [
+                "Tech Innovations Inc.",
+                "185000",
+                "kWh",
+                "Q4 2023",
+                "Technology"
+            ],
+            [
+                "Global Logistics Co.",
+                "120000",
+                "USD",
+                "Annual 2023",
+                "Logistics"
+            ],
+            [
+                "Financial Services Group",
+                "110000",
+                "Units",
+                "Q3 2023",
+                "Finance"
+            ],
+            [
+                "Retail Solutions Ltd.",
+                "95000",
+                "Units",
+                "Monthly Avg",
+                "Retail"
+            ],
+            [
+                "Healthcare Providers",
+                "75000",
+                "USD",
+                "Annual 2023",
+                "Healthcare"
+            ],
+            [
+                "Education Systems Inc.",
+                "60000",
+                "kWh",
+                "Monthly Avg",
+                "Education"
+            ]
+        ]
+    }
+}

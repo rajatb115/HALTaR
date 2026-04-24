@@ -1,0 +1,69 @@
+{
+    "table-1454-1454": {
+        "title": [
+            "Event Name",
+            "Date",
+            "Location",
+            "Parking Cost ($)",
+            "Attendance"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of events with less than average parking cost.",
+        "data": [
+            [
+                "Tech Summit 2024",
+                "2024-09-15",
+                "Convention Center",
+                "15",
+                "5000"
+            ],
+            [
+                "Annual Charity Gala",
+                "2024-10-22",
+                "Grand Ballroom",
+                "25",
+                "300"
+            ],
+            [
+                "City Marathon",
+                "2024-05-01",
+                "Downtown Streets",
+                "10",
+                "15000"
+            ],
+            [
+                "Summer Music Fest",
+                "2024-07-10",
+                "Festival Grounds",
+                "20",
+                "25000"
+            ],
+            [
+                "Food Truck Rally",
+                "2024-06-05",
+                "City Park",
+                "5",
+                "1000"
+            ],
+            [
+                "Art Exhibition",
+                "2024-11-18",
+                "Museum Gallery",
+                "12",
+                "800"
+            ],
+            [
+                "Community Fair",
+                "2024-08-25",
+                "Fairgrounds",
+                "8",
+                "3000"
+            ]
+        ]
+    }
+}

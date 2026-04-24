@@ -1,0 +1,39 @@
+{
+    "table-447-447": {
+        "title": [
+            "Country",
+            "Life Expectancy (Years)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Asian Countries by Life Expectancy",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of country that has the shortest life expectancy in Asia?",
+        "data": [
+            [
+                "Afghanistan",
+                "62"
+            ],
+            [
+                "Pakistan",
+                "66"
+            ],
+            [
+                "North Korea",
+                "72"
+            ],
+            [
+                "Japan",
+                "84"
+            ],
+            [
+                "Singapore",
+                "83"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-650-650": {
+        "title": [
+            "Event Type",
+            "Count",
+            "Last Edit Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Post History Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the post history counts and last edit date of the post title \"What is the best introductory Bayesian statistics textbook?\"",
+        "data": [
+            [
+                "Title Edit",
+                "3",
+                "2023-08-15"
+            ],
+            [
+                "Body Edit",
+                "7",
+                "2023-08-22"
+            ],
+            [
+                "Tag Edit",
+                "2",
+                "2023-08-10"
+            ],
+            [
+                "Comment",
+                "15",
+                "2023-08-23"
+            ],
+            [
+                "Upvote",
+                "50",
+                "2023-08-24"
+            ]
+        ]
+    }
+}

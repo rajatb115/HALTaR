@@ -1,0 +1,103 @@
+{
+    "table-364-364": {
+        "title": [
+            "Series Title",
+            "Share Min (%)",
+            "Share Max (%)",
+            "Season Count",
+            "Genre",
+            "Network",
+            "Status",
+            "Avg Rating"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is minimum and maximum share of TV series?",
+        "data": [
+            [
+                "Breaking Bad",
+                "4.2",
+                "6.7",
+                "5",
+                "Crime Drama",
+                "AMC",
+                "Ended",
+                "9.5"
+            ],
+            [
+                "Game of Thrones",
+                "3.8",
+                "8.1",
+                "7",
+                "Fantasy Epic",
+                "HBO",
+                "Ended/Continued",
+                "0.9"
+            ],
+            [
+                "Stranger Things",
+                "2.1",
+                "5.4",
+                "4",
+                "Sci-Fi Horror",
+                "Netflix",
+                "Ongoing",
+                "N/A"
+            ],
+            [
+                "The Office US",
+                "",
+                "12.3",
+                "",
+                "Comedy Mockumentary",
+                "NBC",
+                "Ended",
+                ""
+            ],
+            [
+                "Friends",
+                "",
+                "",
+                "",
+                "Sitcom",
+                "NBC",
+                "Completed",
+                ""
+            ],
+            [
+                "Sherlock UK",
+                "",
+                "",
+                "",
+                "Mystery",
+                "BBC One",
+                "Suspended",
+                ""
+            ],
+            [
+                "Westworld",
+                "",
+                "",
+                "",
+                "Western Sci-Fi",
+                "HBO",
+                "Cancelled",
+                ""
+            ],
+            [
+                "Better Call Saul",
+                "",
+                "",
+                "",
+                "Legal Drama",
+                "AMC",
+                "Finished",
+                ""
+            ]
+        ]
+    }
+}

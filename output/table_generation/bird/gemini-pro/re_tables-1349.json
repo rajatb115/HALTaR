@@ -1,0 +1,59 @@
+{
+    "table-1349-1349": {
+        "title": [
+            "Budget ID",
+            "Budget Name",
+            "Budget Amount",
+            "Actual Spend",
+            "Exceeded Budget"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            2,
+            3
+        ],
+        "pgTitle": "November Meeting Budget Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the budgets for \"November Meeting\", how many of them had exceeded the budget?",
+        "data": [
+            [
+                "1",
+                "November Meeting - Catering",
+                "500",
+                "600",
+                "Yes"
+            ],
+            [
+                "2",
+                "November Meeting - Venue",
+                "1000",
+                "900",
+                "No"
+            ],
+            [
+                "3",
+                "November Meeting - Travel",
+                "200",
+                "250",
+                "Yes"
+            ],
+            [
+                "4",
+                "November Meeting - Speaker Fees",
+                "1500",
+                "1500",
+                "No"
+            ],
+            [
+                "5",
+                "November Meeting - Marketing",
+                "300",
+                "280",
+                "No"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1052-1052": {
+        "title": [
+            "Player Name",
+            "Position",
+            "Club",
+            "Current Rating",
+            "Potential Rating",
+            "Age"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the football player with the highest potential score.",
+        "data": [
+            [
+                "Kylian Mbapp\u00e9",
+                "ST",
+                "Paris SG",
+                "91",
+                "95",
+                "25"
+            ],
+            [
+                "Erling Haaland",
+                "ST",
+                "Man City",
+                "90",
+                "94",
+                "23"
+            ],
+            [
+                "Jude Bellingham",
+                "CM",
+                "Real Madrid",
+                "88",
+                "93",
+                "20"
+            ],
+            [
+                "Jamal Musiala",
+                "CAM",
+                "Bayern Munich",
+                "86",
+                "92",
+                "21"
+            ],
+            [
+                "Pedri",
+                "CM",
+                "FC Barcelona",
+                "86",
+                "91",
+                "21"
+            ],
+            [
+                "Florian Wirtz",
+                "CAM",
+                "Bayer 04",
+                "87",
+                "92",
+                "21"
+            ],
+            [
+                "Gavi",
+                "CM",
+                "FC Barcelona",
+                "83",
+                "90",
+                "19"
+            ]
+        ]
+    }
+}

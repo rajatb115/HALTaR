@@ -1,0 +1,83 @@
+{
+    "table-150-150": {
+        "title": [
+            "Account_Type",
+            "District_ID",
+            "Avg_Income_District",
+            "Loan_Eligibility_Status",
+            "Reason_For_Exclusion",
+            "Max_Loan_Amount",
+            "Interest_Rate_Cap",
+            "Risk_Category"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the account types that are not eligible for loans, and the average income of residents in the district where the account is located exceeds $8000 but is no more than $9000.",
+        "data": [
+            [
+                "Savings_Checking",
+                "D-402",
+                "$8,250",
+                "Not Eligible",
+                "Minimum Balance Requirement Met",
+                "N/A",
+                "N/",
+                "Low"
+            ],
+            [
+                "Business_Operating",
+                "D-Delta",
+                "$7,950 - $8,-$8,100",
+                "Restricted",
+                "Credit History Insufficient",
+                "$0",
+                "N/%",
+                "Medium"
+            ],
+            [
+                "Student_Accounts",
+                "D-Zeta",
+                "$6,500 - N/A*",
+                "Excluded",
+                "Age Restriction Applied",
+                "$50,00**",
+                "0%",
+                "High"
+            ],
+            [
+                "Trust_Fund_Only",
+                "D-Omega",
+                "$9,150+",
+                "Ineligible",
+                "Income Threshold Exceeded",
+                "$10,***",
+                "4.5%",
+                "Very_High"
+            ],
+            [
+                "Joint_Savings",
+                "D-Beta",
+                "**$8,**",
+                "Conditional",
+                "Co-Signer Required",
+                "$25,****",
+                "3.2%",
+                "Moderate"
+            ],
+            [
+                "Corporate_Treasury",
+                "D-Gamma",
+                "$**,*",
+                "Suspended",
+                "Regulatory",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

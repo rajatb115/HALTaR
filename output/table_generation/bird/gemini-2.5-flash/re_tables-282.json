@@ -1,0 +1,62 @@
+{
+    "table-282-282": {
+        "title": [
+            "Molecule Name",
+            "CAS Number",
+            "Carcinogen Status",
+            "4th Atom Element",
+            "Toxicology Impact"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Tally the toxicology element of the 4th atom of each molecule that was carcinogenic.",
+        "data": [
+            [
+                "Benzene",
+                "71-43-2",
+                "Group 1 (IARC)",
+                "Carbon",
+                "DNA Adduct Formation"
+            ],
+            [
+                "Vinyl Chloride",
+                "75-01-4",
+                "Group 1 (IARC)",
+                "Carbon",
+                "Genotoxic Alkylation"
+            ],
+            [
+                "Aflatoxin B1",
+                "1162-65-8",
+                "Group 1 (IARC)",
+                "Oxygen",
+                "Liver Toxicity, DNA Binding"
+            ],
+            [
+                "Formaldehyde",
+                "50-00-0",
+                "Group 1 (IARC)",
+                "Carbon",
+                "Protein Cross-linking"
+            ],
+            [
+                "2,3,7,8-TCDD",
+                "1746-01-6",
+                "Group 1 (IARC)",
+                "Carbon",
+                "AhR Receptor Agonism"
+            ],
+            [
+                "Cadmium Chloride",
+                "10108-64-2",
+                "Group 1 (IARC)",
+                "Chlorine",
+                "Oxidative Stress, DNA Damage"
+            ]
+        ]
+    }
+}

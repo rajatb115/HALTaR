@@ -1,0 +1,45 @@
+{
+    "table-454-454": {
+        "title": [
+            "Country",
+            "Continent",
+            "Surface Area (km\u00b2)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Surface Area of Countries in Asia and Europe",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the total surface area covered by countries in Asia or Europe.",
+        "data": [
+            [
+                "Russia",
+                "Europe/Asia",
+                "17,098,246"
+            ],
+            [
+                "China",
+                "Asia",
+                "9,596,961"
+            ],
+            [
+                "India",
+                "Asia",
+                "3,287,263"
+            ],
+            [
+                "Kazakhstan",
+                "Asia/Europe",
+                "2,724,900"
+            ],
+            [
+                "Argentina",
+                "South America",
+                "2,780,400"
+            ]
+        ]
+    }
+}

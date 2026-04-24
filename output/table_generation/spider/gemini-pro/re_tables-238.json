@@ -1,0 +1,39 @@
+{
+    "table-238-238": {
+        "title": [
+            "Metric",
+            "Value"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Ticket Purchase Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the average and maximum number of tickets bought in all visits?",
+        "data": [
+            [
+                "Average Tickets",
+                "2.5"
+            ],
+            [
+                "Maximum Tickets",
+                "7"
+            ],
+            [
+                "Minimum Tickets",
+                "1"
+            ],
+            [
+                "Total Visits",
+                "150"
+            ],
+            [
+                "Standard Deviation",
+                "1.2"
+            ]
+        ]
+    }
+}

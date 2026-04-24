@@ -1,0 +1,54 @@
+{
+    "table-978-978": {
+        "title": [
+            "Race Number",
+            "Number of Finishers",
+            "Number of Disqualified Finishers",
+            "Disqualification Rate (%)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Race Disqualification Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From race no. 50 to 100, how many finishers have been disqualified?",
+        "data": [
+            [
+                "50",
+                "250",
+                "2",
+                "0.8"
+            ],
+            [
+                "60",
+                "265",
+                "3",
+                "1.13"
+            ],
+            [
+                "70",
+                "240",
+                "1",
+                "0.42"
+            ],
+            [
+                "80",
+                "270",
+                "4",
+                "1.48"
+            ],
+            [
+                "90",
+                "255",
+                "2",
+                "0.78"
+            ]
+        ]
+    }
+}

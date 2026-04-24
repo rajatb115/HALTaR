@@ -1,0 +1,45 @@
+{
+    "table-97-97": {
+        "title": [
+            "Issuance Frequency",
+            "Customer Type",
+            "Customer Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Customer Demographics by Statement Issuance Frequency",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many customers who choose statement of weekly issuance are Owner?",
+        "data": [
+            [
+                "Weekly",
+                "Owner",
+                "150"
+            ],
+            [
+                "Monthly",
+                "Owner",
+                "320"
+            ],
+            [
+                "Weekly",
+                "Manager",
+                "80"
+            ],
+            [
+                "Monthly",
+                "Manager",
+                "200"
+            ],
+            [
+                "Bi-weekly",
+                "Owner",
+                "255"
+            ]
+        ]
+    }
+}

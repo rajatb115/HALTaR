@@ -1,0 +1,76 @@
+{
+    "table-636-636": {
+        "title": [
+            "Post ID",
+            "Author",
+            "Vote Count",
+            "Status",
+            "Category",
+            "Date Posted",
+            "Platform"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts by Matt Parker have more than 4 votes?",
+        "data": [
+            [
+                "P-1002",
+                "Matt Parker",
+                "7",
+                "Active",
+                "Math Humor",
+                "06/15/2023",
+                "Twitter"
+            ],
+            [
+                "P-1105",
+                "Matt Parker",
+                "5",
+                "Archived",
+                "Science Fact",
+                "03/22/2023",
+                "Reddit"
+            ],
+            [
+                "P-1209",
+                "M. Parker",
+                "",
+                "Draft",
+                "Standup Clip",
+                "08/01/2024",
+                "YouTube"
+            ],
+            [
+                "POST-442",
+                "Matthew Parker",
+                "-2",
+                "Deleted",
+                "Controversial",
+                "09/10/2021",
+                "Facebook"
+            ],
+            [
+                "ID-9981",
+                "Matt P.",
+                "4",
+                "Pending",
+                "Poll Result",
+                "06/30/2019",
+                "Instagram"
+            ],
+            [
+                "M-PARK-003",
+                "Matty Parker",
+                ">10",
+                "Verified",
+                "Live Event",
+                "12/05/2018",
+                "Twitch"
+            ]
+        ]
+    }
+}

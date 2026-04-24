@@ -1,0 +1,76 @@
+{
+    "table-561-561": {
+        "title": [
+            "Badge ID",
+            "Badge Name",
+            "Category",
+            "Total Count",
+            "Status",
+            "Issued Date",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the number of \"Revival\" badges.",
+        "data": [
+            [
+                "BRV-004",
+                "Revival Classic",
+                "Historical",
+                "42",
+                "Active",
+                "06/15/2023",
+                "North America"
+            ],
+            [
+                "BRV-112",
+                "Revive Spirit",
+                "Community",
+                "87",
+                "Inactive",
+                "3/22/2024",
+                "Europe"
+            ],
+            [
+                "REV-990",
+                "Grand Revival",
+                "Event",
+                "5",
+                "Pending",
+                "N/A",
+                "Global"
+            ],
+            [
+                "RVL-203",
+                "Modern Revival Series",
+                "Digital",
+                "64",
+                "Active",
+                "12/01/2023",
+                "Asia Pacific"
+            ],
+            [
+                "RVB-771",
+                "Legacy Revival Award",
+                "Recognition",
+                "99",
+                "Archived",
+                "7/19/2021",
+                "South America"
+            ],
+            [
+                "RVT-445",
+                "Future Revival Grant",
+                "Financial",
+                "12",
+                "Active",
+                "01/10/2020",
+                "North America"
+            ]
+        ]
+    }
+}

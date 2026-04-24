@@ -1,0 +1,39 @@
+{
+    "table-387-387": {
+        "title": [
+            "Channel ID",
+            "Channel Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "TV Channels Without Cartoons Directed by Ben Jones",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the ids of the TV channels that do not have any cartoons directed by Ben Jones?",
+        "data": [
+            [
+                "101",
+                "Channel A"
+            ],
+            [
+                "102",
+                "Channel B"
+            ],
+            [
+                "104",
+                "Channel D"
+            ],
+            [
+                "105",
+                "Channel E"
+            ],
+            [
+                "107",
+                "Channel G"
+            ]
+        ]
+    }
+}

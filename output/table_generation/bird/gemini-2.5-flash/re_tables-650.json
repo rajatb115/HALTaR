@@ -1,0 +1,62 @@
+{
+    "table-650-650": {
+        "title": [
+            "Post Title",
+            "Post ID",
+            "History Count",
+            "Last Edit Date",
+            "Original Post Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the post history counts and last edit date of the post title \"What is the best introductory Bayesian statistics textbook?\"",
+        "data": [
+            [
+                "What is the best introductory Bayesian statistics textbook?",
+                "12345",
+                "15",
+                "2023-10-26 14:35:01",
+                "2020-03-15 09:10:22"
+            ],
+            [
+                "Recommended advanced Bayesian inference books",
+                "12346",
+                "8",
+                "2023-09-10 11:20:05",
+                "2021-01-20 16:00:00"
+            ],
+            [
+                "Resources for learning MCMC methods",
+                "12347",
+                "22",
+                "2023-11-01 08:00:00",
+                "2019-07-01 10:30:00"
+            ],
+            [
+                "Review of 'Statistical Rethinking' by McElreath",
+                "12348",
+                "5",
+                "2023-08-15 17:45:00",
+                "2022-02-28 13:15:00"
+            ],
+            [
+                "Best general statistics textbooks for beginners",
+                "12349",
+                "12",
+                "2023-10-05 09:00:00",
+                "2020-11-11 11:11:11"
+            ],
+            [
+                "Understanding priors in Bayesian modeling",
+                "12350",
+                "7",
+                "2023-09-20 10:00:00",
+                "2021-05-01 14:00:00"
+            ]
+        ]
+    }
+}

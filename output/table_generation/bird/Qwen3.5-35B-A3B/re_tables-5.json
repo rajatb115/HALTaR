@@ -1,0 +1,73 @@
+{
+    "table-5-5": {
+        "title": [
+            "School ID",
+            "School Name",
+            "Charter Funding Source",
+            "Opening Date",
+            "Phone Number",
+            "Status",
+            "Region",
+            "Contact Person"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the phone numbers of the direct charter-funded schools that are opened after 2000/1/1.",
+        "data": [
+            [
+                "SCH-1042",
+                "Horizon Academy",
+                "Direct State Grant",
+                "01/06/2015",
+                "+1-555-0192",
+                "Active",
+                "North District",
+                "Sarah Jenkins"
+            ],
+            [
+                "SCH-A773",
+                "Valley View Institute",
+                "Federal Education Fund",
+                "03/12/2108",
+                "+44-20-7946-0958",
+                "Operational",
+                "West County",
+                "Michael Ross"
+            ],
+            [
+                "SCH-B221",
+                "Summit Learning Center",
+                "Municipal Allocation",
+                "07/22/1902",
+                "N/A",
+                "Pending Review",
+                "East Zone",
+                "David Chen"
+            ],
+            [
+                "SCH-C998",
+                "Riverside Charter High",
+                "Private Endowment Match",
+                "09/01/2023",
+                "+61-2-9876-5432",
+                "Opened",
+                "South Coast",
+                "Emily White"
+            ],
+            [
+                "SCH-D445",
+                "Oakwood STEM Prep",
+                "Local Tax Revenue Share",
+                "05/15/2999",
+                "+33-1",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

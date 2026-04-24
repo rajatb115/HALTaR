@@ -1,0 +1,69 @@
+{
+    "table-102-102": {
+        "title": [
+            "Account ID",
+            "Account Name",
+            "Trading Date",
+            "Account Type",
+            "Balance (USD)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the accounts who have the earliest trading date in 1995 ?",
+        "data": [
+            [
+                "100123",
+                "Global Investments Inc.",
+                "1995-01-02",
+                "Corporate",
+                "1,250,000.00"
+            ],
+            [
+                "100124",
+                "Sarah Chen",
+                "1995-01-03",
+                "Individual",
+                "85,000.00"
+            ],
+            [
+                "100125",
+                "Horizon Capital Group",
+                "1995-01-03",
+                "Corporate",
+                "3,100,000.00"
+            ],
+            [
+                "100126",
+                "David Lee & Associates",
+                "1995-01-04",
+                "Partnership",
+                "520,000.00"
+            ],
+            [
+                "100127",
+                "Emily White",
+                "1995-01-05",
+                "Individual",
+                "120,000.00"
+            ],
+            [
+                "100128",
+                "Zenith Holdings LLC",
+                "1995-01-05",
+                "Corporate",
+                "2,750,000.00"
+            ],
+            [
+                "100129",
+                "Mark Johnson",
+                "1995-01-08",
+                "Individual",
+                "95,000.00"
+            ]
+        ]
+    }
+}

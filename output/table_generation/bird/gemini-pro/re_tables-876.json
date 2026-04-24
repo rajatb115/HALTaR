@@ -1,0 +1,46 @@
+{
+    "table-876-876": {
+        "title": [
+            "Race Number",
+            "Season",
+            "Year"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Race Season Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show me the season page of year when the race No. 901 took place.",
+        "data": [
+            [
+                "901",
+                "Winter",
+                "2023"
+            ],
+            [
+                "902",
+                "Summer",
+                "2022"
+            ],
+            [
+                "903",
+                "Autumn",
+                "2021"
+            ],
+            [
+                "904",
+                "Spring",
+                "2020"
+            ],
+            [
+                "905",
+                "Winter",
+                "2019"
+            ]
+        ]
+    }
+}

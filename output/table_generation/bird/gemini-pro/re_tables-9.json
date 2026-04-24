@@ -1,0 +1,46 @@
+{
+    "table-9-9": {
+        "title": [
+            "School Name",
+            "FRPM Count (K-12)",
+            "Number of SAT Test Takers"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "SAT Scores and Free/Reduced Price Meal Program Participation",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the number of SAT test takers of the schools with the highest FRPM count for K-12 students?",
+        "data": [
+            [
+                "School A",
+                "950",
+                "120"
+            ],
+            [
+                "School B",
+                "920",
+                "150"
+            ],
+            [
+                "School C",
+                "890",
+                "100"
+            ],
+            [
+                "School D",
+                "870",
+                "130"
+            ],
+            [
+                "School E",
+                "850",
+                "110"
+            ]
+        ]
+    }
+}

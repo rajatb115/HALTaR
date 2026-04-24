@@ -1,0 +1,39 @@
+{
+    "table-30-30": {
+        "title": [
+            "Pet Type",
+            "Maximum Weight (lbs)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Maximum Pet Weights by Type",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the maximum weight for each type of pet. List the maximum weight and pet type.",
+        "data": [
+            [
+                "Dog",
+                "150"
+            ],
+            [
+                "Cat",
+                "25"
+            ],
+            [
+                "Bird",
+                "5"
+            ],
+            [
+                "Hamster",
+                "0.5"
+            ],
+            [
+                "Rabbit",
+                "20"
+            ]
+        ]
+    }
+}

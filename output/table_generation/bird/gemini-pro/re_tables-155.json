@@ -1,0 +1,45 @@
+{
+    "table-155-155": {
+        "title": [
+            "District",
+            "Gender",
+            "Client Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Clients by Gender and District",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male clients in 'Hl.m. Praha' district?",
+        "data": [
+            [
+                "Hl.m. Praha",
+                "Male",
+                "1234"
+            ],
+            [
+                "Brno-m\u011bsto",
+                "Male",
+                "876"
+            ],
+            [
+                "Hl.m. Praha",
+                "Female",
+                "1567"
+            ],
+            [
+                "Brno-m\u011bsto",
+                "Female",
+                "987"
+            ],
+            [
+                "Ostrava-m\u011bsto",
+                "Male",
+                "654"
+            ]
+        ]
+    }
+}

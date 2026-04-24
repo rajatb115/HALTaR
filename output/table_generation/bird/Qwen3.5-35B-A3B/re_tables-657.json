@@ -1,0 +1,58 @@
+{
+    "table-657-657": {
+        "title": [
+            "Child Post ID",
+            "Parent Display Name",
+            "Score",
+            "Author",
+            "Status",
+            "Category",
+            "Created Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the display name of the parent ID for child post with the highest score.",
+        "data": [
+            [
+                "CP_1042",
+                "Tech News Daily",
+                "9876",
+                "Admin User",
+                "Published",
+                "Technology",
+                "01/15/2023"
+            ],
+            [
+                "CP_1105",
+                "Global Updates Hub",
+                "8542",
+                "Editor Jane",
+                "Active",
+                "World Affairs",
+                "3/22/2024"
+            ],
+            [
+                "CP-9921",
+                "Community Voices Forum",
+                "7650",
+                "Moderator Bob",
+                "Archived",
+                "Local Events",
+                "5/10/2023"
+            ],
+            [
+                "CP_A003",
+                "Science Today Magazine",
+                "6543",
+                "Dr. Smith",
+                "Draft",
+                "Education",
+                "4/01/2024"
+            ]
+        ]
+    }
+}

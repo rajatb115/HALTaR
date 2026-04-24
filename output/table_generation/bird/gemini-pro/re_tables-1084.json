@@ -1,0 +1,39 @@
+{
+    "table-1084-1084": {
+        "title": [
+            "Player Name",
+            "Overall Strength"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Player Strength Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which player has the strongest overall strength?",
+        "data": [
+            [
+                "Player A",
+                "95"
+            ],
+            [
+                "Player B",
+                "92"
+            ],
+            [
+                "Player C",
+                "90"
+            ],
+            [
+                "Player D",
+                "88"
+            ],
+            [
+                "Player E",
+                "85"
+            ]
+        ]
+    }
+}

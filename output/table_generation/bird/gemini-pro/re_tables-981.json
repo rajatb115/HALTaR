@@ -1,0 +1,58 @@
+{
+    "table-981-981": {
+        "title": [
+            "Driver Reference Name",
+            "Nationality",
+            "Birthday",
+            "Qualifying Lap",
+            "Race Number"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            3,
+            4
+        ],
+        "pgTitle": "Qualifying Lap Results",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the reference name of the drivers who passed the second qualifying lap during race no. 23. Indicate their nationality and birthday.",
+        "data": [
+            [
+                "hamilton",
+                "British",
+                "1985-01-07",
+                "2",
+                "23"
+            ],
+            [
+                "bottas",
+                "Finnish",
+                "1989-08-28",
+                "2",
+                "23"
+            ],
+            [
+                "verstappen",
+                "Dutch",
+                "1997-09-30",
+                "2",
+                "23"
+            ],
+            [
+                "alonso",
+                "Spanish",
+                "1981-07-29",
+                "2",
+                "23"
+            ],
+            [
+                "ricciardo",
+                "Australian",
+                "1989-07-01",
+                "2",
+                "23"
+            ]
+        ]
+    }
+}

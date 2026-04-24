@@ -1,0 +1,40 @@
+{
+    "table-1477-1477": {
+        "title": [
+            "Currency",
+            "Total Gas Consumption (Units)",
+            "Number of Customers",
+            "Average Gas Consumption per Customer (Units)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Gas Consumption by Currency in 2012",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the difference in gas consumption between CZK-paying customers and EUR-paying customers in 2012?",
+        "data": [
+            [
+                "CZK",
+                "1,250,000",
+                "5,000",
+                "250"
+            ],
+            [
+                "EUR",
+                "750,000",
+                "2,000",
+                "375"
+            ],
+            [
+                "Difference",
+                "500,000",
+                "3,000",
+                "-125"
+            ]
+        ]
+    }
+}

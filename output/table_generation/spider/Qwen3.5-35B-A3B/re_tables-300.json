@@ -1,0 +1,73 @@
+{
+    "table-300-300": {
+        "title": [
+            "Department ID",
+            "Department Name",
+            "Degree Offered",
+            "Total Students Enrolled",
+            "Accreditation Status",
+            "Annual Budget ($)",
+            "Program Duration (Years)",
+            "Last Review Date"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many departments offer any degree?",
+        "data": [
+            [
+                "DEPT004",
+                "Computer Science",
+                "Bachelor of Science in CS",
+                "450",
+                "Fully Accredited",
+                "75000",
+                "6",
+                "01/15/2023"
+            ],
+            [
+                "DEPT012",
+                "Mechanical Engineering",
+                "Master of Engineering",
+                "320",
+                "Provisional",
+                "92050",
+                "4",
+                "03/22/2023"
+            ],
+            [
+                "DEPT009",
+                "Biology",
+                "Doctorate in Biological Sciences",
+                "85",
+                "Fully Accredited",
+                "55020",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "DEPTA003",
+                "Business Administration",
+                "MBA",
+                "610",
+                "Fully Accredited",
+                "11005",
+                "2",
+                "06/10/2024"
+            ],
+            [
+                "DEPTB007",
+                "Psychology",
+                "Bachelor of Arts in Psychology",
+                "290",
+                "Pending Renewal",
+                "42030",
+                "",
+                ""
+            ]
+        ]
+    }
+}

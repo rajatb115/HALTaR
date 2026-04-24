@@ -1,0 +1,69 @@
+{
+    "table-624-624": {
+        "title": [
+            "User ID",
+            "Age Group",
+            "Badge Name",
+            "Date Awarded",
+            "Points Earned"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many elders obtained the \"Supporter\" badge?",
+        "data": [
+            [
+                "U001",
+                "Elder",
+                "Supporter",
+                "2023-01-15",
+                "100"
+            ],
+            [
+                "U002",
+                "Adult",
+                "Contributor",
+                "2023-02-01",
+                "75"
+            ],
+            [
+                "U003",
+                "Elder",
+                "Mentor",
+                "2023-03-10",
+                "150"
+            ],
+            [
+                "U004",
+                "Youth",
+                "Helper",
+                "2023-04-05",
+                "50"
+            ],
+            [
+                "U005",
+                "Elder",
+                "Supporter",
+                "2023-05-20",
+                "100"
+            ],
+            [
+                "U006",
+                "Adult",
+                "Supporter",
+                "2023-06-12",
+                "100"
+            ],
+            [
+                "U007",
+                "Elder",
+                "Supporter",
+                "2023-07-01",
+                "100"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-1521-1521": {
+        "title": [
+            "Customer ID",
+            "Date",
+            "Expenses"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Customer Spending History",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the customer who paid 124.05 in 2012/8/24, how much did he/she spend during the January of 2012? And what is the date and expenses exactly?",
+        "data": [
+            [
+                "123",
+                "2012-01-05",
+                "25.50"
+            ],
+            [
+                "123",
+                "2012-01-12",
+                "50.00"
+            ],
+            [
+                "123",
+                "2012-01-19",
+                "30.25"
+            ],
+            [
+                "123",
+                "2012-01-26",
+                "15.75"
+            ],
+            [
+                "123",
+                "2012-08-24",
+                "124.05"
+            ]
+        ]
+    }
+}

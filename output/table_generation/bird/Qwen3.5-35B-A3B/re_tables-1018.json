@@ -1,0 +1,73 @@
+{
+    "table-1018-1018": {
+        "title": [
+            "Circuit Name",
+            "Lap Record Time",
+            "Latitude",
+            "Longitude",
+            "Country",
+            "Elevation (m)",
+            "Track Length (km)",
+            "First Set Date"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the location coordinates of the circuits whose lap record is 1:29.488.",
+        "data": [
+            [
+                "Circuit de Barcelona-Catalunya",
+                "01:16.337",
+                "41.57",
+                "-2.26",
+                "Spain",
+                "85",
+                "3.07",
+                "May 2, 2nd"
+            ],
+            [
+                "Silverstone Circuit",
+                "57.23s",
+                "62.12",
+                "-1.015",
+                "United Kingdom",
+                "70",
+                "9.21",
+                "July 14th"
+            ],
+            [
+                "Suzuka International Racing Course",
+                "1 min 29 sec",
+                "34.84",
+                "136.54",
+                "Japan",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Autodromo Nazionale Monza",
+                "N/A",
+                "0.45",
+                "0.123",
+                "Italy",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Bahrain International Circuit",
+                "1h 28min",
+                "",
+                "",
+                "Bahrain",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

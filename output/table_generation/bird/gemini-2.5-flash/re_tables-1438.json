@@ -1,0 +1,62 @@
+{
+    "table-1438-1438": {
+        "title": [
+            "Member Name",
+            "Approval Date",
+            "Event Attended",
+            "Event Name",
+            "Event Link"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which members who were approved from 1/10/2019 to 11/19/2019? Please identify the member who attended the event and the link to their event.",
+        "data": [
+            [
+                "Alice Smith",
+                "2019-10-05",
+                "Yes",
+                "Annual Tech Summit",
+                "https://events.example.com/techsummit2019"
+            ],
+            [
+                "Bob Johnson",
+                "2019-10-12",
+                "No",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "Carol White",
+                "2019-10-20",
+                "Yes",
+                "Data Analytics Workshop",
+                "https://events.example.com/dataworkshop"
+            ],
+            [
+                "David Green",
+                "2019-11-01",
+                "Yes",
+                "Future of AI Conference",
+                "https://events.example.com/aiconf2019"
+            ],
+            [
+                "Emily Brown",
+                "2019-11-10",
+                "No",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "Frank Black",
+                "2019-11-18",
+                "Yes",
+                "Member Networking Mixer",
+                "https://events.example.com/mixer2019"
+            ]
+        ]
+    }
+}

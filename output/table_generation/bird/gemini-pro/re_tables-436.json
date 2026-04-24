@@ -1,0 +1,39 @@
+{
+    "table-436-436": {
+        "title": [
+            "Card ID",
+            "Border Color"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Card Details with Black Borders",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many card border with black color ? List out the card id.",
+        "data": [
+            [
+                "123",
+                "Black"
+            ],
+            [
+                "456",
+                "Black"
+            ],
+            [
+                "789",
+                "Silver"
+            ],
+            [
+                "101",
+                "Black"
+            ],
+            [
+                "112",
+                "Gold"
+            ]
+        ]
+    }
+}

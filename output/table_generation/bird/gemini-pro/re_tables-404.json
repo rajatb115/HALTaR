@@ -1,0 +1,51 @@
+{
+    "table-404-404": {
+        "title": [
+            "Card Name",
+            "Language",
+            "Count",
+            "Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Spanish Card Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of cards in Spanish. List them by name.",
+        "data": [
+            [
+                "Card A",
+                "Spanish",
+                "15",
+                "75%"
+            ],
+            [
+                "Card B",
+                "English",
+                "5",
+                "25%"
+            ],
+            [
+                "Card C",
+                "Spanish",
+                "8",
+                "80%"
+            ],
+            [
+                "Card D",
+                "French",
+                "2",
+                "20%"
+            ],
+            [
+                "Card E",
+                "Spanish",
+                "12",
+                "60%"
+            ]
+        ]
+    }
+}

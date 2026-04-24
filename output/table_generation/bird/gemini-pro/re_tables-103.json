@@ -1,0 +1,52 @@
+{
+    "table-103-103": {
+        "title": [
+            "Account ID",
+            "Account Type",
+            "Account Opening Date",
+            "Balance (USD)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Early Account Holders with Significant Balances",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State different accounts who have account opening date before 1997 and own an amount of money greater than 3000USD",
+        "data": [
+            [
+                "12345",
+                "Savings",
+                "1995-03-15",
+                "5500"
+            ],
+            [
+                "67890",
+                "Checking",
+                "1996-11-01",
+                "3200"
+            ],
+            [
+                "24680",
+                "Savings",
+                "1992-07-22",
+                "4800"
+            ],
+            [
+                "13579",
+                "Investment",
+                "1994-05-10",
+                "10000"
+            ],
+            [
+                "98765",
+                "Checking",
+                "1993-09-18",
+                "3500"
+            ]
+        ]
+    }
+}

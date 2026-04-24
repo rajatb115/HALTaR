@@ -1,0 +1,69 @@
+{
+    "table-1247-1247": {
+        "title": [
+            "Patient ID",
+            "aPTT Status",
+            "aPTT Value (seconds)",
+            "Thrombosis Severity",
+            "Coagulation Disorder"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients with an abnormal activated partial prothrom bin time, how many of them have a mild thrombosis?",
+        "data": [
+            [
+                "P001",
+                "Abnormal",
+                "48.2",
+                "Mild",
+                "Factor V Leiden"
+            ],
+            [
+                "P002",
+                "Abnormal",
+                "55.1",
+                "Moderate",
+                "Antiphospholipid Syndrome"
+            ],
+            [
+                "P003",
+                "Normal",
+                "31.5",
+                "None",
+                "N/A"
+            ],
+            [
+                "P004",
+                "Abnormal",
+                "42.9",
+                "Mild",
+                "Protein C Deficiency"
+            ],
+            [
+                "P005",
+                "Abnormal",
+                "61.7",
+                "Severe",
+                "Disseminated Intravascular Coagulation"
+            ],
+            [
+                "P006",
+                "Abnormal",
+                "45.0",
+                "Mild",
+                "Prothrombin Gene Mutation"
+            ],
+            [
+                "P007",
+                "Normal",
+                "33.8",
+                "None",
+                "N/A"
+            ]
+        ]
+    }
+}

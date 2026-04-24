@@ -1,0 +1,47 @@
+{
+    "table-398-398": {
+        "title": [
+            "Player ID",
+            "Earnings",
+            "Final Tables"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Poker Player Final Table Appearances",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum number of final tables made among poker players with earnings less than 200000?",
+        "data": [
+            [
+                "123",
+                "150000",
+                "5"
+            ],
+            [
+                "456",
+                "180000",
+                "3"
+            ],
+            [
+                "789",
+                "190000",
+                "7"
+            ],
+            [
+                "101",
+                "120000",
+                "2"
+            ],
+            [
+                "112",
+                "160000",
+                "4"
+            ]
+        ]
+    }
+}

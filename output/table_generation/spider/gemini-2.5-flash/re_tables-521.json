@@ -1,0 +1,61 @@
+{
+    "table-521-521": {
+        "title": [
+            "City Name",
+            "Country",
+            "Population",
+            "Region"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of cities that have a population between 160000 and 900000 .",
+        "data": [
+            [
+                "Sacramento",
+                "USA",
+                "525041",
+                "North America"
+            ],
+            [
+                "Edinburgh",
+                "UK",
+                "548800",
+                "Europe"
+            ],
+            [
+                "Bologna",
+                "Italy",
+                "392200",
+                "Europe"
+            ],
+            [
+                "Raleigh",
+                "USA",
+                "476587",
+                "North America"
+            ],
+            [
+                "Marseille",
+                "France",
+                "870321",
+                "Europe"
+            ],
+            [
+                "Utrecht",
+                "Netherlands",
+                "361962",
+                "Europe"
+            ],
+            [
+                "Newcastle upon Tyne",
+                "UK",
+                "295800",
+                "Europe"
+            ]
+        ]
+    }
+}

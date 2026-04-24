@@ -1,0 +1,62 @@
+{
+    "table-895-895": {
+        "title": [
+            "Driver",
+            "Lap Time",
+            "Race",
+            "Track",
+            "Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the best lap time recorded? List the driver and race with such recorded lap time.",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "1:18.345",
+                "Monaco Grand Prix",
+                "Circuit de Monaco",
+                "2021"
+            ],
+            [
+                "Max Verstappen",
+                "1:20.123",
+                "Spanish Grand Prix",
+                "Circuit de Barcelona-Catalunya",
+                "2023"
+            ],
+            [
+                "Charles Leclerc",
+                "1:29.876",
+                "Italian Grand Prix",
+                "Autodromo Nazionale Monza",
+                "2022"
+            ],
+            [
+                "Sergio P\u00e9rez",
+                "1:33.456",
+                "Saudi Arabian Grand Prix",
+                "Jeddah Corniche Circuit",
+                "2023"
+            ],
+            [
+                "Fernando Alonso",
+                "1:42.789",
+                "Bahrain Grand Prix",
+                "Bahrain International Circuit",
+                "2023"
+            ],
+            [
+                "George Russell",
+                "1:19.012",
+                "Hungarian Grand Prix",
+                "Hungaroring",
+                "2022"
+            ]
+        ]
+    }
+}

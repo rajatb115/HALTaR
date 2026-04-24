@@ -1,0 +1,69 @@
+{
+    "table-206-206": {
+        "title": [
+            "Paragraph ID",
+            "Section",
+            "Text Content (Excerpt)",
+            "Word Count",
+            "Sentiment"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all paragraph texts for the document \"Customer reviews\".",
+        "data": [
+            [
+                "P001",
+                "Product Features",
+                "\"The camera quality is outstanding, capturing vivid details.\"",
+                "35",
+                "Positive"
+            ],
+            [
+                "P002",
+                "Service Experience",
+                "\"My order arrived a day late, which was a minor inconvenience.\"",
+                "28",
+                "Negative"
+            ],
+            [
+                "P003",
+                "Installation Guide",
+                "\"The setup instructions were clear and easy to follow for a novice.\"",
+                "42",
+                "Positive"
+            ],
+            [
+                "P004",
+                "Value for Money",
+                "\"While good, I feel the price point is a bit high for the features.\"",
+                "30",
+                "Neutral"
+            ],
+            [
+                "P005",
+                "Technical Support",
+                "\"Had an issue with connectivity, but support resolved it quickly.\"",
+                "38",
+                "Positive"
+            ],
+            [
+                "P006",
+                "Durability",
+                "\"After a month of use, it still feels sturdy and well-built.\"",
+                "25",
+                "Positive"
+            ],
+            [
+                "P007",
+                "Overall Impression",
+                "\"Definitely recommend this product; it exceeded my expectations.\"",
+                "32",
+                "Positive"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-915-915": {
+        "title": [
+            "Driver ID",
+            "Has Code"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Driver Code Status",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many drivers don't have a code?",
+        "data": [
+            [
+                "123",
+                "Yes"
+            ],
+            [
+                "456",
+                "No"
+            ],
+            [
+                "789",
+                "Yes"
+            ],
+            [
+                "101",
+                "No"
+            ],
+            [
+                "112",
+                "Yes"
+            ]
+        ]
+    }
+}

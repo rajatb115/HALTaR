@@ -1,0 +1,94 @@
+{
+    "table-712-712": {
+        "title": [
+            "Product_ID",
+            "Comment_Score",
+            "User_Age",
+            "Total_Users_Count",
+            "Region",
+            "Date_Submitted",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among products comments with 0 score, what is the total number of users ages 40 years old?",
+        "data": [
+            [
+                "P-1002",
+                "0",
+                "41",
+                "3",
+                "North America",
+                "7/15/2023",
+                "Verified"
+            ],
+            [
+                "P-A45",
+                "6",
+                "5",
+                "N/A",
+                "Europe",
+                "8/2/23",
+                ""
+            ],
+            [
+                "B-992",
+                "-1",
+                "N/D",
+                "9",
+                "Asia Pacific",
+                "9/10/24",
+                ""
+            ],
+            [
+                "C-331",
+                "-2",
+                "N/E",
+                "",
+                "South America",
+                "",
+                ""
+            ],
+            [
+                "D-774",
+                "-3",
+                "N/F",
+                "",
+                "Africa",
+                "",
+                ""
+            ],
+            [
+                "E-112",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "F-556",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "G-889",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

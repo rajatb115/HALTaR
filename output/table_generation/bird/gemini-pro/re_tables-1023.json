@@ -1,0 +1,45 @@
+{
+    "table-1023-1023": {
+        "title": [
+            "Player Name",
+            "Potential",
+            "Preferred Foot"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Player Attributes by Potential",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the preferred foot when attacking of the player with the lowest potential?",
+        "data": [
+            [
+                "Player A",
+                "75",
+                "Right"
+            ],
+            [
+                "Player B",
+                "78",
+                "Left"
+            ],
+            [
+                "Player C",
+                "80",
+                "Right"
+            ],
+            [
+                "Player D",
+                "82",
+                "Left"
+            ],
+            [
+                "Player E",
+                "85",
+                "Right"
+            ]
+        ]
+    }
+}

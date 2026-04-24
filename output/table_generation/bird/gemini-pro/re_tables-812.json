@@ -1,0 +1,43 @@
+{
+    "table-812-812": {
+        "title": [
+            "Superhero",
+            "Alignment",
+            "Superpowers"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Superhero Alignments and Powers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the alignment and superpowers of the superhero named Atom IV.",
+        "data": [
+            [
+                "Atom IV",
+                "Good",
+                "Size manipulation, Density control"
+            ],
+            [
+                "Superman",
+                "Good",
+                "Flight, Super strength, Heat vision"
+            ],
+            [
+                "Batman",
+                "Good",
+                "Gadgets, Martial arts, Intellect"
+            ],
+            [
+                "Magneto",
+                "Neutral",
+                "Magnetism manipulation"
+            ],
+            [
+                "Thanos",
+                "Evil",
+                "Super strength, Teleportation, Energy manipulation"
+            ]
+        ]
+    }
+}

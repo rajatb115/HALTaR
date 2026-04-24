@@ -1,0 +1,58 @@
+{
+    "table-1496-1496": {
+        "title": [
+            "Client_ID",
+            "Month_Year",
+            "Total_Spend",
+            "Transaction_Count",
+            "Avg_Transaction_Value",
+            "Status",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which client ID consumed the most in September 2013?",
+        "data": [
+            [
+                "CUST-4092",
+                "Sep-2023",
+                "$12,450.00",
+                "45",
+                "$276.67",
+                "Active",
+                "North America"
+            ],
+            [
+                "CUS-8821",
+                "Oct-2022",
+                "$9,800.50",
+                "32",
+                "$306.27",
+                "Inactive",
+                "Europe"
+            ],
+            [
+                "CLI-1103",
+                "Aug-2023",
+                "",
+                "0",
+                "",
+                "Pending",
+                "Asia Pacific"
+            ],
+            [
+                "CLIENT-XZ",
+                "Sep-Oct-2132",
+                "",
+                "",
+                "",
+                "Cancelled",
+                "South America"
+            ]
+        ]
+    }
+}

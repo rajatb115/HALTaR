@@ -1,0 +1,77 @@
+{
+    "table-38-38": {
+        "title": [
+            "School Name",
+            "Excellence Rate",
+            "Street",
+            "City",
+            "State",
+            "Zip Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the complete address of the school with the lowest excellence rate? Indicate the Street, City, Zip and State.",
+        "data": [
+            [
+                "Riverside Elementary",
+                "45%",
+                "45 Pine St",
+                "Rivertown",
+                "CA",
+                "90210"
+            ],
+            [
+                "Northwood High School",
+                "78%",
+                "123 Oak Ave",
+                "Springfield",
+                "IL",
+                "62704"
+            ],
+            [
+                "Central Middle School",
+                "62%",
+                "789 Main Blvd",
+                "Centerville",
+                "TX",
+                "75001"
+            ],
+            [
+                "Westside Academy",
+                "85%",
+                "101 Elm Rd",
+                "Westburg",
+                "NY",
+                "10001"
+            ],
+            [
+                "Evergreen Prep",
+                "55%",
+                "202 Maple Ln",
+                "Green Valley",
+                "FL",
+                "33101"
+            ],
+            [
+                "Lakeside Charter",
+                "70%",
+                "303 Lakefront Dr",
+                "Lakepoint",
+                "WA",
+                "98101"
+            ],
+            [
+                "Summit View High",
+                "92%",
+                "404 Mountain View",
+                "Summit City",
+                "CO",
+                "80202"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-1273-1273": {
+        "title": [
+            "Patient ID",
+            "Anti-SSA Result",
+            "Admission Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which patient is the first patient with an abnormal anti-SSA to come to the hospital? Please give his or her ID.",
+        "data": [
+            [
+                "12345",
+                "Negative",
+                "2023-01-15"
+            ],
+            [
+                "67890",
+                "Positive",
+                "2023-02-20"
+            ],
+            [
+                "24680",
+                "Negative",
+                "2023-03-10"
+            ],
+            [
+                "13579",
+                "Positive",
+                "2023-04-05"
+            ],
+            [
+                "98765",
+                "Negative",
+                "2023-05-01"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-1136-1136": {
+        "title": [
+            "Player ID",
+            "Player Name",
+            "Overall Rating",
+            "Potential Rating",
+            "Preferred Foot",
+            "Position",
+            "Club"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide top three football players' IDs who are among the lowest potential players and prefer to use the right foot when attacking.",
+        "data": [
+            [
+                "1001",
+                "Alex Smith",
+                "58",
+                "62",
+                "Right",
+                "CM",
+                "FC United"
+            ],
+            [
+                "1002",
+                "Ben Carter",
+                "55",
+                "60",
+                "Right",
+                "CB",
+                "Rovers FC"
+            ],
+            [
+                "1003",
+                "Chris Green",
+                "59",
+                "63",
+                "Right",
+                "ST",
+                "City FC"
+            ],
+            [
+                "1004",
+                "David White",
+                "60",
+                "65",
+                "Left",
+                "RW",
+                "Town FC"
+            ],
+            [
+                "1005",
+                "Ethan Black",
+                "75",
+                "85",
+                "Right",
+                "CAM",
+                "Elite FC"
+            ],
+            [
+                "1006",
+                "Frank Brown",
+                "57",
+                "61",
+                "Left",
+                "CDM",
+                "Village FC"
+            ],
+            [
+                "1007",
+                "George King",
+                "56",
+                "60",
+                "Right",
+                "RB",
+                "Athletic FC"
+            ]
+        ]
+    }
+}

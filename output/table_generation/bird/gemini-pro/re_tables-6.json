@@ -1,0 +1,45 @@
+{
+    "table-6-6": {
+        "title": [
+            "School Name",
+            "Virtual/Physical",
+            "Avg. SAT Math Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Schools with SAT Math Scores Under 400",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many schools with an average score in Math under 400 in the SAT test are exclusively virtual?",
+        "data": [
+            [
+                "Example High School",
+                "Virtual",
+                "380"
+            ],
+            [
+                "Sample Academy",
+                "Physical",
+                "390"
+            ],
+            [
+                "Test Virtual School",
+                "Virtual",
+                "395"
+            ],
+            [
+                "Placeholder High",
+                "Virtual",
+                "370"
+            ],
+            [
+                "Dummy School",
+                "Physical",
+                "385"
+            ]
+        ]
+    }
+}

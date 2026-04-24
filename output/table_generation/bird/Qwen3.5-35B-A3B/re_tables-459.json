@@ -1,0 +1,69 @@
+{
+    "table-459-459": {
+        "title": [
+            "Artist Name",
+            "Card Title",
+            "Border Color",
+            "Arena Available",
+            "MTGO Available"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many artists have designed a card with a black border color and is available in both \"arena\" and \"mtgo\" printing type?",
+        "data": [
+            [
+                "John Doe",
+                "Shadowbound Artifact",
+                "Black",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Jane Smith",
+                "Dark Ritual",
+                "Black",
+                "Yes",
+                "No"
+            ],
+            [
+                "Alex Johnson",
+                "Lightning Strike",
+                "Black",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Maria Garcia",
+                "Thoughtseize",
+                "Black",
+                "Yes",
+                "N/A"
+            ],
+            [
+                "Chris Lee",
+                "Brainstorm",
+                "Black",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Sarah Brown",
+                "Force of Will",
+                "Black",
+                "Yes",
+                "N/A"
+            ],
+            [
+                "David Wilson",
+                "Counterspell",
+                "Black",
+                "Yes",
+                "Yes"
+            ]
+        ]
+    }
+}

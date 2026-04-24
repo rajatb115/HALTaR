@@ -1,0 +1,85 @@
+{
+    "table-1024-1024": {
+        "title": [
+            "Player_Name",
+            "Overall_Rating",
+            "Position",
+            "Attack_Moves_Count",
+            "Defensive_Priority",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the players with an overall rating between 60 to 65, how many players whose going to be in all of your attack moves instead of defensing?",
+        "data": [
+            [
+                "Alex Rivera",
+                "64",
+                "Forward",
+                "8",
+                "Low",
+                "Active"
+            ],
+            [
+                "Sam Chen",
+                "72",
+                "Midfielder",
+                "5",
+                "Medium",
+                "Injured"
+            ],
+            [
+                "Jordan Lee",
+                "91",
+                "Defender",
+                "3",
+                "High",
+                "Suspended"
+            ],
+            [
+                "Taylor Kim",
+                "45",
+                "Goalkeeper",
+                "0",
+                "Critical",
+                "Retired"
+            ],
+            [
+                "Morgan Davis",
+                "68",
+                "Winger",
+                "",
+                "N/A",
+                "Pending Review"
+            ],
+            [
+                "Casey Smith",
+                "",
+                "Striker",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Riley Brown",
+                "",
+                "Center Back",
+                "",
+                "",
+                "Unavailable"
+            ],
+            [
+                "Quinn White",
+                "",
+                "Fullback",
+                "",
+                "",
+                "Unknown"
+            ]
+        ]
+    }
+}

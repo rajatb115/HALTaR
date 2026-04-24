@@ -1,0 +1,59 @@
+{
+    "table-29-29": {
+        "title": [
+            "School Name",
+            "DOC Type",
+            "K-12 Enrollment",
+            "15-17 Enrollment",
+            "Enrollment Difference"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2,
+            3,
+            4
+        ],
+        "pgTitle": "School Enrollment Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Consider the average difference between K-12 enrollment and 15-17 enrollment of schools that are locally funded, list the names and DOC type of schools which has a difference above this average.",
+        "data": [
+            [
+                "School A",
+                "Public",
+                "1200",
+                "200",
+                "1000"
+            ],
+            [
+                "School B",
+                "Private",
+                "800",
+                "150",
+                "650"
+            ],
+            [
+                "School C",
+                "Charter",
+                "950",
+                "180",
+                "770"
+            ],
+            [
+                "School D",
+                "Public",
+                "1100",
+                "220",
+                "880"
+            ],
+            [
+                "School E",
+                "Private",
+                "700",
+                "130",
+                "570"
+            ]
+        ]
+    }
+}

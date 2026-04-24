@@ -1,0 +1,77 @@
+{
+    "table-212-212": {
+        "title": [
+            "Teacher ID",
+            "Full Name",
+            "Age",
+            "Hometown",
+            "Subject Taught",
+            "Years Experience"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the age and hometown of teachers?",
+        "data": [
+            [
+                "TCH-0042",
+                "Sarah Jenkins",
+                "34",
+                "Portland",
+                "Mathematics",
+                "6"
+            ],
+            [
+                "TCH-1105",
+                "Michael Chen",
+                "47",
+                "Seattle",
+                "Physics",
+                "9"
+            ],
+            [
+                "TCH-2298",
+                "Elena Rodriguez",
+                "52",
+                "Austin",
+                "History",
+                "8"
+            ],
+            [
+                "TCH-3310",
+                "David O'Connor",
+                "71",
+                "Boston",
+                "English Literature",
+                "0"
+            ],
+            [
+                "TCH-4421",
+                "Priya Patel",
+                "29",
+                "Chicago",
+                "Biology",
+                "4"
+            ],
+            [
+                "TCH-5532",
+                "James Wilson",
+                "38",
+                "Denver",
+                "Chemistry",
+                "N/A"
+            ],
+            [
+                "TCH-6643",
+                "Maria Garcia",
+                "45",
+                "Miami",
+                "Art & Design",
+                "TBA"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-587-587": {
+        "title": [
+            "User",
+            "Post Title",
+            "Bounty Amount"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Bounty Information on Posts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user added a bounty amount of 50 to the post title mentioning variance?",
+        "data": [
+            [
+                "User A",
+                "Understanding Variance",
+                "50"
+            ],
+            [
+                "User B",
+                "Variance Explained",
+                "50"
+            ],
+            [
+                "User C",
+                "Variance in Statistics",
+                "50"
+            ],
+            [
+                "User D",
+                "Variance Calculation Help",
+                "50"
+            ],
+            [
+                "User E",
+                "High Variance Issues",
+                "50"
+            ]
+        ]
+    }
+}

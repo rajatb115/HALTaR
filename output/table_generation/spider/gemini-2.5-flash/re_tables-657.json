@@ -1,0 +1,53 @@
+{
+    "table-657-657": {
+        "title": [
+            "Property Code",
+            "Property Type",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the property type descriptions of properties belonging to that code.",
+        "data": [
+            [
+                "RES-001",
+                "Single Family Home",
+                "Detached residential dwelling designed for one family."
+            ],
+            [
+                "RES-001",
+                "Townhouse",
+                "Multi-story residential unit sharing one or more walls with adjacent units."
+            ],
+            [
+                "RES-002",
+                "Apartment",
+                "Individual living unit within a larger residential building, typically rented."
+            ],
+            [
+                "COM-003",
+                "Office Building",
+                "Commercial property primarily used for business operations and professional services."
+            ],
+            [
+                "COM-003",
+                "Retail Store",
+                "Commercial space designed for selling goods or services directly to consumers."
+            ],
+            [
+                "IND-004",
+                "Warehouse",
+                "Large building used for the storage of goods, materials, or products."
+            ],
+            [
+                "IND-004",
+                "Light Industrial",
+                "Property suitable for light manufacturing, assembly, or distribution activities."
+            ]
+        ]
+    }
+}

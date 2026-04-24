@@ -1,0 +1,77 @@
+{
+    "table-657-657": {
+        "title": [
+            "Child Post ID",
+            "Child Post Title",
+            "Child Score",
+            "Parent Post ID",
+            "Parent Display Name",
+            "Parent Post Type"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the display name of the parent ID for child post with the highest score.",
+        "data": [
+            [
+                "C101",
+                "\"Great point, very insightful!\"",
+                "285",
+                "P501",
+                "\"Tech Insights Blog\"",
+                "Article"
+            ],
+            [
+                "C102",
+                "\"I had a similar experience.\"",
+                "192",
+                "P501",
+                "\"Tech Insights Blog\"",
+                "Article"
+            ],
+            [
+                "C103",
+                "\"Alternative solution proposed\"",
+                "310",
+                "P502",
+                "\"Community Forum\"",
+                "Forum Thread"
+            ],
+            [
+                "C104",
+                "\"Clarification needed on step 3\"",
+                "115",
+                "P502",
+                "\"Community Forum\"",
+                "Forum Thread"
+            ],
+            [
+                "C105",
+                "\"My experience matches this\"",
+                "250",
+                "P503",
+                "\"Product Review Hub\"",
+                "Blog Post"
+            ],
+            [
+                "C106",
+                "\"Further research on topic X\"",
+                "178",
+                "P503",
+                "\"Product Review Hub\"",
+                "Blog Post"
+            ],
+            [
+                "C107",
+                "\"Insightful comment, thanks!\"",
+                "350",
+                "P504",
+                "\"Expert Panel Discussion\"",
+                "Discussion"
+            ]
+        ]
+    }
+}

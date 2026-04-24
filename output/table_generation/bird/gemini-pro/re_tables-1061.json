@@ -1,0 +1,37 @@
+{
+    "table-1061-1061": {
+        "title": [
+            "Player Name",
+            "Birthdate"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Player Birthdate Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many players were born after 1990?",
+        "data": [
+            [
+                "Player A",
+                "1992-05-10"
+            ],
+            [
+                "Player B",
+                "1985-02-15"
+            ],
+            [
+                "Player C",
+                "1998-11-22"
+            ],
+            [
+                "Player D",
+                "1991-07-04"
+            ],
+            [
+                "Player E",
+                "1988-09-01"
+            ]
+        ]
+    }
+}

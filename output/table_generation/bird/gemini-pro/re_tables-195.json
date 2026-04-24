@@ -1,0 +1,52 @@
+{
+    "table-195-195": {
+        "title": [
+            "Client ID",
+            "Age",
+            "Credit Card Level",
+            "Loan Eligibility"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Eligible Client Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the IDs and age of the client with high level credit card, which is eligible for loans.",
+        "data": [
+            [
+                "12345",
+                "35",
+                "High",
+                "Yes"
+            ],
+            [
+                "67890",
+                "42",
+                "High",
+                "Yes"
+            ],
+            [
+                "24680",
+                "28",
+                "High",
+                "Yes"
+            ],
+            [
+                "13579",
+                "51",
+                "High",
+                "Yes"
+            ],
+            [
+                "98765",
+                "39",
+                "High",
+                "Yes"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "table-440-440": {
+        "title": [
+            "Set Code",
+            "Set Name",
+            "Category",
+            "Status",
+            "Created Date",
+            "Owner ID",
+            "Record Count",
+            "Last Updated By"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the set name of the set code \"ALL\".",
+        "data": [
+            [
+                "ALL",
+                "All Products Inventory",
+                "General Catalog",
+                "Active",
+                "01/15/2024",
+                "SYS_ADMIN_01",
+                "",
+                ""
+            ],
+            [
+                "ALP",
+                "Alpha Series Collection",
+                "Electronics",
+                "Archived",
+                "3/22/21",
+                "DEV_TEAM_A",
+                "",
+                ""
+            ],
+            [
+                "AMB",
+                "Ambiance Lighting Group",
+                "Home Decor",
+                "Active",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ANI",
+                "Anime Merchandise Bundle",
+                "Pop Culture",
+                "Pending Review",
+                "6/10/23",
+                "CURATOR_X",
+                "",
+                ""
+            ],
+            [
+                "AUT",
+                "Autumn Seasonal Items",
+                "Fashion",
+                "Inactive",
+                "9/01//22",
+                "MARKETING_DEPT",
+                "",
+                ""
+            ],
+            [
+                "BIO",
+                "Biohazard Safety Gear",
+                "Industrial Supply",
+                "Active",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

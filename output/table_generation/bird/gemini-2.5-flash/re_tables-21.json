@@ -1,0 +1,85 @@
+{
+    "table-21-21": {
+        "title": [
+            "School Name",
+            "District",
+            "City",
+            "Low Grade",
+            "High Grade",
+            "Enrollment",
+            "School Type"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many schools in Amador which the Low Grade is 9 and the High Grade is 12?",
+        "data": [
+            [
+                "Amador High School",
+                "Amador County USD",
+                "Sutter Creek",
+                "9",
+                "12",
+                "650",
+                "Public"
+            ],
+            [
+                "Argonaut High School",
+                "Amador County USD",
+                "Jackson",
+                "9",
+                "12",
+                "580",
+                "Public"
+            ],
+            [
+                "Ione High School",
+                "Amador County USD",
+                "Ione",
+                "9",
+                "12",
+                "420",
+                "Public"
+            ],
+            [
+                "Pine Grove High School",
+                "Amador County USD",
+                "Pine Grove",
+                "9",
+                "12",
+                "310",
+                "Public"
+            ],
+            [
+                "Independence High School",
+                "Amador County USD",
+                "Jackson",
+                "9",
+                "12",
+                "150",
+                "Public"
+            ],
+            [
+                "North Star Academy",
+                "Amador County USD",
+                "Jackson",
+                "7",
+                "12",
+                "250",
+                "Charter"
+            ],
+            [
+                "Amador County Charter",
+                "Amador County USD",
+                "Plymouth",
+                "9",
+                "12",
+                "180",
+                "Charter"
+            ]
+        ]
+    }
+}

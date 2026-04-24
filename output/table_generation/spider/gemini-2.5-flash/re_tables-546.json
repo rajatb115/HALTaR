@@ -1,0 +1,55 @@
+{
+    "table-546-546": {
+        "title": [
+            "Orchestra Name",
+            "City",
+            "Founding Year",
+            "Performance Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of orchestras that have no performance.",
+        "data": [
+            [
+                "Harmony Ensemble",
+                "Springfield",
+                "2018",
+                "No Performances"
+            ],
+            [
+                "Melody Collective",
+                "Rivertown",
+                "2020",
+                "No Performances"
+            ],
+            [
+                "Echo Chamber Orchestra",
+                "Lakewood",
+                "2019",
+                "No Performances"
+            ],
+            [
+                "Silent Symphony",
+                "Oakhaven",
+                "2021",
+                "No Performances"
+            ],
+            [
+                "Unheard Voices",
+                "Willow Creek",
+                "2022",
+                "No Performances"
+            ],
+            [
+                "Forgotten Fiddles",
+                "Stonebridge",
+                "2017",
+                "No Performances"
+            ]
+        ]
+    }
+}

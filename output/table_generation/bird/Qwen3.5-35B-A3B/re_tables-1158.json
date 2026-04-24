@@ -1,0 +1,67 @@
+{
+    "table-1158-1158": {
+        "title": [
+            "Patient_ID",
+            "Sex",
+            "Diagnosis_Severity",
+            "Primary_Diagnosis",
+            "Secondary_Comorbidity",
+            "Age_Group",
+            "Hospital_Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patients with severe degree of thrombosis, list their ID, sex and dieseas the patient is diagnosed with.",
+        "data": [
+            [
+                "PT-4092",
+                "Male",
+                "Severe Thrombosis",
+                "Deep Vein Thromboembolism",
+                "Pulmonary Embolism Geriatric Ward H-7",
+                ">65",
+                "H-007"
+            ],
+            [
+                "PT-A115",
+                "Female",
+                "Severed Thrombotic Event",
+                "Cerebral Venous Sinus Thrombus",
+                "Migraine Disorder Neurology Unit N-2",
+                "<45",
+                "N-022"
+            ],
+            [
+                "TR-8834",
+                "Non-Binary",
+                "Seveer Arterial Occlusion",
+                "Acute Limb Ischemia",
+                "Peripheral Artery Disease Cardiology Dept C-4",
+                "45-64",
+                "C-041"
+            ],
+            [
+                "PL-2201",
+                "Male",
+                "SevereThrombophlebitis",
+                "Mondor'sDisease",
+                "VaricoseVeinsGeneralMedicineG-M9",
+                "<30",
+                "G-091"
+            ],
+            [
+                "MK-5567",
+                "Female",
+                "Sever",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

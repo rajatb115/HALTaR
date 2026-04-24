@@ -1,0 +1,53 @@
+{
+    "table-95-95": {
+        "title": [
+            "Account Number",
+            "Gender",
+            "Age Group",
+            "Avg Salary ($)",
+            "Rank by Salary",
+            "Gap from Highest ($)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the account numbers of female clients who are oldest and has lowest average salary, calculate the gap between this lowest average salary with the highest average salary?",
+        "data": [
+            [
+                "ACC-7401-F",
+                "Female",
+                "Senior",
+                "42050",
+                "Lowest",
+                "68950"
+            ],
+            [
+                "ACC-8923-F",
+                "Female",
+                "Senior",
+                "43100",
+                "Lowest",
+                "67900"
+            ],
+            [
+                "ACC-1055-M",
+                "Male",
+                "Junior",
+                "5520",
+                "Highest",
+                "0"
+            ],
+            [
+                "ACC-GAP-CALC",
+                "",
+                "",
+                "",
+                "",
+                "68000"
+            ]
+        ]
+    }
+}

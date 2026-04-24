@@ -1,0 +1,76 @@
+{
+    "table-380-380": {
+        "title": [
+            "Country",
+            "TV Channel",
+            "Cartoon Title",
+            "Written By",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "which countries' tv channels are not playing any cartoon written by Todd Casey?",
+        "data": [
+            [
+                "United States",
+                "Nickelodeon",
+                "SpongeBob SquarePants",
+                "Stephen Hillenburg",
+                "Not Played"
+            ],
+            [
+                "Canada",
+                "Teletoon",
+                "Total Drama Island",
+                "Tom McGillis",
+                "Not Found"
+            ],
+            [
+                "Germany",
+                "Super RTL",
+                "Die Simpsons",
+                "Matt Groening",
+                "No Match"
+            ],
+            [
+                "France",
+                "Canal+",
+                "Futurama",
+                "David X Cohen",
+                "Unavailable"
+            ],
+            [
+                "Australia",
+                "ABC Kids",
+                "Bluey",
+                "Joe Brumm",
+                "Excluded"
+            ],
+            [
+                "Japan",
+                "NHK",
+                "Doraemon",
+                "Fujiko F. Fujio",
+                "Irrelevant"
+            ],
+            [
+                "Brazil",
+                "Gloob",
+                "Chaves",
+                "Chespirito",
+                "Non-Cartoon"
+            ],
+            [
+                "UK",
+                "BBC One",
+                "Peppa Pig",
+                "Neville Astley",
+                "Different Author"
+            ]
+        ]
+    }
+}

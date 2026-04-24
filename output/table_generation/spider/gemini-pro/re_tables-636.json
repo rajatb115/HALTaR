@@ -1,0 +1,45 @@
+{
+    "table-636-636": {
+        "title": [
+            "Singer Name",
+            "Birth Year",
+            "Citizenship"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Singers' Birth Data and Citizenship",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the birth year and citizenship of singers?",
+        "data": [
+            [
+                "John Doe",
+                "1980",
+                "USA"
+            ],
+            [
+                "Jane Smith",
+                "1992",
+                "Canada"
+            ],
+            [
+                "Ken Sato",
+                "1975",
+                "Japan"
+            ],
+            [
+                "Maria Cruz",
+                "1988",
+                "Spain"
+            ],
+            [
+                "Peter Chen",
+                "1995",
+                "China"
+            ]
+        ]
+    }
+}

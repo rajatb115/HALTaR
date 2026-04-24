@@ -1,0 +1,53 @@
+{
+    "table-548-548": {
+        "title": [
+            "Orchestra Name",
+            "Founded Year",
+            "Record Company Shared"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the record companies shared by orchestras founded before 2003 and after 2003.",
+        "data": [
+            [
+                "Berlin Philharmonic",
+                "1882",
+                "Deutsche Grammophon"
+            ],
+            [
+                "Vienna State Opera Orchestra",
+                "1869",
+                "Decca Records"
+            ],
+            [
+                "London Symphony Orchestra",
+                "1904",
+                "RCA Victor"
+            ],
+            [
+                "Royal Concertgebouw Orchestra",
+                "1888",
+                "Philips Classics"
+            ],
+            [
+                "Chicago Symphony Orchestra",
+                "1912",
+                "Sony Classical"
+            ],
+            [
+                "New York Philharmonic",
+                "1842",
+                "Warner Music Group"
+            ],
+            [
+                "Boston Pops Orchestra",
+                "1885",
+                "Universal Music Group"
+            ]
+        ]
+    }
+}

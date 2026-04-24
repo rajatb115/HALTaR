@@ -1,0 +1,25 @@
+{
+    "table-19-19": {
+        "title": [
+            "Country",
+            "Singer_Age_Over_40",
+            "Singer_Under_30",
+            "Genre_Combination"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show countries where a singer above age 40 and a singer below 30 are from.",
+        "data": [
+            [
+                "United States",
+                "Adele (36), Beyonc\u00e9 (37)",
+                "Billie Eilish (22)",
+                "Pop/R&B"
+            ]
+        ]
+    }
+}

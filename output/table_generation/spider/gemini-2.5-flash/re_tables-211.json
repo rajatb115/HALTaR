@@ -1,0 +1,61 @@
+{
+    "table-211-211": {
+        "title": [
+            "Teacher Name",
+            "Subject Taught",
+            "Age",
+            "Years Experience"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the teachers ordered by ascending age?",
+        "data": [
+            [
+                "Ms. Davis",
+                "Mathematics",
+                "28",
+                "5"
+            ],
+            [
+                "Mr. Chen",
+                "Science",
+                "32",
+                "8"
+            ],
+            [
+                "Dr. Patel",
+                "History",
+                "35",
+                "10"
+            ],
+            [
+                "Ms. Rodriguez",
+                "English",
+                "41",
+                "15"
+            ],
+            [
+                "Mr. Kim",
+                "Art",
+                "45",
+                "20"
+            ],
+            [
+                "Mrs. Green",
+                "Music",
+                "50",
+                "25"
+            ],
+            [
+                "Mr. Johnson",
+                "Physical Education",
+                "55",
+                "30"
+            ]
+        ]
+    }
+}

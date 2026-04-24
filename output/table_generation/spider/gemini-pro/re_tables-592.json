@@ -1,0 +1,43 @@
+{
+    "table-592-592": {
+        "title": [
+            "Treatment Type",
+            "Description",
+            "Cost"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Treatment Costs and Descriptions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the cost of each treatment and the corresponding treatment type description.",
+        "data": [
+            [
+                "Type A",
+                "Basic treatment for common ailments",
+                "$50"
+            ],
+            [
+                "Type B",
+                "Advanced treatment for chronic conditions",
+                "$150"
+            ],
+            [
+                "Type C",
+                "Specialized treatment for rare diseases",
+                "$500"
+            ],
+            [
+                "Type D",
+                "Preventative care and wellness programs",
+                "$75"
+            ],
+            [
+                "Type E",
+                "Emergency and urgent care services",
+                "$200"
+            ]
+        ]
+    }
+}

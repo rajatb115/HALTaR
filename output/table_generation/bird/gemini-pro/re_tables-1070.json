@@ -1,0 +1,51 @@
+{
+    "table-1070-1070": {
+        "title": [
+            "Player Name",
+            "Height (in)",
+            "Position",
+            "Team"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Shortest Football Players",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which football player has the shortest height?",
+        "data": [
+            [
+                "Muggsy Bogues",
+                "63",
+                "Guard",
+                "Charlotte Hornets"
+            ],
+            [
+                "Earl Boykins",
+                "65",
+                "Guard",
+                "Denver Nuggets"
+            ],
+            [
+                "Spud Webb",
+                "67",
+                "Guard",
+                "Atlanta Hawks"
+            ],
+            [
+                "Mel Hirsch",
+                "68",
+                "Guard",
+                "Boston Celtics"
+            ],
+            [
+                "Greg Grant",
+                "69",
+                "Guard",
+                "Philadelphia 76ers"
+            ]
+        ]
+    }
+}

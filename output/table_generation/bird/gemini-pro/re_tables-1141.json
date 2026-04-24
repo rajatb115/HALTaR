@@ -1,0 +1,53 @@
+{
+    "table-1141-1141": {
+        "title": [
+            "Player Name",
+            "Sprint Speed",
+            "Agility",
+            "Acceleration"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Player Agility and Speed Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are Alexis Blin's sprint speed, agility, and acceleration scores?",
+        "data": [
+            [
+                "Alexis Blin",
+                "78",
+                "69",
+                "72"
+            ],
+            [
+                "Luka Modri\u0107",
+                "65",
+                "83",
+                "68"
+            ],
+            [
+                "Toni Kroos",
+                "45",
+                "72",
+                "51"
+            ],
+            [
+                "Jude Bellingham",
+                "79",
+                "80",
+                "82"
+            ],
+            [
+                "Pedri",
+                "72",
+                "85",
+                "75"
+            ]
+        ]
+    }
+}

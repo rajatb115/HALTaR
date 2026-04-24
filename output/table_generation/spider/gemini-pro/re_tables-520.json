@@ -1,0 +1,39 @@
+{
+    "table-520-520": {
+        "title": [
+            "City",
+            "Population"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "City Populations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the cities whose population is between 160000 and 900000?",
+        "data": [
+            [
+                "Austin",
+                "790,390"
+            ],
+            [
+                "Boston",
+                "617,594"
+            ],
+            [
+                "Nashville",
+                "601,222"
+            ],
+            [
+                "Seattle",
+                "608,660"
+            ],
+            [
+                "Denver",
+                "600,158"
+            ]
+        ]
+    }
+}

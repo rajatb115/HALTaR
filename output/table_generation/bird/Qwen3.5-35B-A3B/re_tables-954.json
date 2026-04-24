@@ -1,0 +1,37 @@
+{
+    "table-954-954": {
+        "title": [
+            "Constructor",
+            "Nationality",
+            "Lap Count",
+            "Status",
+            "Season",
+            "Team Principal"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many French constructors have a lap number of over 50?",
+        "data": [
+            [
+                "Alpine F1 Team",
+                "France",
+                "64",
+                "Active",
+                "7",
+                "Otmar Szafnauer"
+            ],
+            [
+                "Racing Point",
+                "France/UK",
+                "52",
+                "Inactive",
+                "3",
+                "Lawrence Stroll"
+            ]
+        ]
+    }
+}

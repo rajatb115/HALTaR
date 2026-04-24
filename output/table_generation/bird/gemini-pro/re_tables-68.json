@@ -1,0 +1,45 @@
+{
+    "table-68-68": {
+        "title": [
+            "City",
+            "Year",
+            "Closure Amount"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Community College District Closure Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total amount of Community College District closure in 1989 in the city of San Francisco?",
+        "data": [
+            [
+                "San Francisco",
+                "1988",
+                "\\$10,000"
+            ],
+            [
+                "San Francisco",
+                "1989",
+                "\\$15,000"
+            ],
+            [
+                "San Francisco",
+                "1990",
+                "\\$12,000"
+            ],
+            [
+                "Oakland",
+                "1989",
+                "\\$8,000"
+            ],
+            [
+                "San Jose",
+                "1989",
+                "\\$20,000"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-525-525": {
+        "title": [
+            "Artist",
+            "Card Set",
+            "Border Color",
+            "Availability",
+            "Release Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the artists who illustrated cards with black borders which are available only in arena.",
+        "data": [
+            [
+                "John Smith",
+                "Arena Legends",
+                "Black",
+                "Arena Only",
+                "4/15/2023"
+            ],
+            [
+                "Elena Rodriguez",
+                "Shadow Realm",
+                "Black",
+                "Arena Only",
+                "6/22/2023"
+            ],
+            [
+                "Marcus Chen",
+                "Void Walker",
+                "Black",
+                "Arena Only",
+                "7/10/2024"
+            ],
+            [
+                "Sarah O'Neil",
+                "Dark Horizon",
+                "Black",
+                "Arena Only",
+                "8/5/2019"
+            ],
+            [
+                "David Kim",
+                "Nightfall Elite",
+                "Black",
+                "Arena Only",
+                "9/12/2018"
+            ],
+            [
+                "Lisa Park",
+                "Obsidian Edge",
+                "Black",
+                "Arena Only",
+                "10/30/2017"
+            ],
+            [
+                "Tom Baker",
+                "Midnight Pact",
+                "Black",
+                "Arena Only",
+                "11/11/2016"
+            ]
+        ]
+    }
+}

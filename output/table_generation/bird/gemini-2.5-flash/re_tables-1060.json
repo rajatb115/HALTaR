@@ -1,0 +1,61 @@
+{
+    "table-1060-1060": {
+        "title": [
+            "Player Name",
+            "Height (cm)",
+            "Position",
+            "Team"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list player names which are higher than 180.",
+        "data": [
+            [
+                "Alex Johnson",
+                "188",
+                "Forward",
+                "Falcons"
+            ],
+            [
+                "Maria Rodriguez",
+                "175",
+                "Guard",
+                "Eagles"
+            ],
+            [
+                "Ben Carter",
+                "193",
+                "Center",
+                "Hawks"
+            ],
+            [
+                "Sophia Lee",
+                "182",
+                "Midfielder",
+                "Sharks"
+            ],
+            [
+                "David Kim",
+                "179",
+                "Defender",
+                "Wolves"
+            ],
+            [
+                "Olivia Chen",
+                "190",
+                "Striker",
+                "Lions"
+            ],
+            [
+                "Ethan Miller",
+                "185",
+                "Setter",
+                "Tigers"
+            ]
+        ]
+    }
+}

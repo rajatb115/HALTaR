@@ -1,0 +1,55 @@
+{
+    "table-293-293": {
+        "title": [
+            "Molecule_ID",
+            "Atom_Label",
+            "Element_Symbol",
+            "Atomic_Number",
+            "Bond_Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the atoms belong to the molecule with ID between TR010 to TR050 that contain the element carbon.",
+        "data": [
+            [
+                "TR012",
+                "C1",
+                "C",
+                "6",
+                "4"
+            ],
+            [
+                "TR157",
+                "C2",
+                "E",
+                "6",
+                "-1"
+            ],
+            [
+                "TR203",
+                "C3",
+                "O",
+                "8",
+                "2"
+            ],
+            [
+                "TR319",
+                "C4",
+                "H",
+                "1",
+                "1"
+            ],
+            [
+                "CR045",
+                "C5",
+                "S",
+                "16",
+                "2"
+            ]
+        ]
+    }
+}

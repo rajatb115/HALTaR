@@ -1,0 +1,46 @@
+{
+    "table-1041-1041": {
+        "title": [
+            "Player Name",
+            "Height (cm)",
+            "Avg. Heading Accuracy"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Player Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the top 10 players' names whose heights are above 180 in descending order of average heading accuracy.",
+        "data": [
+            [
+                "Player A",
+                "185",
+                "92"
+            ],
+            [
+                "Player B",
+                "190",
+                "90"
+            ],
+            [
+                "Player C",
+                "182",
+                "88"
+            ],
+            [
+                "Player D",
+                "188",
+                "85"
+            ],
+            [
+                "Player E",
+                "181",
+                "82"
+            ]
+        ]
+    }
+}

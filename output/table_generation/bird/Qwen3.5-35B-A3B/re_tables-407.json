@@ -1,0 +1,61 @@
+{
+    "table-407-407": {
+        "title": [
+            "Card_ID",
+            "Name",
+            "Type_Class",
+            "Legal_Status",
+            "Set_Code",
+            "Rarity"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Lists by ID all Creature-type cards with legal status.",
+        "data": [
+            [
+                "C0042",
+                "Golem",
+                "Creature",
+                "Standard",
+                "M19",
+                "Rare"
+            ],
+            [
+                "C1105",
+                "Dragon",
+                "Creature - Flying",
+                "Modern",
+                "RTR",
+                "Mythic Rare"
+            ],
+            [
+                "D2231",
+                "Wolf",
+                "Creature \u2014 Beast",
+                "Pioneer",
+                "KLD",
+                "Common"
+            ],
+            [
+                "E3347",
+                "Spirit",
+                "Creature \u2013 Elemental",
+                "Legacy",
+                "UDG",
+                "Uncommon"
+            ],
+            [
+                "F4456",
+                "Demon",
+                "Creature\u2014Demon",
+                "Vintage",
+                "VMA",
+                "Rare"
+            ]
+        ]
+    }
+}

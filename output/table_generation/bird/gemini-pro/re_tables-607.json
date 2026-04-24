@@ -1,0 +1,45 @@
+{
+    "table-607-607": {
+        "title": [
+            "Badge Name",
+            "User ID",
+            "Earned Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Badges Earned on a Specific Date",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the name of badges that users obtained on 7/19/2010 7:39:08 PM.",
+        "data": [
+            [
+                "Enthusiast",
+                "234",
+                "2010-07-19 19:39:08"
+            ],
+            [
+                "Nice Answer",
+                "123",
+                "2010-07-19 19:39:08"
+            ],
+            [
+                "Good Question",
+                "456",
+                "2010-07-19 19:39:08"
+            ],
+            [
+                "Scholar",
+                "789",
+                "2010-07-19 19:39:08"
+            ],
+            [
+                "Teacher",
+                "901",
+                "2010-07-19 19:39:08"
+            ]
+        ]
+    }
+}

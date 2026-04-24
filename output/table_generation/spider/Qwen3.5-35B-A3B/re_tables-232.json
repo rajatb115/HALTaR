@@ -1,0 +1,69 @@
+{
+    "table-232-232": {
+        "title": [
+            "Museum Name",
+            "Opened Before 2",
+            "Staff Count",
+            "Region",
+            "Avg Staff per Branch",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average number of staff working for the museums that were open before 2009.",
+        "data": [
+            [
+                "Museum of Antiquities",
+                "Yes",
+                "45",
+                "North America",
+                "N/A",
+                "Active"
+            ],
+            [
+                "City Heritage Gallery",
+                "No",
+                "62",
+                "Europe",
+                "N/D",
+                "Closed"
+            ],
+            [
+                "Riverside Art Center",
+                "Yes",
+                "38",
+                "Asia",
+                "N/AD",
+                "Active"
+            ],
+            [
+                "Historic Archives Hall",
+                "Yes",
+                "71",
+                "South America",
+                "N/A",
+                "Operational"
+            ],
+            [
+                "Coastal Maritime Museum",
+                "No",
+                "29",
+                "Oceania",
+                "N/D",
+                "Renovation"
+            ],
+            [
+                "Mountain View Science Hub",
+                "Yes",
+                "55",
+                "Africa",
+                "N/AD",
+                "Active"
+            ]
+        ]
+    }
+}

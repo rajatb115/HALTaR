@@ -1,0 +1,69 @@
+{
+    "table-229-229": {
+        "title": [
+            "Visitor ID",
+            "Age",
+            "Membership Level",
+            "Join Date",
+            "Last Visit Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average age of the visitors whose membership level is not higher than 4?",
+        "data": [
+            [
+                "101",
+                "35",
+                "3",
+                "2020-01-15",
+                "2023-10-20"
+            ],
+            [
+                "102",
+                "28",
+                "5",
+                "2021-03-10",
+                "2023-11-01"
+            ],
+            [
+                "103",
+                "42",
+                "2",
+                "2019-07-22",
+                "2023-09-15"
+            ],
+            [
+                "104",
+                "51",
+                "4",
+                "2018-11-01",
+                "2023-10-25"
+            ],
+            [
+                "105",
+                "22",
+                "1",
+                "2022-05-01",
+                "2023-11-05"
+            ],
+            [
+                "106",
+                "60",
+                "5",
+                "2017-02-28",
+                "2023-08-30"
+            ],
+            [
+                "107",
+                "30",
+                "3",
+                "2021-09-10",
+                "2023-11-10"
+            ]
+        ]
+    }
+}

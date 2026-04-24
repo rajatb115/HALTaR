@@ -1,0 +1,39 @@
+{
+    "table-1368-1368": {
+        "title": [
+            "College Name",
+            "Number of Members"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Member College Affiliations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which college do most of the members go to?",
+        "data": [
+            [
+                "University A",
+                "25"
+            ],
+            [
+                "University B",
+                "18"
+            ],
+            [
+                "University C",
+                "12"
+            ],
+            [
+                "University D",
+                "8"
+            ],
+            [
+                "University E",
+                "5"
+            ]
+        ]
+    }
+}

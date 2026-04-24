@@ -1,0 +1,46 @@
+{
+    "table-713-713": {
+        "title": [
+            "Post Title",
+            "Post ID",
+            "Number of Comments"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Post IDs and Comments",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the post ID and the comments commented in the post titled by \"Group differences on a five point Likert item\"?",
+        "data": [
+            [
+                "Group differences on a five point Likert item",
+                "12345",
+                "25"
+            ],
+            [
+                "Analyzing Customer Satisfaction with New Product",
+                "67890",
+                "10"
+            ],
+            [
+                "Impact of Social Media Marketing on Brand Awareness",
+                "24680",
+                "42"
+            ],
+            [
+                "Employee Engagement and Productivity Levels",
+                "13579",
+                "18"
+            ],
+            [
+                "The Role of AI in Modern Healthcare",
+                "98765",
+                "33"
+            ]
+        ]
+    }
+}

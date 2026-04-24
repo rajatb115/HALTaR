@@ -1,0 +1,49 @@
+{
+    "table-1198-1198": {
+        "title": [
+            "Patient ID",
+            "Document Date",
+            "Primary Diagnosis",
+            "Department",
+            "Attending Physician",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When was the medical information on patient number 48473 first documented, and what disease did she have?",
+        "data": [
+            [
+                "47892",
+                "06/12/1978",
+                "Hypertension",
+                "Cardiology",
+                "Dr. S. Miller",
+                "Active",
+                "Initial screening"
+            ],
+            [
+                "",
+                "07/15/1899",
+                "Diabetes Mellitus",
+                "Endocrinology",
+                "Dr L. Chen",
+                "Stable",
+                "Chronic condition noted"
+            ],
+            [
+                "48105",
+                "4/22/2011",
+                "Asthma",
+                "Pulmonology",
+                "N/A",
+                "Discharged",
+                "Outpatient visit only"
+            ]
+        ]
+    }
+}

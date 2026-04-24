@@ -1,0 +1,39 @@
+{
+    "table-216-216": {
+        "title": [
+            "Teacher Name",
+            "Age"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Teacher Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the name of teachers aged either 32 or 33?",
+        "data": [
+            [
+                "Ms. Smith",
+                "32"
+            ],
+            [
+                "Mr. Jones",
+                "33"
+            ],
+            [
+                "Ms. Brown",
+                "32"
+            ],
+            [
+                "Mr. Davis",
+                "33"
+            ],
+            [
+                "Ms. Wilson",
+                "32"
+            ]
+        ]
+    }
+}

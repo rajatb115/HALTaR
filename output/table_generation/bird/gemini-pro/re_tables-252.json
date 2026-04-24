@@ -1,0 +1,51 @@
+{
+    "table-252-252": {
+        "title": [
+            "Element",
+            "Symbol",
+            "Atomic Number",
+            "Common Carcinogenic Molecules"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Common Elements in Carcinogenic Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the least common element of all carcinogenic molecules?",
+        "data": [
+            [
+                "Hydrogen",
+                "H",
+                "1",
+                "Polycyclic Aromatic Hydrocarbons (PAHs)"
+            ],
+            [
+                "Carbon",
+                "C",
+                "6",
+                "PAHs, Aflatoxins"
+            ],
+            [
+                "Oxygen",
+                "O",
+                "8",
+                "Aflatoxins, Nitrosoamines"
+            ],
+            [
+                "Nitrogen",
+                "N",
+                "7",
+                "Nitrosoamines, Aromatic Amines"
+            ],
+            [
+                "Chlorine",
+                "Cl",
+                "17",
+                "Vinyl Chloride"
+            ]
+        ]
+    }
+}

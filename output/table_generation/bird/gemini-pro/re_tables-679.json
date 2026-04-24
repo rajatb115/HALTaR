@@ -1,0 +1,52 @@
+{
+    "table-679-679": {
+        "title": [
+            "Post ID",
+            "Title",
+            "Author",
+            "Views"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Top Viewed Posts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which post by Harvey Motulsky has the most views? Please give the id and title of this post.",
+        "data": [
+            [
+                "123",
+                "Importance of Data Analysis",
+                "Harvey Motulsky",
+                "1500"
+            ],
+            [
+                "456",
+                "Statistical Modeling in Biology",
+                "David Smith",
+                "1200"
+            ],
+            [
+                "789",
+                "Regression Analysis Explained",
+                "Harvey Motulsky",
+                "1800"
+            ],
+            [
+                "101",
+                "Bayesian Statistics Introduction",
+                "Jane Doe",
+                "900"
+            ],
+            [
+                "112",
+                "Practical Guide to T-tests",
+                "Harvey Motulsky",
+                "1600"
+            ]
+        ]
+    }
+}

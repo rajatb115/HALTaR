@@ -1,0 +1,69 @@
+{
+    "table-1228-1228": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Cholesterol Level",
+            "Age",
+            "Diagnosis Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average age of the male patient with high cholesterol?",
+        "data": [
+            [
+                "P-1042",
+                "Male",
+                "High",
+                "67",
+                "Confirmed Hyperlipidemia"
+            ],
+            [
+                "P-1105",
+                "Male",
+                "High",
+                "72",
+                "Confirmed Hyperlipidemianbsp;"
+            ],
+            [
+                "P-0988",
+                "Male",
+                "Very High",
+                "59",
+                "Pending Confirmation"
+            ],
+            [
+                "P-P-1221",
+                "Male",
+                "",
+                "64",
+                "Normal Range Excluded"
+            ],
+            [
+                "p-p-1334",
+                "male",
+                "high",
+                "71",
+                "confirmed hyperlipidemiapnbsp;"
+            ],
+            [
+                "p-1456",
+                "male",
+                "moderate-high",
+                "68",
+                "monitoring required"
+            ],
+            [
+                "-",
+                "female",
+                "high",
+                "-",
+                "excluded from count"
+            ]
+        ]
+    }
+}

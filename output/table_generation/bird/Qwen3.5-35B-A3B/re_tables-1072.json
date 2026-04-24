@@ -1,0 +1,43 @@
+{
+    "table-1072-1072": {
+        "title": [
+            "Short Team Name",
+            "Build Up Speed",
+            "Dribbling Plan",
+            "Passing Play",
+            "League",
+            "Season",
+            "Manager",
+            "Form Rating"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the football team that has a build up play speed of 31, build up plan dribbling of 53, and build up play passing of 32. Only indicate the short name of the team.",
+        "data": [
+            [
+                "Real Madrid",
+                "34",
+                "67",
+                "89",
+                "La Liga",
+                "4",
+                "Carlo Ancelotti",
+                "High"
+            ],
+            [
+                "Manchester City",
+                "52",
+                "78",
+                "91",
+                "Premier League",
+                "0",
+                "Pep Guardiola",
+                "Very High"
+            ]
+        ]
+    }
+}

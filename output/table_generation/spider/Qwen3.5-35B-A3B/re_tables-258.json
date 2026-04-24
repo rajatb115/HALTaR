@@ -1,0 +1,93 @@
+{
+    "table-258-258": {
+        "title": [
+            "First_Name",
+            "Country_Code",
+            "Age",
+            "Team_Rank",
+            "Position",
+            "Matches_Played",
+            "Goals_Scored",
+            "Assists_Made"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the first name and country code of the oldest player?",
+        "data": [
+            [
+                "John",
+                "USA",
+                "42",
+                "3",
+                "Forward",
+                "567",
+                "89",
+                "72"
+            ],
+            [
+                "Maria",
+                "ESP",
+                "68",
+                "9",
+                "Midfielder",
+                "0",
+                "N/A",
+                "N/N/A"
+            ],
+            [
+                "Ahmed",
+                "EGY",
+                "55",
+                "",
+                "Defender",
+                "N/A",
+                "N/AN/A",
+                "NA"
+            ],
+            [
+                "Sofia",
+                "ITA",
+                "61",
+                "N/A",
+                "Goalkeeper",
+                "n/a",
+                "n/a",
+                ""
+            ],
+            [
+                "Lars",
+                "SWE",
+                "\b59",
+                "",
+                "Striker",
+                "n/a",
+                "n/ana",
+                "na"
+            ],
+            [
+                "Yuki",
+                "JPN",
+                "\u000763",
+                "FWD",
+                "Midfielder",
+                "na",
+                "na",
+                ""
+            ],
+            [
+                "Elena",
+                "RUS",
+                "\u000665",
+                "Center",
+                "Winger",
+                "Na",
+                "na",
+                ""
+            ]
+        ]
+    }
+}

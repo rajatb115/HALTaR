@@ -1,0 +1,77 @@
+{
+    "table-577-577": {
+        "title": [
+            "Dog Name",
+            "Breed",
+            "Age (Years)",
+            "Treatment Type",
+            "Treatment Date",
+            "Vet Clinic"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average age of the dogs who went through treatments.",
+        "data": [
+            [
+                "Max",
+                "Golden Retriever",
+                "7",
+                "Dental Cleaning",
+                "2023-05-10",
+                "Paws & Claws"
+            ],
+            [
+                "Bella",
+                "Labrador",
+                "5",
+                "Spay Surgery",
+                "2022-11-15",
+                "Animal Hospital"
+            ],
+            [
+                "Charlie",
+                "Beagle",
+                "9",
+                "Arthritis Management",
+                "2024-01-22",
+                "Happy Tails Vet"
+            ],
+            [
+                "Lucy",
+                "Poodle",
+                "3",
+                "Vaccination",
+                "2023-08-01",
+                "City Pet Clinic"
+            ],
+            [
+                "Cooper",
+                "German Shepherd",
+                "10",
+                "Tumor Removal",
+                "2024-03-05",
+                "Advanced Vet Care"
+            ],
+            [
+                "Daisy",
+                "French Bulldog",
+                "2",
+                "Allergy Treatment",
+                "2023-09-18",
+                "Paws & Claws"
+            ],
+            [
+                "Rocky",
+                "Boxer",
+                "6",
+                "Wound Care",
+                "2024-02-14",
+                "Animal Hospital"
+            ]
+        ]
+    }
+}

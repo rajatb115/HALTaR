@@ -1,0 +1,61 @@
+{
+    "table-1204-1204": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "WBC Count (x10^9/L)",
+            "Test Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients who were female got white blood cells that were below 3.5?",
+        "data": [
+            [
+                "P001",
+                "Female",
+                "3.2",
+                "2023-10-15"
+            ],
+            [
+                "P002",
+                "Male",
+                "4.5",
+                "2023-10-15"
+            ],
+            [
+                "P003",
+                "Female",
+                "2.9",
+                "2023-10-16"
+            ],
+            [
+                "P004",
+                "Female",
+                "7.1",
+                "2023-10-16"
+            ],
+            [
+                "P005",
+                "Male",
+                "3.4",
+                "2023-10-17"
+            ],
+            [
+                "P006",
+                "Female",
+                "5.0",
+                "2023-10-17"
+            ],
+            [
+                "P007",
+                "Female",
+                "2.8",
+                "2023-10-18"
+            ]
+        ]
+    }
+}

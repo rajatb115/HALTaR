@@ -1,0 +1,57 @@
+{
+    "table-737-737": {
+        "title": [
+            "Superhero Name",
+            "Abilities",
+            "Intelligence Level (Scale of 1-10)",
+            "Known For",
+            "Weaknesses"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Superheroes with Questionable Intelligence",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the dumbest superhero?",
+        "data": [
+            [
+                "Squirrel Girl",
+                "Talks to squirrels, Enhanced strength",
+                "6",
+                "Defeating powerful villains through luck/squirrels",
+                "Overconfidence, reliance on squirrels"
+            ],
+            [
+                "Doorman",
+                "Teleportation between rooms",
+                "2",
+                "Teleporting people through doors",
+                "Limited range, perceived uselessness"
+            ],
+            [
+                "Matter-Eater Lad",
+                "Eats any substance",
+                "3",
+                "Eating dangerous materials",
+                "Can be incapacitated by indigestible materials"
+            ],
+            [
+                "Hindsight Lad",
+                "Can tell you what you should have done",
+                "1",
+                "Telling people how they messed up",
+                "Completely useless in preventing mistakes"
+            ],
+            [
+                "Arm-Fall-Off-Boy",
+                "Detaches his own arms and uses them as weapons",
+                "4",
+                "...detaching his arms",
+                "Social awkwardness, gross-out factor"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1043-1043": {
+        "title": [
+            "League Name",
+            "Season",
+            "Avg Home Goals",
+            "Avg Away Goals",
+            "Home > Away"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of leagues in which the average goals by the home team is higher than the away team in the 2009/2010 season.",
+        "data": [
+            [
+                "Premier League",
+                "2009/2010",
+                "1.52",
+                "1.18",
+                "Yes"
+            ],
+            [
+                "La Liga",
+                "2009/2010",
+                "1.61",
+                "1.15",
+                "Yes"
+            ],
+            [
+                "Serie A",
+                "2009/2010",
+                "1.48",
+                "1.12",
+                "Yes"
+            ],
+            [
+                "Bundesliga",
+                "2009/2010",
+                "1.65",
+                "1.25",
+                "Yes"
+            ],
+            [
+                "Ligue 1",
+                "2009/2010",
+                "1.35",
+                "1.05",
+                "Yes"
+            ],
+            [
+                "Eredivisie",
+                "2009/2010",
+                "1.70",
+                "1.30",
+                "Yes"
+            ],
+            [
+                "Primeira Liga",
+                "2009/2010",
+                "1.40",
+                "1.00",
+                "Yes"
+            ]
+        ]
+    }
+}

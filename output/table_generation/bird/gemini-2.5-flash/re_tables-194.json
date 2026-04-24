@@ -1,0 +1,69 @@
+{
+    "table-194-194": {
+        "title": [
+            "ClientID",
+            "District",
+            "CanIssuePermanentOrders",
+            "CanApplyForLoans",
+            "AccountStatus"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all ID and district for clients that can only have the right to issue permanent orders or apply for loans.",
+        "data": [
+            [
+                "CLNT001",
+                "Northwood",
+                "Yes",
+                "No",
+                "Active"
+            ],
+            [
+                "CLNT002",
+                "Southside",
+                "No",
+                "Yes",
+                "Active"
+            ],
+            [
+                "CLNT003",
+                "Eastwick",
+                "Yes",
+                "Yes",
+                "Active"
+            ],
+            [
+                "CLNT004",
+                "West End",
+                "Yes",
+                "No",
+                "Pending Review"
+            ],
+            [
+                "CLNT005",
+                "Central",
+                "No",
+                "Yes",
+                "Active"
+            ],
+            [
+                "CLNT006",
+                "Riverdale",
+                "Yes",
+                "Yes",
+                "Active"
+            ],
+            [
+                "CLNT007",
+                "Uptown",
+                "No",
+                "Yes",
+                "Active"
+            ]
+        ]
+    }
+}

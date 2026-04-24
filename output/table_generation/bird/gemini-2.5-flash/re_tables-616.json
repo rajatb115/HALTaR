@@ -1,0 +1,61 @@
+{
+    "table-616-616": {
+        "title": [
+            "UserID",
+            "BadgeName",
+            "UserAge",
+            "IsTeenager"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the users who obtained the \"Organizer\" badges, calculate the percentage of users who are teenagers.",
+        "data": [
+            [
+                "1001",
+                "Organizer",
+                "17",
+                "Yes"
+            ],
+            [
+                "1002",
+                "Participant",
+                "25",
+                "No"
+            ],
+            [
+                "1003",
+                "Organizer",
+                "14",
+                "Yes"
+            ],
+            [
+                "1004",
+                "Contributor",
+                "31",
+                "No"
+            ],
+            [
+                "1005",
+                "Organizer",
+                "19",
+                "Yes"
+            ],
+            [
+                "1006",
+                "Organizer",
+                "22",
+                "No"
+            ],
+            [
+                "1007",
+                "Participant",
+                "16",
+                "Yes"
+            ]
+        ]
+    }
+}

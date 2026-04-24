@@ -1,0 +1,69 @@
+{
+    "table-19-19": {
+        "title": [
+            "Country",
+            "Singer (Over 40)",
+            "Age (Over 40)",
+            "Singer (Under 30)",
+            "Age (Under 30)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show countries where a singer above age 40 and a singer below 30 are from.",
+        "data": [
+            [
+                "United States",
+                "Beyonc\u00e9",
+                "42",
+                "Olivia Rodrigo",
+                "21"
+            ],
+            [
+                "United Kingdom",
+                "Robbie Williams",
+                "50",
+                "Dua Lipa",
+                "28"
+            ],
+            [
+                "Canada",
+                "C\u00e9line Dion",
+                "56",
+                "Shawn Mendes",
+                "25"
+            ],
+            [
+                "Australia",
+                "Kylie Minogue",
+                "55",
+                "The Kid Laroi",
+                "20"
+            ],
+            [
+                "France",
+                "Myl\u00e8ne Farmer",
+                "62",
+                "Ang\u00e8le",
+                "28"
+            ],
+            [
+                "South Korea",
+                "Psy",
+                "46",
+                "Jungkook",
+                "26"
+            ],
+            [
+                "Brazil",
+                "Ivete Sangalo",
+                "52",
+                "Giulia Be",
+                "24"
+            ]
+        ]
+    }
+}

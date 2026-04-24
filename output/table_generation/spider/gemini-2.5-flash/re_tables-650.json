@@ -1,0 +1,45 @@
+{
+    "table-650-650": {
+        "title": [
+            "Singer Name",
+            "Total Sales (USD)"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the names of singers and the total sales of their songs.",
+        "data": [
+            [
+                "Ariana Grande",
+                "850,000,000"
+            ],
+            [
+                "Ed Sheeran",
+                "720,000,000"
+            ],
+            [
+                "Taylor Swift",
+                "1,200,000,000"
+            ],
+            [
+                "The Weeknd",
+                "680,000,000"
+            ],
+            [
+                "Billie Eilish",
+                "410,000,000"
+            ],
+            [
+                "Bruno Mars",
+                "590,000,000"
+            ],
+            [
+                "Adele",
+                "950,000,000"
+            ]
+        ]
+    }
+}

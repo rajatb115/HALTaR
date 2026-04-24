@@ -1,0 +1,69 @@
+{
+    "table-387-387": {
+        "title": [
+            "Card Name",
+            "Set Code",
+            "Future Frame Version",
+            "Legality Status in Standard",
+            "Legally Legal Format Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards are having future frame version and what are the legality status of these cards?",
+        "data": [
+            [
+                "Black Lotus",
+                "Alpha",
+                "Yes",
+                "Restricted",
+                "4"
+            ],
+            [
+                "Mox Sapphire",
+                "Beta",
+                "No",
+                "Not Legal",
+                "N/A"
+            ],
+            [
+                "Serra Angel",
+                "Fourth Edition",
+                "Yes",
+                "Restricted",
+                "6"
+            ],
+            [
+                "Lightning Bolt",
+                "Revised",
+                "No",
+                "Not Legal",
+                "Unlimited"
+            ],
+            [
+                "Black Vise",
+                "Unhinged",
+                "Yes",
+                "Banned",
+                "7"
+            ],
+            [
+                "Time Walk",
+                "Antiquities",
+                "Yes",
+                "Not Legal",
+                "Limited"
+            ],
+            [
+                "Mishra's Workshop",
+                "Fifth Edition",
+                "No",
+                "Restricted",
+                "None"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-519-519": {
+        "title": [
+            "Play Format",
+            "Card Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Banned Cards by Play Format",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which of the play formats has the highest number of banned status? Indicate the play format and the name of the card.",
+        "data": [
+            [
+                "Vintage",
+                "Black Lotus"
+            ],
+            [
+                "Legacy",
+                "Demonic Tutor"
+            ],
+            [
+                "Modern",
+                "Birthing Pod"
+            ],
+            [
+                "Pioneer",
+                "Felidar Guardian"
+            ],
+            [
+                "Standard",
+                "Reflector Mage"
+            ]
+        ]
+    }
+}

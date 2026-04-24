@@ -1,0 +1,58 @@
+{
+    "table-1296-1296": {
+        "title": [
+            "Patient ID",
+            "Total Bilirubin (mg/dL)",
+            "ANA Pattern",
+            "Normal Bilirubin Range (mg/dL)",
+            "Bilirubin Above Normal"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "ANA Examination Results for Patients with Elevated Bilirubin",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients whose total bilirubin is over the normal range, how many of them have a peripheral pattern observed in the sheet of ANA examination?",
+        "data": [
+            [
+                "1234",
+                "2.5",
+                "Peripheral",
+                "0.3 - 1.0",
+                "Yes"
+            ],
+            [
+                "5678",
+                "3.2",
+                "Homogeneous",
+                "0.3 - 1.0",
+                "Yes"
+            ],
+            [
+                "9101",
+                "1.8",
+                "Speckled",
+                "0.3 - 1.0",
+                "Yes"
+            ],
+            [
+                "1121",
+                "0.8",
+                "Negative",
+                "0.3 - 1.0",
+                "No"
+            ],
+            [
+                "3141",
+                "2.9",
+                "Peripheral",
+                "0.3 - 1.0",
+                "Yes"
+            ]
+        ]
+    }
+}

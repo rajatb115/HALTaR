@@ -1,0 +1,61 @@
+{
+    "table-250-250": {
+        "title": [
+            "Player Name",
+            "Country",
+            "Team",
+            "Role"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many distinct countries do players come from?",
+        "data": [
+            [
+                "Alice Smith",
+                "USA",
+                "Team Alpha",
+                "Forward"
+            ],
+            [
+                "Bob Johnson",
+                "Canada",
+                "Team Beta",
+                "Defender"
+            ],
+            [
+                "Charlie Brown",
+                "UK",
+                "Team Gamma",
+                "Midfielder"
+            ],
+            [
+                "Diana Prince",
+                "USA",
+                "Team Alpha",
+                "Goalkeeper"
+            ],
+            [
+                "Eve Adams",
+                "Germany",
+                "Team Delta",
+                "Forward"
+            ],
+            [
+                "Frank White",
+                "France",
+                "Team Epsilon",
+                "Defender"
+            ],
+            [
+                "Grace Lee",
+                "Canada",
+                "Team Beta",
+                "Midfielder"
+            ]
+        ]
+    }
+}

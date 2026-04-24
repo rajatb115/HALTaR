@@ -1,0 +1,83 @@
+{
+    "table-183-183": {
+        "title": [
+            "Template ID",
+            "Version Number",
+            "Template Type Code",
+            "Status",
+            "Last Updated",
+            "Owner",
+            "Region",
+            "Usage Count"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the version numbers and template type codes of templates with a version number greater than 5.",
+        "data": [
+            [
+                "TPL-1042",
+                "6.1",
+                "DOCX-ACTIVE",
+                "Published",
+                "7/15/2023",
+                "Alice Chen",
+                "US-East",
+                "450"
+            ],
+            [
+                "TPL-TMP-99",
+                "55.2",
+                "JSON-API-V2",
+                "Draft",
+                "N/A",
+                "Bob Smith",
+                "EU-West",
+                "0"
+            ],
+            [
+                "SYS-FORM-X",
+                "8.0",
+                "XML-CUSTOM",
+                "Archived",
+                "3/10/2023",
+                "",
+                "Global",
+                "92"
+            ],
+            [
+                "QTR-RPT-Q4",
+                "12.5",
+                "CSV-BASED",
+                "Active",
+                "Jan 5, 2024",
+                "Data Team",
+                "APAC",
+                "1205"
+            ],
+            [
+                "WEB-LANDING-MOBILE",
+                "7.3",
+                "HTML-RESPONSIVE",
+                "Beta",
+                "Feb 28, 2023",
+                "UX Dept",
+                "NA-South",
+                ""
+            ],
+            [
+                "AUTO-INVOICE-PDF",
+                ">100.00",
+                "PDF-STANDARD",
+                "Released",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

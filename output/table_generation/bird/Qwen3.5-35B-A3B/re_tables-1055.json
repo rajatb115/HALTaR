@@ -1,0 +1,76 @@
+{
+    "table-1055-1055": {
+        "title": [
+            "Player Name",
+            "Position",
+            "Defensive Work Rate",
+            "Match Rating",
+            "Team",
+            "Season",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the defensive work rate of the football player David Wilson\n?",
+        "data": [
+            [
+                "David Wilson",
+                "Midfielder",
+                "High",
+                "7.4",
+                "FC United",
+                "6/15/2023",
+                "Active"
+            ],
+            [
+                "John Smith",
+                "Defender",
+                "Very High",
+                "N/A",
+                "City Rovers",
+                "5/10/2023",
+                "Injured"
+            ],
+            [
+                "Sarah Lee",
+                "Forward",
+                "Low",
+                "8.1",
+                "Athletic Stars",
+                "4/22/2024",
+                "Suspended"
+            ],
+            [
+                "Mike Brown",
+                "Goalkeeper",
+                "Medium",
+                "9.0",
+                "West End FC",
+                "3/18/2025",
+                "Retired"
+            ],
+            [
+                "Emily Davis",
+                "Fullback",
+                "High-Normal",
+                "0.0 / 10",
+                "North Star",
+                "",
+                "Pending Review"
+            ],
+            [
+                "Tom Harris",
+                "Winger",
+                "Moderate",
+                "6.8",
+                "South Bay Utd",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-228-228": {
+        "title": [
+            "Molecule Name",
+            "CAS Number",
+            "Carcinogenic Potential",
+            "Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenicity of Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of molecules that are carcinogenic?",
+        "data": [
+            [
+                "Benzene",
+                "71-43-2",
+                "Known Carcinogen",
+                "High"
+            ],
+            [
+                "Formaldehyde",
+                "50-00-0",
+                "Known Carcinogen",
+                "Medium"
+            ],
+            [
+                "Acrylamide",
+                "79-06-1",
+                "Probable Carcinogen",
+                "Low"
+            ],
+            [
+                "Vinyl Chloride",
+                "75-01-4",
+                "Known Carcinogen",
+                "Medium"
+            ],
+            [
+                "Ethanol",
+                "64-17-5",
+                "Carcinogenic in excess",
+                "Low"
+            ]
+        ]
+    }
+}

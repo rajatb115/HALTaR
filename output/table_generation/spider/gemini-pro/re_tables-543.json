@@ -1,0 +1,37 @@
+{
+    "table-543-543": {
+        "title": [
+            "Conductor Name",
+            "Orchestra Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Conductors and Orchestras",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of conductors as well as the corresonding orchestras that they have conducted?",
+        "data": [
+            [
+                "Herbert von Karajan",
+                "Berlin Philharmonic"
+            ],
+            [
+                "Leonard Bernstein",
+                "New York Philharmonic"
+            ],
+            [
+                "Georg Solti",
+                "Chicago Symphony Orchestra"
+            ],
+            [
+                "Claudio Abbado",
+                "Vienna Philharmonic"
+            ],
+            [
+                "Simon Rattle",
+                "London Symphony Orchestra"
+            ]
+        ]
+    }
+}

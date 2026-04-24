@@ -1,0 +1,43 @@
+{
+    "table-820-820": {
+        "title": [
+            "Superhero",
+            "Weight (lbs)",
+            "Eye Color"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Superheroes with Missing Weight Data - Eye Color Distribution",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In superheroes with missing weight data, calculate the difference between the number of superheroes with blue eyes and no eye color.",
+        "data": [
+            [
+                "Hero A",
+                "N/A",
+                "Blue"
+            ],
+            [
+                "Hero B",
+                "N/A",
+                "Brown"
+            ],
+            [
+                "Hero C",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "Hero D",
+                "N/A",
+                "Blue"
+            ],
+            [
+                "Hero E",
+                "N/A",
+                "N/A"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-275-275": {
+        "title": [
+            "Molecule ID",
+            "Toxicity Endpoint",
+            "Observed Effect",
+            "Severity Level",
+            "Study Duration",
+            "Source Reference"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the toxicology elements associated with molecule TR001.",
+        "data": [
+            [
+                "TR004",
+                "Hepatotoxicity",
+                "Elevated ALT levels",
+                "Moderate",
+                "28 Days",
+                "J. Chem. Tox., 2102"
+            ],
+            [
+                "Renal Clearance",
+                "Acute Kidney Injury",
+                "High",
+                "Chronic",
+                "6 Months",
+                "Env. Health Rev., 1105"
+            ],
+            [
+                "Cardiotoxicity",
+                "-QT Prolongation",
+                "Low",
+                "Subacute",
+                "7 Days",
+                "Pharm. Saf., 3301"
+            ],
+            [
+                "Neurotoxicity",
+                "Behavioral Changes",
+                "Severe",
+                "Long-term",
+                "1 Year",
+                "Brain Res. J., 4402"
+            ],
+            [
+                "---",
+                "TR012",
+                "245.3",
+                "3.2",
+                "Lipophilic",
+                "7.4"
+            ]
+        ]
+    }
+}

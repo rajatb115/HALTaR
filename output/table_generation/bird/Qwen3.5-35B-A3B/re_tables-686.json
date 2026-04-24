@@ -1,0 +1,53 @@
+{
+    "table-686-686": {
+        "title": [
+            "Post Title",
+            "Total Views",
+            "Last Poster Username",
+            "Posting Date",
+            "Status",
+            "Category",
+            "Platform ID",
+            "Engagement Score"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the total views on the post 'Computer Game Datasets'. Name the user who posted it last time.",
+        "data": [
+            [
+                "Computer Game Datasets",
+                "45230",
+                "DataMiner_99",
+                "7/16/2023",
+                "Active",
+                "Research",
+                "POST-8821",
+                "High"
+            ],
+            [
+                "Legacy Dataset Archive",
+                "32100",
+                "AdminUser",
+                "6/12/2233",
+                "Archived",
+                "General",
+                "POST-A1B2",
+                "Medium"
+            ],
+            [
+                "Game Engine Benchmarks",
+                "51050",
+                "CodeMaster_X",
+                "8/01/2344",
+                "Active Analysis",
+                "Technical",
+                "POST-C3D4",
+                "Very High"
+            ]
+        ]
+    }
+}

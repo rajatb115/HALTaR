@@ -1,0 +1,85 @@
+{
+    "table-566-566": {
+        "title": [
+            "Comment ID",
+            "User ID",
+            "Post ID",
+            "Comment Date",
+            "Post Quality Score",
+            "Post Status",
+            "Comment Sentiment"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "User No.23853 gave a comment to a post at 9:08:18 on 2013/7/12, was that post well-finished?",
+        "data": [
+            [
+                "C-1001",
+                "23853",
+                "P-501",
+                "2013-07-12",
+                "8.5",
+                "Published",
+                "Neutral"
+            ],
+            [
+                "C-1002",
+                "23853",
+                "P-502",
+                "2013-07-12",
+                "6.2",
+                "Published",
+                "Negative"
+            ],
+            [
+                "C-1003",
+                "12345",
+                "P-503",
+                "2013-07-13",
+                "9.1",
+                "Published",
+                "Positive"
+            ],
+            [
+                "C-1004",
+                "98765",
+                "P-504",
+                "2013-07-11",
+                "4.0",
+                "Draft",
+                "Negative"
+            ],
+            [
+                "C-1005",
+                "23853",
+                "P-505",
+                "2013-07-14",
+                "7.8",
+                "Published",
+                "Positive"
+            ],
+            [
+                "C-1006",
+                "54321",
+                "P-506",
+                "2013-07-10",
+                "5.5",
+                "Under Review",
+                "Neutral"
+            ],
+            [
+                "C-1007",
+                "11223",
+                "P-507",
+                "2013-07-15",
+                "9.5",
+                "Published",
+                "Positive"
+            ]
+        ]
+    }
+}

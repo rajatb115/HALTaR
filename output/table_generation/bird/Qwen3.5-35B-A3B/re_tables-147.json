@@ -1,0 +1,83 @@
+{
+    "table-147-147": {
+        "title": [
+            "Account Holder ID",
+            "Gender",
+            "Credit Card Status",
+            "Loan Status",
+            "Total Balance",
+            "Last Transaction Date",
+            "Branch Location",
+            "Risk Score"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who are the female account holders who own credit cards and also have loans?",
+        "data": [
+            [
+                "AH_4021",
+                "Female",
+                "Active",
+                "Approved",
+                "$12,450.00",
+                "6/15/2023",
+                "Downtown",
+                "Low"
+            ],
+            [
+                "AH_A77B",
+                "Female",
+                "Active",
+                "Pending",
+                "$8,203.50",
+                "N/A",
+                "Westside",
+                "Medium"
+            ],
+            [
+                "KH_99C",
+                "Female",
+                "Inactive",
+                "Rejected",
+                "$0.55",
+                "3/10/2232",
+                "Northgate",
+                "High"
+            ],
+            [
+                "LM_22X",
+                "Female",
+                "Active",
+                "Approved",
+                "$45,000.10",
+                "Yesterday",
+                "East End",
+                "Very Low"
+            ],
+            [
+                "NH_11Z",
+                "Female",
+                "Cancelled",
+                "Overdue",
+                "-$1,230.45",
+                "Jan 1st",
+                "Southport",
+                "Critical"
+            ],
+            [
+                "OP_55Y",
+                "Female",
+                "Suspended",
+                "Denied",
+                "$500,020.99",
+                "Dec 31st 2221",
+                "Central City",
+                "Extreme"
+            ]
+        ]
+    }
+}

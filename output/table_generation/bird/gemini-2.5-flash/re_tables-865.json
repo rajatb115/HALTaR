@@ -1,0 +1,69 @@
+{
+    "table-865-865": {
+        "title": [
+            "Driver Name",
+            "Race Date",
+            "Finish Status",
+            "Final Position",
+            "Laps Completed"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the race happened on 2015/11/29, how many drivers finished the game?",
+        "data": [
+            [
+                "Max Verstappen",
+                "2015/11/29",
+                "Finished",
+                "1",
+                "60"
+            ],
+            [
+                "Lewis Hamilton",
+                "2015/11/29",
+                "Finished",
+                "2",
+                "60"
+            ],
+            [
+                "Sebastian Vettel",
+                "2015/11/29",
+                "Finished",
+                "3",
+                "60"
+            ],
+            [
+                "Kimi R\u00e4ikk\u00f6nen",
+                "2015/11/29",
+                "DNF",
+                "N/A",
+                "48"
+            ],
+            [
+                "Valtteri Bottas",
+                "2015/11/29",
+                "Finished",
+                "4",
+                "60"
+            ],
+            [
+                "Daniel Ricciardo",
+                "2015/11/29",
+                "Finished",
+                "5",
+                "60"
+            ],
+            [
+                "Fernando Alonso",
+                "2015/11/29",
+                "Disqualified",
+                "N/A",
+                "55"
+            ]
+        ]
+    }
+}

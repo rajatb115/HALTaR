@@ -1,0 +1,85 @@
+{
+    "table-232-232": {
+        "title": [
+            "Molecule ID",
+            "Bond Type",
+            "Count",
+            "Percentage",
+            "Carcinogenic Status",
+            "Source Database",
+            "Analysis Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which bond type accounted for the majority of the bonds found in molecule TR018 and state whether or not this molecule is carcinogenic?",
+        "data": [
+            [
+                "TR017",
+                "Single Covalent",
+                "45",
+                "62%",
+                "No",
+                "PubChem",
+                "2023-11-15"
+            ],
+            [
+                "TR020",
+                "Double Bond",
+                "38",
+                "55%",
+                "Yes",
+                "ChEMBL",
+                "2023-02-10"
+            ],
+            [
+                "TR005",
+                "Triple Bond",
+                "12",
+                "48%",
+                "Unknown",
+                "RCSB PDB",
+                "2024-05-20"
+            ],
+            [
+                "TR033",
+                "Aromatic Ring",
+                "29",
+                "41%",
+                "Possible",
+                "DrugBank",
+                "2025-01-30"
+            ],
+            [
+                "TR041",
+                "Ionic Interaction",
+                "15",
+                "33%",
+                "False",
+                "ZINC DB",
+                "2020-08-12"
+            ],
+            [
+                "TR055",
+                "Peptide Bond",
+                "21",
+                "39%",
+                "True",
+                "UniProt",
+                "2021-03-??"
+            ],
+            [
+                "TR062",
+                "Hydrogen Bond",
+                "8",
+                "25%",
+                "No",
+                "PDBsum",
+                "2022-09-??"
+            ]
+        ]
+    }
+}

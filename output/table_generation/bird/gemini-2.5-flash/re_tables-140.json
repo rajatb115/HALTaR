@@ -1,0 +1,69 @@
+{
+    "table-140-140": {
+        "title": [
+            "Card Name",
+            "Card Level",
+            "Disposition Type",
+            "Annual Fee",
+            "Credit Limit (Avg)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many high-level credit cards have \"disponent\" type of disposition?",
+        "data": [
+            [
+                "Prestige Platinum",
+                "High",
+                "Disponent",
+                "$595",
+                "$75,000"
+            ],
+            [
+                "Elite Black Card",
+                "High",
+                "Primary",
+                "$995",
+                "$150,000"
+            ],
+            [
+                "Signature Rewards",
+                "High",
+                "Disponent",
+                "$450",
+                "$60,000"
+            ],
+            [
+                "Infinite Reserve",
+                "High",
+                "Authorized User",
+                "$695",
+                "$100,000"
+            ],
+            [
+                "Premium Select",
+                "Mid",
+                "Disponent",
+                "$295",
+                "$30,000"
+            ],
+            [
+                "Executive Gold",
+                "High",
+                "Primary",
+                "$350",
+                "$50,000"
+            ],
+            [
+                "Global Access",
+                "High",
+                "Disponent",
+                "$795",
+                "$120,000"
+            ]
+        ]
+    }
+}

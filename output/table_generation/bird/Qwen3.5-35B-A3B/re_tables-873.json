@@ -1,0 +1,85 @@
+{
+    "table-873-873": {
+        "title": [
+            "Race Number",
+            "Driver Code",
+            "Full Name",
+            "Q3 Time",
+            "Position",
+            "Team",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the race No. 45, for the driver who had the Q3 time as 0:01:33, what is his abbreviated code?",
+        "data": [
+            [
+                "44",
+                "VER",
+                "Max Verstappen",
+                "01m32s987",
+                "P1",
+                "Red Bull Racing",
+                "Active"
+            ],
+            [
+                "45",
+                "NOR",
+                "Lando Norris",
+                "33s000",
+                "P2",
+                "McLaren",
+                "Active"
+            ],
+            [
+                "46",
+                "HAM",
+                "Lewis Hamilton",
+                "41s123",
+                "P3",
+                "Mercedes",
+                "Injured"
+            ],
+            [
+                "47",
+                "RUS",
+                "George Russell",
+                "55s456",
+                "P4",
+                "Ferrari",
+                "Retired"
+            ],
+            [
+                "48",
+                "PER",
+                "Sergio Perez",
+                "67s789",
+                "P5",
+                "Aston Martin",
+                "DNF"
+            ],
+            [
+                "49",
+                "ALB",
+                "Alexander Albon",
+                "78s012",
+                "P6",
+                "Williams",
+                "Podium"
+            ],
+            [
+                "50",
+                "SAI",
+                "Carlos Sainz Jr.",
+                "89s345*",
+                "P7",
+                "Audi",
+                "Disqualified"
+            ]
+        ]
+    }
+}

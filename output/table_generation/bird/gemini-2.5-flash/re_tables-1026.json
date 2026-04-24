@@ -1,0 +1,69 @@
+{
+    "table-1026-1026": {
+        "title": [
+            "League Name",
+            "Season",
+            "Total Goals",
+            "Matches Played",
+            "Avg Goals Per Match"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which league had the most goals in the 2016 season?",
+        "data": [
+            [
+                "La Liga",
+                "2016/2017",
+                "1118",
+                "380",
+                "2.94"
+            ],
+            [
+                "Premier League",
+                "2016/2017",
+                "1064",
+                "380",
+                "2.80"
+            ],
+            [
+                "Serie A",
+                "2016/2017",
+                "1124",
+                "380",
+                "2.96"
+            ],
+            [
+                "Bundesliga",
+                "2016/2017",
+                "877",
+                "306",
+                "2.87"
+            ],
+            [
+                "Ligue 1",
+                "2016/2017",
+                "999",
+                "380",
+                "2.63"
+            ],
+            [
+                "Eredivisie",
+                "2016/2017",
+                "930",
+                "306",
+                "3.04"
+            ],
+            [
+                "Primeira Liga",
+                "2016/2017",
+                "819",
+                "306",
+                "2.68"
+            ]
+        ]
+    }
+}

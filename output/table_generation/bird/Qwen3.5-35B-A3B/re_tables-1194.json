@@ -1,0 +1,109 @@
+{
+    "table-1194-1194": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Birth Year",
+            "Autoantibody Status",
+            "Exclusion Criteria Met",
+            "Count Category"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 11,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Excluding all P only ANA Pattern patients, how many of the remainder are women born between 1980 and 1989?",
+        "data": [
+            [
+                "P_4021",
+                "Female",
+                "87",
+                "Negative for ANA",
+                "No",
+                "Remainder"
+            ],
+            [
+                "P_A992",
+                "Male",
+                "65",
+                "Positive for ANO",
+                "Yes",
+                "Excluded"
+            ],
+            [
+                "B_1103",
+                "Female",
+                "82",
+                "Negative",
+                "No",
+                "Remainder"
+            ],
+            [
+                "C_5541",
+                "Female",
+                "91",
+                "Negative",
+                "No",
+                "Remainder"
+            ],
+            [
+                "D_2204",
+                "Male",
+                "78",
+                "Positive",
+                "Yes",
+                "Excluded"
+            ],
+            [
+                "E_3305",
+                "Female",
+                "85",
+                "Negative",
+                "Yes",
+                "Ruled Out"
+            ],
+            [
+                "F_6607",
+                "Female",
+                "79",
+                "Negative",
+                "No",
+                "Remainder"
+            ],
+            [
+                "G_8812",
+                "Female",
+                "88",
+                "Negative",
+                "No",
+                "Remainder"
+            ],
+            [
+                "H_9901",
+                "Male",
+                "90",
+                "Negative",
+                "No",
+                "Remainder"
+            ],
+            [
+                "I_1012",
+                "Female",
+                "84",
+                "Negative",
+                "N/A",
+                "Remainder"
+            ],
+            [
+                "J_2023",
+                "Male",
+                "75",
+                "Positive",
+                "Yes",
+                "Excluded"
+            ]
+        ]
+    }
+}

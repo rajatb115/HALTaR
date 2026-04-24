@@ -1,0 +1,77 @@
+{
+    "table-1500-1500": {
+        "title": [
+            "Customer ID",
+            "Currency",
+            "Monthly Consumption ($)",
+            "Region",
+            "Account Status",
+            "Last Updated"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the biggest monthly consumption of the customers who use euro as their currency?",
+        "data": [
+            [
+                "CUST_1042",
+                "EUR",
+                "4500.75",
+                "Germany",
+                "Active",
+                "06/15/2023"
+            ],
+            [
+                "CUS_T_2091",
+                "EUR",
+                "320.50",
+                "France",
+                "Inactive",
+                "6/2/23"
+            ],
+            [
+                "CUS_3384",
+                "EUR",
+                "1250.00",
+                "Spain",
+                "Suspended",
+                "5/30/24"
+            ],
+            [
+                "C_UST_4412",
+                "EUR",
+                "89000",
+                "Italy",
+                "Active",
+                "6/3/25"
+            ],
+            [
+                "C_UST_5501",
+                "EUR",
+                "1205.25",
+                "Portugal",
+                "Pending",
+                "4/12/19"
+            ],
+            [
+                "C_STU_6623",
+                "USD",
+                "5020\t\tNetherlands",
+                "Closed",
+                "3/1/22",
+                ""
+            ],
+            [
+                "C_SUT_7734",
+                "GBP",
+                "2100\t\t\tUK",
+                "Suspended",
+                "7/",
+                ""
+            ]
+        ]
+    }
+}

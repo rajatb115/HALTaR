@@ -1,0 +1,45 @@
+{
+    "table-1083-1083": {
+        "title": [
+            "League Name",
+            "Tier",
+            "Confederation"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "German Football Leagues",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the leagues from Germany.",
+        "data": [
+            [
+                "Bundesliga",
+                "1",
+                "UEFA"
+            ],
+            [
+                "2. Bundesliga",
+                "2",
+                "UEFA"
+            ],
+            [
+                "3. Liga",
+                "3",
+                "UEFA"
+            ],
+            [
+                "Regionalliga",
+                "4",
+                "UEFA"
+            ],
+            [
+                "Oberliga",
+                "5",
+                "UEFA"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1230-1230": {
+        "title": [
+            "Patient ID",
+            "Triglycerides mg/dL",
+            "Age Group",
+            "Status",
+            "Count > 54 Years",
+            "Notes"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all patients with triglyceride (TG) level beyond the normal range, how many are age more than 50 years?",
+        "data": [
+            [
+                "P-1024",
+                "320",
+                "High Risk",
+                "Yes",
+                "62",
+                "Elevated TG detected"
+            ],
+            [
+                "P-1105",
+                "410",
+                "Critical",
+                "No",
+                "71",
+                "Severe hypertriglyceridemia"
+            ],
+            [
+                "P-1299",
+                "550",
+                "Emergency",
+                "Yes",
+                "88",
+                "Immediate intervention required"
+            ],
+            [
+                "Q-0042",
+                "9500",
+                "Extreme",
+                "Yes",
+                "45",
+                "N/A Data missing for this record"
+            ],
+            [
+                "R-3311",
+                "0",
+                "Normal Range",
+                "No",
+                "52",
+                "N/A Age below threshold"
+            ],
+            [
+                "S-8821",
+                "-1",
+                "Invalid Entry",
+                "Unknown",
+                "60",
+                "Error in lab measurement system"
+            ],
+            [
+                "T-5567",
+                "",
+                "Missing Value",
+                "Pending",
+                "59",
+                "Sample lost during transport"
+            ]
+        ]
+    }
+}

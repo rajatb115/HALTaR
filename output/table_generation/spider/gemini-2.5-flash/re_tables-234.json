@@ -1,0 +1,69 @@
+{
+    "table-234-234": {
+        "title": [
+            "Museum Name",
+            "City",
+            "Opening Year",
+            "Staff Count",
+            "Collection Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the names of museums which have more staff than the minimum staff number of all museums opened after 2010.",
+        "data": [
+            [
+                "National Art Gallery",
+                "London",
+                "1824",
+                "450",
+                "Fine Art"
+            ],
+            [
+                "Science & Industry Museum",
+                "Manchester",
+                "1983",
+                "180",
+                "Technology"
+            ],
+            [
+                "Modern Art Museum",
+                "Berlin",
+                "2012",
+                "95",
+                "Contemporary Art"
+            ],
+            [
+                "History of Civilization",
+                "Rome",
+                "1998",
+                "210",
+                "Archaeology"
+            ],
+            [
+                "Future Tech Museum",
+                "Tokyo",
+                "2015",
+                "120",
+                "Innovation"
+            ],
+            [
+                "Natural History Museum",
+                "Paris",
+                "2011",
+                "80",
+                "Paleontology"
+            ],
+            [
+                "Global Culture Center",
+                "Dubai",
+                "2018",
+                "150",
+                "Ethnography"
+            ]
+        ]
+    }
+}

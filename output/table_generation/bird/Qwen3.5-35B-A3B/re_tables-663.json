@@ -1,0 +1,93 @@
+{
+    "table-663-663": {
+        "title": [
+            "Post_ID",
+            "Creation_Year",
+            "Vote_Count",
+            "Bounty_Amount",
+            "Status",
+            "Author_UserID",
+            "Tags",
+            "Score_Delta"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts with votes that were created in 2011 have a bounty of 50?",
+        "data": [
+            [
+                "P74012",
+                "96",
+                "5",
+                "0",
+                "Active",
+                "U8821",
+                "python,data-analysis",
+                "+12"
+            ],
+            [
+                "P89234",
+                "88",
+                "3",
+                "75",
+                "Closed",
+                "U1029",
+                "javascript,vue.js",
+                "-2"
+            ],
+            [
+                "K33109",
+                "67",
+                "4",
+                "50",
+                "Open",
+                "U5543",
+                "sql,database",
+                "+8"
+            ],
+            [
+                "M11205",
+                "101",
+                "",
+                "5",
+                "Pending",
+                "U9982",
+                "react,nodejs",
+                "N/A"
+            ],
+            [
+                "R44567",
+                "72",
+                "",
+                "",
+                "Archived",
+                "U3321",
+                "aws,servers",
+                ""
+            ],
+            [
+                "T99018",
+                "55",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "L22334",
+                "89",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

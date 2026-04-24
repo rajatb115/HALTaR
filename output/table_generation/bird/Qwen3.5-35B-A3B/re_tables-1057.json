@@ -1,0 +1,93 @@
+{
+    "table-1057-1057": {
+        "title": [
+            "League Name",
+            "Country",
+            "Season Start",
+            "Top Team",
+            "Promotion Spot",
+            "Relegation Zone",
+            "Founded Year",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of the football league in the country of Netherlands?",
+        "data": [
+            [
+                "Eredivisie",
+                "Netherlands",
+                "August",
+                "PSV Eindhoven",
+                "Yes",
+                "Bottom Two",
+                "476",
+                "Active"
+            ],
+            [
+                "Tweede Divisie",
+                "Belgium",
+                "September",
+                "KRC Genk",
+                "No",
+                "N/A",
+                "382",
+                "Inactive"
+            ],
+            [
+                "Eerste Klasse",
+                "Germany",
+                "July",
+                "Bayern Munich",
+                "Yes",
+                "Bottom One",
+                "512",
+                "Suspended"
+            ],
+            [
+                "Hoofdklasse",
+                "France",
+                "October",
+                "Paris Saint-Germain",
+                "No",
+                "N/A",
+                "299",
+                "Dormant"
+            ],
+            [
+                "Derde Divisie",
+                "Spain",
+                "June",
+                "Real Madrid",
+                "Yes",
+                "Bottom Three",
+                "601",
+                "Active"
+            ],
+            [
+                "Topklasse",
+                "Italy",
+                "May",
+                "Juventus",
+                "No",
+                "N/A",
+                "445",
+                "Inactive"
+            ],
+            [
+                "Amateur Liga",
+                "Portugal",
+                "April",
+                "Benfica",
+                "Yes",
+                "Bottom Four",
+                "333",
+                "Suspended"
+            ]
+        ]
+    }
+}

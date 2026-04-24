@@ -1,0 +1,83 @@
+{
+    "table-905-905": {
+        "title": [
+            "Race Name",
+            "Country",
+            "Year",
+            "Driver",
+            "Fastest Lap Occurred",
+            "Circuit Name",
+            "Laps Completed",
+            "Total Distance (km)"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the race and year of race in which Michael Schumacher had his fastest lap.",
+        "data": [
+            [
+                "Hungarian Grand Prix",
+                "Hungary",
+                "1997",
+                "",
+                "",
+                "Hungaroring",
+                "70",
+                "306.63"
+            ],
+            [
+                "Brazilian Grand Prix",
+                "Brazil",
+                "1988",
+                "",
+                "",
+                "Interlagos",
+                "53",
+                "430.95"
+            ],
+            [
+                "Monaco Grand Prix",
+                "Monaco",
+                "1965",
+                "",
+                "",
+                "Circuit de Monaco",
+                "78",
+                "260.28"
+            ],
+            [
+                "Japanese Grand Prix",
+                "Japan",
+                "2000",
+                "",
+                "",
+                "Suzuka International Racing Course",
+                "53",
+                "310.00"
+            ],
+            [
+                "Italian Grand Prix",
+                "Italy",
+                "",
+                "",
+                "",
+                "Monza Circuit",
+                "57",
+                "57.30"
+            ],
+            [
+                "Canadian Grand Prix",
+                "Canada",
+                "",
+                "",
+                "",
+                "Gilles Villeneuve Circuit",
+                "35",
+                "300.00"
+            ]
+        ]
+    }
+}

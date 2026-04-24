@@ -1,0 +1,69 @@
+{
+    "table-843-843": {
+        "title": [
+            "Superhero Name",
+            "Alignment",
+            "Height (cm)",
+            "Universe",
+            "First Appearance Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average height of all neutral superheroes.",
+        "data": [
+            [
+                "Spider-Man",
+                "Good",
+                "178",
+                "Marvel",
+                "1962"
+            ],
+            [
+                "Batman",
+                "Good",
+                "188",
+                "DC",
+                "1939"
+            ],
+            [
+                "Deadpool",
+                "Chaotic Neutral",
+                "188",
+                "Marvel",
+                "1991"
+            ],
+            [
+                "Catwoman",
+                "Neutral",
+                "173",
+                "DC",
+                "1940"
+            ],
+            [
+                "The Punisher",
+                "Anti-Hero",
+                "185",
+                "Marvel",
+                "1974"
+            ],
+            [
+                "Rorschach",
+                "Neutral",
+                "170",
+                "DC",
+                "1986"
+            ],
+            [
+                "Doctor Doom",
+                "Neutral (Latveria)",
+                "188",
+                "Marvel",
+                "1962"
+            ]
+        ]
+    }
+}

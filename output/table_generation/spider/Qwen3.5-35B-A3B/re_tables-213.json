@@ -1,0 +1,103 @@
+{
+    "table-213-213": {
+        "title": [
+            "Teacher Name",
+            "Age",
+            "Hometown",
+            "Subject",
+            "Years Experience",
+            "School District",
+            "Status",
+            "Last Updated"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the age and hometown of every teacher?",
+        "data": [
+            [
+                "John Smith",
+                "42",
+                "Springfield",
+                "Mathematics",
+                "7",
+                "North County",
+                "Active",
+                "06/15/2023"
+            ],
+            [
+                "Sarah Johnson",
+                "35",
+                "Riverside",
+                "English Literature",
+                "5",
+                "Westside Unified",
+                "Active 07/01/23",
+                ""
+            ],
+            [
+                "Michael Chen",
+                "61",
+                "Oakville",
+                "Physics",
+                "9",
+                "East Valley",
+                "Retired",
+                "N/A"
+            ],
+            [
+                "Emily Davis",
+                "83",
+                "Pine Creek",
+                "History",
+                "N/A",
+                "South Hills",
+                "On Leave",
+                "05/10/24"
+            ],
+            [
+                "David Wilson",
+                "n/a",
+                "Cedar Falls",
+                "Chemistry",
+                "",
+                "Central High",
+                "Probationary",
+                ""
+            ],
+            [
+                "Lisa Brown",
+                "/",
+                "Maplewood",
+                "Biology",
+                "-",
+                "Greenfield",
+                "Terminated",
+                "--"
+            ],
+            [
+                "Robert Taylor",
+                ".",
+                "Elm Street",
+                "Art Education",
+                ",",
+                "Blue Ridge",
+                "Suspended",
+                ".."
+            ],
+            [
+                "Jennifer Lee",
+                "_",
+                "Ashland",
+                "Physical Ed",
+                ";",
+                "Red Rock",
+                "Transferred",
+                ":"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "table-1017-1017": {
+        "title": [
+            "Driver",
+            "Lap Record Time",
+            "Pit Stop Duration",
+            "Race Year",
+            "Team"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Austrian Grand Prix Lap Records and Pit Stop Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the race a driver set the lap record for the Austrian Grand Prix Circuit, how long did he spent at the pit stop at that same race?",
+        "data": [
+            [
+                "Max Verstappen",
+                "1:05.619",
+                "2.1 seconds",
+                "2023",
+                "Red Bull Racing"
+            ],
+            [
+                "Sergio P\u00e9rez",
+                "N/A",
+                "2.3 seconds",
+                "2023",
+                "Red Bull Racing"
+            ],
+            [
+                "Charles Leclerc",
+                "N/A",
+                "2.4 seconds",
+                "2023",
+                "Ferrari"
+            ],
+            [
+                "Carlos Sainz Jr.",
+                "N/A",
+                "2.6 seconds",
+                "2023",
+                "Ferrari"
+            ],
+            [
+                "Lewis Hamilton",
+                "N/A",
+                "2.7 seconds",
+                "2023",
+                "Mercedes"
+            ]
+        ]
+    }
+}

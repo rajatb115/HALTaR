@@ -1,0 +1,53 @@
+{
+    "table-562-562": {
+        "title": [
+            "StudentID",
+            "StudentName",
+            "FriendCount"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show ids of all students who do not have any friends.",
+        "data": [
+            [
+                "101",
+                "Alice Smith",
+                "0"
+            ],
+            [
+                "105",
+                "Bob Johnson",
+                "0"
+            ],
+            [
+                "112",
+                "Carol White",
+                "0"
+            ],
+            [
+                "118",
+                "David Green",
+                "0"
+            ],
+            [
+                "123",
+                "Emily Brown",
+                "0"
+            ],
+            [
+                "129",
+                "Frank Black",
+                "0"
+            ],
+            [
+                "135",
+                "Grace Lee",
+                "0"
+            ]
+        ]
+    }
+}

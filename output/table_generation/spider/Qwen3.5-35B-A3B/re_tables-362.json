@@ -1,0 +1,49 @@
+{
+    "table-362-362": {
+        "title": [
+            "Series Title",
+            "Episodes Count",
+            "Average Rating",
+            "Genre",
+            "Release Year",
+            "Network",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List top 3 highest Rating  TV series. List the TV series's Episode and Rating.",
+        "data": [
+            [
+                "Game of Thrones",
+                "73",
+                "9.2",
+                "Fantasy Drama",
+                "2011",
+                "HBO",
+                "Ended"
+            ],
+            [
+                "Breaking Bad",
+                "62",
+                "8.9",
+                "Crime Thriller",
+                "2008",
+                "AMC",
+                "Ended"
+            ],
+            [
+                "The Wire",
+                "30",
+                "0.94",
+                "Crime Drama",
+                "N/A",
+                "HBO",
+                ""
+            ]
+        ]
+    }
+}

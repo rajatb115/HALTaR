@@ -1,0 +1,61 @@
+{
+    "table-975-975": {
+        "title": [
+            "Racing Year",
+            "Track Name",
+            "Driver",
+            "Fastest Lap Time (min:sec.ms)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the racing year which has the fastest lap time?",
+        "data": [
+            [
+                "2023",
+                "Monza",
+                "Max Verstappen",
+                "1:21.046"
+            ],
+            [
+                "2022",
+                "Silverstone",
+                "Lewis Hamilton",
+                "1:27.097"
+            ],
+            [
+                "2021",
+                "Spa-Francorchamps",
+                "Lando Norris",
+                "1:44.152"
+            ],
+            [
+                "2020",
+                "Bahrain",
+                "George Russell",
+                "1:30.149"
+            ],
+            [
+                "2019",
+                "Monaco",
+                "Charles Leclerc",
+                "1:10.166"
+            ],
+            [
+                "2018",
+                "Suzuka",
+                "Sebastian Vettel",
+                "1:28.197"
+            ],
+            [
+                "2017",
+                "Circuit of the Americas",
+                "Valtteri Bottas",
+                "1:33.187"
+            ]
+        ]
+    }
+}

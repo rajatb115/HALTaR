@@ -1,0 +1,61 @@
+{
+    "table-413-413": {
+        "title": [
+            "Player Name",
+            "Total Earnings",
+            "Major Wins",
+            "Country"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of poker players sorted by their earnings descending.",
+        "data": [
+            [
+                "Daniel Negreanu",
+                "$46,789,123",
+                "6",
+                "Canada"
+            ],
+            [
+                "Phil Ivey",
+                "$37,456,890",
+                "9",
+                "USA"
+            ],
+            [
+                "Doyle Brunson",
+                "$7,845,320",
+                "",
+                "USA"
+            ],
+            [
+                "Bryn Kenney",
+                "$28,912,445",
+                "0",
+                "USA"
+            ],
+            [
+                "Justin Bonomo",
+                "$52,103,678",
+                "3",
+                "USA"
+            ],
+            [
+                "Antonio Esfandiari",
+                "$18,234,567",
+                "4",
+                "Iran/USA"
+            ],
+            [
+                "Joe Hachem",
+                "$8,543,210",
+                "",
+                "Australia"
+            ]
+        ]
+    }
+}

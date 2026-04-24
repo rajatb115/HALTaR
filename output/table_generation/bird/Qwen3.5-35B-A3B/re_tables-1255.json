@@ -1,0 +1,77 @@
+{
+    "table-1255-1255": {
+        "title": [
+            "Patient ID",
+            "Admission Date",
+            "IgA Level Status",
+            "Hospital Department",
+            "Age Group",
+            "Diagnosis Category"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal Ig A level came to the hospital after 1990/1/1?",
+        "data": [
+            [
+                "P-4021",
+                "06/15/1991",
+                "Normal",
+                "General Medicine",
+                "Adult",
+                "Respiratory Infection"
+            ],
+            [
+                "P-4105",
+                "03/02/2022",
+                "Normal",
+                "Cardiology",
+                "Senior",
+                "Hypertension"
+            ],
+            [
+                "P-4298",
+                "11/30/1978",
+                "Abnormal",
+                "Pediatrics",
+                "Child",
+                "Asthma"
+            ],
+            [
+                "P-4312",
+                "01/20/1985",
+                "Normal",
+                "Neurology",
+                "Adult",
+                "Migraine"
+            ],
+            [
+                "P-4450",
+                "09/05/1966",
+                "Normal",
+                "Oncology",
+                "Senior",
+                "Post-Surgery Care"
+            ],
+            [
+                "P-4511",
+                "12/31/1999",
+                "Normal",
+                "Emergency Dept",
+                "Adult",
+                "Trauma"
+            ],
+            [
+                "P-4602",
+                "04/03/2015",
+                "Abnormal",
+                "Gastroenterology",
+                "Child",
+                "Food Allergy"
+            ]
+        ]
+    }
+}

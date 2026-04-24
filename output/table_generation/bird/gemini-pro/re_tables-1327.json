@@ -1,0 +1,39 @@
+{
+    "table-1327-1327": {
+        "title": [
+            "Major",
+            "Number of Members"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Student Club Members by Major",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many members of the Student_Club have majored Environmental Engineering?",
+        "data": [
+            [
+                "Environmental Engineering",
+                "15"
+            ],
+            [
+                "Computer Science",
+                "22"
+            ],
+            [
+                "Biology",
+                "18"
+            ],
+            [
+                "Mathematics",
+                "12"
+            ],
+            [
+                "Chemistry",
+                "9"
+            ]
+        ]
+    }
+}

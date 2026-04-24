@@ -1,0 +1,77 @@
+{
+    "table-470-470": {
+        "title": [
+            "Continent",
+            "Primary Language Status",
+            "Estimated Speakers (Millions)",
+            "Major Countries Using It",
+            "Script Used",
+            "Official Status Count"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many continents speak Chinese?",
+        "data": [
+            [
+                "Asia",
+                "Yes",
+                "940",
+                "China, Singapore",
+                "Simplified/Traditional",
+                "3"
+            ],
+            [
+                "Europe",
+                "No",
+                "0.5",
+                "Russia, France",
+                "Latin/Cyrillic",
+                "6"
+            ],
+            [
+                "North America",
+                "No",
+                "7.2",
+                "USA, Canada",
+                "Traditional/Simplified",
+                "4"
+            ],
+            [
+                "South America",
+                "Rarely",
+                "5.1",
+                "Brazil, Peru",
+                "Simplified",
+                "8"
+            ],
+            [
+                "Africa",
+                "Very Low",
+                "0.1",
+                "South Africa, Nigeria",
+                "N/A",
+                "100"
+            ],
+            [
+                "Oceania",
+                "Limited",
+                "0.5",
+                "Australia, New Zealand",
+                "Simplified",
+                ""
+            ],
+            [
+                "Antarctica",
+                "None",
+                "N/A",
+                "Research Stations Only",
+                "Mixed Scripts",
+                ""
+            ]
+        ]
+    }
+}

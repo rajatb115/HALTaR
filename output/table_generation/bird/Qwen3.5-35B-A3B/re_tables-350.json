@@ -1,0 +1,76 @@
+{
+    "table-350-350": {
+        "title": [
+            "Card Name",
+            "Artist",
+            "Ruling Count",
+            "Is Promotional Printing",
+            "Set Code",
+            "Release Date",
+            "Rarity"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the card and artist with the most ruling information. Also state if the card is a promotional printing.",
+        "data": [
+            [
+                "Black Lotus",
+                "Christopher Rush",
+                "47",
+                "No",
+                "Alpha",
+                "06/26/1933",
+                "Rare"
+            ],
+            [
+                "Ancestral Recall",
+                "Darrell Riche",
+                "39",
+                "Yes",
+                "Unlimited",
+                "8/1/1333",
+                ""
+            ],
+            [
+                "Time Walk",
+                "Richard Whitters",
+                "52",
+                "No",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Mox Pearl",
+                "Christopher Moeller",
+                "61",
+                "No",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Lightning Bolt",
+                "Jeff Easley",
+                "73",
+                "No",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Dark Ritual",
+                "Mark Poole",
+                "94",
+                "No",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

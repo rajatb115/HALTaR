@@ -1,0 +1,76 @@
+{
+    "table-1419-1419": {
+        "title": [
+            "Event ID",
+            "Category",
+            "Date Held",
+            "Location Code",
+            "Organizer",
+            "Attendance Count",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Mention the category of events which were held at MU 215.",
+        "data": [
+            [
+                "EVT-4012",
+                "Academic Lecture",
+                "06/15/2023",
+                "MU 115",
+                "Dr. Smith",
+                "45",
+                "Completed"
+            ],
+            [
+                "EVE-4105",
+                "Student Workshop",
+                "07/22/2023",
+                "MU-116",
+                "Campus Club",
+                "30",
+                "Scheduled"
+            ],
+            [
+                "EVV-4209",
+                "Research Seminar",
+                "08/10/2025",
+                "MU_117",
+                "Prof. Lee",
+                "60",
+                "Pending"
+            ],
+            [
+                "EWK-4311",
+                "Corporate Training",
+                "09/05/2030",
+                "MU118",
+                "HR Dept.",
+                "25",
+                "Completed"
+            ],
+            [
+                "EXH-4422",
+                "Art Exhibition",
+                "05/01/2026",
+                "Mu119",
+                "Arts Council",
+                "120",
+                "Ongoing"
+            ],
+            [
+                "EMT-4533",
+                "Medical Conference",
+                "10/15/2027",
+                "mu121",
+                "Health Assoc.",
+                "85",
+                "Cancelled"
+            ]
+        ]
+    }
+}

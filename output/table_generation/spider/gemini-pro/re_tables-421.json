@@ -1,0 +1,39 @@
+{
+    "table-421-421": {
+        "title": [
+            "Nationality",
+            "Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Nationality Counts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of different nationalities.",
+        "data": [
+            [
+                "American",
+                "15"
+            ],
+            [
+                "Canadian",
+                "8"
+            ],
+            [
+                "British",
+                "12"
+            ],
+            [
+                "German",
+                "7"
+            ],
+            [
+                "Japanese",
+                "10"
+            ]
+        ]
+    }
+}

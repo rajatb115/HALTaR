@@ -1,0 +1,51 @@
+{
+    "table-212-212": {
+        "title": [
+            "Teacher Name",
+            "Age",
+            "Hometown",
+            "Subject"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Teacher Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the age and hometown of teachers?",
+        "data": [
+            [
+                "John Smith",
+                "35",
+                "Chicago",
+                "Math"
+            ],
+            [
+                "Alice Johnson",
+                "42",
+                "New York",
+                "English"
+            ],
+            [
+                "Robert Brown",
+                "28",
+                "Los Angeles",
+                "Science"
+            ],
+            [
+                "Emily Davis",
+                "51",
+                "Houston",
+                "History"
+            ],
+            [
+                "Michael Wilson",
+                "39",
+                "Philadelphia",
+                "Art"
+            ]
+        ]
+    }
+}

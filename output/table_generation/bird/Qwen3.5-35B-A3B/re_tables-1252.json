@@ -1,0 +1,69 @@
+{
+    "table-1252-1252": {
+        "title": [
+            "Patient ID",
+            "Condition Category",
+            "Symptom Status",
+            "Abortion Reported",
+            "Notes"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with an Ig G lower than normal has the symptom of abortion?",
+        "data": [
+            [
+                "P-1042",
+                "Hypogammaglobulinemia",
+                "Present",
+                "Yes",
+                "Low IgG levels detected"
+            ],
+            [
+                "P-1156",
+                "Immune Deficiency",
+                "Absent",
+                "No",
+                "Normal antibody response otherwise"
+            ],
+            [
+                "P-A789",
+                "Autoimmune Disorder",
+                "Present",
+                "Yes",
+                "Chronic low immunoglobulins observed"
+            ],
+            [
+                "P-B201",
+                "Genetic Syndrome",
+                "Present",
+                "Yes",
+                "Recurrent infections noted"
+            ],
+            [
+                "P-C334",
+                "Viral Infection",
+                "Absent",
+                "No",
+                "Temporary suppression recorded"
+            ],
+            [
+                "P-D550",
+                "Unknown Etiology",
+                "Present",
+                "Yes",
+                "Pending further testing"
+            ],
+            [
+                "P-E661",
+                "Post-Surgical State",
+                "Present",
+                "N/A",
+                "Recent procedure history included"
+            ]
+        ]
+    }
+}

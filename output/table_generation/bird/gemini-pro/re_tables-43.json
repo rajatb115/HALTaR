@@ -1,0 +1,45 @@
+{
+    "table-43-43": {
+        "title": [
+            "School Name",
+            "Average Math Score",
+            "Education Type"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Schools with Highest Math Scores",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the type of education offered in the school who scored the highest average in Math?",
+        "data": [
+            [
+                "School A",
+                "98",
+                "Public"
+            ],
+            [
+                "School B",
+                "95",
+                "Private"
+            ],
+            [
+                "School C",
+                "92",
+                "Charter"
+            ],
+            [
+                "School D",
+                "90",
+                "Public"
+            ],
+            [
+                "School E",
+                "88",
+                "Private"
+            ]
+        ]
+    }
+}

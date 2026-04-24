@@ -1,0 +1,85 @@
+{
+    "table-963-963": {
+        "title": [
+            "Driver ID",
+            "Birth Year",
+            "Lap Count",
+            "Race Date",
+            "Percentage Eligible",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From 2000 to 2005, what percentage of drivers who were born before 1985 and the lap numbers were over 50?",
+        "data": [
+            [
+                "D0042",
+                "7/1968",
+                "52",
+                "Jan 15, 22",
+                "N/A",
+                "Active",
+                "High mileage driver"
+            ],
+            [
+                "D1093",
+                "3/1892",
+                "NA",
+                "Feb 2, 03",
+                "N/D",
+                "Inactive",
+                "Data incomplete"
+            ],
+            [
+                "A5512",
+                "Nov 1880",
+                "67",
+                "Mar 10, 11",
+                "N/E",
+                "Retired",
+                "Veteran racer"
+            ],
+            [
+                "B2201",
+                "Aug 1795",
+                "48",
+                "Apr 5, 19",
+                "N/F",
+                "Suspended",
+                "Below threshold"
+            ],
+            [
+                "C8834",
+                "Dec 1654",
+                "91",
+                "May 21, 33",
+                "G/H",
+                "Pending",
+                "Extreme age case"
+            ],
+            [
+                "E1102",
+                "Sep 1432",
+                "I/J",
+                "Jun 30, K",
+                "L/M",
+                "Unknown",
+                "System error"
+            ],
+            [
+                "F3399",
+                "Oct 1210",
+                "M/N",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

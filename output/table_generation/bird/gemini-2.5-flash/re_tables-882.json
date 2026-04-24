@@ -1,0 +1,93 @@
+{
+    "table-882-882": {
+        "title": [
+            "Driver Name",
+            "Team",
+            "Car Number",
+            "Starting Position",
+            "Finishing Position",
+            "Laps Completed",
+            "Total Race Laps",
+            "Completion Rate (%)"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the drivers who took part in the race in 1983/7/16, what's their race completion rate?",
+        "data": [
+            [
+                "Alain Prost",
+                "Renault",
+                "15",
+                "3",
+                "1",
+                "67",
+                "67",
+                "100.0"
+            ],
+            [
+                "Nelson Piquet",
+                "Brabham-BMW",
+                "5",
+                "1",
+                "2",
+                "67",
+                "67",
+                "100.0"
+            ],
+            [
+                "Ren\u00e9 Arnoux",
+                "Ferrari",
+                "27",
+                "2",
+                "5",
+                "67",
+                "67",
+                "100.0"
+            ],
+            [
+                "Keke Rosberg",
+                "Williams-Ford",
+                "1",
+                "13",
+                "4",
+                "67",
+                "67",
+                "100.0"
+            ],
+            [
+                "Riccardo Patrese",
+                "Brabham-BMW",
+                "6",
+                "5",
+                "DNF",
+                "53",
+                "67",
+                "79.1"
+            ],
+            [
+                "John Watson",
+                "McLaren-Ford",
+                "7",
+                "9",
+                "9",
+                "66",
+                "67",
+                "98.5"
+            ],
+            [
+                "Niki Lauda",
+                "McLaren-Ford",
+                "8",
+                "11",
+                "11",
+                "65",
+                "67",
+                "97.0"
+            ]
+        ]
+    }
+}

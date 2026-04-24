@@ -1,0 +1,77 @@
+{
+    "table-465-465": {
+        "title": [
+            "Nation",
+            "Primary Language",
+            "Secondary Language",
+            "Region",
+            "Population Estimate",
+            "Official Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of nations speak both English and French?",
+        "data": [
+            [
+                "Canada",
+                "English",
+                "French",
+                "North America",
+                "40 million",
+                "Both official at federal level"
+            ],
+            [
+                "Belgium",
+                "Dutch",
+                "French / German",
+                "Europe",
+                "76 million",
+                "Regional co-official status"
+            ],
+            [
+                "Switzerland",
+                "German",
+                "French (plus others)",
+                "Europe & Asia",
+                "8.7 million",
+                "Co-official alongside other languages"
+            ],
+            [
+                "Luxembourg",
+                "Luxembourgish",
+                "French + German",
+                "Western Europe",
+                "~650k",
+                "All three used in administration"
+            ],
+            [
+                "Mauritius",
+                "Creole/French/English",
+                "N/A",
+                "Indian Ocean",
+                "Unknown",
+                "No single primary; multilingual society"
+            ],
+            [
+                "Seychelles",
+                "Seychellois Creole",
+                "French & English",
+                "Indian Ocean",
+                "99k",
+                "Three national languages recognized"
+            ],
+            [
+                "Haiti",
+                "Haitian Creole (French-based)",
+                "French is formal standard",
+                "Caribbean",
+                "Unknown",
+                "Both spoken but distinct usage patterns"
+            ]
+        ]
+    }
+}

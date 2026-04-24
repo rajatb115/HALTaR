@@ -1,0 +1,58 @@
+{
+    "table-574-574": {
+        "title": [
+            "Comment ID",
+            "Author",
+            "Comment Text",
+            "Score",
+            "Timestamp"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Comments with a Specific Score",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write the contents of comments with a score of 17.",
+        "data": [
+            [
+                "123",
+                "JohnDoe",
+                "This is a great post!",
+                "17",
+                "2023-10-26 10:00:00"
+            ],
+            [
+                "456",
+                "JaneSmith",
+                "I agree with the author.",
+                "17",
+                "2023-10-26 10:15:00"
+            ],
+            [
+                "789",
+                "PeterJones",
+                "Interesting perspective.",
+                "17",
+                "2023-10-26 10:30:00"
+            ],
+            [
+                "101",
+                "AliceBrown",
+                "Thanks for sharing!",
+                "17",
+                "2023-10-26 10:45:00"
+            ],
+            [
+                "112",
+                "BobWilson",
+                "I have a question about this.",
+                "17",
+                "2023-10-26 11:00:00"
+            ]
+        ]
+    }
+}

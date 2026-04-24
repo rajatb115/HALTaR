@@ -1,0 +1,39 @@
+{
+    "table-55-55": {
+        "title": [
+            "School Name",
+            "Zip Code"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Schools Under Avetik Atoian's Administration",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please specify all of the schools and their related mailing zip codes that are under Avetik Atoian's administration.",
+        "data": [
+            [
+                "School A",
+                "90210"
+            ],
+            [
+                "School B",
+                "10001"
+            ],
+            [
+                "School C",
+                "60611"
+            ],
+            [
+                "School D",
+                "77005"
+            ],
+            [
+                "School E",
+                "94102"
+            ]
+        ]
+    }
+}

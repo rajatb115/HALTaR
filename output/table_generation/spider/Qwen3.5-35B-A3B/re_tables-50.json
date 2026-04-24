@@ -1,0 +1,85 @@
+{
+    "table-50-50": {
+        "title": [
+            "Pet_Type",
+            "Average_Weight_Lbs",
+            "Sample_Size",
+            "Data_Source",
+            "Last_Update_Date",
+            "Confidence_Level",
+            "Unit_of_Measure"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average weight for each pet type.",
+        "data": [
+            [
+                "Dog",
+                "45.2",
+                "320",
+                "National Survey",
+                "06/15/2023",
+                "High",
+                "Pounds"
+            ],
+            [
+                "Cat",
+                "9.8",
+                "510",
+                "Veterinary Clinic Records",
+                "7/22/239",
+                "Medium",
+                "Ponds"
+            ],
+            [
+                "Rabbit",
+                "8.5",
+                "65",
+                "Breeder Registry",
+                "Jan 10, 2323",
+                "Low",
+                "Kilograms"
+            ],
+            [
+                "Hamster",
+                "0.15",
+                "120",
+                "Home Owner Forum",
+                "Mar 05,  2223",
+                "Medium",
+                "Pounds"
+            ],
+            [
+                "Guinea Pig",
+                ".95",
+                "85",
+                "Animal Shelter Database",
+                "Feb 28, 3332",
+                "High",
+                "Kilograms"
+            ],
+            [
+                "Parrot",
+                "",
+                "N/A",
+                "Missing Data",
+                "Dec 31, 999",
+                "Low",
+                "Unknown"
+            ],
+            [
+                "Turtle",
+                "/",
+                "N",
+                "Incomplete Record",
+                "Nov 11, -11",
+                "",
+                ""
+            ]
+        ]
+    }
+}

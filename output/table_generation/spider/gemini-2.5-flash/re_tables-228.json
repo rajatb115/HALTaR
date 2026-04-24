@@ -1,0 +1,62 @@
+{
+    "table-228-228": {
+        "title": [
+            "Visitor Name",
+            "Membership Level",
+            "Membership Tier",
+            "Membership Start Date",
+            "Total Visits"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the names of the visitors whose membership level is higher than 4, and order the results by the level from high to low.",
+        "data": [
+            [
+                "Alice Johnson",
+                "7",
+                "Platinum",
+                "2020-01-15",
+                "125"
+            ],
+            [
+                "Bob Williams",
+                "6",
+                "Gold",
+                "2021-03-22",
+                "98"
+            ],
+            [
+                "Carol Davis",
+                "6",
+                "Gold",
+                "2022-07-01",
+                "75"
+            ],
+            [
+                "David Miller",
+                "5",
+                "Silver",
+                "2021-11-10",
+                "62"
+            ],
+            [
+                "Emily White",
+                "5",
+                "Silver",
+                "2023-02-28",
+                "45"
+            ],
+            [
+                "Frank Green",
+                "5",
+                "Silver",
+                "2020-09-05",
+                "88"
+            ]
+        ]
+    }
+}

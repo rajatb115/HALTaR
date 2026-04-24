@@ -1,0 +1,45 @@
+{
+    "table-840-840": {
+        "title": [
+            "Full Name",
+            "Weight (lbs)",
+            "Eye Color"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Superheroes with Brown Eyes and Light Weight",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In superheroes with weight less than 100, list the full name of the superheroes with brown eyes.",
+        "data": [
+            [
+                "Richard Rider",
+                "79",
+                "Brown"
+            ],
+            [
+                "Raymond Maxwell",
+                "83",
+                "Brown"
+            ],
+            [
+                "Janet van Dyne",
+                "110",
+                "Brown"
+            ],
+            [
+                "Barbara Gordon",
+                "115",
+                "Brown"
+            ],
+            [
+                "Timothy Drake",
+                "125",
+                "Blue"
+            ]
+        ]
+    }
+}

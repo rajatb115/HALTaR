@@ -1,0 +1,83 @@
+{
+    "table-146-146": {
+        "title": [
+            "Shop ID",
+            "Manager Name",
+            "District",
+            "Product Count",
+            "Status",
+            "Last Updated",
+            "Region Code",
+            "Revenue Tier"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the manager name and district of the shop whose number of products is the largest.",
+        "data": [
+            [
+                "SHP_104",
+                "Elena Rodriguez",
+                "Downtown Metro",
+                "4520",
+                "Active",
+                "7/15/2023",
+                "RM-01A",
+                "Premium"
+            ],
+            [
+                "SHP_089",
+                "Marcus Chen",
+                "Westside Industrial",
+                "3890",
+                "Maintenance",
+                "6/22/2023",
+                "WI-02B",
+                "Standard"
+            ],
+            [
+                "SHP_112",
+                "Sarah O'Connor",
+                "North Hills Suburb",
+                "5100",
+                "Open",
+                "8/01/2024",
+                "NH-03C",
+                "Luxury"
+            ],
+            [
+                "HSP_076",
+                "David Kim",
+                "Eastport Commercial",
+                "980",
+                "Closed",
+                "N/A",
+                "EC-04D",
+                "Basic"
+            ],
+            [
+                "RTP_133",
+                "Amanda Lee",
+                "Central Plaza",
+                "0",
+                "Pending",
+                "",
+                "CP-05E",
+                "New Launch"
+            ],
+            [
+                "MKT_201",
+                "",
+                "South Bay Retail",
+                "",
+                "Inactive",
+                "",
+                "SB-06F",
+                "Archive"
+            ]
+        ]
+    }
+}

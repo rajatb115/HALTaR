@@ -1,0 +1,43 @@
+{
+    "table-1441-1441": {
+        "title": [
+            "Email",
+            "Payment Date",
+            "Payment Amount"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Customer Payment Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List emails of people who paid more than 20 dollars from 9/10/2019 to 11/19/2019.",
+        "data": [
+            [
+                "john.123@sample.com",
+                "2019-09-15",
+                "$25.00"
+            ],
+            [
+                "jane.doe@sample.net",
+                "2019-10-01",
+                "$30.00"
+            ],
+            [
+                "peter_pan@sample.org",
+                "2019-10-22",
+                "$22.50"
+            ],
+            [
+                "alice.wonder@sample.com",
+                "2019-11-05",
+                "$45.00"
+            ],
+            [
+                "bob.builder@sample.net",
+                "2019-11-12",
+                "$21.00"
+            ]
+        ]
+    }
+}

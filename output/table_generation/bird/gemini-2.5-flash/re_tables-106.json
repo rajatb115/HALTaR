@@ -1,0 +1,69 @@
+{
+    "table-106-106": {
+        "title": [
+            "Loan ID",
+            "Approval Date",
+            "Account Open Date",
+            "Branch Location",
+            "District ID"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "There was a loan approved in 1994/8/25, where was that account opened, give the district Id of the branch.",
+        "data": [
+            [
+                "L-78901",
+                "1994-08-25",
+                "1993-03-15",
+                "Central City",
+                "101"
+            ],
+            [
+                "L-78902",
+                "1994-09-10",
+                "1994-01-20",
+                "Westside Branch",
+                "103"
+            ],
+            [
+                "L-78903",
+                "1994-07-01",
+                "1992-11-05",
+                "Northwood",
+                "102"
+            ],
+            [
+                "L-78904",
+                "1995-01-15",
+                "1994-06-30",
+                "Riverside",
+                "104"
+            ],
+            [
+                "L-78905",
+                "1994-08-20",
+                "1993-10-01",
+                "Downtown Plaza",
+                "101"
+            ],
+            [
+                "L-78906",
+                "1994-10-05",
+                "1994-02-18",
+                "East End",
+                "105"
+            ],
+            [
+                "L-78907",
+                "1994-06-12",
+                "1992-09-22",
+                "Southside",
+                "103"
+            ]
+        ]
+    }
+}

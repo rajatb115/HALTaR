@@ -1,0 +1,73 @@
+{
+    "table-861-861": {
+        "title": [
+            "Driver ID",
+            "Race Number",
+            "Qualifying Session",
+            "Q2 Time",
+            "Nationality",
+            "Team",
+            "Car Model",
+            "Points Scored"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the driver who had the Q2 time as 0:01:40 in the qualifying race No. 355, what is his nationality?",
+        "data": [
+            [
+                "DRV_772",
+                "360",
+                "Q1",
+                "N/A",
+                "Germany",
+                "Red Bull Racing",
+                "RB19",
+                "0"
+            ],
+            [
+                "DRV_Smith",
+                "412",
+                "Q3",
+                "58s",
+                "Brazil",
+                "Ferrari",
+                "SF-23",
+                "+12"
+            ],
+            [
+                "DRV_Klein",
+                "88",
+                "Q4",
+                "62s",
+                "Japan",
+                "Mercedes",
+                "W14",
+                "-5"
+            ],
+            [
+                "DRV_Vargas",
+                "99",
+                "Q5",
+                "71s",
+                "Spain",
+                "McLaren",
+                "MCL60",
+                "+3"
+            ],
+            [
+                "DRV_Olsen",
+                "",
+                "Q6",
+                "55s",
+                "Sweden",
+                "Aston Martin",
+                "AMR23",
+                "0"
+            ]
+        ]
+    }
+}

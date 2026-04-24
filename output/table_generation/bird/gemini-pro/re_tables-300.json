@@ -1,0 +1,55 @@
+{
+    "table-300-300": {
+        "title": [
+            "Molecule ID",
+            "Chemical Formula",
+            "Carcinogenicity",
+            "Supporting Evidence",
+            "Notes"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenicity Information for Sample Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Is molecule TR124 carcinogenic?",
+        "data": [
+            [
+                "TR124",
+                "C14H12N2O2",
+                "Likely Carcinogenic",
+                "In vitro studies show DNA damage",
+                "Further in vivo studies recommended"
+            ],
+            [
+                "AB567",
+                "C8H8O3",
+                "Not Carcinogenic",
+                "No evidence of carcinogenicity in multiple studies",
+                ""
+            ],
+            [
+                "XY901",
+                "C20H25N3O",
+                "Possibly Carcinogenic",
+                "Limited evidence from animal studies",
+                ""
+            ],
+            [
+                "LM345",
+                "C6H12O6",
+                "Not Carcinogenic",
+                "Generally regarded as safe",
+                ""
+            ],
+            [
+                "UV789",
+                "C10H7Cl3O",
+                "Carcinogenic",
+                "Strong evidence from human studies",
+                "Banned substance"
+            ]
+        ]
+    }
+}

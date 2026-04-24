@@ -1,0 +1,45 @@
+{
+    "table-648-648": {
+        "title": [
+            "User Location",
+            "Badge Name",
+            "Year Received"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "User Badges in 2011",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the badge names received in 2011 for the user whose location is in the North Pole.",
+        "data": [
+            [
+                "North Pole",
+                "Teacher",
+                "2011"
+            ],
+            [
+                "North Pole",
+                "Scholar",
+                "2011"
+            ],
+            [
+                "North Pole",
+                "Supporter",
+                "2011"
+            ],
+            [
+                "North Pole",
+                "Nice Answer",
+                "2011"
+            ],
+            [
+                "North Pole",
+                "Good Question",
+                "2011"
+            ]
+        ]
+    }
+}

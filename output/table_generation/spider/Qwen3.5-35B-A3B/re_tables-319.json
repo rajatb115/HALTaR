@@ -1,0 +1,73 @@
+{
+    "table-319-319": {
+        "title": [
+            "Student ID",
+            "Full Name",
+            "Mobile Number",
+            "Enrollment Date",
+            "Status",
+            "Major",
+            "Campus Location",
+            "Contact Verified"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the mobile phone number of the student named Timmothy Ward ?",
+        "data": [
+            [
+                "STU-4092",
+                "Timothy Ward",
+                "+1-555-0147",
+                "06/15/2021",
+                "Active",
+                "Computer Science",
+                "North Hall",
+                "Yes"
+            ],
+            [
+                "STU-3381",
+                "T. Ward",
+                "N/A",
+                "",
+                "Inactive",
+                "History",
+                "South Wing",
+                "No"
+            ],
+            [
+                "STD-5029",
+                "Timmy Ward",
+                "55.5.0192.10",
+                "",
+                "",
+                "Biology",
+                "East Lab",
+                "Partial"
+            ],
+            [
+                "S-TIM-WARD",
+                "Timothy J. Ward",
+                "+1-800-5-5123",
+                "",
+                "Suspended",
+                "Engineering",
+                "West Gate",
+                "Unknown"
+            ],
+            [
+                "T.Ward_Student",
+                "Tim Ward",
+                "(55) 501-4422",
+                "",
+                "Alumni",
+                "Mathematics",
+                "Central Quad",
+                "Confirmed"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "table-518-518": {
+        "title": [
+            "Country",
+            "Continent",
+            "Area_km\u00b2",
+            "Population",
+            "Avg_Area_Calculation",
+            "Data_Source",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total population and average area of countries in the continent of North America whose area is bigger than 3000 ?",
+        "data": [
+            [
+                "Canada",
+                "North America",
+                "9984670",
+                "38246108",
+                "Included (>30k)",
+                "UN Stats",
+                "Verified",
+                "Largest by area"
+            ],
+            [
+                "United States",
+                "North America",
+                "5370090",
+                "331002651",
+                "Included (>30 k)",
+                "US Census Bureau",
+                "Verified",
+                "Second largest"
+            ],
+            [
+                "Mexico",
+                "North America",
+                "1964375",
+                "128932753",
+                "Included (>30K)",
+                "INEGI",
+                "Verified",
+                "Ranks third"
+            ],
+            [
+                "Guatemala",
+                "North America",
+                "107159",
+                "17915568",
+                "Included (>3 0 K)",
+                "INEC",
+                "Verified",
+                "Mesoamerican region"
+            ],
+            [
+                "Honduras",
+                "North America",
+                "112492",
+                "10032044",
+                "Included (>3 0K)",
+                "INIDE",
+                "Verified",
+                "Central American nation"
+            ],
+            [
+                "El Salvador",
+                "North America",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

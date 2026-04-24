@@ -1,0 +1,69 @@
+{
+    "table-13-13": {
+        "title": [
+            "School ID",
+            "State",
+            "Sat Excellence Rate",
+            "Eligible Free Rate Age 5_17",
+            "Enrollment Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the schools with an SAT excellence rate of over 0.3, what is the highest eligible free rate for students aged 5-17?",
+        "data": [
+            [
+                "SCH-1042",
+                "California",
+                "0.32",
+                "68.5%",
+                "450"
+            ],
+            [
+                "SCH-2193",
+                "Texas",
+                "0.35",
+                "72.1%",
+                "320"
+            ],
+            [
+                "SCH-3055",
+                "New York",
+                "0.41",
+                "55.8%",
+                "610"
+            ],
+            [
+                "SCH-4102",
+                "Florida",
+                "0.33",
+                "81.2%",
+                "290"
+            ],
+            [
+                "SCH-5088",
+                "Illinois",
+                "0.38",
+                "63.4%",
+                "405"
+            ],
+            [
+                "SCH-6211",
+                "Ohio",
+                "0.34",
+                "70.9%",
+                "380"
+            ],
+            [
+                "SCH-7344",
+                "Michigan",
+                "0.36",
+                "66.7%",
+                "350"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-581-581": {
+        "title": [
+            "Professional First Name",
+            "Occupation Category",
+            "Dog Usage Status",
+            "Commonality Score",
+            "Source Region",
+            "Verification Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first names that are used for professionals or owners but are not used as dog names.",
+        "data": [
+            [
+                "Arthur",
+                "Architectural Designer",
+                "Not Used",
+                "High",
+                "North America",
+                "04/15/2024"
+            ],
+            [
+                "Barnaby",
+                "Financial Analyst",
+                "Rarely Used",
+                "Medium",
+                "United Kingdom",
+                "04/02/2024"
+            ],
+            [
+                "Clementine",
+                "Legal Consultant",
+                "Never Used",
+                "Low",
+                "France",
+                "06/10/2023"
+            ],
+            [
+                "Dexter",
+                "Data Scientist",
+                "Occasionally Used",
+                "Moderate",
+                "Australia",
+                "07/22/2019"
+            ],
+            [
+                "Eleanor",
+                "Medical Director",
+                "Uncommon",
+                "High",
+                "Canada",
+                "09/30/2018"
+            ],
+            [
+                "Felix",
+                "Investment Banker",
+                "Frequently Used",
+                "Very High",
+                "Germany",
+                "03/14/2005"
+            ],
+            [
+                "Gwendolyn",
+                "Human Resources Manager",
+                "Extremely Rare",
+                "Low",
+                "USA",
+                "05/05/2012"
+            ],
+            [
+                "Harrison",
+                "Civil Engineer",
+                "Infrequently Used",
+                "Average",
+                "New Zealand",
+                "08/01/2021"
+            ]
+        ]
+    }
+}

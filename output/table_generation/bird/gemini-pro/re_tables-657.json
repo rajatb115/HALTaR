@@ -1,0 +1,53 @@
+{
+    "table-657-657": {
+        "title": [
+            "Post ID",
+            "Parent ID",
+            "Display Name",
+            "Score"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            3
+        ],
+        "pgTitle": "Example of Post Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the display name of the parent ID for child post with the highest score.",
+        "data": [
+            [
+                "123",
+                "100",
+                "UserA",
+                "5"
+            ],
+            [
+                "124",
+                "100",
+                "UserA",
+                "10"
+            ],
+            [
+                "125",
+                "101",
+                "UserB",
+                "7"
+            ],
+            [
+                "126",
+                "100",
+                "UserA",
+                "12"
+            ],
+            [
+                "127",
+                "102",
+                "UserC",
+                "3"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-88-88": {
+        "title": [
+            "Cylinders",
+            "Max Acceleration (m/s\u00b2)",
+            "Vehicle Class",
+            "Engine Displacement (L)",
+            "Power-to-Weight Ratio (kW/kg)",
+            "Test Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum accelerate for different number of cylinders?",
+        "data": [
+            [
+                "4",
+                "6.2",
+                "Compact Sedan",
+                "0.8",
+                "75",
+                "4/12/2023"
+            ],
+            [
+                "6",
+                "8.5",
+                "Sports Coupe",
+                "3.0",
+                "92",
+                "5/01/23"
+            ],
+            [
+                "8",
+                "10.1",
+                "Luxury SUV",
+                "5.0",
+                "105",
+                "6/15/24"
+            ],
+            [
+                "V12",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

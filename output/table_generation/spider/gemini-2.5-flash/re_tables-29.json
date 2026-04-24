@@ -1,0 +1,69 @@
+{
+    "table-29-29": {
+        "title": [
+            "Dog Name",
+            "Breed",
+            "Age (Months)",
+            "Weight (lbs)",
+            "Gender"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much does the youngest dog weigh?",
+        "data": [
+            [
+                "Max",
+                "Golden Retriever",
+                "18",
+                "68",
+                "Male"
+            ],
+            [
+                "Bella",
+                "Pug",
+                "10",
+                "22",
+                "Female"
+            ],
+            [
+                "Charlie",
+                "German Shepherd",
+                "36",
+                "85",
+                "Male"
+            ],
+            [
+                "Lucy",
+                "Beagle",
+                "6",
+                "18",
+                "Female"
+            ],
+            [
+                "Cooper",
+                "Labrador",
+                "24",
+                "75",
+                "Male"
+            ],
+            [
+                "Daisy",
+                "Chihuahua",
+                "4",
+                "5",
+                "Female"
+            ],
+            [
+                "Rocky",
+                "Bulldog",
+                "12",
+                "50",
+                "Male"
+            ]
+        ]
+    }
+}

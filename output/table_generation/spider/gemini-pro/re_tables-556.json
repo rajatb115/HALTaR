@@ -1,0 +1,39 @@
+{
+    "table-556-556": {
+        "title": [
+            "Name",
+            "Grade"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "High School Student Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the names of all high schoolers in grade 10.",
+        "data": [
+            [
+                "John Smith",
+                "10"
+            ],
+            [
+                "Emily Chen",
+                "10"
+            ],
+            [
+                "David Lee",
+                "10"
+            ],
+            [
+                "Sarah Jones",
+                "10"
+            ],
+            [
+                "Michael Brown",
+                "10"
+            ]
+        ]
+    }
+}

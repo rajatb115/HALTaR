@@ -1,0 +1,39 @@
+{
+    "table-568-568": {
+        "title": [
+            "Display Name",
+            "Post Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "User Post Count",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the user with the display name of \"Tiago Pasqualini\", how many posts did he/she own?",
+        "data": [
+            [
+                "Tiago Pasqualini",
+                "15"
+            ],
+            [
+                "John Doe",
+                "22"
+            ],
+            [
+                "Jane Smith",
+                "8"
+            ],
+            [
+                "Peter Jones",
+                "31"
+            ],
+            [
+                "Alice Brown",
+                "12"
+            ]
+        ]
+    }
+}

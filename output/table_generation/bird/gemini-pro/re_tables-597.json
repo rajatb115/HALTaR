@@ -1,0 +1,52 @@
+{
+    "table-597-597": {
+        "title": [
+            "User ID",
+            "Username",
+            "Comment Count",
+            "Badge"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Users by Comment Count and Badges",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which users have posted the most comments. List out the user's badge?",
+        "data": [
+            [
+                "123",
+                "Alice123",
+                "250",
+                "Gold"
+            ],
+            [
+                "456",
+                "BobTheBuilder",
+                "180",
+                "Silver"
+            ],
+            [
+                "789",
+                "CharlieChan",
+                "120",
+                "Bronze"
+            ],
+            [
+                "101",
+                "DavidLee",
+                "95",
+                "Bronze"
+            ],
+            [
+                "112",
+                "EveOnline",
+                "70",
+                "None"
+            ]
+        ]
+    }
+}

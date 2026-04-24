@@ -1,0 +1,85 @@
+{
+    "table-692-692": {
+        "title": [
+            "User_ID",
+            "Total_Upvotes",
+            "Account_Status",
+            "Join_Date",
+            "Last_Active",
+            "Region",
+            "Verification_Level"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the number of adult users who have cast over 5000 upvotes.",
+        "data": [
+            [
+                "U_1042",
+                "6250",
+                "Active",
+                "07/12/2019",
+                "3 days ago",
+                "North America",
+                "Verified"
+            ],
+            [
+                "U_A891",
+                "5120",
+                "Inactive",
+                "9 years ago",
+                "N/A",
+                "Europe",
+                "Unverified"
+            ],
+            [
+                "B_User_02",
+                ">50k",
+                "Premium",
+                "Jan 2nd, 21",
+                "Yesterday",
+                "Asia Pacific",
+                "Gold Tier"
+            ],
+            [
+                "Civic_Member_X",
+                "7800",
+                "Suspended",
+                "Dec 25th, 18",
+                "Never again",
+                "South America",
+                "Basic"
+            ],
+            [
+                "TopContributor_99",
+                ">1M",
+                "Active since inception",
+                "Feb 1st, 09",
+                "Today",
+                "Global",
+                "Platinum"
+            ],
+            [
+                "Newbie_High_Flyer",
+                "8900",
+                "Trial",
+                "Mar 15th, 23",
+                "4 hours ago",
+                "Africa",
+                "Pending Review"
+            ],
+            [
+                "Legacy_Account_Z",
+                ">100k",
+                "Retired",
+                "Nov 11th, 05",
+                "Offline for months",
+                "",
+                ""
+            ]
+        ]
+    }
+}

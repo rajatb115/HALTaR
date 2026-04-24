@@ -1,0 +1,76 @@
+{
+    "table-364-364": {
+        "title": [
+            "Card Name",
+            "Set Code",
+            "Legal Status",
+            "Deck Type",
+            "Quantity Found"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards of legalities whose status is restricted are found in a starter deck?",
+        "data": [
+            [
+                "Black Lotus",
+                "Alpha",
+                "Restricted",
+                "Starter Deck",
+                "N/A"
+            ],
+            [
+                "Power Nine",
+                "Beta",
+                "Restricted",
+                "Starter Deck Bundle",
+                "0"
+            ],
+            [
+                "Ancestral Recall",
+                "Unlimited",
+                "Restricted",
+                "Preconstructed Decks",
+                "4"
+            ],
+            [
+                "Time Walk",
+                "Revised",
+                "Restricted",
+                "Limited Events",
+                "6"
+            ],
+            [
+                "Mox Pearl",
+                "Fourth Edition",
+                "Restricted",
+                "Booster Packs",
+                "7"
+            ],
+            [
+                "Lightning Bolt",
+                "Fifth Edition",
+                "Not Restricted",
+                "Standard Format",
+                "3"
+            ],
+            [
+                "Swords to Plowshares",
+                "Sixth Edition",
+                "Legal",
+                "Modern Constructed",
+                "5"
+            ],
+            [
+                "Tarmogoyf",
+                "Zendikar",
+                "Restricted",
+                "Reserved List",
+                "8"
+            ]
+        ]
+    }
+}

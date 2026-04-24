@@ -1,0 +1,37 @@
+{
+    "table-630-630": {
+        "title": [
+            "Breed Type",
+            "Size Type"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Breed and Size Combinations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are all the possible breed type and size type combinations?",
+        "data": [
+            [
+                "Labrador Retriever",
+                "Large"
+            ],
+            [
+                "Chihuahua",
+                "Small"
+            ],
+            [
+                "German Shepherd",
+                "Large"
+            ],
+            [
+                "Poodle",
+                "Standard"
+            ],
+            [
+                "Beagle",
+                "Medium"
+            ]
+        ]
+    }
+}

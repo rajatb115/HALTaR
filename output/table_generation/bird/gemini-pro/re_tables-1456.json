@@ -1,0 +1,55 @@
+{
+    "table-1456-1456": {
+        "title": [
+            "Budget Name",
+            "Water Cost",
+            "Chips Cost",
+            "Cookies Cost",
+            "Total Cost"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Budget Allocation Comparison",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which budget allowed the most money for water, chips, and cookies?",
+        "data": [
+            [
+                "Budget A",
+                "$25",
+                "$15",
+                "$10",
+                "$50"
+            ],
+            [
+                "Budget B",
+                "$30",
+                "$10",
+                "$12",
+                "$52"
+            ],
+            [
+                "Budget C",
+                "$20",
+                "$20",
+                "$15",
+                "$55"
+            ],
+            [
+                "Budget D",
+                "$35",
+                "$5",
+                "$8",
+                "$48"
+            ],
+            [
+                "Budget E",
+                "$15",
+                "$25",
+                "$20",
+                "$60"
+            ]
+        ]
+    }
+}

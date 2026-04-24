@@ -1,0 +1,52 @@
+{
+    "table-1515-1515": {
+        "title": [
+            "Timestamp",
+            "Customer ID",
+            "Currency",
+            "Transaction Amount"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            3
+        ],
+        "pgTitle": "Transaction Details on August 24, 2012",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What kind of currency did the customer paid at 16:25:00 in 2012/8/24?",
+        "data": [
+            [
+                "2012-08-24 16:23:15",
+                "12345",
+                "USD",
+                "25.00"
+            ],
+            [
+                "2012-08-24 16:25:00",
+                "67890",
+                "EUR",
+                "15.50"
+            ],
+            [
+                "2012-08-24 16:27:42",
+                "24680",
+                "GBP",
+                "10.00"
+            ],
+            [
+                "2012-08-24 16:29:59",
+                "13579",
+                "USD",
+                "30.25"
+            ],
+            [
+                "2012-08-24 16:31:01",
+                "98765",
+                "JPY",
+                "1600.00"
+            ]
+        ]
+    }
+}

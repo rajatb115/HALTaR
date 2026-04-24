@@ -1,0 +1,55 @@
+{
+    "table-387-387": {
+        "title": [
+            "Card Name",
+            "Future Frame",
+            "Legality Status (Standard)",
+            "Legality Status (Modern)",
+            "Legality Status (Legacy)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Cards with Future Frame and Their Legality",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards are having future frame version and what are the legality status of these cards?",
+        "data": [
+            [
+                "Tarmogoyf",
+                "Yes",
+                "Not Legal",
+                "Legal",
+                "Legal"
+            ],
+            [
+                "Bridge from Below",
+                "Yes",
+                "Not Legal",
+                "Banned",
+                "Legal"
+            ],
+            [
+                "Ghostfire",
+                "Yes",
+                "Not Legal",
+                "Legal",
+                "Legal"
+            ],
+            [
+                "Lucent Liminid",
+                "Yes",
+                "Not Legal",
+                "Not Legal",
+                "Legal"
+            ],
+            [
+                "Pact of Negation",
+                "Yes",
+                "Not Legal",
+                "Legal",
+                "Legal"
+            ]
+        ]
+    }
+}

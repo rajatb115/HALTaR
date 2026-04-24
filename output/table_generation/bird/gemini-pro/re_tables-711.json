@@ -1,0 +1,46 @@
+{
+    "table-711-711": {
+        "title": [
+            "Post Comments",
+            "Comment Score",
+            "Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Comment Score Analysis for Single-Comment Posts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In posts with 1 comment, how many of the comments have 0 score?",
+        "data": [
+            [
+                "1",
+                "0",
+                "10"
+            ],
+            [
+                "1",
+                "1",
+                "5"
+            ],
+            [
+                "1",
+                "2",
+                "2"
+            ],
+            [
+                "1",
+                "-1",
+                "1"
+            ],
+            [
+                "1",
+                "-2",
+                "0"
+            ]
+        ]
+    }
+}

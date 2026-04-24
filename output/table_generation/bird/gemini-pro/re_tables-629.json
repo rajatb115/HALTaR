@@ -1,0 +1,46 @@
+{
+    "table-629-629": {
+        "title": [
+            "User ID",
+            "Username",
+            "Total Views"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Top Users by View Count",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which users have the highest number of views?",
+        "data": [
+            [
+                "123",
+                "Alice12",
+                "15000"
+            ],
+            [
+                "456",
+                "BobTheBuilder",
+                "12500"
+            ],
+            [
+                "789",
+                "CarolCode",
+                "11000"
+            ],
+            [
+                "101",
+                "DavidData",
+                "9800"
+            ],
+            [
+                "112",
+                "EveExplore",
+                "8500"
+            ]
+        ]
+    }
+}

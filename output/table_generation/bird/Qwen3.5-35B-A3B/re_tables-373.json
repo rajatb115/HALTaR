@@ -1,0 +1,69 @@
+{
+    "table-373-373": {
+        "title": [
+            "Card ID",
+            "Card Name",
+            "Set Code",
+            "Rarity",
+            "Toughness Value"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards are there with toughness of 99?",
+        "data": [
+            [
+                "MTG-0042",
+                "Void Serpent",
+                "MLD",
+                "Mythic Rare",
+                "97"
+            ],
+            [
+                "MTG-1105",
+                "Abyssal Titan",
+                "KTK",
+                "Legendary Rare",
+                "99"
+            ],
+            [
+                "MTA-2291",
+                "Colossal Behemoth",
+                "CMB",
+                "Common",
+                "65"
+            ],
+            [
+                "MTC-3304",
+                "Eternal Guardian",
+                "EOC",
+                "Uncommon",
+                "88"
+            ],
+            [
+                "MTX-4412",
+                "Ironclad Golem",
+                "ION",
+                "Rare",
+                "N/A"
+            ],
+            [
+                "MTY-5523",
+                "Phantom Warden",
+                "PHW",
+                "Mythic Rare",
+                "-1"
+            ],
+            [
+                "MTZ-6634",
+                "Skybound Leviathan",
+                "SKB",
+                "Special Frame",
+                "0"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1500-1500": {
+        "title": [
+            "CustomerID",
+            "Currency",
+            "MonthlyConsumption_kWh",
+            "ConsumptionMonth",
+            "ConsumptionYear",
+            "PlanType"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the biggest monthly consumption of the customers who use euro as their currency?",
+        "data": [
+            [
+                "CUST001",
+                "EUR",
+                "1250",
+                "January",
+                "2023",
+                "Premium"
+            ],
+            [
+                "CUST002",
+                "EUR",
+                "980",
+                "February",
+                "2023",
+                "Standard"
+            ],
+            [
+                "CUST003",
+                "EUR",
+                "1520",
+                "March",
+                "2023",
+                "Premium"
+            ],
+            [
+                "CUST004",
+                "EUR",
+                "750",
+                "January",
+                "2023",
+                "Basic"
+            ],
+            [
+                "CUST005",
+                "EUR",
+                "1100",
+                "April",
+                "2023",
+                "Standard"
+            ],
+            [
+                "CUST006",
+                "EUR",
+                "1680",
+                "February",
+                "2023",
+                "Premium"
+            ],
+            [
+                "CUST007",
+                "EUR",
+                "890",
+                "March",
+                "2023",
+                "Basic"
+            ]
+        ]
+    }
+}

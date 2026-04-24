@@ -1,0 +1,45 @@
+{
+    "table-217-217": {
+        "title": [
+            "Teacher Name",
+            "Age",
+            "Subject"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Teacher Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the teachers who are aged either 32 or 33?",
+        "data": [
+            [
+                "Emily Carter",
+                "32",
+                "Math"
+            ],
+            [
+                "John Smith",
+                "33",
+                "Science"
+            ],
+            [
+                "Alice Brown",
+                "32",
+                "English"
+            ],
+            [
+                "David Lee",
+                "33",
+                "History"
+            ],
+            [
+                "Sarah Wilson",
+                "32",
+                "Art"
+            ]
+        ]
+    }
+}

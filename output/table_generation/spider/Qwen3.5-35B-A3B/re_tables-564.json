@@ -1,0 +1,85 @@
+{
+    "table-564-564": {
+        "title": [
+            "Student ID",
+            "Full Name",
+            "Grade Level",
+            "Friend Count",
+            "Last Activity Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show names of all high school students who do not have any friends.",
+        "data": [
+            [
+                "HS-1042",
+                "Liam Johnson",
+                "9th",
+                "0",
+                "N/A",
+                "Active"
+            ],
+            [
+                "HS-1156",
+                "Emma Davis",
+                "7th",
+                "0",
+                "N/A",
+                "Active"
+            ],
+            [
+                "HS-2093",
+                "Noah Smith",
+                "10th",
+                "0",
+                "N/A",
+                "Inactive"
+            ],
+            [
+                "",
+                "Olivia Brown",
+                "8th",
+                "",
+                "N/A",
+                ""
+            ],
+            [
+                "Ava Wilson",
+                "11th",
+                "1",
+                "2023-12-01",
+                "Pending",
+                ""
+            ],
+            [
+                "Ethan Martinez",
+                "9th",
+                "2",
+                "2-24-23",
+                "On Hold",
+                ""
+            ],
+            [
+                "Sophia Anderson",
+                "12th",
+                "3",
+                "23/01/15",
+                "Verified",
+                ""
+            ],
+            [
+                "Lucas Taylor",
+                "1st",
+                "4",
+                "22-15-09",
+                "Flagged",
+                ""
+            ]
+        ]
+    }
+}

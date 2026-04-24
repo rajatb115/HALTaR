@@ -1,0 +1,45 @@
+{
+    "table-592-592": {
+        "title": [
+            "User ID",
+            "Award Date",
+            "Badge Type"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Supporter Badge Awards in 2011",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users are awarded with supporter badge during year 2011?",
+        "data": [
+            [
+                "123",
+                "2011-01-15",
+                "Supporter"
+            ],
+            [
+                "456",
+                "2011-03-22",
+                "Supporter"
+            ],
+            [
+                "789",
+                "2011-05-10",
+                "Supporter"
+            ],
+            [
+                "101",
+                "2011-08-01",
+                "Supporter"
+            ],
+            [
+                "202",
+                "2011-12-05",
+                "Supporter"
+            ]
+        ]
+    }
+}

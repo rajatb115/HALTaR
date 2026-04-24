@@ -1,0 +1,45 @@
+{
+    "table-566-566": {
+        "title": [
+            "Student ID",
+            "Has Friends",
+            "Is Liked By"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "High School Students with Friends and Admirers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the ids of high schoolers who have friends and are also liked by someone else.",
+        "data": [
+            [
+                "101",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "102",
+                "Yes",
+                "No"
+            ],
+            [
+                "103",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "104",
+                "No",
+                "Yes"
+            ],
+            [
+                "105",
+                "Yes",
+                "Yes"
+            ]
+        ]
+    }
+}

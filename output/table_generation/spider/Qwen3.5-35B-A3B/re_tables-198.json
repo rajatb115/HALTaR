@@ -1,0 +1,85 @@
+{
+    "table-198-198": {
+        "title": [
+            "Template ID",
+            "Description",
+            "Category",
+            "Usage Count",
+            "Last Modified Date",
+            "Status",
+            "Owner Department"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the distinct template type descriptions for the templates ever used by any document?",
+        "data": [
+            [
+                "TPL-0042",
+                "Standard Invoice Layout",
+                "Financial",
+                "3420",
+                "06/15/2023",
+                "Active",
+                "Accounting"
+            ],
+            [
+                "TPL-0118",
+                "Quarterly Performance Report",
+                "HR Analytics",
+                "890",
+                "N/A",
+                "Archived",
+                "Human Resources"
+            ],
+            [
+                "TPP-0205",
+                "Client Onboarding Checklist",
+                "Operations",
+                "567",
+                "09/01/2024",
+                "Draft",
+                "Customer Success"
+            ],
+            [
+                "TPT-0331",
+                "Internal Audit Summary Form",
+                "Compliance",
+                "45",
+                "07/22/2023",
+                "Retired",
+                "Legal"
+            ],
+            [
+                "TMP-0499",
+                "Project Milestone Tracker",
+                "Engineering",
+                "678",
+                "",
+                "Pending Review",
+                "Product Management"
+            ],
+            [
+                "TRC-0550",
+                "Vendor Contract Agreement",
+                "Procurement",
+                "",
+                "",
+                "Approved",
+                "Supply Chain"
+            ],
+            [
+                "TSR-0612",
+                "Employee Exit Interview Guide",
+                "HR Policy",
+                "120",
+                "",
+                "Inactive",
+                "Human Resources"
+            ]
+        ]
+    }
+}

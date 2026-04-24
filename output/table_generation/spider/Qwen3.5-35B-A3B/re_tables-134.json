@@ -1,0 +1,76 @@
+{
+    "table-134-134": {
+        "title": [
+            "Flight Number",
+            "Origin Code",
+            "Destination City",
+            "Departure Time",
+            "Status",
+            "Airline",
+            "Aircraft Model"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are flight numbers of flights departing from Airport \"APG\"?",
+        "data": [
+            [
+                "FL-4021",
+                "APG",
+                "BOS",
+                "06:15 AM",
+                "On Time",
+                "SkyWays",
+                "Boeing 737"
+            ],
+            [
+                "FL-XJ99",
+                "APF",
+                "MIA",
+                "7:30 PM",
+                "Delayed",
+                "CoastalAir",
+                "Airbus A320"
+            ],
+            [
+                "FLT-882",
+                "APH",
+                "LAX",
+                "9:45 AM",
+                "Scheduled",
+                "JetStream",
+                "Embraer E-Jet"
+            ],
+            [
+                "AV-104",
+                "APD",
+                "DEN",
+                "4:20 PM",
+                "Active",
+                "MountainFly",
+                "Bombardier CRJ"
+            ],
+            [
+                "QX-550",
+                "AQM",
+                "SFO",
+                "8:00 AM",
+                "Cancelled",
+                "QuickJet",
+                "Cessna Citation"
+            ],
+            [
+                "ZL-332",
+                "APR",
+                "ATL",
+                "5:55 PM",
+                "On Schedule",
+                "ZephyrAir",
+                "Gulfstream G650"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-628-628": {
+        "title": [
+            "User ID",
+            "Age",
+            "Account Status",
+            "Registration Date",
+            "Region"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users were adult?",
+        "data": [
+            [
+                "U001",
+                "28",
+                "Active",
+                "2021-03-10",
+                "North America"
+            ],
+            [
+                "U002",
+                "16",
+                "Active",
+                "2023-07-22",
+                "Europe"
+            ],
+            [
+                "U003",
+                "45",
+                "Inactive",
+                "2020-11-05",
+                "Asia"
+            ],
+            [
+                "U004",
+                "31",
+                "Active",
+                "2022-09-18",
+                "North America"
+            ],
+            [
+                "U005",
+                "19",
+                "Active",
+                "2023-01-30",
+                "South America"
+            ],
+            [
+                "U006",
+                "52",
+                "Active",
+                "2019-06-12",
+                "Europe"
+            ],
+            [
+                "U007",
+                "17",
+                "Inactive",
+                "2023-05-01",
+                "Asia"
+            ]
+        ]
+    }
+}

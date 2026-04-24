@@ -1,0 +1,43 @@
+{
+    "table-645-645": {
+        "title": [
+            "Post Title",
+            "Last Edit Date",
+            "Last Edit User ID"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Post Edit History",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the last edit date and last edit user ID for the post \"Detecting a given face in a database of facial images\".",
+        "data": [
+            [
+                "Detecting a given face in a database of facial images",
+                "2023-10-27",
+                "user123"
+            ],
+            [
+                "Face recognition using convolutional neural networks",
+                "2023-10-26",
+                "user456"
+            ],
+            [
+                "Implementing facial landmark detection with OpenCV",
+                "2023-10-25",
+                "user789"
+            ],
+            [
+                "Building a real-time face detection system",
+                "2023-10-24",
+                "user123"
+            ],
+            [
+                "Comparing different face detection algorithms",
+                "2023-10-23",
+                "user456"
+            ]
+        ]
+    }
+}

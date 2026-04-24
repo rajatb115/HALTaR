@@ -1,0 +1,69 @@
+{
+    "table-247-247": {
+        "title": [
+            "Atom_ID",
+            "Bond_Type",
+            "Bond_ID",
+            "Neighbor_Atom",
+            "Distance_Angstroms",
+            "Order"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the bond type and the bond ID of the atom 45.",
+        "data": [
+            [
+                "46",
+                "Single",
+                "B_45_46_Covalent",
+                "47",
+                "0.0",
+                "N/A"
+            ],
+            [
+                "45",
+                "Double",
+                "B_Bond_XY_Zeta",
+                "50",
+                "3.14",
+                "8.5"
+            ],
+            [
+                "51",
+                "Triple",
+                "B_Triple_Alpha_Gamma",
+                "60",
+                "-1.2",
+                "9.0"
+            ],
+            [
+                "44",
+                "Coordinate",
+                "B_Coord_Delta_Epsilon",
+                "70",
+                "",
+                ""
+            ],
+            [
+                "",
+                "Ionic",
+                "B_Ionic_Kappa_Lambda",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "Covalent_Single",
+                "B_Sigma_Tau_Upsilon",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

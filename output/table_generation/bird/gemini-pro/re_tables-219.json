@@ -1,0 +1,38 @@
+{
+    "table-219-219": {
+        "title": [
+            "Molecule Type",
+            "Fluorine Present",
+            "Percentage"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenic Molecules and Fluorine Content",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of carcinogenic-type molecules does not contain fluorine?",
+        "data": [
+            [
+                "Carcinogenic",
+                "Yes",
+                "35%"
+            ],
+            [
+                "Carcinogenic",
+                "No",
+                "65%"
+            ],
+            [
+                "Non-Carcinogenic",
+                "Yes",
+                "15%"
+            ],
+            [
+                "Non-Carcinogenic",
+                "No",
+                "85%"
+            ]
+        ]
+    }
+}

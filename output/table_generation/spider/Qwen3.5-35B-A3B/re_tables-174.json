@@ -1,0 +1,49 @@
+{
+    "table-174-174": {
+        "title": [
+            "Template_ID",
+            "Status",
+            "Last_Used_Date",
+            "Document_Count",
+            "Owner_Department",
+            "Created_At",
+            "Is_Archived"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show ids for all templates not used by any document.",
+        "data": [
+            [
+                "TPL-4002",
+                "Unused",
+                "N/A",
+                "0",
+                "Engineering",
+                "7/15/2021",
+                "No"
+            ],
+            [
+                "TPL-A119",
+                "Unused",
+                "N/A",
+                "5",
+                "Marketing",
+                "6/1/2022",
+                "Yes"
+            ],
+            [
+                "TPL-B99X",
+                "Inactive",
+                "N/A",
+                "3",
+                "Sales",
+                "8/2/2023",
+                "No"
+            ]
+        ]
+    }
+}

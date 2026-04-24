@@ -1,0 +1,55 @@
+{
+    "table-316-316": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Chlorine Present",
+            "Carcinogenic Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the molecules which contain \"cl\" element, which of them are carcinogenic?",
+        "data": [
+            [
+                "Vinyl Chloride",
+                "C2H3Cl",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Chloroform",
+                "CHCl3",
+                "Yes",
+                "Suspected"
+            ],
+            [
+                "Trichloroethylene",
+                "C2HCl3",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Dichloromethane",
+                "CH2Cl2",
+                "Yes",
+                "Suspected"
+            ],
+            [
+                "Carbon Tetrachloride",
+                "CCl4",
+                "Yes",
+                "Suspected"
+            ],
+            [
+                "Chlorobenzene",
+                "C6H5Cl",
+                "Yes",
+                "No"
+            ]
+        ]
+    }
+}

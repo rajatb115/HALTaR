@@ -1,0 +1,77 @@
+{
+    "table-290-290": {
+        "title": [
+            "Molecule ID",
+            "Carcinogen Status",
+            "Assay Method",
+            "Study Source",
+            "Risk Level",
+            "Year Published"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Is molecule TR151 carcinogenic?",
+        "data": [
+            [
+                "TR150",
+                "Negative",
+                "In Vitro Ames Test",
+                "ToxLab Inc.",
+                "Low",
+                "2021"
+            ],
+            [
+                "TR245",
+                "Positive",
+                "Rodent Bioassay",
+                "Global Health Inst.",
+                "High",
+                "2021"
+            ],
+            [
+                "TR302",
+                "Unknown",
+                "Lack of Data",
+                "Regulatory Review",
+                "Moderate",
+                "2020"
+            ],
+            [
+                "TR410",
+                "Positive",
+                "Mammalian Cell Assay",
+                "ChemSafety Corp.",
+                "High",
+                "2017"
+            ],
+            [
+                "TR556",
+                "Negative",
+                "Chronic Exposure Study",
+                "EcoTox Research",
+                "Negligible",
+                "2023"
+            ],
+            [
+                "TR689",
+                "Pending",
+                "Ongoing Clinical Trial",
+                "MediPharm Labs",
+                "Undetermined",
+                "2024"
+            ],
+            [
+                "TR712",
+                "Negative",
+                "Bacterial Reverse Mutation",
+                "SafeMol Systems",
+                "Low",
+                "2022"
+            ]
+        ]
+    }
+}

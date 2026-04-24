@@ -1,0 +1,58 @@
+{
+    "table-1519-1519": {
+        "title": [
+            "Timestamp",
+            "Country",
+            "Deal ID",
+            "Product Category",
+            "Value (USD)"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2,
+            4
+        ],
+        "pgTitle": "Deal Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the deal happened at 2012/8/24 12:42:00, which country was it?",
+        "data": [
+            [
+                "2012-08-24 12:42:00",
+                "USA",
+                "12345",
+                "Electronics",
+                "1000"
+            ],
+            [
+                "2012-08-24 13:00:00",
+                "UK",
+                "67890",
+                "Clothing",
+                "500"
+            ],
+            [
+                "2012-08-24 14:30:00",
+                "Germany",
+                "24680",
+                "Food",
+                "250"
+            ],
+            [
+                "2012-08-24 15:15:00",
+                "Japan",
+                "13579",
+                "Automotive",
+                "2000"
+            ],
+            [
+                "2012-08-24 16:00:00",
+                "China",
+                "98765",
+                "Home Goods",
+                "750"
+            ]
+        ]
+    }
+}

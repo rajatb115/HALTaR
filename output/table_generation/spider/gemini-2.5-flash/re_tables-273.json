@@ -1,0 +1,61 @@
+{
+    "table-273-273": {
+        "title": [
+            "Ranking Date",
+            "Total Tours",
+            "Primary Tour Type",
+            "Key Region"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the total number of tours for each ranking date.",
+        "data": [
+            [
+                "2023-12-31",
+                "125",
+                "Cycling",
+                "Global"
+            ],
+            [
+                "2024-01-31",
+                "110",
+                "Golf",
+                "North America"
+            ],
+            [
+                "2024-02-29",
+                "95",
+                "Tennis",
+                "Europe"
+            ],
+            [
+                "2024-03-31",
+                "130",
+                "Cycling",
+                "Global"
+            ],
+            [
+                "2024-04-30",
+                "88",
+                "Motorsports",
+                "Asia"
+            ],
+            [
+                "2024-05-31",
+                "102",
+                "Marathon",
+                "Europe"
+            ],
+            [
+                "2024-06-30",
+                "115",
+                "Cycling",
+                "North America"
+            ]
+        ]
+    }
+}

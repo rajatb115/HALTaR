@@ -1,0 +1,45 @@
+{
+    "table-360-360": {
+        "title": [
+            "Episode Title",
+            "TV Series",
+            "Rating"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "TV Series Episode Ratings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the Episode of all TV series sorted by rating.",
+        "data": [
+            [
+                "\"Winter is Coming\"",
+                "Game of Thrones",
+                "9.9"
+            ],
+            [
+                "\"Ozymandias\"",
+                "Breaking Bad",
+                "9.7"
+            ],
+            [
+                "\"The Rains of Castamere\"",
+                "Game of Thrones",
+                "9.6"
+            ],
+            [
+                "\"Battle of the Bastards\"",
+                "Game of Thrones",
+                "9.5"
+            ],
+            [
+                "\"Two Cathedrals\"",
+                "The West Wing",
+                "9.5"
+            ]
+        ]
+    }
+}

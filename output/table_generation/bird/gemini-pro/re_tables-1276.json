@@ -1,0 +1,51 @@
+{
+    "table-1276-1276": {
+        "title": [
+            "Patient ID",
+            "Anti-Centromere Level",
+            "Anti-SSB Level",
+            "Gender"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Demographics with Normal Antibody Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients who has a normal level of anti-centromere and a normal level of anti-SSB, how many of them are male?",
+        "data": [
+            [
+                "12345",
+                "Normal",
+                "Normal",
+                "Male"
+            ],
+            [
+                "67890",
+                "Normal",
+                "Normal",
+                "Female"
+            ],
+            [
+                "24680",
+                "Normal",
+                "Normal",
+                "Male"
+            ],
+            [
+                "13579",
+                "Normal",
+                "Normal",
+                "Female"
+            ],
+            [
+                "98765",
+                "Normal",
+                "Normal",
+                "Male"
+            ]
+        ]
+    }
+}

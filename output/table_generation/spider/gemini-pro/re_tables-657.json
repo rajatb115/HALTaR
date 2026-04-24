@@ -1,0 +1,43 @@
+{
+    "table-657-657": {
+        "title": [
+            "Property Code",
+            "Property Type",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Property Type Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the property type descriptions of properties belonging to that code.",
+        "data": [
+            [
+                "SF",
+                "Single Family",
+                "Detached residential home."
+            ],
+            [
+                "MF",
+                "Multi-Family",
+                "Building with multiple dwelling units."
+            ],
+            [
+                "Condo",
+                "Condominium",
+                "Individually owned unit within a larger building."
+            ],
+            [
+                "TH",
+                "Townhouse",
+                "Multi-level home sharing walls with neighbors."
+            ],
+            [
+                "Land",
+                "Vacant Land",
+                "Undeveloped property."
+            ]
+        ]
+    }
+}

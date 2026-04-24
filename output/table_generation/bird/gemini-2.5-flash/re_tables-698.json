@@ -1,0 +1,73 @@
+{
+    "table-698-698": {
+        "title": [
+            "User ID",
+            "Display Name",
+            "Reputation",
+            "View Count",
+            "Last Seen",
+            "Gold Badges",
+            "Silver Badges",
+            "Bronze Badges"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the reputation and view count of the user, who is known by his or her display name 'Jarrod Dixon'?",
+        "data": [
+            [
+                "101",
+                "Jarrod Dixon",
+                "15432",
+                "87654",
+                "2023-10-26",
+                "5",
+                "28",
+                "75"
+            ],
+            [
+                "102",
+                "Alice Smith",
+                "9876",
+                "54321",
+                "2023-10-25",
+                "3",
+                "15",
+                "60"
+            ],
+            [
+                "103",
+                "Bob Johnson",
+                "2345",
+                "12345",
+                "2023-10-24",
+                "1",
+                "7",
+                "30"
+            ],
+            [
+                "104",
+                "Carol White",
+                "34567",
+                "187654",
+                "2023-10-27",
+                "12",
+                "45",
+                "120"
+            ],
+            [
+                "105",
+                "David Green",
+                "789",
+                "4567",
+                "2023-10-23",
+                "0",
+                "2",
+                "15"
+            ]
+        ]
+    }
+}

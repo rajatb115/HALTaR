@@ -1,0 +1,61 @@
+{
+    "table-572-572": {
+        "title": [
+            "Student ID",
+            "Student Name",
+            "Grade Level",
+            "Number of Friends"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the minimum grade of students who have no friends.",
+        "data": [
+            [
+                "101",
+                "Alice Smith",
+                "10",
+                "5"
+            ],
+            [
+                "102",
+                "Bob Johnson",
+                "9",
+                "0"
+            ],
+            [
+                "103",
+                "Charlie Brown",
+                "11",
+                "3"
+            ],
+            [
+                "104",
+                "Diana Prince",
+                "9",
+                "2"
+            ],
+            [
+                "105",
+                "Eve Adams",
+                "8",
+                "0"
+            ],
+            [
+                "106",
+                "Frank White",
+                "10",
+                "0"
+            ],
+            [
+                "107",
+                "Grace Lee",
+                "12",
+                "7"
+            ]
+        ]
+    }
+}

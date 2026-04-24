@@ -1,0 +1,69 @@
+{
+    "table-56-56": {
+        "title": [
+            "School Name",
+            "County",
+            "State",
+            "Enrollment",
+            "School Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of the schools with a mailing state address in California, what is the ratio of the schools located in the county of Colusa against the school located in the county of Humboldt?",
+        "data": [
+            [
+                "Colusa High School",
+                "Colusa",
+                "CA",
+                "550",
+                "Public"
+            ],
+            [
+                "Maxwell High School",
+                "Colusa",
+                "CA",
+                "310",
+                "Public"
+            ],
+            [
+                "Princeton Jr/Sr High",
+                "Colusa",
+                "CA",
+                "160",
+                "Public"
+            ],
+            [
+                "Arcata High School",
+                "Humboldt",
+                "CA",
+                "820",
+                "Public"
+            ],
+            [
+                "Eureka High School",
+                "Humboldt",
+                "CA",
+                "1250",
+                "Public"
+            ],
+            [
+                "McKinleyville High",
+                "Humboldt",
+                "CA",
+                "710",
+                "Public"
+            ],
+            [
+                "Ferndale High School",
+                "Humboldt",
+                "CA",
+                "210",
+                "Public"
+            ]
+        ]
+    }
+}

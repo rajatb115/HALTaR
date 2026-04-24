@@ -1,0 +1,85 @@
+{
+    "table-99-99": {
+        "title": [
+            "Account ID",
+            "Approved Date",
+            "Loan Amount",
+            "Statement Frequency",
+            "Status",
+            "Risk Score",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the accounts who have approved loan date in 1997, list out the accounts that have the lowest approved amount and choose weekly issuance statement.",
+        "data": [
+            [
+                "ACC-4002",
+                "03/15/1977",
+                "$1,205.00",
+                "Weekly",
+                "Active",
+                "Low",
+                "North"
+            ],
+            [
+                "ACC-4109",
+                "06/22/1777",
+                "$1,190.05",
+                "Weekly",
+                "Active",
+                "Low",
+                "South"
+            ],
+            [
+                "ACC-A992",
+                "Nov 11, 1797",
+                "$1,050.25",
+                "Weekly",
+                "Pending",
+                "Medium",
+                "East"
+            ],
+            [
+                "ACC-B201",
+                "Jan 05, 779",
+                "$1,025.50",
+                "Monthly",
+                "Inactive",
+                "High",
+                "West"
+            ],
+            [
+                "ACC-C334",
+                "Aug 30, 9792",
+                "$1,100.75",
+                "Daily",
+                "Active",
+                "Low",
+                "Central"
+            ],
+            [
+                "ACC-D556",
+                "Dec 12, 0799",
+                "$999.99",
+                "Weekly",
+                "Suspended",
+                "Very High",
+                "North"
+            ],
+            [
+                "ACC-E778",
+                "Feb 28, 8798",
+                "$125,000.00",
+                "Weekly",
+                "Active",
+                "Moderate",
+                "South"
+            ]
+        ]
+    }
+}

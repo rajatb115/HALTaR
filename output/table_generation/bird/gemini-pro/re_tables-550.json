@@ -1,0 +1,37 @@
+{
+    "table-550-550": {
+        "title": [
+            "Post Title",
+            "Post Body"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Posts with \"Bayesian\" Tag",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From which post is the tag \"bayesian\" excerpted from? Please give the body of the post.",
+        "data": [
+            [
+                "Bayesian Methods in Practice",
+                "Bayesian methods offer a powerful framework..."
+            ],
+            [
+                "Introduction to Bayesian Networks",
+                "Bayesian networks are probabilistic graphical models..."
+            ],
+            [
+                "Hierarchical Bayesian Modeling",
+                "Hierarchical Bayesian models allow for sharing information..."
+            ],
+            [
+                "Bayesian Optimization for Hyperparameter Tuning",
+                "Bayesian optimization is an efficient approach..."
+            ],
+            [
+                "A/B Testing with Bayesian Statistics",
+                "Bayesian statistics provides a robust alternative..."
+            ]
+        ]
+    }
+}

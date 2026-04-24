@@ -1,0 +1,46 @@
+{
+    "table-70-70": {
+        "title": [
+            "School Name",
+            "NCES School ID",
+            "School Ownership Code"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "School District Identification Numbers for State Special Schools",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide the National Center for Educational Statistics school district identification number for all schools with a School Ownership Code that are part of the State Special Schools.",
+        "data": [
+            [
+                "Indiana School for the Blind and Visually Impaired",
+                "180018000714",
+                "1"
+            ],
+            [
+                "Indiana School for the Deaf",
+                "180018000715",
+                "1"
+            ],
+            [
+                "Iowa Educational Services for the Blind and Visually Impaired",
+                "190009000499",
+                "1"
+            ],
+            [
+                "Kansas State School for the Blind",
+                "200003000158",
+                "1"
+            ],
+            [
+                "Kentucky School for the Blind",
+                "210003000149",
+                "1"
+            ]
+        ]
+    }
+}

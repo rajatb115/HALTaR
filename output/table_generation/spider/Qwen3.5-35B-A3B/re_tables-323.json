@@ -1,0 +1,85 @@
+{
+    "table-323-323": {
+        "title": [
+            "First Name",
+            "Middle Initial",
+            "Last Name",
+            "Graduation Date",
+            "Degree",
+            "Major",
+            "GPA"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the first, middle, and last name of the earliest school graduate?",
+        "data": [
+            [
+                "John",
+                "Q",
+                "Smith",
+                "06/15/1974",
+                "Bachelor",
+                "Engineering",
+                "3.85"
+            ],
+            [
+                "Mary",
+                "Ann",
+                "Johnson",
+                "06/20/1890",
+                "Master",
+                "Literature",
+                "4.0"
+            ],
+            [
+                "Robert",
+                "Lee",
+                "Williams",
+                "05/30/2100",
+                "PhD",
+                "Physics",
+                "N/A"
+            ],
+            [
+                "Sarah",
+                "Jane",
+                "Brown",
+                "07/12/1750",
+                "Associate",
+                "History",
+                "98%"
+            ],
+            [
+                "Michael",
+                "Paul",
+                "Davis",
+                "08/01/1600",
+                "",
+                "Mathematics",
+                ""
+            ],
+            [
+                "Emily",
+                "Rose",
+                "Miller",
+                "/19/1400",
+                "Doctorate",
+                "Biology",
+                ".99"
+            ],
+            [
+                "David",
+                "Scott",
+                "Wilson",
+                "05/05/-1024",
+                "Certificate",
+                "Astronomy",
+                "N/A"
+            ]
+        ]
+    }
+}

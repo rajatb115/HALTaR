@@ -1,0 +1,73 @@
+{
+    "table-303-303": {
+        "title": [
+            "Bond ID",
+            "Atom Index",
+            "Element Symbol",
+            "Atomic Number",
+            "Hybridization",
+            "Formal Charge",
+            "Coordinates X",
+            "Coordinates Y"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the elements that comprise the atoms of bond TR001_2_4.",
+        "data": [
+            [
+                "TR002_A_B",
+                "C1",
+                "Carbon",
+                "6",
+                "sp\u00b3",
+                "0",
+                "-1.234",
+                "4.567"
+            ],
+            [
+                "TR_003_X_Y",
+                "O1",
+                "Oxygen",
+                "8",
+                "sp\u00b2",
+                "-2",
+                "3.456",
+                "-0.123"
+            ],
+            [
+                "Bond_TR004",
+                "N1",
+                "Nitrogen",
+                "7",
+                "sp",
+                "5",
+                "9.876",
+                "0.345"
+            ],
+            [
+                "Link_05_Z_W",
+                "S1",
+                "Sulfur",
+                "16",
+                "d\u00b2sp\u00b3",
+                "+6",
+                "0.000",
+                ""
+            ],
+            [
+                "Molecule_06",
+                "H1",
+                "Hydrogen",
+                "1",
+                "s",
+                "+1",
+                "0.12",
+                "-0.34"
+            ]
+        ]
+    }
+}

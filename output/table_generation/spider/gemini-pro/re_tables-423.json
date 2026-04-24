@@ -1,0 +1,45 @@
+{
+    "table-423-423": {
+        "title": [
+            "Vote ID",
+            "Phone Number",
+            "State"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Vote Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the vote ids, phone numbers and states of all votes.",
+        "data": [
+            [
+                "12345",
+                "555-123-4567",
+                "CA"
+            ],
+            [
+                "67890",
+                "555-987-6543",
+                "NY"
+            ],
+            [
+                "24680",
+                "555-246-8012",
+                "TX"
+            ],
+            [
+                "13579",
+                "555-135-7924",
+                "FL"
+            ],
+            [
+                "98765",
+                "555-864-2097",
+                "IL"
+            ]
+        ]
+    }
+}

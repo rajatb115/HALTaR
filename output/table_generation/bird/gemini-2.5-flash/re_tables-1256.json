@@ -1,0 +1,69 @@
+{
+    "table-1256-1256": {
+        "title": [
+            "Patient ID",
+            "IgM Level (mg/dL)",
+            "IgM Status",
+            "Diagnosis",
+            "Disease Category"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients with an abnormal Ig M level, what is the most common disease they are diagnosed with?",
+        "data": [
+            [
+                "P001",
+                "380",
+                "Abnormal (High)",
+                "Systemic Lupus Erythematosus",
+                "Autoimmune"
+            ],
+            [
+                "P002",
+                "22",
+                "Abnormal (Low)",
+                "Selective IgM Deficiency",
+                "Immunodeficiency"
+            ],
+            [
+                "P003",
+                "145",
+                "Normal",
+                "Allergic Rhinitis",
+                "Allergic"
+            ],
+            [
+                "P004",
+                "410",
+                "Abnormal (High)",
+                "Infectious Mononucleosis",
+                "Infectious"
+            ],
+            [
+                "P005",
+                "550",
+                "Abnormal (High)",
+                "Waldenstr\u00f6m's Macroglobulinemia",
+                "Malignancy"
+            ],
+            [
+                "P006",
+                "18",
+                "Abnormal (Low)",
+                "X-linked Agammaglobulinemia",
+                "Immunodeficiency"
+            ],
+            [
+                "P007",
+                "360",
+                "Abnormal (High)",
+                "Rheumatoid Arthritis",
+                "Autoimmune"
+            ]
+        ]
+    }
+}

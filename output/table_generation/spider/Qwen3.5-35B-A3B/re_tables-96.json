@@ -1,0 +1,37 @@
+{
+    "table-96-96": {
+        "title": [
+            "Model",
+            "Acceleration_0_to_60_sec",
+            "Cylinders",
+            "Engine_Type",
+            "Horsepower",
+            "Price_USD"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For model volvo, how many cylinders does the car with the least accelerate have?",
+        "data": [
+            [
+                "Volvo S60 T4",
+                "7.2",
+                "4",
+                "Turbocharged I4",
+                "",
+                "$42,000"
+            ],
+            [
+                "Volvo V60 Cross Country",
+                "6.9",
+                "5",
+                "Inline-5 Diesel",
+                "300 hp",
+                "$51,050"
+            ]
+        ]
+    }
+}

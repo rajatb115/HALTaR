@@ -1,0 +1,69 @@
+{
+    "table-50-50": {
+        "title": [
+            "Pet Name",
+            "Pet Type",
+            "Breed",
+            "Weight (kg)",
+            "Age (years)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average weight for each pet type.",
+        "data": [
+            [
+                "Max",
+                "Dog",
+                "Labrador Retriever",
+                "30.5",
+                "5"
+            ],
+            [
+                "Whiskers",
+                "Cat",
+                "Domestic Shorthair",
+                "4.2",
+                "3"
+            ],
+            [
+                "Buddy",
+                "Dog",
+                "Golden Retriever",
+                "28.0",
+                "7"
+            ],
+            [
+                "Tweety",
+                "Bird",
+                "Canary",
+                "0.02",
+                "2"
+            ],
+            [
+                "Mittens",
+                "Cat",
+                "Persian",
+                "5.1",
+                "4"
+            ],
+            [
+                "Thumper",
+                "Rabbit",
+                "Mini Lop",
+                "2.8",
+                "1"
+            ],
+            [
+                "Daisy",
+                "Dog",
+                "Beagle",
+                "11.8",
+                "6"
+            ]
+        ]
+    }
+}

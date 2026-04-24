@@ -1,0 +1,37 @@
+{
+    "table-650-650": {
+        "title": [
+            "Singer Name",
+            "Total Sales"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Singer Sales Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the names of singers and the total sales of their songs.",
+        "data": [
+            [
+                "Ariana Grande",
+                "95M"
+            ],
+            [
+                "Drake",
+                "80M"
+            ],
+            [
+                "Taylor Swift",
+                "75M"
+            ],
+            [
+                "Ed Sheeran",
+                "70M"
+            ],
+            [
+                "Beyonc\u00e9",
+                "65M"
+            ]
+        ]
+    }
+}

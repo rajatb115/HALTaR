@@ -1,0 +1,51 @@
+{
+    "table-341-341": {
+        "title": [
+            "First Name",
+            "Last Name",
+            "Country",
+            "Cell Phone"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Student Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the first names of the students who live in Haiti permanently or have the cell phone number 09700166582 ?",
+        "data": [
+            [
+                "Marie",
+                "Jean",
+                "Haiti",
+                "0987654321"
+            ],
+            [
+                "Jean",
+                "Pierre",
+                "Haiti",
+                "0999999999"
+            ],
+            [
+                "Pierre",
+                "Paul",
+                "Canada",
+                "09700166582"
+            ],
+            [
+                "Martine",
+                "Dubois",
+                "France",
+                "09700166582"
+            ],
+            [
+                "Michel",
+                "Durand",
+                "Haiti",
+                "0912345678"
+            ]
+        ]
+    }
+}

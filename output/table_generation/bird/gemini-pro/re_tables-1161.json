@@ -1,0 +1,41 @@
+{
+    "table-1161-1161": {
+        "title": [
+            "Protein Level",
+            "Number of Patients",
+            "Percentage (%)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Total Protein Levels in Female Patients",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of female patient had total protein not within the normal range?",
+        "data": [
+            [
+                "High",
+                "25",
+                "12.5"
+            ],
+            [
+                "Normal",
+                "150",
+                "75.0"
+            ],
+            [
+                "Low",
+                "25",
+                "12.5"
+            ],
+            [
+                "Total",
+                "200",
+                "100"
+            ]
+        ]
+    }
+}

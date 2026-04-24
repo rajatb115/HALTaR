@@ -1,0 +1,37 @@
+{
+    "table-1399-1399": {
+        "title": [
+            "Event Name",
+            "Advertisement Spend"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Event Advertisement Spending",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the event with the highest amount spent on advertisement.",
+        "data": [
+            [
+                "Conference A",
+                "$15,000"
+            ],
+            [
+                "Trade Show B",
+                "$12,000"
+            ],
+            [
+                "Workshop C",
+                "$8,000"
+            ],
+            [
+                "Seminar D",
+                "$6,000"
+            ],
+            [
+                "Festival E",
+                "$4,000"
+            ]
+        ]
+    }
+}

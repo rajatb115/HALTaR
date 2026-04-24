@@ -1,0 +1,93 @@
+{
+    "table-156-156": {
+        "title": [
+            "Card Tier",
+            "Issue Date",
+            "Total Issued",
+            "Gold Cards Prior to 24 Months",
+            "Percentage Calculated",
+            "Region",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many percent of 'Gold' cards were issued prior to 1998?",
+        "data": [
+            [
+                "Platinum",
+                "Jan 15, 1765",
+                "450",
+                "N/A",
+                "N%",
+                "North America",
+                "Active",
+                "Historical anomaly"
+            ],
+            [
+                "Gold",
+                "Mar 10, 2100",
+                "892",
+                "0",
+                "5.2%",
+                "Europe",
+                "Inactive",
+                "Early batch error"
+            ],
+            [
+                "Silver",
+                "Dec 05, -120",
+                "None",
+                "N/N/A",
+                "99.9%",
+                "Asia Pacific",
+                "Retired",
+                "Legacy system only"
+            ],
+            [
+                "Diamond",
+                "Feb 28, 3000",
+                "Null",
+                "N/Null",
+                "75.0%",
+                "South America",
+                "Pending",
+                "Future projection"
+            ],
+            [
+                "Bronze",
+                "Nov 11, 888",
+                "330",
+                "Not Applicable",
+                "66.6%",
+                "Africa",
+                "Suspended",
+                "Data corruption found"
+            ],
+            [
+                "Gold",
+                "Jul 04, 9009",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Platinum",
+                "Aug 12, 444",
+                "1",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-583-583": {
+        "title": [
+            "Post Title",
+            "Editor Name",
+            "Edit Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Posts Edited by User",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the title of posts which were edited by Vebjorn Ljosa.",
+        "data": [
+            [
+                "Analyzing Image Data",
+                "Vebjorn Ljosa",
+                "2023-03-15"
+            ],
+            [
+                "Optimizing Cell Segmentation",
+                "Vebjorn Ljosa",
+                "2023-04-22"
+            ],
+            [
+                "Deep Learning for Microscopy",
+                "Vebjorn Ljosa",
+                "2023-05-10"
+            ],
+            [
+                "Introduction to ImageJ",
+                "Vebjorn Ljosa",
+                "2023-06-01"
+            ],
+            [
+                "Advanced Bioimage Analysis",
+                "Vebjorn Ljosa",
+                "2023-07-18"
+            ]
+        ]
+    }
+}

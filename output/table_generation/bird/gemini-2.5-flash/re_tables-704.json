@@ -1,0 +1,61 @@
+{
+    "table-704-704": {
+        "title": [
+            "Tag ID",
+            "Tag Name",
+            "Post Count",
+            "Category"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the tags with tag ID below 15, how many of them have 20 count of posts and below?",
+        "data": [
+            [
+                "1",
+                "data-cleaning",
+                "12",
+                "Data Prep"
+            ],
+            [
+                "5",
+                "excel-formulas",
+                "18",
+                "Spreadsheet"
+            ],
+            [
+                "9",
+                "dashboarding",
+                "20",
+                "Visualization"
+            ],
+            [
+                "14",
+                "sql-queries",
+                "15",
+                "Database"
+            ],
+            [
+                "2",
+                "data-entry",
+                "8",
+                "Operations"
+            ],
+            [
+                "11",
+                "reporting",
+                "22",
+                "Business Intel"
+            ],
+            [
+                "6",
+                "pivot-tables",
+                "17",
+                "Spreadsheet"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-1369-1369": {
+        "title": [
+            "Phone Number",
+            "Major"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Student Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What does the person with the phone number \"809-555-3360\" major in?",
+        "data": [
+            [
+                "212-555-1212",
+                "Computer Science"
+            ],
+            [
+                "646-555-9876",
+                "Biology"
+            ],
+            [
+                "809-555-3360",
+                "Engineering"
+            ],
+            [
+                "917-555-4567",
+                "Mathematics"
+            ],
+            [
+                "516-555-2345",
+                "Physics"
+            ]
+        ]
+    }
+}

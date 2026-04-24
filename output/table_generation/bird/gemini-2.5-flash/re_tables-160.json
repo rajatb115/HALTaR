@@ -1,0 +1,69 @@
+{
+    "table-160-160": {
+        "title": [
+            "Transaction ID",
+            "Transaction Date",
+            "Amount (USD)",
+            "Transaction Type",
+            "Payment Method",
+            "Client ID"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the withdrawals in cash transactions that the client with the id 3356 makes.",
+        "data": [
+            [
+                "T100123",
+                "2023-10-26",
+                "250.00",
+                "Withdrawal",
+                "Cash",
+                "3356"
+            ],
+            [
+                "T100128",
+                "2023-10-27",
+                "100.00",
+                "Withdrawal",
+                "Cash",
+                "3356"
+            ],
+            [
+                "T100135",
+                "2023-10-28",
+                "500.00",
+                "Withdrawal",
+                "Cash",
+                "3356"
+            ],
+            [
+                "T100142",
+                "2023-10-29",
+                "75.00",
+                "Withdrawal",
+                "Cash",
+                "3356"
+            ],
+            [
+                "T100150",
+                "2023-10-30",
+                "300.00",
+                "Withdrawal",
+                "Cash",
+                "3356"
+            ],
+            [
+                "T100158",
+                "2023-10-31",
+                "150.00",
+                "Withdrawal",
+                "Cash",
+                "3356"
+            ]
+        ]
+    }
+}

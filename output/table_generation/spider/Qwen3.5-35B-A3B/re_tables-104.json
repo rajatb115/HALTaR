@@ -1,0 +1,67 @@
+{
+    "table-104-104": {
+        "title": [
+            "Model",
+            "Weight_Lbs",
+            "Manufacturer",
+            "Category",
+            "Production_Year",
+            "Fuel_Type",
+            "Price_USD"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which models are lighter than 3500 but not built by the 'Ford Motor Company'?",
+        "data": [
+            [
+                "Lightweight Sedan X",
+                "3450",
+                "Toyota",
+                "Compact",
+                "2024",
+                "Hybrid",
+                "$24,509"
+            ],
+            [
+                "Compact SUV Y",
+                "4200",
+                "Honda",
+                "Crossover",
+                "2012",
+                "Gasoline",
+                "$31,205"
+            ],
+            [
+                "Eco Hatchback Z",
+                "5600",
+                "Mazda",
+                "Subcompact",
+                "2023",
+                "Electric",
+                "$18,999"
+            ],
+            [
+                "Sport Coupe W",
+                "6700",
+                "Subaru",
+                "Sports Car",
+                "2014",
+                "Petrol",
+                "$42,100"
+            ],
+            [
+                "Urban Van V",
+                "",
+                "Nissan",
+                "Commercial",
+                "2007",
+                "Diesel",
+                "$55,000"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-87-87": {
+        "title": [
+            "Model",
+            "Production_Year",
+            "Engine_Type",
+            "EDISPL_Liters",
+            "Fuel_Efficiency_MPG",
+            "Price_USD"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average edispl for all volvos?",
+        "data": [
+            [
+                "Volvo S60",
+                "2017",
+                "Turbocharged",
+                "3.2",
+                "N/A",
+                "$42,000"
+            ],
+            [
+                "Volvo V90",
+                "2011",
+                "Diesel",
+                "5.0",
+                "N/A",
+                "$58,000"
+            ],
+            [
+                "Volvo XC90 Recharge",
+                "2020",
+                "Plug-in Hybrid",
+                "2.0",
+                "N/A",
+                "$72,500"
+            ],
+            [
+                "Volvo C40 Recharge",
+                "2019",
+                "Electric",
+                "7.8",
+                "N/A",
+                "$60,050"
+            ],
+            [
+                "Volvo EX90 Pure Electric",
+                "",
+                "Battery Only",
+                "",
+                "",
+                "$85,900"
+            ]
+        ]
+    }
+}

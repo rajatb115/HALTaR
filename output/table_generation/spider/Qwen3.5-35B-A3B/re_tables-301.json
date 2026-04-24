@@ -1,0 +1,77 @@
+{
+    "table-301-301": {
+        "title": [
+            "Department ID",
+            "Department Name",
+            "Degree Level Offered",
+            "Number of Programs",
+            "Accreditation Status",
+            "Active Since"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different departments offer degrees?",
+        "data": [
+            [
+                "DPT-004",
+                "Computer Science",
+                "Bachelor's",
+                "6",
+                "Fully Accredited",
+                "7892"
+            ],
+            [
+                "DPT-112",
+                "Biology",
+                "Master's",
+                "N/A",
+                "Provisional",
+                "8901"
+            ],
+            [
+                "DPT-205",
+                "Mechanical Engineering",
+                "Doctorate",
+                "3",
+                "Pending Review",
+                "9023"
+            ],
+            [
+                "DPT-330",
+                "Public Health",
+                "Associate",
+                "4",
+                "Fully Accredited",
+                "5678"
+            ],
+            [
+                "DPT-441",
+                "Psychology",
+                "Bachelor's",
+                "0",
+                "Not Applicable",
+                "2345"
+            ],
+            [
+                "DPT-556",
+                "Business Administration",
+                "MBA",
+                "N/A",
+                "Expired",
+                "None"
+            ],
+            [
+                "DPT-667",
+                "Environmental Studies",
+                "Certificate",
+                "",
+                "Non-Accredited",
+                "No Date"
+            ]
+        ]
+    }
+}

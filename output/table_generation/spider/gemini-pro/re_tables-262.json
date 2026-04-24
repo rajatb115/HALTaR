@@ -1,0 +1,43 @@
+{
+    "table-262-262": {
+        "title": [
+            "Player Name",
+            "Handedness",
+            "Birth Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Left-Handed Players",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the full names of all left handed players, in order of birth date?",
+        "data": [
+            [
+                "Babe Ruth",
+                "Left",
+                "February 6, 1895"
+            ],
+            [
+                "Lou Gehrig",
+                "Left",
+                "June 19, 1903"
+            ],
+            [
+                "Sandy Koufax",
+                "Left",
+                "December 30, 1935"
+            ],
+            [
+                "Randy Johnson",
+                "Left",
+                "September 10, 1963"
+            ],
+            [
+                "Clayton Kershaw",
+                "Left",
+                "March 19, 1988"
+            ]
+        ]
+    }
+}

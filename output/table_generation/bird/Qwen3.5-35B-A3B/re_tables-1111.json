@@ -1,0 +1,61 @@
+{
+    "table-1111-1111": {
+        "title": [
+            "Team",
+            "Date",
+            "Match ID",
+            "Passing Class",
+            "Build-Up Style",
+            "Success Rate"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Tell the build Up play passing class for \"FC Lorient\" on 2010/2/22.",
+        "data": [
+            [
+                "FC Lorient",
+                "02/02",
+                "MATCH_4421",
+                "Short Distribution",
+                "Possession-Based",
+                "78%"
+            ],
+            [
+                "FC Girondins de Bordeaux",
+                "6 Feb",
+                "MATCH_A102",
+                "Long Ball",
+                "Direct Play",
+                "45%"
+            ],
+            [
+                "Olympique Lyonnais",
+                "8 Feb",
+                "MATCH_B305",
+                "Mixed Approach",
+                "Balanced Attack",
+                "92%"
+            ],
+            [
+                "Stade Rennais",
+                "10 Feb",
+                "CATCH_C119",
+                "Vertical Passes",
+                "Counter-Attack",
+                "33%"
+            ],
+            [
+                "Paris Saint-Germain",
+                "12 Feb",
+                "DATH_D220",
+                "Tiki-Taka",
+                "High Pressing",
+                "55%"
+            ]
+        ]
+    }
+}

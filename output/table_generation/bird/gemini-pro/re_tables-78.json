@@ -1,0 +1,49 @@
+{
+    "table-78-78": {
+        "title": [
+            "School Name",
+            "Grade Span",
+            "County",
+            "Percent (%) Eligible FRPM (Ages 5-17)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Los Angeles County Schools with K-9 Grade Span and FRPM Eligibility",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which schools served a grade span of Kindergarten to 9th grade in the county of Los Angeles and what is its Percent (%) Eligible FRPM (Ages 5-17)?",
+        "data": [
+            [
+                "Example School 1",
+                "K-9",
+                "Los Angeles",
+                "25%"
+            ],
+            [
+                "Example School 2",
+                "K-9",
+                "Los Angeles",
+                "40%"
+            ],
+            [
+                "Example School 3",
+                "K-9",
+                "Los Angeles",
+                "60%"
+            ],
+            [
+                "Example School 4",
+                "K-9",
+                "Los Angeles",
+                "30%"
+            ],
+            [
+                "Example School 5",
+                "K-9",
+                "Los Angeles",
+                "55%"
+            ]
+        ]
+    }
+}

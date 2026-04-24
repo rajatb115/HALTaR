@@ -1,0 +1,43 @@
+{
+    "table-388-388": {
+        "title": [
+            "Channel Name",
+            "Package Option",
+            "Cartoon Directed by Ben Jones"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "TV Channel Package Options",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the package option of the tv channel that do not have any cartoon directed by Ben Jones.",
+        "data": [
+            [
+                "Channel A",
+                "Basic",
+                "Yes"
+            ],
+            [
+                "Channel B",
+                "Premium",
+                "No"
+            ],
+            [
+                "Channel C",
+                "Basic",
+                "No"
+            ],
+            [
+                "Channel D",
+                "Sports",
+                "Yes"
+            ],
+            [
+                "Channel E",
+                "Premium",
+                "No"
+            ]
+        ]
+    }
+}

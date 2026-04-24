@@ -1,0 +1,69 @@
+{
+    "table-97-97": {
+        "title": [
+            "Customer ID",
+            "Issuance Frequency",
+            "Account Holder Status",
+            "Total Accounts",
+            "Last Statement Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many customers who choose statement of weekly issuance are Owner?",
+        "data": [
+            [
+                "CUST_1042",
+                "Weekly",
+                "Owner",
+                "3",
+                "7/15/2023"
+            ],
+            [
+                "CUS_T_2091",
+                "Monthly",
+                "Tenant",
+                "5",
+                "N/A"
+            ],
+            [
+                "CUS_A_3305",
+                "Weekly",
+                "Owner",
+                "2",
+                "6/28/2022"
+            ],
+            [
+                "CUS_B_4412",
+                "Daily",
+                "Partner",
+                "8",
+                "9/01/2023"
+            ],
+            [
+                "CUS_C_5523",
+                "Weekly",
+                "Non-owner",
+                "1",
+                "N/A"
+            ],
+            [
+                "CUS_D_6634",
+                "Bi-weekly",
+                "Owner",
+                "4",
+                "8/10/2024"
+            ],
+            [
+                "CUS_E_7745",
+                "Weekly",
+                "Owner",
+                "2",
+                "7/21/1999"
+            ]
+        ]
+    }
+}

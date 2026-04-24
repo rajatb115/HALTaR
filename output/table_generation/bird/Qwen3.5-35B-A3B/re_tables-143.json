@@ -1,0 +1,76 @@
+{
+    "table-143-143": {
+        "title": [
+            "Account ID",
+            "Customer Name",
+            "Order Date",
+            "Payment Method",
+            "Location",
+            "Status",
+            "Amount"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which accounts placed orders for household payment in Pisek?",
+        "data": [
+            [
+                "ACC-74012",
+                "Jan Novak",
+                "06/15/2023",
+                "Credit Card",
+                "P\u00edsek",
+                "Completed",
+                "$1,250.00"
+            ],
+            [
+                "ACC-78934",
+                "Petra Svoboda",
+                "06/22/2023",
+                "Debit Card",
+                "P\u00edsek",
+                "Pending",
+                "$890.50"
+            ],
+            [
+                "ACC-A1B2C3",
+                "Tomas Dvorak",
+                "07/01/2023",
+                "Cash",
+                "P\u00edsek",
+                "Shipped",
+                "$2,100.25"
+            ],
+            [
+                "ACC-D4E5F6",
+                "Lenka Cerny",
+                "07/10/2024",
+                "Bank Transfer",
+                "P\u00edsek",
+                "Delivered",
+                "$45,000.00"
+            ],
+            [
+                "GHI-JKL-MNO",
+                "Martin Kral",
+                "08/05/2010",
+                "Check",
+                "P\u00edsek",
+                "Cancelled",
+                "N/A"
+            ],
+            [
+                "PQR-STU-VWX",
+                "Eva Hlavacova",
+                "09/12/2009",
+                "Online Wallet",
+                "P\u00edsek",
+                "Processing",
+                "$33.00"
+            ]
+        ]
+    }
+}

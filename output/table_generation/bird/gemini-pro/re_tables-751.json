@@ -1,0 +1,45 @@
+{
+    "table-751-751": {
+        "title": [
+            "Superhero",
+            "Gender",
+            "Weight (lbs)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Superhero Weight Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average weight of all female superheroes?",
+        "data": [
+            [
+                "Wonder Woman",
+                "Female",
+                "165"
+            ],
+            [
+                "Storm",
+                "Female",
+                "145"
+            ],
+            [
+                "Black Widow",
+                "Female",
+                "131"
+            ],
+            [
+                "Captain Marvel",
+                "Female",
+                "155"
+            ],
+            [
+                "Invisible Woman",
+                "Female",
+                "120"
+            ]
+        ]
+    }
+}

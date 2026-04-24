@@ -1,0 +1,69 @@
+{
+    "table-729-729": {
+        "title": [
+            "Superhero Name",
+            "Eye Color",
+            "Hair Color",
+            "Primary Power",
+            "First Appearance Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the superheroes from Marvel Comics, how many of them have blue eyes?",
+        "data": [
+            [
+                "Captain America",
+                "Blue",
+                "Blonde",
+                "Super-Soldier Physiology",
+                "1941"
+            ],
+            [
+                "Thor",
+                "Blue",
+                "Blonde",
+                "Asgardian Physiology",
+                "1962"
+            ],
+            [
+                "Spider-Man",
+                "Hazel",
+                "Brown",
+                "Wall-crawling, Web-slinging",
+                "1962"
+            ],
+            [
+                "Iron Man",
+                "Blue",
+                "Brown",
+                "Powered Armor",
+                "1963"
+            ],
+            [
+                "Black Widow",
+                "Green",
+                "Red",
+                "Master Spy, Martial Artist",
+                "1964"
+            ],
+            [
+                "Hulk",
+                "Brown",
+                "Brown",
+                "Superhuman Strength",
+                "1962"
+            ],
+            [
+                "Scarlet Witch",
+                "Blue",
+                "Brown",
+                "Reality Warping",
+                "1964"
+            ]
+        ]
+    }
+}

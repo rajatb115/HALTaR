@@ -1,0 +1,77 @@
+{
+    "table-284-284": {
+        "title": [
+            "Compound Name",
+            "Chemical Formula",
+            "Contains Calcium",
+            "Carcinogenic Status",
+            "IARC Group",
+            "Common Application"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify whether the chemical compound that contains Calcium is carcinogenic.",
+        "data": [
+            [
+                "Calcium Carbonate",
+                "CaCO3",
+                "Yes",
+                "No",
+                "Group 3",
+                "Antacid, Building Material"
+            ],
+            [
+                "Calcium Chloride",
+                "CaCl2",
+                "Yes",
+                "No",
+                "Group 3",
+                "De-icer, Food Additive"
+            ],
+            [
+                "Calcium Chromate",
+                "CaCrO4",
+                "Yes",
+                "Yes",
+                "Group 1",
+                "Pigment, Corrosion Inhibitor"
+            ],
+            [
+                "Calcium Arsenate",
+                "Ca3(AsO4)2",
+                "Yes",
+                "Yes",
+                "Group 1",
+                "Insecticide (historical)"
+            ],
+            [
+                "Calcium Sulfate",
+                "CaSO4",
+                "Yes",
+                "No",
+                "Group 3",
+                "Plaster, Desiccant"
+            ],
+            [
+                "Sodium Chloride",
+                "NaCl",
+                "No",
+                "No",
+                "Group 3",
+                "Table Salt, Preservative"
+            ],
+            [
+                "Benzene",
+                "C6H6",
+                "No",
+                "Yes",
+                "Group 1",
+                "Solvent, Chemical Feedstock"
+            ]
+        ]
+    }
+}

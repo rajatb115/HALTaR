@@ -1,0 +1,85 @@
+{
+    "table-335-335": {
+        "title": [
+            "Student ID",
+            "Full Address",
+            "City",
+            "State",
+            "Zip Code",
+            "Building Number",
+            "Room Number"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the different addresses that have students living there?",
+        "data": [
+            [
+                "S1045",
+                "742 Evergreen Terrace",
+                "Springfield",
+                "IL",
+                "62704",
+                "4B",
+                "N/A"
+            ],
+            [
+                "S2193",
+                "89 Maple Avenue",
+                "Portland",
+                "OR",
+                "97205",
+                "Unit 12C",
+                "N/D"
+            ],
+            [
+                "K3021",
+                "55 Oak Lane Apt 3",
+                "Austin",
+                "TX",
+                "00022",
+                "3A",
+                "N/E"
+            ],
+            [
+                "L4402",
+                "One Campus Drive Hall D",
+                "Boston",
+                "MA",
+                "02018",
+                "Dormitory F",
+                "G/101"
+            ],
+            [
+                "M5519",
+                "[Missing] Street #4",
+                "Seattle",
+                "WA",
+                "B9810",
+                "Apartment 7H",
+                "N/F"
+            ],
+            [
+                "P6630",
+                "[Missing] Court West Wing",
+                "Chicago",
+                "IL",
+                "M6061",
+                "Suite 22B",
+                "H/JK"
+            ],
+            [
+                "Q7741",
+                "Elmwood Park Blvd",
+                "Denver",
+                "CO",
+                "N8023",
+                "House 9",
+                "I/L"
+            ]
+        ]
+    }
+}

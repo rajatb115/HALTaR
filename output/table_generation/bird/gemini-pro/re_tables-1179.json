@@ -1,0 +1,52 @@
+{
+    "table-1179-1179": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "Gender",
+            "Age"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Aortitis Patient Demographics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the gender of the first AORTITIS diagnosed patient?",
+        "data": [
+            [
+                "1",
+                "Aortitis",
+                "Male",
+                "52"
+            ],
+            [
+                "2",
+                "Giant Cell Arteritis",
+                "Female",
+                "78"
+            ],
+            [
+                "3",
+                "Takayasu Arteritis",
+                "Female",
+                "35"
+            ],
+            [
+                "4",
+                "Aortitis",
+                "Female",
+                "61"
+            ],
+            [
+                "5",
+                "Aortitis",
+                "Male",
+                "48"
+            ]
+        ]
+    }
+}

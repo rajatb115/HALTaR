@@ -1,0 +1,85 @@
+{
+    "table-1503-1503": {
+        "title": [
+            "Chain Name",
+            "Location Country",
+            "Currency",
+            "Transaction Count",
+            "Avg Amount EUR",
+            "Last Updated",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the chains of the gas stations with transactions in euro.",
+        "data": [
+            [
+                "Shell",
+                "Germany",
+                "Euro",
+                "452",
+                "67.50",
+                "01/15/2024",
+                "Active"
+            ],
+            [
+                "BP",
+                "France",
+                "Euro",
+                "389",
+                "54.20",
+                "02/10/2024",
+                "Active"
+            ],
+            [
+                "TotalEnergies",
+                "Spain",
+                "Euro",
+                "712",
+                "N/A",
+                "03/01/2020",
+                "Pending"
+            ],
+            [
+                "Eni",
+                "Italy",
+                "Euro",
+                "890",
+                "42.15",
+                "",
+                "Active"
+            ],
+            [
+                "OMV",
+                "Austria",
+                "Euro",
+                "",
+                "",
+                "",
+                "Inactive"
+            ],
+            [
+                "Mol Group",
+                "Hungary",
+                "Euro",
+                "",
+                "",
+                "",
+                "Reviewing"
+            ],
+            [
+                "Galp",
+                "Portugal",
+                "Euro",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

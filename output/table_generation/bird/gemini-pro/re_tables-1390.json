@@ -1,0 +1,37 @@
+{
+    "table-1390-1390": {
+        "title": [
+            "Event Name",
+            "Cost"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Event Costs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which event has the lowest cost?",
+        "data": [
+            [
+                "Event A",
+                "$10"
+            ],
+            [
+                "Event B",
+                "$15"
+            ],
+            [
+                "Event C",
+                "$20"
+            ],
+            [
+                "Event D",
+                "$25"
+            ],
+            [
+                "Event E",
+                "$30"
+            ]
+        ]
+    }
+}

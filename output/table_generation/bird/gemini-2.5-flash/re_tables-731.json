@@ -1,0 +1,69 @@
+{
+    "table-731-731": {
+        "title": [
+            "Superhero Name",
+            "Primary Power",
+            "Power Category",
+            "Has Super Strength",
+            "Affiliation",
+            "Debut Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the superheroes from Marvel Comics, what is the percentage of those who have the super power of \"Super Strength\"?",
+        "data": [
+            [
+                "Hulk",
+                "Super Strength",
+                "Physical",
+                "Yes",
+                "Avengers",
+                "1962"
+            ],
+            [
+                "Captain America",
+                "Peak Human Strength",
+                "Physical",
+                "Yes",
+                "Avengers",
+                "1941"
+            ],
+            [
+                "Spider-Man",
+                "Super Strength",
+                "Physical",
+                "Yes",
+                "Avengers",
+                "1962"
+            ],
+            [
+                "Iron Man",
+                "Powered Suit",
+                "Tech",
+                "No",
+                "Avengers",
+                "1963"
+            ],
+            [
+                "Thor",
+                "Asgardian Physiology",
+                "Physical",
+                "Yes",
+                "Avengers",
+                "1962"
+            ],
+            [
+                "Black Widow",
+                "Peak Human Condition",
+                "Physical",
+                "No",
+                "Avengers",
+                "1964"
+            ]
+        ]
+    }
+}

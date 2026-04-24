@@ -1,0 +1,62 @@
+{
+    "table-47-47": {
+        "title": [
+            "School Name",
+            "State",
+            "Specialty Focus",
+            "Total Enrollees (Grades 1-12)",
+            "Average Class Size"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which state special schools have the highest number of enrollees from grades 1 through 12?",
+        "data": [
+            [
+                "California School for the Deaf, Fremont",
+                "California",
+                "Deaf/Hard of Hearing",
+                "450",
+                "8"
+            ],
+            [
+                "Texas School for the Blind and Visually Impaired",
+                "Texas",
+                "Blind/Visually Impaired",
+                "180",
+                "6"
+            ],
+            [
+                "New York State School for the Deaf",
+                "New York",
+                "Deaf/Hard of Hearing",
+                "320",
+                "7"
+            ],
+            [
+                "Florida Autism Center of Excellence",
+                "Florida",
+                "Autism Spectrum",
+                "250",
+                "9"
+            ],
+            [
+                "Illinois School for the Visually Impaired",
+                "Illinois",
+                "Blind/Visually Impaired",
+                "150",
+                "6"
+            ],
+            [
+                "Ohio State School for the Deaf",
+                "Ohio",
+                "Deaf/Hard of Hearing",
+                "280",
+                "7"
+            ]
+        ]
+    }
+}

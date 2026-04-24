@@ -1,0 +1,46 @@
+{
+    "table-681-681": {
+        "title": [
+            "Author",
+            "Post ID",
+            "Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Post Score Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average score of Stephen Turner's posts?",
+        "data": [
+            [
+                "Stephen Turner",
+                "101",
+                "4.5"
+            ],
+            [
+                "Stephen Turner",
+                "102",
+                "3.2"
+            ],
+            [
+                "Stephen Turner",
+                "103",
+                "4.8"
+            ],
+            [
+                "Stephen Turner",
+                "104",
+                "2.9"
+            ],
+            [
+                "Stephen Turner",
+                "105",
+                "5.0"
+            ]
+        ]
+    }
+}

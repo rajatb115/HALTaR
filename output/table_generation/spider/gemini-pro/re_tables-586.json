@@ -1,0 +1,46 @@
+{
+    "table-586-586": {
+        "title": [
+            "Owner ID",
+            "Zip Code",
+            "Total Dog Expenses"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Owners Ranked by Total Dog Expenses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which owner has paid the largest amount of money in total for their dogs? Show the owner id and zip code.",
+        "data": [
+            [
+                "123",
+                "90210",
+                "$15,000"
+            ],
+            [
+                "456",
+                "10001",
+                "$12,500"
+            ],
+            [
+                "789",
+                "60611",
+                "$10,000"
+            ],
+            [
+                "101",
+                "77005",
+                "$9,000"
+            ],
+            [
+                "202",
+                "94107",
+                "$8,500"
+            ]
+        ]
+    }
+}

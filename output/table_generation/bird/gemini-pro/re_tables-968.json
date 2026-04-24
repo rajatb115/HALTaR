@@ -1,0 +1,52 @@
+{
+    "table-968-968": {
+        "title": [
+            "Rank",
+            "State Code",
+            "Driver Age",
+            "Nationality"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Youngest Drivers by State and Nationality",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State code numbers of top 3 yougest drivers. How many Netherlandic drivers among them?",
+        "data": [
+            [
+                "1",
+                "CA",
+                "16",
+                "USA"
+            ],
+            [
+                "2",
+                "TX",
+                "16",
+                "USA"
+            ],
+            [
+                "3",
+                "FL",
+                "17",
+                "USA"
+            ],
+            [
+                "4",
+                "NY",
+                "17",
+                "USA"
+            ],
+            [
+                "5",
+                "PA",
+                "17",
+                "Netherlands"
+            ]
+        ]
+    }
+}

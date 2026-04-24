@@ -1,0 +1,69 @@
+{
+    "table-549-549": {
+        "title": [
+            "Orchestra Name",
+            "Founded Year",
+            "Record Company",
+            "Genre Focus",
+            "Region",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the record companies that are used by both orchestras founded before 2003 and those founded after 2003?",
+        "data": [
+            [
+                "Royal Philharmonic Society",
+                "476",
+                "Deutsche Grammophon",
+                "Classical Symphonic",
+                "United Kingdom",
+                "Active"
+            ],
+            [
+                "New York Chamber Ensemble",
+                "982",
+                "Sony Music Classics",
+                "Contemporary Orchestral",
+                "USA",
+                "Active"
+            ],
+            [
+                "Vienna Youth Symphony",
+                "567",
+                "Warner Music Group",
+                "Romantic Era",
+                "Austria",
+                "Disbanded"
+            ],
+            [
+                "London Modern Orchestra",
+                "345",
+                "Universal Music",
+                "Experimental Fusion",
+                "UK",
+                "Active"
+            ],
+            [
+                "Berlin Avant-Garde Collective",
+                "789",
+                "Naxos Records",
+                "Minimalist",
+                "Germany",
+                "Active"
+            ],
+            [
+                "Tokyo Neo-Symphonia",
+                "654",
+                "Decca Records",
+                "Electronic Crossover",
+                "Japan",
+                "Active"
+            ]
+        ]
+    }
+}

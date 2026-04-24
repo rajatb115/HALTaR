@@ -1,0 +1,45 @@
+{
+    "table-888-888": {
+        "title": [
+            "Race Name",
+            "Year Held",
+            "Hosting Year"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Races Held in 2017 but Not in 2000",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the races in year 2017 that are not hosted in year 2000.",
+        "data": [
+            [
+                "Grand Prix of Long Beach",
+                "2017",
+                "2000"
+            ],
+            [
+                "Honda Indy Toronto",
+                "2017",
+                "N/A"
+            ],
+            [
+                "Iowa Corn 300",
+                "2017",
+                "N/A"
+            ],
+            [
+                "ABC Supply 500 at Pocono",
+                "2017",
+                "N/A"
+            ],
+            [
+                "Bommarito 500 Presented by Valvoline",
+                "2017",
+                "N/A"
+            ]
+        ]
+    }
+}

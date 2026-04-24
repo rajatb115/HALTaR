@@ -1,0 +1,69 @@
+{
+    "table-1401-1401": {
+        "title": [
+            "Event Name",
+            "Date",
+            "Club",
+            "Event Type",
+            "Attendees"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all events hold by the Student_Club in 2019, find the percentage share of events related to 'Community Service'",
+        "data": [
+            [
+                "Campus Cleanup Drive",
+                "2019-03-10",
+                "Student_Club",
+                "Community Service",
+                "55"
+            ],
+            [
+                "Local Shelter Volunteering",
+                "2019-05-22",
+                "Student_Club",
+                "Community Service",
+                "30"
+            ],
+            [
+                "Fall Welcome Social",
+                "2019-09-01",
+                "Student_Club",
+                "Social",
+                "150"
+            ],
+            [
+                "Academic Success Workshop",
+                "2019-10-15",
+                "Student_Club",
+                "Academic",
+                "75"
+            ],
+            [
+                "Holiday Food Drive",
+                "2019-11-28",
+                "Student_Club",
+                "Community Service",
+                "40"
+            ],
+            [
+                "Spring Festival Fundraiser",
+                "2019-04-05",
+                "Student_Club",
+                "Fundraiser",
+                "100"
+            ],
+            [
+                "Debate Club Tournament",
+                "2019-02-18",
+                "Student_Club",
+                "Academic",
+                "60"
+            ]
+        ]
+    }
+}

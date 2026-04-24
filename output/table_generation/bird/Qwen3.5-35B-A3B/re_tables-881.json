@@ -1,0 +1,76 @@
+{
+    "table-881-881": {
+        "title": [
+            "Race Number",
+            "Driver",
+            "Fastest Lap Speed (km/h)",
+            "Next Race Number (%)",
+            "Difference Percentage",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Paul di Resta was in the No. 853 race, what percent faster did he finish in the 853rd race than the next race for the fastest lap speed?",
+        "data": [
+            [
+                "847",
+                "Paul di Resta",
+                "312.4",
+                "N/A",
+                "-",
+                "Completed",
+                "Baseline comparison point"
+            ],
+            [
+                "852",
+                "Paul de Resta",
+                "315.6",
+                "8",
+                "+1.0%",
+                "Completed",
+                "Pre-race simulation"
+            ],
+            [
+                "854",
+                "Paul di Resta",
+                "318.2",
+                "849",
+                "-1.2%",
+                "Completed",
+                "Target race analysis"
+            ],
+            [
+                "855",
+                "Lewis Hamilton",
+                "319.5",
+                "856",
+                "-0.8%",
+                "Cancelled",
+                "Alternative driver reference"
+            ],
+            [
+                "850",
+                "Fernando Alonso",
+                "314.1",
+                "851",
+                "+0.5%",
+                "Disqualified",
+                "Contextual outlier check"
+            ],
+            [
+                "858",
+                "Sebastian Vettel",
+                "316.9",
+                "859",
+                "-0.3%",
+                "Pending",
+                "Future projection scenario"
+            ]
+        ]
+    }
+}

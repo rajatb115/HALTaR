@@ -1,0 +1,52 @@
+{
+    "table-152-152": {
+        "title": [
+            "Store Name",
+            "Number of Products",
+            "Average Number of Products",
+            "Above Average"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Stores with Above Average Product Count",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the names of stores whose number products is more than the average number of products.",
+        "data": [
+            [
+                "Store A",
+                "150",
+                "100",
+                "Yes"
+            ],
+            [
+                "Store B",
+                "80",
+                "100",
+                "No"
+            ],
+            [
+                "Store C",
+                "120",
+                "100",
+                "Yes"
+            ],
+            [
+                "Store D",
+                "90",
+                "100",
+                "No"
+            ],
+            [
+                "Store E",
+                "200",
+                "100",
+                "Yes"
+            ]
+        ]
+    }
+}

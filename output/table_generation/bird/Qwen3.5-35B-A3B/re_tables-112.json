@@ -1,0 +1,76 @@
+{
+    "table-112-112": {
+        "title": [
+            "City",
+            "Year Category",
+            "Account Status",
+            "Count",
+            "Region Code",
+            "Data Source",
+            "Verification Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts were opened in Litomerice in 1996?",
+        "data": [
+            [
+                "Litom\u011b\u0159ice",
+                "Full Year",
+                "Opened",
+                "42",
+                "CZ-LI",
+                "Internal Ledger",
+                "31 Dec 17"
+            ],
+            [
+                "Litomy\u0161l",
+                "Full Year",
+                "Openings",
+                "58",
+                "CZ-PAR",
+                "Branch Report",
+                "02 Jan 18"
+            ],
+            [
+                "Louny",
+                "Fiscal Period Q4",
+                "New Accounts",
+                "63",
+                "CZ-UVA",
+                "System Log",
+                "9 Feb 16"
+            ],
+            [
+                "Chomutov",
+                "Annual Summary",
+                "Registered",
+                "71",
+                "CZ-MOR",
+                "Audit Trail",
+                "8 Mar 15"
+            ],
+            [
+                "Most",
+                "Calendar Year",
+                "Active Opens",
+                "",
+                "CZ-KRA",
+                "Database Export",
+                "N/A"
+            ],
+            [
+                "D\u011b\u010d\u00edn",
+                "Quarterly Review",
+                "Initiated",
+                "29",
+                "CZ-JIH",
+                "Manual Entry",
+                "N/A"
+            ]
+        ]
+    }
+}

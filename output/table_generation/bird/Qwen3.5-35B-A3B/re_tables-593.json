@@ -1,0 +1,45 @@
+{
+    "table-593-593": {
+        "title": [
+            "User_ID",
+            "Total_Badges_Awarded",
+            "Badge_Count_Greater_Than_5",
+            "Last_Active_Date",
+            "Account_Status",
+            "Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users are awarded with more than 5 badges?",
+        "data": [
+            [
+                "U1045",
+                "7",
+                "Yes",
+                "06/15/2023",
+                "Active",
+                "North America"
+            ],
+            [
+                "U2098",
+                "9",
+                "Yes",
+                "07/22/2023",
+                "Active",
+                "Europe"
+            ],
+            [
+                "U3312",
+                "6",
+                "Yes",
+                "08/01/2024",
+                "Active",
+                "Asia Pacific"
+            ]
+        ]
+    }
+}

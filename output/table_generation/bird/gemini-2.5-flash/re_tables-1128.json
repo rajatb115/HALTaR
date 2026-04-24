@@ -1,0 +1,53 @@
+{
+    "table-1128-1128": {
+        "title": [
+            "Player Name",
+            "Vision Score",
+            "Country"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Locate players with vision scores of 90 and above, state the country of these players.",
+        "data": [
+            [
+                "Kevin De Bruyne",
+                "94",
+                "Belgium"
+            ],
+            [
+                "Toni Kroos",
+                "92",
+                "Germany"
+            ],
+            [
+                "Luka Modric",
+                "91",
+                "Croatia"
+            ],
+            [
+                "Bruno Fernandes",
+                "90",
+                "Portugal"
+            ],
+            [
+                "Trent Alexander-Arnold",
+                "90",
+                "England"
+            ],
+            [
+                "Joshua Kimmich",
+                "91",
+                "Germany"
+            ],
+            [
+                "Frenkie de Jong",
+                "90",
+                "Netherlands"
+            ]
+        ]
+    }
+}

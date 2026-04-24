@@ -1,0 +1,61 @@
+{
+    "table-103-103": {
+        "title": [
+            "Account Holder",
+            "Opening Date",
+            "Balance USD",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State different accounts who have account opening date before 1997 and own an amount of money greater than 3000USD",
+        "data": [
+            [
+                "Alice Johnson",
+                "04/12/1965",
+                "$4,205.00",
+                "Active"
+            ],
+            [
+                "Robert Smith",
+                "31/08/1899",
+                "$3,150.75",
+                "Inactive"
+            ],
+            [
+                "Maria Garcia",
+                "04/01/1888",
+                "$5,002.10",
+                "Dormant"
+            ],
+            [
+                "James Wilson",
+                "05/12/1799",
+                "N/A",
+                "Closed"
+            ],
+            [
+                "Sarah Lee",
+                "09/11/1699",
+                "$12,400.05",
+                "Suspended"
+            ],
+            [
+                "Michael Brown",
+                "07/02/1599",
+                "N/D",
+                "Pending Review"
+            ],
+            [
+                "Emily Davis",
+                "08/03/1499",
+                "$8,900.00",
+                "Verified"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "table-312-312": {
+        "title": [
+            "Semester Name",
+            "Academic Year",
+            "Enrollment Count",
+            "Term Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which semesters do not have any student enrolled? List the semester name.",
+        "data": [
+            [
+                "Fall 2023",
+                "2023-2024",
+                "0",
+                "Fall"
+            ],
+            [
+                "Summer 2024",
+                "2023-2024",
+                "0",
+                "Summer"
+            ],
+            [
+                "Spring 2024",
+                "2023-2024",
+                "345",
+                "Spring"
+            ],
+            [
+                "Winter 2023",
+                "2023-2024",
+                "0",
+                "Winter"
+            ],
+            [
+                "Fall 2024",
+                "2024-2025",
+                "0",
+                "Fall"
+            ],
+            [
+                "Summer 2023",
+                "2022-2023",
+                "0",
+                "Summer"
+            ]
+        ]
+    }
+}

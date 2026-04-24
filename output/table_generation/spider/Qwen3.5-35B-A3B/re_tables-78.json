@@ -1,0 +1,73 @@
+{
+    "table-78-78": {
+        "title": [
+            "Model_Name",
+            "Production_Year",
+            "Average_Weight_Lbs",
+            "Weight_Trend",
+            "Data_Source",
+            "Region",
+            "Sample_Size",
+            "Confidence_Level"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average weight of cars each year?",
+        "data": [
+            [
+                "Compact Sedan X",
+                "",
+                "3250",
+                "Stable",
+                "AutoStats Inc",
+                "North America",
+                "5000",
+                "High"
+            ],
+            [
+                "Midsize SUV Y",
+                "",
+                "6100",
+                "Increasing",
+                "Global Market Watch",
+                "Europe",
+                "850",
+                "Medium"
+            ],
+            [
+                "Full-size Truck Z",
+                "",
+                "0",
+                "N/A",
+                "Domestic Sales Report",
+                "Asia Pacific",
+                "",
+                "Low"
+            ],
+            [
+                "Electric Hatchback E",
+                "",
+                "2800",
+                "Decreasing",
+                "EV Analytics Group",
+                "Worldwide",
+                "",
+                "25%"
+            ],
+            [
+                "Luxury Coupe L",
+                "",
+                "",
+                "",
+                "Premium Car Review",
+                "South America",
+                "",
+                "Very High"
+            ]
+        ]
+    }
+}

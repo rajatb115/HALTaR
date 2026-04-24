@@ -1,0 +1,39 @@
+{
+    "table-721-721": {
+        "title": [
+            "Superhero Name",
+            "Number of Superpowers"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Superheroes with Extensive Powers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the full names of all the superheroes with over 15 super powers.",
+        "data": [
+            [
+                "Superman",
+                "20"
+            ],
+            [
+                "Martian Manhunter",
+                "18"
+            ],
+            [
+                "Thor",
+                "17"
+            ],
+            [
+                "Doctor Strange",
+                "16"
+            ],
+            [
+                "Captain Marvel",
+                "15"
+            ]
+        ]
+    }
+}

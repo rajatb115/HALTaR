@@ -1,0 +1,77 @@
+{
+    "table-1211-1211": {
+        "title": [
+            "Patient ID",
+            "LDH Level (U/L)",
+            "Normal Range Min (U/L)",
+            "Normal Range Max (U/L)",
+            "LDH Status",
+            "Test Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average index of the lactate dehydrogenase (LDH) for all patients with lactate dehydrogenase (LDH) within the normal range.",
+        "data": [
+            [
+                "P001",
+                "185",
+                "120",
+                "250",
+                "Normal",
+                "2023-01-15"
+            ],
+            [
+                "P002",
+                "230",
+                "120",
+                "250",
+                "Normal",
+                "2023-01-18"
+            ],
+            [
+                "P003",
+                "310",
+                "120",
+                "250",
+                "High",
+                "2023-01-20"
+            ],
+            [
+                "P004",
+                "110",
+                "120",
+                "250",
+                "Low",
+                "2023-01-22"
+            ],
+            [
+                "P005",
+                "195",
+                "120",
+                "250",
+                "Normal",
+                "2023-01-25"
+            ],
+            [
+                "P006",
+                "245",
+                "120",
+                "250",
+                "Normal",
+                "2023-01-28"
+            ],
+            [
+                "P007",
+                "280",
+                "120",
+                "250",
+                "High",
+                "2023-02-01"
+            ]
+        ]
+    }
+}

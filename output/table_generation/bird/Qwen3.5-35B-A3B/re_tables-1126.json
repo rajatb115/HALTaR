@@ -1,0 +1,94 @@
+{
+    "table-1126-1126": {
+        "title": [
+            "Player_Name",
+            "Finishing_Rate",
+            "Age",
+            "Position",
+            "Team",
+            "Games_Played",
+            "Goals_Scored"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the players with finishing rate of 1, pick the eldest player and state the player's name.",
+        "data": [
+            [
+                "John Smith",
+                "67%",
+                "42",
+                "Forward",
+                "City United",
+                "310",
+                "89"
+            ],
+            [
+                "Mike Johnson",
+                "72%",
+                "*Eldest*",
+                "Striker",
+                "West FC",
+                "50",
+                "N/A"
+            ],
+            [
+                "Sarah Lee",
+                "95%",
+                "-",
+                "Midfielder",
+                "North Stars",
+                "0",
+                "-"
+            ],
+            [
+                "David Brown",
+                "",
+                "",
+                "-",
+                "South Towns",
+                "",
+                ""
+            ],
+            [
+                "Emily White",
+                "%",
+                "",
+                "-",
+                "East Side",
+                "",
+                ""
+            ],
+            [
+                "Chris Green",
+                "%-",
+                "--",
+                "Central Park",
+                "",
+                "",
+                "="
+            ],
+            [
+                "Lisa Black",
+                "--%-",
+                "",
+                "+--",
+                "River Valley",
+                "",
+                "=+"
+            ],
+            [
+                "Tom Gray",
+                "+-%",
+                "++",
+                "--",
+                "Lake View",
+                "+=++",
+                ""
+            ]
+        ]
+    }
+}

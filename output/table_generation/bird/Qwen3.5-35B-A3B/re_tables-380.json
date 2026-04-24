@@ -1,0 +1,62 @@
+{
+    "table-380-380": {
+        "title": [
+            "Card_ID",
+            "Set_Code",
+            "Deck_Name",
+            "Rarity",
+            "Price_USD"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the cards belong to duel deck a? List the ID.",
+        "data": [
+            [
+                "DDA_000",
+                "DDA",
+                "Duel Deck: Anthology A",
+                "Common",
+                "$0.45"
+            ],
+            [
+                "DDC_012",
+                "DDC",
+                "Duel Pack C",
+                "Uncommon",
+                "$1.20"
+            ],
+            [
+                "DDD_034",
+                "DDD",
+                "Duel Decks Series E",
+                "Rare",
+                "$3.75"
+            ],
+            [
+                "DDE_056",
+                "DDE",
+                "Dual Force Alpha",
+                "Mythic",
+                "$8.90"
+            ],
+            [
+                "DDF_078",
+                "DDF",
+                "Battle Bundle Beta",
+                "Common",
+                "$2.10"
+            ],
+            [
+                "DGG_090",
+                "DGX",
+                "Legacy Collection Z",
+                "Special",
+                "$5.50"
+            ]
+        ]
+    }
+}

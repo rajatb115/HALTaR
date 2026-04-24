@@ -1,0 +1,67 @@
+{
+    "table-53-53": {
+        "title": [
+            "First_Name",
+            "Age",
+            "Has_Pet",
+            "Pet_Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the different first names and ages of the students who do have pets?",
+        "data": [
+            [
+                "Alice",
+                "7",
+                "Yes",
+                "Dog"
+            ],
+            [
+                "Benjamin",
+                "6",
+                "No",
+                "N/A"
+            ],
+            [
+                "Clara",
+                "8",
+                "Yes Cat",
+                ""
+            ],
+            [
+                "David",
+                "9",
+                "Yes Hamster",
+                ""
+            ],
+            [
+                "Elena",
+                "5",
+                "Yes Fish",
+                ""
+            ],
+            [
+                "Felix",
+                "4",
+                "No N/A",
+                ""
+            ],
+            [
+                "Grace",
+                "3",
+                "Yes Bird",
+                ""
+            ],
+            [
+                "Henry",
+                "0",
+                "Unknown N/A",
+                ""
+            ]
+        ]
+    }
+}

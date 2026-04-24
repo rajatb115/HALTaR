@@ -1,0 +1,63 @@
+{
+    "table-491-491": {
+        "title": [
+            "Set Code",
+            "Magic Card Market ID",
+            "Release Date",
+            "Number of Cards",
+            "Rarity Distribution",
+            "Price Range Min",
+            "Price Max",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the set which had 'SS2' as the code, what is its magic card market id?",
+        "data": [
+            [
+                "SS2",
+                "4762",
+                "March 15, 1st Edition",
+                "350",
+                "Common/Uncommon/Rare",
+                "$0.50",
+                "$150.00",
+                "Active"
+            ],
+            [
+                "SS2A",
+                "N/A",
+                "April 1, 2nd Edition",
+                "N/N/A",
+                "Mixed",
+                "$1.0",
+                "$20.00",
+                "Active"
+            ],
+            [
+                "SSTest",
+                "9991",
+                "January 10, Prototype",
+                "500",
+                "Common Only",
+                "$5.0",
+                "$25.00",
+                "Inactive"
+            ],
+            [
+                "SetX",
+                "8821",
+                "June 22, Special Event",
+                "600 Rare Focus",
+                "",
+                "$3.0",
+                "$300.00",
+                "Active"
+            ]
+        ]
+    }
+}

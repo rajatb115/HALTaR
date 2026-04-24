@@ -1,0 +1,55 @@
+{
+    "table-146-146": {
+        "title": [
+            "Shop Name",
+            "Manager Name",
+            "District",
+            "Number of Products"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the manager name and district of the shop whose number of products is the largest.",
+        "data": [
+            [
+                "Central Mart",
+                "Alice Smith",
+                "Downtown",
+                "1250"
+            ],
+            [
+                "Eastside Grocer",
+                "Bob Johnson",
+                "Eastside",
+                "980"
+            ],
+            [
+                "West End Store",
+                "Carol White",
+                "West End",
+                "1520"
+            ],
+            [
+                "Northside Market",
+                "David Green",
+                "Northside",
+                "1100"
+            ],
+            [
+                "South Point Shop",
+                "Emily Brown",
+                "South Point",
+                "870"
+            ],
+            [
+                "Riverside Deli",
+                "Frank Black",
+                "Riverside",
+                "750"
+            ]
+        ]
+    }
+}

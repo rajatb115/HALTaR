@@ -1,0 +1,69 @@
+{
+    "table-701-701": {
+        "title": [
+            "Post ID",
+            "Title",
+            "Bounty Amount",
+            "Status",
+            "Category"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the number of posts that offer a bounty amount over 30.",
+        "data": [
+            [
+                "101",
+                "How to optimize SQL query performance?",
+                "50",
+                "Open",
+                "Database"
+            ],
+            [
+                "102",
+                "Best practices for React component design",
+                "25",
+                "Answered",
+                "Web Development"
+            ],
+            [
+                "103",
+                "Explain the difference: JOIN vs LEFT JOIN",
+                "35",
+                "Open",
+                "SQL"
+            ],
+            [
+                "104",
+                "Python library for data visualization",
+                "20",
+                "Closed",
+                "Data Science"
+            ],
+            [
+                "105",
+                "Implement OAuth2 in a Spring Boot app",
+                "60",
+                "Open",
+                "Backend Development"
+            ],
+            [
+                "106",
+                "Understanding Big-O notation complexities",
+                "30",
+                "Answered",
+                "Algorithms"
+            ],
+            [
+                "107",
+                "Dockerizing a Node.js application",
+                "45",
+                "Open",
+                "DevOps"
+            ]
+        ]
+    }
+}

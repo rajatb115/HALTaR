@@ -1,0 +1,39 @@
+{
+    "table-185-185": {
+        "title": [
+            "Template Type Code",
+            "Lowest Version"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Template Version Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the lowest version number, along with its corresponding template type code.",
+        "data": [
+            [
+                "TXT",
+                "1.0"
+            ],
+            [
+                "PDF",
+                "2.1"
+            ],
+            [
+                "DOC",
+                "1.5"
+            ],
+            [
+                "XML",
+                "3.0"
+            ],
+            [
+                "CSV",
+                "1.2"
+            ]
+        ]
+    }
+}

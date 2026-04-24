@@ -1,0 +1,77 @@
+{
+    "table-243-243": {
+        "title": [
+            "Element ID",
+            "Atomic Number",
+            "Molecule Formula",
+            "Carcinogen Status",
+            "Source Material",
+            "Risk Level"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all the atoms from 21 to 25, list all the molecules that are carcinogenic.",
+        "data": [
+            [
+                "Scandium Oxide",
+                "47",
+                "Sc\u2082O\u2083",
+                "Not Classified",
+                "Industrial Waste",
+                "Low"
+            ],
+            [
+                "Titanium Dioxide",
+                "68",
+                "TiO\u2082",
+                "Possible Group 2B",
+                "Pigment Industry",
+                "Moderate"
+            ],
+            [
+                "Vanadium Pentoxide",
+                "92",
+                "V\u2082O\u2081\u2080",
+                "Confirmed Group 1",
+                "Catalyst Production",
+                "High"
+            ],
+            [
+                "Chromium Trioxide",
+                "",
+                "CrO\u2084\u00b2\u207b",
+                "Confined Group 6A",
+                "Electroplating Sludge",
+                "Critical"
+            ],
+            [
+                "Manganese Heptoxide",
+                "",
+                "Mn\u2082O\u2082\u2085",
+                "Suspected Mutagenic",
+                "Laboratory Reagent",
+                "Unknown"
+            ],
+            [
+                "Iron(III) Chloride",
+                "",
+                "FeCl\u2086\u00b3\u207b Benzoate",
+                "Non-Carcinogenic",
+                "Water Treatment",
+                "None"
+            ],
+            [
+                "Cobalt Sulfate Hexahydrate",
+                "34",
+                "CoSO\u2084\u00b76H\u2082O",
+                "Probable Group 3",
+                "Battery Manufacturing",
+                "Low-Moderate"
+            ]
+        ]
+    }
+}

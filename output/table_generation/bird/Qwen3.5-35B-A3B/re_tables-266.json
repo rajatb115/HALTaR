@@ -1,0 +1,69 @@
+{
+    "table-266-266": {
+        "title": [
+            "Molecule ID",
+            "Chemical Class",
+            "Carcinogenicity Status",
+            "Test Result",
+            "Source Database"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down the molecule id for non carcinogenic molecules.",
+        "data": [
+            [
+                "MOL_4021",
+                "Alkane",
+                "Non-Carcinogen",
+                "Negative",
+                "ToxCast"
+            ],
+            [
+                "mol_7732",
+                "Aromatic Hydrocarbon",
+                "Non-carcinomic",
+                "Pass",
+                "PubChem"
+            ],
+            [
+                "xenon_99",
+                "Inert Gas",
+                "Safe",
+                "Clear",
+                "ChEBI"
+            ],
+            [
+                "int_2045",
+                "Organic Ester",
+                "Benign",
+                "No Effect",
+                "DrugBank"
+            ],
+            [
+                "compound_112",
+                "Fluorocarbon",
+                "Low Risk",
+                "Inactive",
+                "ZINC"
+            ],
+            [
+                "ligand_883",
+                "Peptide Derivative",
+                "Non-toxic",
+                "Null",
+                "BindingDB"
+            ],
+            [
+                "metabolite_66",
+                "Carboxylic Acid",
+                "Harmless",
+                "Stable",
+                "HMDB"
+            ]
+        ]
+    }
+}

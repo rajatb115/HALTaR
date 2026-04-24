@@ -1,0 +1,62 @@
+{
+    "table-385-385": {
+        "title": [
+            "Card UUID",
+            "Legacy Status",
+            "Foreign Language",
+            "Region Code",
+            "Issuance Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down the uuid for legacy cards and the foreign language of these cards.",
+        "data": [
+            [
+                "a1b2c3d4-e5f6-7g8h-9i0j-k1l2m3n4o5p6",
+                "Yes",
+                "French",
+                "FR",
+                "01/15/2010"
+            ],
+            [
+                "b2c4d6e8-f0a2-b4c6-d8e0-f2a4b6c8d0e2",
+                "Yes",
+                "",
+                "ES",
+                "3/22/2022"
+            ],
+            [
+                "c3d5e7f9-a1b3-c5d7-e9f1-a3b5c7d9e1f3",
+                "Yes",
+                "German",
+                "DE",
+                "07/08/2022"
+            ],
+            [
+                "d4e6f8a0-b2c2-d4e4-f6a8-b0c2d4e5f7a9",
+                "Yes",
+                "Japanese",
+                "JP",
+                "11/30/2022"
+            ],
+            [
+                "f5a7b9c1-d3e5-f7a8-9b0c-1d2e3f4a5b6",
+                "No",
+                "English",
+                "US",
+                "N/A"
+            ],
+            [
+                "g6b8",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

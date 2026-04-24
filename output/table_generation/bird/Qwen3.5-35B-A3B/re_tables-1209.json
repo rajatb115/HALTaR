@@ -1,0 +1,62 @@
+{
+    "table-1209-1209": {
+        "title": [
+            "Patient_ID",
+            "Gender",
+            "GPT_Level_U_L",
+            "History_Exceeds_Normal",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide IDs for male patients with ALT glutamic pylvic transaminase (GPT) that have history of ALT glutamic pylvic transaminase (GPT) exceed the normal range.",
+        "data": [
+            [
+                "P_4021",
+                "Male",
+                "65",
+                "Yes",
+                "Active"
+            ],
+            [
+                "P_A77B",
+                "Male",
+                "82",
+                "Yes",
+                "Active"
+            ],
+            [
+                "M_99XZ",
+                "Male",
+                "58",
+                "Yes",
+                "Active"
+            ],
+            [
+                "K_11QW",
+                "Male",
+                "71",
+                "Yes",
+                "Pending"
+            ],
+            [
+                "R_33TY",
+                "Male",
+                "94",
+                "Yes",
+                "Active"
+            ],
+            [
+                "L_55OP",
+                "Male",
+                "62",
+                "No",
+                "Discharged"
+            ]
+        ]
+    }
+}

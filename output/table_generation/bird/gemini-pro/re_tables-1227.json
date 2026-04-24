@@ -1,0 +1,47 @@
+{
+    "table-1227-1227": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "T-CHO"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Patient Cholesterol Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the oldest patient with the highest total cholesterol (T-CHO). State the patient ID and T-CHO index.",
+        "data": [
+            [
+                "12345",
+                "85",
+                "280"
+            ],
+            [
+                "67890",
+                "78",
+                "250"
+            ],
+            [
+                "24680",
+                "92",
+                "220"
+            ],
+            [
+                "13579",
+                "60",
+                "200"
+            ],
+            [
+                "11223",
+                "70",
+                "190"
+            ]
+        ]
+    }
+}

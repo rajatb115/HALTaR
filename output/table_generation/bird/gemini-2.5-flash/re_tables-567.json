@@ -1,0 +1,77 @@
+{
+    "table-567-567": {
+        "title": [
+            "Post ID",
+            "Owner User ID",
+            "Owner Username",
+            "Reputation Points",
+            "Posts Count",
+            "Last Activity Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the owner user of post No. 65041, what is his/her reputation points?",
+        "data": [
+            [
+                "65041",
+                "101",
+                "DataWizard",
+                "15000",
+                "250",
+                "2023-10-26"
+            ],
+            [
+                "65040",
+                "102",
+                "CodeMaster",
+                "8500",
+                "180",
+                "2023-10-25"
+            ],
+            [
+                "65042",
+                "101",
+                "DataWizard",
+                "15000",
+                "250",
+                "2023-10-26"
+            ],
+            [
+                "64998",
+                "103",
+                "QueryKing",
+                "22000",
+                "310",
+                "2023-10-24"
+            ],
+            [
+                "65105",
+                "104",
+                "DBExplorer",
+                "5000",
+                "95",
+                "2023-10-26"
+            ],
+            [
+                "65001",
+                "101",
+                "DataWizard",
+                "15000",
+                "250",
+                "2023-10-26"
+            ],
+            [
+                "65050",
+                "105",
+                "SchemaGuru",
+                "12000",
+                "210",
+                "2023-10-25"
+            ]
+        ]
+    }
+}

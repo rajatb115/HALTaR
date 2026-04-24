@@ -1,0 +1,41 @@
+{
+    "table-1233-1233": {
+        "title": [
+            "Patient_ID",
+            "Sex",
+            "Age",
+            "GLU_Status",
+            "T_CHO_Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide ID, sex and age of patient who has blood glucose (GLU) not within normal range but with total cholesterol(T-CHO) within normal range.",
+        "data": [
+            [
+                "P_4021",
+                "Male",
+                "67",
+                "High",
+                "Normal"
+            ],
+            [
+                "P_A892",
+                "Female",
+                "54",
+                "Low",
+                "Normal"
+            ],
+            [
+                "P_1103",
+                "Male",
+                "N/A",
+                "High",
+                "Normal"
+            ]
+        ]
+    }
+}

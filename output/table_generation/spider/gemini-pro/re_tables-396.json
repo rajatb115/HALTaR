@@ -1,0 +1,45 @@
+{
+    "table-396-396": {
+        "title": [
+            "Player Name",
+            "Total Earnings (USD)",
+            "Money Rank"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Highest Earning Poker Players",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the money rank of the poker player with the highest earnings?",
+        "data": [
+            [
+                "Justin Bonomo",
+                "$61,924,248",
+                "1"
+            ],
+            [
+                "Bryn Kenney",
+                "$57,221,873",
+                "2"
+            ],
+            [
+                "Dan Smith",
+                "$44,031,744",
+                "3"
+            ],
+            [
+                "Jason Koon",
+                "$42,381,342",
+                "4"
+            ],
+            [
+                "Stephen Chidwick",
+                "$42,348,863",
+                "5"
+            ]
+        ]
+    }
+}

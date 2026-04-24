@@ -1,0 +1,77 @@
+{
+    "table-1409-1409": {
+        "title": [
+            "Transaction ID",
+            "Category",
+            "Description",
+            "Amount",
+            "Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total cost spent for Parking in the list.",
+        "data": [
+            [
+                "TXN-1042",
+                "Parking",
+                "Street Meter Fee",
+                "$15.00",
+                "06/01/2023",
+                "Completed"
+            ],
+            [
+                "TXN-2055",
+                "Parking Garage",
+                "Downtown Lot Entry",
+                "$45.50",
+                "",
+                ""
+            ],
+            [
+                "06 / 02 / 2 0 23",
+                "Completed",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "TX N -3078",
+                "Parking",
+                "Valet Service Charge",
+                "$25.75",
+                "06//03/2 223",
+                "Pending"
+            ],
+            [
+                "T XN-4091",
+                "P arking",
+                "Monthly Subscription Renewal",
+                "$120.0 0",
+                "0 6/ 04/222 3",
+                "Complet ed"
+            ],
+            [
+                "TNX-5102",
+                "Parki ng",
+                "Overnight Permit Extension",
+                "$30.25",
+                "07/0 1/ 2o23",
+                "Comp leted"
+            ],
+            [
+                "TRX-6115",
+                "Par king",
+                "Airport Long-Term Stay",
+                "$85.90",
+                "10/15/2 o23",
+                ""
+            ]
+        ]
+    }
+}

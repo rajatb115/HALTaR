@@ -1,0 +1,39 @@
+{
+    "table-1080-1080": {
+        "title": [
+            "Player Name",
+            "Height (cm)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Player Heights",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which player is the tallest?",
+        "data": [
+            [
+                "Player A",
+                "185"
+            ],
+            [
+                "Player B",
+                "190"
+            ],
+            [
+                "Player C",
+                "178"
+            ],
+            [
+                "Player D",
+                "201"
+            ],
+            [
+                "Player E",
+                "188"
+            ]
+        ]
+    }
+}

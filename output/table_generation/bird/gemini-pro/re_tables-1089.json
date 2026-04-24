@@ -1,0 +1,46 @@
+{
+    "table-1089-1089": {
+        "title": [
+            "Player Name",
+            "Volley Score",
+            "Dribbling Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "High-Performing Players Based on Volley and Dribbling Scores",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the names of the players whose volley score and dribbling score are over 70.",
+        "data": [
+            [
+                "Alex",
+                "75",
+                "80"
+            ],
+            [
+                "Ben",
+                "82",
+                "72"
+            ],
+            [
+                "Chloe",
+                "78",
+                "75"
+            ],
+            [
+                "David",
+                "71",
+                "79"
+            ],
+            [
+                "Emily",
+                "85",
+                "88"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "table-915-915": {
+        "title": [
+            "Driver ID",
+            "Full Name",
+            "Has Code",
+            "Status",
+            "Last Updated",
+            "Notes",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many drivers don't have a code?",
+        "data": [
+            [
+                "D0042",
+                "Sarah Jenkins",
+                "No",
+                "Active",
+                "06/15/2023",
+                "Pending verification",
+                "North America"
+            ],
+            [
+                "D1098",
+                "Michael Chen",
+                "Yes",
+                "Inactive",
+                "3/22/2024",
+                "Expired license",
+                "Asia Pacific"
+            ],
+            [
+                "E7721",
+                "David O'Neil",
+                "No",
+                "Pending review",
+                "8/1/2023",
+                "Missing documentation",
+                "Europe"
+            ],
+            [
+                "F3302",
+                "Elena Rodriguez",
+                "No",
+                "Active status",
+                "9/10/2021",
+                "License revoked",
+                "South America"
+            ],
+            [
+                "G8811",
+                "James Wilson",
+                "Yes",
+                "Verified today",
+                "5/5/2019",
+                "Valid until renewal",
+                "Africa"
+            ],
+            [
+                "H9922",
+                "Priya Patel",
+                "No",
+                "System error reported",
+                "7/30/2018",
+                "Re-entry required",
+                "Middle East"
+            ],
+            [
+                "I4455",
+                "Tom Baker",
+                "Yes",
+                "Manual entry only",
+                "4/12/2017",
+                "Temporary permit",
+                "Oceania"
+            ],
+            [
+                "J2201",
+                "Anna Kowalski",
+                "No",
+                "Background check failed",
+                "6/6/2026",
+                "Application denied",
+                "Global"
+            ]
+        ]
+    }
+}

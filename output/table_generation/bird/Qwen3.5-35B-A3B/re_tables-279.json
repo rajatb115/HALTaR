@@ -1,0 +1,77 @@
+{
+    "table-279-279": {
+        "title": [
+            "Molecule ID",
+            "Bond Type",
+            "Carcinogen Status",
+            "Source Material",
+            "Analysis Date",
+            "Confidence Level"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the single bond type molecules are non-carcinogenic?",
+        "data": [
+            [
+                "MOL-SB-004",
+                "Single Bond",
+                "Non-Carcinogenic",
+                "Synthetic Polymer Lab",
+                "2023-05-12",
+                "High"
+            ],
+            [
+                "mol-sb-012a",
+                "Single Bonds",
+                "Not Carcinogenic",
+                "Industrial Solvent Co.",
+                "2019-11-03",
+                "Medium"
+            ],
+            [
+                "x-bond-single",
+                "Single Linkage",
+                "Benign Classification",
+                "Academic Research Group",
+                "2020-07-22",
+                "Low"
+            ],
+            [
+                "r-sb-compound",
+                "Mono-Bonds",
+                "Safe for Consumption",
+                "Food Additive Corp",
+                "2030-06-24",
+                "Very High"
+            ],
+            [
+                "h-bond-type-a",
+                "Simple Single",
+                "No Cancer Risk",
+                "Pharmaceutical Study",
+                "2022-10-21",
+                "Moderate"
+            ],
+            [
+                "i-mono-linker",
+                "Single Only",
+                "Innocuous Result",
+                "Environmental Agency",
+                "2024-01-23",
+                "High"
+            ],
+            [
+                "zeta-sb",
+                "Single Valence",
+                "Negative Test Results",
+                "University Chem Dept",
+                "2025-02-25",
+                "High"
+            ]
+        ]
+    }
+}

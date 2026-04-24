@@ -1,0 +1,73 @@
+{
+    "table-1053-1053": {
+        "title": [
+            "Player_ID",
+            "Weight_Lbs",
+            "Attacking_Foot_Preference",
+            "Count_Left_Attackers"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 9,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all the players whose weight is under 130, how many of them preferred foot in attacking is left?",
+        "data": [
+            [
+                "P0042",
+                "76",
+                "Left",
+                "Yes"
+            ],
+            [
+                "P1093",
+                "89",
+                "Right",
+                "No"
+            ],
+            [
+                "PL205",
+                "92",
+                "Left",
+                "Yes"
+            ],
+            [
+                "PA331",
+                "68",
+                "Left",
+                "Yes"
+            ],
+            [
+                "PB442",
+                "124",
+                "Left",
+                "Yes"
+            ],
+            [
+                "PC556",
+                "118",
+                "Right",
+                "No"
+            ],
+            [
+                "PD667",
+                "95",
+                "Left",
+                "Yes"
+            ],
+            [
+                "PE778",
+                "82",
+                "N/A",
+                "No"
+            ],
+            [
+                "PF889",
+                "105",
+                "Left",
+                "Yes"
+            ]
+        ]
+    }
+}

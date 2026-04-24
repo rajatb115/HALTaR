@@ -1,0 +1,76 @@
+{
+    "table-1189-1189": {
+        "title": [
+            "Patient_ID",
+            "Gender",
+            "Birth_Year",
+            "Admission_Status",
+            "Department",
+            "Admit_Date",
+            "Discharge_Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female patients born in 1964 were admitted to the hospital? List them by ID.",
+        "data": [
+            [
+                "P78291",
+                "Female",
+                "64",
+                "Active",
+                "Cardiology",
+                "01/15/2023",
+                "N/A"
+            ],
+            [
+                "P82044",
+                "Female",
+                "63",
+                "Inactive",
+                "Neurology",
+                "03/22/2023",
+                "04/10/2024"
+            ],
+            [
+                "PF9012",
+                "Female",
+                "64",
+                "Closed",
+                "Pediatrics",
+                "N/A",
+                ""
+            ],
+            [
+                "PN1102",
+                "Female",
+                "64",
+                "Active",
+                "Oncology",
+                "05/01/2020",
+                "N/A"
+            ],
+            [
+                "PS4421",
+                "Female",
+                "19",
+                "Inactive",
+                "Gynecology",
+                "02/14/202?",
+                "03/02/2024"
+            ],
+            [
+                "PT5509",
+                "Female",
+                "96",
+                "Admitted",
+                "Emergency",
+                "07/12/2003",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "table-191-191": {
+        "title": [
+            "Template Code",
+            "Category",
+            "Status",
+            "Last Used Date",
+            "Document Count",
+            "Reason",
+            "Owner ID",
+            "Created By"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the codes of template types that are not used for any document?",
+        "data": [
+            [
+                "TMP-X99",
+                "Invoice",
+                "Unused",
+                "N/A",
+                "0",
+                "No active documents",
+                "SYS_ADMIN_01",
+                ""
+            ],
+            [
+                "TMP-Y42",
+                "Contract",
+                "Inactive",
+                "999 days ago",
+                "67",
+                "Archived by policy",
+                "LEGAL_DEPT_05",
+                ""
+            ],
+            [
+                "ZMP-A11",
+                "Report",
+                "Deprecated",
+                "4 years ago",
+                "None",
+                "Replaced by ZMP-B22",
+                "DATA_TEAM_03",
+                ""
+            ],
+            [
+                "QTR-M88",
+                "Memo",
+                "Unassigned",
+                "Never",
+                "5",
+                "Missing workflow config",
+                "HR_SYSTEM_09",
+                ""
+            ],
+            [
+                "VLD-K22",
+                "Validation",
+                "Test Only",
+                "3 months ago",
+                "Not Applicable",
+                "Sandbox environment only",
+                "QA_LEAD_12",
+                ""
+            ],
+            [
+                "RPT-L55",
+                "Summary",
+                "Suspended",
+                "8 weeks ago",
+                "Local copies",
+                "Pending migration review",
+                "ANALYTICS_UNIT_07",
+                ""
+            ],
+            [
+                "CFG-P00",
+                "Config",
+                "System Reserved",
+                "N/a",
+                "Internal use",
+                "Restricted access level",
+                "DEVOPS_ROOT_00",
+                ""
+            ]
+        ]
+    }
+}

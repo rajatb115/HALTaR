@@ -1,0 +1,61 @@
+{
+    "table-182-182": {
+        "title": [
+            "Template Name",
+            "Version Number",
+            "Template Type Code",
+            "Last Updated Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the version number and template type code for the template with version number later than 5?",
+        "data": [
+            [
+                "Invoice Template",
+                "6.0",
+                "INV-STD",
+                "2023-01-15"
+            ],
+            [
+                "Report Template A",
+                "7.1",
+                "RPT-FIN",
+                "2023-03-20"
+            ],
+            [
+                "Email Notification",
+                "5.5",
+                "EML-MKT",
+                "2022-11-01"
+            ],
+            [
+                "Order Confirmation",
+                "8.0",
+                "ORD-CFM",
+                "2023-05-10"
+            ],
+            [
+                "User Profile Form",
+                "6.2",
+                "USR-PRF",
+                "2023-02-28"
+            ],
+            [
+                "Welcome Email",
+                "7.0",
+                "EML-WLC",
+                "2023-04-05"
+            ],
+            [
+                "Data Export Template",
+                "6.5",
+                "EXP-CSV",
+                "2023-06-01"
+            ]
+        ]
+    }
+}

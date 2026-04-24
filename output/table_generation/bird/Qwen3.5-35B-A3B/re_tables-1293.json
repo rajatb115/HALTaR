@@ -1,0 +1,76 @@
+{
+    "table-1293-1293": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Uric Acid Level (mg/dL)",
+            "Anti-Cardiolipan IgG Concentration (GPL Units/mL)",
+            "Status",
+            "Test Date",
+            "Lab Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the anti Cardiolipin antibody concentration of the female patient with the highest uric acid level in the normal range?",
+        "data": [
+            [
+                "P-402",
+                "Female",
+                "6.8",
+                "4.2",
+                "Normal Range",
+                "03/12/2023",
+                "LAB-A7X"
+            ],
+            [
+                "F-119",
+                "Male",
+                "7.1",
+                "N/A",
+                "High",
+                "03/02/1923",
+                "LAB-B2Y"
+            ],
+            [
+                "M-334",
+                "Female",
+                "5.9",
+                "8.5",
+                "Elevated",
+                "05/15/2023",
+                "LAB-C9Z"
+            ],
+            [
+                "J-882",
+                "Female",
+                "6.2",
+                "9.1",
+                "Borderline",
+                "11/22/2023",
+                "LAB-D4W"
+            ],
+            [
+                "K-551",
+                "Male",
+                "4.5",
+                "N/A",
+                "Low",
+                "01/01/2023",
+                "LAB-E1V"
+            ],
+            [
+                "R-220",
+                "Female",
+                "0.7",
+                "",
+                "Normal",
+                "",
+                "LAB-F8U"
+            ]
+        ]
+    }
+}

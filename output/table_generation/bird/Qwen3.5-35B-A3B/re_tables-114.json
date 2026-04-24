@@ -1,0 +1,62 @@
+{
+    "table-114-114": {
+        "title": [
+            "Client ID",
+            "Loan Amount",
+            "Application Date",
+            "Birthday",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the client who applied 98832 USD loan in 1996/1/3, when was his/her birthday?",
+        "data": [
+            [
+                "CUST_4421",
+                "$98,837",
+                "01/03/1966",
+                "3/22/1892",
+                "Approved"
+            ],
+            [
+                "CUS_T_4502",
+                "$102,100",
+                "4/15/1696",
+                "",
+                "Pending"
+            ],
+            [
+                "CUS_A_9921",
+                "$88,400",
+                "1/10/1796",
+                "7/14/2012",
+                "Rejected"
+            ],
+            [
+                "CLT_X_1123",
+                "$99,000",
+                "",
+                "12/31/2101",
+                "Approved"
+            ],
+            [
+                "CUS_B_8821",
+                "$98,830",
+                "01/03/1956",
+                "5/5/2345",
+                "Active"
+            ],
+            [
+                "CLI_Y_3321",
+                "$98,700",
+                "Jan 3rd 1800",
+                "",
+                "Closed"
+            ]
+        ]
+    }
+}

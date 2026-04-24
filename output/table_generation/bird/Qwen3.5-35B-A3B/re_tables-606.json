@@ -1,0 +1,85 @@
+{
+    "table-606-606": {
+        "title": [
+            "Badge_Name",
+            "User_ID",
+            "Date_Achieved",
+            "Total_Count",
+            "Platform",
+            "Status",
+            "Reason_Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users obtained the \"Announcer\" badge?",
+        "data": [
+            [
+                "Announcer",
+                "U_4921",
+                "7/12/2023",
+                "6",
+                "Community Hub",
+                "Active",
+                "Share_Link"
+            ],
+            [
+                "Announcement_Master",
+                "U_X102",
+                "8/05/2023",
+                "N/A",
+                "Forum Beta",
+                "Inactive",
+                "Auto_Grant"
+            ],
+            [
+                "Public_Speaker",
+                "U_B991",
+                "Jan 15, 2022",
+                "N/D",
+                "Event Portal",
+                "Pending",
+                "Manual_Approval"
+            ],
+            [
+                "Voice_of_Community",
+                "U_C334",
+                "Dec 31, 1999",
+                "0",
+                "Legacy System",
+                "Archived",
+                "Deprecated"
+            ],
+            [
+                "Broadcast_Pro",
+                "U_D777",
+                "Feb 28, 2100",
+                "N/E",
+                "Test Environment",
+                "Draft",
+                "Sandbox_Test"
+            ],
+            [
+                "Global_News",
+                "E_F111",
+                "Mar 1, 1950",
+                "null",
+                "Historical DB",
+                "Retired",
+                "Data_Loss"
+            ],
+            [
+                "Trend_Setter",
+                "G_H222",
+                "Apr 14, 2005",
+                "42",
+                "Social Feed",
+                "Verified",
+                "Viral_Post"
+            ]
+        ]
+    }
+}

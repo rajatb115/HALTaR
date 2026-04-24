@@ -1,0 +1,45 @@
+{
+    "table-1386-1386": {
+        "title": [
+            "Student ID",
+            "Student Name",
+            "Income Generated"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Student Income Overview",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which student was able to generate income more than $40?",
+        "data": [
+            [
+                "101",
+                "Alice Smith",
+                "$55"
+            ],
+            [
+                "102",
+                "Bob Johnson",
+                "$30"
+            ],
+            [
+                "103",
+                "Charlie Brown",
+                "$45"
+            ],
+            [
+                "104",
+                "Diana Lee",
+                "$60"
+            ],
+            [
+                "105",
+                "Eve Wilson",
+                "$35"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-172-172": {
+        "title": [
+            "Region",
+            "Crime Category",
+            "Total Incidents",
+            "Reported Cases",
+            "Clearance Rate (%)",
+            "Police Officers Assigned",
+            "Budget Allocated (CZK)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the difference in the number of crimes committed in East and North Bohemia in 1996?",
+        "data": [
+            [
+                "East Bohemia",
+                "Theft",
+                "452",
+                "389",
+                "72",
+                "N/A",
+                "85000"
+            ],
+            [
+                "North Bohemia",
+                "Theft",
+                "N/A",
+                "512",
+                "N/A",
+                "92",
+                ""
+            ],
+            [
+                "East Bohemia",
+                "Assault",
+                "67",
+                "0",
+                "",
+                "",
+                ""
+            ],
+            [
+                "North Bohemia",
+                "Assault",
+                "N/A",
+                "89",
+                "",
+                "",
+                ""
+            ],
+            [
+                "East Bohemia",
+                "Burglary",
+                "N/A",
+                "123",
+                "",
+                "",
+                ""
+            ],
+            [
+                "North Bohemia",
+                "Burglary",
+                "N/A",
+                "N/A",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

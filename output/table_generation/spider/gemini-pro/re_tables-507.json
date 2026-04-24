@@ -1,0 +1,43 @@
+{
+    "table-507-507": {
+        "title": [
+            "Government Form",
+            "Population Served",
+            "Average Life Expectancy"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Government Forms and Population Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the different government forms and what is the total population of each for government forms that have an average life expectancy greater than 72?",
+        "data": [
+            [
+                "Medicare",
+                "65 Million",
+                "78 Years"
+            ],
+            [
+                "Social Security",
+                "70 Million",
+                "79 Years"
+            ],
+            [
+                "Medicaid",
+                "80 Million",
+                "75 Years"
+            ],
+            [
+                "SNAP",
+                "40 Million",
+                "73 Years"
+            ],
+            [
+                "Federal Housing Assistance",
+                "10 Million",
+                "76 Years"
+            ]
+        ]
+    }
+}

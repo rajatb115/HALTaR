@@ -1,0 +1,37 @@
+{
+    "table-197-197": {
+        "title": [
+            "Template Type Code",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Template Types",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the type code of the template type with the description \"Book\".",
+        "data": [
+            [
+                "BK",
+                "Book"
+            ],
+            [
+                "CD",
+                "Compact Disc"
+            ],
+            [
+                "DVD",
+                "Digital Video Disc"
+            ],
+            [
+                "MAG",
+                "Magazine"
+            ],
+            [
+                "MAP",
+                "Map"
+            ]
+        ]
+    }
+}

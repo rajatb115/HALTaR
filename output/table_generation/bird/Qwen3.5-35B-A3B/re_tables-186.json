@@ -1,0 +1,85 @@
+{
+    "table-186-186": {
+        "title": [
+            "Branch Location",
+            "Total Customers",
+            "Female Count",
+            "Male Count",
+            "Proportion Female (%)",
+            "Data Source Date",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What proportion of customers who have accounts at the Prague branch are female?",
+        "data": [
+            [
+                "Prague",
+                "450",
+                "",
+                "",
+                "67%",
+                "Q3 2024",
+                "Verified"
+            ],
+            [
+                "Brno",
+                "520",
+                "N/A",
+                "N/A",
+                "0%",
+                "N/D",
+                "Inactive"
+            ],
+            [
+                "Ostrava",
+                "890",
+                "",
+                "",
+                "0%",
+                "Pending",
+                "Reviewing"
+            ],
+            [
+                "Liberec",
+                "710",
+                "",
+                "",
+                "0%",
+                "Delayed",
+                "Audit"
+            ],
+            [
+                "Plzen",
+                "930",
+                "",
+                "",
+                "0%",
+                "Finalized",
+                "Complete"
+            ],
+            [
+                "Hradec Kralove",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Suspended"
+            ],
+            [
+                "Zlin",
+                "0",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

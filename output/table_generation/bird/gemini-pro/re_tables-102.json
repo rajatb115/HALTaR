@@ -1,0 +1,39 @@
+{
+    "table-102-102": {
+        "title": [
+            "Account ID",
+            "First Trade Date"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Earliest Trading Dates by Account in 1995",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the accounts who have the earliest trading date in 1995 ?",
+        "data": [
+            [
+                "12345",
+                "1995-01-03"
+            ],
+            [
+                "67890",
+                "1995-01-05"
+            ],
+            [
+                "24680",
+                "1995-01-10"
+            ],
+            [
+                "13579",
+                "1995-01-12"
+            ],
+            [
+                "98765",
+                "1995-01-15"
+            ]
+        ]
+    }
+}

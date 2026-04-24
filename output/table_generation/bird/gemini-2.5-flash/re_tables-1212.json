@@ -1,0 +1,61 @@
+{
+    "table-1212-1212": {
+        "title": [
+            "Patient ID",
+            "Age (Years)",
+            "LDH Level (U/L)",
+            "LDH Deviation from Normal (U/L)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the ID and age of patient with lactate dehydrogenase (LDH) between 100-300 index above the normal range.",
+        "data": [
+            [
+                "P001",
+                "45",
+                "385",
+                "105"
+            ],
+            [
+                "P002",
+                "62",
+                "430",
+                "150"
+            ],
+            [
+                "P003",
+                "38",
+                "480",
+                "200"
+            ],
+            [
+                "P004",
+                "71",
+                "530",
+                "250"
+            ],
+            [
+                "P005",
+                "55",
+                "575",
+                "295"
+            ],
+            [
+                "P006",
+                "29",
+                "400",
+                "120"
+            ],
+            [
+                "P007",
+                "68",
+                "500",
+                "220"
+            ]
+        ]
+    }
+}

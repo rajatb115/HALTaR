@@ -1,0 +1,61 @@
+{
+    "table-531-531": {
+        "title": [
+            "Record Company",
+            "Founding Year",
+            "Headquarters",
+            "Notable Orchestra Association"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the record companies of orchestras, sorted descending by the years in which they were founded.",
+        "data": [
+            [
+                "Columbia Records",
+                "1887",
+                "New York, USA",
+                "New York Philharmonic"
+            ],
+            [
+                "Deutsche Grammophon",
+                "1898",
+                "Berlin, Germany",
+                "Berlin Philharmonic"
+            ],
+            [
+                "Decca Records",
+                "1929",
+                "London, UK",
+                "Royal Concertgebouw Orchestra"
+            ],
+            [
+                "Harmonia Mundi",
+                "1958",
+                "Arles, France",
+                "Freiburger Barockorchester"
+            ],
+            [
+                "Naxos",
+                "1987",
+                "Hong Kong, China",
+                "Bournemouth Symphony Orchestra"
+            ],
+            [
+                "Warner Classics",
+                "1990",
+                "London, UK",
+                "London Symphony Orchestra"
+            ],
+            [
+                "Pentatone",
+                "2001",
+                "Baarn, Netherlands",
+                "Netherlands Radio Philharmonic"
+            ]
+        ]
+    }
+}

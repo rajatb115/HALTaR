@@ -1,0 +1,85 @@
+{
+    "table-1349-1349": {
+        "title": [
+            "Project Name",
+            "Budget Category",
+            "Planned Amount",
+            "Actual Spend",
+            "Status",
+            "Exceeded By",
+            "Variance %"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the budgets for \"November Meeting\", how many of them had exceeded the budget?",
+        "data": [
+            [
+                "November Meeting",
+                "Venue Rental",
+                "$4,500",
+                "$6,207",
+                "Over Budget",
+                "$1,707",
+                "38%"
+            ],
+            [
+                "November Meeting",
+                "Catering Services",
+                "$3,250",
+                "N/A",
+                "Under Budget",
+                "-$325",
+                "-10%"
+            ],
+            [
+                "November Meeting",
+                "Audio/Visual Equipment",
+                "$2,100",
+                "$5,800",
+                "Over Budget",
+                "$3,750",
+                "179%"
+            ],
+            [
+                "November Meeting",
+                "Guest Speakers Fees",
+                "$8,000",
+                "$12,400",
+                "Over Budget",
+                "$4,450",
+                "56%"
+            ],
+            [
+                "November Meeting",
+                "Marketing Materials",
+                "$950",
+                "$955",
+                "Over Budget",
+                "$5",
+                "1%"
+            ],
+            [
+                "November Meeting",
+                "Travel Expenses",
+                "$0",
+                "$0",
+                "Under Budget",
+                "$0",
+                "0%"
+            ],
+            [
+                "November Meeting",
+                "Contingency Fund",
+                "$755",
+                "$1,210",
+                "Over Budget",
+                "$455",
+                "60%"
+            ]
+        ]
+    }
+}

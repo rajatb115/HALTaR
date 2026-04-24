@@ -1,0 +1,62 @@
+{
+    "table-616-616": {
+        "title": [
+            "Treatment Name",
+            "Date Administered",
+            "Treatment Type",
+            "Cost (USD)",
+            "Provider"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much does the most recent treatment cost?",
+        "data": [
+            [
+                "Immunotherapy for Melanoma",
+                "2023-12-05",
+                "Oncology",
+                "150000",
+                "Global Health Clinic"
+            ],
+            [
+                "Gene Therapy for SMA",
+                "2023-11-15",
+                "Genetic",
+                "2100000",
+                "Children's Hospital"
+            ],
+            [
+                "Experimental Alzheimer's Drug",
+                "2023-11-01",
+                "Neurology",
+                "26500",
+                "NeuroCare Institute"
+            ],
+            [
+                "Advanced Robotic Surgery",
+                "2023-10-01",
+                "Orthopedic",
+                "85000",
+                "Elite Surgical Group"
+            ],
+            [
+                "CAR T-Cell Therapy",
+                "2023-09-28",
+                "Oncology",
+                "475000",
+                "Cancer Center USA"
+            ],
+            [
+                "Proton Beam Therapy",
+                "2023-08-20",
+                "Radiation",
+                "120000",
+                "University Medical Center"
+            ]
+        ]
+    }
+}

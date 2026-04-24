@@ -1,0 +1,45 @@
+{
+    "table-651-651": {
+        "title": [
+            "Singer Name",
+            "Total Sales"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For each singer name, what is the total sales for their songs?",
+        "data": [
+            [
+                "Adele",
+                "$125,345,123"
+            ],
+            [
+                "Ed Sheeran",
+                "$98,765,432"
+            ],
+            [
+                "Taylor Swift",
+                "$150,123,456"
+            ],
+            [
+                "Bruno Mars",
+                "$75,678,901"
+            ],
+            [
+                "Billie Eilish",
+                "$60,456,789"
+            ],
+            [
+                "The Weeknd",
+                "$88,901,234"
+            ],
+            [
+                "Dua Lipa",
+                "$55,112,233"
+            ]
+        ]
+    }
+}

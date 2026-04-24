@@ -1,0 +1,43 @@
+{
+    "table-594-594": {
+        "title": [
+            "First_Name",
+            "Last_Name",
+            "Dog_Size_Inches"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List each owner's first name, last name, and the size of his for her dog.",
+        "data": [
+            [
+                "John",
+                "Smith",
+                "42"
+            ],
+            [
+                "Maria",
+                "Garcia",
+                "36"
+            ],
+            [
+                "David",
+                "Chen",
+                "50"
+            ],
+            [
+                "Sarah",
+                "Johnson",
+                "8"
+            ],
+            [
+                "Michael",
+                "Brown",
+                "72"
+            ]
+        ]
+    }
+}

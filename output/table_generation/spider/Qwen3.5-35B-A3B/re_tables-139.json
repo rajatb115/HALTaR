@@ -1,0 +1,43 @@
+{
+    "table-139-139": {
+        "title": [
+            "Flight Number",
+            "Origin City",
+            "Destination Airport",
+            "Departure Time",
+            "Airline",
+            "Status",
+            "Aircraft Type",
+            "Gate"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the flight numbers of flights leaving from Aberdeen.",
+        "data": [
+            [
+                "AB402",
+                "Aberdeen",
+                "London Heathrow",
+                "06:15",
+                "British Airways",
+                "On Time",
+                "Airbus A320",
+                "C12"
+            ],
+            [
+                "#AB715",
+                "Aberdeen",
+                "Edinburgh",
+                "07:30",
+                "Loganair",
+                "Delayed",
+                "ATR 72",
+                "B04"
+            ]
+        ]
+    }
+}

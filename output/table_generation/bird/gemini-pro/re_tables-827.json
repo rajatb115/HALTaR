@@ -1,0 +1,39 @@
+{
+    "table-827-827": {
+        "title": [
+            "Superhero Name",
+            "Estimated Weight (lbs)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "DC Comics Superheroes by Weight",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the heaviest superhero in DC Comics.",
+        "data": [
+            [
+                "Superman",
+                "225"
+            ],
+            [
+                "Batman",
+                "210"
+            ],
+            [
+                "Wonder Woman",
+                "165"
+            ],
+            [
+                "Aquaman",
+                "325"
+            ],
+            [
+                "Doomsday",
+                "700"
+            ]
+        ]
+    }
+}

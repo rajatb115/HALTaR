@@ -1,0 +1,85 @@
+{
+    "table-420-420": {
+        "title": [
+            "Nationality Code",
+            "Country Name",
+            "Region",
+            "Population Estimate",
+            "Official Language",
+            "ISO Alpha-2"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many distinct nationalities are there?",
+        "data": [
+            [
+                "US",
+                "United States",
+                "North America",
+                "334000671",
+                "English",
+                "US"
+            ],
+            [
+                "CN",
+                "China",
+                "Asia",
+                "00",
+                "Mandarin Chinese",
+                "CN"
+            ],
+            [
+                "IN",
+                "India",
+                "Asia / South Asia",
+                "N/A",
+                "Hindi",
+                "IN"
+            ],
+            [
+                "BR",
+                "Brazil",
+                "South America",
+                "N/A",
+                "Portuguese",
+                "BR"
+            ],
+            [
+                "DE",
+                "Germany",
+                "Europe",
+                "N/A",
+                "German",
+                "DE"
+            ],
+            [
+                "JP",
+                "Japan",
+                "Asia/East Asia",
+                "NA",
+                "Japanese",
+                "JP"
+            ],
+            [
+                "FR",
+                "France",
+                "Western Europe",
+                "NA",
+                "French",
+                "FR"
+            ],
+            [
+                "AU",
+                "Australia",
+                "Oceania",
+                "NA",
+                "Australian English",
+                "AU"
+            ]
+        ]
+    }
+}

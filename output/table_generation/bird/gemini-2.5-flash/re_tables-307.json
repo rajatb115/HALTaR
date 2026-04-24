@@ -1,0 +1,69 @@
+{
+    "table-307-307": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Triple Bond Type",
+            "Number of Triple Bonds",
+            "Elements Present"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which molecules have triple bonds and list all the elements they contain.",
+        "data": [
+            [
+                "Acetylene",
+                "C2H2",
+                "C\u2261C",
+                "1",
+                "Carbon, Hydrogen"
+            ],
+            [
+                "Nitrogen Gas",
+                "N2",
+                "N\u2261N",
+                "1",
+                "Nitrogen"
+            ],
+            [
+                "Carbon Monoxide",
+                "CO",
+                "C\u2261O",
+                "1",
+                "Carbon, Oxygen"
+            ],
+            [
+                "Hydrogen Cyanide",
+                "HCN",
+                "C\u2261N",
+                "1",
+                "Hydrogen, Carbon, Nitrogen"
+            ],
+            [
+                "Propyne",
+                "C3H4",
+                "C\u2261C",
+                "1",
+                "Carbon, Hydrogen"
+            ],
+            [
+                "Cyanogen",
+                "C2N2",
+                "C\u2261N",
+                "2",
+                "Carbon, Nitrogen"
+            ],
+            [
+                "But-1-yne",
+                "C4H6",
+                "C\u2261C",
+                "1",
+                "Carbon, Hydrogen"
+            ]
+        ]
+    }
+}

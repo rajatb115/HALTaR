@@ -1,0 +1,46 @@
+{
+    "table-112-112": {
+        "title": [
+            "City",
+            "Year",
+            "Account Openings"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Account Openings by Location and Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts were opened in Litomerice in 1996?",
+        "data": [
+            [
+                "Litomerice",
+                "1994",
+                "35"
+            ],
+            [
+                "Litomerice",
+                "1995",
+                "42"
+            ],
+            [
+                "Litomerice",
+                "1996",
+                "58"
+            ],
+            [
+                "Litomerice",
+                "1997",
+                "61"
+            ],
+            [
+                "Litomerice",
+                "1998",
+                "55"
+            ]
+        ]
+    }
+}

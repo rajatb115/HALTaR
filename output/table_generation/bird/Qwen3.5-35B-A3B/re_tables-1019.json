@@ -1,0 +1,77 @@
+{
+    "table-1019-1019": {
+        "title": [
+            "Driver",
+            "Race Event",
+            "Pit Stop Duration (ms)",
+            "Lap Number",
+            "Tire Change",
+            "Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the average time in milliseconds Lewis Hamilton spent at a pit stop during Formula_1 races?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "Monaco Grand Prix",
+                "420",
+                "34",
+                "Front Left/Right",
+                "7 May 23"
+            ],
+            [
+                "Lewis Hamilton",
+                "British GP",
+                "610",
+                "-",
+                "All Four Tires",
+                "9 July 22"
+            ],
+            [
+                "Lewis Hamilton",
+                "Hungarian Grand Prix",
+                "550",
+                "N/A",
+                "Rear Only",
+                "8 Aug 21"
+            ],
+            [
+                "Lewis Hamilton",
+                "Italian Grand Prix",
+                "0",
+                "DNF",
+                "No Service",
+                "11 Sep 24"
+            ],
+            [
+                "Lewis Hamilton",
+                "Singapore Grand Prix",
+                "480",
+                "12",
+                "Slicks to Wets",
+                "1 Oct 25"
+            ],
+            [
+                "Lewis Hamilton",
+                "Abu Dhabi Grand Prix",
+                "",
+                "N/A",
+                "Puncture Repair",
+                "Dec 26"
+            ],
+            [
+                "Lewis Hamilton",
+                "Qatar Grand Prix",
+                "",
+                "Retired",
+                "Mechanical Issue",
+                "Jan 27"
+            ]
+        ]
+    }
+}

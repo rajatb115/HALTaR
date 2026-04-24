@@ -1,0 +1,51 @@
+{
+    "table-1354-1354": {
+        "title": [
+            "Name",
+            "Address",
+            "Zip Code",
+            "Zip Code Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Resident Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What's Christof Nielson's zip code type?",
+        "data": [
+            [
+                "Christof Nielson",
+                "123 Highland Rd",
+                "90210",
+                "Standard"
+            ],
+            [
+                "Jane Doe",
+                "456 Lowland Ave",
+                "10001",
+                "Unique"
+            ],
+            [
+                "John Smith",
+                "789 Country Ln",
+                "60611",
+                "Standard"
+            ],
+            [
+                "Alice Brown",
+                "1011 City Blvd",
+                "94105",
+                "PO Box"
+            ],
+            [
+                "Bob Williams",
+                "1213 Suburban Dr",
+                "30303",
+                "Standard"
+            ]
+        ]
+    }
+}

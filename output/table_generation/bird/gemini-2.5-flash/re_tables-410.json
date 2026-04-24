@@ -1,0 +1,37 @@
+{
+    "table-410-410": {
+        "title": [
+            "Card Name",
+            "Set",
+            "Format",
+            "Ability Classification",
+            "Oracle Text Snippet",
+            "Has Multiple Faces"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicates the number of cards with pre-modern format, ruling text \"This is a triggered mana ability\" that do not have multiple faces.",
+        "data": [
+            [
+                "Mirari's Wake",
+                "Judgment",
+                "Pre-Modern",
+                "Triggered Mana",
+                "Whenever you tap a land for mana, add one mana of any type that land produced.",
+                "No"
+            ],
+            [
+                "Mana Flare",
+                "Alpha",
+                "Pre-",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

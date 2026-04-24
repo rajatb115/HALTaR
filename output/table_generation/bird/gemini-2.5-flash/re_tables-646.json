@@ -1,0 +1,77 @@
+{
+    "table-646-646": {
+        "title": [
+            "Comment ID",
+            "User ID",
+            "Sentiment",
+            "Date Posted",
+            "Likes",
+            "Dislikes"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many negative comments were given by user ID 13?",
+        "data": [
+            [
+                "1001",
+                "13",
+                "Negative",
+                "2023-10-26",
+                "2",
+                "15"
+            ],
+            [
+                "1002",
+                "25",
+                "Positive",
+                "2023-10-26",
+                "45",
+                "3"
+            ],
+            [
+                "1003",
+                "13",
+                "Neutral",
+                "2023-10-25",
+                "8",
+                "1"
+            ],
+            [
+                "1004",
+                "13",
+                "Negative",
+                "2023-10-25",
+                "1",
+                "22"
+            ],
+            [
+                "1005",
+                "42",
+                "Negative",
+                "2023-10-24",
+                "5",
+                "10"
+            ],
+            [
+                "1006",
+                "13",
+                "Positive",
+                "2023-10-24",
+                "30",
+                "0"
+            ],
+            [
+                "1007",
+                "5",
+                "Neutral",
+                "2023-10-23",
+                "12",
+                "2"
+            ]
+        ]
+    }
+}

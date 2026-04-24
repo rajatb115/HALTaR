@@ -1,0 +1,69 @@
+{
+    "table-803-803": {
+        "title": [
+            "Superhero Name",
+            "Height (cm)",
+            "Height (ft/in)",
+            "Universe",
+            "Key Ability"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the tallest superhero?",
+        "data": [
+            [
+                "Hulk",
+                "259",
+                "8'6\"",
+                "Marvel",
+                "Super Strength"
+            ],
+            [
+                "Thor",
+                "198",
+                "6'6\"",
+                "Marvel",
+                "Asgardian Physiology"
+            ],
+            [
+                "Superman",
+                "191",
+                "6'3\"",
+                "DC",
+                "Flight"
+            ],
+            [
+                "Martian Manhunter",
+                "201",
+                "6'7\"",
+                "DC",
+                "Shapeshifting"
+            ],
+            [
+                "Groot",
+                "232",
+                "7'7\"",
+                "Marvel",
+                "Regenerative Healing"
+            ],
+            [
+                "Colossus",
+                "226",
+                "7'5\"",
+                "Marvel",
+                "Organic Steel Form"
+            ],
+            [
+                "Wonder Woman",
+                "183",
+                "6'0\"",
+                "DC",
+                "Super Strength"
+            ]
+        ]
+    }
+}

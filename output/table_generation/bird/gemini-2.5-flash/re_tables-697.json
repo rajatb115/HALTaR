@@ -1,0 +1,61 @@
+{
+    "table-697-697": {
+        "title": [
+            "Tag Name",
+            "Post Count",
+            "Last Updated",
+            "Category"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of posts with a tag specified as 'careers'.",
+        "data": [
+            [
+                "careers",
+                "1250",
+                "2023-10-26",
+                "Employment"
+            ],
+            [
+                "jobs",
+                "890",
+                "2023-10-25",
+                "Employment"
+            ],
+            [
+                "interview-tips",
+                "450",
+                "2023-10-24",
+                "Professional Development"
+            ],
+            [
+                "resume-writing",
+                "310",
+                "2023-10-23",
+                "Professional Development"
+            ],
+            [
+                "career-advice",
+                "720",
+                "2023-10-26",
+                "Employment"
+            ],
+            [
+                "salary",
+                "280",
+                "2023-10-22",
+                "Compensation"
+            ],
+            [
+                "remote-work",
+                "550",
+                "2023-10-25",
+                "Work-Life"
+            ]
+        ]
+    }
+}

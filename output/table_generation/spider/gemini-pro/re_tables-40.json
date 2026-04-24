@@ -1,0 +1,51 @@
+{
+    "table-40-40": {
+        "title": [
+            "Student ID",
+            "Student Name",
+            "Pet Type",
+            "Has Pet"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Students Without Specific Pets",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the id of students who do not have a cat pet.",
+        "data": [
+            [
+                "101",
+                "Alice Smith",
+                "Dog",
+                "True"
+            ],
+            [
+                "102",
+                "Bob Johnson",
+                "None",
+                "False"
+            ],
+            [
+                "103",
+                "Charlie Brown",
+                "Bird",
+                "True"
+            ],
+            [
+                "104",
+                "David Lee",
+                "Dog",
+                "True"
+            ],
+            [
+                "105",
+                "Emily Wilson",
+                "None",
+                "False"
+            ]
+        ]
+    }
+}

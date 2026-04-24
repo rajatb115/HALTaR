@@ -1,0 +1,51 @@
+{
+    "table-443-443": {
+        "title": [
+            "Set Name",
+            "Block",
+            "Set Code",
+            "Base Set Size"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Magic: The Gathering Set Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Mention the base set size and set code of the set that was in block named \"Masques\" and \"Mirage\".",
+        "data": [
+            [
+                "Mercadian Masques",
+                "Masques",
+                "MMQ",
+                "350"
+            ],
+            [
+                "Nemesis",
+                "Masques",
+                "NEM",
+                "143"
+            ],
+            [
+                "Prophecy",
+                "Masques",
+                "PCY",
+                "143"
+            ],
+            [
+                "Mirage",
+                "Mirage",
+                "MIR",
+                "350"
+            ],
+            [
+                "Visions",
+                "Mirage",
+                "VIS",
+                "167"
+            ]
+        ]
+    }
+}

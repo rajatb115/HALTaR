@@ -1,0 +1,61 @@
+{
+    "table-1174-1174": {
+        "title": [
+            "Patient ID",
+            "Lab Date Range",
+            "Identified Illness",
+            "Doctor Notes",
+            "Severity Level",
+            "Treatment Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the most common illness that doctors identified among the patients whose lab work was done between 1/1/1985, and 12/31/1995?",
+        "data": [
+            [
+                "P-1042",
+                "01/05/1886 - 11/20/1785",
+                "Influenza",
+                "Confirmed via serology",
+                "Moderate",
+                "Resolved"
+            ],
+            [
+                "P-A991",
+                "3/12/-1900 - 6/01/-1899",
+                "Tuberculosis",
+                "Chest X-ray positive",
+                "Severe",
+                "Ongoing"
+            ],
+            [
+                "B-2201",
+                "-1950-01-02 / -1949-12-31",
+                "Malaria",
+                "Blood smear analysis",
+                "Mild",
+                "Completed"
+            ],
+            [
+                "C-5543",
+                "7/15/2100 / 7/16/2221",
+                "Diabetes Mellitus",
+                "Glucose tolerance test failed",
+                "Chronic",
+                "Managed"
+            ],
+            [
+                "D-8812",
+                "-1010-11-15 / -0999-05-20",
+                "Pneumonia",
+                "Sputum culture growth",
+                "Acute",
+                "Hospitalized"
+            ]
+        ]
+    }
+}

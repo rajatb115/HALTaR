@@ -1,0 +1,45 @@
+{
+    "table-192-192": {
+        "title": [
+            "Loan Account",
+            "Pre-payment Duration (Months)",
+            "Statement Issuance Frequency"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Loan Account Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many loan accounts are for pre-payment of duration of 24 months with weekly issuance of statement.",
+        "data": [
+            [
+                "Account A",
+                "24",
+                "Weekly"
+            ],
+            [
+                "Account B",
+                "12",
+                "Monthly"
+            ],
+            [
+                "Account C",
+                "24",
+                "Bi-weekly"
+            ],
+            [
+                "Account D",
+                "36",
+                "Weekly"
+            ],
+            [
+                "Account E",
+                "24",
+                "Weekly"
+            ]
+        ]
+    }
+}

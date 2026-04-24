@@ -1,0 +1,76 @@
+{
+    "table-898-898": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Average Points Per Race",
+            "Total Wins",
+            "Active Years"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the driver with the most winning. Mention his nationality and what is his average point scores.",
+        "data": [
+            [
+                "Max Verstappen",
+                "Dutch",
+                "46.7",
+                "62",
+                "2015\u2013Present"
+            ],
+            [
+                "Lewis Hamilton",
+                "British",
+                "52.1",
+                "70",
+                "2007\u2013Present"
+            ],
+            [
+                "Michael Schumacher",
+                "German",
+                "9.2",
+                "?",
+                "N/A"
+            ],
+            [
+                "Sebastian Vettel",
+                "German",
+                "0.0",
+                "*",
+                "*"
+            ],
+            [
+                "Fernando Alonso",
+                "Spanish",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Charles Leclerc",
+                "Monegasque",
+                ".",
+                "/",
+                "- Present"
+            ],
+            [
+                "Lando Norris",
+                "British",
+                "**",
+                "**/**",
+                "***/***"
+            ],
+            [
+                "Carlos Sainz Jr.",
+                "Spanish",
+                "***",
+                "***/*",
+                "****/****"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-874-874": {
+        "title": [
+            "Driver Name",
+            "Race Number",
+            "Finish Position",
+            "Finish Time",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the actual finish time for Bruce McLaren in the race No.743?",
+        "data": [
+            [
+                "Bruce McLaren",
+                "743",
+                "1",
+                "01:32:45.123",
+                "Finished"
+            ],
+            [
+                "Jim Clark",
+                "743",
+                "2",
+                "01:32:45.890",
+                "Finished"
+            ],
+            [
+                "Graham Hill",
+                "743",
+                "3",
+                "01:33:01.234",
+                "Finished"
+            ],
+            [
+                "Jack Brabham",
+                "744",
+                "1",
+                "01:31:59.001",
+                "Finished"
+            ],
+            [
+                "Denny Hulme",
+                "744",
+                "2",
+                "01:32:05.456",
+                "Finished"
+            ],
+            [
+                "Bruce McLaren",
+                "745",
+                "DNF",
+                "N/A",
+                "Retired"
+            ]
+        ]
+    }
+}

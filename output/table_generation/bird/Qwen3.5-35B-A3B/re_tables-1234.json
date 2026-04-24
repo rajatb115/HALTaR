@@ -1,0 +1,76 @@
+{
+    "table-1234-1234": {
+        "title": [
+            "Patient_ID",
+            "GLU_Index",
+            "Recording_Year",
+            "Status",
+            "Unit",
+            "Source_System",
+            "Lab_Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List each patient's ID and blood glucose (GLU) index that were within normal range for patient's whose data was first recorded in 1991.",
+        "data": [
+            [
+                "P-4092",
+                "92 mg/dL",
+                "01/15/1961",
+                "Normal",
+                "mg/dL",
+                "Lab_A",
+                "LBC-101"
+            ],
+            [
+                "P-A773",
+                "88 mg/dL",
+                "03/22/1891",
+                "Abnormal",
+                "mg/dL",
+                "Lab_B",
+                "LBA-204"
+            ],
+            [
+                "P-B119",
+                "76 mg/dL",
+                "05/04/1791",
+                "Normal",
+                "mg/dL",
+                "Lab_C",
+                "LBB-305"
+            ],
+            [
+                "P-C554",
+                "65 mg/dL",
+                "04/28/1691",
+                "Normal",
+                "mg/dL",
+                "Lab_D",
+                "LBD-412"
+            ],
+            [
+                "P-D881",
+                "102 mg/dL",
+                "12/01/1991",
+                "Abnormal",
+                "mg/dL",
+                "Lab_E",
+                "LBE-513"
+            ],
+            [
+                "P-E220",
+                "95 mg/dL",
+                "09/11/091",
+                "Normal",
+                "mg/dL",
+                "",
+                ""
+            ]
+        ]
+    }
+}

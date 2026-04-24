@@ -1,0 +1,69 @@
+{
+    "table-138-138": {
+        "title": [
+            "Account ID",
+            "Account Name",
+            "Contract Status",
+            "Branch Location ID",
+            "Contract End Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts have running contracts in Branch location 1?",
+        "data": [
+            [
+                "1001",
+                "Global Corp",
+                "Running",
+                "1",
+                "2025-11-30"
+            ],
+            [
+                "1002",
+                "Tech Solutions",
+                "Running",
+                "1",
+                "2024-12-15"
+            ],
+            [
+                "1003",
+                "Innovate Ltd",
+                "Expired",
+                "1",
+                "2023-07-01"
+            ],
+            [
+                "1004",
+                "Future Systems",
+                "Running",
+                "2",
+                "2026-03-20"
+            ],
+            [
+                "1005",
+                "Data Insights",
+                "Pending",
+                "1",
+                "N/A"
+            ],
+            [
+                "1006",
+                "Apex Services",
+                "Running",
+                "1",
+                "2025-09-01"
+            ],
+            [
+                "1007",
+                "Quantum Logic",
+                "Running",
+                "3",
+                "2024-10-31"
+            ]
+        ]
+    }
+}

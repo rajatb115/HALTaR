@@ -1,0 +1,76 @@
+{
+    "table-72-72": {
+        "title": [
+            "Car Model",
+            "Cylinders",
+            "MPG",
+            "Fuel Type",
+            "Engine Size"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average miles per gallon(mpg) of the cars with 4 cylinders?",
+        "data": [
+            [
+                "Toyota Corolla",
+                "4",
+                "32",
+                "Gasoline",
+                "67 cu in"
+            ],
+            [
+                "Honda Civic",
+                "5",
+                "8",
+                "Diesel",
+                "N/A"
+            ],
+            [
+                "Ford Focus",
+                "7",
+                "9",
+                "Electric",
+                "N/AN/A"
+            ],
+            [
+                "Mazda3",
+                "0",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Chevrolet Cruze",
+                "4",
+                "30",
+                "Gasoline",
+                "65 cu in"
+            ],
+            [
+                "Hyundai Elantra",
+                "-",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Volkswagen Jetta",
+                "+",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Subaru Impreza",
+                "/",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

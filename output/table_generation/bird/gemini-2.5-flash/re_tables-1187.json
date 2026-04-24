@@ -1,0 +1,69 @@
+{
+    "table-1187-1187": {
+        "title": [
+            "Patient ID",
+            "Patient Name",
+            "Diagnosis",
+            "Exam Date",
+            "Physician"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Lists all patients by ID who were diagnosed with Behcet's and had their exams between 01/01/197 and 12/31/1997.",
+        "data": [
+            [
+                "P1001",
+                "Alice Smith",
+                "Behcet's Disease",
+                "1972-03-15",
+                "Dr. Eleanor Vance"
+            ],
+            [
+                "P1002",
+                "Robert Johnson",
+                "Behcet's Disease",
+                "1985-11-22",
+                "Dr. Marcus Thorne"
+            ],
+            [
+                "P1003",
+                "Carol White",
+                "Behcet's Disease",
+                "1990-07-01",
+                "Dr. Olivia Reed"
+            ],
+            [
+                "P1004",
+                "David Brown",
+                "Behcet's Disease",
+                "1978-09-10",
+                "Dr. Eleanor Vance"
+            ],
+            [
+                "P1005",
+                "Emily Davis",
+                "Behcet's Disease",
+                "1995-04-20",
+                "Dr. Marcus Thorne"
+            ],
+            [
+                "P1006",
+                "Frank Miller",
+                "Behcet's Disease",
+                "1981-01-05",
+                "Dr. Olivia Reed"
+            ],
+            [
+                "P1007",
+                "Grace Wilson",
+                "Behcet's Disease",
+                "1997-12-10",
+                "Dr. Eleanor Vance"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1459-1459": {
+        "title": [
+            "State",
+            "Member Percentage",
+            "Data Source",
+            "Calculation Date",
+            "Difference from National Avg",
+            "Rank by Membership"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the difference in the percentage of members in Maine and Vermont.",
+        "data": [
+            [
+                "Maine",
+                "64.2%",
+                "Census Bureau",
+                "01/01/YYYY",
+                "+2.1%",
+                "7th"
+            ],
+            [
+                "Vermont",
+                "58.5%",
+                "Local Registry",
+                "31/12/YYYY",
+                "-3.6%",
+                "N/A"
+            ],
+            [
+                "Difference",
+                "4.7%",
+                "Calculated Field",
+                "N/D",
+                "N/N",
+                "N/Rank"
+            ],
+            [
+                "National Average",
+                "85.0%",
+                "Federal Report",
+                "99/99/YEAR",
+                "",
+                "N/A"
+            ],
+            [
+                "Maine vs VT Gap",
+                "5.7pp",
+                "Statistical Model",
+                "YYYY-MM-DD",
+                "N/Calc",
+                "N/Sort"
+            ],
+            [
+                "Sample Size ME",
+                "12,450",
+                "Survey Panel",
+                "Q4-Year",
+                "N/Margin",
+                "N/Error"
+            ],
+            [
+                "Margin of Error",
+                "\u00b11.2pp",
+                "Confidence Interval",
+                "N/A",
+                "High/Low",
+                "N/Bias"
+            ]
+        ]
+    }
+}

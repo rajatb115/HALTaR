@@ -1,0 +1,85 @@
+{
+    "table-1436-1436": {
+        "title": [
+            "Event ID",
+            "Game Title",
+            "Status",
+            "Start Date",
+            "End Date",
+            "Region",
+            "Platform"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of closed event as \"game\" that was closed from 3/15/2019 to 3/20/2020.",
+        "data": [
+            [
+                "EVT-4012",
+                "Cyber Arena",
+                "Closed",
+                "31/03/2020",
+                "07/06/2021",
+                "North America",
+                "PC"
+            ],
+            [
+                "EVT-4105",
+                "Shadow Quest",
+                "Closed",
+                "15/03/2020",
+                "22/03/2020",
+                "Europe",
+                "Console"
+            ],
+            [
+                "EVE-4299",
+                "Neon Racer X",
+                "Closed",
+                "10/04/2020",
+                "",
+                "Asia",
+                "Mobile"
+            ],
+            [
+                "EVV-4331",
+                "Titan Wars II",
+                "Closed",
+                "25/05/2020",
+                "",
+                "South America",
+                "PC"
+            ],
+            [
+                "ETC-4402",
+                "Pixel Heroes",
+                "Closed",
+                "01/06/2020",
+                "",
+                "",
+                "Console"
+            ],
+            [
+                "ETT-4518",
+                "Star Drifters",
+                "Closed",
+                "05/07/2020",
+                "12/08/2020",
+                "Japan",
+                "Mobile"
+            ],
+            [
+                "ETY-4601",
+                "Void Runners",
+                "Closed",
+                "18/09/2020",
+                "24/11/2021",
+                "Worldwide",
+                "PC"
+            ]
+        ]
+    }
+}

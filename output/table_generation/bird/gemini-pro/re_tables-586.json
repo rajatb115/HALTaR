@@ -1,0 +1,37 @@
+{
+    "table-586-586": {
+        "title": [
+            "Post Title",
+            "Bounty Amount"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Bounty Information for Posts Containing 'Data'",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much is the total bounty amount of the post titled about 'data'",
+        "data": [
+            [
+                "Data Analysis Techniques",
+                "$10"
+            ],
+            [
+                "Data Science Fundamentals",
+                "$15"
+            ],
+            [
+                "Big Data Processing",
+                "$20"
+            ],
+            [
+                "Data Visualization Best Practices",
+                "$12"
+            ],
+            [
+                "Data Security Measures",
+                "$18"
+            ]
+        ]
+    }
+}

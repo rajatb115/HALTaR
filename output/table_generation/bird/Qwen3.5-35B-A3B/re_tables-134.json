@@ -1,0 +1,55 @@
+{
+    "table-134-134": {
+        "title": [
+            "District Name",
+            "Branch Location",
+            "Unemployment Rate (%)",
+            "Region Code",
+            "Data Source"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In 1996, which districts have the highest unemployment rate? List their branch location and district name.",
+        "data": [
+            [
+                "North Central",
+                "Main Street HQ",
+                "7.4",
+                "NC-01",
+                "Bureau of Labor Stats"
+            ],
+            [
+                "East River",
+                "Harbor View Office",
+                "6.9",
+                "ER-02",
+                "Regional Economic Survey"
+            ],
+            [
+                "West Valley",
+                "Summit Plaza",
+                "5.8",
+                "WV-03",
+                "Local Employment Agency"
+            ],
+            [
+                "South Bay",
+                "Coastal Center",
+                "4.2",
+                "SB-04",
+                "State Workforce Board"
+            ],
+            [
+                "Highland Park",
+                "Ridge Road Station",
+                "3.9",
+                "HP-05",
+                "Municipal Records"
+            ]
+        ]
+    }
+}

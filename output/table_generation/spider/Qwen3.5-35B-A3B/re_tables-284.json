@@ -1,0 +1,67 @@
+{
+    "table-284-284": {
+        "title": [
+            "Incident ID",
+            "Event Date",
+            "Injury Count",
+            "Severity Level",
+            "Location",
+            "Cause Category",
+            "Average Injuries per Event"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average number of injuries caused each time?",
+        "data": [
+            [
+                "INC-2024-009",
+                "06/15/2017",
+                "3",
+                "Moderate",
+                "North Zone",
+                "Collision",
+                "4.2"
+            ],
+            [
+                "INC-DATA-112",
+                "08/22/2108",
+                "7",
+                "Severe",
+                "East Sector",
+                "Structural Failure",
+                "5.1"
+            ],
+            [
+                "INC-FALLS-04",
+                "09/01/2300",
+                "6",
+                "Critical",
+                "South Dock",
+                "Slip Hazard",
+                "48.9"
+            ],
+            [
+                "INC-COLLISION-19",
+                "Jan 12, 2205",
+                "",
+                "Minor",
+                "West Gate",
+                "Equipment Malfunction",
+                "N/A"
+            ],
+            [
+                "INC-MEDICAL-77",
+                "Dec 31, 1899",
+                "",
+                "Unknown",
+                "Central Hub",
+                "Natural Disaster",
+                "N/A"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-1279-1279": {
+        "title": [
+            "Patient ID",
+            "Anti-DNA II Level",
+            "Admission Status",
+            "Hospital Unit",
+            "Date Admitted",
+            "Discharge Date",
+            "Outcome"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of the patients with an abnormal level of anti-DNA-II, how many of them admitted to the hospital?",
+        "data": [
+            [
+                "P-1042",
+                "High Positive",
+                "Yes",
+                "Cardiology Ward",
+                "06/15/2023",
+                "N/A",
+                "Stable"
+            ],
+            [
+                "P-1109",
+                "Moderate Positive",
+                "No",
+                "Outpatient Clinic",
+                "N/A",
+                "N/D",
+                "Monitored"
+            ],
+            [
+                "P-1157",
+                "Very High Positive",
+                "Yes",
+                "ICU",
+                "07/22/2023",
+                "Pending",
+                "Critical"
+            ],
+            [
+                "P-1203",
+                "Low Positive",
+                "Yes",
+                "Rheumatology",
+                "08/01/2024",
+                "N/A",
+                "Improving"
+            ],
+            [
+                "P-1288",
+                "High Positive",
+                "No",
+                "Home Care",
+                "N/A",
+                "N/D",
+                "Stable"
+            ],
+            [
+                "P-1315",
+                "Moderate Negative",
+                "Yes",
+                "General Medicine",
+                "09/10/2025",
+                "Pending",
+                "Recovering"
+            ],
+            [
+                "P-1402",
+                "Very Low Positive",
+                "Yes",
+                "Rheumatology Ward",
+                "10/05/2005",
+                "N/A",
+                "Discharged"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-837-837": {
+        "title": [
+            "Superhero Name",
+            "First Name",
+            "Last Name",
+            "Alias Note",
+            "Publisher",
+            "Debut Year",
+            "Active Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total number of superheroes that have John as their first name?",
+        "data": [
+            [
+                "John Constantine",
+                "John",
+                "Constantine",
+                "Count includes aliases like Hellblazer",
+                "DC Comics",
+                "764",
+                "Retired"
+            ],
+            [
+                "John Stewart",
+                "John",
+                "Stewart",
+                "Green Lantern Corps Member",
+                "DC/Vertigo",
+                "800",
+                "Active"
+            ],
+            [
+                "Jonny Quest",
+                "Jonny",
+                "Quest",
+                "Spelling variation 'Jon' vs 'John'",
+                "Hanna-Barbera",
+                "640",
+                "Inactive"
+            ],
+            [
+                "Johnny Storm",
+                "Johnny",
+                "Storm",
+                "Spelled 'Johnny', often grouped near 'John' queries",
+                "Marvel Comics",
+                "-590",
+                "Unknown"
+            ],
+            [
+                "Johann Schmidt",
+                "Johann",
+                "Schmidt",
+                "German spelling variant of John/Johan",
+                "Marvel Studios",
+                "400s",
+                "Deceased"
+            ],
+            [
+                "Jonathan Kent",
+                "Jonathan",
+                "Kent",
+                "Superman's Father (Often referred to as Clark's dad in lists)",
+                "DC Universe",
+                "380",
+                "N/A"
+            ],
+            [
+                "Jack Kirby",
+                "Jack",
+                "Kirby",
+                "Creator (Not a superhero but listed for context on character creation)",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

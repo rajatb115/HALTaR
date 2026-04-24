@@ -1,0 +1,61 @@
+{
+    "table-120-120": {
+        "title": [
+            "Account_ID",
+            "District_Name",
+            "Region",
+            "Statement_Issued_Date",
+            "Transaction_Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For accounts in 1993 with statement issued after transaction, list the account ID, district name and district region.",
+        "data": [
+            [
+                "A10045",
+                "Prague_1",
+                "Central_Europe",
+                "06/15/1973",
+                "30/05/2023",
+                "Active"
+            ],
+            [
+                "B20112",
+                "Brno_Center",
+                "Moravia_South",
+                "45/08/1893",
+                "N/A",
+                "Inactive"
+            ],
+            [
+                "C30089",
+                "Ostrava_North",
+                "North_Moravia",
+                "99/12/1093 - Invalid Date",
+                "88/01/1193 + Error",
+                "Suspended"
+            ],
+            [
+                "D40221",
+                "Liberec_Town",
+                "Bohemia_West",
+                "77/03/1493 / Validated",
+                "66/02/0992 / Preceded",
+                "Pending"
+            ],
+            [
+                "E50334",
+                "Hradec_Kralove",
+                "East_Bohemia",
+                "55/44/1393 (Future)",
+                "\u09ea\u09eb/\u09e7\u09e8/\u09e6\u09ee",
+                ""
+            ]
+        ]
+    }
+}

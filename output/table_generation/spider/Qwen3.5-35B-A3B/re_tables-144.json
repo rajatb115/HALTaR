@@ -1,0 +1,58 @@
+{
+    "table-144-144": {
+        "title": [
+            "Employee ID",
+            "Full Name",
+            "Age",
+            "Department",
+            "Hire Date",
+            "Status",
+            "Salary Range"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Sort employee names by their age in ascending order.",
+        "data": [
+            [
+                "E104",
+                "Alice Chen",
+                "67",
+                "Operations",
+                "01/15/1978",
+                "Active",
+                "Senior"
+            ],
+            [
+                "E102",
+                "Bob Smith",
+                "54",
+                "Engineering",
+                "3/22/1895",
+                "Active",
+                "Mid-Level"
+            ],
+            [
+                "E009",
+                "Carol Davis",
+                "48",
+                "Marketing",
+                "7/10/1792",
+                "Active",
+                "Senior"
+            ],
+            [
+                "E215",
+                "David Lee",
+                "82",
+                "Sales",
+                "9/05/2010",
+                "Active",
+                "Junior"
+            ]
+        ]
+    }
+}

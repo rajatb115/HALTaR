@@ -1,0 +1,76 @@
+{
+    "table-433-433": {
+        "title": [
+            "Country",
+            "Region",
+            "Surface Area (km\u00b2)",
+            "Population Density (/km\u00b2)",
+            "Capital City",
+            "GDP per Capita (USD)",
+            "Official Language"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total surface area of the countries in the Caribbean region?",
+        "data": [
+            [
+                "Cuba",
+                "Greater Antilles",
+                "746,410",
+                "99",
+                "Havana",
+                "8,500",
+                "Spanish"
+            ],
+            [
+                "Jamaica",
+                "Lesser Antilles/Caribbean Sea",
+                "4,244",
+                "300+",
+                "Kingston",
+                "6,205",
+                "English"
+            ],
+            [
+                "Haiti",
+                "Hispaniola",
+                "59,470",
+                "~400",
+                "Port-au-Prince",
+                "",
+                "French/Haitian Creole"
+            ],
+            [
+                "Dominican Republic",
+                "Hispaniola",
+                "48,671",
+                "",
+                "Santo Domingo",
+                "10,000",
+                "Spanish"
+            ],
+            [
+                "Puerto Rico",
+                "Commonwealth US Territory",
+                "8,870",
+                "1,005",
+                "San Juan",
+                "N/A",
+                "English/Spanish"
+            ],
+            [
+                "Trinidad and Tobago",
+                "Southern Caribbean",
+                "513",
+                "20",
+                "Port-of-Spain",
+                "15,050",
+                ""
+            ]
+        ]
+    }
+}

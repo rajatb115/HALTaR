@@ -1,0 +1,69 @@
+{
+    "table-357-357": {
+        "title": [
+            "Card Name",
+            "Set Release",
+            "Power Level",
+            "Mana Cost",
+            "Rarity",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards have infinite power?",
+        "data": [
+            [
+                "Ancestral Vision",
+                "Alpha",
+                "Infinite",
+                "{U}",
+                "Rare",
+                "Active"
+            ],
+            [
+                "Eternal Flame",
+                "Beta",
+                "Infinite",
+                "{R}",
+                "Legendary",
+                "Active"
+            ],
+            [
+                "Void Walker",
+                "Fourth Edition",
+                "Infinite -X",
+                "{B}{B}",
+                "Mythic",
+                "Restricted"
+            ],
+            [
+                "Infinite Coin",
+                "Unhinged",
+                "+\u221e Coins",
+                "Free",
+                "Common",
+                "Legal"
+            ],
+            [
+                "Timeless Oracle",
+                "Time Spiral",
+                "Infinite Turns",
+                "{W}{W}",
+                "Ultra Rare",
+                "Banned"
+            ],
+            [
+                "Eternal Void",
+                "Modern Horizons",
+                "Nullify All",
+                "{C}",
+                "Special Frame",
+                "Not Printed"
+            ]
+        ]
+    }
+}

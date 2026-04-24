@@ -1,0 +1,53 @@
+{
+    "table-120-120": {
+        "title": [
+            "Account ID",
+            "District Name",
+            "District Region"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For accounts in 1993 with statement issued after transaction, list the account ID, district name and district region.",
+        "data": [
+            [
+                "100123",
+                "Central District",
+                "East"
+            ],
+            [
+                "100124",
+                "Northwood Branch",
+                "West"
+            ],
+            [
+                "100125",
+                "Riverside Hub",
+                "South"
+            ],
+            [
+                "100126",
+                "Mountain View",
+                "Midwest"
+            ],
+            [
+                "100127",
+                "Coastal Zone",
+                "West"
+            ],
+            [
+                "100128",
+                "Downtown Core",
+                "East"
+            ],
+            [
+                "100129",
+                "Valley Plains",
+                "South"
+            ]
+        ]
+    }
+}

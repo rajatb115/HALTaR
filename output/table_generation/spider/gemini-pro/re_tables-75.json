@@ -1,0 +1,53 @@
+{
+    "table-75-75": {
+        "title": [
+            "Model",
+            "Cylinders",
+            "Year",
+            "Weight (lbs)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Car Specifications by Year and Cylinder Count",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the minimum weight of the car with 8 cylinders produced in 1974 ?",
+        "data": [
+            [
+                "AMC Ambassador Brougham",
+                "8",
+                "1974",
+                "4360"
+            ],
+            [
+                "AMC Matador",
+                "8",
+                "1974",
+                "4280"
+            ],
+            [
+                "Buick Century 350",
+                "8",
+                "1974",
+                "4082"
+            ],
+            [
+                "Buick LeSabre",
+                "8",
+                "1974",
+                "4257"
+            ],
+            [
+                "Cadillac DeVille",
+                "8",
+                "1974",
+                "4934"
+            ]
+        ]
+    }
+}

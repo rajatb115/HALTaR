@@ -1,0 +1,46 @@
+{
+    "table-1289-1289": {
+        "title": [
+            "Patient ID",
+            "Total Protein",
+            "Diagnosis"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Patients with Low Total Protein Diagnosis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the diagnosis of the patients whose total protein is lower than normal.",
+        "data": [
+            [
+                "1234",
+                "5.8",
+                "Malnutrition"
+            ],
+            [
+                "5678",
+                "6.0",
+                "Liver Cirrhosis"
+            ],
+            [
+                "9101",
+                "6.2",
+                "Nephrotic Syndrome"
+            ],
+            [
+                "1121",
+                "6.3",
+                "Proteinuria"
+            ],
+            [
+                "3141",
+                "6.4",
+                "Edema"
+            ]
+        ]
+    }
+}

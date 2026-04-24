@@ -1,0 +1,69 @@
+{
+    "table-240-240": {
+        "title": [
+            "Atom_ID",
+            "Element_Type",
+            "Bond_Count",
+            "Connectivity_Status",
+            "Nearest_Neighbor_1",
+            "Nearest_Neighbor_2"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many connections does the atom 19 have?",
+        "data": [
+            [
+                "1",
+                "Carbon",
+                "4",
+                "Saturated",
+                "C2",
+                "O3"
+            ],
+            [
+                "2",
+                "Oxygen",
+                "6",
+                "Unsaturated",
+                "N7",
+                "H8"
+            ],
+            [
+                "3",
+                "Nitrogen",
+                "3",
+                "Stable",
+                "C1",
+                "C4"
+            ],
+            [
+                "4",
+                "Hydrogen",
+                "8",
+                "Reactive",
+                "O2",
+                "F9"
+            ],
+            [
+                "5",
+                "Fluorine",
+                "9",
+                "Inert",
+                "Cl10",
+                "Br11"
+            ],
+            [
+                "6",
+                "Chlorine",
+                "-1",
+                "Unknown",
+                "Na12",
+                "K13"
+            ]
+        ]
+    }
+}

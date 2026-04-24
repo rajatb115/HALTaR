@@ -1,0 +1,37 @@
+{
+    "table-1212-1212": {
+        "title": [
+            "Patient_ID",
+            "Age_Years",
+            "LDH_Level_Index",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the ID and age of patient with lactate dehydrogenase (LDH) between 100-300 index above the normal range.",
+        "data": [
+            [
+                "P_4021",
+                "67",
+                "312",
+                "Above Range"
+            ],
+            [
+                "P_A892",
+                "54",
+                "405",
+                "Above Normal"
+            ],
+            [
+                "B_1103",
+                "72",
+                "-15",
+                "Below Normal"
+            ]
+        ]
+    }
+}

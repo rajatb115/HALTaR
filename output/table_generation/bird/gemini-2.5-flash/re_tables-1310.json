@@ -1,0 +1,69 @@
+{
+    "table-1310-1310": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "Platelet Count (k/uL)",
+            "Normal Range (k/uL)",
+            "Test Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list a patient's platelet level if it is within the normal range and if he or she is diagnosed with MCTD.",
+        "data": [
+            [
+                "P1001",
+                "MCTD",
+                "285",
+                "150-450",
+                "2023-10-26"
+            ],
+            [
+                "P1002",
+                "MCTD",
+                "310",
+                "150-450",
+                "2023-10-25"
+            ],
+            [
+                "P1003",
+                "MCTD",
+                "190",
+                "150-450",
+                "2023-10-24"
+            ],
+            [
+                "P1004",
+                "MCTD",
+                "420",
+                "150-450",
+                "2023-10-23"
+            ],
+            [
+                "P1005",
+                "SLE",
+                "250",
+                "150-450",
+                "2023-10-22"
+            ],
+            [
+                "P1006",
+                "Rheumatoid Arthritis",
+                "330",
+                "150-450",
+                "2023-10-21"
+            ],
+            [
+                "P1007",
+                "MCTD",
+                "220",
+                "150-450",
+                "2023-10-20"
+            ]
+        ]
+    }
+}

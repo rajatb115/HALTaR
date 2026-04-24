@@ -1,0 +1,76 @@
+{
+    "table-290-290": {
+        "title": [
+            "Battle ID",
+            "Location",
+            "Date",
+            "Attacker",
+            "Defender",
+            "Result Status",
+            "Casualties"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different results are there for the battles?",
+        "data": [
+            [
+                "BTL-0042",
+                "Valley of Ashes",
+                "7/12/1965",
+                "Red Legion",
+                "Blue Guard",
+                "Decisive Victory",
+                "342"
+            ],
+            [
+                "BML-0118",
+                "Northern Pass",
+                "8/03/1672",
+                "Iron Horde",
+                "Silver Shield",
+                "Stalemate",
+                "510"
+            ],
+            [
+                "CST-0991",
+                "River Bend",
+                "9/21/1889",
+                "Storm Riders",
+                "Earth Walkers",
+                "Retreat",
+                "0"
+            ],
+            [
+                "DWN-0203",
+                "High Peak",
+                "4/15/1444",
+                "Dark Clan",
+                "Light Order",
+                "Annihilation",
+                "67"
+            ],
+            [
+                "EFG-0556",
+                "Coastal Bay",
+                "11/30/1701",
+                "Pirate Fleet",
+                "Navy Corps",
+                "Draw",
+                "128"
+            ],
+            [
+                "FHI-0772",
+                "Forest Edge",
+                "2/08/1333",
+                "Wolf Pack",
+                "Deer Herd",
+                "Evacuation",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "table-712-712": {
+        "title": [
+            "Product ID",
+            "Comment ID",
+            "User Age",
+            "Comment Score"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Product Comment Analysis by User Age",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among products comments with 0 score, what is the total number of users ages 40 years old?",
+        "data": [
+            [
+                "123",
+                "456",
+                "40",
+                "0"
+            ],
+            [
+                "789",
+                "101",
+                "40",
+                "0"
+            ],
+            [
+                "456",
+                "789",
+                "35",
+                "1"
+            ],
+            [
+                "101",
+                "123",
+                "40",
+                "0"
+            ],
+            [
+                "321",
+                "654",
+                "50",
+                "0"
+            ]
+        ]
+    }
+}

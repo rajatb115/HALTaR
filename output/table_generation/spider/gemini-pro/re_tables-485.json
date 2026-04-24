@@ -1,0 +1,45 @@
+{
+    "table-485-485": {
+        "title": [
+            "Country",
+            "Founding Year",
+            "Number of Official Languages"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Countries Founded Before 1930 and Number of Official Languages",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the countries founded before 1930, what is the total number of distinct official languages?",
+        "data": [
+            [
+                "France",
+                "843",
+                "1"
+            ],
+            [
+                "China",
+                "221 BC",
+                "1"
+            ],
+            [
+                "Japan",
+                "660 BC",
+                "0"
+            ],
+            [
+                "United Kingdom",
+                "927",
+                "0"
+            ],
+            [
+                "United States",
+                "1776",
+                "0"
+            ]
+        ]
+    }
+}

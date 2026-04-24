@@ -1,0 +1,85 @@
+{
+    "table-44-44": {
+        "title": [
+            "Pet ID",
+            "Name",
+            "Age",
+            "Weight_kg",
+            "Type_of_Pet",
+            "Owner_ID",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the type and weight of the youngest pet.",
+        "data": [
+            [
+                "P004",
+                "Luna",
+                "6 months",
+                "3.2",
+                "Cat",
+                "O12",
+                "Active"
+            ],
+            [
+                "P102",
+                "Max",
+                "7 years",
+                "45.5",
+                "Dog",
+                "O05",
+                "Active"
+            ],
+            [
+                "P089",
+                "Oliver",
+                "9 years",
+                "N/A",
+                "Bird",
+                "O22",
+                "Inactive"
+            ],
+            [
+                "P201",
+                "",
+                "2 weeks",
+                "0.4",
+                "Hamster",
+                "O33",
+                "Newborn"
+            ],
+            [
+                "P305",
+                "",
+                "1 year",
+                "8.1",
+                "Rabbit",
+                "O41",
+                "Pending"
+            ],
+            [
+                "P410",
+                "Bella",
+                "5 years",
+                "",
+                "Poodle Mix",
+                "O55",
+                "Adopted"
+            ],
+            [
+                "P515",
+                "Charlie",
+                "\u00bd month",
+                "",
+                "Fish",
+                "O60",
+                "Sickly"
+            ]
+        ]
+    }
+}

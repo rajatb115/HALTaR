@@ -1,0 +1,43 @@
+{
+    "table-1185-1185": {
+        "title": [
+            "Patient Birthday",
+            "Examination Date",
+            "Symptom"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Patient Symptoms During Examination",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient whose birthday was 1959/3/1, what symptoms did he/she have during the examination on 1993/9/27?",
+        "data": [
+            [
+                "1959-03-01",
+                "1993-09-27",
+                "Headache"
+            ],
+            [
+                "1959-03-01",
+                "1993-09-27",
+                "Fatigue"
+            ],
+            [
+                "1959-03-01",
+                "1993-09-27",
+                "Dizziness"
+            ],
+            [
+                "1959-03-01",
+                "1993-09-27",
+                "Nausea"
+            ],
+            [
+                "1959-03-01",
+                "1993-09-27",
+                "Blurred Vision"
+            ]
+        ]
+    }
+}

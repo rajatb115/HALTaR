@@ -1,0 +1,43 @@
+{
+    "table-215-215": {
+        "title": [
+            "Hazard Label",
+            "Description",
+            "Applicable to Tin Compounds?"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Hazard Labels for Chemicals with Tin",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What type of label is not on molecules with atoms with tin?",
+        "data": [
+            [
+                "Flammable",
+                "Catches fire easily",
+                "Yes, certain organotin compounds"
+            ],
+            [
+                "Corrosive",
+                "Causes damage to living tissue",
+                "Yes"
+            ],
+            [
+                "Toxic",
+                "Poisonous or harmful if ingested, inhaled, or absorbed",
+                "Yes, many organotin compounds"
+            ],
+            [
+                "Irritant",
+                "Causes inflammation or discomfort",
+                "Yes"
+            ],
+            [
+                "Environmental Hazard",
+                "Harmful to aquatic life",
+                "Yes, many organotin compounds"
+            ]
+        ]
+    }
+}

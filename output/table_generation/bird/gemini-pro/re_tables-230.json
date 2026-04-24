@@ -1,0 +1,37 @@
+{
+    "table-230-230": {
+        "title": [
+            "Molecule",
+            "Bond Type"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Molecule Bond Types",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the type of bond that molecule TR000 has when involved in any bonds?",
+        "data": [
+            [
+                "TR000",
+                "Ionic"
+            ],
+            [
+                "TR000",
+                "Covalent"
+            ],
+            [
+                "TR000",
+                "Hydrogen"
+            ],
+            [
+                "TR000",
+                "Metallic"
+            ],
+            [
+                "TR000",
+                "Van der Waals"
+            ]
+        ]
+    }
+}

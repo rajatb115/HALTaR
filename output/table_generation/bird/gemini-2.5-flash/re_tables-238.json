@@ -1,0 +1,62 @@
+{
+    "table-238-238": {
+        "title": [
+            "Atom ID",
+            "Molecule Name",
+            "Molecule Formula",
+            "Carcinogenic Status",
+            "Molecular Weight (g/mol)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which molecule does the atom TR001_10 belong to? Please state whether this molecule is carcinogenic or not.",
+        "data": [
+            [
+                "TR001_10",
+                "Benzene",
+                "C6H6",
+                "Yes",
+                "78.11"
+            ],
+            [
+                "TR001_11",
+                "Ethanol",
+                "C2H6O",
+                "No",
+                "46.07"
+            ],
+            [
+                "TR002_05",
+                "Formaldehyde",
+                "CH2O",
+                "Probable",
+                "30.03"
+            ],
+            [
+                "TR003_01",
+                "Glucose",
+                "C6H12O6",
+                "No",
+                "180.16"
+            ],
+            [
+                "TR001_08",
+                "Caffeine",
+                "C8H10N4O2",
+                "No",
+                "194.19"
+            ],
+            [
+                "TR004_02",
+                "Acrylamide",
+                "C3H5NO",
+                "Probable",
+                "71.08"
+            ]
+        ]
+    }
+}

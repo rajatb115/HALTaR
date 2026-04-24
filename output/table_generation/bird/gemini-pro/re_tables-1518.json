@@ -1,0 +1,45 @@
+{
+    "table-1518-1518": {
+        "title": [
+            "Customer ID",
+            "Segment",
+            "Order Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Customer Segments",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the earliest customer, what segment did he/she have?",
+        "data": [
+            [
+                "1001",
+                "Gold",
+                "2022-01-05"
+            ],
+            [
+                "1002",
+                "Silver",
+                "2022-01-10"
+            ],
+            [
+                "1003",
+                "Bronze",
+                "2022-01-15"
+            ],
+            [
+                "1004",
+                "Gold",
+                "2022-01-20"
+            ],
+            [
+                "1005",
+                "Silver",
+                "2022-01-25"
+            ]
+        ]
+    }
+}

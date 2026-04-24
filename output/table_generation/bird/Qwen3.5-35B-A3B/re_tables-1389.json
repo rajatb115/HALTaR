@@ -1,0 +1,67 @@
+{
+    "table-1389-1389": {
+        "title": [
+            "Full Name",
+            "Income Source",
+            "Amount Generated ($)",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which students manage to generate the highest income. State his/her full name along with the income source.",
+        "data": [
+            [
+                "Alice Johnson",
+                "Freelance Design",
+                "$45,206",
+                "Active"
+            ],
+            [
+                "Robert Smith",
+                "E-commerce Store",
+                "$38,950",
+                "Active"
+            ],
+            [
+                "Maria Garcia",
+                "Tech Consulting",
+                "$52,100",
+                "Inactive"
+            ],
+            [
+                "David Lee",
+                "Stock Trading",
+                "$29,750",
+                "Pending"
+            ],
+            [
+                "Sarah Williams",
+                "Content Creation",
+                "$61,300",
+                "Active"
+            ],
+            [
+                "James Brown",
+                "Real Estate Flipping",
+                "$74,250",
+                "Completed"
+            ],
+            [
+                "Emily Davis",
+                "App Development",
+                "$18,400",
+                "Ongoing"
+            ],
+            [
+                "Michael Wilson",
+                "Affiliate Marketing",
+                "$92,500",
+                "Verified"
+            ]
+        ]
+    }
+}

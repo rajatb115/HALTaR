@@ -1,0 +1,53 @@
+{
+    "table-52-52": {
+        "title": [
+            "School Name",
+            "Avg Reading Score",
+            "Street Address"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which mailing street address can you find the school that has the lowest average score in reading? Also give the school's name.",
+        "data": [
+            [
+                "Northwood High School",
+                "78",
+                "1234 Elm Street"
+            ],
+            [
+                "Riverside Academy",
+                "85",
+                "567 Oak Avenue"
+            ],
+            [
+                "Central Prep",
+                "68",
+                "890 Pine Lane"
+            ],
+            [
+                "Eastside Elementary",
+                "72",
+                "112 Maple Drive"
+            ],
+            [
+                "Westview Middle School",
+                "81",
+                "334 Birch Road"
+            ],
+            [
+                "Lakeside High",
+                "75",
+                "556 Cedar Court"
+            ],
+            [
+                "Summit School",
+                "90",
+                "778 Poplar Boulevard"
+            ]
+        ]
+    }
+}

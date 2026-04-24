@@ -1,0 +1,77 @@
+{
+    "table-1010-1010": {
+        "title": [
+            "Driver",
+            "Team",
+            "Pit Stop Duration",
+            "Lap Number",
+            "Tyre Compound",
+            "Position Before/After"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the time each driver spent at the pit stop during the 2011 Australian Grand Prix.",
+        "data": [
+            [
+                "Sebastian Vettel",
+                "Red Bull Racing",
+                "4.6s",
+                "7",
+                "Soft / Hard",
+                "P1 -> P1"
+            ],
+            [
+                "Mark Webber",
+                "Red Bull Racing",
+                "4.8s",
+                "7",
+                "Soft / Hard",
+                "P2 -> P2"
+            ],
+            [
+                "Jenson Button",
+                "McLaren Mercedes",
+                "5.1s",
+                "8",
+                "Hard / Super Soft",
+                "P3 -> P3"
+            ],
+            [
+                "Lewis Hamilton",
+                "McLaren Mercedes",
+                "4.9s",
+                "8",
+                "Hard / Super Soft",
+                "P4 -> P4"
+            ],
+            [
+                "Fernando Alonso",
+                "Ferrari",
+                "5.3s",
+                "9",
+                "Medium / Hard",
+                "P5 -> P5"
+            ],
+            [
+                "Felipe Massa",
+                "Ferrari",
+                "5.5s",
+                "9",
+                "Medium / Hard",
+                "P6 -> P6"
+            ],
+            [
+                "Michael Schumacher",
+                "Mercedes GP",
+                "5.8s",
+                "10",
+                "Medium / Hard",
+                ""
+            ]
+        ]
+    }
+}

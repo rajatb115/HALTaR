@@ -1,0 +1,53 @@
+{
+    "table-1162-1162": {
+        "title": [
+            "Patient ID",
+            "Age Group",
+            "Antibody Test",
+            "IgG Concentration (U/mL)",
+            "Sample Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For in-patient age 50 and above, what is their average anti-cardiolipin antibody (IgG) concentration?",
+        "data": [
+            [
+                "P-4021",
+                "52+",
+                "Anti-CARDIOLIPIN IgG",
+                "34.5",
+                "01/15/2023",
+                "Positive"
+            ],
+            [
+                "P-4105",
+                ">60",
+                "Anti-AntiCARDIOLIPIN IgG",
+                "42.1",
+                "Feb 10, 2023",
+                "Positive"
+            ],
+            [
+                "P-4299",
+                "75+",
+                "Anticardiolipine IgG",
+                "28.9",
+                "Mar 05, 2023",
+                "Negative"
+            ],
+            [
+                "P-4312",
+                "65+",
+                "Anti Cardiolipin IgG",
+                "31.2",
+                "Apr 22, 2024",
+                "Pending"
+            ]
+        ]
+    }
+}

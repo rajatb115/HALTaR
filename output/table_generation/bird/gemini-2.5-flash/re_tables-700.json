@@ -1,0 +1,55 @@
+{
+    "table-700-700": {
+        "title": [
+            "Username",
+            "Account ID",
+            "Creation Date",
+            "Account Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When did the user known as 'IrishStat' create his or her account?",
+        "data": [
+            [
+                "IrishStat",
+                "1001",
+                "2021-03-15",
+                "Active"
+            ],
+            [
+                "DataWizard",
+                "1002",
+                "2020-11-01",
+                "Active"
+            ],
+            [
+                "CodeNinja",
+                "1003",
+                "2022-01-20",
+                "Active"
+            ],
+            [
+                "QueryMaster",
+                "1004",
+                "2019-07-22",
+                "Inactive"
+            ],
+            [
+                "StatGuru",
+                "1005",
+                "2021-09-10",
+                "Active"
+            ],
+            [
+                "AnalystPro",
+                "1006",
+                "2023-02-28",
+                "Active"
+            ]
+        ]
+    }
+}

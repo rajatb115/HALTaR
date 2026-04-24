@@ -1,0 +1,39 @@
+{
+    "table-404-404": {
+        "title": [
+            "Player Name",
+            "Final Tables Made"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Poker Player Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of poker players ordered by the final tables made in ascending order.",
+        "data": [
+            [
+                "Alice Smith",
+                "2"
+            ],
+            [
+                "Bob Johnson",
+                "5"
+            ],
+            [
+                "Charlie Brown",
+                "7"
+            ],
+            [
+                "David Lee",
+                "10"
+            ],
+            [
+                "Eve Williams",
+                "12"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "table-1291-1291": {
+        "title": [
+            "Patient ID",
+            "Albumin (g/dL)",
+            "Examination Date",
+            "Result Category"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Patient Albumin Levels and Examination Dates",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the examination date of the patient whose albumin is the highest in the normal range?",
+        "data": [
+            [
+                "12345",
+                "5.0",
+                "2024-03-01",
+                "Normal"
+            ],
+            [
+                "67890",
+                "4.8",
+                "2024-03-08",
+                "Normal"
+            ],
+            [
+                "24680",
+                "4.2",
+                "2024-03-15",
+                "Normal"
+            ],
+            [
+                "13579",
+                "3.5",
+                "2024-03-22",
+                "Low"
+            ],
+            [
+                "98765",
+                "5.2",
+                "2024-03-29",
+                "High"
+            ]
+        ]
+    }
+}

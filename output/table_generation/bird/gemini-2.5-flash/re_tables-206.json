@@ -1,0 +1,69 @@
+{
+    "table-206-206": {
+        "title": [
+            "Molecule ID",
+            "Name",
+            "Chemical Formula",
+            "Silicon Atoms",
+            "Category"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify by their ID the molecules in which there is silicon.",
+        "data": [
+            [
+                "M001",
+                "Silicon Dioxide",
+                "SiO2",
+                "1",
+                "Oxide"
+            ],
+            [
+                "M002",
+                "Silane",
+                "SiH4",
+                "1",
+                "Hydride"
+            ],
+            [
+                "M003",
+                "Silicon Carbide",
+                "SiC",
+                "1",
+                "Carbide"
+            ],
+            [
+                "M004",
+                "Polydimethylsiloxane",
+                "[(CH3)2SiO]n",
+                "N/A",
+                "Organosilicon Polymer"
+            ],
+            [
+                "M005",
+                "Talc (Magnesium Silicate)",
+                "Mg3Si4O10(OH)2",
+                "4",
+                "Mineral"
+            ],
+            [
+                "M006",
+                "Silicon Tetrachloride",
+                "SiCl4",
+                "1",
+                "Halide"
+            ],
+            [
+                "M007",
+                "Zeolite A",
+                "Na12[(AlO2)12(SiO2)12]\u00b727H2O",
+                "12",
+                "Aluminosilicate"
+            ]
+        ]
+    }
+}

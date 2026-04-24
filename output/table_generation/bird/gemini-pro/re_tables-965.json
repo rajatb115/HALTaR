@@ -1,0 +1,51 @@
+{
+    "table-965-965": {
+        "title": [
+            "Driver ID",
+            "Name",
+            "Nationality",
+            "Team"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Driver Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the code for drivers who have nationality in America.",
+        "data": [
+            [
+                "44",
+                "Lewis Hamilton",
+                "British",
+                "Mercedes"
+            ],
+            [
+                "4",
+                "Lando Norris",
+                "British",
+                "McLaren"
+            ],
+            [
+                "3",
+                "Daniel Ricciardo",
+                "Australian",
+                "Alpha Tauri"
+            ],
+            [
+                "14",
+                "Fernando Alonso",
+                "Spanish",
+                "Aston Martin"
+            ],
+            [
+                "2",
+                "Logan Sargeant",
+                "American",
+                "Williams"
+            ]
+        ]
+    }
+}

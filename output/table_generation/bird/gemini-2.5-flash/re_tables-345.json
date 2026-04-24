@@ -1,0 +1,69 @@
+{
+    "table-345-345": {
+        "title": [
+            "Card Name",
+            "Set Name",
+            "Rarity",
+            "Ban Date",
+            "Ban Reason"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the mythic rarity print cards banned in gladiator format.",
+        "data": [
+            [
+                "Chronos's Paradox",
+                "Timeless Echoes",
+                "Mythic",
+                "2023-08-15",
+                "Excessive turn generation"
+            ],
+            [
+                "World-Shaper's Decree",
+                "Genesis Unleashed",
+                "Mythic",
+                "2022-11-01",
+                "Creates unanswerable board states"
+            ],
+            [
+                "Soul-Devouring Orb",
+                "Eldritch Horrors",
+                "Mythic",
+                "2024-01-20",
+                "Too efficient resource denial"
+            ],
+            [
+                "Apex Predator's Mark",
+                "Savage Frontiers",
+                "Mythic",
+                "2023-03-10",
+                "Leads to non-interactive wins"
+            ],
+            [
+                "Infinite Mana Conduit",
+                "Arcane Nexus",
+                "Mythic",
+                "2022-06-25",
+                "Enables consistent infinite combos"
+            ],
+            [
+                "Reality Anchor",
+                "Cosmic Collapse",
+                "Mythic",
+                "2024-04-01",
+                "Prevents opponent from playing spells"
+            ],
+            [
+                "Mind-Shattering Gaze",
+                "Psionic Dominion",
+                "Mythic",
+                "2023-10-12",
+                "Overpowered hand disruption"
+            ]
+        ]
+    }
+}

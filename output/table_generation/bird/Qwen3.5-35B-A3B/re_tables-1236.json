@@ -1,0 +1,62 @@
+{
+    "table-1236-1236": {
+        "title": [
+            "Patient_ID",
+            "Age",
+            "Diagnosis",
+            "RBC_Count_Million_uL",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the patient's diagnosis for those who has lower red blood blood cell? State their ID and age.",
+        "data": [
+            [
+                "P-1042",
+                "67",
+                "Iron Deficiency Anemia",
+                "3.2",
+                "Low"
+            ],
+            [
+                "P-TT99",
+                "54",
+                "Chronic Kidney Disease",
+                "4.1",
+                "Borderline"
+            ],
+            [
+                "M-JK21",
+                "72",
+                "Aplastic Anemia Crisis",
+                "0.9",
+                "Critical"
+            ],
+            [
+                "F-LM88",
+                "81",
+                "Vitamin B12 Deficiency",
+                "9.8",
+                "Normal"
+            ],
+            [
+                "R-QW33",
+                "45",
+                "Thalassemia Minor",
+                "",
+                "N/A"
+            ],
+            [
+                "S-ZX77",
+                "29",
+                "Acute Hemolytic Episode",
+                "",
+                "Unknown"
+            ]
+        ]
+    }
+}

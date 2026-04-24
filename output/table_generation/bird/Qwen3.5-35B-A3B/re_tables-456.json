@@ -1,0 +1,77 @@
+{
+    "table-456-456": {
+        "title": [
+            "Card Name",
+            "Edition Type",
+            "Face Count",
+            "Artist",
+            "Release Date",
+            "Set Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which of the cards that are a promotional painting have multiple faces on the same card? Please list their names.",
+        "data": [
+            [
+                "Dual Natured",
+                "Promotional Painting",
+                "4",
+                "Mark Poole",
+                "06/15/2023",
+                "PRM-DUAL"
+            ],
+            [
+                "Three-Faced Coin",
+                "Promotional Painting",
+                "N/A",
+                "N.A.",
+                "N.N.",
+                "PRMC-COIN"
+            ],
+            [
+                "Triptych Vision",
+                "Promotional Artwork",
+                "3",
+                "Sarah Jenkins",
+                "7/22/233",
+                "ART-VISN"
+            ],
+            [
+                "Quadra-Soul",
+                "Promo Illustration",
+                "5",
+                "David Chen",
+                "8/10/24",
+                "QSL-PROMO"
+            ],
+            [
+                "Hexa-Mind",
+                "Special Print Run",
+                "6",
+                "Elena Rossi",
+                "9/01/25",
+                "HXM-SPEC"
+            ],
+            [
+                "Septet Dream",
+                "Limited Edition Paint",
+                "N/A",
+                "Tom Baker",
+                "10/12/26",
+                "SPT-DRM"
+            ],
+            [
+                "Octo-Gaze",
+                "Collector's Canvas",
+                "O/N",
+                "Lisa Wong",
+                "Nov 15, 27",
+                "OCT-GAZE"
+            ]
+        ]
+    }
+}

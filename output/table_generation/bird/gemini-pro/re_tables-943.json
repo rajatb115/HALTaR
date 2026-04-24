@@ -1,0 +1,46 @@
+{
+    "table-943-943": {
+        "title": [
+            "Race Name",
+            "Year",
+            "Fastest Lap Time (seconds)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Lewis Hamilton Formula 1 Race Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average fastest lap time in seconds for Lewis Hamilton in all the Formula_1 races?",
+        "data": [
+            [
+                "British Grand Prix",
+                "2020",
+                "72.936"
+            ],
+            [
+                "Spanish Grand Prix",
+                "2020",
+                "76.143"
+            ],
+            [
+                "Portuguese Grand Prix",
+                "2020",
+                "78.275"
+            ],
+            [
+                "Abu Dhabi Grand Prix",
+                "2019",
+                "90.634"
+            ],
+            [
+                "French Grand Prix",
+                "2019",
+                "72.800"
+            ]
+        ]
+    }
+}

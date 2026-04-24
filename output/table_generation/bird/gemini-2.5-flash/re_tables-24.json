@@ -1,0 +1,69 @@
+{
+    "table-24-24": {
+        "title": [
+            "School Name",
+            "Full Street Address",
+            "K-12 Enrollment",
+            "Ages 5-17 Enrollment",
+            "Enrollment Difference"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of schools with more than 30 difference in enrollements between K-12 and ages 5-17? Please also give the full street adress of the schools.",
+        "data": [
+            [
+                "Northwood High School",
+                "123 Oak Avenue, Springfield, IL 62704",
+                "1250",
+                "1215",
+                "35"
+            ],
+            [
+                "Riverside Elementary",
+                "45 Riverbend Road, Lakeside, CA 90210",
+                "680",
+                "640",
+                "40"
+            ],
+            [
+                "Central Middle School",
+                "789 Main Street, Metroville, NY 10001",
+                "910",
+                "895",
+                "15"
+            ],
+            [
+                "Evergreen Academy",
+                "101 Pine Lane, Green Valley, OR 97201",
+                "1520",
+                "1470",
+                "50"
+            ],
+            [
+                "Westside Prep",
+                "55 Elm Street, Coast City, FL 33101",
+                "730",
+                "705",
+                "25"
+            ],
+            [
+                "Summit Charter School",
+                "200 Mountain View Dr, Hilltop, CO 80302",
+                "490",
+                "455",
+                "35"
+            ],
+            [
+                "Harborview High School",
+                "300 Ocean Blvd, Seaport, WA 98101",
+                "1100",
+                "1060",
+                "40"
+            ]
+        ]
+    }
+}

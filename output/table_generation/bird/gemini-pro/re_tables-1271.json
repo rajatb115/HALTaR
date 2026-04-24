@@ -1,0 +1,51 @@
+{
+    "table-1271-1271": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Anti-Scl70 Result",
+            "Vertigo"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Demographics with Normal Anti-Scl70 and Vertigo",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients who has a normal anti-scl70, how many of them are male and have the symptom of vertigo?",
+        "data": [
+            [
+                "1234",
+                "Male",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "5678",
+                "Female",
+                "Normal",
+                "No"
+            ],
+            [
+                "9101",
+                "Male",
+                "Normal",
+                "Yes"
+            ],
+            [
+                "1121",
+                "Male",
+                "Normal",
+                "No"
+            ],
+            [
+                "3141",
+                "Female",
+                "Normal",
+                "Yes"
+            ]
+        ]
+    }
+}

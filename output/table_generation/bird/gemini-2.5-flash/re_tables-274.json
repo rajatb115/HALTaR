@@ -1,0 +1,76 @@
+{
+    "table-274-274": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Carcinogenicity Status",
+            "Chlorine Content (%)",
+            "Primary Use"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of element chlorine in carcinogenic molecules?",
+        "data": [
+            [
+                "Vinyl Chloride",
+                "C2H3Cl",
+                "Known Carcinogen",
+                "56.7%",
+                "PVC Production"
+            ],
+            [
+                "Dichloromethane",
+                "CH2Cl2",
+                "Suspected Carcinogen",
+                "84.3%",
+                "Solvent, Paint Stripper"
+            ],
+            [
+                "Chloroform",
+                "CHCl3",
+                "Probable Carcinogen",
+                "89.1%",
+                "Solvent, Refrigerant"
+            ],
+            [
+                "Trichloroethylene",
+                "C2HCl3",
+                "Probable Carcinogen",
+                "65.3%",
+                "Degreasing Agent"
+            ],
+            [
+                "DDT",
+                "C14H9Cl5",
+                "Possible Carcinogen",
+                "50.0%",
+                "Insecticide (Historical)"
+            ],
+            [
+                "Polychlorinated Biphenyls (PCBs)",
+                "C12H10-xClx",
+                "Probable Carcinogen",
+                "40-60%",
+                "Dielectric Fluids (Historical)"
+            ],
+            [
+                "Benzene",
+                "C6H6",
+                "Known Carcinogen",
+                "0.0%",
+                "Chemical Intermediate"
+            ],
+            [
+                "Sodium Chloride",
+                "NaCl",
+                "Not Carcinogenic",
+                "60.7%",
+                "Food Additive, Salt"
+            ]
+        ]
+    }
+}

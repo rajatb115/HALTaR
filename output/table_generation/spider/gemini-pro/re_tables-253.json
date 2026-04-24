@@ -1,0 +1,39 @@
+{
+    "table-253-253": {
+        "title": [
+            "Winner Name",
+            "Year"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Tournament Winners in 2013 and 2016",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of all winners who played in both 2013 and 2016.",
+        "data": [
+            [
+                "John Doe",
+                "2013"
+            ],
+            [
+                "John Doe",
+                "2016"
+            ],
+            [
+                "Alice Smith",
+                "2013"
+            ],
+            [
+                "Alice Smith",
+                "2016"
+            ],
+            [
+                "Bob Johnson",
+                "2013"
+            ]
+        ]
+    }
+}

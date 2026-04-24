@@ -1,0 +1,77 @@
+{
+    "table-1330-1330": {
+        "title": [
+            "Person_Name",
+            "County_of_Origin",
+            "State_Province",
+            "Birth_County_Verified",
+            "Current_Residence_Counties",
+            "Notes_on_Upbringing"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What county did Sherri Ramsey grew up?",
+        "data": [
+            [
+                "Sherri Ramsey",
+                "Hamilton",
+                "Ohio",
+                "Yes",
+                "Hamilton; Butler",
+                "Grew up in Cincinnati area"
+            ],
+            [
+                "John Doe",
+                "Franklin",
+                "Ohio",
+                "",
+                "Moved at age 10",
+                "N/A"
+            ],
+            [
+                "Jane Smith",
+                "Cuyahoga",
+                "Ohio",
+                "Yes",
+                "Summit",
+                "Lived near Cleveland suburbs"
+            ],
+            [
+                "Robert Brown",
+                "Lucas",
+                "Ohio",
+                "N/A",
+                "Lucas",
+                "Resided primarily within city limits"
+            ],
+            [
+                "Emily White",
+                "Montgomery",
+                "Ohio",
+                "Partially",
+                "Greene",
+                "Spent childhood years split between two counties"
+            ],
+            [
+                "Michael Green",
+                "Stark",
+                "Ohio",
+                "Unknown",
+                "Stark",
+                "Raised on family farm outside Canton"
+            ],
+            [
+                "Sarah Black",
+                "Lake",
+                "Ohio",
+                "Confirmed",
+                "Ashtabula",
+                "Attended high school in Painesville"
+            ]
+        ]
+    }
+}

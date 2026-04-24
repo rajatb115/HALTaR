@@ -1,0 +1,69 @@
+{
+    "table-1523-1523": {
+        "title": [
+            "CustomerID",
+            "TransactionDate",
+            "AmountSpent",
+            "Currency",
+            "PaymentMethod"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "There's one customer spent 214582.17 in the June of 2013, which currency did he/she use?",
+        "data": [
+            [
+                "CUST001",
+                "2013-06-15",
+                "214582.17",
+                "USD",
+                "Credit Card"
+            ],
+            [
+                "CUST002",
+                "2013-06-20",
+                "150000.50",
+                "EUR",
+                "Bank Transfer"
+            ],
+            [
+                "CUST003",
+                "2013-07-01",
+                "220000.00",
+                "GBP",
+                "Debit Card"
+            ],
+            [
+                "CUST004",
+                "2013-05-10",
+                "500.25",
+                "USD",
+                "PayPal"
+            ],
+            [
+                "CUST005",
+                "2013-06-25",
+                "32000000.00",
+                "JPY",
+                "Credit Card"
+            ],
+            [
+                "CUST006",
+                "2013-04-01",
+                "10000.00",
+                "CAD",
+                "Bank Transfer"
+            ],
+            [
+                "CUST007",
+                "2013-06-18",
+                "200000.00",
+                "AUD",
+                "Credit Card"
+            ]
+        ]
+    }
+}

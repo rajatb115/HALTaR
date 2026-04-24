@@ -1,0 +1,62 @@
+{
+    "table-1220-1220": {
+        "title": [
+            "Patient ID",
+            "Test Date",
+            "Uric Acid (mg/dL)",
+            "UA Status",
+            "UA Index"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all patients with normal uric acid (UA), what is the average UA index based on their latest laboratory examination result?",
+        "data": [
+            [
+                "P001",
+                "2023-10-15",
+                "5.2",
+                "Normal",
+                "1.25"
+            ],
+            [
+                "P002",
+                "2023-10-14",
+                "4.8",
+                "Normal",
+                "1.18"
+            ],
+            [
+                "P003",
+                "2023-10-15",
+                "8.1",
+                "High",
+                "2.10"
+            ],
+            [
+                "P004",
+                "2023-10-13",
+                "6.5",
+                "Normal",
+                "1.40"
+            ],
+            [
+                "P005",
+                "2023-10-16",
+                "3.9",
+                "Normal",
+                "1.05"
+            ],
+            [
+                "P006",
+                "2023-10-14",
+                "2.5",
+                "Low",
+                "0.85"
+            ]
+        ]
+    }
+}

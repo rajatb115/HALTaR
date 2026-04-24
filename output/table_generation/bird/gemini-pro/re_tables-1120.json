@@ -1,0 +1,59 @@
+{
+    "table-1120-1120": {
+        "title": [
+            "Player Name",
+            "Competition",
+            "Home Goals",
+            "Away Goals",
+            "Total Goals"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2,
+            3,
+            4
+        ],
+        "pgTitle": "Aaron Lennon's Goal Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many home team goal have been scored by Aaron Lennon?",
+        "data": [
+            [
+                "Aaron Lennon",
+                "Premier League",
+                "12",
+                "6",
+                "18"
+            ],
+            [
+                "Aaron Lennon",
+                "FA Cup",
+                "2",
+                "1",
+                "3"
+            ],
+            [
+                "Aaron Lennon",
+                "League Cup",
+                "1",
+                "0",
+                "1"
+            ],
+            [
+                "Aaron Lennon",
+                "Europa League",
+                "3",
+                "2",
+                "5"
+            ],
+            [
+                "Aaron Lennon",
+                "Total",
+                "18",
+                "9",
+                "27"
+            ]
+        ]
+    }
+}

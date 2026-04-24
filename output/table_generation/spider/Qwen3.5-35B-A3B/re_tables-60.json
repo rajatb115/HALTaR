@@ -1,0 +1,93 @@
+{
+    "table-60-60": {
+        "title": [
+            "Model",
+            "Horsepower",
+            "Engine Size",
+            "Fuel Economy",
+            "Price Range",
+            "Release Year",
+            "Manufacturer",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which model of the car has the minimum horsepower?",
+        "data": [
+            [
+                "Compact X",
+                "64 hp",
+                "0.7L",
+                "45 mpg",
+                "$12,000 - $14,0",
+                "",
+                "AutoCorp",
+                "Active"
+            ],
+            [
+                "Eco Mini Z",
+                "72 hp",
+                "",
+                "52 mpg",
+                "",
+                "$9,500",
+                "",
+                ""
+            ],
+            [
+                "Urban Lite",
+                "85 hp",
+                ".9L",
+                "",
+                "N/A",
+                "",
+                "Green Motors",
+                "Discontinued"
+            ],
+            [
+                "City Runner V",
+                "90 hp",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Budget Go",
+                "3",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Speedster Pro",
+                "110 hp",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Turbo Max",
+                "hp",
+                "L",
+                "mpg",
+                "$22,5",
+                "N/A",
+                "",
+                ""
+            ]
+        ]
+    }
+}

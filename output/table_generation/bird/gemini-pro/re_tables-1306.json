@@ -1,0 +1,45 @@
+{
+    "table-1306-1306": {
+        "title": [
+            "Patient ID",
+            "Admission Status",
+            "White Blood Cell Level"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient White Blood Cell Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients accepted to the hospital have a normal level of white blood cells?",
+        "data": [
+            [
+                "12345",
+                "Accepted",
+                "Normal"
+            ],
+            [
+                "67890",
+                "Rejected",
+                "High"
+            ],
+            [
+                "24680",
+                "Accepted",
+                "Low"
+            ],
+            [
+                "13579",
+                "Accepted",
+                "Normal"
+            ],
+            [
+                "98765",
+                "Accepted",
+                "High"
+            ]
+        ]
+    }
+}

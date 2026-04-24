@@ -1,0 +1,61 @@
+{
+    "table-627-627": {
+        "title": [
+            "Charge_Type",
+            "Amount_Currency",
+            "Max_Charge_Amount",
+            "Min_Charge_Year",
+            "Avg_Daily_Volume",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the charge amount of the most expensive charge type?",
+        "data": [
+            [
+                "Premium_Service",
+                "USD",
+                "$450.00",
+                "7/15/2023",
+                "",
+                "Active"
+            ],
+            [
+                "Standard_Plan",
+                "USD",
+                "$120.50",
+                "N/A",
+                "",
+                "Inactive"
+            ],
+            [
+                "Enterprise_Tier",
+                "EUR",
+                "\u20ac890.25",
+                "",
+                "High Volume",
+                "Pending Review"
+            ],
+            [
+                "Basic_Monthly",
+                "GBP",
+                "\u00a345.0",
+                "",
+                "Low Usage",
+                "Suspended"
+            ],
+            [
+                "Gold_Support",
+                "JPY",
+                "\u00a512,500.",
+                "",
+                "Medium Load",
+                "Active"
+            ]
+        ]
+    }
+}

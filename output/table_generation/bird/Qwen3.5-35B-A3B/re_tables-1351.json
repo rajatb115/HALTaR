@@ -1,0 +1,37 @@
+{
+    "table-1351-1351": {
+        "title": [
+            "Event ID",
+            "Date Purchased",
+            "Item Category",
+            "Status",
+            "Vendor",
+            "Amount USD"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the status of the event which bought \"Post Cards, Posters\" on 2019/8/20?",
+        "data": [
+            [
+                "EVT-7401",
+                "2026/8",
+                "Office Supplies",
+                "Completed",
+                "Staples Inc.",
+                "$1,250.00"
+            ],
+            [
+                "EVT-EVENT-20",
+                "21-August-26",
+                "Print Media",
+                "Pending Approval",
+                "Vistaprint",
+                "$4,500.50"
+            ]
+        ]
+    }
+}

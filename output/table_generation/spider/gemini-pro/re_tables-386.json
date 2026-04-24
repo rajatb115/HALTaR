@@ -1,0 +1,51 @@
+{
+    "table-386-386": {
+        "title": [
+            "Channel ID",
+            "Channel Name",
+            "Genre",
+            "Network"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "TV Channels Not Airing Ben Jones Cartoons",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the id of tv channels that do not play any cartoon directed by Ben Jones.",
+        "data": [
+            [
+                "101",
+                "ActionZone",
+                "Action",
+                "Global Media"
+            ],
+            [
+                "105",
+                "Comedy Central",
+                "Comedy",
+                "Paramount"
+            ],
+            [
+                "112",
+                "MusicPlus",
+                "Music",
+                "Vevo"
+            ],
+            [
+                "118",
+                "HistoryView",
+                "Documentary",
+                "Discovery"
+            ],
+            [
+                "125",
+                "NatureLife",
+                "Nature",
+                "National Geo"
+            ]
+        ]
+    }
+}

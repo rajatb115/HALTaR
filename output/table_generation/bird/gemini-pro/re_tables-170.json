@@ -1,0 +1,49 @@
+{
+    "table-170-170": {
+        "title": [
+            "Year",
+            "Gender",
+            "Total Loan Amount",
+            "Growth Rate (%)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Loan Growth Rate by Gender and Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the growth rate of the total amount of loans across all accounts for a male client between 1996 and 1997?",
+        "data": [
+            [
+                "1996",
+                "Male",
+                "$1,000,000",
+                "-"
+            ],
+            [
+                "1997",
+                "Male",
+                "$1,100,000",
+                "10.00"
+            ],
+            [
+                "1996",
+                "Female",
+                "$800,000",
+                "-"
+            ],
+            [
+                "1997",
+                "Female",
+                "$850,000",
+                "6.25"
+            ],
+            [
+                "Total (All Genders)",
+                "All",
+                "-",
+                "-"
+            ]
+        ]
+    }
+}

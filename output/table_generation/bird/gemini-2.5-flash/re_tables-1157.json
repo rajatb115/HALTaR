@@ -1,0 +1,61 @@
+{
+    "table-1157-1157": {
+        "title": [
+            "Patient ID",
+            "Age",
+            "Coagulation Degree",
+            "Diagnosis"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the ID and age of patient with positive degree of coagulation.",
+        "data": [
+            [
+                "P101",
+                "58",
+                "1.7",
+                "DVT Risk"
+            ],
+            [
+                "P102",
+                "42",
+                "0.9",
+                "Healthy"
+            ],
+            [
+                "P103",
+                "71",
+                "2.3",
+                "Atrial Fibrillation"
+            ],
+            [
+                "P104",
+                "35",
+                "1.1",
+                "Post-Surgery"
+            ],
+            [
+                "P105",
+                "66",
+                "0.8",
+                "Routine Checkup"
+            ],
+            [
+                "P106",
+                "50",
+                "2.9",
+                "Pulmonary Embolism"
+            ],
+            [
+                "P107",
+                "79",
+                "1.5",
+                "Stroke History"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-1121-1121": {
+        "title": [
+            "Player Name",
+            "Goals Scored (Away)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Away Goals Scored by Players",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Sum up the away team goal scored by both Daan Smith and Filipe Ferreira.",
+        "data": [
+            [
+                "Daan Smith",
+                "12"
+            ],
+            [
+                "Filipe Ferreira",
+                "8"
+            ],
+            [
+                "John Doe",
+                "5"
+            ],
+            [
+                "Jane Smith",
+                "3"
+            ],
+            [
+                "Peter Jones",
+                "1"
+            ]
+        ]
+    }
+}

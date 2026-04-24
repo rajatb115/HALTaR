@@ -1,0 +1,52 @@
+{
+    "table-1160-1160": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Diagnosis",
+            "Albumin Level (g/dL)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Patient Information Based on Albumin Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patient with albumin level lower than 3.5, list their ID, sex and diagnosis.",
+        "data": [
+            [
+                "12345",
+                "Male",
+                "Pneumonia",
+                "3.2"
+            ],
+            [
+                "67890",
+                "Female",
+                "CHF",
+                "3.4"
+            ],
+            [
+                "24680",
+                "Male",
+                "Cirrhosis",
+                "2.8"
+            ],
+            [
+                "13579",
+                "Female",
+                "Malnutrition",
+                "3.0"
+            ],
+            [
+                "98765",
+                "Male",
+                "Nephrotic Syndrome",
+                "2.5"
+            ]
+        ]
+    }
+}

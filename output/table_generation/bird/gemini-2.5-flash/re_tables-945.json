@@ -1,0 +1,37 @@
+{
+    "table-945-945": {
+        "title": [
+            "Driver",
+            "Team",
+            "Final Position",
+            "Laps Completed",
+            "Race Duration",
+            "Time Behind Winner"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much faster in percentage is the champion than the driver who finished the race last in the 2008 Australian Grand Prix?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "McLaren",
+                "1",
+                "58",
+                "1:34:50.616",
+                "N/A"
+            ],
+            [
+                "Nick Heidfeld",
+                "BMW Sauber",
+                "2",
+                "58",
+                "",
+                ""
+            ]
+        ]
+    }
+}

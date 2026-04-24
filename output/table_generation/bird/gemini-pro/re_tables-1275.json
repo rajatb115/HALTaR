@@ -1,0 +1,52 @@
+{
+    "table-1275-1275": {
+        "title": [
+            "Patient ID",
+            "Anti-SSB Result",
+            "Other Symptoms Present",
+            "Number of Other Symptoms"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Patient Symptoms with Normal Anti-SSB Results",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients whose anti-SSB are normal, how many of them have other symptoms observed in their examination?",
+        "data": [
+            [
+                "1234",
+                "Normal",
+                "Yes",
+                "3"
+            ],
+            [
+                "5678",
+                "Normal",
+                "No",
+                "0"
+            ],
+            [
+                "9101",
+                "Normal",
+                "Yes",
+                "1"
+            ],
+            [
+                "1121",
+                "Normal",
+                "Yes",
+                "2"
+            ],
+            [
+                "3141",
+                "Normal",
+                "No",
+                "0"
+            ]
+        ]
+    }
+}

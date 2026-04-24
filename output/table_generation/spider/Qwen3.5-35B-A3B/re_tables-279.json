@@ -1,0 +1,85 @@
+{
+    "table-279-279": {
+        "title": [
+            "First_Name",
+            "Country_Code",
+            "Birth_Date",
+            "Rank_Points",
+            "Match_Wins",
+            "Tournament_ID",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name, country code and birth date of the winner who has the highest rank points in all matches.",
+        "data": [
+            [
+                "John",
+                "USA",
+                "4/12/1976",
+                "9850",
+                "5",
+                "T-2023-A",
+                "Active"
+            ],
+            [
+                "Maria",
+                "ESP",
+                "8/22/2010",
+                "N/A",
+                "0",
+                "T-N/A",
+                "Inactive"
+            ],
+            [
+                "Liam",
+                "GBR",
+                "3/15/1899",
+                "720",
+                "-1",
+                "T-Bad",
+                "Error"
+            ],
+            [
+                "Sofia",
+                "BRA",
+                "6/30/1492",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Ahmed",
+                "EGY",
+                "/ /",
+                "0",
+                "-1",
+                "",
+                ""
+            ],
+            [
+                "Elena",
+                "RUS",
+                "//",
+                ".",
+                "..",
+                "...",
+                "...."
+            ],
+            [
+                "Kai",
+                "JPN",
+                "--/--/----",
+                "----",
+                "-----",
+                "-------",
+                "--------"
+            ]
+        ]
+    }
+}

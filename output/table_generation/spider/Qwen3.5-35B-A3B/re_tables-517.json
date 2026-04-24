@@ -1,0 +1,67 @@
+{
+    "table-517-517": {
+        "title": [
+            "Country",
+            "Continent",
+            "Population",
+            "Capital City",
+            "Currency Code",
+            "Area_km\u00b2",
+            "GDP_Billion_USD"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the names of countries that are in Europe and have a population equal to 80000.",
+        "data": [
+            [
+                "Andorra",
+                "Europe",
+                "79644",
+                "Andorra la Vella",
+                "EUR",
+                "468",
+                "3.1"
+            ],
+            [
+                "Liechtenstein",
+                "Europe",
+                "39680",
+                "Vaduz",
+                "CHF",
+                "62",
+                "8.2"
+            ],
+            [
+                "Monaco",
+                "Europe",
+                "93600",
+                "Monaco",
+                "EUR",
+                "2",
+                "N/A"
+            ],
+            [
+                "San Marino",
+                "Europe",
+                "50050",
+                "San Marino",
+                "EUR",
+                "0.61",
+                "1.5"
+            ],
+            [
+                "Vatican City",
+                "Europe",
+                "825",
+                "Vatican City",
+                "EUR",
+                "0.44",
+                "N/A"
+            ]
+        ]
+    }
+}

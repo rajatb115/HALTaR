@@ -1,0 +1,39 @@
+{
+    "table-787-787": {
+        "title": [
+            "Hero",
+            "Strength"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Heroes with Maximum Strength",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many heroes have the highest attribute value in strength?",
+        "data": [
+            [
+                "Earthshaker",
+                "30"
+            ],
+            [
+                "Sven",
+                "29"
+            ],
+            [
+                "Tiny",
+                "30"
+            ],
+            [
+                "Dragon Knight",
+                "29"
+            ],
+            [
+                "Alchemist",
+                "28"
+            ]
+        ]
+    }
+}

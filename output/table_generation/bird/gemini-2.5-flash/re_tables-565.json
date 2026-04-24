@@ -1,0 +1,62 @@
+{
+    "table-565-565": {
+        "title": [
+            "Comment ID",
+            "Parent Post ID",
+            "Comment Text",
+            "Author",
+            "Timestamp"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the only one comment text of the post with parent id 107829.",
+        "data": [
+            [
+                "5001",
+                "107829",
+                "This is a very insightful analysis, thank you for sharing!",
+                "DataEnthusiast",
+                "2023-10-26 14:35:01"
+            ],
+            [
+                "5002",
+                "107830",
+                "I have a question about the methodology used here.",
+                "AnalystPro",
+                "2023-10-26 15:02:10"
+            ],
+            [
+                "5003",
+                "107829",
+                "Could you elaborate on the third point? It's a bit unclear.",
+                "CuriousMind",
+                "2023-10-26 15:15:45"
+            ],
+            [
+                "5004",
+                "107828",
+                "Great summary! Very helpful for beginners.",
+                "NewbieLearner",
+                "2023-10-26 16:00:00"
+            ],
+            [
+                "5005",
+                "107831",
+                "I disagree with the conclusion, here's why...",
+                "CriticalThinker",
+                "2023-10-26 16:30:22"
+            ],
+            [
+                "5006",
+                "107829",
+                "Looking forward to part two!",
+                "FollowerFan",
+                "2023-10-26 17:05:11"
+            ]
+        ]
+    }
+}

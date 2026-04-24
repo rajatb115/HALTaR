@@ -1,0 +1,52 @@
+{
+    "table-1525-1525": {
+        "title": [
+            "Customer ID",
+            "Purchase Date",
+            "Total Spend",
+            "Nationality"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Customer Nationality and Purchase Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What's the nationality of the customer who spent 548.4 in 2012/8/24?",
+        "data": [
+            [
+                "123",
+                "2012-08-24",
+                "548.40",
+                "German"
+            ],
+            [
+                "456",
+                "2012-07-15",
+                "230.50",
+                "American"
+            ],
+            [
+                "789",
+                "2012-09-01",
+                "125.00",
+                "British"
+            ],
+            [
+                "101",
+                "2012-08-10",
+                "876.20",
+                "French"
+            ],
+            [
+                "202",
+                "2012-08-24",
+                "321.80",
+                "Canadian"
+            ]
+        ]
+    }
+}

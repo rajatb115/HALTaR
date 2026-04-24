@@ -1,0 +1,69 @@
+{
+    "table-633-633": {
+        "title": [
+            "Voter ID",
+            "Full Name",
+            "Election Date",
+            "Votes Cast",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many votes were made by Harlan?",
+        "data": [
+            [
+                "V-4021",
+                "John Harlan",
+                "06/15/2023",
+                "3",
+                "Verified"
+            ],
+            [
+                "V-A109",
+                "Sarah Harlan-Smith",
+                "07/22/2024",
+                "5",
+                "Pending"
+            ],
+            [
+                "H-8821a",
+                "Robert H. Harlan Jr.",
+                "08/01/2023",
+                "N/A",
+                "Disqualified"
+            ],
+            [
+                "C-9921b",
+                "Emily Harland",
+                "09/10/2025",
+                "4",
+                "Confirmed"
+            ],
+            [
+                "D-1102c",
+                "Michael Harlson",
+                "06/30/2019",
+                "",
+                "Absentee"
+            ],
+            [
+                "E-5543d",
+                "David Harlan III",
+                "",
+                "",
+                "Invalid Ballot"
+            ],
+            [
+                "F-2210e",
+                "Patricia Harlan-Wright",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

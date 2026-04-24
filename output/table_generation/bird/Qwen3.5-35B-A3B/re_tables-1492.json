@@ -1,0 +1,85 @@
+{
+    "table-1492-1492": {
+        "title": [
+            "Country",
+            "Total Value-for-Money Stations",
+            "Average Price per Liter ($)",
+            "Customer Satisfaction Score",
+            "Market Share (%)",
+            "Region",
+            "Data Source Year"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country has more \"value for money\" gas stations? Please give a total number of \"value for money\" gas stations in each country.",
+        "data": [
+            [
+                "United States",
+                "4520",
+                "3.45",
+                "7.8",
+                "62%",
+                "North America",
+                "5 years ago"
+            ],
+            [
+                "Germany",
+                "890",
+                "1.85",
+                "N/A",
+                "95%",
+                "Europe",
+                "Last Quarter"
+            ],
+            [
+                "Japan",
+                "0",
+                "165",
+                "High",
+                "",
+                "Asia Pacific",
+                "Current Month"
+            ],
+            [
+                "Brazil",
+                "1205",
+                "5.20",
+                "Low",
+                "Medium",
+                "South America",
+                "Local Survey"
+            ],
+            [
+                "Australia",
+                "",
+                "1.90",
+                "Very Good",
+                "Small Chain",
+                "Oceania",
+                "Yesterday"
+            ],
+            [
+                "Canada",
+                "",
+                "155",
+                "Excellent",
+                "National Avg",
+                "Canada-wide",
+                "Today"
+            ],
+            [
+                "France",
+                "",
+                "178",
+                "Fair",
+                "Regional Study",
+                "Western Europe",
+                "Past Day"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "table-556-556": {
+        "title": [
+            "Post ID",
+            "User",
+            "Score",
+            "Category",
+            "Date Posted"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average score of the posts owned by the user csgillespie?",
+        "data": [
+            [
+                "P_4021",
+                "csg Gillespie",
+                "76",
+                "Mathematics",
+                "01/15/2023"
+            ],
+            [
+                "P_4105",
+                "cscgillespie",
+                "-12",
+                "Statistics",
+                "3/22/2023"
+            ],
+            [
+                "P_A992",
+                "cs_gillespie_c",
+                "45",
+                "Probability",
+                "5/10/2024"
+            ],
+            [
+                "P_B1122",
+                "c.s.gillespie.dev",
+                "88",
+                "Linear Algebra",
+                "06/01/2019"
+            ],
+            [
+                "P_C3344",
+                "gillespie_cs",
+                "92",
+                "Machine Learning",
+                "11/30/2019"
+            ]
+        ]
+    }
+}

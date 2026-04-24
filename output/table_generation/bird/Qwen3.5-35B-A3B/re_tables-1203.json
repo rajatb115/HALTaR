@@ -1,0 +1,62 @@
+{
+    "table-1203-1203": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Test Date",
+            "Diagnosis",
+            "Hospital Stay Duration"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male patients who underwent testing between 1995 and 1997 and were subsequently diagnosed with BEHCET disease did not stay in the hospital for treatment?",
+        "data": [
+            [
+                "P-4021",
+                "Male",
+                "03/12/1965",
+                "Behcet's Disease",
+                "None"
+            ],
+            [
+                "P-4105",
+                "Male",
+                "06/22/2012",
+                "Behcet's Syndrome",
+                "None"
+            ],
+            [
+                "P-A992",
+                "Male",
+                "11/05/1899",
+                "Behcets Condition",
+                "Outpatient Only"
+            ],
+            [
+                "M-7731",
+                "Male",
+                "02/30/1704",
+                "Behceit Disorder",
+                "No Admission"
+            ],
+            [
+                "X-1120",
+                "Male",
+                "",
+                "Behcet Related Illness",
+                "Ambulatory Care"
+            ],
+            [
+                "Q-8842",
+                "Male",
+                "",
+                "",
+                "None"
+            ]
+        ]
+    }
+}

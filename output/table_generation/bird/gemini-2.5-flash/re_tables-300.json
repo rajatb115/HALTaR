@@ -1,0 +1,69 @@
+{
+    "table-300-300": {
+        "title": [
+            "Molecule Name",
+            "CAS Number",
+            "IARC Group",
+            "Carcinogenicity Status",
+            "Primary Evidence"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Is molecule TR124 carcinogenic?",
+        "data": [
+            [
+                "TR124",
+                "12345-67-8",
+                "Group 2B",
+                "Possible Carcinogen",
+                "Limited Animal Studies"
+            ],
+            [
+                "Benzene",
+                "71-43-2",
+                "Group 1",
+                "Known Carcinogen",
+                "Human Epidemiological"
+            ],
+            [
+                "Formaldehyde",
+                "50-00-0",
+                "Group 1",
+                "Known Carcinogen",
+                "Human Epidemiological"
+            ],
+            [
+                "Caffeine",
+                "58-08-2",
+                "Group 3",
+                "Not Classifiable",
+                "Extensive Human Studies"
+            ],
+            [
+                "Ethanol",
+                "64-17-5",
+                "Group 1",
+                "Known Carcinogen",
+                "Human Epidemiological"
+            ],
+            [
+                "Asbestos",
+                "1332-21-4",
+                "Group 1",
+                "Known Carcinogen",
+                "Human Epidemiological"
+            ],
+            [
+                "Vitamin C",
+                "50-81-7",
+                "Group 3",
+                "Non-Carcinogenic",
+                "Extensive Human Studies"
+            ]
+        ]
+    }
+}

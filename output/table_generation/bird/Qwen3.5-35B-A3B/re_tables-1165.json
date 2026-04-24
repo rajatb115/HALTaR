@@ -1,0 +1,69 @@
+{
+    "table-1165-1165": {
+        "title": [
+            "Patient ID",
+            "Condition Severity",
+            "Examination Date",
+            "Gender",
+            "Case Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the patients with the most serious thrombosis cases examined in 1997 are women?",
+        "data": [
+            [
+                "P-4092",
+                "Severe Thrombosis",
+                "03/12/1977",
+                "Female",
+                "Active"
+            ],
+            [
+                "P-4105",
+                "Critical Thrombolysis",
+                "06/15/1797",
+                "Male",
+                "Resolved"
+            ],
+            [
+                "P-4211",
+                "Acute Deep Vein Thrombo",
+                "09/22/2027",
+                "Female",
+                "Under Treatment"
+            ],
+            [
+                "P-4302",
+                "Pulmonary Embolism",
+                "04/01/1897",
+                "Female",
+                "Stable"
+            ],
+            [
+                "P-4419",
+                "Cerebral Venous Sinus T",
+                "07/14/1697",
+                "Male",
+                "Critical"
+            ],
+            [
+                "P-4503",
+                "Systemic Arterial Thro",
+                "08/30/1097",
+                "",
+                "Pending Review"
+            ],
+            [
+                "P-5002",
+                "Severe DVT",
+                "12-01-1907",
+                "Female",
+                "Discharged"
+            ]
+        ]
+    }
+}

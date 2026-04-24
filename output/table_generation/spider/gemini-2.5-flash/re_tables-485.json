@@ -1,0 +1,61 @@
+{
+    "table-485-485": {
+        "title": [
+            "Country",
+            "Founding Year",
+            "Official Languages Count",
+            "Primary Official Language"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the countries founded before 1930, what is the total number of distinct official languages?",
+        "data": [
+            [
+                "United States",
+                "1776",
+                "1",
+                "English"
+            ],
+            [
+                "France",
+                "1789",
+                "1",
+                "French"
+            ],
+            [
+                "United Kingdom",
+                "1707",
+                "1",
+                "English"
+            ],
+            [
+                "India",
+                "1947",
+                "22",
+                "Hindi"
+            ],
+            [
+                "Brazil",
+                "1822",
+                "1",
+                "Portuguese"
+            ],
+            [
+                "Canada",
+                "1867",
+                "2",
+                "English"
+            ],
+            [
+                "South Africa",
+                "1910",
+                "12",
+                "Afrikaans"
+            ]
+        ]
+    }
+}

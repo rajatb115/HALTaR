@@ -1,0 +1,77 @@
+{
+    "table-70-70": {
+        "title": [
+            "NCES District ID",
+            "School Name",
+            "Ownership Code",
+            "Ownership Type",
+            "State Abbr",
+            "Total Enrollment"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide the National Center for Educational Statistics school district identification number for all schools with a School Ownership Code that are part of the State Special Schools.",
+        "data": [
+            [
+                "0600001",
+                "California School for the Deaf",
+                "4",
+                "State Special School",
+                "CA",
+                "450"
+            ],
+            [
+                "3600002",
+                "New York State School for the Blind",
+                "4",
+                "State Special School",
+                "NY",
+                "120"
+            ],
+            [
+                "4800003",
+                "Texas School for the Deaf",
+                "4",
+                "State Special School",
+                "TX",
+                "300"
+            ],
+            [
+                "1200004",
+                "Florida School for the Deaf and Blind",
+                "4",
+                "State Special School",
+                "FL",
+                "600"
+            ],
+            [
+                "1700005",
+                "Illinois State Special Education Center",
+                "4",
+                "State Special School",
+                "IL",
+                "250"
+            ],
+            [
+                "4200006",
+                "Pennsylvania State Hospital School",
+                "4",
+                "State Special School",
+                "PA",
+                "180"
+            ],
+            [
+                "3900007",
+                "Ohio State School for the Deaf",
+                "4",
+                "State Special School",
+                "OH",
+                "200"
+            ]
+        ]
+    }
+}

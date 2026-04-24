@@ -1,0 +1,48 @@
+{
+    "table-1158-1158": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Diagnosis"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patients with severe degree of thrombosis, list their ID, sex and dieseas the patient is diagnosed with.",
+        "data": [
+            [
+                "P1001",
+                "Female",
+                "Deep Vein Thrombosis"
+            ],
+            [
+                "P1002",
+                "Male",
+                "Pulmonary Embolism"
+            ],
+            [
+                "P1003",
+                "Female",
+                "Cerebral Venous Thrombosis"
+            ],
+            [
+                "P1004",
+                "Male",
+                "Myocardial Infarction"
+            ],
+            [
+                "P1005",
+                "Female",
+                "Portal Vein Thrombosis"
+            ],
+            [
+                "P1006",
+                "Male",
+                "Ischemic Stroke"
+            ]
+        ]
+    }
+}

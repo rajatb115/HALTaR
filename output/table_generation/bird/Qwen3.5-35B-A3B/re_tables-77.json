@@ -1,0 +1,85 @@
+{
+    "table-77-77": {
+        "title": [
+            "School ID",
+            "County",
+            "Grade Level Range",
+            "Lunch Provision",
+            "City Location",
+            "Enrollment Count",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the city location of the high school level school with Lunch Provision 2 whose lowest grade is 9 and the highest grade is 12 in the county of Merced?",
+        "data": [
+            [
+                "SCH-MER-4012",
+                "Merced",
+                "9-12",
+                "2",
+                "Atwater",
+                "645",
+                "Active"
+            ],
+            [
+                "SCH-CEN-7721",
+                "Stanislaus",
+                "8-11",
+                "1",
+                "Modesto",
+                "520",
+                "Closed"
+            ],
+            [
+                "SCH-FRE-3309",
+                "Fresno",
+                "7-10",
+                "3",
+                "Clovis",
+                "410",
+                "Pending"
+            ],
+            [
+                "SCH-SAN-1928",
+                "San Joaquin",
+                "3-5",
+                "0",
+                "Stockton",
+                "",
+                "Inactive"
+            ],
+            [
+                "SCH-LIV-5543",
+                "Alameda",
+                "K-8",
+                "2",
+                "Livermore",
+                "",
+                "Reviewing"
+            ],
+            [
+                "SCH-VAC-8812",
+                "Contra Costa",
+                "",
+                "",
+                "",
+                "Open",
+                "Operational"
+            ],
+            [
+                "SCH-RIC-2201",
+                "Solano",
+                "",
+                "",
+                "",
+                "Active",
+                "Verified"
+            ]
+        ]
+    }
+}

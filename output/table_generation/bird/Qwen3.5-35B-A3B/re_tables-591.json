@@ -1,0 +1,62 @@
+{
+    "table-591-591": {
+        "title": [
+            "User_ID",
+            "Total_Views",
+            "Last_Active_Date",
+            "Account_Status",
+            "Region"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user ID has the lowest view?",
+        "data": [
+            [
+                "U10492",
+                "3",
+                "7/12/2023",
+                "Active",
+                "North America"
+            ],
+            [
+                "U20183",
+                "-1",
+                "N/A",
+                "Suspended",
+                "Europe"
+            ],
+            [
+                "U30561",
+                "0",
+                "8/01/2023",
+                "Inactive",
+                "Asia Pacific"
+            ],
+            [
+                "U40922",
+                "-5",
+                "6/15/2234",
+                "Pending Review",
+                "South America"
+            ],
+            [
+                "U50114",
+                "5",
+                "N/D",
+                "Active",
+                "Africa"
+            ],
+            [
+                "U60332",
+                "None",
+                "9/02/1923",
+                "Closed",
+                "Oceania"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-20-20": {
+        "title": [
+            "Stadium Name",
+            "City",
+            "Capacity",
+            "Event Type",
+            "Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show names for all stadiums except for stadiums having a concert in year 2014.",
+        "data": [
+            [
+                "Grand Arena",
+                "New York",
+                "55000",
+                "Concert",
+                "2015"
+            ],
+            [
+                "Metro Dome",
+                "Los Angeles",
+                "70000",
+                "Sports Match",
+                "2014"
+            ],
+            [
+                "Central Stadium",
+                "Chicago",
+                "60000",
+                "Concert",
+                "2014"
+            ],
+            [
+                "Riverfront Park",
+                "Houston",
+                "45000",
+                "Festival",
+                "2016"
+            ],
+            [
+                "Mountain View",
+                "Denver",
+                "50000",
+                "Concert",
+                "2013"
+            ],
+            [
+                "Ocean Bowl",
+                "Miami",
+                "65000",
+                "Sports Match",
+                "2015"
+            ],
+            [
+                "Sky High Venue",
+                "Seattle",
+                "48000",
+                "Concert",
+                "2014"
+            ]
+        ]
+    }
+}

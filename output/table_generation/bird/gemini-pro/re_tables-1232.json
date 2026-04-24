@@ -1,0 +1,46 @@
+{
+    "table-1232-1232": {
+        "title": [
+            "Birth Year",
+            "Number of Male Patients",
+            "CPK Above Normal Range"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Creatinine Phosphokinase Levels in Male Patients by Birth Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patient born between 1936-1956, how many male patients have creatinine phosphokinase beyond the normal range?",
+        "data": [
+            [
+                "1936-1940",
+                "15",
+                "3"
+            ],
+            [
+                "1941-1945",
+                "22",
+                "7"
+            ],
+            [
+                "1946-1950",
+                "31",
+                "12"
+            ],
+            [
+                "1951-1956",
+                "28",
+                "9"
+            ],
+            [
+                "Total",
+                "96",
+                "31"
+            ]
+        ]
+    }
+}

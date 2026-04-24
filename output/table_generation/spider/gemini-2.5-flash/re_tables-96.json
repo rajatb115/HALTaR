@@ -1,0 +1,69 @@
+{
+    "table-96-96": {
+        "title": [
+            "Model",
+            "Year",
+            "Cylinders",
+            "Acceleration (0-60 mph)",
+            "Horsepower"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For model volvo, how many cylinders does the car with the least accelerate have?",
+        "data": [
+            [
+                "Volvo S60 B5",
+                "2023",
+                "4",
+                "6.4s",
+                "247"
+            ],
+            [
+                "Volvo XC40 B5",
+                "2024",
+                "4",
+                "6.7s",
+                "247"
+            ],
+            [
+                "Volvo XC60 B5",
+                "2023",
+                "4",
+                "6.5s",
+                "247"
+            ],
+            [
+                "Volvo XC90 B6",
+                "2024",
+                "4",
+                "6.1s",
+                "295"
+            ],
+            [
+                "Volvo V60 Cross Country B5",
+                "2023",
+                "4",
+                "6.8s",
+                "247"
+            ],
+            [
+                "Volvo S90 B6",
+                "2023",
+                "4",
+                "6.6s",
+                "295"
+            ],
+            [
+                "Volvo V90 Cross Country B6",
+                "2024",
+                "4",
+                "6.2s",
+                "295"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-102-102": {
+        "title": [
+            "Car Model",
+            "Cylinders",
+            "Year",
+            "MPG"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Fuel Efficiency of Cars",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum miles per gallon of the car with 8 cylinders or produced before 1980 ?",
+        "data": [
+            [
+                "Ford LTD",
+                "8",
+                "1978",
+                "13"
+            ],
+            [
+                "Chevrolet Impala",
+                "8",
+                "1976",
+                "13"
+            ],
+            [
+                "Toyota Corolla",
+                "4",
+                "1975",
+                "24"
+            ],
+            [
+                "AMC Concord",
+                "6",
+                "1979",
+                "18"
+            ],
+            [
+                "Buick Regal",
+                "6",
+                "1978",
+                "19"
+            ]
+        ]
+    }
+}

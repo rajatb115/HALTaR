@@ -1,0 +1,46 @@
+{
+    "table-1043-1043": {
+        "title": [
+            "League Name",
+            "Home Team Avg Goals",
+            "Away Team Avg Goals"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Leagues with High Home Team Goal Average (2009-2010)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of leagues in which the average goals by the home team is higher than the away team in the 2009/2010 season.",
+        "data": [
+            [
+                "Premier League",
+                "1.65",
+                "1.15"
+            ],
+            [
+                "La Liga",
+                "1.70",
+                "1.20"
+            ],
+            [
+                "Serie A",
+                "1.55",
+                "1.10"
+            ],
+            [
+                "Bundesliga",
+                "1.60",
+                "1.25"
+            ],
+            [
+                "Ligue 1",
+                "1.45",
+                "0.95"
+            ]
+        ]
+    }
+}

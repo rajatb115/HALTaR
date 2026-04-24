@@ -1,0 +1,61 @@
+{
+    "table-1531-1531": {
+        "title": [
+            "Rank",
+            "Product Full Name",
+            "Category",
+            "Units Sold",
+            "Revenue USD",
+            "Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which are the top five best selling products? Please state the full name of them.",
+        "data": [
+            [
+                "1",
+                "UltraSlim Wireless Keyboard Pro",
+                "Electronics",
+                "4520",
+                "$678,000",
+                "North America"
+            ],
+            [
+                "2",
+                "ErgoComfort Office Chair Deluxe",
+                "Furniture",
+                "3890",
+                "$1,167,000",
+                "Europe"
+            ],
+            [
+                "3",
+                "SmartHome Hub Gen 4",
+                "Consumer Tech",
+                "5100",
+                "$255,000",
+                "Global"
+            ],
+            [
+                "4",
+                "Organic Cotton Bedding Set King",
+                "Home & Living",
+                "620",
+                "$186,000",
+                "Asia Pacific"
+            ],
+            [
+                "5",
+                "Portable Power Bank 25k mAh",
+                "Accessories",
+                "8950",
+                "$447,500",
+                "Worldwide"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-1258-1258": {
+        "title": [
+            "Patient ID",
+            "CRP Status",
+            "Age Group",
+            "Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients whose C-reactive protein level is abnormal, how many of them aren't 18 yet?",
+        "data": [
+            [
+                "P-1042",
+                "Abnormal",
+                "Under 16",
+                "3"
+            ],
+            [
+                "Total",
+                "Abnormal",
+                "< 17",
+                "12"
+            ],
+            [
+                "Filtered by Lab Results",
+                "EMR System",
+                "Q3 24",
+                "North America"
+            ]
+        ]
+    }
+}

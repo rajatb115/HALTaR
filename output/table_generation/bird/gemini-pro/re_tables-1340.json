@@ -1,0 +1,31 @@
+{
+    "table-1340-1340": {
+        "title": [
+            "Name",
+            "Month",
+            "Total Cost",
+            "Average Cost"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Event Cost Summary",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total average cost that Elijah Allen spent in the events on September and October.",
+        "data": [
+            [
+                "Elijah Allen",
+                "September",
+                "$X",
+                "$Y"
+            ],
+            [
+                "Elijah Allen",
+                "October",
+                "$Z",
+                "$W"
+            ]
+        ]
+    }
+}

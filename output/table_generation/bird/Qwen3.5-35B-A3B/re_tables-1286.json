@@ -1,0 +1,69 @@
+{
+    "table-1286-1286": {
+        "title": [
+            "Patient ID",
+            "Lactate Dehydrogenases Level",
+            "Abnormal Status",
+            "Latest Record Date",
+            "Department"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When is the latest patient's medical data recorded? This patient should have an abnormal level of lactate dehydrogenase.",
+        "data": [
+            [
+                "P-4092",
+                "650 U/L",
+                "High",
+                "7/15/2023",
+                "Oncology"
+            ],
+            [
+                "P-4105",
+                "580 U/mL",
+                "Elevated",
+                "8/02/2023",
+                "Hematology"
+            ],
+            [
+                "P-B221",
+                "490 IU/L",
+                "Borderline",
+                "9/10/2022",
+                "Cardiology"
+            ],
+            [
+                "N-A889",
+                "320 mg/dL",
+                "Normal",
+                "5/11/2024",
+                "Neurology"
+            ],
+            [
+                "T-K102",
+                "",
+                "Pending Review",
+                "",
+                "Internal Medicine"
+            ],
+            [
+                "R-L993",
+                "710 Units",
+                "Critical",
+                "12/01",
+                "Emergency"
+            ],
+            [
+                "M-X445",
+                "550 mmol/L",
+                "Severe",
+                "",
+                "ICU"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "table-446-446": {
+        "title": [
+            "Card Name",
+            "Language",
+            "Flavor Text",
+            "Color Pie Watermark",
+            "Card Type",
+            "Mana Cost",
+            "Rarity",
+            "Set Code"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the language and flavor text of the card that has colorpie watermark? List out the type of this card.",
+        "data": [
+            [
+                "Lightning Strike",
+                "English",
+                "\"The sky screams in pain.\"",
+                "Red",
+                "Instant",
+                "{R}",
+                "Common",
+                "M24"
+            ],
+            [
+                "Shock",
+                "Spanish",
+                "\"El cielo grita de dolor.\"",
+                "Blue/Red",
+                "Sorcery",
+                "{U}{R}",
+                "Uncommon",
+                "KLD"
+            ],
+            [
+                "Path to Exile",
+                "French",
+                "\"Le chemin vers l'exil s'ouvre.\"",
+                "White/Green",
+                "Enchantment Creature",
+                "{W}/{G}",
+                "Rare",
+                ""
+            ],
+            [
+                "Brainstorm",
+                "German",
+                "\"Der Geist fl\u00fcstert im Wind.\"",
+                "Artifact Land",
+                "Legendary Creature",
+                "N/A",
+                "Mythic",
+                "UDG"
+            ],
+            [
+                "Counterspell",
+                "Italian",
+                "\"Il tempo si ferma per un istante.\"",
+                "Black/White",
+                "Instant Artifact",
+                "{B}/{W}",
+                "Rare",
+                "C17"
+            ],
+            [
+                "Force of Will",
+                "Japanese",
+                "\"\u610f\u5fd7\u306f\u529b\u3068\u306a\u308b\u3002\"",
+                "Blue/Purple",
+                "Sorcerer",
+                "{UB}",
+                "Mythical",
+                "ANI"
+            ],
+            [
+                "Dark Ritual",
+                "Portuguese",
+                "\"O ritual escuro consome almas.\"",
+                "Purple",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

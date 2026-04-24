@@ -1,0 +1,76 @@
+{
+    "table-452-452": {
+        "title": [
+            "Country",
+            "Continent",
+            "Government_Type",
+            "Life_Expectancy_Years",
+            "Population_Millions",
+            "GDP_Per_Capita_USD",
+            "Region_Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the average life expectancy for countries in Africa which are republics?",
+        "data": [
+            [
+                "Nigeria",
+                "Africa",
+                "Republic",
+                "54.7",
+                "6.2",
+                "4,000",
+                "AF-NIG"
+            ],
+            [
+                "Kenya",
+                "Africa",
+                "Republic",
+                "66.8",
+                "3.1",
+                "8,050",
+                "KE-KEN"
+            ],
+            [
+                "Ghana",
+                "Africa",
+                "Republic",
+                "71.0",
+                "0.9",
+                "9,060",
+                "GH-GHA"
+            ],
+            [
+                "Ethiopia",
+                "Africa",
+                "Republic",
+                "68.0",
+                "1.1",
+                "2,700",
+                "ET-ETH"
+            ],
+            [
+                "Tanzania",
+                "Africa",
+                "Republic",
+                "67.0",
+                "1.3",
+                "2,205",
+                "TZ-TZA"
+            ],
+            [
+                "Uganda",
+                "Africa",
+                "Republic",
+                "66.0",
+                "1.2",
+                "1,800",
+                "UG-UGA"
+            ]
+        ]
+    }
+}

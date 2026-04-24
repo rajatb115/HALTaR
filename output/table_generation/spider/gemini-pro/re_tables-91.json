@@ -1,0 +1,43 @@
+{
+    "table-91-91": {
+        "title": [
+            "Model",
+            "Make",
+            "Weight (lbs)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Car Models and Specifications",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the different models created by either the car maker General Motors or weighed more than 3500?",
+        "data": [
+            [
+                "Corvette",
+                "Chevrolet",
+                "3300-3600"
+            ],
+            [
+                "Silverado 1500",
+                "Chevrolet",
+                "4500-5500"
+            ],
+            [
+                "Sierra 1500",
+                "GMC",
+                "4500-5500"
+            ],
+            [
+                "Tahoe",
+                "Chevrolet",
+                "5000-5500"
+            ],
+            [
+                "Escalade",
+                "Cadillac",
+                "5500-6000"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-675-675": {
+        "title": [
+            "Display Name",
+            "Reputation"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Users by Reputation",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who has the highest reputation? Please give the display name.",
+        "data": [
+            [
+                "Jon Skeet",
+                "1234567"
+            ],
+            [
+                "User1",
+                "987654"
+            ],
+            [
+                "User2",
+                "876543"
+            ],
+            [
+                "User3",
+                "765432"
+            ],
+            [
+                "User4",
+                "654321"
+            ]
+        ]
+    }
+}

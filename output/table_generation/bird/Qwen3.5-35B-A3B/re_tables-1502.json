@@ -1,0 +1,69 @@
+{
+    "table-1502-1502": {
+        "title": [
+            "Station ID",
+            "Country",
+            "Transaction Date",
+            "Fuel Volume (L)",
+            "Currency"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the countries of the gas stations with transactions taken place in June, 2013.",
+        "data": [
+            [
+                "GS-4021",
+                "Germany",
+                "06/02/2023",
+                "45.5",
+                "EUR"
+            ],
+            [
+                "GS-4105",
+                "France",
+                "06/15/2023",
+                "32.0",
+                "EUR"
+            ],
+            [
+                "GS-BRZ-99",
+                "Brazil",
+                "07/01/2024",
+                "50.000",
+                "USD"
+            ],
+            [
+                "GS-JPN-Tokyo",
+                "Japan",
+                "08/12/2019",
+                "95.0",
+                "JPY"
+            ],
+            [
+                "GS-AUS-Syd",
+                "Australia",
+                "09/03/2022",
+                "",
+                "AUD"
+            ],
+            [
+                "GS-CAN-Van",
+                "Canada",
+                "10/11/2018",
+                "N/A",
+                "CAD"
+            ],
+            [
+                "GS-MEX-Cdmx",
+                "Mexico",
+                "",
+                "",
+                "MXN"
+            ]
+        ]
+    }
+}

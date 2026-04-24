@@ -1,0 +1,61 @@
+{
+    "table-275-275": {
+        "title": [
+            "Winner_Name",
+            "Age_at_Win",
+            "Rank",
+            "Match_Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name and rank of the 3 youngest winners across all matches.",
+        "data": [
+            [
+                "Alice Johnson",
+                "47",
+                "3rd",
+                "Tennis Open"
+            ],
+            [
+                "Bob Smith",
+                "52",
+                "6th",
+                "Chess Championship"
+            ],
+            [
+                "Carol Davis",
+                "89",
+                "9th",
+                "Bridge Tournament"
+            ],
+            [
+                "David Lee",
+                "71",
+                "0th",
+                "Poker Series"
+            ],
+            [
+                "Eva Martinez",
+                "",
+                "N/A",
+                "Golf Classic"
+            ],
+            [
+                "Frank White",
+                "",
+                "N/A",
+                "Marathon Run"
+            ],
+            [
+                "Grace Kim",
+                "",
+                "N/A",
+                "Swimming Gala"
+            ]
+        ]
+    }
+}

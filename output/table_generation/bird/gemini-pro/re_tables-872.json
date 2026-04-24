@@ -1,0 +1,51 @@
+{
+    "table-872-872": {
+        "title": [
+            "Race Number",
+            "Driver",
+            "Q2 Time",
+            "Nationality"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Driver Nationality Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the driver who had the Q2 time as 0:01:15 in race No. 347, where is he from?",
+        "data": [
+            [
+                "347",
+                "Lewis Hamilton",
+                "0:01:15",
+                "British"
+            ],
+            [
+                "348",
+                "Max Verstappen",
+                "0:01:16",
+                "Dutch"
+            ],
+            [
+                "349",
+                "Charles LeClerc",
+                "0:01:14",
+                "Monegasque"
+            ],
+            [
+                "350",
+                "George Russell",
+                "0:01:17",
+                "British"
+            ],
+            [
+                "351",
+                "Sergio Perez",
+                "0:01:13",
+                "Mexican"
+            ]
+        ]
+    }
+}

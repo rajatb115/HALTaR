@@ -1,0 +1,39 @@
+{
+    "table-49-49": {
+        "title": [
+            "School District Type",
+            "Number of Merged Districts"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Orange County School District Mergers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the ratio of merged Unified School District schools in Orange County to merged Elementary School District schools?",
+        "data": [
+            [
+                "Unified School District",
+                "15"
+            ],
+            [
+                "Elementary School District",
+                "10"
+            ],
+            [
+                "High School District",
+                "5"
+            ],
+            [
+                "City School District",
+                "2"
+            ],
+            [
+                "Union High School District",
+                "3"
+            ]
+        ]
+    }
+}

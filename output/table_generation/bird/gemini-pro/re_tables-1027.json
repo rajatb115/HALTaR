@@ -1,0 +1,53 @@
+{
+    "table-1027-1027": {
+        "title": [
+            "Home Team",
+            "Wins",
+            "Losses",
+            "Draws"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "2016 Season Home Team Performance",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which home team had lost the fewest matches in the 2016 season?",
+        "data": [
+            [
+                "Team A",
+                "15",
+                "2",
+                "2"
+            ],
+            [
+                "Team B",
+                "14",
+                "3",
+                "2"
+            ],
+            [
+                "Team C",
+                "13",
+                "4",
+                "2"
+            ],
+            [
+                "Team D",
+                "12",
+                "5",
+                "2"
+            ],
+            [
+                "Team E",
+                "11",
+                "6",
+                "2"
+            ]
+        ]
+    }
+}

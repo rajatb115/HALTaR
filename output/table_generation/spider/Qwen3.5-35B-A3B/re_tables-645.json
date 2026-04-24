@@ -1,0 +1,76 @@
+{
+    "table-645-645": {
+        "title": [
+            "Citizenship",
+            "Maximum Net Worth",
+            "Currency",
+            "Data Source",
+            "Last Updated",
+            "Record ID",
+            "Confidence Level"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For each citizenship, what is the maximum net worth?",
+        "data": [
+            [
+                "United States",
+                "$476,000,023,045",
+                "USD",
+                "Global Wealth Report",
+                "01/15/2024",
+                "US-WH-0092",
+                "High"
+            ],
+            [
+                "China",
+                "$312,098,451,203",
+                "CNY",
+                "Asian Financial Review",
+                "30/12/2023",
+                "CN-FR-1104",
+                "Medium"
+            ],
+            [
+                "Germany",
+                "$189,234,567,890",
+                "EUR",
+                "European Economic Survey",
+                "01/01/2024",
+                "DE-EES-0881",
+                "High"
+            ],
+            [
+                "Japan",
+                "$245,678,901,123",
+                "JPY",
+                "Japanese Central Bank",
+                "03/06/2024",
+                "JP-CB-2291",
+                "Low"
+            ],
+            [
+                "United Kingdom",
+                "\u00a3156,789.45",
+                "GBP",
+                "UK Statistics Office",
+                "11/07/2022",
+                "GB-SO-3342",
+                "High"
+            ],
+            [
+                "Canada",
+                "",
+                "CAD",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

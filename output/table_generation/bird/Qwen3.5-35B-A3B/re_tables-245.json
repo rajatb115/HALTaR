@@ -1,0 +1,77 @@
+{
+    "table-245-245": {
+        "title": [
+            "Molecule ID",
+            "Common Name",
+            "Double Bond Count",
+            "Carcinogen Status",
+            "CAS Registry Number",
+            "Primary Source"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Is the molecule with the most double bonds carcinogenic?",
+        "data": [
+            [
+                "MOL-042",
+                "Benz[a]pyrene",
+                "6",
+                "Yes",
+                "50-32-8",
+                "Combustion byproduct"
+            ],
+            [
+                "MOL-117",
+                "Anthracene",
+                "3",
+                "No",
+                "120-12-7",
+                "Coal tar derivative"
+            ],
+            [
+                "MOL-203",
+                "Benzo[c]phenanthrene",
+                "5",
+                "Unknown",
+                "191-24-2",
+                "Petroleum residue"
+            ],
+            [
+                "MOL-339",
+                "Chrysene",
+                "4",
+                "Suspected",
+                "218-01-9",
+                "Tobacco smoke"
+            ],
+            [
+                "MOL-451",
+                "Dibenzopyrene",
+                "7",
+                "Confirmed",
+                "1321-64-4",
+                "Vehicle exhaust"
+            ],
+            [
+                "MOL-582",
+                "Fluoranthene",
+                "5",
+                "No",
+                "206-44-0",
+                "Forest fire emissions"
+            ],
+            [
+                "MOL-694",
+                "Perylene",
+                "6",
+                "Yes",
+                "197-52-2",
+                "Asphalt fumes"
+            ]
+        ]
+    }
+}

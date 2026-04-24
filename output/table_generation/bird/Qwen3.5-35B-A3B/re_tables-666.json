@@ -1,0 +1,125 @@
+{
+    "table-666-666": {
+        "title": [
+            "Month",
+            "Total_Links_Created",
+            "Posts_With_Max_2_Answers",
+            "Average_Monthly_Links",
+            "Data_Source",
+            "Query_Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 13,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average monthly number of links created in 2010 for posts that have no more than 2 answers?",
+        "data": [
+            [
+                "January",
+                "4520",
+                "3100",
+                "N/A",
+                "StackOverflow_Archive",
+                "Pending"
+            ],
+            [
+                "February",
+                "5103",
+                "67000/21",
+                "N/A",
+                "",
+                ""
+            ],
+            [
+                "March",
+                "4450",
+                "Yes",
+                "Calculated",
+                "Verified",
+                ""
+            ],
+            [
+                "April",
+                "7205",
+                "98% match rate",
+                "Estimated",
+                "Internal_DB",
+                ""
+            ],
+            [
+                "May",
+                "0",
+                "No matching records found",
+                "Zero",
+                "Audit_Log",
+                ""
+            ],
+            [
+                "June",
+                "",
+                "Missing metadata entry",
+                "Unknown",
+                "System_Error",
+                ""
+            ],
+            [
+                "July",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "August",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "September",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "October",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "November",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "December",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Average",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

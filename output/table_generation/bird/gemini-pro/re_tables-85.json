@@ -1,0 +1,45 @@
+{
+    "table-85-85": {
+        "title": [
+            "First Name",
+            "District",
+            "Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "School Administrator First Name Frequency by District",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the two most common first names among the school administrators? Indicate the district to which they administer.",
+        "data": [
+            [
+                "Michael",
+                "District A",
+                "3"
+            ],
+            [
+                "Jennifer",
+                "District B",
+                "2"
+            ],
+            [
+                "Michael",
+                "District C",
+                "2"
+            ],
+            [
+                "David",
+                "District A",
+                "2"
+            ],
+            [
+                "Jennifer",
+                "District A",
+                "2"
+            ]
+        ]
+    }
+}

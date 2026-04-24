@@ -1,0 +1,69 @@
+{
+    "table-1286-1286": {
+        "title": [
+            "Patient ID",
+            "Record Date",
+            "LDH Level (U/L)",
+            "LDH Status",
+            "Primary Diagnosis"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When is the latest patient's medical data recorded? This patient should have an abnormal level of lactate dehydrogenase.",
+        "data": [
+            [
+                "1001",
+                "2023-11-15",
+                "205",
+                "Normal",
+                "Routine Check-up"
+            ],
+            [
+                "1002",
+                "2023-10-28",
+                "340",
+                "Elevated",
+                "Viral Infection"
+            ],
+            [
+                "1003",
+                "2023-12-01",
+                "190",
+                "Normal",
+                "Follow-up Visit"
+            ],
+            [
+                "1004",
+                "2023-11-20",
+                "415",
+                "Elevated",
+                "Liver Dysfunction"
+            ],
+            [
+                "1005",
+                "2023-12-05",
+                "225",
+                "Normal",
+                "Post-op Recovery"
+            ],
+            [
+                "1006",
+                "2023-12-10",
+                "590",
+                "Severely Elevated",
+                "Hemolytic Anemia"
+            ],
+            [
+                "1007",
+                "2023-11-25",
+                "115",
+                "Low",
+                "Malnutrition"
+            ]
+        ]
+    }
+}

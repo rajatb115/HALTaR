@@ -1,0 +1,46 @@
+{
+    "table-411-411": {
+        "title": [
+            "Player Name",
+            "Height (cm)",
+            "Average Earnings ($)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Poker Player Earnings and Height",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give average earnings of poker players who are taller than 200.",
+        "data": [
+            [
+                "John Doe",
+                "203",
+                "500,000"
+            ],
+            [
+                "Jane Smith",
+                "201",
+                "750,000"
+            ],
+            [
+                "Peter Jones",
+                "205",
+                "600,000"
+            ],
+            [
+                "Alice Brown",
+                "202",
+                "400,000"
+            ],
+            [
+                "David Lee",
+                "208",
+                "800,000"
+            ]
+        ]
+    }
+}

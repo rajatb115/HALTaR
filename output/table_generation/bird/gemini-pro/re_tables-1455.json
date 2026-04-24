@@ -1,0 +1,43 @@
+{
+    "table-1455-1455": {
+        "title": [
+            "Event Type",
+            "Total Cost",
+            "Percentage of Total Cost"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Game Event Cost Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of the cost for the game events?",
+        "data": [
+            [
+                "Opening Ceremony",
+                "$500,000",
+                "25%"
+            ],
+            [
+                "Tournament Matches",
+                "$800,000",
+                "40%"
+            ],
+            [
+                "Award Ceremony",
+                "$300,000",
+                "15%"
+            ],
+            [
+                "Fan Zone Activities",
+                "$200,000",
+                "10%"
+            ],
+            [
+                "Closing Concert",
+                "$200,000",
+                "10%"
+            ]
+        ]
+    }
+}

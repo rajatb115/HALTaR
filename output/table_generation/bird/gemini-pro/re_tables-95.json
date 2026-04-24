@@ -1,0 +1,51 @@
+{
+    "table-95-95": {
+        "title": [
+            "Account Number",
+            "Gender",
+            "Age",
+            "Average Salary"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Female Client Account Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the account numbers of female clients who are oldest and has lowest average salary, calculate the gap between this lowest average salary with the highest average salary?",
+        "data": [
+            [
+                "ACC123",
+                "Female",
+                "65",
+                "$30,000"
+            ],
+            [
+                "ACC456",
+                "Female",
+                "62",
+                "$35,000"
+            ],
+            [
+                "ACC789",
+                "Female",
+                "60",
+                "$40,000"
+            ],
+            [
+                "ACC101",
+                "Female",
+                "58",
+                "$45,000"
+            ],
+            [
+                "ACC112",
+                "Female",
+                "55",
+                "$50,000"
+            ]
+        ]
+    }
+}

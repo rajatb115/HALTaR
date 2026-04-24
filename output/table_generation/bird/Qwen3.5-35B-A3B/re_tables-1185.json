@@ -1,0 +1,77 @@
+{
+    "table-1185-1185": {
+        "title": [
+            "Patient ID",
+            "Date of Birth",
+            "Examination Date",
+            "Symptom Category",
+            "Specific Symptom",
+            "Severity Level"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient whose birthday was 1959/3/1, what symptoms did he/she have during the examination on 1993/9/27?",
+        "data": [
+            [
+                "P-4921",
+                "03/01/1960",
+                "09/15/1893",
+                "Respiratory",
+                "Mild Cough",
+                "Low"
+            ],
+            [
+                "P-4822",
+                "03/02/1659",
+                "08/29/0999",
+                "Neurological",
+                "Dizziness",
+                "Moderate"
+            ],
+            [
+                "P-4123",
+                "04/01/2059",
+                "09/27/0929",
+                "Cardiovascular",
+                "Chest Pain",
+                "High"
+            ],
+            [
+                "A-4024",
+                "05/31/0958",
+                "07/28/1000",
+                "Gastrointestinal",
+                "Nausea",
+                "Low"
+            ],
+            [
+                "B-4325",
+                "06/12/0969",
+                "10/11/0888",
+                "Dermatological",
+                "Rash",
+                "Moderate"
+            ],
+            [
+                "C-4426",
+                "02/22/0859",
+                "",
+                "Musculoskeletal",
+                "Joint Stiffness",
+                "High"
+            ],
+            [
+                "D-4527",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-380-380": {
+        "title": [
+            "Card Name",
+            "Card ID"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Duel Deck A Card List",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the cards belong to duel deck a? List the ID.",
+        "data": [
+            [
+                "Lightning Bolt",
+                "DD-01"
+            ],
+            [
+                "Giant Growth",
+                "DD-02"
+            ],
+            [
+                "Goblin Guide",
+                "DD-03"
+            ],
+            [
+                "Chandra Nalaar",
+                "DD-04"
+            ],
+            [
+                "Incinerate",
+                "DD-05"
+            ]
+        ]
+    }
+}

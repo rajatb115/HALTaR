@@ -1,0 +1,57 @@
+{
+    "table-1377-1377": {
+        "title": [
+            "Event Name",
+            "Status",
+            "Budget",
+            "Spend",
+            "Spend-to-Budget Ratio"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            4
+        ],
+        "pgTitle": "Event Spend vs. Budget",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all the closed events, which event has the highest spend-to-budget ratio?",
+        "data": [
+            [
+                "Event A",
+                "Closed",
+                "$1000",
+                "$1200",
+                "1.2"
+            ],
+            [
+                "Event B",
+                "Closed",
+                "$500",
+                "$400",
+                "0.8"
+            ],
+            [
+                "Event C",
+                "Closed",
+                "$2000",
+                "$2500",
+                "1.25"
+            ],
+            [
+                "Event D",
+                "Closed",
+                "$1500",
+                "$1000",
+                "0.67"
+            ],
+            [
+                "Event E",
+                "Closed",
+                "$800",
+                "$900",
+                "1.125"
+            ]
+        ]
+    }
+}

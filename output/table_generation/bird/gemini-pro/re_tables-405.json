@@ -1,0 +1,46 @@
+{
+    "table-405-405": {
+        "title": [
+            "Set Number",
+            "Number of Cards",
+            "Languages Translated Into"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Language Translation Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicates the name of all the languages into which the set whose number of cards is 309 is translated.",
+        "data": [
+            [
+                "101",
+                "250",
+                "English, Spanish, French"
+            ],
+            [
+                "205",
+                "150",
+                "German, Italian"
+            ],
+            [
+                "309",
+                "309",
+                "Japanese, Korean, Mandarin"
+            ],
+            [
+                "412",
+                "450",
+                "Russian, Portuguese"
+            ],
+            [
+                "515",
+                "200",
+                "Arabic, Hindi"
+            ]
+        ]
+    }
+}

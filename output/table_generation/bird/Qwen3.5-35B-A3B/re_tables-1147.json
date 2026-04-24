@@ -1,0 +1,85 @@
+{
+    "table-1147-1147": {
+        "title": [
+            "Match ID",
+            "Away Team Full Name",
+            "Goals Scored",
+            "Opponent Home Team",
+            "Date Played",
+            "League Division",
+            "Result Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide the full name of the away team that scored the most goals.",
+        "data": [
+            [
+                "MCH-2024-007",
+                "Manchester City FC",
+                "6",
+                "Liverpool FC",
+                "April 14, 24",
+                "Premier League",
+                "Win"
+            ],
+            [
+                "MCH-19-042",
+                "Real Madrid CF",
+                "5",
+                "Barcelona SC",
+                "October 26, 18",
+                "La Liga",
+                "Draw"
+            ],
+            [
+                "MCH-EPL-112",
+                "Chelsea FC",
+                "4",
+                "Arsenal United",
+                "December 03, 99",
+                "Premier League",
+                "Loss"
+            ],
+            [
+                "MCH-LAL-088",
+                "Bayern Munich",
+                "4",
+                "Borussia Dortmund",
+                "May 12, 05",
+                "Bundesliga",
+                "Win"
+            ],
+            [
+                "MCH-SER-033",
+                "AC Milan",
+                "3",
+                "Inter Milan",
+                "November 11, 88",
+                "Serie A",
+                "Tie"
+            ],
+            [
+                "MCH-PRE-055",
+                "Paris Saint-Germain",
+                "7",
+                "Olympique Marseille",
+                "February 22, 12",
+                "Ligue 1",
+                "Win"
+            ],
+            [
+                "MCH-BUN-099",
+                "RB Leipzig",
+                "8",
+                "Bayer Leverkusen",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

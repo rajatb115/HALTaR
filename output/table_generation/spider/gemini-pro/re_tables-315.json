@@ -1,0 +1,51 @@
+{
+    "table-315-315": {
+        "title": [
+            "Course Name",
+            "Course ID",
+            "Department",
+            "Credits"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Courses with Enrollment",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of all courses that have some students enrolled?",
+        "data": [
+            [
+                "Intro to CS",
+                "CS101",
+                "CS",
+                "3"
+            ],
+            [
+                "Calc I",
+                "MA101",
+                "Math",
+                "4"
+            ],
+            [
+                "Linear Algebra",
+                "MA201",
+                "Math",
+                "3"
+            ],
+            [
+                "Physics I",
+                "PH101",
+                "Physics",
+                "4"
+            ],
+            [
+                "English 101",
+                "EN101",
+                "English",
+                "3"
+            ]
+        ]
+    }
+}

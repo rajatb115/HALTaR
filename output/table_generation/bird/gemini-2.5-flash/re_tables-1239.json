@@ -1,0 +1,76 @@
+{
+    "table-1239-1239": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Diagnosis",
+            "Age",
+            "Hemoglobin Level (g/dL)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients who were diagnosed with SLE, who is the oldest with normal hemoglobin level. Provide the ID and sex.",
+        "data": [
+            [
+                "P001",
+                "F",
+                "SLE",
+                "68",
+                "13.2"
+            ],
+            [
+                "P002",
+                "M",
+                "SLE",
+                "55",
+                "16.1"
+            ],
+            [
+                "P003",
+                "F",
+                "SLE",
+                "72",
+                "10.5"
+            ],
+            [
+                "P004",
+                "M",
+                "SLE",
+                "62",
+                "14.8"
+            ],
+            [
+                "P005",
+                "F",
+                "Rheumatoid Arthritis",
+                "50",
+                "14.0"
+            ],
+            [
+                "P006",
+                "F",
+                "SLE",
+                "70",
+                "12.8"
+            ],
+            [
+                "P007",
+                "M",
+                "SLE",
+                "75",
+                "11.0"
+            ],
+            [
+                "P008",
+                "F",
+                "SLE",
+                "65",
+                "15.0"
+            ]
+        ]
+    }
+}

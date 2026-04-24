@@ -1,0 +1,51 @@
+{
+    "table-867-867": {
+        "title": [
+            "Race Number",
+            "Lap Time",
+            "Driver Name",
+            "Driver Website"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Race Results and Driver Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who was the player that got the lap time of 0:01:27 in the race No. 161? Show his introduction website.",
+        "data": [
+            [
+                "161",
+                "0:01:27",
+                "John Smith",
+                "johnsmith.com"
+            ],
+            [
+                "161",
+                "0:01:29",
+                "Jane Doe",
+                "janedoe.com"
+            ],
+            [
+                "161",
+                "0:01:31",
+                "Peter Jones",
+                "peterjones.com"
+            ],
+            [
+                "161",
+                "0:01:33",
+                "Mary Green",
+                "marygreen.com"
+            ],
+            [
+                "161",
+                "0:01:35",
+                "David Black",
+                "davidblack.com"
+            ]
+        ]
+    }
+}

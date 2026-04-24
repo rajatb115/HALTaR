@@ -1,0 +1,43 @@
+{
+    "table-1401-1401": {
+        "title": [
+            "Event Type",
+            "Number of Events",
+            "Percentage of Total (%)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Student Club Event Statistics in 2019",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all events hold by the Student_Club in 2019, find the percentage share of events related to 'Community Service'",
+        "data": [
+            [
+                "Community Service",
+                "15",
+                "30.00"
+            ],
+            [
+                "Social Events",
+                "20",
+                "40.00"
+            ],
+            [
+                "Academic Workshops",
+                "10",
+                "20.00"
+            ],
+            [
+                "Fundraising",
+                "5",
+                "10.00"
+            ],
+            [
+                "**Total**",
+                "**50**",
+                "**100.00**"
+            ]
+        ]
+    }
+}

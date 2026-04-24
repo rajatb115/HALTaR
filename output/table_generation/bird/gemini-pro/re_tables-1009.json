@@ -1,0 +1,39 @@
+{
+    "table-1009-1009": {
+        "title": [
+            "Driver Name",
+            "Lap Number"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "2011 Australian Grand Prix Pit Stop Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "During which lap did Lewis Hamilton take a pit stop during the 2011 Australian Grand Prix?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "19"
+            ],
+            [
+                "Sebastian Vettel",
+                "15"
+            ],
+            [
+                "Jenson Button",
+                "24"
+            ],
+            [
+                "Mark Webber",
+                "14"
+            ],
+            [
+                "Fernando Alonso",
+                "14"
+            ]
+        ]
+    }
+}

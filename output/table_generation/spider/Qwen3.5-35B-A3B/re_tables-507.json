@@ -1,0 +1,83 @@
+{
+    "table-507-507": {
+        "title": [
+            "Government Form",
+            "Total Population",
+            "Average Life Expectancy",
+            "Region",
+            "Capital City",
+            "Currency Code",
+            "GDP per Capita (USD)",
+            "Official Language Count"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the different government forms and what is the total population of each for government forms that have an average life expectancy greater than 72?",
+        "data": [
+            [
+                "Constitutional Monarchy",
+                "64,205,000",
+                "83.2",
+                "Europe",
+                "London",
+                "GBP",
+                "48,500.00",
+                "1"
+            ],
+            [
+                "Federal Republic",
+                "331,900,020",
+                "N/A",
+                "North America",
+                "Washington D.C.",
+                "USD",
+                "70,240.50",
+                "N/A"
+            ],
+            [
+                "Parliamentary Democracy",
+                "5,800 (approx.)",
+                "90.1",
+                "Oceania",
+                "Canberra",
+                "AUD",
+                "0.6M",
+                ""
+            ],
+            [
+                "Presidential System",
+                "128,010,530",
+                "78.5",
+                "South America",
+                "Brasilia",
+                "BRL",
+                "$8,940",
+                "1"
+            ],
+            [
+                "Theocracy",
+                "N/A",
+                "NA",
+                "Asia",
+                "Tehran",
+                "IRR",
+                "US$ 4,520",
+                "1"
+            ],
+            [
+                "Unitary State",
+                ",670",
+                "84.3",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

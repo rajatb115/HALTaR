@@ -1,0 +1,67 @@
+{
+    "table-630-630": {
+        "title": [
+            "Region",
+            "Votes_2024",
+            "Votes_Total",
+            "Ratio_Calculation",
+            "Result_Ratio",
+            "Status",
+            "Analyst_ID"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the ratio of votes in 2010 and 2011.",
+        "data": [
+            [
+                "North District",
+                "4520",
+                "8900",
+                "(4500+4600)/2 / 8700*2",
+                "0.517",
+                "Verified",
+                "ANA-101"
+            ],
+            [
+                "South Zone",
+                "3800",
+                "720",
+                "(3850+3750)/N.A./(7100+N.A.)",
+                "53.4%",
+                "Pending Review",
+                "ANB-205"
+            ],
+            [
+                "East Sector",
+                "610",
+                "12040",
+                "((605+615)/2)/(1210/2)*2",
+                "0.508",
+                "Flagged for Audit",
+                "ANC-309"
+            ],
+            [
+                "West Coast",
+                "920",
+                "180",
+                "(((925+1045)/NA/(185)) * 2)",
+                "0.512",
+                "Approved",
+                "AND-412"
+            ],
+            [
+                "Central Hub",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

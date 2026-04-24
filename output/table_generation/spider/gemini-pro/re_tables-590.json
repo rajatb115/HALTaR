@@ -1,0 +1,37 @@
+{
+    "table-590-590": {
+        "title": [
+            "Treatment Date",
+            "Professional First Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Treatment Dates and Professional First Names",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the date of each treatment, together with the first name of the professional who operated it.",
+        "data": [
+            [
+                "2023-01-15",
+                "John"
+            ],
+            [
+                "2023-02-28",
+                "Emily"
+            ],
+            [
+                "2023-03-10",
+                "David"
+            ],
+            [
+                "2023-04-05",
+                "Sarah"
+            ],
+            [
+                "2023-05-20",
+                "Michael"
+            ]
+        ]
+    }
+}

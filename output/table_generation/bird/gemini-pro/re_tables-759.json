@@ -1,0 +1,45 @@
+{
+    "table-759-759": {
+        "title": [
+            "Superhero Name",
+            "Height (cm)",
+            "Hair Colour"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Superhero Attributes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the hair colour of the human superhero who is 185 cm tall.",
+        "data": [
+            [
+                "Superman",
+                "191",
+                "Black"
+            ],
+            [
+                "Wonder Woman",
+                "183",
+                "Black"
+            ],
+            [
+                "Batman",
+                "188",
+                "Black"
+            ],
+            [
+                "Spider-Man",
+                "178",
+                "Brown"
+            ],
+            [
+                "Captain Marvel",
+                "180",
+                "Blonde"
+            ]
+        ]
+    }
+}

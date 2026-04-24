@@ -1,0 +1,45 @@
+{
+    "table-530-530": {
+        "title": [
+            "Orchestra",
+            "Record Company",
+            "Year Founded"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Orchestra Record Company Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the record companies of orchestras in descending order of years in which they were founded?",
+        "data": [
+            [
+                "Berlin Philharmonic",
+                "Deutsche Grammophon",
+                "1882"
+            ],
+            [
+                "Chicago Symphony Orchestra",
+                "RCA Records",
+                "1891"
+            ],
+            [
+                "Boston Symphony Orchestra",
+                "BMG",
+                "1881"
+            ],
+            [
+                "London Symphony Orchestra",
+                "LSO Live",
+                "1904"
+            ],
+            [
+                "Vienna Philharmonic",
+                "Decca Records",
+                "1842"
+            ]
+        ]
+    }
+}

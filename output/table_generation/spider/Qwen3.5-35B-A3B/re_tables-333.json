@@ -1,0 +1,77 @@
+{
+    "table-333-333": {
+        "title": [
+            "Semester_ID",
+            "Program_Type",
+            "Enrollment_Count",
+            "Start_Date",
+            "End_Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the id of the semester that had both Masters and Bachelors students enrolled?",
+        "data": [
+            [
+                "SEM_2024_A",
+                "Bachelor",
+                "450",
+                "01/06/2017",
+                "30/05/218",
+                "Active"
+            ],
+            [
+                "SEM_19A",
+                "Master",
+                "85",
+                "6 Jan 219",
+                "5 Jun 220",
+                "Completed"
+            ],
+            [
+                "SEM_B20B",
+                "Bachelor & Master",
+                "N/A",
+                "7 Jul 23",
+                "9 Dec 24",
+                "Pending"
+            ],
+            [
+                "SEM_C20C",
+                "Bachelor Only",
+                "320",
+                "10 Jan 5",
+                "10 Jun 6",
+                "Inactive"
+            ],
+            [
+                "SEM_D20D",
+                "Master Only",
+                "120",
+                "11 Jul 7",
+                "10 Dec 8",
+                "Archived"
+            ],
+            [
+                "SEM_E20E",
+                "Mixed Programs",
+                "550",
+                "12 Jan 9",
+                "15 Jun 10",
+                "Draft"
+            ],
+            [
+                "SEM_F20F",
+                "Undergraduate",
+                "",
+                "16 Jul 11",
+                "18 Dec 12",
+                "Cancelled"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-1201-1201": {
+        "title": [
+            "Thrombocytopenia Signs",
+            "Number of Patients with SLE",
+            "Total Number of Patients with Thrombocytopenia",
+            "Proportion with SLE"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Thrombocytopenia and SLE Diagnosis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What proportion of patients who had signs of thrombocytopenia had SLE diagnosed?",
+        "data": [
+            [
+                "Present",
+                "75",
+                "150",
+                "0.50"
+            ],
+            [
+                "Absent",
+                "25",
+                "50",
+                "0.50"
+            ],
+            [
+                "Petechiae",
+                "30",
+                "60",
+                "0.50"
+            ],
+            [
+                "Bruising",
+                "45",
+                "90",
+                "0.50"
+            ],
+            [
+                "Bleeding",
+                "15",
+                "30",
+                "0.50"
+            ]
+        ]
+    }
+}

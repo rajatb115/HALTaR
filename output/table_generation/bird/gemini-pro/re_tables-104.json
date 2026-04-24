@@ -1,0 +1,39 @@
+{
+    "table-104-104": {
+        "title": [
+            "Client ID",
+            "Issue Date"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Client Information by Card Issue Date",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which client issued his/her card in 1994/3/3, give his/her client id.",
+        "data": [
+            [
+                "12345",
+                "1994-03-03"
+            ],
+            [
+                "67890",
+                "1994-03-03"
+            ],
+            [
+                "24680",
+                "1994-03-03"
+            ],
+            [
+                "13579",
+                "1994-03-03"
+            ],
+            [
+                "98765",
+                "1994-03-03"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-260-260": {
+        "title": [
+            "Full Name",
+            "Birth Date",
+            "Position",
+            "Nationality",
+            "Current Team"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the full names of all players, sorted by birth date?",
+        "data": [
+            [
+                "John Smith",
+                "4/12/1976",
+                "Forward",
+                "USA",
+                "New York FC"
+            ],
+            [
+                "Miguel Rodriguez",
+                "5/23/1885",
+                "Midfielder",
+                "Spain",
+                "Madrid United"
+            ],
+            [
+                "Sarah Johnson",
+                "7/15/1792",
+                "Defender",
+                "England",
+                "London City"
+            ],
+            [
+                "David Kim",
+                "9/30/1654",
+                "Goalkeeper",
+                "South Korea",
+                "Seoul Stars"
+            ],
+            [
+                "Emma Wilson",
+                "3/8/1421",
+                "Striker",
+                "Canada",
+                "Toronto Blue"
+            ],
+            [
+                "Luis Garcia",
+                "6/11/1309",
+                "Winger",
+                "Mexico",
+                "Guadalajara FC"
+            ]
+        ]
+    }
+}

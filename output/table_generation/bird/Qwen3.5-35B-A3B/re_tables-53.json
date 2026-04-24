@@ -1,0 +1,83 @@
+{
+    "table-53-53": {
+        "title": [
+            "School ID",
+            "School Name",
+            "Mailing City",
+            "Total SAT Score",
+            "Status",
+            "Enrollment",
+            "Region",
+            "Accredited"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total number of schools whose total SAT scores are greater or equal to 1500 whose mailing city is Lakeport?",
+        "data": [
+            [
+                "SCH-1042",
+                "Lakeview Academy",
+                "Lakeport",
+                "760",
+                "Active",
+                "450",
+                "North",
+                "Yes"
+            ],
+            [
+                "SCH-1105",
+                "Horizon High",
+                "Lakeville",
+                "680",
+                "Inactive",
+                "320",
+                "South",
+                "No"
+            ],
+            [
+                "SCH-1098",
+                "Oakridge Prep",
+                "Lakeford",
+                "590",
+                "Pending",
+                "0",
+                "West",
+                "N/A"
+            ],
+            [
+                "SCH-1203",
+                "Valley View HS",
+                "Lakeside",
+                "810",
+                "Suspended",
+                "900",
+                "East",
+                "Yes"
+            ],
+            [
+                "SCH-2045",
+                "Summit Charter",
+                "Lakewood",
+                "720",
+                "Active",
+                "210",
+                "Central",
+                "No"
+            ],
+            [
+                "SCH-3301",
+                "Pinecrest Institute",
+                "Lakehaven",
+                "",
+                "Closed",
+                "",
+                "North",
+                "Yes"
+            ]
+        ]
+    }
+}

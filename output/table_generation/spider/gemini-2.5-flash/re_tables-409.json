@@ -1,0 +1,61 @@
+{
+    "table-409-409": {
+        "title": [
+            "Player Name",
+            "Height (cm)",
+            "Career Earnings ($)",
+            "Money Rank"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the money rank of the poker player with the greatest height.",
+        "data": [
+            [
+                "Phil Hellmuth",
+                "191",
+                "29000000",
+                "2"
+            ],
+            [
+                "Daniel Negreanu",
+                "170",
+                "52000000",
+                "1"
+            ],
+            [
+                "Doyle Brunson",
+                "183",
+                "6000000",
+                "15"
+            ],
+            [
+                "Justin Bonomo",
+                "180",
+                "65000000",
+                "3"
+            ],
+            [
+                "Erik Seidel",
+                "175",
+                "45000000",
+                "4"
+            ],
+            [
+                "Fedor Holz",
+                "188",
+                "40000000",
+                "6"
+            ],
+            [
+                "Stephen Chidwick",
+                "178",
+                "50000000",
+                "5"
+            ]
+        ]
+    }
+}

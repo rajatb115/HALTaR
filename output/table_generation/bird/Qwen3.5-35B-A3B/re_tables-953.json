@@ -1,0 +1,73 @@
+{
+    "table-953-953": {
+        "title": [
+            "Constructor",
+            "Season",
+            "Wins",
+            "Points",
+            "Podiums",
+            "Pole Positions",
+            "Fastest Laps",
+            "Championship Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which constructors have been ranked 1?",
+        "data": [
+            [
+                "Red Bull Racing",
+                "47",
+                "6",
+                "860",
+                "98",
+                "52",
+                "38",
+                "Active Leader"
+            ],
+            [
+                "Mercedes AMG F1",
+                "7",
+                "-",
+                "0",
+                "-0",
+                "--",
+                "--0",
+                "Former Champion"
+            ],
+            [
+                "Scuderia Ferrari",
+                "",
+                "",
+                "--",
+                "",
+                "-",
+                "-",
+                "Active Contender"
+            ],
+            [
+                "McLaren F1 Team",
+                "",
+                "-",
+                "0",
+                "--",
+                "0",
+                "0",
+                "Rising Power"
+            ],
+            [
+                "Alpine F1Team",
+                "",
+                "--",
+                "0",
+                "-",
+                "0",
+                "",
+                "Midfield Leader"
+            ]
+        ]
+    }
+}

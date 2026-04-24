@@ -1,0 +1,76 @@
+{
+    "table-285-285": {
+        "title": [
+            "Ship ID",
+            "Tonnage Category",
+            "Incident Date",
+            "Casualty Count",
+            "Injury Severity",
+            "Location",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the death and injury situations caused by the ship with tonnage 't'?",
+        "data": [
+            [
+                "SHP-T-004",
+                "t-class",
+                "7/12/2021",
+                "3",
+                "Fatalities",
+                "North Atlantic",
+                "Under Investigation"
+            ],
+            [
+                "SHP-T-112",
+                "t-category",
+                "9/03/2022",
+                "0",
+                "Minor Injuries",
+                "Pacific Sector",
+                "Resolved"
+            ],
+            [
+                "SHPT-MIXED",
+                "approx-t",
+                "4/15/2023",
+                "5",
+                "Critical & Severe",
+                "Mediterranean Sea",
+                "Closed Case"
+            ],
+            [
+                "SHIP-VAR-A",
+                "near-t-tonne",
+                "6/28/2021",
+                "N/A",
+                "Unknown",
+                "South China Sea",
+                "Pending Review"
+            ],
+            [
+                "T-SHIP-X",
+                "standard-t",
+                "None Reported",
+                "8",
+                "Moderate",
+                "Indian Ocean",
+                "Ongoing Inquiry"
+            ],
+            [
+                "VSL-TYPE-Z",
+                "variable-t",
+                "Not Applicable",
+                "",
+                "No Data Available",
+                "Arctic Region",
+                "Unverified"
+            ]
+        ]
+    }
+}

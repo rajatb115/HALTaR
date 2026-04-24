@@ -1,0 +1,83 @@
+{
+    "table-268-268": {
+        "title": [
+            "Match ID",
+            "Winner",
+            "Loser",
+            "Duration Minutes",
+            "Tournament",
+            "Round",
+            "Surface",
+            "Date"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the winner and loser who played in the longest match?",
+        "data": [
+            [
+                "M7492",
+                "Novak Djokovic",
+                "Rafael Nadal",
+                "362",
+                "Wimbledon",
+                "Final",
+                "Grass",
+                "07/06/2019"
+            ],
+            [
+                "M8103",
+                "John Isner",
+                "Nicolas Mahut",
+                "402",
+                "US Open",
+                "First Round",
+                "Hard",
+                "09/01/2021"
+            ],
+            [
+                "M6204",
+                "Andy Murray",
+                "Milos Raonic",
+                "51",
+                "Australian Open",
+                "Quarterfinals",
+                "Hard",
+                "01/20/2022"
+            ],
+            [
+                "M5511",
+                "Serena Williams",
+                "Venus Williams",
+                "89",
+                "WTA Finals",
+                "Semifinals",
+                "Indoor Hard",
+                "11/05/2018"
+            ],
+            [
+                "M9022",
+                "Roger Federer",
+                "Stan Wawrinka",
+                "67",
+                "French Open",
+                "Fourth Round",
+                "Clay",
+                "07/15/2020"
+            ],
+            [
+                "M3341",
+                "Iga Swiatek",
+                "Aryna Sabalenka",
+                "102",
+                "Roland Garros",
+                "Final",
+                "Clay",
+                "06/11/2002"
+            ]
+        ]
+    }
+}

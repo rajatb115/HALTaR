@@ -1,0 +1,76 @@
+{
+    "table-111-111": {
+        "title": [
+            "Airline Name",
+            "IATA Code",
+            "ICAO Code",
+            "Call Sign",
+            "Country"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which abbreviation corresponds to Jetblue Airways?",
+        "data": [
+            [
+                "JetBlue Airways",
+                "B6",
+                "JBU",
+                "JETBLUE",
+                "United States"
+            ],
+            [
+                "American Airlines",
+                "AA",
+                "AAL",
+                "AMERICAN",
+                "United States"
+            ],
+            [
+                "Delta Air Lines",
+                "DL",
+                "DAL",
+                "DELTA",
+                "United States"
+            ],
+            [
+                "United Airlines",
+                "UA",
+                "UAL",
+                "UNITED",
+                "United States"
+            ],
+            [
+                "Southwest Airlines",
+                "WN",
+                "SWA",
+                "SOUTHWEST",
+                "United States"
+            ],
+            [
+                "Alaska Airlines",
+                "AS",
+                "ASA",
+                "ALASKA",
+                "United States"
+            ],
+            [
+                "Spirit Airlines",
+                "NK",
+                "NKS",
+                "SPIRIT WING",
+                "United States"
+            ],
+            [
+                "Frontier Airlines",
+                "F9",
+                "FFT",
+                "FRONTIER",
+                "United States"
+            ]
+        ]
+    }
+}

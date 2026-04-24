@@ -1,0 +1,49 @@
+{
+    "table-142-142": {
+        "title": [
+            "Airport Name",
+            "IATA Code",
+            "City",
+            "Country"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Inactive Airports",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name of airports which do not have any flight in and out.",
+        "data": [
+            [
+                "Ukhta Airport",
+                "UKX",
+                "Ukhta",
+                "Russia"
+            ],
+            [
+                "Zhigalovo Airport",
+                "OZH",
+                "Zhigalovo",
+                "Russia"
+            ],
+            [
+                "Bamberg Breitenau Airport",
+                "BMP",
+                "Bamberg",
+                "Germany"
+            ],
+            [
+                "Ulan-Ude East Airport",
+                "UUD",
+                "Ulan-Ude",
+                "Russia"
+            ],
+            [
+                "Batu Licin Airport",
+                "BTW",
+                "Batu Licin",
+                "Indonesia"
+            ]
+        ]
+    }
+}

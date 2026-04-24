@@ -1,0 +1,45 @@
+{
+    "table-1283-1283": {
+        "title": [
+            "Patient ID",
+            "Full Name",
+            "Date of Birth",
+            "Glutamic Pyruvic Transaminase (U/L)",
+            "Lab Status",
+            "Test Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the top three patients' birthdays with the highest glutamic pylvic transaminase in the normal range.",
+        "data": [
+            [
+                "P-4021",
+                "Sarah Jenkins",
+                "06/14/1978",
+                "32",
+                "Normal Range",
+                "9 Oct 23"
+            ],
+            [
+                "P-4105",
+                "Michael Chen",
+                "4 Feb 1892",
+                "58",
+                "Normal Upper Limit",
+                "8 Oct 10"
+            ],
+            [
+                "P-3998",
+                "Elena Rodriguez",
+                "7 Jan 1567",
+                "61",
+                "High-Normal",
+                "7 Sep 22"
+            ]
+        ]
+    }
+}

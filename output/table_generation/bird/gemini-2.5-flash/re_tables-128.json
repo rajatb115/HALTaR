@@ -1,0 +1,69 @@
+{
+    "table-128-128": {
+        "title": [
+            "Account ID",
+            "Statement Frequency",
+            "Last Statement Date",
+            "Statement Type",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the account IDs with monthly issuance of statements.",
+        "data": [
+            [
+                "ACC78901",
+                "Monthly",
+                "2023-10-31",
+                "E-Statement",
+                "Active"
+            ],
+            [
+                "ACC78902",
+                "Monthly",
+                "2023-10-31",
+                "Paper",
+                "Active"
+            ],
+            [
+                "ACC78903",
+                "Quarterly",
+                "2023-09-30",
+                "E-Statement",
+                "Active"
+            ],
+            [
+                "ACC78904",
+                "Monthly",
+                "2023-10-31",
+                "Hybrid",
+                "Active"
+            ],
+            [
+                "ACC78905",
+                "Annually",
+                "2023-01-31",
+                "Paper",
+                "Active"
+            ],
+            [
+                "ACC78906",
+                "Monthly",
+                "2023-10-31",
+                "E-Statement",
+                "Active"
+            ],
+            [
+                "ACC78907",
+                "Monthly",
+                "2023-10-31",
+                "Paper",
+                "Active"
+            ]
+        ]
+    }
+}

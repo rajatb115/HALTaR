@@ -1,0 +1,69 @@
+{
+    "table-1324-1324": {
+        "title": [
+            "Event Name",
+            "Club",
+            "Date",
+            "Attendance",
+            "Theme"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the names of all the events of the Student_Club that had an attendance of over 20 students.",
+        "data": [
+            [
+                "Annual Welcome Mixer",
+                "Student_Club",
+                "2023-09-15",
+                "75",
+                "Social Gathering"
+            ],
+            [
+                "Career Fair Prep Workshop",
+                "Student_Club",
+                "2023-10-03",
+                "32",
+                "Professional Development"
+            ],
+            [
+                "Fall Festival Booth",
+                "Student_Club",
+                "2023-10-28",
+                "58",
+                "Community Outreach"
+            ],
+            [
+                "Coding Challenge Night",
+                "Student_Club",
+                "2023-11-10",
+                "25",
+                "Academic Competition"
+            ],
+            [
+                "Holiday Potluck",
+                "Student_Club",
+                "2023-12-08",
+                "40",
+                "Social Gathering"
+            ],
+            [
+                "Spring Leadership Summit",
+                "Student_Club",
+                "2024-02-20",
+                "60",
+                "Leadership Training"
+            ],
+            [
+                "End-of-Year Celebration",
+                "Student_Club",
+                "2024-05-05",
+                "85",
+                "Social Gathering"
+            ]
+        ]
+    }
+}

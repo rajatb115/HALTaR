@@ -1,0 +1,69 @@
+{
+    "table-1273-1273": {
+        "title": [
+            "Patient ID",
+            "Patient Name",
+            "Anti-SSA Result",
+            "Test Date",
+            "Hospital Visit Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which patient is the first patient with an abnormal anti-SSA to come to the hospital? Please give his or her ID.",
+        "data": [
+            [
+                "P001",
+                "Alice Smith",
+                "Negative",
+                "2023-01-10",
+                "2023-01-15"
+            ],
+            [
+                "P002",
+                "Bob Johnson",
+                "Positive",
+                "2023-02-01",
+                "2023-02-05"
+            ],
+            [
+                "P003",
+                "Carol White",
+                "Normal",
+                "2023-01-20",
+                "2023-01-22"
+            ],
+            [
+                "P004",
+                "David Green",
+                "Abnormal",
+                "2023-01-25",
+                "2023-01-28"
+            ],
+            [
+                "P005",
+                "Eve Black",
+                "Negative",
+                "2023-02-10",
+                "2023-02-12"
+            ],
+            [
+                "P006",
+                "Frank Brown",
+                "Abnormal",
+                "2023-01-23",
+                "2023-01-26"
+            ],
+            [
+                "P007",
+                "Grace Lee",
+                "Positive",
+                "2023-02-03",
+                "2023-02-07"
+            ]
+        ]
+    }
+}

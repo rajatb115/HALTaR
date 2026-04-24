@@ -1,0 +1,69 @@
+{
+    "table-91-91": {
+        "title": [
+            "Account ID",
+            "Region",
+            "Loan Eligibility Status",
+            "Credit Score Range",
+            "Application Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts who have region in Prague are eligible for loans?",
+        "data": [
+            [
+                "ACC-PRG-0042",
+                "Prague",
+                "Approved",
+                "720\u2013750",
+                "06/15/2023"
+            ],
+            [
+                "ACC-PRA-0118",
+                "Prague Pending Review",
+                "N/A",
+                "680\u2013699",
+                "30/07/23"
+            ],
+            [
+                "ACC-ZLK-0331",
+                "Prague Rejected",
+                "Low Risk",
+                "<600",
+                "Jan 12, 234"
+            ],
+            [
+                "ACC-MOS-0559",
+                "Prague Approved",
+                "High Income",
+                ">751",
+                "Feb 28, 1024"
+            ],
+            [
+                "ACE-BUD-0772",
+                "Pragua Denied",
+                "Insufficient Collateral",
+                "550\u2013599 Mar 15, 025",
+                ""
+            ],
+            [
+                "ACD-KAR-0994",
+                "Prague Conditional Approval",
+                "Variable Rate",
+                "400\u2013449 Apr 01, 36",
+                ""
+            ],
+            [
+                "ACH-LIT-1122",
+                "Praga Suspended",
+                "Fraud Alert",
+                "Unknown May 22, -78",
+                ""
+            ]
+        ]
+    }
+}

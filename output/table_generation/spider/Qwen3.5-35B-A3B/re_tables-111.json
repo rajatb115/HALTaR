@@ -1,0 +1,49 @@
+{
+    "table-111-111": {
+        "title": [
+            "Airline Name",
+            "IATA Code",
+            "ICAO Code",
+            "Country",
+            "Status",
+            "Founded",
+            "Hub Airport"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which abbreviation corresponds to Jetblue Airways?",
+        "data": [
+            [
+                "JetBlue Airways",
+                "B6",
+                "JBU",
+                "United States",
+                "Active",
+                "2014",
+                "John F. Kennedy International Airport"
+            ],
+            [
+                "American Airlines",
+                "AA",
+                "AAL",
+                "United Kingdom",
+                "Inactive",
+                "",
+                "London Heathrow"
+            ],
+            [
+                "British Airways",
+                "BA",
+                "BAW",
+                "United Arab Emirates",
+                "Suspended",
+                "",
+                "Dubai International Airport"
+            ]
+        ]
+    }
+}

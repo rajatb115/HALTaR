@@ -1,0 +1,43 @@
+{
+    "table-201-201": {
+        "title": [
+            "Molecule Name",
+            "CAS Number",
+            "Carcinogenicity"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenic Triple-Bonded Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the triple-bonded molecules which are carcinogenic.",
+        "data": [
+            [
+                "Acrylonitrile",
+                "107-13-1",
+                "Known Carcinogen"
+            ],
+            [
+                "Vinyl Chloride",
+                "75-01-4",
+                "Known Carcinogen"
+            ],
+            [
+                "Ethylene Oxide",
+                "75-21-8",
+                "Probable Carcinogen"
+            ],
+            [
+                "Propiolactone",
+                "57-57-8",
+                "Probable Carcinogen"
+            ],
+            [
+                "Benzene",
+                "71-43-2",
+                "Known Carcinogen"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-487-487": {
+        "title": [
+            "Converted Mana Cost",
+            "Number of Cards",
+            "Percentage of Set"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Coldsnap Card Statistics by Converted Mana Cost",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of the cards with a converted mana cost of 7 in the set Coldsnap?",
+        "data": [
+            [
+                "0",
+                "10",
+                "6.25%"
+            ],
+            [
+                "1",
+                "20",
+                "12.50%"
+            ],
+            [
+                "2",
+                "30",
+                "18.75%"
+            ],
+            [
+                "3",
+                "25",
+                "15.63%"
+            ],
+            [
+                "7",
+                "5",
+                "3.13%"
+            ]
+        ]
+    }
+}

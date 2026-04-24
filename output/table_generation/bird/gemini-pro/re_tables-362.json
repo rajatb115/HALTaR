@@ -1,0 +1,43 @@
+{
+    "table-362-362": {
+        "title": [
+            "Card Name",
+            "Legality Status",
+            "Has Text"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Magic: The Gathering Card Legality and Text Availability",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards of legalities whose status is restricted have text boxes?",
+        "data": [
+            [
+                "Example Card 1",
+                "Restricted",
+                "Yes"
+            ],
+            [
+                "Example Card 2",
+                "Restricted",
+                "No"
+            ],
+            [
+                "Example Card 3",
+                "Legal",
+                "Yes"
+            ],
+            [
+                "Example Card 4",
+                "Banned",
+                "Yes"
+            ],
+            [
+                "Example Card 5",
+                "Restricted",
+                "Yes"
+            ]
+        ]
+    }
+}

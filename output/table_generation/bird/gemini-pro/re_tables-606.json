@@ -1,0 +1,39 @@
+{
+    "table-606-606": {
+        "title": [
+            "Badge Name",
+            "User Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Announcer Badge Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users obtained the \"Announcer\" badge?",
+        "data": [
+            [
+                "Announcer",
+                "125"
+            ],
+            [
+                "Booster",
+                "98"
+            ],
+            [
+                "Beta Tester",
+                "210"
+            ],
+            [
+                "Helper",
+                "150"
+            ],
+            [
+                "Contributor",
+                "300"
+            ]
+        ]
+    }
+}

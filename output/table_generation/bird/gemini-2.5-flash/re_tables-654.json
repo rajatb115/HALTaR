@@ -1,0 +1,77 @@
+{
+    "table-654-654": {
+        "title": [
+            "Post ID",
+            "Post Title",
+            "Views",
+            "Likes",
+            "Owner Display Name",
+            "Publish Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the owner's display name of the most popular post?",
+        "data": [
+            [
+                "P001",
+                "Mastering SQL Joins",
+                "15432",
+                "1234",
+                "DataGuru",
+                "2023-11-01"
+            ],
+            [
+                "P002",
+                "Python for Data Science",
+                "28765",
+                "2567",
+                "CodeMaster",
+                "2023-10-28"
+            ],
+            [
+                "P003",
+                "Introduction to Power BI",
+                "5678",
+                "456",
+                "VizWhiz",
+                "2023-11-05"
+            ],
+            [
+                "P004",
+                "Advanced Machine Learning",
+                "189765",
+                "18900",
+                "AI_Innovator",
+                "2023-10-20"
+            ],
+            [
+                "P005",
+                "Cloud Data Warehousing",
+                "34567",
+                "3120",
+                "CloudArchitect",
+                "2023-11-03"
+            ],
+            [
+                "P006",
+                "Data Visualization Best Practices",
+                "78901",
+                "7500",
+                "InsightSeeker",
+                "2023-10-25"
+            ],
+            [
+                "P007",
+                "ETL Processes Explained",
+                "12345",
+                "987",
+                "DataEngineerX",
+                "2023-11-07"
+            ]
+        ]
+    }
+}

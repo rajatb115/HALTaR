@@ -1,0 +1,41 @@
+{
+    "table-817-817": {
+        "title": [
+            "Superhero Name",
+            "Attribute Category",
+            "Value Score",
+            "Publisher",
+            "First Appearance"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the names of superheroes with attribute value between 75 to 80.",
+        "data": [
+            [
+                "Iron Man",
+                "Intelligence",
+                "76",
+                "Marvel Comics",
+                "Tales of Suspense #39 (1963)"
+            ],
+            [
+                "Iron Man",
+                "Strength",
+                "45",
+                "Marvel Comics",
+                "Tales of Suspense #39 (1963)"
+            ],
+            [
+                "Iron Man",
+                "Speed",
+                "60",
+                "Marvel Comics",
+                "Tales of Suspense #39 (1963)"
+            ]
+        ]
+    }
+}

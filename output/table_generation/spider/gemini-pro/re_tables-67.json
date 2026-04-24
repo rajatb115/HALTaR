@@ -1,0 +1,45 @@
+{
+    "table-67-67": {
+        "title": [
+            "Vehicle",
+            "Maker",
+            "Production Year"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Vehicle Production History",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maker of the carr produced in the earliest year and what year was it?",
+        "data": [
+            [
+                "Model T",
+                "Ford",
+                "1908"
+            ],
+            [
+                "Benz Patent-Motorwagen",
+                "Benz",
+                "1886"
+            ],
+            [
+                "Peugeot Type 1",
+                "Peugeot",
+                "1889"
+            ],
+            [
+                "Ford Quadricycle",
+                "Ford",
+                "1896"
+            ],
+            [
+                "Duryea Motor Wagon",
+                "Duryea",
+                "1893"
+            ]
+        ]
+    }
+}

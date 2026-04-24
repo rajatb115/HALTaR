@@ -1,0 +1,85 @@
+{
+    "table-1119-1119": {
+        "title": [
+            "Player Name",
+            "Age",
+            "Sport",
+            "Team",
+            "Position",
+            "Nationality",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down the name of players who are 35 years old and above.",
+        "data": [
+            [
+                "Michael Jordan",
+                "60",
+                "Basketball",
+                "N/A",
+                "Forward",
+                "USA",
+                "Retired"
+            ],
+            [
+                "LeBron James",
+                "40",
+                "Basketball",
+                "Los Angeles Lakers",
+                "Small Forward",
+                "United States",
+                "Active"
+            ],
+            [
+                "Kobe Bryant",
+                "70",
+                "Basketball",
+                "N/A",
+                "Guard",
+                "USA",
+                "Deceased"
+            ],
+            [
+                "Tim Duncan",
+                "50",
+                "Basketball",
+                "San Antonio Spurs",
+                "Power Forward",
+                "Puerto Rico",
+                "Retired"
+            ],
+            [
+                "Dirk Nowitzki",
+                "36",
+                "Basketball",
+                "Dallas Mavericks",
+                "Power Forward",
+                "Germany",
+                "Retired"
+            ],
+            [
+                "Vince Carter",
+                "80",
+                "Basketball",
+                "Memphis Grizzlies",
+                "Shooting Guard",
+                "Canada",
+                "Active"
+            ],
+            [
+                "Ray Allen",
+                "90",
+                "Basketball",
+                "Boston Celtics",
+                "Point Guard",
+                "USA",
+                "Retired"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-230-230": {
+        "title": [
+            "Name",
+            "Membership Level",
+            "Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Visitor Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name and membership level of the visitors whose membership level is higher than 4, and sort by their age from old to young.",
+        "data": [
+            [
+                "John",
+                "5",
+                "45"
+            ],
+            [
+                "Alice",
+                "6",
+                "38"
+            ],
+            [
+                "Bob",
+                "7",
+                "32"
+            ],
+            [
+                "Emily",
+                "5",
+                "29"
+            ],
+            [
+                "David",
+                "8",
+                "24"
+            ]
+        ]
+    }
+}

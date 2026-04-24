@@ -1,0 +1,57 @@
+{
+    "table-121-121": {
+        "title": [
+            "Account ID",
+            "Holder",
+            "Region",
+            "Year",
+            "Statement Frequency"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Account Holders in East Bohemia (1995-2000)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From Year 1995 to 2000, who are the accounts holders from 'east Bohemia'. State the account ID the frequency of statement issuance.",
+        "data": [
+            [
+                "AB1234",
+                "John Doe",
+                "East Bohemia",
+                "1996",
+                "Monthly"
+            ],
+            [
+                "CD5678",
+                "Jane Smith",
+                "East Bohemia",
+                "1998",
+                "Quarterly"
+            ],
+            [
+                "EF9012",
+                "Peter Jones",
+                "East Bohemia",
+                "1995",
+                "Annually"
+            ],
+            [
+                "GH3456",
+                "Mary Brown",
+                "East Bohemia",
+                "2000",
+                "Monthly"
+            ],
+            [
+                "IJ7890",
+                "David Lee",
+                "East Bohemia",
+                "1997",
+                "Quarterly"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-261-261": {
+        "title": [
+            "First Name",
+            "Last Name",
+            "Handedness",
+            "Birth Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the first and last name of all players who are left / L hand in the order of birth date.",
+        "data": [
+            [
+                "Barry",
+                "Bonds",
+                "Left",
+                "7/24/1964"
+            ],
+            [
+                "Rickey",
+                "Henderson",
+                "Left",
+                "12/25/19??"
+            ],
+            [
+                "Manny",
+                "Ramirez",
+                "Left",
+                ""
+            ],
+            [
+                "Derek",
+                "Jeter",
+                "Right",
+                ""
+            ],
+            [
+                "Ken",
+                "Griffey Jr.",
+                "Left",
+                "11/21/19??"
+            ],
+            [
+                "Tony",
+                "Gwynn",
+                "Right",
+                "5/9/19??"
+            ],
+            [
+                "Cal",
+                "Ripken Jr.",
+                "Right",
+                "8/2/19??"
+            ],
+            [
+                "Alex",
+                "Rodriguez",
+                "Left",
+                ""
+            ]
+        ]
+    }
+}

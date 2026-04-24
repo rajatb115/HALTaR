@@ -1,0 +1,53 @@
+{
+    "table-24-24": {
+        "title": [
+            "School_Name",
+            "Enrolment_K_12",
+            "Enrollment_Ages_5_17",
+            "Difference",
+            "Full_Address",
+            "City_State_Zip",
+            "District_ID",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of schools with more than 30 difference in enrollements between K-12 and ages 5-17? Please also give the full street adress of the schools.",
+        "data": [
+            [
+                "Lincoln High Academy",
+                "450",
+                "380",
+                "-70",
+                "123 Maple Street",
+                "Springfield IL 62701",
+                "DIST-004",
+                "Active"
+            ],
+            [
+                "Riverside Elementary",
+                "520",
+                "445",
+                "-75",
+                "88 Oak Avenue",
+                "Riverside CA 92501",
+                "DIST-012",
+                "Active"
+            ],
+            [
+                "Westview Middle School",
+                "610",
+                "535",
+                "-80",
+                "44 Pine Road",
+                "Westville TX 75002",
+                "DIST-205",
+                "Active"
+            ]
+        ]
+    }
+}

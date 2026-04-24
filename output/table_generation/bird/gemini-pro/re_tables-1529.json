@@ -1,0 +1,52 @@
+{
+    "table-1529-1529": {
+        "title": [
+            "Segment",
+            "Total Count",
+            "Premium Count",
+            "Premium Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Segment Performance in SVK",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of \"premium\" against the overall segment in \"SVK\"?",
+        "data": [
+            [
+                "Segment A",
+                "1000",
+                "200",
+                "20%"
+            ],
+            [
+                "Segment B",
+                "1500",
+                "300",
+                "20%"
+            ],
+            [
+                "Segment C",
+                "800",
+                "160",
+                "20%"
+            ],
+            [
+                "Segment D",
+                "1200",
+                "240",
+                "20%"
+            ],
+            [
+                "Segment E",
+                "900",
+                "180",
+                "20%"
+            ]
+        ]
+    }
+}

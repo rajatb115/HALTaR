@@ -1,0 +1,69 @@
+{
+    "table-608-608": {
+        "title": [
+            "Comment ID",
+            "User",
+            "Sentiment Score",
+            "Text Snippet",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many positive comments are there on the list?",
+        "data": [
+            [
+                "CMT_1042",
+                "alice_dev",
+                "+0.95",
+                "Great feature update!",
+                "Positive"
+            ],
+            [
+                "CMT_1105",
+                "bob_smith",
+                "-0.72",
+                "Too slow for my needs.",
+                "Negative"
+            ],
+            [
+                "CMT_1299",
+                "charlie_x",
+                "+1.00",
+                "Absolutely love it!",
+                "Positive"
+            ],
+            [
+                "CMT_1330",
+                "diana_jones",
+                "+2.50",
+                "Best tool ever made.",
+                "Positive"
+            ],
+            [
+                "CMT_2011",
+                "evan_k",
+                "-1.10",
+                "Buggy release please fix.",
+                "Negative"
+            ],
+            [
+                "CMT_2144",
+                "fiona_lu",
+                "+3.20",
+                "Exceeded expectations completely.",
+                "Positive"
+            ],
+            [
+                "CMT_2205",
+                "greg_h",
+                "+4.15",
+                "Worth every penny spent.",
+                "Positive"
+            ]
+        ]
+    }
+}

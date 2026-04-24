@@ -1,0 +1,52 @@
+{
+    "table-682-682": {
+        "title": [
+            "Display Name",
+            "Post ID",
+            "View Count",
+            "Post Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "High-Performing User Posts in 2011",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the users' display names whose posts had over 20000 views in 2011.",
+        "data": [
+            [
+                "JohnDoe",
+                "12345",
+                "25000",
+                "2011-03-15"
+            ],
+            [
+                "JaneSmith",
+                "67890",
+                "30000",
+                "2011-07-22"
+            ],
+            [
+                "PeterJones",
+                "13579",
+                "22000",
+                "2011-11-01"
+            ],
+            [
+                "AliceBrown",
+                "24680",
+                "28000",
+                "2011-05-10"
+            ],
+            [
+                "DavidWilson",
+                "98765",
+                "21000",
+                "2011-09-18"
+            ]
+        ]
+    }
+}

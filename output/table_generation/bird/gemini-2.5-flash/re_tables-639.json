@@ -1,0 +1,61 @@
+{
+    "table-639-639": {
+        "title": [
+            "User Name",
+            "Badge Name",
+            "Date Awarded",
+            "Badge Level"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the name of users that obtained the Organizer Badges.",
+        "data": [
+            [
+                "Alice Smith",
+                "Organizer Badge",
+                "2023-01-15",
+                "Gold"
+            ],
+            [
+                "Bob Johnson",
+                "Organizer Badge",
+                "2022-11-01",
+                "Silver"
+            ],
+            [
+                "Carol White",
+                "Organizer Badge",
+                "2023-03-20",
+                "Bronze"
+            ],
+            [
+                "David Green",
+                "Organizer Badge",
+                "2023-02-10",
+                "Gold"
+            ],
+            [
+                "Emily Brown",
+                "Organizer Badge",
+                "2022-12-05",
+                "Silver"
+            ],
+            [
+                "Frank Black",
+                "Organizer Badge",
+                "2023-04-01",
+                "Bronze"
+            ],
+            [
+                "Grace Lee",
+                "Organizer Badge",
+                "2023-01-25",
+                "Gold"
+            ]
+        ]
+    }
+}

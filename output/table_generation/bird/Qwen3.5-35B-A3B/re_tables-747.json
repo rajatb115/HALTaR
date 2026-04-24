@@ -1,0 +1,85 @@
+{
+    "table-747-747": {
+        "title": [
+            "Superhero",
+            "Strength",
+            "Speed",
+            "Intelligence",
+            "Durability",
+            "Energy Projection",
+            "Average Attribute Value"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average attribute value of all superheroes.",
+        "data": [
+            [
+                "Superman",
+                "950",
+                "880",
+                "N/A",
+                "760",
+                "None",
+                "496.67"
+            ],
+            [
+                "Batman",
+                "650",
+                "720",
+                "High",
+                "Low",
+                "Medium",
+                "380.00"
+            ],
+            [
+                "Wonder Woman",
+                "5000",
+                "600",
+                "N/A",
+                "0",
+                "Very High",
+                "2700.50"
+            ],
+            [
+                "Flash",
+                "N/A",
+                "99",
+                "High",
+                "Moderate",
+                "Low",
+                "High"
+            ],
+            [
+                "Iron Man",
+                "Strong",
+                "Fast",
+                "Genius",
+                "Advanced",
+                "Repulsors",
+                "Average Power Level"
+            ],
+            [
+                "Thor",
+                "Godlike",
+                "Flight",
+                "Ancient Knowledge",
+                "Indestructible",
+                "Lightning Storms",
+                "Divine Tier"
+            ],
+            [
+                "Hulk",
+                "Unmeasurable",
+                "Leaping",
+                "Savage Instinct",
+                "Regenerative",
+                "Gamma Radiation",
+                "Infinite Potential"
+            ]
+        ]
+    }
+}

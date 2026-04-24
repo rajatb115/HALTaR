@@ -1,0 +1,67 @@
+{
+    "table-866-866": {
+        "title": [
+            "Driver ID",
+            "Full Name",
+            "Age",
+            "Race Number",
+            "Finish Position",
+            "Team",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the drivers who finished the game in race No. 592, who is the oldest?",
+        "data": [
+            [
+                "D-4012",
+                "Marcus Thorne",
+                "42",
+                "589",
+                "3rd",
+                "Apex Racing",
+                "Finished"
+            ],
+            [
+                "D-4105",
+                "Elena Vance",
+                "67",
+                "0590",
+                "7th",
+                "Velocity Motors",
+                "Finished"
+            ],
+            [
+                "D-42",
+                "Soren Kael",
+                "89",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "D-4309",
+                "Julian Reed",
+                "91",
+                "592",
+                "Retired",
+                "Storm Chasers",
+                "Did Not Finish"
+            ],
+            [
+                "D-4412",
+                "Clara Halloway",
+                "",
+                "N/A",
+                "Completed",
+                "Thunder Bay",
+                "Finished"
+            ]
+        ]
+    }
+}

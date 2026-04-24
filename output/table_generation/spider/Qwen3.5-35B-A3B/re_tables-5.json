@@ -1,0 +1,103 @@
+{
+    "table-5-5": {
+        "title": [
+            "Song Title",
+            "Release Year",
+            "Singer Age at Release",
+            "Artist Name",
+            "Genre",
+            "Label",
+            "Duration",
+            "Chart Peak"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the name and the release year of the song by the youngest singer.",
+        "data": [
+            [
+                "Teenage Dream",
+                "4",
+                "Katy Perry",
+                "Pop",
+                "Capitol Records",
+                "3:47",
+                "6",
+                ""
+            ],
+            [
+                "Rise Up",
+                "5",
+                "Andra Day",
+                "Soul",
+                "Atlantic Records",
+                "4:02",
+                "8",
+                ""
+            ],
+            [
+                "Moonlight",
+                "7",
+                "Billie Eilish",
+                "Alternative",
+                "Interscope",
+                "0:59",
+                "9",
+                ""
+            ],
+            [
+                "Young & Beautiful",
+                "17",
+                "Lana Del Rey",
+                "Indie Pop",
+                "Polydor",
+                "3:56",
+                "",
+                ""
+            ],
+            [
+                "Baby One More Time",
+                "16",
+                "Britney Spears",
+                "Dance-Pop",
+                "Jive Records",
+                "3:30",
+                "",
+                ""
+            ],
+            [
+                "I'm Too Young",
+                "15",
+                "Olivia Rodrigo",
+                "Pop Rock",
+                "Geffen Records",
+                "2:58",
+                "",
+                ""
+            ],
+            [
+                "Little Wonders",
+                "14",
+                "Sabrina Carpenter",
+                "Synth-pop",
+                "Island Records",
+                "",
+                "",
+                ""
+            ],
+            [
+                "First Love",
+                "13",
+                "Taylor Swift",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

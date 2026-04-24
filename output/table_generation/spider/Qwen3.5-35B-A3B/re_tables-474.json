@@ -1,0 +1,76 @@
+{
+    "table-474-474": {
+        "title": [
+            "City",
+            "Country",
+            "Population",
+            "Primary Language",
+            "Continent"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the city with the largest population that uses English.",
+        "data": [
+            [
+                "Tokyo",
+                "Japan",
+                "37400068",
+                "Japanese",
+                "Asia"
+            ],
+            [
+                "Delhi",
+                "India",
+                "40767800",
+                "Hindi/English",
+                "Asia"
+            ],
+            [
+                "Shanghai",
+                "China",
+                "50090050",
+                "Mandarin Chinese",
+                "Asia"
+            ],
+            [
+                "New York",
+                "United States",
+                "8336817",
+                "English",
+                "North America"
+            ],
+            [
+                "London",
+                "United Kingdom",
+                "9648110",
+                "English",
+                "Europe"
+            ],
+            [
+                "Lagos",
+                "Nigeria",
+                "7904066",
+                "English",
+                "Africa"
+            ],
+            [
+                "Cairo",
+                "Egypt",
+                "6008030",
+                "Arabic",
+                "Africa"
+            ],
+            [
+                "Mumbai",
+                "India",
+                "21296019",
+                "Hindi/Marathi",
+                "Asia"
+            ]
+        ]
+    }
+}

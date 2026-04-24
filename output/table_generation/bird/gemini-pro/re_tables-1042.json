@@ -1,0 +1,45 @@
+{
+    "table-1042-1042": {
+        "title": [
+            "Team Name",
+            "Build-Up Play Dribbling",
+            "Chance Creation Passing"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Teams with Normal Build-Up Play and Below Average Passing (2014)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the teams with normal build-up play dribbling class in 2014, List the names of the teams with less than average chance creation passing, in descending order of chance creation passing.",
+        "data": [
+            [
+                "Real Madrid",
+                "Normal",
+                "45"
+            ],
+            [
+                "FC Barcelona",
+                "Normal",
+                "42"
+            ],
+            [
+                "Bayern Munich",
+                "Normal",
+                "40"
+            ],
+            [
+                "Juventus",
+                "Normal",
+                "38"
+            ],
+            [
+                "Paris Saint-Germain",
+                "Normal",
+                "35"
+            ]
+        ]
+    }
+}

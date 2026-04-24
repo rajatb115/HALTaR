@@ -1,0 +1,37 @@
+{
+    "table-301-301": {
+        "title": [
+            "Department",
+            "Degree Offered"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Departments Offering Degrees",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different departments offer degrees?",
+        "data": [
+            [
+                "Biology",
+                "Bachelor of Science"
+            ],
+            [
+                "Computer Science",
+                "Bachelor of Science"
+            ],
+            [
+                "English",
+                "Bachelor of Arts"
+            ],
+            [
+                "History",
+                "Bachelor of Arts"
+            ],
+            [
+                "Mathematics",
+                "Bachelor of Science"
+            ]
+        ]
+    }
+}

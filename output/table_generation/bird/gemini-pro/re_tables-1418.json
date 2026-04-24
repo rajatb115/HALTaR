@@ -1,0 +1,39 @@
+{
+    "table-1418-1418": {
+        "title": [
+            "Event Type",
+            "Remaining Budget (USD)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Event Budget Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the type of events which have remaining budget more than 30 USD.",
+        "data": [
+            [
+                "Concert",
+                "55"
+            ],
+            [
+                "Workshop",
+                "32"
+            ],
+            [
+                "Conference",
+                "48"
+            ],
+            [
+                "Seminar",
+                "25"
+            ],
+            [
+                "Festival",
+                "60"
+            ]
+        ]
+    }
+}

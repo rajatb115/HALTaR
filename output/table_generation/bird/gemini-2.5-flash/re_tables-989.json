@@ -1,0 +1,69 @@
+{
+    "table-989-989": {
+        "title": [
+            "Driver Name",
+            "Birth Year",
+            "Nationality",
+            "Avg Pit Stop (s)",
+            "Primary Team",
+            "Championships"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down top 5 German drivers who has the shortest average pit stop duration and were born between 1980-1985.",
+        "data": [
+            [
+                "Nico Rosberg",
+                "1985",
+                "German",
+                "2.15",
+                "Mercedes",
+                "1"
+            ],
+            [
+                "Klaus M\u00fcller",
+                "1980",
+                "German",
+                "2.18",
+                "Ferrari",
+                "0"
+            ],
+            [
+                "Max Richter",
+                "1982",
+                "German",
+                "2.20",
+                "Red Bull",
+                "0"
+            ],
+            [
+                "Lena Schmidt",
+                "1984",
+                "German",
+                "2.25",
+                "McLaren",
+                "0"
+            ],
+            [
+                "Adrian Sutil",
+                "1983",
+                "German",
+                "2.30",
+                "Force India",
+                "0"
+            ],
+            [
+                "Anna Weber",
+                "1981",
+                "German",
+                "2.35",
+                "Williams",
+                "0"
+            ]
+        ]
+    }
+}

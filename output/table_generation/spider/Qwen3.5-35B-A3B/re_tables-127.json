@@ -1,0 +1,69 @@
+{
+    "table-127-127": {
+        "title": [
+            "Airline Code",
+            "Airline Name",
+            "Flight Number",
+            "Destination Airport",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airlines have a flight with destination airport AHD?",
+        "data": [
+            [
+                "EK742",
+                "Emirates Airlines",
+                "EK744",
+                "AHD",
+                "Scheduled"
+            ],
+            [
+                "QR605",
+                "Qatar Airways",
+                "QR607",
+                "AHD",
+                "Active"
+            ],
+            [
+                "SV210",
+                "Saudia Airlines",
+                "SV212",
+                "AHD",
+                "Delayed"
+            ],
+            [
+                "MS890",
+                "EgyptAir",
+                "MS892",
+                "AHD",
+                "Cancelled"
+            ],
+            [
+                "TK450",
+                "Turkish Airlines",
+                "TK452",
+                "AHD",
+                "On Time"
+            ],
+            [
+                "WY115",
+                "Oman Air",
+                "WY120",
+                "AHD",
+                "Diverted"
+            ],
+            [
+                "FZ330",
+                "flydubai",
+                "FZ340",
+                "AHD",
+                "Boarding"
+            ]
+        ]
+    }
+}

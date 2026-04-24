@@ -1,0 +1,77 @@
+{
+    "table-667-667": {
+        "title": [
+            "Post ID",
+            "Post Title",
+            "Author ID",
+            "Total Upvotes",
+            "Value Score",
+            "Voted By User 1465"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts that were voted by user 1465, what is the id of the most valuable post?",
+        "data": [
+            [
+                "7890",
+                "Advanced Python Decorators",
+                "1001",
+                "285",
+                "920",
+                "Yes"
+            ],
+            [
+                "1234",
+                "Understanding REST APIs",
+                "2005",
+                "150",
+                "780",
+                "Yes"
+            ],
+            [
+                "5678",
+                "CSS Grid Layout Tutorial",
+                "3010",
+                "310",
+                "950",
+                "No"
+            ],
+            [
+                "9012",
+                "Beginner's Guide to Git",
+                "1001",
+                "95",
+                "620",
+                "Yes"
+            ],
+            [
+                "3456",
+                "Database Normalization Explained",
+                "4002",
+                "220",
+                "880",
+                "No"
+            ],
+            [
+                "6789",
+                "Machine Learning with Scikit-learn",
+                "2005",
+                "410",
+                "985",
+                "Yes"
+            ],
+            [
+                "2345",
+                "Optimizing JavaScript Performance",
+                "3010",
+                "180",
+                "810",
+                "Yes"
+            ]
+        ]
+    }
+}

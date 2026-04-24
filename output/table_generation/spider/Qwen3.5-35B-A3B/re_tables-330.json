@@ -1,0 +1,58 @@
+{
+    "table-330-330": {
+        "title": [
+            "Transcript ID",
+            "Release Date",
+            "Project Code",
+            "Status",
+            "Version",
+            "Author",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the last transcript release date?",
+        "data": [
+            [
+                "TRX-2024-A1",
+                "7/15/2016",
+                "PROJ-X",
+                "Finalized",
+                "v1.0",
+                "J. Smith",
+                "North America"
+            ],
+            [
+                "TRX-99-B2",
+                "8/22/2106",
+                "YIELD-Z",
+                "Drafted",
+                "v0.9",
+                "M. Lee",
+                "Europe"
+            ],
+            [
+                "TXC-44-C3",
+                "9/30/2999",
+                "ALPHA-Q",
+                "Archived",
+                "v2.1",
+                "R. Davis",
+                "Asia Pacific"
+            ],
+            [
+                "TSC-11-D4",
+                "3/14/2500",
+                "GAMMA-W",
+                "Pending Review",
+                "v3.0",
+                "K. Wilson",
+                "South America"
+            ]
+        ]
+    }
+}

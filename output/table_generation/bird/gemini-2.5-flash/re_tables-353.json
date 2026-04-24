@@ -1,0 +1,76 @@
+{
+    "table-353-353": {
+        "title": [
+            "Card Name",
+            "Card ID",
+            "Language",
+            "Availability Status",
+            "Set"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of the cards availabe in Chinese Simplified.",
+        "data": [
+            [
+                "Blazing Phoenix",
+                "C001",
+                "English",
+                "Available",
+                "Crimson Dawn"
+            ],
+            [
+                "Blazing Phoenix",
+                "C001",
+                "Chinese Simplified",
+                "Available",
+                "Crimson Dawn"
+            ],
+            [
+                "Ancient Guardian",
+                "C002",
+                "English",
+                "Available",
+                "Mystic Shores"
+            ],
+            [
+                "Ancient Guardian",
+                "C002",
+                "Japanese",
+                "Available",
+                "Mystic Shores"
+            ],
+            [
+                "Shadow Serpent",
+                "C003",
+                "English",
+                "Available",
+                "Dark Depths"
+            ],
+            [
+                "Shadow Serpent",
+                "C003",
+                "Chinese Simplified",
+                "Not Yet Released",
+                "Dark Depths"
+            ],
+            [
+                "Celestial Beacon",
+                "C004",
+                "English",
+                "Available",
+                "Starfall Chronicles"
+            ],
+            [
+                "Celestial Beacon",
+                "C004",
+                "German",
+                "Available",
+                "Starfall Chronicles"
+            ]
+        ]
+    }
+}

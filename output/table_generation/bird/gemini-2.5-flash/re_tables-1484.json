@@ -1,0 +1,69 @@
+{
+    "table-1484-1484": {
+        "title": [
+            "CustomerID",
+            "BillingMonth",
+            "BillingYear",
+            "UnitsConsumed",
+            "AmountCharged_USD"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much did customer 6 consume in total between August and November 2013?",
+        "data": [
+            [
+                "6",
+                "August",
+                "2013",
+                "150",
+                "75.00"
+            ],
+            [
+                "6",
+                "September",
+                "2013",
+                "165",
+                "82.50"
+            ],
+            [
+                "6",
+                "October",
+                "2013",
+                "140",
+                "70.00"
+            ],
+            [
+                "6",
+                "November",
+                "2013",
+                "170",
+                "85.00"
+            ],
+            [
+                "7",
+                "August",
+                "2013",
+                "200",
+                "100.00"
+            ],
+            [
+                "6",
+                "July",
+                "2013",
+                "130",
+                "65.00"
+            ],
+            [
+                "8",
+                "October",
+                "2013",
+                "180",
+                "90.00"
+            ]
+        ]
+    }
+}

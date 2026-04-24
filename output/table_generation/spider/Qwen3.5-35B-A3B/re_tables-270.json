@@ -1,0 +1,83 @@
+{
+    "table-270-270": {
+        "title": [
+            "First_Name",
+            "Average_Ranking",
+            "Sport",
+            "Season",
+            "Team_ID",
+            "Matches_Played",
+            "Points_Scored",
+            "Win_Rate"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the first names of all players, and their average rankings?",
+        "data": [
+            [
+                "John",
+                "4.2",
+                "Basketball",
+                "2023",
+                "850",
+                "58",
+                "920",
+                "0.62"
+            ],
+            [
+                "Maria",
+                "3.8",
+                "Tennis",
+                "WTA_Main",
+                "0",
+                "N/A",
+                "64",
+                "0.71"
+            ],
+            [
+                "David",
+                "0.5",
+                "Soccer",
+                "Real_Madrid",
+                "2023",
+                "18",
+                "34",
+                "0.56"
+            ],
+            [
+                "Sarah",
+                "7.1",
+                "Golf",
+                "PGA_Tour",
+                "4021",
+                "22",
+                "189",
+                "0.65"
+            ],
+            [
+                "James",
+                "2.9",
+                "Cricket",
+                "India_Nat",
+                "1983",
+                "15",
+                "780",
+                "0.64"
+            ],
+            [
+                "Elena",
+                "1.0",
+                "Swimming",
+                "FINA_Global",
+                "18",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

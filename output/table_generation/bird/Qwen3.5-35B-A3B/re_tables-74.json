@@ -1,0 +1,85 @@
+{
+    "table-74-74": {
+        "title": [
+            "Mailing Address",
+            "Age Range",
+            "Meal Program Count",
+            "School Status",
+            "Year Reported",
+            "Data Source",
+            "Status Flag"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the free or reduced price meal count for ages 5 to 17 in the Youth Authority School with a mailing street address of PO Box 1040?",
+        "data": [
+            [
+                "PO Box 600",
+                "5\u201317",
+                "Free Meals Only",
+                "Active",
+                "452",
+                "State Education Dept",
+                "Verified"
+            ],
+            [
+                "PO Box 120",
+                "All Ages",
+                "Reduced Price Only",
+                "Inactive",
+                "N/A",
+                "Local District Records",
+                "Pending Review"
+            ],
+            [
+                "PO Box 150",
+                "Under 5",
+                "Combined Total",
+                "Suspended",
+                "389",
+                "Federal Database",
+                "Data Mismatch"
+            ],
+            [
+                "PO Box 220",
+                "5-17",
+                "Free & Reduced",
+                "Active",
+                "512",
+                "State Education Dept",
+                "Verified"
+            ],
+            [
+                "PO Box 330",
+                "All Ages",
+                "No Eligible Students",
+                "Closed",
+                "0",
+                "Local District Records",
+                "Archived"
+            ],
+            [
+                "PO Box 440",
+                "Under 5",
+                "",
+                "Active",
+                "",
+                "Federal Database",
+                "Flagged"
+            ],
+            [
+                "PO Box 550",
+                "5-17",
+                "Rural Program Only",
+                "Inactive",
+                "298",
+                "State Education Dept",
+                "Audit Required"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-401-401": {
+        "title": [
+            "Player Name",
+            "Country",
+            "Career Winnings (USD)",
+            "WSOP Bracelets"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of all the poker players.",
+        "data": [
+            [
+                "Daniel Negreanu",
+                "Canada",
+                "50,000,000",
+                "6"
+            ],
+            [
+                "Phil Ivey",
+                "USA",
+                "40,000,000",
+                "10"
+            ],
+            [
+                "Doyle Brunson",
+                "USA",
+                "6,000,000",
+                "10"
+            ],
+            [
+                "Erik Seidel",
+                "USA",
+                "45,000,000",
+                "9"
+            ],
+            [
+                "Vanessa Selbst",
+                "USA",
+                "12,000,000",
+                "3"
+            ],
+            [
+                "Phil Hellmuth",
+                "USA",
+                "29,000,000",
+                "17"
+            ],
+            [
+                "Justin Bonomo",
+                "USA",
+                "60,000,000",
+                "3"
+            ]
+        ]
+    }
+}

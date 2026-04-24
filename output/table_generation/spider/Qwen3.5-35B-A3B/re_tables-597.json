@@ -1,0 +1,67 @@
+{
+    "table-597-597": {
+        "title": [
+            "Owner First Name",
+            "Dog Name",
+            "Breed",
+            "Age",
+            "Weight_kg",
+            "Last_Visit_Date",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are each owner's first name and their dogs's name?",
+        "data": [
+            [
+                "John",
+                "Max",
+                "Labrador Retriever",
+                "4",
+                "32",
+                "7/12/2023",
+                "Active"
+            ],
+            [
+                "Sarah",
+                "Bella",
+                "Golden Retrievr",
+                "6",
+                "55",
+                "8/01/2323",
+                "Inactive"
+            ],
+            [
+                "Michael",
+                "Charlie",
+                "Beagle",
+                "9",
+                "0",
+                "N/A",
+                "Pending"
+            ],
+            [
+                "Emily",
+                "Luna",
+                "Poodle",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "David",
+                "Rocky",
+                "German Shepherd",
+                "2",
+                "",
+                "/20/2",
+                "Active"
+            ]
+        ]
+    }
+}

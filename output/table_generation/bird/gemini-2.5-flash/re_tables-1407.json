@@ -1,0 +1,69 @@
+{
+    "table-1407-1407": {
+        "title": [
+            "Category",
+            "Sub-Category",
+            "Budgeted Amount",
+            "Actual Spend",
+            "Month"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the budgets for Food, which one has the highest budgeted amount?",
+        "data": [
+            [
+                "Food",
+                "Groceries",
+                "800",
+                "750",
+                "January"
+            ],
+            [
+                "Food",
+                "Dining Out",
+                "400",
+                "420",
+                "January"
+            ],
+            [
+                "Food",
+                "Snacks",
+                "150",
+                "130",
+                "January"
+            ],
+            [
+                "Food",
+                "Beverages",
+                "100",
+                "95",
+                "January"
+            ],
+            [
+                "Food",
+                "Groceries",
+                "850",
+                "810",
+                "February"
+            ],
+            [
+                "Food",
+                "Dining Out",
+                "450",
+                "460",
+                "February"
+            ],
+            [
+                "Food",
+                "Takeaway",
+                "200",
+                "210",
+                "February"
+            ]
+        ]
+    }
+}

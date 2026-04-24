@@ -1,0 +1,69 @@
+{
+    "table-502-502": {
+        "title": [
+            "Card Name",
+            "Set Name",
+            "Converted Mana Cost (CMC)",
+            "Card Type",
+            "Rarity"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which card name in the set 'Journey into Nyx Hero's Path' has the highest converted mana cost.",
+        "data": [
+            [
+                "Hero of Leina Tower",
+                "Journey into Nyx Hero's Path",
+                "2",
+                "Creature - Human Warrior",
+                "Uncommon"
+            ],
+            [
+                "Sip of Hemlock",
+                "Journey into Nyx Hero's Path",
+                "5",
+                "Sorcery",
+                "Common"
+            ],
+            [
+                "Arbor Colossus",
+                "Journey into Nyx Hero's Path",
+                "6",
+                "Creature - Giant",
+                "Rare"
+            ],
+            [
+                "Colossus of Akros",
+                "Journey into Nyx Hero's Path",
+                "8",
+                "Artifact Creature - Golem",
+                "Rare"
+            ],
+            [
+                "Hydra Broodmaster",
+                "Journey into Nyx Hero's Path",
+                "7",
+                "Creature - Hydra",
+                "Mythic Rare"
+            ],
+            [
+                "Worldspine Wurm",
+                "Journey into Nyx Hero's Path",
+                "11",
+                "Creature - Wurm",
+                "Mythic Rare"
+            ],
+            [
+                "Polukranos, World Eater",
+                "Journey into Nyx Hero's Path",
+                "4",
+                "Legendary Creature - Hydra",
+                "Mythic Rare"
+            ]
+        ]
+    }
+}

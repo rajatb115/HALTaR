@@ -1,0 +1,40 @@
+{
+    "table-12-12": {
+        "title": [
+            "School Code",
+            "Total Enrollment"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Schools with High Enrollment",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the codes of the schools with a total enrollment of over 500.",
+        "data": [
+            [
+                "1001",
+                "620"
+            ],
+            [
+                "1002",
+                "550"
+            ],
+            [
+                "1005",
+                "780"
+            ],
+            [
+                "1008",
+                "510"
+            ],
+            [
+                "1011",
+                "600"
+            ]
+        ]
+    }
+}

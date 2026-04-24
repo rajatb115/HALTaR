@@ -1,0 +1,85 @@
+{
+    "table-1159-1159": {
+        "title": [
+            "Patient ID",
+            "Full Name",
+            "Date of Birth",
+            "Total Cholesterol mg/dL",
+            "Status",
+            "Diagnosis Code",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all patients who were born in 1937 whose total cholesterol was beyond the normal range.",
+        "data": [
+            [
+                "P-4021",
+                "Arthur Dent",
+                "04/12/1963",
+                "310",
+                "High",
+                "E78.0",
+                "Requires immediate intervention"
+            ],
+            [
+                "P-4105",
+                "Beatrice Miller",
+                "09/22/2012",
+                "N/A",
+                "Pending",
+                "N/D",
+                "Lab results delayed due to holiday"
+            ],
+            [
+                "E-1192",
+                "Charles Vance",
+                "07/15/1897",
+                "405",
+                "Critical",
+                "E88.9",
+                "Emergency admission required"
+            ],
+            [
+                "F-3301",
+                "Diana Ross",
+                "08/26/1798",
+                "520",
+                "Fatal",
+                "ICD-10-Z",
+                "Deceased prior to treatment"
+            ],
+            [
+                "G-5512",
+                "Edward Norton",
+                "06/30/1666",
+                "",
+                "Normal Range",
+                "None",
+                "No elevated levels detected"
+            ],
+            [
+                "H-7723",
+                "Fiona Apple",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "I-9944",
+                "George Lucas",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

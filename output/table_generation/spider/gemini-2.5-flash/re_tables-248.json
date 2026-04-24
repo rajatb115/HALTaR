@@ -1,0 +1,77 @@
+{
+    "table-248-248": {
+        "title": [
+            "Match ID",
+            "Tournament",
+            "Loser Player",
+            "Loser Rank",
+            "Winner Player",
+            "Match Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the best rank of losers across all matches?",
+        "data": [
+            [
+                "M001",
+                "Wimbledon 2023",
+                "Novak Djokovic",
+                "1",
+                "Carlos Alcaraz",
+                "2023-07-16"
+            ],
+            [
+                "M002",
+                "US Open 2022",
+                "Rafael Nadal",
+                "3",
+                "Frances Tiafoe",
+                "2022-09-05"
+            ],
+            [
+                "M003",
+                "French Open 2021",
+                "Stefanos Tsitsipas",
+                "5",
+                "Alexander Zverev",
+                "2021-06-11"
+            ],
+            [
+                "M004",
+                "Australian Open 2024",
+                "Daniil Medvedev",
+                "4",
+                "Jannik Sinner",
+                "2024-01-28"
+            ],
+            [
+                "M005",
+                "ATP Finals 2023",
+                "Carlos Alcaraz",
+                "2",
+                "Novak Djokovic",
+                "2023-11-18"
+            ],
+            [
+                "M006",
+                "Miami Open 2023",
+                "Casper Ruud",
+                "8",
+                "Holger Rune",
+                "2023-03-29"
+            ],
+            [
+                "M007",
+                "Indian Wells 2024",
+                "Jannik Sinner",
+                "3",
+                "Carlos Alcaraz",
+                "2024-03-16"
+            ]
+        ]
+    }
+}

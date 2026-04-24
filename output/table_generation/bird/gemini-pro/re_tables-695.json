@@ -1,0 +1,25 @@
+{
+    "table-695-695": {
+        "title": [
+            "Post Title",
+            "Comment Text",
+            "User Display Name",
+            "Comment Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Latest Comments on a Specific Post",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the text of the latest comment to the post with the title 'Analysing wind data with R' and the display name of the user who left it.",
+        "data": [
+            [
+                "Analysing wind data with R",
+                "Great post, very helpful! I was able to apply this to my own data.",
+                "DataExplorer123",
+                "2024-01-26 10:30:00"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-161-161": {
+        "title": [
+            "Evaluation ID",
+            "Employee ID",
+            "Evaluation Date",
+            "Performance Rating",
+            "Bonus Amount",
+            "Bonus Type"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the total amount of bonus given in all the evaluations.",
+        "data": [
+            [
+                "EVL001",
+                "EMP101",
+                "2023-12-15",
+                "Exceeds Expectations",
+                "2500.00",
+                "Annual Performance"
+            ],
+            [
+                "EVL002",
+                "EMP102",
+                "2023-11-20",
+                "Meets Expectations",
+                "1500.00",
+                "Project Completion"
+            ],
+            [
+                "EVL003",
+                "EMP103",
+                "2023-12-01",
+                "Needs Improvement",
+                "0.00",
+                "N/A"
+            ],
+            [
+                "EVL004",
+                "EMP104",
+                "2023-10-25",
+                "Exceeds Expectations",
+                "3000.00",
+                "Annual Performance"
+            ],
+            [
+                "EVL005",
+                "EMP101",
+                "2023-09-10",
+                "Meets Expectations",
+                "500.00",
+                "Spot Bonus"
+            ],
+            [
+                "EVL006",
+                "EMP105",
+                "2023-12-15",
+                "Exceeds Expectations",
+                "2750.00",
+                "Annual Performance"
+            ],
+            [
+                "EVL007",
+                "EMP106",
+                "2023-11-05",
+                "Meets Expectations",
+                "1200.00",
+                "Project Completion"
+            ]
+        ]
+    }
+}

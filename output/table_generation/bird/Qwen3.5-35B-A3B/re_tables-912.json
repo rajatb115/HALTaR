@@ -1,0 +1,45 @@
+{
+    "table-912-912": {
+        "title": [
+            "Circuit Name",
+            "Latitude Degrees North",
+            "Country",
+            "Continent",
+            "Established",
+            "Track Length km"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which of these circuits is located at a higher latitude, Silverstone Circuit, Hockenheimring or Hungaroring?",
+        "data": [
+            [
+                "Silverstone Circuit",
+                "52.0769",
+                "United Kingdom",
+                "Europe",
+                "",
+                "4.890"
+            ],
+            [
+                "Hockenheim Ring",
+                "52.2167",
+                "Germany",
+                "Europe",
+                "",
+                "6.826"
+            ],
+            [
+                "Hungaroring",
+                "47.2667",
+                "Hungary",
+                "Europe",
+                "",
+                "7.000"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-29-29": {
+        "title": [
+            "School_Name",
+            "Doc_Type",
+            "Enrollment_K12",
+            "Enrollment_15to17",
+            "Difference",
+            "Above_Average"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Consider the average difference between K-12 enrollment and 15-17 enrollment of schools that are locally funded, list the names and DOC type of schools which has a difference above this average.",
+        "data": [
+            [
+                "Lincoln High Academy",
+                "Local Public",
+                "450",
+                "60",
+                "-390",
+                "Yes"
+            ],
+            [
+                "Riverside Community School",
+                "Local Private",
+                "320",
+                "",
+                "-280",
+                "No"
+            ],
+            [
+                "Oakwood District Center",
+                "Local Charter",
+                "510",
+                "",
+                "-420",
+                "Yes"
+            ],
+            [
+                "Maple Valley Institute",
+                "Local Non-Profit",
+                "8900",
+                "",
+                "-8950",
+                "Yes"
+            ],
+            [
+                "Greenfield Technical HS",
+                "Local Vocational",
+                "75000",
+                "120",
+                "-74880",
+                "Yes"
+            ],
+            [
+                "Sunset Bay Preparatory",
+                "Local Independent",
+                "90",
+                "",
+                "-90",
+                "No"
+            ],
+            [
+                "Northside Learning Hub",
+                "Local Special Ed",
+                "0",
+                "0",
+                "",
+                "No"
+            ]
+        ]
+    }
+}

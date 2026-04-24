@@ -1,0 +1,48 @@
+{
+    "table-1036-1036": {
+        "title": [
+            "Team Name",
+            "Team FIFA API ID",
+            "Build-Up Play Speed"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the team_fifa_api_id of teams with more than 50 but less than 60 build-up play speed.",
+        "data": [
+            [
+                "Real Betis",
+                "479",
+                "55"
+            ],
+            [
+                "Valencia CF",
+                "243",
+                "58"
+            ],
+            [
+                "Everton FC",
+                "1976",
+                "52"
+            ],
+            [
+                "AS Monaco",
+                "1093",
+                "57"
+            ],
+            [
+                "SSC Napoli",
+                "1131",
+                "54"
+            ],
+            [
+                "Borussia M.Gladbach",
+                "174",
+                "56"
+            ]
+        ]
+    }
+}

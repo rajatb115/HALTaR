@@ -1,0 +1,69 @@
+{
+    "table-321-321": {
+        "title": [
+            "Registration ID",
+            "First Name",
+            "Middle Name",
+            "Last Name",
+            "Registration Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the first, middle, and last name of the first student to register?",
+        "data": [
+            [
+                "1001",
+                "Alice",
+                "Marie",
+                "Smith",
+                "2023-08-15"
+            ],
+            [
+                "1002",
+                "Bob",
+                "N/A",
+                "Johnson",
+                "2023-08-15"
+            ],
+            [
+                "1003",
+                "Carol",
+                "Ann",
+                "Davis",
+                "2023-08-16"
+            ],
+            [
+                "1004",
+                "David",
+                "Lee",
+                "Miller",
+                "2023-08-16"
+            ],
+            [
+                "1005",
+                "Emily",
+                "Grace",
+                "Wilson",
+                "2023-08-17"
+            ],
+            [
+                "1006",
+                "Frank",
+                "William",
+                "Moore",
+                "2023-08-17"
+            ],
+            [
+                "1007",
+                "Grace",
+                "Elizabeth",
+                "Taylor",
+                "2023-08-18"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-396-396": {
+        "title": [
+            "Card ID",
+            "Designer",
+            "MTGO Print Type",
+            "Starting Max Hand Size",
+            "Set Code",
+            "Rarity",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards designed by UDON and available in mtgo print type has a starting maximum hand size of -1?",
+        "data": [
+            [
+                "UDON-CARD-004",
+                "UDON",
+                "Magic Online",
+                "-1",
+                "M19",
+                "Rare",
+                "Active"
+            ],
+            [
+                "UDON-CARD-DRAFT",
+                "UDONT",
+                "Draft Event",
+                "-2",
+                "DTH",
+                "Uncommon",
+                "Retired"
+            ],
+            [
+                "UDO-NEXT-GEN",
+                "UDOND",
+                "Standard Legal",
+                "0",
+                "STX",
+                "Common",
+                "Active"
+            ],
+            [
+                "UDO-SPECIAL-EVT",
+                "UDONS",
+                "Special Event",
+                "6",
+                "CMBL",
+                "Mythic",
+                "Limited"
+            ],
+            [
+                "UDIO-MODERN-FEST",
+                "UDONG",
+                "Modern Format",
+                "7",
+                "MKC",
+                "Rare",
+                "Inactive"
+            ],
+            [
+                "UDI-LIMITED-PROMO",
+                "UDOLP",
+                "Promo Only",
+                "5",
+                "PRM",
+                "Legendary",
+                "Discontinued"
+            ],
+            [
+                "UDD-TEST-BUILD",
+                "UDOTB",
+                "Test File",
+                "N/A",
+                "TST",
+                "Unknown",
+                "Archived"
+            ]
+        ]
+    }
+}

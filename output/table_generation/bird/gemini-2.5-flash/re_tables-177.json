@@ -1,0 +1,77 @@
+{
+    "table-177-177": {
+        "title": [
+            "Client ID",
+            "Total Debt ($)",
+            "Payment Status",
+            "Last Payment Date",
+            "Next Due Date",
+            "Payment Frequency"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the amount of debt that client number 992 has, and how is this client doing with payments?",
+        "data": [
+            [
+                "992",
+                "15250.75",
+                "On Track",
+                "2023-10-28",
+                "2023-11-28",
+                "Monthly"
+            ],
+            [
+                "993",
+                "22100.00",
+                "30 Days Late",
+                "2023-09-15",
+                "2023-10-15",
+                "Monthly"
+            ],
+            [
+                "994",
+                "8900.50",
+                "On Track",
+                "2023-10-30",
+                "2023-11-30",
+                "Monthly"
+            ],
+            [
+                "995",
+                "35000.00",
+                "Delinquent",
+                "2023-07-01",
+                "2023-08-01",
+                "Monthly"
+            ],
+            [
+                "996",
+                "1200.00",
+                "Paid Off",
+                "2023-10-10",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "997",
+                "5000.00",
+                "On Track",
+                "2023-10-20",
+                "2023-11-20",
+                "Bi-Weekly"
+            ],
+            [
+                "998",
+                "18000.75",
+                "60 Days Late",
+                "2023-08-05",
+                "2023-09-05",
+                "Monthly"
+            ]
+        ]
+    }
+}

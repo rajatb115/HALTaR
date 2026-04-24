@@ -1,0 +1,49 @@
+{
+    "table-457-457": {
+        "title": [
+            "Territory",
+            "Status",
+            "GNP (Millions USD)",
+            "Population"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average GNP and total population in all nations whose government is US territory?",
+        "data": [
+            [
+                "Puerto Rico",
+                "Commonwealth",
+                "105000",
+                "3200000"
+            ],
+            [
+                "Guam",
+                "Unincorporated Territory",
+                "6500",
+                "170000"
+            ],
+            [
+                "US Virgin Islands",
+                "Unincorporated Territory",
+                "4800",
+                "98000"
+            ],
+            [
+                "American Samoa",
+                "Unincorporated Territory",
+                "650",
+                "45000"
+            ],
+            [
+                "Northern Mariana Islands",
+                "Commonwealth",
+                "1800",
+                "47000"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-62-62": {
+        "title": [
+            "School Name",
+            "City",
+            "Owner Entity",
+            "Charter Status",
+            "Enrollment",
+            "Founded Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many chartered schools located in the city of Hickman are owned by the Elementary School District?",
+        "data": [
+            [
+                "Hickman Elementary",
+                "Hickman",
+                "Elementary School Dist",
+                "Chartered",
+                "450",
+                "976"
+            ],
+            [
+                "Westside Academy",
+                "Hickman",
+                "Elementary School Dist",
+                "Public",
+                "320",
+                "N/A"
+            ],
+            [
+                "North Hills Prep",
+                "Hickman",
+                "County Board",
+                "Non-Chartered",
+                "510",
+                "-1"
+            ],
+            [
+                "River Valley Elem",
+                "Hickman",
+                "Private Group",
+                "Independent",
+                "89",
+                "0"
+            ],
+            [
+                "Central Heights K-8",
+                "Hickman",
+                "State Dept Ed",
+                "Pilot Program",
+                "670",
+                ""
+            ],
+            [
+                "Maple Grove Middle",
+                "Hickman",
+                "Local Authority",
+                "Traditional",
+                "780",
+                ""
+            ],
+            [
+                "Oakwood Primary",
+                "Hickman",
+                "Federal Agency",
+                "Specialized",
+                "",
+                ""
+            ]
+        ]
+    }
+}

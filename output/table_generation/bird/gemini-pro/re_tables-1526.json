@@ -1,0 +1,43 @@
+{
+    "table-1526-1526": {
+        "title": [
+            "Currency",
+            "Date",
+            "Percentage of Customers"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Currency Usage Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of the customers who used EUR in 2012/8/25?",
+        "data": [
+            [
+                "EUR",
+                "2012-08-25",
+                "1.23%"
+            ],
+            [
+                "USD",
+                "2012-08-25",
+                "97.45%"
+            ],
+            [
+                "GBP",
+                "2012-08-25",
+                "0.87%"
+            ],
+            [
+                "JPY",
+                "2012-08-25",
+                "0.32%"
+            ],
+            [
+                "Other",
+                "2012-08-25",
+                "0.13%"
+            ]
+        ]
+    }
+}

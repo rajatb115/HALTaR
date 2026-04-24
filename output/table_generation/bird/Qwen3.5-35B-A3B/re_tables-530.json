@@ -1,0 +1,77 @@
+{
+    "table-530-530": {
+        "title": [
+            "Set ID",
+            "Set Name",
+            "English Translation",
+            "Japanese Translation",
+            "Korean Translation",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find and list the names of sets which doesn't have Japanese translation but have Korean translation.",
+        "data": [
+            [
+                "SET_004",
+                "Ancient Ruins",
+                "Complete",
+                "N/A",
+                "Available",
+                "Partial Localization"
+            ],
+            [
+                "SET_017",
+                "Desert Oasis",
+                "Complete",
+                "N/A",
+                "Available",
+                "Partial Localization"
+            ],
+            [
+                "SET_A22",
+                "Moonlight Valley",
+                "Complete",
+                "N/A",
+                "Complete",
+                "PartialLocalization"
+            ],
+            [
+                "SET_B09",
+                "Crystal Caverns",
+                "Complete",
+                "",
+                "Complete",
+                "IncompleteTranslation"
+            ],
+            [
+                "SET_C33",
+                "Storm Peaks",
+                "Complete",
+                "",
+                "",
+                "MissingJapanese"
+            ],
+            [
+                "SET_D61",
+                "Forest Spirits",
+                "Complete",
+                "",
+                "Complete",
+                "LocalizedKoreanOnly"
+            ],
+            [
+                "SET_E14",
+                "Ocean Depths",
+                "Complete",
+                "N/A",
+                "Complete",
+                "MixedLanguages"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-818-818": {
+        "title": [
+            "Superhero Name",
+            "Gender",
+            "Hair Color",
+            "Race"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Superhero Race Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the race of the blue-haired male superhero.",
+        "data": [
+            [
+                "Blue Bolt",
+                "Male",
+                "Blue",
+                "Kryptonian"
+            ],
+            [
+                "Azure Avenger",
+                "Male",
+                "Blue",
+                "Human"
+            ],
+            [
+                "Cobalt Comet",
+                "Male",
+                "Blue",
+                "Android"
+            ],
+            [
+                "Indigo Knight",
+                "Male",
+                "Blue",
+                "Martian"
+            ],
+            [
+                "Cerulean Cyclone",
+                "Male",
+                "Blue",
+                "Meta-Human"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "table-1291-1291": {
+        "title": [
+            "Patient ID",
+            "Albumin Level (g/dL)",
+            "Normal Range Status",
+            "Examination Date",
+            "Lab Result ID"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the examination date of the patient whose albumin is the highest in the normal range?",
+        "data": [
+            [
+                "P-4021",
+                "4.6",
+                "High-Normal",
+                "7/12/2023",
+                "LAB-9981"
+            ],
+            [
+                "P-4105",
+                "3.8",
+                "Low-Normal",
+                "7/15/2019",
+                "LAB-A22B"
+            ],
+            [
+                "C-1029",
+                "5.1",
+                "Above-High",
+                "",
+                "LAB-C33X"
+            ]
+        ]
+    }
+}

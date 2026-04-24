@@ -1,0 +1,41 @@
+{
+    "table-524-524": {
+        "title": [
+            "Year",
+            "Avg. Number of Sets Released",
+            "Common Language"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Average Set Releases by Year (2012-2015)",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the annual average number of sets that were released between 1/1/2012 to 12/31/2015? Indicate the common langugage of the card.",
+        "data": [
+            [
+                "2012",
+                "82",
+                "English"
+            ],
+            [
+                "2013",
+                "95",
+                "English"
+            ],
+            [
+                "2014",
+                "101",
+                "English"
+            ],
+            [
+                "2015",
+                "98",
+                "English"
+            ]
+        ]
+    }
+}

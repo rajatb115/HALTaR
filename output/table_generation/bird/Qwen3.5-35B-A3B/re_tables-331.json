@@ -1,0 +1,93 @@
+{
+    "table-331-331": {
+        "title": [
+            "Molecule ID",
+            "Total Carcinogens",
+            "Triple Bonded H Count",
+            "Percentage",
+            "% Uncertainty",
+            "Data Source",
+            "Year Analyzed",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of carcinogenic molecules with triple bonded Hidrogen atoms.",
+        "data": [
+            [
+                "MOL-CAR-0042",
+                "1250",
+                "0",
+                "<0.01",
+                "\u00b10.5",
+                "PubChem",
+                "2023",
+                "Verified"
+            ],
+            [
+                "mol_773x",
+                "890",
+                "1",
+                "0.11",
+                "+/-0.2",
+                "ChEMBL",
+                "2Y24",
+                "Pending Review"
+            ],
+            [
+                "x-ray-comp-99",
+                "2100",
+                "2",
+                "0.<DIGITS>",
+                "\u00b10.<PHONE>",
+                "DrugBank",
+                "2O23",
+                "Retroactive"
+            ],
+            [
+                "int_molec_A",
+                "4500",
+                "",
+                "<0.",
+                "\u00b10.",
+                "SciFinder",
+                "2223",
+                "null"
+            ],
+            [
+                "hetero_bond_z",
+                "670",
+                "3",
+                "0.",
+                "+/-.",
+                "ZINC DB",
+                "2323",
+                ""
+            ],
+            [
+                "carc_triple_x",
+                "3300",
+                "",
+                "",
+                "",
+                "NCBI",
+                "2424",
+                ""
+            ],
+            [
+                "mole_carc_y",
+                "110",
+                "",
+                "",
+                "\u00b1.",
+                "KEGG",
+                "2",
+                ""
+            ]
+        ]
+    }
+}

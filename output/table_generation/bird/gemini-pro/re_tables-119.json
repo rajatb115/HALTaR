@@ -1,0 +1,43 @@
+{
+    "table-119-119": {
+        "title": [
+            "Loan Amount Range",
+            "Account Status",
+            "Percentage"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Loan Account Performance Overview",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For loan amount less than USD100,000, what is the percentage of accounts that is still running with no issue.",
+        "data": [
+            [
+                "< $25,000",
+                "Running Well",
+                "95%"
+            ],
+            [
+                "$25,000 - $50,000",
+                "Running Well",
+                "92%"
+            ],
+            [
+                "$50,000 - $75,000",
+                "Running Well",
+                "88%"
+            ],
+            [
+                "$75,000 - $100,000",
+                "Running Well",
+                "85%"
+            ],
+            [
+                "Over $100,000",
+                "Running Well",
+                "78%"
+            ]
+        ]
+    }
+}

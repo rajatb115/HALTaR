@@ -1,0 +1,83 @@
+{
+    "table-590-590": {
+        "title": [
+            "Treatment Date",
+            "Professional First Name",
+            "Procedure ID",
+            "Status",
+            "Location Code",
+            "Duration Minutes",
+            "Patient ID",
+            "Notes"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the date of each treatment, together with the first name of the professional who operated it.",
+        "data": [
+            [
+                "24/05/2023",
+                "Sarah",
+                "PR-1002",
+                "Completed",
+                "CLIN-A",
+                "45",
+                "PT-55010",
+                "Routine checkup"
+            ],
+            [
+                "17/06/2024",
+                "Michael",
+                "PR-1015",
+                "Scheduled",
+                "CL-B",
+                "N/A",
+                "PT-55102",
+                "Pre-op assessment pending"
+            ],
+            [
+                "03/07/2023",
+                "Elena",
+                "PR-1030",
+                "In Progress",
+                "CL-C",
+                "60",
+                "PT-55205",
+                "Complex surgery started"
+            ],
+            [
+                "22/08/2022",
+                "David",
+                "PR-2045",
+                "Cancelled",
+                "OPD-D",
+                "30",
+                "PT-20310",
+                "Rescheduled for next month"
+            ],
+            [
+                "30/09/2021",
+                "Jennifer",
+                "PR-3050",
+                "Completed",
+                "OR-E",
+                "90",
+                "PT-30415",
+                "Post-surgery recovery monitoring"
+            ],
+            [
+                "15/10/2025",
+                "Robert",
+                "PR-4060",
+                "Pending",
+                "LAB-F",
+                "N/A",
+                "PT-4052",
+                ""
+            ]
+        ]
+    }
+}

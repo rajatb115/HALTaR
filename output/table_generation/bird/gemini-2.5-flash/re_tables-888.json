@@ -1,0 +1,69 @@
+{
+    "table-888-888": {
+        "title": [
+            "Race Name",
+            "Year",
+            "Host City",
+            "Race Type",
+            "Participants"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the races in year 2017 that are not hosted in year 2000.",
+        "data": [
+            [
+                "London Marathon",
+                "2017",
+                "London",
+                "Marathon",
+                "40382"
+            ],
+            [
+                "Tour de France",
+                "2017",
+                "Paris",
+                "Cycling",
+                "198"
+            ],
+            [
+                "Monaco Grand Prix",
+                "2017",
+                "Monte Carlo",
+                "Formula 1",
+                "20"
+            ],
+            [
+                "Boston Marathon",
+                "2017",
+                "Boston",
+                "Marathon",
+                "29200"
+            ],
+            [
+                "Ironman World Championship",
+                "2017",
+                "Kailua-Kona",
+                "Triathlon",
+                "2400"
+            ],
+            [
+                "New York City Marathon",
+                "2017",
+                "New York",
+                "Marathon",
+                "50775"
+            ],
+            [
+                "Dakar Rally",
+                "2017",
+                "Asunci\u00f3n",
+                "Rally Raid",
+                "316"
+            ]
+        ]
+    }
+}

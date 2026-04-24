@@ -1,0 +1,49 @@
+{
+    "table-525-525": {
+        "title": [
+            "Artist",
+            "Card Name",
+            "Border Color",
+            "Availability"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Magic: The Gathering Card Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the artists who illustrated cards with black borders which are available only in arena.",
+        "data": [
+            [
+                "Kekai Kotaki",
+                "Demonic Tutor",
+                "Black",
+                "Arena"
+            ],
+            [
+                "Ben Maier",
+                "Brainstorm",
+                "Black",
+                "Arena"
+            ],
+            [
+                "Randy Vargas",
+                "Lightning Bolt",
+                "Black",
+                "Arena"
+            ],
+            [
+                "Sam Guay",
+                "Counterspell",
+                "Black",
+                "Arena"
+            ],
+            [
+                "Darek Zabrocki",
+                "Swords to Plowshares",
+                "Black",
+                "Arena"
+            ]
+        ]
+    }
+}

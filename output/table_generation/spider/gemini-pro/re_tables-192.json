@@ -1,0 +1,37 @@
+{
+    "table-192-192": {
+        "title": [
+            "Code",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Template Type Codes and Descriptions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all template type codes and descriptions.",
+        "data": [
+            [
+                "ADM",
+                "Administrative Template"
+            ],
+            [
+                "MKT",
+                "Marketing Template"
+            ],
+            [
+                "LGL",
+                "Legal Template"
+            ],
+            [
+                "FIN",
+                "Financial Template"
+            ],
+            [
+                "HR",
+                "Human Resources Template"
+            ]
+        ]
+    }
+}

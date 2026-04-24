@@ -1,0 +1,61 @@
+{
+    "table-1181-1181": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Test Date",
+            "ALT Level (U/L)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Was the patient a man or a women whose ALT glutamic pylvic transaminase status got 9 on 1992-6-12?",
+        "data": [
+            [
+                "P-001",
+                "Male",
+                "1992-06-12",
+                "9"
+            ],
+            [
+                "P-002",
+                "Female",
+                "1992-06-12",
+                "12"
+            ],
+            [
+                "P-003",
+                "Male",
+                "1992-06-11",
+                "8"
+            ],
+            [
+                "P-004",
+                "Female",
+                "1992-06-13",
+                "10"
+            ],
+            [
+                "P-005",
+                "Male",
+                "1992-05-28",
+                "15"
+            ],
+            [
+                "P-006",
+                "Female",
+                "1992-06-15",
+                "7"
+            ],
+            [
+                "P-007",
+                "Male",
+                "1992-06-10",
+                "11"
+            ]
+        ]
+    }
+}

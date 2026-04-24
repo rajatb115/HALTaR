@@ -1,0 +1,43 @@
+{
+    "table-130-130": {
+        "title": [
+            "Airline",
+            "Origin Airport",
+            "Destination Airport"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Airlines Operating from Specific Airports",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find all airlines that have flights from airport 'CVO' but not from 'APG'.",
+        "data": [
+            [
+                "United Airlines",
+                "CVO",
+                "ORD"
+            ],
+            [
+                "Southwest Airlines",
+                "CVO",
+                "MDW"
+            ],
+            [
+                "American Airlines",
+                "CVO",
+                "DFW"
+            ],
+            [
+                "Delta Airlines",
+                "CVO",
+                "ATL"
+            ],
+            [
+                "United Airlines",
+                "IAD",
+                "ORD"
+            ]
+        ]
+    }
+}

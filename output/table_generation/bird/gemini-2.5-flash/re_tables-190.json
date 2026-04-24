@@ -1,0 +1,69 @@
+{
+    "table-190-190": {
+        "title": [
+            "Account Number",
+            "Client Name",
+            "Gender",
+            "Age",
+            "Average Salary"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the account numbers of female clients who are oldest and have lowest average salary?",
+        "data": [
+            [
+                "10012345",
+                "Alice Smith",
+                "Female",
+                "78",
+                "45000"
+            ],
+            [
+                "10012346",
+                "Bob Johnson",
+                "Male",
+                "65",
+                "52000"
+            ],
+            [
+                "10012347",
+                "Carol White",
+                "Female",
+                "82",
+                "42000"
+            ],
+            [
+                "10012348",
+                "David Green",
+                "Male",
+                "45",
+                "78000"
+            ],
+            [
+                "10012349",
+                "Emily Brown",
+                "Female",
+                "55",
+                "60000"
+            ],
+            [
+                "10012350",
+                "Frank Black",
+                "Male",
+                "70",
+                "48000"
+            ],
+            [
+                "10012351",
+                "Grace Lee",
+                "Female",
+                "85",
+                "39000"
+            ]
+        ]
+    }
+}

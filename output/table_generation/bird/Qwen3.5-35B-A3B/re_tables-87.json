@@ -1,0 +1,61 @@
+{
+    "table-87-87": {
+        "title": [
+            "School_Name",
+            "District",
+            "County",
+            "Administrator_LastName",
+            "Charter_Number",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the administrator's last name that oversees the school with Charter number 40? Indicate the district, the county where the school is situated, and the name of the school.",
+        "data": [
+            [
+                "Lincoln Academy",
+                "Metro North Unified",
+                "Franklin",
+                "Thompson",
+                "41",
+                "Active"
+            ],
+            [
+                "Riverside Prep",
+                "Central Valley SD",
+                "Jefferson",
+                "Martinez",
+                "39",
+                "Active"
+            ],
+            [
+                "Oakwood High",
+                "Eastside Union",
+                "Washington",
+                "Davis",
+                "67",
+                "Closed"
+            ],
+            [
+                "Maple Grove Charter",
+                "West Coast District",
+                "Orange",
+                "Chen",
+                "82",
+                "Pending"
+            ],
+            [
+                "Pioneer Valley School",
+                "Northern Region",
+                "Summit",
+                "Johnson",
+                "55",
+                "Active"
+            ]
+        ]
+    }
+}

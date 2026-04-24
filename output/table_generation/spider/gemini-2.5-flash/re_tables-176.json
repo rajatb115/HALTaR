@@ -1,0 +1,48 @@
+{
+    "table-176-176": {
+        "title": [
+            "Template ID",
+            "Version Number",
+            "Template Type Code"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show template ids, version numbers, and template type codes for all templates.",
+        "data": [
+            [
+                "TPL001",
+                "1.0",
+                "EMAIL"
+            ],
+            [
+                "TPL002",
+                "2.1",
+                "SMS"
+            ],
+            [
+                "TPL003",
+                "1.5",
+                "WEB"
+            ],
+            [
+                "TPL004",
+                "3.0",
+                "DOC"
+            ],
+            [
+                "TPL005",
+                "1.2",
+                "EMAIL"
+            ],
+            [
+                "TPL006",
+                "2.0",
+                "SMS"
+            ]
+        ]
+    }
+}

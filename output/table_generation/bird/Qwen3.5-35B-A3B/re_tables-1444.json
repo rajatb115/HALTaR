@@ -1,0 +1,93 @@
+{
+    "table-1444-1444": {
+        "title": [
+            "Event_ID",
+            "Location",
+            "Status",
+            "Date_Conducted",
+            "Organizer",
+            "Attendees",
+            "Category",
+            "Duration_Days"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the event ID, location, and status of events conducted from November 2019 to March 2020.",
+        "data": [
+            [
+                "EVT_2045",
+                "New York City",
+                "Completed",
+                "Nov 12, 2109",
+                "Global Tech Inc",
+                "450",
+                "Conference",
+                "3"
+            ],
+            [
+                "EVT_A7B2",
+                "London UK",
+                "Cancelled",
+                "Dec 05, 1010",
+                "Euro Summit Ltd",
+                "N/A",
+                "Workshop",
+                "0"
+            ],
+            [
+                "EVC_X9K1",
+                "Tokyo Japan",
+                "Ongoing",
+                "Jan 15, -1000",
+                "Asia Pacific Hub",
+                "620",
+                "Seminar",
+                "5"
+            ],
+            [
+                "EVW_M3P8",
+                "Berlin Germany",
+                "Scheduled",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "EVS_Q4R7",
+                "Sydney Australia",
+                "Completed",
+                "Mar 18, 0023",
+                "Oceania Events Co",
+                "890",
+                "Festival",
+                "7"
+            ],
+            [
+                "EVD_T5U6",
+                "Toronto Canada",
+                "Postponed",
+                "Apr 01, 3004",
+                "North American Group",
+                "N/A",
+                "Town Hall",
+                ""
+            ],
+            [
+                "EVF_W8Y9",
+                "Paris France",
+                "Completed",
+                "May 11,",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

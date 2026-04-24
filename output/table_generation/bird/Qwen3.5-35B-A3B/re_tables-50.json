@@ -1,0 +1,77 @@
+{
+    "table-50-50": {
+        "title": [
+            "County",
+            "School Name",
+            "Closure Date",
+            "Status",
+            "Total Closed in County",
+            "Region Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which different county has the most number of closed schools? Please provide the name of each school as well as the closure date.",
+        "data": [
+            [
+                "Alameda",
+                "Westside Elementary",
+                "4/12/2018",
+                "Permanent",
+                "3",
+                "CA-WEST"
+            ],
+            [
+                "Contra Costa",
+                "Northgate High",
+                "6/30/2021",
+                "Temporary",
+                "5",
+                "CA-EAST"
+            ],
+            [
+                "San Mateo",
+                "Oakwood Middle",
+                "9/15/2020",
+                "Permanent",
+                "7",
+                "CA-CENTRAL"
+            ],
+            [
+                "Santa Clara",
+                "Valley View Academy",
+                "8/25/2019",
+                "Permanent",
+                "4",
+                "CA-SOUTH"
+            ],
+            [
+                "Solano",
+                "Riverbend Charter",
+                "3/1/2023",
+                "Pending",
+                "2",
+                "CA-NORTH"
+            ],
+            [
+                "Sonoma",
+                "Hilltop Primary",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Marin",
+                "Coastal Learning Center",
+                "",
+                "N/A",
+                "",
+                ""
+            ]
+        ]
+    }
+}

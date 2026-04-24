@@ -1,0 +1,69 @@
+{
+    "table-1523-1523": {
+        "title": [
+            "Customer ID",
+            "Transaction Date",
+            "Amount Spent",
+            "Currency Used",
+            "Region",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "There's one customer spent 214582.17 in the June of 2013, which currency did he/she use?",
+        "data": [
+            [
+                "CUST_8821",
+                "30-Jun-2023",
+                "$21,456.12",
+                "USD",
+                "North America",
+                "Completed"
+            ],
+            [
+                "CUS_9942",
+                "05-Jul-2323",
+                "\u20ac21.45",
+                "EUR",
+                "Europe",
+                "Pending"
+            ],
+            [
+                "CUS_7731",
+                "Jun 15, 2313",
+                "\u00a5215000",
+                "JPY",
+                "Asia Pacific",
+                "Completed"
+            ],
+            [
+                "CUS_A1B2",
+                "Jul 01, 1312",
+                "\u00a32100.50",
+                "GBP",
+                "United Kingdom",
+                "Refunded"
+            ],
+            [
+                "CUS_XY9Z",
+                "May 31, -2345",
+                "CHF 22050.00",
+                "CHF",
+                "Switzerland",
+                "Cancelled"
+            ],
+            [
+                "CUS_MNOP",
+                "Aug 10, 3322",
+                "CAD 28005.10",
+                "CAD",
+                "Canada",
+                "Completed"
+            ]
+        ]
+    }
+}

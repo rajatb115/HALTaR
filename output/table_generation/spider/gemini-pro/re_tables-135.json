@@ -1,0 +1,37 @@
+{
+    "table-135-135": {
+        "title": [
+            "Flight Number",
+            "Departure Airport"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Flights Departing from APG",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the flight numbers of flights leaving from APG.",
+        "data": [
+            [
+                "UA123",
+                "APG"
+            ],
+            [
+                "AA456",
+                "APG"
+            ],
+            [
+                "DL789",
+                "APG"
+            ],
+            [
+                "WN012",
+                "APG"
+            ],
+            [
+                "AS345",
+                "APG"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-202-202": {
+        "title": [
+            "Molecule Name",
+            "Bond Type",
+            "Carbon Percentage (%)",
+            "Formula",
+            "State at STP",
+            "Source Material"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of carbon in double-bond molecules?",
+        "data": [
+            [
+                "Ethene",
+                "Double Bond",
+                "85.6%",
+                "C\u2082H\u2084",
+                "Gas",
+                "Natural Gas Processing"
+            ],
+            [
+                "Propene",
+                "Single/Double Mix",
+                "84.7%",
+                "CH\u2083CH=CH\u2082",
+                "Gas",
+                "Raffinate Stream"
+            ],
+            [
+                "Butadiene",
+                "Two Double Bonds",
+                "88.8%",
+                "H\u2082C=CH\u2013CH=CH\u2082",
+                "Liquid",
+                "Cracking Byproduct"
+            ],
+            [
+                "Styrene",
+                "Aromatic Ring",
+                "92.3%",
+                "Phenyl-Ethylene",
+                "Liquid",
+                "Petrochemical Feedstock"
+            ],
+            [
+                "Acrolein",
+                "Aldehyde Group",
+                "85%",
+                "Oxygenated Derivative",
+                "Vapor",
+                "Industrial Solvent Production"
+            ],
+            [
+                "Furan",
+                "Ring Structure",
+                "80%",
+                "Five-Membered Heterocycle",
+                "Solvent Synthesis",
+                "Bio-based Platform Chemicals"
+            ],
+            [
+                "Isoprene",
+                "Dienes System",
+                "87.2%",
+                "2-methylbuta-1,3-diene",
+                "Liquid",
+                "Rubber Manufacturing"
+            ]
+        ]
+    }
+}

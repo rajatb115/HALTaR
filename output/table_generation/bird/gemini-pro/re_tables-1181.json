@@ -1,0 +1,52 @@
+{
+    "table-1181-1181": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "ALT Level",
+            "Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Patient ALT Levels by Gender",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Was the patient a man or a women whose ALT glutamic pylvic transaminase status got 9 on 1992-6-12?",
+        "data": [
+            [
+                "12345",
+                "Male",
+                "9",
+                "1992-06-12"
+            ],
+            [
+                "67890",
+                "Female",
+                "15",
+                "1992-06-12"
+            ],
+            [
+                "13579",
+                "Male",
+                "7",
+                "1992-06-12"
+            ],
+            [
+                "24680",
+                "Female",
+                "11",
+                "1992-06-12"
+            ],
+            [
+                "98765",
+                "Male",
+                "9",
+                "1992-06-12"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1445-1445": {
+        "title": [
+            "Expense Category",
+            "Average Monthly Spend",
+            "Last Month Spend",
+            "Frequency",
+            "Payment Method"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the expenses that spend more than fifty dollars on average.",
+        "data": [
+            [
+                "Utilities",
+                "$120.50",
+                "$135.20",
+                "Monthly",
+                "Bank Transfer"
+            ],
+            [
+                "Groceries",
+                "$350.00",
+                "$320.00",
+                "Weekly",
+                "Credit Card"
+            ],
+            [
+                "Dining Out",
+                "$180.75",
+                "$210.50",
+                "Weekly",
+                "Credit Card"
+            ],
+            [
+                "Internet Service",
+                "$75.00",
+                "$75.00",
+                "Monthly",
+                "Bank Transfer"
+            ],
+            [
+                "Transportation",
+                "$95.20",
+                "$88.00",
+                "Monthly",
+                "Debit Card"
+            ],
+            [
+                "Subscriptions",
+                "$62.50",
+                "$62.50",
+                "Monthly",
+                "Credit Card"
+            ],
+            [
+                "Pet Care",
+                "$110.00",
+                "$95.00",
+                "Monthly",
+                "Debit Card"
+            ]
+        ]
+    }
+}

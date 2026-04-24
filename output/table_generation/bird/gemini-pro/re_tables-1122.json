@@ -1,0 +1,46 @@
+{
+    "table-1122-1122": {
+        "title": [
+            "Player Name",
+            "Age",
+            "Home Team Goals"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Home Team Goals by Player Age",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total home team goal scored by players whose age are 30 years old and below.",
+        "data": [
+            [
+                "John Smith",
+                "28",
+                "5"
+            ],
+            [
+                "Alice Brown",
+                "30",
+                "3"
+            ],
+            [
+                "Bob Williams",
+                "25",
+                "7"
+            ],
+            [
+                "Emily Davis",
+                "29",
+                "2"
+            ],
+            [
+                "Tom Wilson",
+                "22",
+                "4"
+            ]
+        ]
+    }
+}

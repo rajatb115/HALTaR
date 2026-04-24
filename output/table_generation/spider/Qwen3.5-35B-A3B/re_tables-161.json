@@ -1,0 +1,85 @@
+{
+    "table-161-161": {
+        "title": [
+            "Evaluation ID",
+            "Employee Name",
+            "Bonus Amount",
+            "Currency",
+            "Payment Date",
+            "Status",
+            "Department"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the total amount of bonus given in all the evaluations.",
+        "data": [
+            [
+                "EVAL-0042",
+                "Sarah Jenkins",
+                "5000",
+                "USD",
+                "06/15/2023",
+                "Paid",
+                "Sales"
+            ],
+            [
+                "EVEL-0118",
+                "Michael Chen",
+                "750",
+                "EUR",
+                "31/07/2023",
+                "Pending",
+                "Engineering"
+            ],
+            [
+                "EVE-0339",
+                "David O'Neil",
+                "420",
+                "GBP",
+                "8th Aug",
+                "Processed",
+                "Marketing"
+            ],
+            [
+                "EV-0551",
+                "Priya Patel",
+                "900",
+                "INR",
+                "6 Sep",
+                "Approved",
+                "Operations"
+            ],
+            [
+                "EVA-0772",
+                "James Wilson",
+                "300",
+                "AUD",
+                "Oct 12",
+                "Completed",
+                "Logistics"
+            ],
+            [
+                "EVB-0883",
+                "Elena Rodriguez",
+                "120",
+                "MXN",
+                "Nov 01",
+                "Disbursed",
+                "Customer Support"
+            ],
+            [
+                "EVC-0994",
+                "Robert Kim",
+                "850",
+                "CAD",
+                "Dec 15",
+                "Rejected",
+                "Finance"
+            ]
+        ]
+    }
+}

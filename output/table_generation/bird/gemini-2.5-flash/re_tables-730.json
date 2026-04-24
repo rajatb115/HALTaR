@@ -1,0 +1,69 @@
+{
+    "table-730-730": {
+        "title": [
+            "Superhero Name",
+            "Publisher",
+            "Height (cm)",
+            "Weight (kg)",
+            "First Appearance Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average height of the superheroes from Marvel Comics?",
+        "data": [
+            [
+                "Iron Man",
+                "Marvel Comics",
+                "198",
+                "193",
+                "1963"
+            ],
+            [
+                "Captain America",
+                "Marvel Comics",
+                "188",
+                "109",
+                "1941"
+            ],
+            [
+                "Thor",
+                "Marvel Comics",
+                "198",
+                "290",
+                "1962"
+            ],
+            [
+                "Hulk",
+                "Marvel Comics",
+                "259",
+                "635",
+                "1962"
+            ],
+            [
+                "Black Widow",
+                "Marvel Comics",
+                "170",
+                "61",
+                "1964"
+            ],
+            [
+                "Spider-Man",
+                "Marvel Comics",
+                "178",
+                "76",
+                "1962"
+            ],
+            [
+                "Wolverine",
+                "Marvel Comics",
+                "160",
+                "136",
+                "1974"
+            ]
+        ]
+    }
+}

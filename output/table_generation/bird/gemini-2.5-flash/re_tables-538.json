@@ -1,0 +1,62 @@
+{
+    "table-538-538": {
+        "title": [
+            "Username",
+            "User ID",
+            "Total Posts",
+            "Last Activity Date",
+            "Account Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts does the user csgillespie own?",
+        "data": [
+            [
+                "csgillespie",
+                "101",
+                "345",
+                "2023-10-26",
+                "Active"
+            ],
+            [
+                "jsmith",
+                "102",
+                "120",
+                "2023-11-15",
+                "Active"
+            ],
+            [
+                "anaparsons",
+                "103",
+                "58",
+                "2023-09-01",
+                "Active"
+            ],
+            [
+                "techguru",
+                "104",
+                "789",
+                "2023-11-20",
+                "Active"
+            ],
+            [
+                "datamaster",
+                "105",
+                "210",
+                "2023-10-05",
+                "Active"
+            ],
+            [
+                "oldtimer",
+                "106",
+                "15",
+                "2022-03-10",
+                "Inactive"
+            ]
+        ]
+    }
+}

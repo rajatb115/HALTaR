@@ -1,0 +1,39 @@
+{
+    "table-540-540": {
+        "title": [
+            "Conductor Name",
+            "Years of Experience"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Conductors and Years of Experience",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of the conductor with the most years of work.",
+        "data": [
+            [
+                "John Williams",
+                "50"
+            ],
+            [
+                "Herbert Blomstedt",
+                "68"
+            ],
+            [
+                "Seiji Ozawa",
+                "60"
+            ],
+            [
+                "James Levine",
+                "47"
+            ],
+            [
+                "Georg Solti",
+                "53"
+            ]
+        ]
+    }
+}

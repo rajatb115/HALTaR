@@ -1,0 +1,55 @@
+{
+    "table-208-208": {
+        "title": [
+            "Element Pair",
+            "Bond Order",
+            "Typical Molecule",
+            "Hybridization",
+            "Geometry"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What elements are in a double type bond?",
+        "data": [
+            [
+                "Carbon-Carbon",
+                "Double",
+                "Ethene",
+                "sp\u00b2",
+                "Trigonal Planar"
+            ],
+            [
+                "Nitrogen-Oxygen",
+                "Double",
+                "Nitric Oxide",
+                "sp\u00b9",
+                "Bent"
+            ],
+            [
+                "Oxygen-Oxygen",
+                "Double",
+                "Ozone",
+                "sp\u00b3",
+                "Angular"
+            ],
+            [
+                "Sulfur-Oxygen",
+                "Double",
+                "Sulfur Dioxide",
+                "SO\u2082",
+                "Pyramidal"
+            ],
+            [
+                "Phosphorus-Oxygen",
+                "Double",
+                "Phosphate Group",
+                "PO\u2084\u00b3\u207b",
+                "Tetrahedral"
+            ]
+        ]
+    }
+}

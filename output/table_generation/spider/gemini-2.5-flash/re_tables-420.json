@@ -1,0 +1,69 @@
+{
+    "table-420-420": {
+        "title": [
+            "Person ID",
+            "Name",
+            "Nationality",
+            "Country of Residence",
+            "Occupation"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many distinct nationalities are there?",
+        "data": [
+            [
+                "P001",
+                "Alice Smith",
+                "American",
+                "USA",
+                "Software Engineer"
+            ],
+            [
+                "P002",
+                "Bob Johnson",
+                "British",
+                "UK",
+                "Doctor"
+            ],
+            [
+                "P003",
+                "Carol White",
+                "Canadian",
+                "Canada",
+                "Teacher"
+            ],
+            [
+                "P004",
+                "David Lee",
+                "Chinese",
+                "China",
+                "Artist"
+            ],
+            [
+                "P005",
+                "Eva Green",
+                "French",
+                "France",
+                "Chef"
+            ],
+            [
+                "P006",
+                "Frank Miller",
+                "German",
+                "Germany",
+                "Scientist"
+            ],
+            [
+                "P007",
+                "Grace Kim",
+                "Korean",
+                "USA",
+                "Student"
+            ]
+        ]
+    }
+}

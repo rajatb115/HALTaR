@@ -1,0 +1,61 @@
+{
+    "table-128-128": {
+        "title": [
+            "Airline Code",
+            "Airline Name",
+            "APG Flights",
+            "CVO Flights"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find all airlines that have flights from both airports 'APG' and 'CVO'.",
+        "data": [
+            [
+                "AA",
+                "American Airlines",
+                "Yes",
+                "No"
+            ],
+            [
+                "DL",
+                "Delta Air Lines",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "UA",
+                "United Airlines",
+                "No",
+                "Yes"
+            ],
+            [
+                "AS",
+                "Alaska Airlines",
+                "N/A",
+                "Yes"
+            ],
+            [
+                "WN",
+                "Southwest Airlines",
+                "Not Listed",
+                "Not Listed"
+            ],
+            [
+                "NK",
+                "Spirit Airlines",
+                "Seasonal",
+                "Regular"
+            ],
+            [
+                "F9",
+                "Frontier Airlines",
+                "Charter Only",
+                "None"
+            ]
+        ]
+    }
+}

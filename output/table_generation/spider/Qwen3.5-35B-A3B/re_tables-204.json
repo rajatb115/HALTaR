@@ -1,0 +1,49 @@
+{
+    "table-204-204": {
+        "title": [
+            "Document_Name",
+            "Paragraph_ID",
+            "Text_Snippet",
+            "Word_Count",
+            "Author",
+            "Status",
+            "Last_Modified"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show all paragraph ids and texts for the document with name 'Welcome to NY'.",
+        "data": [
+            [
+                "Welcome to NY",
+                "P004",
+                "New York City is known for its iconic skyline.",
+                "67",
+                "J. Smith",
+                "Published",
+                "01/15/2023"
+            ],
+            [
+                "Welcome To NY",
+                "p_005",
+                "It serves as a global hub for finance and culture.",
+                "N/A",
+                "M. Johnson",
+                "Draft",
+                "3/22/24"
+            ],
+            [
+                "welcome-to-nyc",
+                "PARAGRAPH_06",
+                "Times Square attracts millions of visitors annually.",
+                "None",
+                "Admin User",
+                "Archived",
+                "5/10/2323"
+            ]
+        ]
+    }
+}

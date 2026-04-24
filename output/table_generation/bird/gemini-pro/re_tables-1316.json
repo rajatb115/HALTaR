@@ -1,0 +1,49 @@
+{
+    "table-1316-1316": {
+        "title": [
+            "Student Name",
+            "Club Name",
+            "Event Name",
+            "Attendance Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Student Club Event Attendance",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many students of the Student_Club have attended the event \"Women's Soccer\"?",
+        "data": [
+            [
+                "John Doe",
+                "Math Club",
+                "Women's Soccer",
+                "Yes"
+            ],
+            [
+                "Jane Smith",
+                "Debate Club",
+                "Women's Soccer",
+                "No"
+            ],
+            [
+                "Peter Jones",
+                "Math Club",
+                "Women's Soccer",
+                "Yes"
+            ],
+            [
+                "Alice Brown",
+                "Art Club",
+                "Women's Soccer",
+                "Yes"
+            ],
+            [
+                "David Lee",
+                "Debate Club",
+                "Women's Soccer",
+                "No"
+            ]
+        ]
+    }
+}

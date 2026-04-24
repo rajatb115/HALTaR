@@ -1,0 +1,69 @@
+{
+    "table-332-332": {
+        "title": [
+            "Semester ID",
+            "Academic Term",
+            "Enrollment Period Start",
+            "Enrollment End Date",
+            "Total Students Enrolled",
+            "Student Types Included"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the semester when both Master students and Bachelor students got enrolled in.",
+        "data": [
+            [
+                "SEM-24-FALL",
+                "Fall 24",
+                "September 1, 2027",
+                "December 15, 2036",
+                "450",
+                "Both Masters & Bachelors"
+            ],
+            [
+                "SEM-WI-SUMMER",
+                "Summer 25",
+                "June 10, 2040",
+                "August 22, 2050",
+                "320",
+                "Only Bachelors"
+            ],
+            [
+                "SPR-25-MIDTERM",
+                "Spring Midterm",
+                "January 12, 2025",
+                "March 14, 2018",
+                "N/A",
+                "None"
+            ],
+            [
+                "FAL-23-OFFERED",
+                "Fall Offered",
+                "October 5, 2022",
+                "November 28, 2090",
+                "No Data",
+                "Mixed Groups"
+            ],
+            [
+                "WIN-26-LATE",
+                "Winter Late",
+                "February 11, 2023",
+                "April 13, 2060",
+                "Partial",
+                "Masters Only"
+            ],
+            [
+                "SUM-27-EARLY",
+                "Early Summer",
+                "May 16, 2024",
+                "July 17,",
+                "",
+                ""
+            ]
+        ]
+    }
+}

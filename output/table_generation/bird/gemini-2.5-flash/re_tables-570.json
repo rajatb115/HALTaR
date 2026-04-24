@@ -1,0 +1,85 @@
+{
+    "table-570-570": {
+        "title": [
+            "Post Title",
+            "Category",
+            "Author",
+            "Publish Date",
+            "Views",
+            "Votes",
+            "Comments"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the number of votes for the post about data visualization.",
+        "data": [
+            [
+                "The Art of Effective Data Storytelling",
+                "Data Visualization",
+                "Alice Chen",
+                "2023-10-26",
+                "12500",
+                "875",
+                "120"
+            ],
+            [
+                "Interactive Dashboards with Tableau",
+                "Data Visualization",
+                "Bob Smith",
+                "2023-09-15",
+                "18200",
+                "1120",
+                "185"
+            ],
+            [
+                "Best Practices for Chart Selection",
+                "Data Visualization",
+                "Carol White",
+                "2023-11-01",
+                "9800",
+                "650",
+                "90"
+            ],
+            [
+                "Python Libraries for Visualizing Data",
+                "Data Visualization",
+                "David Green",
+                "2023-08-20",
+                "21000",
+                "1350",
+                "210"
+            ],
+            [
+                "Beyond Bar Charts: Advanced Techniques",
+                "Data Visualization",
+                "Emily Brown",
+                "2023-10-05",
+                "15500",
+                "980",
+                "150"
+            ],
+            [
+                "Understanding Data Ethics in AI",
+                "Data Science",
+                "Frank Black",
+                "2023-07-10",
+                "11000",
+                "720",
+                "115"
+            ],
+            [
+                "SQL for Data Analysts: A Deep Dive",
+                "Data Analytics",
+                "Grace Lee",
+                "2023-09-28",
+                "14000",
+                "890",
+                "130"
+            ]
+        ]
+    }
+}

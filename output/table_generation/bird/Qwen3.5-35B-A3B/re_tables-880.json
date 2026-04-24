@@ -1,0 +1,85 @@
+{
+    "table-880-880": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Fastest Lap Speed (km/h)",
+            "Event Date",
+            "Track Location",
+            "Car Model",
+            "Team"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the driver who set the fastest lap speed, what is his nationality?",
+        "data": [
+            [
+                "Max Verstappen",
+                "Dutch",
+                "347.6",
+                "05 May 24",
+                "Monaco",
+                "Red Bull RB20",
+                "Oracle Red Bull Racing"
+            ],
+            [
+                "Lewis Hamilton",
+                "British",
+                "42.8",
+                "7 Jul 23",
+                "Silverstone",
+                "Mercedes W14",
+                "Mercedes AMG Petronas"
+            ],
+            [
+                "Charles Leclerc",
+                "Monegasque",
+                "51.2",
+                "9 Jun 22",
+                "Montreal",
+                "Ferrari SF22",
+                "Scuderia Ferrari"
+            ],
+            [
+                "Lando Norris",
+                "British",
+                "38.4",
+                "8 Aug 21",
+                "Monza",
+                "McLaren MCL35M",
+                "McLaren F1 Team"
+            ],
+            [
+                "George Russell",
+                "British",
+                "62.1",
+                "2 Oct 25",
+                "Suzuka",
+                "Williams FW45",
+                "Williams Racing"
+            ],
+            [
+                "Fernando Alonso",
+                "Spanish",
+                "",
+                "- Nov 26",
+                "Bahrain",
+                "Aston Martin AMR23",
+                "Aston Martin Aramco"
+            ],
+            [
+                "Sergio Perez",
+                "Mexican",
+                "",
+                "Dec 27",
+                "Abu Dhabi",
+                "Red Bull RB19",
+                ""
+            ]
+        ]
+    }
+}

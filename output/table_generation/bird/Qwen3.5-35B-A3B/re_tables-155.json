@@ -1,0 +1,85 @@
+{
+    "table-155-155": {
+        "title": [
+            "Client ID",
+            "District",
+            "Gender",
+            "Age Group",
+            "Status",
+            "Enrollment Date",
+            "Last Visit"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male clients in 'Hl.m. Praha' district?",
+        "data": [
+            [
+                "C1045",
+                "Hl.m.Praha",
+                "Male",
+                "30-39",
+                "Active",
+                "06/15/2021",
+                "9/12/25"
+            ],
+            [
+                "C1089",
+                "Hla.m.Prah",
+                "Male",
+                "40-49",
+                "Inactive",
+                "7/22/19",
+                "N/A"
+            ],
+            [
+                "C2103",
+                "H.l.m.Prha",
+                "Male",
+                "50+",
+                "Pending",
+                "8/01/23",
+                "4/10/24"
+            ],
+            [
+                "C3312",
+                "HlmPraha",
+                "Male",
+                "60+",
+                "Active",
+                "1/14/2022",
+                "2/5/2024"
+            ],
+            [
+                "C4456",
+                "HmP",
+                "Male",
+                "<30",
+                "Suspended",
+                "",
+                ""
+            ],
+            [
+                "C5578",
+                "hlmp",
+                "male",
+                "n/a",
+                "active",
+                "n",
+                "n"
+            ],
+            [
+                "C6691",
+                "hlp",
+                "ma",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

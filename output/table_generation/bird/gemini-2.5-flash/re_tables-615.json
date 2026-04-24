@@ -1,0 +1,77 @@
+{
+    "table-615-615": {
+        "title": [
+            "User ID",
+            "Username",
+            "Has Teacher Badge",
+            "Reputation Score",
+            "Total Badges Earned",
+            "Joined Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the users who obtained the \"Teacher\" badge, calculate their percentage of users",
+        "data": [
+            [
+                "101",
+                "AliceSmith",
+                "Yes",
+                "7850",
+                "25",
+                "2017"
+            ],
+            [
+                "102",
+                "BobJohnson",
+                "No",
+                "3120",
+                "12",
+                "2019"
+            ],
+            [
+                "103",
+                "CarolWhite",
+                "Yes",
+                "9210",
+                "33",
+                "2016"
+            ],
+            [
+                "104",
+                "DavidGreen",
+                "No",
+                "1580",
+                "7",
+                "2021"
+            ],
+            [
+                "105",
+                "EveBrown",
+                "Yes",
+                "6400",
+                "20",
+                "2018"
+            ],
+            [
+                "106",
+                "FrankBlack",
+                "No",
+                "4750",
+                "15",
+                "2020"
+            ],
+            [
+                "107",
+                "GraceLee",
+                "Yes",
+                "8990",
+                "28",
+                "2017"
+            ]
+        ]
+    }
+}

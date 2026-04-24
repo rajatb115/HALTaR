@@ -1,0 +1,49 @@
+{
+    "table-513-513": {
+        "title": [
+            "Card Name",
+            "Power",
+            "Foil Availability",
+            "Duel Deck"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Duel Deck Card Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards with unknown power that can't be found in foil is in duel deck A?",
+        "data": [
+            [
+                "Card A",
+                "Unknown",
+                "Not Available",
+                "Duel Deck A"
+            ],
+            [
+                "Card B",
+                "Unknown",
+                "Available",
+                "Duel Deck A"
+            ],
+            [
+                "Card C",
+                "2",
+                "Not Available",
+                "Duel Deck A"
+            ],
+            [
+                "Card D",
+                "Unknown",
+                "Not Available",
+                "Duel Deck B"
+            ],
+            [
+                "Card E",
+                "Unknown",
+                "Not Available",
+                "Duel Deck A"
+            ]
+        ]
+    }
+}

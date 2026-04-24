@@ -1,0 +1,69 @@
+{
+    "table-601-601": {
+        "title": [
+            "Dog ID",
+            "Breed",
+            "Arrival Date",
+            "Departure Date",
+            "Treatment Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the arriving date and the departing date of the dogs that received a treatment.",
+        "data": [
+            [
+                "D001",
+                "Golden Retriever",
+                "2023-10-01",
+                "2023-10-05",
+                "Vaccination"
+            ],
+            [
+                "D002",
+                "Labrador",
+                "2023-09-15",
+                "2023-09-18",
+                "Flea & Tick Treatment"
+            ],
+            [
+                "D003",
+                "Poodle",
+                "2023-11-01",
+                "2023-11-03",
+                "Dental Cleaning"
+            ],
+            [
+                "D004",
+                "German Shepherd",
+                "2023-10-20",
+                "2023-10-22",
+                "Wound Care"
+            ],
+            [
+                "D005",
+                "Beagle",
+                "2023-12-01",
+                "2023-12-02",
+                "Deworming"
+            ],
+            [
+                "D006",
+                "Bulldog",
+                "2023-09-05",
+                "2023-09-07",
+                "Allergy Medication"
+            ],
+            [
+                "D007",
+                "Chihuahua",
+                "2023-11-10",
+                "2023-11-11",
+                "Nail Trim & Check-up"
+            ]
+        ]
+    }
+}

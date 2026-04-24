@@ -1,0 +1,77 @@
+{
+    "table-683-683": {
+        "title": [
+            "Post ID",
+            "Post Title",
+            "Owner Display Name",
+            "Year Posted",
+            "Score",
+            "Views"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which is the most valuable post in 2010? Please give its id and the owner's display name.",
+        "data": [
+            [
+                "10123",
+                "Understanding Big Data Basics",
+                "DataWizard",
+                "2010",
+                "450",
+                "125000"
+            ],
+            [
+                "10124",
+                "SQL vs NoSQL: A Comparison",
+                "DB_Master",
+                "2010",
+                "380",
+                "98000"
+            ],
+            [
+                "10125",
+                "Python for Data Analysis",
+                "CodeNinja",
+                "2010",
+                "520",
+                "155000"
+            ],
+            [
+                "10126",
+                "Machine Learning Fundamentals",
+                "AI_Explorer",
+                "2010",
+                "490",
+                "130000"
+            ],
+            [
+                "10127",
+                "Data Visualization Techniques",
+                "ChartGuru",
+                "2010",
+                "310",
+                "85000"
+            ],
+            [
+                "10128",
+                "Cloud Computing in 2010",
+                "CloudArchitect",
+                "2010",
+                "410",
+                "110000"
+            ],
+            [
+                "10129",
+                "Web Scraping Best Practices",
+                "WebHunter",
+                "2010",
+                "350",
+                "92000"
+            ]
+        ]
+    }
+}

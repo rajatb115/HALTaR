@@ -1,0 +1,34 @@
+{
+    "table-564-564": {
+        "title": [
+            "User No.",
+            "Comment Time",
+            "Comment Date",
+            "Post ID",
+            "Favorite Counts"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Post Information",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "User No.3025 gave a comment at 20:29:39 on 2014/4/23 to a post, how many favorite counts did that post get?",
+        "data": [
+            [
+                "3025",
+                "20:29:39",
+                "2014/04/23",
+                "[Post ID]",
+                "[Favorite Counts]"
+            ],
+            [
+                "...",
+                "...",
+                "...",
+                "...",
+                "..."
+            ]
+        ]
+    }
+}

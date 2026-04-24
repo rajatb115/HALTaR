@@ -1,0 +1,45 @@
+{
+    "table-1417-1417": {
+        "title": [
+            "Department",
+            "T-Shirt Size",
+            "Number of Members"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Employee T-Shirt Sizes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many members of Business have the Medium size of tee shirt?",
+        "data": [
+            [
+                "Business",
+                "Small",
+                "15"
+            ],
+            [
+                "Business",
+                "Medium",
+                "22"
+            ],
+            [
+                "Business",
+                "Large",
+                "18"
+            ],
+            [
+                "Marketing",
+                "Small",
+                "10"
+            ],
+            [
+                "Marketing",
+                "Medium",
+                "12"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-518-518": {
+        "title": [
+            "Country Name",
+            "Continent",
+            "Population",
+            "Area (sq km)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total population and average area of countries in the continent of North America whose area is bigger than 3000 ?",
+        "data": [
+            [
+                "Canada",
+                "North America",
+                "38000000",
+                "9984670"
+            ],
+            [
+                "United States",
+                "North America",
+                "331000000",
+                "9833520"
+            ],
+            [
+                "Mexico",
+                "North America",
+                "128000000",
+                "1972550"
+            ],
+            [
+                "Cuba",
+                "North America",
+                "11300000",
+                "109884"
+            ],
+            [
+                "Dominican Republic",
+                "North America",
+                "10800000",
+                "48671"
+            ],
+            [
+                "Guatemala",
+                "North America",
+                "17900000",
+                "108889"
+            ],
+            [
+                "Nicaragua",
+                "North America",
+                "6600000",
+                "130373"
+            ]
+        ]
+    }
+}

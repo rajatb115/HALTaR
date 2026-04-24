@@ -1,0 +1,83 @@
+{
+    "table-1318-1318": {
+        "title": [
+            "Club_Name",
+            "Event_Attended",
+            "Size_Preference",
+            "Count_Students",
+            "Registration_Status",
+            "Date_Joined",
+            "Gender_Demographic",
+            "Region_Code"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the students from the Student_Club who attended the event \"Women's Soccer\", how many of them want a T-shirt that's in medium size?",
+        "data": [
+            [
+                "Student_Club",
+                "Women's Soccer",
+                "Medium",
+                "42",
+                "Confirmed",
+                "06/15/2023",
+                "Mixed",
+                "NA-East"
+            ],
+            [
+                "Student_Clubs_Intl",
+                "Women's Soccer",
+                "Large",
+                "38",
+                "Pending",
+                "07/02/2024",
+                "Female",
+                "NA-West"
+            ],
+            [
+                "Varsity_Soccer_Team",
+                "Women's Soccer",
+                "Small",
+                "55",
+                "Completed",
+                "08/10/2023",
+                "Male",
+                "EU-Central"
+            ],
+            [
+                "Campus_Recreation",
+                "Women's Soccer",
+                "X-Large",
+                "61",
+                "Cancelled",
+                "09/01/2022",
+                "Non-Binary",
+                "ASIA-South"
+            ],
+            [
+                "Athletics_Department",
+                "Women's Soccer",
+                "Extra_Large",
+                "N/A",
+                "In_Progress",
+                "01/12/2019",
+                "All Genders",
+                "SA-North"
+            ],
+            [
+                "Intramural_Org",
+                "Women's Soccer",
+                "YS",
+                "29",
+                "Verified",
+                "03/14/2021",
+                "Unknown",
+                "AF-South"
+            ]
+        ]
+    }
+}

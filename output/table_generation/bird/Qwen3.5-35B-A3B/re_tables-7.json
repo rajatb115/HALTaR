@@ -1,0 +1,69 @@
+{
+    "table-7-7": {
+        "title": [
+            "School Name",
+            "Magnet Status",
+            "Total Test Takers",
+            "Program Focus",
+            "City",
+            "State"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the schools with the SAT test takers of over 500, please list the schools that are magnet schools or offer a magnet program.",
+        "data": [
+            [
+                "Lincoln High School",
+                "Yes",
+                "642",
+                "STEM",
+                "Chicago",
+                "IL"
+            ],
+            [
+                "Roosevelt Academy",
+                "No",
+                "715",
+                "General",
+                "Austin",
+                "TX"
+            ],
+            [
+                "Westside Magnet Center",
+                "Yes",
+                "589",
+                "Arts & Humanities",
+                "Los Angeles",
+                "CA"
+            ],
+            [
+                "Jefferson Preparatory",
+                "Yes, Dual Track",
+                "823",
+                "International Baccalaureate",
+                "Miami",
+                "FL"
+            ],
+            [
+                "Oakland Technical HS",
+                "No, Regular",
+                "498",
+                "Vocational Training",
+                "Oakland",
+                "CA"
+            ],
+            [
+                "Harvard-Westlake Prep",
+                "Yes (Specialized)",
+                "912",
+                "College Prep",
+                "Studio City",
+                "CA"
+            ]
+        ]
+    }
+}

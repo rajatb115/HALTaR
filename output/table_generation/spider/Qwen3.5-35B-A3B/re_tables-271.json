@@ -1,0 +1,58 @@
+{
+    "table-271-271": {
+        "title": [
+            "Player ID",
+            "First Name",
+            "Total Ranking Points",
+            "Last Updated",
+            "Rank Category",
+            "Status",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the total ranking points for each player and their first name.",
+        "data": [
+            [
+                "P1042",
+                "Alex",
+                "8750",
+                "6/15/2024",
+                "Senior",
+                "Active",
+                "North America"
+            ],
+            [
+                "P1089",
+                "Maria",
+                "920",
+                "",
+                "Junior",
+                "Inactive",
+                "Europe"
+            ],
+            [
+                "T1103",
+                "James",
+                "4500",
+                "",
+                "Mid-Level",
+                "Suspended",
+                "Asia Pacific"
+            ],
+            [
+                "S1205",
+                "Elena",
+                "31000",
+                "",
+                "Veteran",
+                "Retired",
+                "South America"
+            ]
+        ]
+    }
+}

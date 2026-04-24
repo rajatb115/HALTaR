@@ -1,0 +1,67 @@
+{
+    "table-979-979": {
+        "title": [
+            "Circuit Name",
+            "Location City",
+            "Country",
+            "Latitude",
+            "Longitude",
+            "First Held",
+            "Last Held"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many times the circuits were held in Austria? Please give their location and coordinates.",
+        "data": [
+            [
+                "Red Bull Ring",
+                "Spielberg",
+                "Austria",
+                "47.2197",
+                "16.7600",
+                "1970",
+                "2024"
+            ],
+            [
+                "\u00d6sterreichring",
+                "Zeltweg",
+                "Austria",
+                "47.2197",
+                "16.7600",
+                "1970",
+                "1987"
+            ],
+            [
+                "Salzburgring",
+                "Salzburg",
+                "Austria",
+                "47.8095",
+                "13.0550",
+                "1969",
+                "1971"
+            ],
+            [
+                "A1-Ring",
+                "Spielberg",
+                "Austria",
+                "47.2197",
+                "16.7600",
+                "1997",
+                "2003"
+            ],
+            [
+                "Zeltweg Airfield",
+                "Zeltweg",
+                "Austria",
+                "47.2197",
+                "16.7600",
+                "1964",
+                "1966"
+            ]
+        ]
+    }
+}

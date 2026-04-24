@@ -1,0 +1,43 @@
+{
+    "table-494-494": {
+        "title": [
+            "Set Name",
+            "Set Code",
+            "Parent Set Code"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Magic: The Gathering Set Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the set \"Commander 2014 Oversized\" , give its parent code.",
+        "data": [
+            [
+                "Commander 2014 Oversized",
+                "C14O",
+                "C14"
+            ],
+            [
+                "Commander 2014",
+                "C14",
+                "Core"
+            ],
+            [
+                "Core Set 2015",
+                "M15",
+                "Core"
+            ],
+            [
+                "Core Set 2014",
+                "M14",
+                "Core"
+            ],
+            [
+                "Core Set 2013",
+                "M13",
+                "Core"
+            ]
+        ]
+    }
+}

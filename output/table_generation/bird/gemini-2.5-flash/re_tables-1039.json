@@ -1,0 +1,55 @@
+{
+    "table-1039-1039": {
+        "title": [
+            "League Name",
+            "Country",
+            "Total Goals (All Seasons)",
+            "Number of Seasons"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the top 5 leagues in ascending order of the number of goals made in all seasons combined.",
+        "data": [
+            [
+                "Primeira Liga",
+                "Portugal",
+                "48500",
+                "86"
+            ],
+            [
+                "Eredivisie",
+                "Netherlands",
+                "52100",
+                "67"
+            ],
+            [
+                "Ligue 1",
+                "France",
+                "61300",
+                "85"
+            ],
+            [
+                "Bundesliga",
+                "Germany",
+                "68700",
+                "60"
+            ],
+            [
+                "Serie A",
+                "Italy",
+                "73900",
+                "92"
+            ],
+            [
+                "La Liga",
+                "Spain",
+                "78200",
+                "92"
+            ]
+        ]
+    }
+}

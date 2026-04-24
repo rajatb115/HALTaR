@@ -1,0 +1,77 @@
+{
+    "table-609-609": {
+        "title": [
+            "Comment ID",
+            "Timestamp",
+            "Author",
+            "Content",
+            "Associated Item ID",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the detailed content of the comment which was created on 7/19/2010 7:25:47 PM.",
+        "data": [
+            [
+                "101",
+                "2010-07-19 19:25:47",
+                "Alice Smith",
+                "\"Great article! Very insightful points on data privacy.\"",
+                "5001",
+                "Approved"
+            ],
+            [
+                "102",
+                "2010-07-19 18:30:15",
+                "Bob Johnson",
+                "\"I disagree with point #3. More research is needed.\"",
+                "5001",
+                "Approved"
+            ],
+            [
+                "103",
+                "2010-07-20 09:10:00",
+                "Charlie Brown",
+                "\"Can you elaborate on the last paragraph?\"",
+                "5002",
+                "Pending"
+            ],
+            [
+                "104",
+                "2010-07-18 14:05:22",
+                "Diana Prince",
+                "\"This was incredibly helpful, thank you for sharing!\"",
+                "5003",
+                "Approved"
+            ],
+            [
+                "105",
+                "2010-07-20 11:45:00",
+                "Eve Adams",
+                "\"Spam comment detected.\"",
+                "5001",
+                "Rejected"
+            ],
+            [
+                "106",
+                "2010-07-19 10:00:00",
+                "Frank White",
+                "\"Looking forward to the next part of this series.\"",
+                "5002",
+                "Approved"
+            ],
+            [
+                "107",
+                "2010-07-19 20:00:00",
+                "Grace Lee",
+                "\"Interesting perspective, but I have a question about the methodology.\"",
+                "5003",
+                "Pending"
+            ]
+        ]
+    }
+}

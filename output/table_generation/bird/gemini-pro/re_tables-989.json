@@ -1,0 +1,51 @@
+{
+    "table-989-989": {
+        "title": [
+            "Driver Name",
+            "Birth Year",
+            "Average Pit Stop Duration",
+            "Nationality"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Fastest German F1 Pit Stop Drivers (1980-1985 Birth Year)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down top 5 German drivers who has the shortest average pit stop duration and were born between 1980-1985.",
+        "data": [
+            [
+                "Sebastian Vettel",
+                "1987",
+                "22.5 seconds",
+                "German"
+            ],
+            [
+                "Nico Hulkenberg",
+                "1987",
+                "23.1 seconds",
+                "German"
+            ],
+            [
+                "Nico Rosberg",
+                "1985",
+                "23.8 seconds",
+                "German"
+            ],
+            [
+                "Timo Glock",
+                "1982",
+                "24.2 seconds",
+                "German"
+            ],
+            [
+                "Adrian Sutil",
+                "1983",
+                "24.5 seconds",
+                "German"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-42-42": {
+        "title": [
+            "School Name",
+            "State",
+            "Avg Reading Score",
+            "Enrollment Size",
+            "Grade Range",
+            "Virtual Only Status",
+            "Accreditation Body"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which exclusively virtual schools have the top 5 highest average reading scores?",
+        "data": [
+            [
+                "Apex Online Academy",
+                "Florida",
+                "742",
+                "320",
+                "K-12",
+                "Yes",
+                "Cognia"
+            ],
+            [
+                "K12 International Academy",
+                "California",
+                "698",
+                "450",
+                "Pre-K-10",
+                "Yes +",
+                "AdvancED"
+            ],
+            [
+                "Connections Academy",
+                "North Carolina",
+                "815",
+                "5100",
+                "PK-11",
+                "Yes+",
+                "SACS CASI"
+            ],
+            [
+                "Odysseyware Learning Center",
+                "Texas",
+                "920",
+                "1205",
+                "K - 10th",
+                "Yes",
+                "NCA-CASI"
+            ],
+            [
+                "Virtual High School Global Consortium",
+                "Massachusetts",
+                "0",
+                "",
+                "Not Applicable",
+                "No",
+                "Regional Board"
+            ],
+            [
+                "Summit Public Schools Remote Program",
+                "Washington",
+                "780",
+                "210",
+                "9-13",
+                "Partially",
+                "WASC"
+            ],
+            [
+                "Carolina Connections Academy",
+                "South Carolina",
+                "NA",
+                "N/A",
+                "All",
+                "Yes",
+                "SACSCOC"
+            ]
+        ]
+    }
+}

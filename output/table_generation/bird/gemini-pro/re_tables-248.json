@@ -1,0 +1,51 @@
+{
+    "table-248-248": {
+        "title": [
+            "Name",
+            "Symbol",
+            "Atomic Number",
+            "Electron Configuration"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "List of Noble Gases",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the elements of atoms that can not bond with any other atoms.",
+        "data": [
+            [
+                "Helium",
+                "He",
+                "2",
+                "1s<sup>2</sup>"
+            ],
+            [
+                "Neon",
+                "Ne",
+                "10",
+                "[He] 2s<sup>2</sup> 2p<sup>6</sup>"
+            ],
+            [
+                "Argon",
+                "Ar",
+                "18",
+                "[Ne] 3s<sup>2</sup> 3p<sup>6</sup>"
+            ],
+            [
+                "Krypton",
+                "Kr",
+                "36",
+                "[Ar] 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>6</sup>"
+            ],
+            [
+                "Xenon",
+                "Xe",
+                "54",
+                "[Kr] 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>6</sup>"
+            ]
+        ]
+    }
+}

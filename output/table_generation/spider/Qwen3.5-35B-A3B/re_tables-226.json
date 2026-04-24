@@ -1,0 +1,85 @@
+{
+    "table-226-226": {
+        "title": [
+            "Teacher ID",
+            "Full Name",
+            "Department",
+            "Status",
+            "Last Assignment Date",
+            "Course Count",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the names of teachers who have not been arranged to teach courses.",
+        "data": [
+            [
+                "TCH-004",
+                "Sarah Jenkins",
+                "Mathematics",
+                "Unassigned",
+                "N/A",
+                "0",
+                "No current schedule"
+            ],
+            [
+                "TCH-112",
+                "Michael Ross",
+                "Physics",
+                "Unassigned",
+                "N/A",
+                "0",
+                "Contract pending"
+            ],
+            [
+                "TCK-089",
+                "Emily Chen",
+                "Chemistry",
+                "Unassigned",
+                "N/A",
+                "0",
+                "Vacation until next term"
+            ],
+            [
+                "TCH-221",
+                "David Miller",
+                "History",
+                "Unassigned",
+                "N/A",
+                "0",
+                "New hire awaiting placement"
+            ],
+            [
+                "TEC-334",
+                "Lisa Wong",
+                "Biology",
+                "Unassigned",
+                "N/A",
+                "0",
+                "Leave of absence extended"
+            ],
+            [
+                "TRH-445",
+                "James Carter",
+                "English",
+                "Unassigned",
+                "N/A",
+                "0",
+                "Administrative hold"
+            ],
+            [
+                "TSM-556",
+                "Robert Fox",
+                "Art",
+                "Unassigned",
+                "N/A",
+                "0",
+                "Mentorship program active"
+            ]
+        ]
+    }
+}

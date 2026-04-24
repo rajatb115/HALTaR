@@ -1,0 +1,69 @@
+{
+    "table-1529-1529": {
+        "title": [
+            "Country",
+            "Segment",
+            "Year",
+            "Sales Volume (Units)",
+            "Revenue (USD Millions)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of \"premium\" against the overall segment in \"SVK\"?",
+        "data": [
+            [
+                "SVK",
+                "Premium",
+                "2023",
+                "15000",
+                "150"
+            ],
+            [
+                "SVK",
+                "Standard",
+                "2023",
+                "30000",
+                "200"
+            ],
+            [
+                "SVK",
+                "Economy",
+                "2023",
+                "50000",
+                "100"
+            ],
+            [
+                "SVK",
+                "Premium",
+                "2022",
+                "12000",
+                "120"
+            ],
+            [
+                "SVK",
+                "Standard",
+                "2022",
+                "28000",
+                "180"
+            ],
+            [
+                "CZE",
+                "Premium",
+                "2023",
+                "20000",
+                "250"
+            ],
+            [
+                "POL",
+                "Economy",
+                "2023",
+                "60000",
+                "110"
+            ]
+        ]
+    }
+}

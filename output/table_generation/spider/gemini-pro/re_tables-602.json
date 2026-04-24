@@ -1,0 +1,45 @@
+{
+    "table-602-602": {
+        "title": [
+            "Owner Last Name",
+            "Dog Age",
+            "Dog Name"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Dog and Owner Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the last name of the owner owning the youngest dog.",
+        "data": [
+            [
+                "Smith",
+                "2",
+                "Buddy"
+            ],
+            [
+                "Johnson",
+                "5",
+                "Max"
+            ],
+            [
+                "Williams",
+                "1",
+                "Lucy"
+            ],
+            [
+                "Brown",
+                "3",
+                "Charlie"
+            ],
+            [
+                "Davis",
+                "7",
+                "Rocky"
+            ]
+        ]
+    }
+}

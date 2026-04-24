@@ -1,0 +1,39 @@
+{
+    "table-598-598": {
+        "title": [
+            "Country",
+            "Users with Teacher Badge"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Users with Teacher Badges by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users from India have the teacher badges?",
+        "data": [
+            [
+                "USA",
+                "1200"
+            ],
+            [
+                "India",
+                "850"
+            ],
+            [
+                "UK",
+                "600"
+            ],
+            [
+                "Canada",
+                "400"
+            ],
+            [
+                "Germany",
+                "300"
+            ]
+        ]
+    }
+}

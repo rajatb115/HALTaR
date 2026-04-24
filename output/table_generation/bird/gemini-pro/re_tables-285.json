@@ -1,0 +1,55 @@
+{
+    "table-285-285": {
+        "title": [
+            "Compound",
+            "Elements",
+            "Bond Type",
+            "Properties",
+            "Use"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Common Tellurium Compounds and Bond Types",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Determine the bond type that is formed in the chemical compound containing element Tellurium.",
+        "data": [
+            [
+                "TeO2",
+                "Tellurium, Oxygen",
+                "Covalent",
+                "Solid, white/yellowish",
+                "Semiconductor, glass production"
+            ],
+            [
+                "H2Te",
+                "Tellurium, Hydrogen",
+                "Covalent",
+                "Gas, toxic",
+                "Precursor for semiconductors"
+            ],
+            [
+                "CdTe",
+                "Cadmium, Tellurium",
+                "Covalent",
+                "Solid, black/red",
+                "Solar cells, infrared detectors"
+            ],
+            [
+                "ZnTe",
+                "Zinc, Tellurium",
+                "Covalent",
+                "Solid",
+                "Semiconductor, LEDs"
+            ],
+            [
+                "Na2Te",
+                "Sodium, Tellurium",
+                "Ionic",
+                "Solid",
+                "Reducing agent"
+            ]
+        ]
+    }
+}

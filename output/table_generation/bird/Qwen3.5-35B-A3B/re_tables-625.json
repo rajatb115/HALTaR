@@ -1,0 +1,85 @@
+{
+    "table-625-625": {
+        "title": [
+            "User_ID",
+            "Full_Name",
+            "Email_Address",
+            "Role",
+            "Status",
+            "Last_Login_Date",
+            "Department"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of user with the ID of 30?",
+        "data": [
+            [
+                "31",
+                "Alice Johnson",
+                "alice.j@company.com",
+                "Analyst",
+                "Active",
+                "4/10/2024",
+                "Finance"
+            ],
+            [
+                "30",
+                "Robert Smith",
+                "robert.s@company.org",
+                "Manager",
+                "Inactive",
+                "N/A",
+                "Operations"
+            ],
+            [
+                "29",
+                "Maria Garcia",
+                "maria.g@example.net",
+                "Developer",
+                "Active",
+                "6/15/24",
+                "Engineering"
+            ],
+            [
+                "45",
+                "David Lee",
+                "david.l@test.io",
+                "Intern",
+                "Pending",
+                "",
+                "Marketing"
+            ],
+            [
+                "12",
+                "Sarah Connor",
+                "sarah.c@secure.co",
+                "Admin",
+                "Suspended",
+                "1/2/23",
+                "IT Security"
+            ],
+            [
+                "78",
+                "James Wilson",
+                "j.wilson@mail.com",
+                "Consultant",
+                "Active",
+                "3/30/19",
+                "Sales"
+            ],
+            [
+                "55",
+                "Emily Davis",
+                "emily.d@corp.edu",
+                "Researcher",
+                "On Leave",
+                "5/1/18",
+                "R&D"
+            ]
+        ]
+    }
+}

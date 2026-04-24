@@ -1,0 +1,39 @@
+{
+    "table-254-254": {
+        "title": [
+            "Player Name",
+            "Year Won"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Players Winning in Multiple Years",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of players who won in both 2013 and 2016?",
+        "data": [
+            [
+                "John Doe",
+                "2013"
+            ],
+            [
+                "John Doe",
+                "2016"
+            ],
+            [
+                "Jane Smith",
+                "2013"
+            ],
+            [
+                "Jane Smith",
+                "2016"
+            ],
+            [
+                "Peter Jones",
+                "2013"
+            ]
+        ]
+    }
+}

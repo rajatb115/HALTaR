@@ -1,0 +1,69 @@
+{
+    "table-328-328": {
+        "title": [
+            "Transcript ID",
+            "Release Date",
+            "Type",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When is the first transcript released? List the date and details.",
+        "data": [
+            [
+                "ACAD-2023-001",
+                "2023-05-15",
+                "Academic",
+                "Final",
+                "Official university record"
+            ],
+            [
+                "MED-2024-012",
+                "2024-01-22",
+                "Medical",
+                "Final",
+                "Patient consultation summary"
+            ],
+            [
+                "EARN-Q4-2023",
+                "2024-02-01",
+                "Earnings Call",
+                "Final",
+                "Q4 2023 investor call"
+            ],
+            [
+                "LEGAL-CASE-005",
+                "2023-11-03",
+                "Legal",
+                "Final",
+                "Deposition transcript"
+            ],
+            [
+                "INT-PROJ-X-003",
+                "2024-03-10",
+                "Interview",
+                "Draft",
+                "Project X stakeholder interview"
+            ],
+            [
+                "RES-STUDY-A-007",
+                "2023-09-28",
+                "Research",
+                "Final",
+                "Qualitative study participant data"
+            ],
+            [
+                "HIST-DOC-1888",
+                "1888-07-01",
+                "Historical",
+                "Final",
+                "Archival document transcription"
+            ]
+        ]
+    }
+}

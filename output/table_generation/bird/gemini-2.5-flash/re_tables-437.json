@@ -1,0 +1,69 @@
+{
+    "table-437-437": {
+        "title": [
+            "Card ID",
+            "Card Name",
+            "Frame Effect",
+            "Set Code",
+            "Rarity"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards have frame effect as extendedart? List out the id of those cards.",
+        "data": [
+            [
+                "12345",
+                "Strixhaven Campus",
+                "extendedart",
+                "STX",
+                "Common"
+            ],
+            [
+                "67890",
+                "Vastwood Surge",
+                "extendedart",
+                "ZNR",
+                "Uncommon"
+            ],
+            [
+                "11223",
+                "Solitude",
+                "extendedart",
+                "MH2",
+                "Mythic"
+            ],
+            [
+                "44556",
+                "Expressive Iteration",
+                "extendedart",
+                "STX",
+                "Rare"
+            ],
+            [
+                "77889",
+                "Thoughtseize",
+                "extendedart",
+                "TSR",
+                "Rare"
+            ],
+            [
+                "99001",
+                "Counterspell",
+                "extendedart",
+                "MH2",
+                "Uncommon"
+            ],
+            [
+                "22334",
+                "Lightning Bolt",
+                "extendedart",
+                "TSR",
+                "Common"
+            ]
+        ]
+    }
+}

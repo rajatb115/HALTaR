@@ -1,0 +1,69 @@
+{
+    "table-152-152": {
+        "title": [
+            "District Name",
+            "Region",
+            "Number of Accounts with Withdrawals",
+            "Total Withdrawal Amount (USD)",
+            "Last Transaction Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the name of the districts with accounts that made withdrawal transactions.",
+        "data": [
+            [
+                "Northwood",
+                "Central",
+                "125",
+                "150000",
+                "2023-11-28"
+            ],
+            [
+                "Southside",
+                "West",
+                "89",
+                "95000",
+                "2023-12-01"
+            ],
+            [
+                "Eastview",
+                "East",
+                "210",
+                "220000",
+                "2023-11-29"
+            ],
+            [
+                "Westend",
+                "North",
+                "72",
+                "80000",
+                "2023-11-27"
+            ],
+            [
+                "Midtown",
+                "Central",
+                "155",
+                "175000",
+                "2023-12-02"
+            ],
+            [
+                "Lakeside",
+                "South",
+                "110",
+                "130000",
+                "2023-11-30"
+            ],
+            [
+                "Riverbend",
+                "West",
+                "98",
+                "105000",
+                "2023-12-01"
+            ]
+        ]
+    }
+}

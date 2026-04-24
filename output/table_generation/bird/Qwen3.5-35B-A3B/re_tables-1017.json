@@ -1,0 +1,69 @@
+{
+    "table-1017-1017": {
+        "title": [
+            "Driver",
+            "Event",
+            "Lap Record Time",
+            "Pit Stop Duration",
+            "Track Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the race a driver set the lap record for the Austrian Grand Prix Circuit, how long did he spent at the pit stop at that same race?",
+        "data": [
+            [
+                "Max Verstappen",
+                "Austrian GP 24",
+                "67.209s",
+                "3.1s",
+                "Dry"
+            ],
+            [
+                "Mick Schumacher",
+                "Austrian Sprint Q",
+                "70.150s",
+                "N/A",
+                "Wet"
+            ],
+            [
+                "Lewis Hamilton",
+                "Austrian Practice 3",
+                "0.000s (No Laps)",
+                "2.8s",
+                "Mixed"
+            ],
+            [
+                "Charles Leclerc",
+                "Austrian Qualifying",
+                "58.400mph",
+                "4.2s",
+                "Hot"
+            ],
+            [
+                "Sergio Perez",
+                "Austrian Race Start",
+                "89.100km/h",
+                "N/D",
+                "Safety Car"
+            ],
+            [
+                "Fernando Alonso",
+                "Austrian Warm Up",
+                "92.300mph",
+                "30.5s",
+                "Cold"
+            ],
+            [
+                "George Russell",
+                "Austrian Test Day",
+                "N/A (Test Only)",
+                "No Data",
+                "Garage"
+            ]
+        ]
+    }
+}

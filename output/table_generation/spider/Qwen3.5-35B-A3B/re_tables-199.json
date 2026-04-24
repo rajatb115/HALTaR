@@ -1,0 +1,69 @@
+{
+    "table-199-199": {
+        "title": [
+            "Template ID",
+            "Description",
+            "Usage Count",
+            "Last Modified",
+            "Status",
+            "Category"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the different descriptions for templates that have been used in a document.",
+        "data": [
+            [
+                "TPL-0042",
+                "Standard Invoice Layout",
+                "3420",
+                "7/15/2023",
+                "Active",
+                "Finance"
+            ],
+            [
+                "TPL-0118",
+                "Quarterly Report Header",
+                "890",
+                "N/A",
+                "Archived",
+                "Reporting"
+            ],
+            [
+                "TPP-0205",
+                "Employee Onboarding Form",
+                "560",
+                "Jan 10, 24",
+                "Active",
+                "HR"
+            ],
+            [
+                "TPT-0330",
+                "Project Proposal Cover Page",
+                "45",
+                "Dec 5, 99",
+                "Draft",
+                "Sales"
+            ],
+            [
+                "TMP-0412",
+                "Client Meeting Minutes",
+                "920",
+                "Nov 11, 00",
+                "Inactive",
+                "Admin"
+            ],
+            [
+                "TRC-0555",
+                "Compliance Audit Checklist",
+                "67",
+                "Feb 28, 12",
+                "Pending",
+                "Legal"
+            ]
+        ]
+    }
+}

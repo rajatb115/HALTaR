@@ -1,0 +1,39 @@
+{
+    "table-373-373": {
+        "title": [
+            "Card Name",
+            "Toughness"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Card Statistics by Toughness",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards are there with toughness of 99?",
+        "data": [
+            [
+                "Assault Formation",
+                "99"
+            ],
+            [
+                "Wall of Granite",
+                "99"
+            ],
+            [
+                "Deathtouch",
+                "1"
+            ],
+            [
+                "Double Touch",
+                "2"
+            ],
+            [
+                "First Touch",
+                "3"
+            ]
+        ]
+    }
+}

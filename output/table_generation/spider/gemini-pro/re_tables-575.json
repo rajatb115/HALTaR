@@ -1,0 +1,52 @@
+{
+    "table-575-575": {
+        "title": [
+            "State",
+            "Owner Residents",
+            "Professional Residents",
+            "Overlap"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "States with Overlapping Owner and Professional Residents",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the states where both owners and professionals live.",
+        "data": [
+            [
+                "California",
+                "1,000,000",
+                "1,500,000",
+                "Yes"
+            ],
+            [
+                "Texas",
+                "800,000",
+                "900,000",
+                "Yes"
+            ],
+            [
+                "New York",
+                "700,000",
+                "1,200,000",
+                "Yes"
+            ],
+            [
+                "Florida",
+                "900,000",
+                "800,000",
+                "Yes"
+            ],
+            [
+                "Illinois",
+                "400,000",
+                "600,000",
+                "Yes"
+            ]
+        ]
+    }
+}

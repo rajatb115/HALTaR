@@ -1,0 +1,77 @@
+{
+    "table-1374-1374": {
+        "title": [
+            "Member ID",
+            "Full Name",
+            "Hometown",
+            "State",
+            "Is From Maryland",
+            "Join Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the members' hometowns are from Maryland state?",
+        "data": [
+            [
+                "M004",
+                "Sarah Jenkins",
+                "Baltimore",
+                "MD",
+                "Yes",
+                "06/15/2019"
+            ],
+            [
+                "M012",
+                "Michael Ross",
+                "Annapolis",
+                "MD",
+                "Yes",
+                "03/22/21"
+            ],
+            [
+                "M27",
+                "Emily Chen",
+                "Silver Spring",
+                "MD",
+                "Yes",
+                "09/10/23"
+            ],
+            [
+                "M089",
+                "David Miller",
+                "Frederick",
+                "MD",
+                "Yes",
+                "11/05/18"
+            ],
+            [
+                "M102",
+                "Jessica Lee",
+                "Rockville",
+                "MD",
+                "Yes",
+                "7/12/19"
+            ],
+            [
+                "M155",
+                "Robert Taylor",
+                "Gaithersburg",
+                "MD",
+                "Yes",
+                "2020-01-30"
+            ],
+            [
+                "m203",
+                "Amanda White",
+                "Bethesda",
+                "MD",
+                "",
+                "Yes"
+            ]
+        ]
+    }
+}

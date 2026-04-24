@@ -1,0 +1,85 @@
+{
+    "table-1191-1191": {
+        "title": [
+            "Patient ID",
+            "Proteinuria (mg/dL)",
+            "Proteinuria Status",
+            "Uric Acid (mg/dL)",
+            "Uric Acid Status",
+            "Visit Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of patients with a proteinuria level within the normal range have a uric acid level below the normal range?",
+        "data": [
+            [
+                "P001",
+                "6.2",
+                "Normal",
+                "4.8",
+                "Normal",
+                "2023-03-01"
+            ],
+            [
+                "P002",
+                "8.5",
+                "Normal",
+                "2.7",
+                "Below Normal",
+                "2023-03-05"
+            ],
+            [
+                "P003",
+                "14.1",
+                "Elevated",
+                "5.5",
+                "Normal",
+                "2023-03-08"
+            ],
+            [
+                "P004",
+                "7.1",
+                "Normal",
+                "2.9",
+                "Below Normal",
+                "2023-03-12"
+            ],
+            [
+                "P005",
+                "9.3",
+                "Normal",
+                "7.8",
+                "Above Normal",
+                "2023-03-15"
+            ],
+            [
+                "P006",
+                "5.8",
+                "Normal",
+                "3.1",
+                "Normal",
+                "2023-03-18"
+            ],
+            [
+                "P007",
+                "11.0",
+                "Elevated",
+                "2.5",
+                "Below Normal",
+                "2023-03-22"
+            ],
+            [
+                "P008",
+                "4.9",
+                "Normal",
+                "2.6",
+                "Below Normal",
+                "2023-03-25"
+            ]
+        ]
+    }
+}

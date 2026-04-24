@@ -1,0 +1,43 @@
+{
+    "table-50-50": {
+        "title": [
+            "County Name",
+            "School Name",
+            "Closure Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Closed Schools by County",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which different county has the most number of closed schools? Please provide the name of each school as well as the closure date.",
+        "data": [
+            [
+                "County A",
+                "School 1",
+                "2023-06-30"
+            ],
+            [
+                "County A",
+                "School 2",
+                "2022-12-15"
+            ],
+            [
+                "County B",
+                "School 3",
+                "2023-01-20"
+            ],
+            [
+                "County C",
+                "School 4",
+                "2022-08-01"
+            ],
+            [
+                "County C",
+                "School 5",
+                "2023-03-10"
+            ]
+        ]
+    }
+}

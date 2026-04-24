@@ -1,0 +1,51 @@
+{
+    "table-150-150": {
+        "title": [
+            "Shop Name",
+            "Location",
+            "District",
+            "Number of Products"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "List of Shops",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the name, location and district of all shops in descending order of number of products.",
+        "data": [
+            [
+                "Shop A",
+                "Downtown",
+                "Central",
+                "150"
+            ],
+            [
+                "Shop B",
+                "Uptown",
+                "North",
+                "120"
+            ],
+            [
+                "Shop C",
+                "Midtown",
+                "Central",
+                "90"
+            ],
+            [
+                "Shop D",
+                "Downtown",
+                "South",
+                "75"
+            ],
+            [
+                "Shop E",
+                "Uptown",
+                "North",
+                "60"
+            ]
+        ]
+    }
+}

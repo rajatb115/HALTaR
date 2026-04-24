@@ -1,0 +1,77 @@
+{
+    "table-1430-1430": {
+        "title": [
+            "Event Name",
+            "Event Date",
+            "Location Address",
+            "Host Club",
+            "Key Attendee Role",
+            "Attendance Count"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of the social event that was attended by the vice president of the Student_Club located at 900 E. Washington St.?",
+        "data": [
+            [
+                "Annual Leadership Gala",
+                "2023-11-10",
+                "900 E. Washington St.",
+                "Student_Club",
+                "VP of Student_Club",
+                "120"
+            ],
+            [
+                "Spring Networking Mixer",
+                "2024-03-22",
+                "University Union Ballroom",
+                "Student_Club",
+                "VP of Student_Club",
+                "85"
+            ],
+            [
+                "Campus Volunteer Fair",
+                "2023-09-15",
+                "Main Quad Lawn",
+                "Community Outreach Club",
+                "VP of Student_Club",
+                "300"
+            ],
+            [
+                "Student Organization Summit",
+                "2024-01-20",
+                "Conference Center, Room 101",
+                "University Student Affairs",
+                "VP of Student_Club",
+                "150"
+            ],
+            [
+                "Debate Society Open House",
+                "2023-10-05",
+                "Humanities Building, Room 205",
+                "Debate Society",
+                "VP of Debate Society",
+                "40"
+            ],
+            [
+                "Fall Welcome Back BBQ",
+                "2023-08-28",
+                "Campus Green",
+                "Student_Club",
+                "President of Student_Club",
+                "200"
+            ],
+            [
+                "Alumni Mentorship Dinner",
+                "2024-02-17",
+                "Grand Hotel Banquet Hall",
+                "Alumni Association",
+                "VP of Student_Club",
+                "90"
+            ]
+        ]
+    }
+}

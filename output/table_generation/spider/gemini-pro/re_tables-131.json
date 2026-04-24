@@ -1,0 +1,37 @@
+{
+    "table-131-131": {
+        "title": [
+            "Airline",
+            "Departure Airport"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Airline Departure Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airlines have departures from CVO but not from APG airports?",
+        "data": [
+            [
+                "United",
+                "CVO"
+            ],
+            [
+                "Delta",
+                "CVO"
+            ],
+            [
+                "American",
+                "CVO"
+            ],
+            [
+                "Southwest",
+                "CVO"
+            ],
+            [
+                "Frontier",
+                "CVO"
+            ]
+        ]
+    }
+}

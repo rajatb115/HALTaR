@@ -1,0 +1,76 @@
+{
+    "table-643-643": {
+        "title": [
+            "Date",
+            "Post ID",
+            "Author",
+            "Category",
+            "Status",
+            "Views",
+            "Likes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts were created on 21st July, 2010?",
+        "data": [
+            [
+                "2nd Jul 24",
+                "P-10023",
+                "Alice Smith",
+                "Tech",
+                "Published",
+                "450",
+                "32"
+            ],
+            [
+                "10th Jul 10",
+                "P-P7721",
+                "Bob Jones",
+                "News",
+                "Draft",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "21st Jul 10",
+                "P-Q9982",
+                "Carol Lee",
+                "Sports",
+                "Published",
+                "1205",
+                "89"
+            ],
+            [
+                "22nd Jul 10",
+                "R-T4456",
+                "David Kim",
+                "Tech",
+                "Archived",
+                "330",
+                "15"
+            ],
+            [
+                "3rd Aug 10",
+                "M-W1122",
+                "Eva Green",
+                "Lifestyle",
+                "Published",
+                "890",
+                "67"
+            ],
+            [
+                "15th Sep 10",
+                "",
+                "F-H3344",
+                "Finance",
+                "Pending",
+                "110",
+                ""
+            ]
+        ]
+    }
+}

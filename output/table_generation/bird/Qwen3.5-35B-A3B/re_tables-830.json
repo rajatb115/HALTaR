@@ -1,0 +1,77 @@
+{
+    "table-830-830": {
+        "title": [
+            "Publisher",
+            "Estimated Superhero Count",
+            "Primary Era Active",
+            "Notable Franchise",
+            "Key Character Examples",
+            "Difference from Rival"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which publisher created more superheroes: DC or Marvel Comics? Find the difference in the number of superheroes.",
+        "data": [
+            [
+                "DC Comics",
+                "~7,400",
+                "Golden Age to Modern",
+                "Justice League",
+                "Superman, Batman, Wonder Woman",
+                "+600 vs Marvel"
+            ],
+            [
+                "Marvel Comics",
+                "6,800+",
+                "Silver Age to Present",
+                "Avengers",
+                "Spider-Man, Iron Man, Captain America",
+                "-60 vs DC"
+            ],
+            [
+                "Dark Horse Comics",
+                "N/A",
+                "Dark Ages to Modern",
+                "Hellboy",
+                "Spawn, Witchblade",
+                "N/S"
+            ],
+            [
+                "Image Comics",
+                "Unknown",
+                "Independent Boom",
+                "Invincible",
+                "Saga, Walking Dead",
+                "N/N"
+            ],
+            [
+                "IDW Publishing",
+                "Approx 1,200",
+                "Licensed Properties",
+                "Transformers",
+                "G.I. Joe, My Little Pony",
+                "N/E"
+            ],
+            [
+                "Boom! Studios",
+                "Approx 80",
+                "New Wave",
+                "Lumberjanes",
+                "Power Rangers, Star Trek",
+                "N/D"
+            ],
+            [
+                "Valiant Entertainment",
+                "Approx 450",
+                "Revival Period",
+                "Harbinger",
+                "X-O Manowar, Bloodshot",
+                "N/V"
+            ]
+        ]
+    }
+}

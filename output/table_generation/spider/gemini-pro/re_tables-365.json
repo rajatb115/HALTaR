@@ -1,0 +1,43 @@
+{
+    "table-365-365": {
+        "title": [
+            "TV Series",
+            "Minimum Share",
+            "Maximum Share"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "TV Series Share Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum and minimum share for the TV series?",
+        "data": [
+            [
+                "Series A",
+                "5%",
+                "25%"
+            ],
+            [
+                "Series B",
+                "8%",
+                "30%"
+            ],
+            [
+                "Series C",
+                "2%",
+                "15%"
+            ],
+            [
+                "Series D",
+                "10%",
+                "35%"
+            ],
+            [
+                "Series E",
+                "7%",
+                "22%"
+            ]
+        ]
+    }
+}

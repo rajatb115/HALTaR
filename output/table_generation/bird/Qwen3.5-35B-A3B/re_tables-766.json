@@ -1,0 +1,77 @@
+{
+    "table-766-766": {
+        "title": [
+            "Hero Name",
+            "Stealth Power Level",
+            "Detection Resistance",
+            "Active Duration",
+            "Cooldown Time",
+            "Primary Class"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many heroes have stealth power?",
+        "data": [
+            [
+                "Shadow Walker",
+                "High",
+                "95%",
+                "45 seconds",
+                "60 seconds",
+                "Assassin"
+            ],
+            [
+                "Phantom Step",
+                "Medium",
+                "70%",
+                "N/A",
+                "30 seconds",
+                ""
+            ],
+            [
+                "Stealth Master",
+                "Very High",
+                "N/A",
+                "5 minutes",
+                "0 seconds",
+                ""
+            ],
+            [
+                "Night Stalker",
+                "Low",
+                "85%",
+                "1 minute",
+                "120 seconds",
+                ""
+            ],
+            [
+                "Silent Blade",
+                "Extreme",
+                "N/A",
+                "3 minutes",
+                "90 seconds",
+                ""
+            ],
+            [
+                "Ghost Runner",
+                "Moderate",
+                "60%",
+                "2 minutes",
+                "45 seconds",
+                ""
+            ],
+            [
+                "Eclipse Agent",
+                "High",
+                "92%",
+                "N/A",
+                "75 seconds",
+                ""
+            ]
+        ]
+    }
+}

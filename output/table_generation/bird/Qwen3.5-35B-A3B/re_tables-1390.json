@@ -1,0 +1,76 @@
+{
+    "table-1390-1390": {
+        "title": [
+            "Event ID",
+            "Event Name",
+            "Category",
+            "Cost ($)",
+            "Date",
+            "Location",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which event has the lowest cost?",
+        "data": [
+            [
+                "EVT-1042",
+                "Community Picnic",
+                "Recreation",
+                "450.00",
+                "6/15/2024",
+                "Central Park",
+                "Confirmed"
+            ],
+            [
+                "EVE-2091",
+                "Tech Startup Summit",
+                "Business",
+                "320.50",
+                "7/22/2024",
+                "San Francisco",
+                "Pending"
+            ],
+            [
+                "EVD-3378",
+                "Local Art Workshop",
+                "Education",
+                "89.99",
+                "8/10/2024",
+                "Brooklyn",
+                "Cancelled"
+            ],
+            [
+                "EVW-4412",
+                "Charity Gala Dinner",
+                "Non-Profit",
+                "5500.75",
+                "9/5/2024",
+                "Downtown Hall",
+                "Scheduled"
+            ],
+            [
+                "EVX-5523",
+                "Weekend Yoga Retreat",
+                "Wellness",
+                "75.01",
+                "10/1/2024",
+                "Green Valley",
+                "Open for Registration"
+            ],
+            [
+                "EVY-6634",
+                "Corporate Training Day",
+                "Professional Dev",
+                "0.00",
+                "11/15/2024",
+                "Virtual",
+                "Completed"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-747-747": {
+        "title": [
+            "Superhero Name",
+            "Strength (1-10)",
+            "Intelligence (1-10)",
+            "Speed (1-10)",
+            "Durability (1-10)",
+            "Overall Power (1-100)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average attribute value of all superheroes.",
+        "data": [
+            [
+                "Captain Comet",
+                "8",
+                "7",
+                "6",
+                "7",
+                "75"
+            ],
+            [
+                "Shadow Striker",
+                "6",
+                "9",
+                "7",
+                "6",
+                "80"
+            ],
+            [
+                "Ironclad",
+                "9",
+                "5",
+                "4",
+                "9",
+                "70"
+            ],
+            [
+                "Psionica",
+                "4",
+                "10",
+                "5",
+                "5",
+                "85"
+            ],
+            [
+                "Velocity Vixen",
+                "5",
+                "6",
+                "9",
+                "4",
+                "65"
+            ],
+            [
+                "Mind Weaver",
+                "3",
+                "9",
+                "4",
+                "6",
+                "78"
+            ],
+            [
+                "Titan Force",
+                "10",
+                "6",
+                "5",
+                "10",
+                "90"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-534-534": {
+        "title": [
+            "Performance Type",
+            "Min Share",
+            "Max Share"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Performance Share Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the maximum and minimum share of performances whose type is not \"Live final\".",
+        "data": [
+            [
+                "Qualifying",
+                "0.01",
+                "0.15"
+            ],
+            [
+                "Semifinal",
+                "0.02",
+                "0.20"
+            ],
+            [
+                "Rehearsal",
+                "0.01",
+                "0.05"
+            ],
+            [
+                "Live Show",
+                "0.05",
+                "0.30"
+            ],
+            [
+                "Other",
+                "0.00",
+                "0.02"
+            ]
+        ]
+    }
+}

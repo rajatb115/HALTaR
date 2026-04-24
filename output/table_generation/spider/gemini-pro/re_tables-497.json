@@ -1,0 +1,43 @@
+{
+    "table-497-497": {
+        "title": [
+            "Country Code",
+            "Official Language",
+            "Government Type"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Countries Without English and Republic Government",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the codes of countries that do not speak English and do not have Republics for governments.",
+        "data": [
+            [
+                "FRA",
+                "French",
+                "Parliamentary Democracy"
+            ],
+            [
+                "DEU",
+                "German",
+                "Federal Parliamentary Republic"
+            ],
+            [
+                "JPN",
+                "Japanese",
+                "Parliamentary Constitutional Monarchy"
+            ],
+            [
+                "CHN",
+                "Mandarin",
+                "Communist State"
+            ],
+            [
+                "RUS",
+                "Russian",
+                "Federal Semi-Presidential Republic"
+            ]
+        ]
+    }
+}

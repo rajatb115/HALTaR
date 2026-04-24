@@ -1,0 +1,46 @@
+{
+    "table-83-83": {
+        "title": [
+            "Car Model",
+            "MPG (City)",
+            "MPG (Highway)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Car Models and Fuel Efficiency",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the car model with the highest mpg ?",
+        "data": [
+            [
+                "Toyota Prius",
+                "58",
+                "53"
+            ],
+            [
+                "Honda Insight",
+                "55",
+                "49"
+            ],
+            [
+                "Hyundai Ioniq",
+                "59",
+                "57"
+            ],
+            [
+                "Ford Maverick Hybrid",
+                "42",
+                "33"
+            ],
+            [
+                "Lexus ES 300h",
+                "43",
+                "44"
+            ]
+        ]
+    }
+}

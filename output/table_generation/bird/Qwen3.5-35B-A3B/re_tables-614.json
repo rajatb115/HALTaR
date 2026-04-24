@@ -1,0 +1,62 @@
+{
+    "table-614-614": {
+        "title": [
+            "User ID",
+            "Location",
+            "Badge Name",
+            "Issue Date",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the dates that users who are located in Rochester, NY obtained their badges?",
+        "data": [
+            [
+                "U1042",
+                "Rochester, N.Y.",
+                "Community Contributor",
+                "06/12/2023",
+                "Active"
+            ],
+            [
+                "U1055",
+                "Rochester, NY",
+                "Top Reviewer",
+                "07/15/2023",
+                "Active"
+            ],
+            [
+                "U2011",
+                "Rochester, NY",
+                "Event Organizer",
+                "01/22/1975",
+                "Inactive"
+            ],
+            [
+                "U3098",
+                "Rochester, NY",
+                "Mentor Award",
+                "03/30/2100",
+                "Pending"
+            ],
+            [
+                "U4122",
+                "Rochester, NY",
+                "Volunteer",
+                "09/09/2099",
+                "Expired"
+            ],
+            [
+                "U5003",
+                "Rochester, NY",
+                "Safety Champion",
+                "12/31/1899",
+                ""
+            ]
+        ]
+    }
+}

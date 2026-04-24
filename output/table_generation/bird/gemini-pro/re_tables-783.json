@@ -1,0 +1,43 @@
+{
+    "table-783-783": {
+        "title": [
+            "Hero Name",
+            "Eye Color",
+            "Hair Color"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Heroes with Black Hair and Eyes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the heroes' names whose eyes and hair colours are both black.",
+        "data": [
+            [
+                "Batman",
+                "Black",
+                "Black"
+            ],
+            [
+                "Catwoman",
+                "Green",
+                "Black"
+            ],
+            [
+                "Daredevil",
+                "Blue",
+                "Red"
+            ],
+            [
+                "Black Widow",
+                "Green",
+                "Red"
+            ],
+            [
+                "Black Panther",
+                "Brown",
+                "Black"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-676-676": {
+        "title": [
+            "Username",
+            "Reputation",
+            "Views"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "User Statistics Based on Reputation and Views",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users whose reputations are higher than 2000 and the number of views is higher than 1000?",
+        "data": [
+            [
+                "User A",
+                "2500",
+                "1200"
+            ],
+            [
+                "User B",
+                "3000",
+                "1500"
+            ],
+            [
+                "User C",
+                "2200",
+                "1100"
+            ],
+            [
+                "User D",
+                "2800",
+                "900"
+            ],
+            [
+                "User E",
+                "1800",
+                "1300"
+            ]
+        ]
+    }
+}

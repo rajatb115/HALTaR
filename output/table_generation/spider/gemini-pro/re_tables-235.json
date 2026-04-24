@@ -1,0 +1,51 @@
+{
+    "table-235-235": {
+        "title": [
+            "Visitor ID",
+            "Visitor Name",
+            "Membership Level",
+            "Total Spending"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Top Spending Museum Visitors",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the id, name and membership level of visitors who have spent the largest amount of money in total in all museum tickets?",
+        "data": [
+            [
+                "101",
+                "John Smith",
+                "Gold",
+                "$550"
+            ],
+            [
+                "102",
+                "Alice Brown",
+                "Silver",
+                "$475"
+            ],
+            [
+                "103",
+                "David Lee",
+                "Gold",
+                "$420"
+            ],
+            [
+                "104",
+                "Emily White",
+                "Bronze",
+                "$380"
+            ],
+            [
+                "105",
+                "Michael Gray",
+                "Silver",
+                "$350"
+            ]
+        ]
+    }
+}

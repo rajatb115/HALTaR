@@ -1,0 +1,37 @@
+{
+    "table-121-121": {
+        "title": [
+            "Airport Code",
+            "Airport Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Airport Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the name of the airport with code 'AKO'.",
+        "data": [
+            [
+                "AKO",
+                "Colorado Plains Regional Airport"
+            ],
+            [
+                "DEN",
+                "Denver International Airport"
+            ],
+            [
+                "COS",
+                "City of Colorado Springs Municipal Airport"
+            ],
+            [
+                "ASE",
+                "Aspen-Pitkin County Airport"
+            ],
+            [
+                "GUC",
+                "Gunnison-Crested Butte Regional Airport"
+            ]
+        ]
+    }
+}

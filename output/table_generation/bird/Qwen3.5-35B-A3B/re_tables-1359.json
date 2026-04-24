@@ -1,0 +1,85 @@
+{
+    "table-1359-1359": {
+        "title": [
+            "Full Name",
+            "Organization",
+            "Dues Paid Date",
+            "Amount",
+            "Currency",
+            "Status",
+            "Role"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who was the first one paid his/her dues? Tell the full name.",
+        "data": [
+            [
+                "John Smith",
+                "Global Tech Corp",
+                "4/12/1976",
+                "$50.00",
+                "USD",
+                "Completed",
+                "Founder"
+            ],
+            [
+                "Jane Doe",
+                "United Arts Union",
+                "5/20/1892",
+                "\u00a310.50",
+                "GBP",
+                "Completed",
+                "President"
+            ],
+            [
+                "Robert Johnson",
+                "National Engineers Guild",
+                "3/15/1789",
+                "\u20bf0.10",
+                "BTC",
+                "Pending",
+                "Member"
+            ],
+            [
+                "Emily White",
+                "International Writers Assoc",
+                "6/30/2100",
+                "N/A",
+                "NDA",
+                "N/A",
+                "Future Hire"
+            ],
+            [
+                "Michael Brown",
+                "Local Farmers Co-op",
+                "9/01/1654",
+                "\u20ac25.05",
+                "EUR",
+                "Verified",
+                "Leader"
+            ],
+            [
+                "Sarah Davis",
+                "Oceanic Research Institute",
+                "7/14/2201",
+                "TBA",
+                "TBD",
+                "Prospect",
+                ""
+            ],
+            [
+                "David Wilson",
+                "Historical Society Archive",
+                "8/25/0005",
+                "Sesterces 500 Roman Coin",
+                "Ancient Rome",
+                "Ancestor",
+                ""
+            ]
+        ]
+    }
+}

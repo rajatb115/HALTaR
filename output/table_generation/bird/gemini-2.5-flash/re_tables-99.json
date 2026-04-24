@@ -1,0 +1,77 @@
+{
+    "table-99-99": {
+        "title": [
+            "Account ID",
+            "Approved Date",
+            "Approved Amount",
+            "Issuance Frequency",
+            "Loan Type",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the accounts who have approved loan date in 1997, list out the accounts that have the lowest approved amount and choose weekly issuance statement.",
+        "data": [
+            [
+                "L1997-001",
+                "1997-01-15",
+                "3200",
+                "Weekly",
+                "Personal",
+                "Active"
+            ],
+            [
+                "L1997-002",
+                "1997-03-22",
+                "2850",
+                "Weekly",
+                "Auto",
+                "Active"
+            ],
+            [
+                "L1997-003",
+                "1997-05-10",
+                "15000",
+                "Monthly",
+                "Business",
+                "Approved"
+            ],
+            [
+                "L1997-004",
+                "1997-07-01",
+                "2500",
+                "Weekly",
+                "Personal",
+                "Active"
+            ],
+            [
+                "L1997-005",
+                "1997-09-18",
+                "7800",
+                "Bi-weekly",
+                "Mortgage",
+                "Active"
+            ],
+            [
+                "L1997-006",
+                "1997-11-05",
+                "3900",
+                "Weekly",
+                "Personal",
+                "Approved"
+            ],
+            [
+                "L1997-007",
+                "1997-12-01",
+                "2700",
+                "Weekly",
+                "Auto",
+                "Active"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-1442-1442": {
+        "title": [
+            "Department",
+            "Number of Members"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Education Major Counts by Department",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many members have education major in the College of Education & Human Services?",
+        "data": [
+            [
+                "Early Childhood Education",
+                "150"
+            ],
+            [
+                "Special Education",
+                "120"
+            ],
+            [
+                "Counseling and Human Development",
+                "95"
+            ],
+            [
+                "Educational Leadership",
+                "80"
+            ],
+            [
+                "Kinesiology",
+                "75"
+            ]
+        ]
+    }
+}

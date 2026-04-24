@@ -1,0 +1,69 @@
+{
+    "table-1395-1395": {
+        "title": [
+            "Student ID",
+            "Student Name",
+            "Club Name",
+            "Major",
+            "Enrollment Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many members of the Student_Club have major in 'Physics Teaching'?",
+        "data": [
+            [
+                "S1001",
+                "Alice Smith",
+                "Student_Club",
+                "Physics Teaching",
+                "2021"
+            ],
+            [
+                "S1002",
+                "Bob Johnson",
+                "Robotics Club",
+                "Computer Science",
+                "2020"
+            ],
+            [
+                "S1003",
+                "Carol White",
+                "Student_Club",
+                "Physics",
+                "2022"
+            ],
+            [
+                "S1004",
+                "David Green",
+                "Chess Club",
+                "Mathematics",
+                "2021"
+            ],
+            [
+                "S1005",
+                "Emily Brown",
+                "Student_Club",
+                "Physics Teaching",
+                "2023"
+            ],
+            [
+                "S1006",
+                "Frank Black",
+                "Debate Society",
+                "Political Science",
+                "2020"
+            ],
+            [
+                "S1007",
+                "Grace Lee",
+                "Student_Club",
+                "Education",
+                "2022"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-399-399": {
+        "title": [
+            "Player Name",
+            "Total Earnings",
+            "Final Tables Made",
+            "Nationality",
+            "Years Active"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the maximum final tables made across all poker players who have earnings below 200000.",
+        "data": [
+            [
+                "Alice Smith",
+                "185000",
+                "12",
+                "USA",
+                "8"
+            ],
+            [
+                "Bob Johnson",
+                "198000",
+                "15",
+                "Canada",
+                "10"
+            ],
+            [
+                "Carol White",
+                "155000",
+                "9",
+                "UK",
+                "6"
+            ],
+            [
+                "David Green",
+                "120000",
+                "7",
+                "Germany",
+                "5"
+            ],
+            [
+                "Eve Brown",
+                "199500",
+                "14",
+                "Australia",
+                "9"
+            ],
+            [
+                "Frank Black",
+                "170000",
+                "11",
+                "USA",
+                "7"
+            ]
+        ]
+    }
+}

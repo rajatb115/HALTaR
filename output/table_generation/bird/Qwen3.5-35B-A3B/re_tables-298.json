@@ -1,0 +1,93 @@
+{
+    "table-298-298": {
+        "title": [
+            "Atom ID",
+            "Element Composition",
+            "Carcinogen Status",
+            "Molecular Weight",
+            "Stability Rating",
+            "Source Material",
+            "Is Organic Compound",
+            "Toxicity Level"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the atoms that contain element carbon, which one does not contain compound carcinogenic?",
+        "data": [
+            [
+                "C6H6",
+                "Carbon + Hydrogen",
+                "Yes",
+                "78.11",
+                "Low",
+                "Petroleum",
+                "True",
+                "High"
+            ],
+            [
+                "C2Cl4",
+                "Carbon + Chlorine",
+                "No",
+                "169.82",
+                "Medium",
+                "Solvent Industry",
+                "False",
+                "Moderate"
+            ],
+            [
+                "CH4",
+                "Carbon + Hydrogen",
+                "No",
+                "16.04",
+                "High",
+                "Natural Gas",
+                "True",
+                "Low"
+            ],
+            [
+                "CCl4",
+                "Carbon Tetrachloride",
+                "Yes",
+                "153.82",
+                "Medium",
+                "Industrial Chemicals",
+                "False",
+                "Very High"
+            ],
+            [
+                "CO(NH2)2",
+                "Urea",
+                "No",
+                "60.06",
+                "Stable",
+                "Biological Waste",
+                "True",
+                "None"
+            ],
+            [
+                "C6H12O6",
+                "Glucose",
+                "No",
+                "180.16",
+                "Metabolically Active",
+                "Fruits",
+                "True",
+                "None"
+            ],
+            [
+                "C10H8",
+                "Naphthalene",
+                "Yes",
+                "128.01",
+                "Sublimates",
+                "Mothballs",
+                "True",
+                "Moderate"
+            ]
+        ]
+    }
+}

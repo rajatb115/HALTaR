@@ -1,0 +1,53 @@
+{
+    "table-536-536": {
+        "title": [
+            "User_ID",
+            "Upvote_Count",
+            "Downvote_Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the users who have more than 100 upvotes, how many of them have more then 1 downvotes?",
+        "data": [
+            [
+                "U_4021",
+                "342",
+                "0"
+            ],
+            [
+                "User_X99",
+                "567",
+                "4"
+            ],
+            [
+                "DataKing",
+                "890",
+                "6"
+            ],
+            [
+                "NewbieDev",
+                "999+",
+                "7"
+            ],
+            [
+                "CodeMaster",
+                "120",
+                "-1"
+            ],
+            [
+                "SilentReader",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "TopContributor",
+                "TBD",
+                "TBD"
+            ]
+        ]
+    }
+}

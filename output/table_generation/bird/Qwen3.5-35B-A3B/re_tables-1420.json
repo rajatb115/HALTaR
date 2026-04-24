@@ -1,0 +1,76 @@
+{
+    "table-1420-1420": {
+        "title": [
+            "Event ID",
+            "Date Time",
+            "Category",
+            "Location",
+            "Status",
+            "Attendees",
+            "Description"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the category of event which was taken place in 2020-03-24T12:00:00?",
+        "data": [
+            [
+                "EVT-2045",
+                "03/24/20 12 PM",
+                "Webinar",
+                "Virtual",
+                "Completed",
+                "450",
+                "Global Tech Summit Keynote"
+            ],
+            [
+                "EVE-2109",
+                "3/17/21 10 AM",
+                "Conference",
+                "New York",
+                "Cancelled",
+                "N/A",
+                "Annual Data Science Meetup"
+            ],
+            [
+                "EVX-3321",
+                "6/01/22 09 AM",
+                "Workshop",
+                "London",
+                "Scheduled",
+                "500",
+                "AI Ethics Training Session"
+            ],
+            [
+                "EVA-1102",
+                "9/15/23 02 PM",
+                "Symposium",
+                "Tokyo",
+                "Planned",
+                "800",
+                "International Policy Forum"
+            ],
+            [
+                "EVB-4456",
+                "7/08/25 11 AM",
+                "Hackathon",
+                "San Francisco",
+                "Pending",
+                "20",
+                "Open Source Development Sprint"
+            ],
+            [
+                "EVC-7789",
+                "Jan 15, 24 01 PM",
+                "Gala Dinner",
+                "Paris",
+                "Confirmed",
+                "N/A",
+                "Charity Fundraising Night"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-550-550": {
+        "title": [
+            "StudentName",
+            "GradeLevel",
+            "GPA",
+            "AttendanceRate",
+            "MajorInterest"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the names and grades of each high schooler.",
+        "data": [
+            [
+                "Alice Johnson",
+                "9th",
+                "3.4",
+                "0.96",
+                "Biology"
+            ],
+            [
+                "Bob Smith",
+                "7th",
+                "",
+                "88%",
+                "History"
+            ],
+            [
+                "Carol Davis",
+                "6th",
+                "",
+                "4/5 days",
+                "Art"
+            ],
+            [
+                "David Lee",
+                "5th",
+                "C",
+                "\u00bd week",
+                "Math"
+            ],
+            [
+                "Eva Martinez",
+                "",
+                "",
+                "",
+                "Science"
+            ],
+            [
+                "Frank White",
+                "",
+                "",
+                "",
+                "PE"
+            ],
+            [
+                "Grace Kim",
+                "",
+                "",
+                "",
+                "Music"
+            ],
+            [
+                "Henry Brown",
+                "",
+                "",
+                "",
+                "Gym"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-503-503": {
+        "title": [
+            "Country",
+            "Year of Independence",
+            "Surface Area (km\u00b2)",
+            "Population"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Country with the Lowest Population",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the name, year of independence, and surface area of the country that has the lowest population.",
+        "data": [
+            [
+                "Vatican City",
+                "1929",
+                "0.44",
+                "825"
+            ],
+            [
+                "Nauru",
+                "1968",
+                "21",
+                "10,876"
+            ],
+            [
+                "Tuvalu",
+                "1978",
+                "26",
+                "11,396"
+            ],
+            [
+                "Palau",
+                "1994",
+                "459",
+                "18,058"
+            ],
+            [
+                "San Marino",
+                "1631",
+                "61",
+                "33,642"
+            ]
+        ]
+    }
+}

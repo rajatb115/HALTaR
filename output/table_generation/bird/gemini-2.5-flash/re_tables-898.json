@@ -1,0 +1,61 @@
+{
+    "table-898-898": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Total Wins",
+            "Avg Points per Race"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the driver with the most winning. Mention his nationality and what is his average point scores.",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "British",
+                "103",
+                "11.2"
+            ],
+            [
+                "Michael Schumacher",
+                "German",
+                "91",
+                "10.5"
+            ],
+            [
+                "Max Verstappen",
+                "Dutch",
+                "59",
+                "12.1"
+            ],
+            [
+                "Sebastian Vettel",
+                "German",
+                "53",
+                "9.1"
+            ],
+            [
+                "Alain Prost",
+                "French",
+                "51",
+                "9.8"
+            ],
+            [
+                "Ayrton Senna",
+                "Brazilian",
+                "41",
+                "9.5"
+            ],
+            [
+                "Fernando Alonso",
+                "Spanish",
+                "32",
+                "8.7"
+            ]
+        ]
+    }
+}

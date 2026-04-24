@@ -1,0 +1,67 @@
+{
+    "table-1034-1034": {
+        "title": [
+            "Player ID",
+            "Full Name",
+            "Birth Year",
+            "Height_cm",
+            "Team",
+            "Position",
+            "League"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average height of players born between 1990 and 1995?",
+        "data": [
+            [
+                "P1042",
+                "James Wilson",
+                "1999",
+                "76",
+                "Boston Celtics",
+                "Forward",
+                "NBA"
+            ],
+            [
+                "P1055",
+                "Marcus Johnson",
+                "1989",
+                "69",
+                "Los Angeles Lakers",
+                "Guard",
+                "NBA"
+            ],
+            [
+                "P2103",
+                "David Chen",
+                "1993",
+                "58",
+                "Chicago Bulls",
+                "Center",
+                "NBA"
+            ],
+            [
+                "P3019",
+                "Robert Smith",
+                "1994",
+                "32",
+                "Miami Heat",
+                "Forward-Center",
+                "NBA"
+            ],
+            [
+                "P4088",
+                "Kevin Brown",
+                "1979",
+                "",
+                "Golden State Warriors",
+                "Guard",
+                "NBA"
+            ]
+        ]
+    }
+}

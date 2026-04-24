@@ -1,0 +1,53 @@
+{
+    "table-1439-1439": {
+        "title": [
+            "Person ID",
+            "First Name",
+            "Last Name",
+            "College",
+            "Major Link",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please indicate the college of the person whose first name is Katy with the link to the major \"rec1N0upiVLy5esTO\".",
+        "data": [
+            [
+                "Katy_004",
+                "Katy",
+                "Johnson",
+                "School of Arts & Sciences",
+                "rec1N5upiVLz6esTP",
+                "Active"
+            ],
+            [
+                "Kathy_012",
+                "Kathy",
+                "Miller",
+                "College of Engineering",
+                "rec2M7vpiWLx8esTQ",
+                "Inactive"
+            ],
+            [
+                "Kate_089",
+                "Kate",
+                "Davis",
+                "School Business Admin",
+                "rec3O9wqiWMa9esTR",
+                "Pending"
+            ],
+            [
+                "Katrina_023",
+                "Katrina",
+                "Wilson",
+                "College Education",
+                "rec4P1xrjXNb0esTS",
+                "Active"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "table-484-484": {
+        "title": [
+            "Card Name",
+            "Set Code",
+            "Oracle Text (Italiano)",
+            "Mana Cost",
+            "Rarity"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the Italian text ruling of all the cards in the set Coldsnap.",
+        "data": [
+            [
+                "Frost Giant",
+                "CSN",
+                "Creatura Ogra con Resistenza 4 {U}{U}. Quando questo entra nel campo di battaglia, ogni creatura avversaria ottiene -X/-X fino al termine del turno dove X \u00e8 il costo totale di mana pagato per questa carta.",
+                "6",
+                "Rare"
+            ],
+            [
+                "Icy Manipulator",
+                "CSNA",
+                "Creatura Artefatto {U}. Non puoi giocare carte di terra o lanciare incantesimi se non hai almeno tre terre sul tuo tavolo.",
+                "U",
+                "Uncommon"
+            ],
+            [
+                "Frost Breath",
+                "CSNB",
+                "Incantesimo Istantaneo {U}: Ogni creatura nemica subisce 1 danno da freddo. Se una creatura muore cos\u00ec, crea un token 1/1 Bianco con la capacit\u00e0 Volare.",
+                "U",
+                "Common"
+            ],
+            [
+                "Glacial Ray",
+                "CSCC",
+                "Incantamento Sorcery {R}: Distruggi tutte le creature che hanno potere inferiore a 3. Poi, ogni giocatore perde vita pari alla somma dei poteri delle creature distrutte diviso due.",
+                "R",
+                "Rare"
+            ]
+        ]
+    }
+}

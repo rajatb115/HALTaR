@@ -1,0 +1,52 @@
+{
+    "table-261-261": {
+        "title": [
+            "Molecule",
+            "Element",
+            "Number of Triple Bonds",
+            "Number of Atoms"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Triple Bond Molecules Containing Phosphorus or Bromine",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total atoms with triple-bond molecules containing the element phosphorus or bromine.",
+        "data": [
+            [
+                "Phosphorus Cyanide",
+                "Phosphorus",
+                "1",
+                "2"
+            ],
+            [
+                "Bromoacetylene",
+                "Bromine",
+                "1",
+                "4"
+            ],
+            [
+                "Phosphorus Mononitride",
+                "Phosphorus",
+                "1",
+                "2"
+            ],
+            [
+                "Dibromocarbodiimide",
+                "Bromine",
+                "2",
+                "9"
+            ],
+            [
+                "Phosphorus Trichloride Mononitride",
+                "Phosphorus",
+                "1",
+                "5"
+            ]
+        ]
+    }
+}

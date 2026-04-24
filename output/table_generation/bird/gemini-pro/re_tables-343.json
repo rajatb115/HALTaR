@@ -1,0 +1,46 @@
+{
+    "table-343-343": {
+        "title": [
+            "Card Name",
+            "Mana Cost",
+            "Converted Mana Cost (CMC)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Magic: The Gathering Card Costs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the card names with value that cost more converted mana for the face.",
+        "data": [
+            [
+                "Black Lotus",
+                "0",
+                "0"
+            ],
+            [
+                "Mana Crypt",
+                "0",
+                "0"
+            ],
+            [
+                "Sol Ring",
+                "1",
+                "1"
+            ],
+            [
+                "Chrome Mox",
+                "0",
+                "0"
+            ],
+            [
+                "Mox Diamond",
+                "0",
+                "0"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-792-792": {
+        "title": [
+            "Superhero",
+            "Height (cm)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Superhero Height Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average height for each superhero.",
+        "data": [
+            [
+                "Superman",
+                "191"
+            ],
+            [
+                "Batman",
+                "188"
+            ],
+            [
+                "Wonder Woman",
+                "183"
+            ],
+            [
+                "Spider-Man",
+                "178"
+            ],
+            [
+                "Iron Man",
+                "185"
+            ]
+        ]
+    }
+}

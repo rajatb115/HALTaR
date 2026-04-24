@@ -1,0 +1,61 @@
+{
+    "table-513-513": {
+        "title": [
+            "Country Name",
+            "Population (Millions)",
+            "Continent",
+            "Capital City"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of the 3 most populated countries.",
+        "data": [
+            [
+                "China",
+                "1425",
+                "Asia",
+                "Beijing"
+            ],
+            [
+                "India",
+                "1428",
+                "Asia",
+                "New Delhi"
+            ],
+            [
+                "United States",
+                "334",
+                "North America",
+                "Washington D.C."
+            ],
+            [
+                "Indonesia",
+                "277",
+                "Asia",
+                "Jakarta"
+            ],
+            [
+                "Pakistan",
+                "240",
+                "Asia",
+                "Islamabad"
+            ],
+            [
+                "Brazil",
+                "216",
+                "South America",
+                "Bras\u00edlia"
+            ],
+            [
+                "Nigeria",
+                "223",
+                "Africa",
+                "Abuja"
+            ]
+        ]
+    }
+}

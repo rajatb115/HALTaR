@@ -1,0 +1,45 @@
+{
+    "table-684-684": {
+        "title": [
+            "Reputation Threshold",
+            "Number of Posts",
+            "Percentage of Total Posts"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Posts by High Reputation Users in 2011",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of posts whose owners had a reputation of over 1000 in 2011?",
+        "data": [
+            [
+                "> 1000",
+                "12345",
+                "12.35%"
+            ],
+            [
+                "> 5000",
+                "6789",
+                "6.79%"
+            ],
+            [
+                "> 10000",
+                "3456",
+                "3.46%"
+            ],
+            [
+                "> 25000",
+                "1234",
+                "1.23%"
+            ],
+            [
+                "> 50000",
+                "567",
+                "0.57%"
+            ]
+        ]
+    }
+}

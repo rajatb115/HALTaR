@@ -1,0 +1,58 @@
+{
+    "table-126-126": {
+        "title": [
+            "District",
+            "State",
+            "1995 Unemployment Rate (%)",
+            "1996 Unemployment Rate (%)",
+            "Percentage Point Change"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Unemployment Rate Changes by District (1995-1996)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For loans contracts which are still running where client are in debt, list the district of the and the state the percentage unemployment rate increment from year 1995 to 1996.",
+        "data": [
+            [
+                "District A",
+                "State X",
+                "5.2",
+                "5.8",
+                "0.6"
+            ],
+            [
+                "District B",
+                "State Y",
+                "6.1",
+                "6.5",
+                "0.4"
+            ],
+            [
+                "District C",
+                "State Z",
+                "4.8",
+                "5.5",
+                "0.7"
+            ],
+            [
+                "District D",
+                "State X",
+                "7.0",
+                "7.2",
+                "0.2"
+            ],
+            [
+                "District E",
+                "State Y",
+                "5.5",
+                "5.3",
+                "-0.2"
+            ]
+        ]
+    }
+}

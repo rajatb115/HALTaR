@@ -1,0 +1,62 @@
+{
+    "table-1075-1075": {
+        "title": [
+            "Team Name",
+            "Home Goals",
+            "Away Goals",
+            "Opponent",
+            "Match Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the short name of the football team that had a home team goal of 10?",
+        "data": [
+            [
+                "FC United",
+                "10",
+                "0",
+                "City Rovers",
+                "2023-10-21"
+            ],
+            [
+                "Green Stars",
+                "2",
+                "1",
+                "Blue United",
+                "2023-11-05"
+            ],
+            [
+                "Red Dragons",
+                "5",
+                "2",
+                "White Knights",
+                "2023-09-15"
+            ],
+            [
+                "Gold Eagles",
+                "10",
+                "1",
+                "Silver Foxes",
+                "2023-08-28"
+            ],
+            [
+                "Black Hawks",
+                "3",
+                "3",
+                "Grey Wolves",
+                "2023-12-01"
+            ],
+            [
+                "Sky Blues",
+                "10",
+                "0",
+                "Dark Knights",
+                "2023-06-20"
+            ]
+        ]
+    }
+}

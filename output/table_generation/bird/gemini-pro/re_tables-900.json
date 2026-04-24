@@ -1,0 +1,59 @@
+{
+    "table-900-900": {
+        "title": [
+            "Circuit Name",
+            "Country",
+            "Number of Races (1990-2000)",
+            "First Race (1990-2000)",
+            "Last Race (1990-2000)"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2,
+            3,
+            4
+        ],
+        "pgTitle": "Formula 1 Circuits Hosting 4 Races (1990-2000)",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List circuits which host 4 f1 races from year 1990 to 2000.",
+        "data": [
+            [
+                "Silverstone",
+                "UK",
+                "4",
+                "1990",
+                "2000"
+            ],
+            [
+                "Hungaroring",
+                "Hungary",
+                "4",
+                "1990",
+                "2000"
+            ],
+            [
+                "Hockenheimring",
+                "Germany",
+                "4",
+                "1990",
+                "2000"
+            ],
+            [
+                "Spa-Francorchamps",
+                "Belgium",
+                "4",
+                "1990",
+                "2000"
+            ],
+            [
+                "Monza",
+                "Italy",
+                "4",
+                "1990",
+                "2000"
+            ]
+        ]
+    }
+}

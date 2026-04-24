@@ -1,0 +1,45 @@
+{
+    "table-853-853": {
+        "title": [
+            "Race ID",
+            "Event Name",
+            "Country",
+            "Continent",
+            "Date Held",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many races in the year 2010 are held on grand prixs outside Asia and Europe?",
+        "data": [
+            [
+                "GP-BRA",
+                "Brazilian Grand Prix",
+                "Brazil",
+                "South America",
+                "March 28, 2024",
+                "Completed"
+            ],
+            [
+                "GP-MEX",
+                "Mexican Grand Prix",
+                "Mexico",
+                "North America",
+                "April 4, 2024",
+                "Cancelled"
+            ],
+            [
+                "US-GP",
+                "United States Grand Prix (Austin)",
+                "USA",
+                "North America",
+                "November 18, 2024",
+                "Planned"
+            ]
+        ]
+    }
+}

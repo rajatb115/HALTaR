@@ -1,0 +1,69 @@
+{
+    "table-534-534": {
+        "title": [
+            "User ID",
+            "Username",
+            "Last Access Date",
+            "Account Status",
+            "Total Logins"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users last accessed the website after 2014/9/1?",
+        "data": [
+            [
+                "101",
+                "user_alpha",
+                "2015-03-15",
+                "Active",
+                "125"
+            ],
+            [
+                "102",
+                "user_beta",
+                "2014-08-30",
+                "Inactive",
+                "45"
+            ],
+            [
+                "103",
+                "user_gamma",
+                "2016-11-01",
+                "Active",
+                "210"
+            ],
+            [
+                "104",
+                "user_delta",
+                "2013-07-22",
+                "Suspended",
+                "15"
+            ],
+            [
+                "105",
+                "user_epsilon",
+                "2014-09-05",
+                "Active",
+                "88"
+            ],
+            [
+                "106",
+                "user_zeta",
+                "2017-01-20",
+                "Active",
+                "301"
+            ],
+            [
+                "107",
+                "user_eta",
+                "2012-05-10",
+                "Inactive",
+                "7"
+            ]
+        ]
+    }
+}

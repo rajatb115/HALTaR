@@ -1,0 +1,39 @@
+{
+    "table-298-298": {
+        "title": [
+            "City",
+            "Zip Code"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Zip Codes by City",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the zip code of the address in the city Port Chelsea?",
+        "data": [
+            [
+                "Port Chelsea",
+                "91234"
+            ],
+            [
+                "New Port",
+                "10001"
+            ],
+            [
+                "Chelsea",
+                "02150"
+            ],
+            [
+                "Port Royal",
+                "32935"
+            ],
+            [
+                "Lake Chelsea",
+                "60015"
+            ]
+        ]
+    }
+}

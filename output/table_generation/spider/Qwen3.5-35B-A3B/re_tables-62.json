@@ -1,0 +1,48 @@
+{
+    "table-62-62": {
+        "title": [
+            "Model",
+            "Weight_kg",
+            "Average_Weight_kg"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the model of the car whose weight is below the average weight.",
+        "data": [
+            [
+                "Honda Civic",
+                "745",
+                "820"
+            ],
+            [
+                "Toyota Corolla",
+                "698",
+                "910"
+            ],
+            [
+                "Mazda MX-5 Miata",
+                "568",
+                ""
+            ],
+            [
+                "Fiat 500",
+                "465",
+                ""
+            ],
+            [
+                "Mini Cooper Hardtop",
+                "",
+                "0"
+            ],
+            [
+                "Smart Fortwo",
+                "",
+                ""
+            ]
+        ]
+    }
+}

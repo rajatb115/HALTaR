@@ -1,0 +1,77 @@
+{
+    "table-148-148": {
+        "title": [
+            "Client ID",
+            "Gender",
+            "Region",
+            "Account Type",
+            "Balance",
+            "Account Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female clients' accounts are in the region of South Bohemia?",
+        "data": [
+            [
+                "C001",
+                "Female",
+                "South Bohemia",
+                "Savings",
+                "15200.50",
+                "Active"
+            ],
+            [
+                "C002",
+                "Male",
+                "Central Bohemia",
+                "Checking",
+                "8750.25",
+                "Active"
+            ],
+            [
+                "C003",
+                "Female",
+                "South Bohemia",
+                "Investment",
+                "45000.00",
+                "Active"
+            ],
+            [
+                "C004",
+                "Female",
+                "Prague",
+                "Savings",
+                "22100.75",
+                "Active"
+            ],
+            [
+                "C005",
+                "Male",
+                "South Bohemia",
+                "Checking",
+                "12300.00",
+                "Inactive"
+            ],
+            [
+                "C006",
+                "Female",
+                "South Bohemia",
+                "Savings",
+                "9800.10",
+                "Active"
+            ],
+            [
+                "C007",
+                "Female",
+                "Plze\u0148 Region",
+                "Investment",
+                "67000.00",
+                "Active"
+            ]
+        ]
+    }
+}

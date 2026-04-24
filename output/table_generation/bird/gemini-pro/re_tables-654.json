@@ -1,0 +1,46 @@
+{
+    "table-654-654": {
+        "title": [
+            "Post ID",
+            "Display Name",
+            "Number of Likes"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Most Popular Post Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the owner's display name of the most popular post?",
+        "data": [
+            [
+                "123",
+                "JohnDoe",
+                "1500"
+            ],
+            [
+                "456",
+                "JaneSmith",
+                "1200"
+            ],
+            [
+                "789",
+                "PeterJones",
+                "900"
+            ],
+            [
+                "101",
+                "AliceBrown",
+                "750"
+            ],
+            [
+                "112",
+                "BobWilson",
+                "600"
+            ]
+        ]
+    }
+}

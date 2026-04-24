@@ -1,0 +1,55 @@
+{
+    "table-560-560": {
+        "title": [
+            "Date",
+            "Total Votes",
+            "Platform",
+            "Event ID",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicate the creation date of the maximum number of votes.",
+        "data": [
+            [
+                "24/06/2023",
+                "4520",
+                "Web Portal",
+                "EVT-101",
+                "Active"
+            ],
+            [
+                "25/07/2024",
+                "3890",
+                "Mobile App",
+                "EVT-MOB-22",
+                "Inactive"
+            ],
+            [
+                "01/08/2023",
+                "4100",
+                "SMS Gateway",
+                "EVT-SMS-09",
+                "Closed"
+            ],
+            [
+                "15/11/2022",
+                "3950",
+                "Kiosk Station",
+                "EKT-KIOSK-05",
+                "Stable"
+            ],
+            [
+                "30/09/2021",
+                "5102",
+                "Online Survey",
+                "SURV-LINE-88",
+                "Draft"
+            ]
+        ]
+    }
+}

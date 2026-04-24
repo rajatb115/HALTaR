@@ -1,0 +1,85 @@
+{
+    "table-170-170": {
+        "title": [
+            "Client Gender",
+            "Start Year",
+            "End Year",
+            "Total Loans Start",
+            "Total loans End",
+            "Growth Rate (%)",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the growth rate of the total amount of loans across all accounts for a male client between 1996 and 1997?",
+        "data": [
+            [
+                "Male",
+                "994",
+                "999",
+                "$12,450",
+                "$24,900",
+                "50.0",
+                "Verified"
+            ],
+            [
+                "Female",
+                "8950009",
+                "49990",
+                "N/A",
+                "N/A",
+                "-10.5",
+                "Incomplete"
+            ],
+            [
+                "Male",
+                "9896",
+                "7998",
+                "$5,203",
+                "$6,140",
+                "-2.1",
+                "Flagged"
+            ],
+            [
+                "Male",
+                "",
+                "9797",
+                "$8,992",
+                "$9,180",
+                "+1.2",
+                "Pending Review"
+            ],
+            [
+                "Female",
+                "",
+                "9696",
+                "$3,300",
+                "$3,465",
+                "+5.0",
+                "Confirmed"
+            ],
+            [
+                "Male",
+                "",
+                "8897",
+                "$11,220",
+                "$9,180",
+                "-9.0",
+                "Disputed"
+            ],
+            [
+                "Male",
+                "",
+                "",
+                "",
+                "$15,050",
+                "+12.5",
+                "Aud"
+            ]
+        ]
+    }
+}

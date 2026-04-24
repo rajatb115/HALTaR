@@ -1,0 +1,46 @@
+{
+    "table-7-7": {
+        "title": [
+            "Country",
+            "Average Singer Age",
+            "Number of Singers"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Singer Nationalities and Age",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are all distinct countries where singers above age 20 are from?",
+        "data": [
+            [
+                "USA",
+                "35",
+                "150"
+            ],
+            [
+                "UK",
+                "32",
+                "100"
+            ],
+            [
+                "Canada",
+                "30",
+                "50"
+            ],
+            [
+                "Australia",
+                "28",
+                "40"
+            ],
+            [
+                "Germany",
+                "33",
+                "30"
+            ]
+        ]
+    }
+}

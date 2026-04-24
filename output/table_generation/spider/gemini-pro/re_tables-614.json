@@ -1,0 +1,49 @@
+{
+    "table-614-614": {
+        "title": [
+            "First Name",
+            "Last Name",
+            "Email",
+            "State"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Owners residing in North-named states",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which owners live in the state whose name contains the substring 'North'? List his first name, last name and email.",
+        "data": [
+            [
+                "John",
+                "Smith",
+                "john.smith@example.com",
+                "North Carolina"
+            ],
+            [
+                "Alice",
+                "Johnson",
+                "alice.johnson@example.com",
+                "North Dakota"
+            ],
+            [
+                "Bob",
+                "Williams",
+                "bob.williams@example.com",
+                "North Carolina"
+            ],
+            [
+                "Eve",
+                "Brown",
+                "eve.brown@example.com",
+                "North Dakota"
+            ],
+            [
+                "Charlie",
+                "Davis",
+                "charlie.davis@example.com",
+                "North Carolina"
+            ]
+        ]
+    }
+}

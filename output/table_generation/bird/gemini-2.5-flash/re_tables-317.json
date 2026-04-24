@@ -1,0 +1,61 @@
+{
+    "table-317-317": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Carcinogenic Status",
+            "Primary Use/Category"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the molecules which contain \"c\" element, which of them are not carcinogenic?",
+        "data": [
+            [
+                "Methane",
+                "CH4",
+                "No",
+                "Fuel Gas"
+            ],
+            [
+                "Ethanol",
+                "C2H5OH",
+                "No",
+                "Solvent, Beverage Alcohol"
+            ],
+            [
+                "Glucose",
+                "C6H12O6",
+                "No",
+                "Energy Source, Sugar"
+            ],
+            [
+                "Carbon Dioxide",
+                "CO2",
+                "No",
+                "Photosynthesis, Carbonation"
+            ],
+            [
+                "Acetic Acid",
+                "CH3COOH",
+                "No",
+                "Vinegar Component, Reagent"
+            ],
+            [
+                "Urea",
+                "CH4N2O",
+                "No",
+                "Fertilizer, Animal Feed Additive"
+            ],
+            [
+                "Ascorbic Acid",
+                "C6H8O6",
+                "No",
+                "Vitamin, Antioxidant"
+            ]
+        ]
+    }
+}

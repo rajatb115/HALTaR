@@ -1,0 +1,45 @@
+{
+    "table-403-403": {
+        "title": [
+            "Card ID",
+            "Card Type",
+            "Has Text Box"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Story Spotlight Card Analysis",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of Story Spotlight cards that also have a text box? List them by their ID.",
+        "data": [
+            [
+                "123",
+                "Story Spotlight",
+                "Yes"
+            ],
+            [
+                "456",
+                "Story Spotlight",
+                "No"
+            ],
+            [
+                "789",
+                "Story Spotlight",
+                "Yes"
+            ],
+            [
+                "101",
+                "Story Spotlight",
+                "Yes"
+            ],
+            [
+                "112",
+                "Story Spotlight",
+                "No"
+            ]
+        ]
+    }
+}

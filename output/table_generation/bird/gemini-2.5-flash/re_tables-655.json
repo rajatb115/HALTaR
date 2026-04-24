@@ -1,0 +1,61 @@
+{
+    "table-655-655": {
+        "title": [
+            "User Display Name",
+            "User Location",
+            "Post Title",
+            "Post Tags"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Mention the display name and location of the user who owned the excerpt post with hypothesis-testing tag.",
+        "data": [
+            [
+                "DataWizard",
+                "San Francisco, CA",
+                "Understanding A/B Test Significance",
+                "hypothesis-testing, A/B-testing, statistics"
+            ],
+            [
+                "StatGuru",
+                "New York, NY",
+                "Bayesian vs. Frequentist Approaches",
+                "hypothesis-testing, bayesian, statistics"
+            ],
+            [
+                "ML_Analyst",
+                "London, UK",
+                "Power Analysis for Experiment Design",
+                "hypothesis-testing, experimental-design"
+            ],
+            [
+                "QuantQueen",
+                "Toronto, Canada",
+                "Non-parametric Tests Explained",
+                "hypothesis-testing, non-parametric, statistics"
+            ],
+            [
+                "ResearchRider",
+                "Berlin, Germany",
+                "Common Pitfalls in Hypothesis Testing",
+                "hypothesis-testing, common-errors, methodology"
+            ],
+            [
+                "CodeCruncher",
+                "Sydney, Australia",
+                "Implementing T-Tests in Python",
+                "hypothesis-testing, python, t-test"
+            ],
+            [
+                "InsightSeeker",
+                "Bangalore, India",
+                "Interpreting P-Values Correctly",
+                "hypothesis-testing, p-value, interpretation"
+            ]
+        ]
+    }
+}

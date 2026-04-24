@@ -1,0 +1,69 @@
+{
+    "table-62-62": {
+        "title": [
+            "Make",
+            "Model",
+            "Year",
+            "Weight (kg)",
+            "Fuel Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the model of the car whose weight is below the average weight.",
+        "data": [
+            [
+                "Toyota",
+                "Corolla",
+                "2021",
+                "1350",
+                "Petrol"
+            ],
+            [
+                "Honda",
+                "Civic",
+                "2022",
+                "1300",
+                "Petrol"
+            ],
+            [
+                "Tesla",
+                "Model 3",
+                "2023",
+                "1850",
+                "Electric"
+            ],
+            [
+                "Ford",
+                "Focus",
+                "2020",
+                "1400",
+                "Petrol"
+            ],
+            [
+                "BMW",
+                "3 Series",
+                "2021",
+                "1550",
+                "Diesel"
+            ],
+            [
+                "Hyundai",
+                "Elantra",
+                "2022",
+                "1280",
+                "Petrol"
+            ],
+            [
+                "Mercedes-Benz",
+                "C-Class",
+                "2023",
+                "1600",
+                "Petrol"
+            ]
+        ]
+    }
+}

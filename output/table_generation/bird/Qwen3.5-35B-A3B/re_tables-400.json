@@ -1,0 +1,85 @@
+{
+    "table-400-400": {
+        "title": [
+            "Card ID",
+            "Card Name",
+            "Rarity",
+            "Cost",
+            "Attack",
+            "Defense",
+            "Effect"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Lists all types of cards available in arena.",
+        "data": [
+            [
+                "C004",
+                "Ironclad Warrior",
+                "Common",
+                "3",
+                "4",
+                "6",
+                "Taunt"
+            ],
+            [
+                "C007",
+                "Arcane Mage",
+                "Rare",
+                "5",
+                "7",
+                "0",
+                "Spell Damage +1"
+            ],
+            [
+                "C102",
+                "Forest Guardian",
+                "Epic",
+                "8",
+                "9",
+                "",
+                "Heal 5 HP"
+            ],
+            [
+                "C215",
+                "Shadow Assassin",
+                "Legendary",
+                "10",
+                "12",
+                "",
+                "Night Stalker"
+            ],
+            [
+                "C301",
+                "Stone Golem",
+                "Uncommon",
+                "4",
+                "5",
+                "8",
+                "Rock Skin"
+            ],
+            [
+                "C409",
+                "Fire Drake",
+                "Rare",
+                "6",
+                "8",
+                "3",
+                "Burn Target"
+            ],
+            [
+                "C512",
+                "Holy Priestess",
+                "Common",
+                "",
+                "-",
+                "4",
+                "Revive Ally"
+            ]
+        ]
+    }
+}

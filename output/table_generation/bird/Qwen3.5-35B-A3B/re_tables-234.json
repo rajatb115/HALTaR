@@ -1,0 +1,34 @@
+{
+    "table-234-234": {
+        "title": [
+            "Molecule ID",
+            "Bond Event",
+            "Event Date",
+            "Partner Molecule",
+            "Interaction Strength"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list top two bonds that happened with the molecule TR006 in alphabetical order.",
+        "data": [
+            [
+                "TR004",
+                "Hydrogen Bond",
+                "2021-03-15",
+                "Protein X",
+                "High"
+            ],
+            [
+                "TR005",
+                "Salt Bridge",
+                "2019-07-22",
+                "Ligand Y",
+                "Medium"
+            ]
+        ]
+    }
+}

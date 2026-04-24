@@ -1,0 +1,69 @@
+{
+    "table-592-592": {
+        "title": [
+            "Treatment ID",
+            "Cost ($)",
+            "Description",
+            "Provider",
+            "Duration (min)",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the cost of each treatment and the corresponding treatment type description.",
+        "data": [
+            [
+                "T-1042",
+                "750.00",
+                "Initial diagnostic consultation for chronic pain management",
+                "Dr. Smith",
+                "60",
+                "Completed"
+            ],
+            [
+                "T-A339",
+                "420.50",
+                "Standard physical therapy session including manual manipulation",
+                "Clinic West",
+                "30",
+                "Scheduled"
+            ],
+            [
+                "B-2210",
+                "89.99",
+                "Over-the-counter anti-inflammatory medication pack",
+                "Pharmacy Plus",
+                "N/A",
+                "In Stock"
+            ],
+            [
+                "M-5561",
+                "5500.25",
+                "Minimally invasive spinal decompression surgery procedure",
+                "City General Hospital",
+                "90",
+                "Pending Approval"
+            ],
+            [
+                "R-0092",
+                "120.00",
+                "Weekly acupuncture series for stress relief and muscle tension",
+                "Holistic Care Center",
+                "0",
+                "Active Subscription"
+            ],
+            [
+                "D-7788",
+                "350.00",
+                "Dental deep cleaning and periodontal maintenance protocol",
+                "Bright Smile Dentistry",
+                "45",
+                "Completed"
+            ]
+        ]
+    }
+}

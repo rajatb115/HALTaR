@@ -1,0 +1,58 @@
+{
+    "table-1156-1156": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Birthday",
+            "LDH Level",
+            "Normal Range"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Patient Demographics with Elevated LDH",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the patient ID, sex and birthday of patient with LDH beyond normal range.",
+        "data": [
+            [
+                "12345",
+                "M",
+                "1965-03-15",
+                "250",
+                "100-220"
+            ],
+            [
+                "67890",
+                "F",
+                "1982-07-22",
+                "235",
+                "100-220"
+            ],
+            [
+                "24680",
+                "M",
+                "1990-11-01",
+                "280",
+                "100-220"
+            ],
+            [
+                "13579",
+                "F",
+                "1976-05-10",
+                "242",
+                "100-220"
+            ],
+            [
+                "98765",
+                "M",
+                "1958-09-18",
+                "268",
+                "100-220"
+            ]
+        ]
+    }
+}

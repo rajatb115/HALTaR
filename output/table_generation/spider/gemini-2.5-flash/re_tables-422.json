@@ -1,0 +1,41 @@
+{
+    "table-422-422": {
+        "title": [
+            "Contestant Number",
+            "Contestant Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the contestant numbers and names, ordered by contestant name descending.",
+        "data": [
+            [
+                "105",
+                "Sarah Johnson"
+            ],
+            [
+                "112",
+                "Robert Smith"
+            ],
+            [
+                "101",
+                "Olivia Brown"
+            ],
+            [
+                "108",
+                "Michael Davis"
+            ],
+            [
+                "103",
+                "Emily White"
+            ],
+            [
+                "106",
+                "David Green"
+            ]
+        ]
+    }
+}

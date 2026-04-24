@@ -1,0 +1,43 @@
+{
+    "table-228-228": {
+        "title": [
+            "Molecule ID",
+            "Chemical Class",
+            "Carcinogen Status",
+            "% Carcinogenic Risk",
+            "Source Category",
+            "Assessment Date",
+            "Confidence Level",
+            "Sample Size"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of molecules that are carcinogenic?",
+        "data": [
+            [
+                "MOL-A42",
+                "Polycyclic Hydrocarbon",
+                "Confirmed High",
+                "78.5%",
+                "Industrial Emission",
+                "2023-05-12",
+                "High",
+                "1500"
+            ],
+            [
+                "MOL-B19",
+                "Alkylating Agent",
+                "Probable Moderate",
+                "62.3%",
+                "Pharmaceutical Waste",
+                "2203-11-08",
+                "Medium",
+                "890"
+            ]
+        ]
+    }
+}

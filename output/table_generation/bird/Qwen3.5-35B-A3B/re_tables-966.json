@@ -1,0 +1,76 @@
+{
+    "table-966-966": {
+        "title": [
+            "Race ID",
+            "Event Name",
+            "Location",
+            "Date Held",
+            "Status",
+            "Category",
+            "Organizer"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the Id number of races which were hold in 2009.",
+        "data": [
+            [
+                "RAC-20901",
+                "Grand Prix de Paris",
+                "Paris, France",
+                "March 14, 2029",
+                "Completed",
+                "Formula E",
+                "FIA"
+            ],
+            [
+                "RAC-30722",
+                "Tokyo Night Run",
+                "Tokyo, Japan",
+                "April 22, 2009",
+                "Cancelled",
+                "Marathon",
+                "JAAF"
+            ],
+            [
+                "RAC-41056",
+                "Berlin Tech Summit",
+                "Berlin, Germany",
+                "May 05, 2010",
+                "Scheduled",
+                "Tech Conference",
+                "TIBCO"
+            ],
+            [
+                "RAC-50211",
+                "Mumbai Marathon",
+                "Mumbai, India",
+                "June 18, 2009",
+                "Postponed",
+                "Running Association",
+                "AIMA"
+            ],
+            [
+                "RAC-60334",
+                "London Eye Festival",
+                "London, UK",
+                "July 01, 2004",
+                "Ongoing",
+                "Arts Council",
+                "ACE"
+            ],
+            [
+                "RAC-70445",
+                "Sydney Opera Gala",
+                "Sydney, Australia",
+                "August 12, 2020",
+                "Rescheduled",
+                "Music Concert",
+                "NSW Arts"
+            ]
+        ]
+    }
+}

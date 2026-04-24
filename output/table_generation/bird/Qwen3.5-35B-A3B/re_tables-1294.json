@@ -1,0 +1,77 @@
+{
+    "table-1294-1294": {
+        "title": [
+            "Patient ID",
+            "Anti-Nucleus Antibody Level (U/mL)",
+            "Creatinine Level (mg/dL)",
+            "Status",
+            "Sample Date",
+            "Lab Result Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the highest anti-nucleus antibody concentration level of a patient with a normal creatinine level?",
+        "data": [
+            [
+                "P-1042",
+                "65.2",
+                "N/A",
+                "Normal Range",
+                "07/12/2023",
+                "ANA-HIGH"
+            ],
+            [
+                "P-1105",
+                "58.9",
+                "4.20",
+                "Elevated",
+                "7/22/1975",
+                "CRIT-ELEV"
+            ],
+            [
+                "P-1299",
+                "N/A",
+                "3.10",
+                "High Risk",
+                "8/01/1899",
+                ""
+            ],
+            [
+                "P-A003",
+                "92.4",
+                "0.85",
+                "Critical",
+                "12-05-2010",
+                ""
+            ],
+            [
+                "P-B881",
+                "",
+                "N/A",
+                "Pending Review",
+                "",
+                ""
+            ],
+            [
+                "C-0092",
+                "44.1",
+                "0.92",
+                "Low Positive",
+                "03/21/2024",
+                "POS-LW"
+            ],
+            [
+                "D-5510",
+                "71.3",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "table-1244-1244": {
+        "title": [
+            "Age Group",
+            "Gender",
+            "Abnormal PT Count",
+            "Total Count",
+            "Percentage with Abnormal PT"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Prothrombin Time (PT) Results by Age and Gender",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all patients who are older than 55 years old, what is the percentage of female who has abnormal prothrombin time (PT)?",
+        "data": [
+            [
+                "> 55",
+                "Female",
+                "15",
+                "100",
+                "15%"
+            ],
+            [
+                "> 55",
+                "Male",
+                "20",
+                "80",
+                "25%"
+            ],
+            [
+                "<= 55",
+                "Female",
+                "5",
+                "120",
+                "4.2%"
+            ],
+            [
+                "<= 55",
+                "Male",
+                "10",
+                "150",
+                "6.7%"
+            ],
+            [
+                "All",
+                "All",
+                "50",
+                "450",
+                "11.1%"
+            ]
+        ]
+    }
+}

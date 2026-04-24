@@ -1,0 +1,77 @@
+{
+    "table-399-399": {
+        "title": [
+            "Card Name",
+            "Illustrator",
+            "Mana Cost (Symbols)",
+            "Converted Mana Cost",
+            "Card Type",
+            "Set Name"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much unconverted mana do all the cards created by Rob Alexander cost in total?",
+        "data": [
+            [
+                "Birds of Paradise",
+                "Rob Alexander",
+                "{G}",
+                "1",
+                "Creature",
+                "Alpha"
+            ],
+            [
+                "Sol Ring",
+                "Rob Alexander",
+                "{1}",
+                "1",
+                "Artifact",
+                "Commander 2016"
+            ],
+            [
+                "Wasteland",
+                "Rob Alexander",
+                "N/A",
+                "0",
+                "Land",
+                "Tempest"
+            ],
+            [
+                "Dark Confidant",
+                "Rob Alexander",
+                "{1}{B}",
+                "2",
+                "Creature",
+                "Ravnica: City of Guilds"
+            ],
+            [
+                "Sensei's Divining Top",
+                "Rob Alexander",
+                "{1}",
+                "1",
+                "Artifact",
+                "Champions of Kamigawa"
+            ],
+            [
+                "Lightning Bolt",
+                "Rob Alexander",
+                "{R}",
+                "1",
+                "Instant",
+                "Magic 2010"
+            ],
+            [
+                "Forest",
+                "Rob Alexander",
+                "N/A",
+                "0",
+                "Basic Land",
+                "Zendikar"
+            ]
+        ]
+    }
+}

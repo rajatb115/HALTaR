@@ -1,0 +1,69 @@
+{
+    "table-376-376": {
+        "title": [
+            "Card ID",
+            "Card Name",
+            "Converted Mana Cost",
+            "Card Type",
+            "Color"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down all the card IDs with converted mana cost of 0.",
+        "data": [
+            [
+                "1001",
+                "Ornithopter",
+                "0",
+                "Artifact Creature",
+                "Colorless"
+            ],
+            [
+                "1002",
+                "Memnite",
+                "0",
+                "Artifact Creature",
+                "Colorless"
+            ],
+            [
+                "1003",
+                "Mox Opal",
+                "0",
+                "Legendary Artifact",
+                "Colorless"
+            ],
+            [
+                "1004",
+                "Lotus Petal",
+                "0",
+                "Artifact",
+                "Colorless"
+            ],
+            [
+                "1005",
+                "Shield Sphere",
+                "0",
+                "Artifact Creature",
+                "Colorless"
+            ],
+            [
+                "1006",
+                "Tormod's Crypt",
+                "0",
+                "Artifact",
+                "Colorless"
+            ],
+            [
+                "1007",
+                "Mishra's Bauble",
+                "0",
+                "Artifact",
+                "Colorless"
+            ]
+        ]
+    }
+}

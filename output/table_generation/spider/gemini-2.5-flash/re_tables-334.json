@@ -1,0 +1,77 @@
+{
+    "table-334-334": {
+        "title": [
+            "Student ID",
+            "Student Name",
+            "Street Address",
+            "City",
+            "Zip Code",
+            "Residence Type"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different addresses do the students currently live?",
+        "data": [
+            [
+                "1001",
+                "Alice Smith",
+                "123 University Ave",
+                "Campus City",
+                "90210",
+                "Dorm"
+            ],
+            [
+                "1002",
+                "Bob Johnson",
+                "45 Elm St, Apt 3B",
+                "Campus City",
+                "90211",
+                "Apartment"
+            ],
+            [
+                "1003",
+                "Carol White",
+                "789 Oak Ln",
+                "Westville",
+                "90212",
+                "House"
+            ],
+            [
+                "1004",
+                "David Green",
+                "10 Pine St, Unit 1",
+                "Campus City",
+                "90211",
+                "Apartment"
+            ],
+            [
+                "1005",
+                "Emily Brown",
+                "10 Pine St, Unit 1",
+                "Campus City",
+                "90211",
+                "Apartment"
+            ],
+            [
+                "1006",
+                "Frank Black",
+                "22 Maple Dr",
+                "Northwood",
+                "90213",
+                "House"
+            ],
+            [
+                "1007",
+                "Grace Lee",
+                "33 Cedar Rd, Apt 5",
+                "Campus City",
+                "90211",
+                "Apartment"
+            ]
+        ]
+    }
+}

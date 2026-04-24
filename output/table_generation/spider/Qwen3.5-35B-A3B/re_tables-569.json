@@ -1,0 +1,77 @@
+{
+    "table-569-569": {
+        "title": [
+            "Student ID",
+            "Full Name",
+            "Has Friends",
+            "Is Liked By Peers",
+            "Grade Level",
+            "School District"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of high schoolers who both have friends and are liked?",
+        "data": [
+            [
+                "HS-1042",
+                "Liam Johnson",
+                "Yes",
+                "High",
+                "9th",
+                "Northside Unified"
+            ],
+            [
+                "HS-1156",
+                "Olivia Martinez",
+                "Yes",
+                "Moderate",
+                "7th",
+                "Westview Academy"
+            ],
+            [
+                "HS-2033",
+                "Noah Williams",
+                "Yes",
+                "Low",
+                "8th",
+                "Eastgate Middle"
+            ],
+            [
+                "",
+                "Emily Davis",
+                "No",
+                "N/A",
+                "6th",
+                "Southpark Elementary"
+            ],
+            [
+                "HR-3091",
+                "Ava Thompson",
+                "Yes",
+                "Very High",
+                "Senior",
+                "Central Heights"
+            ],
+            [
+                "HR-4102",
+                "Mason Brown",
+                "Yes",
+                "Average",
+                "Junior",
+                "Riverside Prep"
+            ],
+            [
+                "HF-5218",
+                "Sophia Garcia",
+                "Yes",
+                "Strong",
+                "Sophomore",
+                "Oakwood Hills"
+            ]
+        ]
+    }
+}

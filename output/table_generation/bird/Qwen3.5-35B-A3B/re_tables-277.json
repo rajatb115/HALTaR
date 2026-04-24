@@ -1,0 +1,85 @@
+{
+    "table-277-277": {
+        "title": [
+            "Molecule ID",
+            "Bond Type",
+            "Atom ID 1",
+            "Atom Atom 2",
+            "Distance (\u00c5)",
+            "Charge",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write down the atom IDs of the first and second atoms of triple bond type molecules.",
+        "data": [
+            [
+                "MOL_0042",
+                "Triple Bond",
+                "C_7",
+                "C_B",
+                "1.20",
+                "-0.12",
+                "Stable"
+            ],
+            [
+                "RIBO_119",
+                "Triple Nitrile",
+                "N_3",
+                "C_A",
+                "116",
+                "+0.05",
+                "Active"
+            ],
+            [
+                ">ACET_088",
+                "Triple Alkyne",
+                "H_C",
+                "C_D",
+                "122",
+                "-008",
+                "Pending"
+            ],
+            [
+                ">CARBON_X",
+                "Triple Link",
+                "Fe_1",
+                "Co_2",
+                "135",
+                "+1.50",
+                "Unstable"
+            ],
+            [
+                ">GAS_99A",
+                "Triple Gas",
+                "Ar_4",
+                "Kr_5",
+                "140",
+                "0.22",
+                "Inert"
+            ],
+            [
+                ">SULFUR_ZZ",
+                "Triple Sulfur",
+                "S_9",
+                "P_10",
+                "155",
+                "-045",
+                "Reactive"
+            ],
+            [
+                ">NITROGEN_QQ",
+                "Triple Nitro",
+                "N_N",
+                "N_O",
+                "160",
+                "",
+                ""
+            ]
+        ]
+    }
+}

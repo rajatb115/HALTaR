@@ -1,0 +1,69 @@
+{
+    "table-658-658": {
+        "title": [
+            "Property Name",
+            "Property Type",
+            "Number of Rooms",
+            "Location",
+            "Listing Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of properties that are either houses or apartments with more than 1 room?",
+        "data": [
+            [
+                "The Grandview House",
+                "House",
+                "5",
+                "Suburbia Heights",
+                "Available"
+            ],
+            [
+                "City Center Loft",
+                "Apartment",
+                "2",
+                "Downtown Core",
+                "Pending"
+            ],
+            [
+                "Willow Creek Residence",
+                "House",
+                "4",
+                "Green Valley",
+                "Available"
+            ],
+            [
+                "Harbor View Condo",
+                "Apartment",
+                "3",
+                "Waterfront District",
+                "Available"
+            ],
+            [
+                "Oakwood Manor",
+                "House",
+                "6",
+                "Residential Park",
+                "Sold"
+            ],
+            [
+                "Parkside Apartment",
+                "Apartment",
+                "2",
+                "Near Central Park",
+                "Available"
+            ],
+            [
+                "Hilltop Estate",
+                "House",
+                "7",
+                "Mountain View",
+                "Available"
+            ]
+        ]
+    }
+}

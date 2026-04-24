@@ -1,0 +1,76 @@
+{
+    "table-551-551": {
+        "title": [
+            "Student ID",
+            "Full Name",
+            "Grade Level",
+            "GPA",
+            "Attendance Rate",
+            "Major Subject",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names and grades for each high schooler?",
+        "data": [
+            [
+                "HS-1042",
+                "Liam Johnson",
+                "9th",
+                "3.6",
+                "0.97",
+                "Mathematics",
+                "Active"
+            ],
+            [
+                "HS-1155",
+                "Emma Davis",
+                "8th",
+                "N/A",
+                "4.2",
+                "Science",
+                "Transfer Pending"
+            ],
+            [
+                "HS-2033",
+                "Noah Williams",
+                "7th",
+                "",
+                "5.1",
+                "History",
+                "Suspended"
+            ],
+            [
+                "HS-3012",
+                "Olivia Brown",
+                "6th",
+                "",
+                "",
+                "English",
+                "Expelled"
+            ],
+            [
+                "HS-4098",
+                "Ava Miller",
+                "5th",
+                "",
+                "",
+                "Math",
+                "Withdrawn"
+            ],
+            [
+                "HS-5021",
+                "Ethan Wilson",
+                "High School",
+                "",
+                "",
+                "Art",
+                "Probation"
+            ]
+        ]
+    }
+}

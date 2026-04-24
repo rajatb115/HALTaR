@@ -1,0 +1,45 @@
+{
+    "table-1150-1150": {
+        "title": [
+            "Admission Type",
+            "Gender",
+            "Patient Count",
+            "Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Patient Demographics by Admission Type",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Are there more in-patient or outpatient who were male? What is the deviation in percentage?",
+        "data": [
+            [
+                "In-patient",
+                "Male",
+                "1200",
+                "55%"
+            ],
+            [
+                "In-patient",
+                "Female",
+                "980",
+                "45%"
+            ],
+            [
+                "Outpatient",
+                "Male",
+                "1500",
+                "62%"
+            ],
+            [
+                "Outpatient",
+                "Female",
+                "920",
+                "38%"
+            ]
+        ]
+    }
+}

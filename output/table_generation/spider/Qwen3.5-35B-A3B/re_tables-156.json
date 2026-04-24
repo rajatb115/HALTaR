@@ -1,0 +1,76 @@
+{
+    "table-156-156": {
+        "title": [
+            "Employee ID",
+            "Full Name",
+            "Department",
+            "Total Evaluations",
+            "Awards Received",
+            "Last Evaluation Date",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the names of employees who never won any award in the evaluation.",
+        "data": [
+            [
+                "E1042",
+                "Sarah Jenkins",
+                "Marketing",
+                "6",
+                "None",
+                "07/15/2023",
+                "Active"
+            ],
+            [
+                "E1055",
+                "Michael Chen",
+                "Engineering",
+                "4",
+                "None",
+                "08/22/2023",
+                ""
+            ],
+            [
+                "",
+                "",
+                "Sales",
+                "20",
+                "None",
+                "12/01/2023",
+                "Active"
+            ],
+            [
+                "E1109",
+                "Jessica Lee",
+                "HR",
+                "5",
+                "None",
+                "03/10/2024",
+                "Inactive"
+            ],
+            [
+                "E2033",
+                "David Ross",
+                "Operations",
+                "7",
+                "None",
+                "01/01/2020",
+                "Active"
+            ],
+            [
+                "E1145",
+                "Amanda White",
+                "Finance",
+                "5",
+                "None",
+                "",
+                ""
+            ]
+        ]
+    }
+}

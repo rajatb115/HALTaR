@@ -1,0 +1,77 @@
+{
+    "table-1458-1458": {
+        "title": [
+            "Member Full Name",
+            "Contact Number",
+            "Expense Category",
+            "Amount Spent ($)",
+            "Category Average ($)",
+            "Above Average"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the full name and contact number of members who had to spend more than average on each expense.",
+        "data": [
+            [
+                "John Doe",
+                "555-123-4567",
+                "Groceries",
+                "350.00",
+                "300.00",
+                "Yes"
+            ],
+            [
+                "John Doe",
+                "555-123-4567",
+                "Utilities",
+                "180.00",
+                "150.00",
+                "Yes"
+            ],
+            [
+                "Jane Smith",
+                "555-987-6543",
+                "Entertainment",
+                "120.00",
+                "100.00",
+                "Yes"
+            ],
+            [
+                "Peter Jones",
+                "555-111-2222",
+                "Transportation",
+                "280.00",
+                "250.00",
+                "Yes"
+            ],
+            [
+                "Alice Brown",
+                "555-333-4444",
+                "Dining Out",
+                "130.00",
+                "110.00",
+                "Yes"
+            ],
+            [
+                "Robert White",
+                "555-555-6666",
+                "Groceries",
+                "380.00",
+                "300.00",
+                "Yes"
+            ],
+            [
+                "Emily Green",
+                "555-777-8888",
+                "Utilities",
+                "170.00",
+                "150.00",
+                "Yes"
+            ]
+        ]
+    }
+}

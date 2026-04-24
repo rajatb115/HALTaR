@@ -1,0 +1,85 @@
+{
+    "table-338-338": {
+        "title": [
+            "Molecule ID",
+            "Element Symbol",
+            "Bond Type",
+            "Bond Length (\u00c5)",
+            "Atom Index",
+            "Connectivity",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the element and bond type included in the molecule with molecule ID of TR016.",
+        "data": [
+            [
+                "TR017",
+                "C",
+                "Single",
+                "1.54",
+                "1",
+                "A-B",
+                "Active"
+            ],
+            [
+                "TR018",
+                "O",
+                "Double",
+                "1.21",
+                "2",
+                "B-C",
+                "Stable"
+            ],
+            [
+                "R019",
+                "H",
+                "Single",
+                "1.09",
+                "3",
+                "D-A",
+                "Pending"
+            ],
+            [
+                "S020",
+                "Cl",
+                "Ionic",
+                "2.36",
+                "4",
+                "E-F",
+                "Confirmed"
+            ],
+            [
+                "U021",
+                "Ru",
+                "Coordinate",
+                "2.15",
+                "5",
+                "G-H",
+                "Experimental"
+            ],
+            [
+                "V022",
+                "P",
+                "Triple",
+                "1.13",
+                "6",
+                "I-J",
+                "Theoretical"
+            ],
+            [
+                "W023",
+                "Fe",
+                "Metallic",
+                "2.48",
+                "7",
+                "K-L",
+                "Synthesized"
+            ]
+        ]
+    }
+}

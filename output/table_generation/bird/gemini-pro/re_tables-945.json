@@ -1,0 +1,41 @@
+{
+    "table-945-945": {
+        "title": [
+            "Driver",
+            "Position",
+            "Time (seconds)",
+            "Time Difference from Winner (seconds)",
+            "Percentage Slower than Winner"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "2008 Australian Grand Prix Results and Speed Comparison",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much faster in percentage is the champion than the driver who finished the race last in the 2008 Australian Grand Prix?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "1",
+                "5716.584",
+                "0.000",
+                "0.00%"
+            ],
+            [
+                "Rubens Barrichello",
+                "18",
+                "5883.857",
+                "167.273",
+                "2.93%"
+            ],
+            [
+                "**Difference**",
+                "",
+                "",
+                "**167.273**",
+                "**2.93%**"
+            ]
+        ]
+    }
+}

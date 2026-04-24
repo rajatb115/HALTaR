@@ -1,0 +1,39 @@
+{
+    "table-626-626": {
+        "title": [
+            "Charge Type",
+            "Cost (USD)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Charge Type Costs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much does the most expensive charge type costs?",
+        "data": [
+            [
+                "Overage",
+                "10.00"
+            ],
+            [
+                "Data",
+                "7.50"
+            ],
+            [
+                "Late Fee",
+                "5.00"
+            ],
+            [
+                "Activation",
+                "2.50"
+            ],
+            [
+                "Usage",
+                "1.00"
+            ]
+        ]
+    }
+}

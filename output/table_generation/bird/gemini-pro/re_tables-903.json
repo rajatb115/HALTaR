@@ -1,0 +1,46 @@
+{
+    "table-903-903": {
+        "title": [
+            "Race Name",
+            "Year",
+            "Track Number"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Alex Yoong's Racing History",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which race was Alex Yoong in when he was in track number less than 10?",
+        "data": [
+            [
+                "Malaysian Grand Prix",
+                "2002",
+                "1"
+            ],
+            [
+                "Australian Grand Prix",
+                "2002",
+                "3"
+            ],
+            [
+                "Spanish Grand Prix",
+                "2002",
+                "5"
+            ],
+            [
+                "San Marino Grand Prix",
+                "2002",
+                "7"
+            ],
+            [
+                "British Grand Prix",
+                "2002",
+                "9"
+            ]
+        ]
+    }
+}

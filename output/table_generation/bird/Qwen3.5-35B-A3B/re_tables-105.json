@@ -1,0 +1,67 @@
+{
+    "table-105-105": {
+        "title": [
+            "Transaction ID",
+            "Amount",
+            "Date",
+            "Account Number",
+            "Status",
+            "Opened Date",
+            "Branch Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "The transaction of 840 USD happened in 1998/10/14, when was this account opened?",
+        "data": [
+            [
+                "TXN_8492",
+                "$84.00",
+                "9/12/1976",
+                "ACC_1002",
+                "Completed",
+                "N/A",
+                "BR_05"
+            ],
+            [
+                "TXM_8501",
+                "$841.50",
+                "10-14-1955",
+                "ACC_1923",
+                "Pending",
+                "N/A",
+                "BR_02"
+            ],
+            [
+                "TRX_8399",
+                "$83.90",
+                "Oct 14 1898",
+                "ACC_AZ99",
+                "Completed",
+                "N/A",
+                "BR_CENTRAL"
+            ],
+            [
+                "TID_8842",
+                "$8,400.01",
+                "1944-01-02",
+                "ACC_XY11",
+                "Failed",
+                "N/A",
+                "BR_WEST"
+            ],
+            [
+                "TXF_8900",
+                "$8.40",
+                "Nov 15 1776",
+                "ACC_BETA",
+                "Refunded",
+                "N/A",
+                "BR_NORTH"
+            ]
+        ]
+    }
+}

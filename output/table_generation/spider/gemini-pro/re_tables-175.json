@@ -1,0 +1,51 @@
+{
+    "table-175-175": {
+        "title": [
+            "Template ID",
+            "Status",
+            "Last Modified",
+            "Created Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Unused Template IDs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the ids for templates that are not used in any documents?",
+        "data": [
+            [
+                "123",
+                "Active",
+                "2023-10-26",
+                "2023-10-20"
+            ],
+            [
+                "456",
+                "Active",
+                "2023-10-27",
+                "2023-10-21"
+            ],
+            [
+                "789",
+                "Inactive",
+                "2023-10-28",
+                "2023-10-22"
+            ],
+            [
+                "101",
+                "Active",
+                "2023-10-29",
+                "2023-10-23"
+            ],
+            [
+                "112",
+                "Deprecated",
+                "2023-10-30",
+                "2023-10-24"
+            ]
+        ]
+    }
+}

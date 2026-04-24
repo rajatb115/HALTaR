@@ -1,0 +1,37 @@
+{
+    "table-571-571": {
+        "title": [
+            "Display Name",
+            "Badge Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "User Badges",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the user whose display name is \"DatEpicCoderGuyWhoPrograms\", what is his/her badge's name?",
+        "data": [
+            [
+                "DatEpicCoderGuyWhoPrograms",
+                "Gold Badge"
+            ],
+            [
+                "JohnDoe",
+                "Silver Badge"
+            ],
+            [
+                "JaneSmith",
+                "Bronze Badge"
+            ],
+            [
+                "AnotherUser",
+                "Silver Badge"
+            ],
+            [
+                "CodingMaster",
+                "Gold Badge"
+            ]
+        ]
+    }
+}

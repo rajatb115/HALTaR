@@ -1,0 +1,55 @@
+{
+    "table-1404-1404": {
+        "title": [
+            "Event Name",
+            "Status",
+            "Budget",
+            "Actual Cost",
+            "Cost Overrun"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Events Exceeding Budget",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicate the name of the closed event whose cost has exceeded the budget the most.",
+        "data": [
+            [
+                "Conference A",
+                "Closed",
+                "$10,000",
+                "$12,000",
+                "$2,000"
+            ],
+            [
+                "Workshop B",
+                "Open",
+                "$5,000",
+                "$4,500",
+                "-$500"
+            ],
+            [
+                "Seminar C",
+                "Closed",
+                "$2,000",
+                "$3,000",
+                "$1,000"
+            ],
+            [
+                "Training D",
+                "Closed",
+                "$1,000",
+                "$1,500",
+                "$500"
+            ],
+            [
+                "Summit E",
+                "Open",
+                "$15,000",
+                "$14,000",
+                "-$1,000"
+            ]
+        ]
+    }
+}

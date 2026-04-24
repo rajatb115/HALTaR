@@ -1,0 +1,67 @@
+{
+    "table-83-83": {
+        "title": [
+            "Car Model",
+            "Manufacturer",
+            "Fuel Economy MPG",
+            "Engine Size Liters",
+            "Release Year",
+            "Body Style",
+            "Price USD"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the car model with the highest mpg ?",
+        "data": [
+            [
+                "Toyota Prius",
+                "Toyota",
+                "54",
+                "0.67",
+                "4-cylinder",
+                "Hybrid Sedan",
+                "$27,450"
+            ],
+            [
+                "Honda Insight",
+                "Honda",
+                "36",
+                "6-cylinder",
+                "7-cylinder",
+                "Sedan Hatchback",
+                "$30,000"
+            ],
+            [
+                "Hyundai Ioniq",
+                "Hyundai",
+                "88",
+                "9-cylinder",
+                "Electric",
+                "SUV",
+                "$40,500"
+            ],
+            [
+                "Chevrolet Volt",
+                "Chevrolet",
+                "42",
+                "Plug-in Hybrid",
+                "Crossover",
+                "",
+                "$35,090"
+            ],
+            [
+                "Kia Niro EV",
+                "Kia",
+                "120",
+                "Battery Electric",
+                "Compact",
+                "N/A",
+                "$60,900"
+            ]
+        ]
+    }
+}

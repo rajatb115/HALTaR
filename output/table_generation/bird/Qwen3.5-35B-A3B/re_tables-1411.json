@@ -1,0 +1,34 @@
+{
+    "table-1411-1411": {
+        "title": [
+            "Member ID",
+            "Full Name",
+            "Total Cost ($)",
+            "Transaction Date",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the full name and total cost that member id \"rec4BLdZHS2Blfp4v\" incurred?",
+        "data": [
+            [
+                "rec4BLDzHS2BfP4V",
+                "Alice M. Johnson",
+                "452.75",
+                "6/12/2023",
+                "Completed"
+            ],
+            [
+                "rec4bLDzhS2bfp4v",
+                "Robert T. Smith",
+                "389.20",
+                "7/01/23",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-1453-1453": {
+        "title": [
+            "Position",
+            "Average Amount Paid"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Average Amount Paid by Students in Different Positions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average amount paid by students in a position other than a member?",
+        "data": [
+            [
+                "Intern",
+                "$15.00/hour"
+            ],
+            [
+                "Teaching Assistant",
+                "$20.00/hour"
+            ],
+            [
+                "Research Assistant",
+                "$18.00/hour"
+            ],
+            [
+                "Student Worker",
+                "$12.50/hour"
+            ],
+            [
+                "Tutor",
+                "$16.00/hour"
+            ]
+        ]
+    }
+}

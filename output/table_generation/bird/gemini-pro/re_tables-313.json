@@ -1,0 +1,37 @@
+{
+    "table-313-313": {
+        "title": [
+            "Bond ID",
+            "Carcinogenic Label"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Carcinogen Information for Chemical Bonds",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the carcinogenic label for bond TR001_2_4?",
+        "data": [
+            [
+                "TR001_1_1",
+                "Non-carcinogenic"
+            ],
+            [
+                "TR001_2_4",
+                "Carcinogenic"
+            ],
+            [
+                "TR002_1_2",
+                "Probably Carcinogenic"
+            ],
+            [
+                "TR003_4_5",
+                "Possibly Carcinogenic"
+            ],
+            [
+                "TR004_2_2",
+                "Non-carcinogenic"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-403-403": {
+        "title": [
+            "Player Name",
+            "Total Earnings",
+            "Major Titles",
+            "Country",
+            "First Win Year",
+            "Last Active"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the names of poker players who have earnings above 300000.",
+        "data": [
+            [
+                "Daniel Negreanu",
+                "$46,789,234",
+                "6",
+                "Canada",
+                "1999",
+                "2000"
+            ],
+            [
+                "Phil Ivey",
+                "$25,934,120",
+                "7",
+                "USA",
+                "1988",
+                "2005"
+            ],
+            [
+                "Brynn Kenney",
+                "$12,456,890",
+                "N/A",
+                "Australia",
+                "2004",
+                "N/A"
+            ],
+            [
+                "Liv Boeree",
+                "$3,876,543",
+                "3",
+                "UK",
+                "",
+                ""
+            ],
+            [
+                "Erick Lindgren",
+                "$5,210,987",
+                "N/A",
+                "USA",
+                "",
+                "2000"
+            ],
+            [
+                "Jason DeWitt",
+                "$6,102,345",
+                "None",
+                "USA",
+                "",
+                "2000"
+            ],
+            [
+                "Joe Hachem",
+                "$7,567,112",
+                "Yes",
+                "Lebanon",
+                "",
+                "No"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-1197-1197": {
+        "title": [
+            "Symptom",
+            "Prevalence (%)",
+            "Category",
+            "Description"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the most common sign of patients with SLE disease?",
+        "data": [
+            [
+                "Fatigue",
+                "90",
+                "Systemic",
+                "Persistent tiredness, not relieved by rest"
+            ],
+            [
+                "Arthralgia/Arthritis",
+                "95",
+                "Musculoskeletal",
+                "Joint pain or inflammation, often symmetrical"
+            ],
+            [
+                "Malar Rash",
+                "45",
+                "Dermatologic",
+                "Butterfly-shaped rash across cheeks and nose bridge"
+            ],
+            [
+                "Photosensitivity",
+                "55",
+                "Dermatologic",
+                "Increased skin sensitivity to sunlight"
+            ],
+            [
+                "Hair Loss",
+                "60",
+                "Dermatologic",
+                "Diffuse or patchy hair thinning"
+            ],
+            [
+                "Oral Ulcers",
+                "40",
+                "Mucosal",
+                "Painless sores in the mouth or nose"
+            ],
+            [
+                "Fever",
+                "65",
+                "Systemic",
+                "Unexplained low-grade fever"
+            ],
+            [
+                "Raynaud's Phenomenon",
+                "25",
+                "Vascular",
+                "Fingers/toes turn white/blue in cold/stress"
+            ]
+        ]
+    }
+}

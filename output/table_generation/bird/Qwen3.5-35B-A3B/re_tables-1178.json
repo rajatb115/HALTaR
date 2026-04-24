@@ -1,0 +1,83 @@
+{
+    "table-1178-1178": {
+        "title": [
+            "Patient ID",
+            "Date",
+            "Total Cholesterol (mg/dL)",
+            "Status",
+            "Reference Range Low",
+            "Reference High",
+            "Test Method",
+            "Lab Code"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Was the total cholesterol status for the patient id 2927464 on 1995-9-4 at the normal level?",
+        "data": [
+            [
+                "2789102",
+                "9/4/1955",
+                "420",
+                "Abnormal",
+                "0",
+                "500",
+                "Enzymatic",
+                "LAB-A1"
+            ],
+            [
+                "2790115",
+                "9/5/1555",
+                "380",
+                "Normal",
+                "0",
+                "50",
+                "Enzymatic",
+                "LAB-B2"
+            ],
+            [
+                "2918223",
+                "9/3/1655",
+                "",
+                "Abnormal",
+                "0",
+                "-",
+                "Manual",
+                "LAB-C3"
+            ],
+            [
+                "**29****27****46****4**",
+                "**9/****4/**19**55**",
+                "**190**",
+                "**Normal**",
+                "0",
+                "20",
+                "Automated",
+                "LAB-D4"
+            ],
+            [
+                "3012334",
+                "9//1755",
+                "",
+                "",
+                "",
+                "",
+                "Colorimetric",
+                "LAB-E5"
+            ],
+            [
+                "1928445",
+                "9///1855",
+                "-",
+                "Pending",
+                "0",
+                "",
+                "Spectrophotometric",
+                ""
+            ]
+        ]
+    }
+}

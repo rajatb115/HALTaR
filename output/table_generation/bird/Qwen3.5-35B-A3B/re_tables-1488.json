@@ -1,0 +1,55 @@
+{
+    "table-1488-1488": {
+        "title": [
+            "Customer ID",
+            "Currency",
+            "Consumption Oct 2",
+            "Region",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which LAM customer used the Euro as their currency and had the highest consumption in October 2013?",
+        "data": [
+            [
+                "CUST_4021",
+                "EUR",
+                "450 MWh",
+                "Germany",
+                "Active"
+            ],
+            [
+                "CUSTA_7732",
+                "GBP",
+                "320 MWh",
+                "UK",
+                "Inactive"
+            ],
+            [
+                "CUS_T991",
+                "USD",
+                "610 kWh",
+                "USA",
+                "Pending"
+            ],
+            [
+                "LAMBDA_EU",
+                "EUR",
+                "445 MWh",
+                "France",
+                "Suspended"
+            ],
+            [
+                "LAM_CENTRAL",
+                "EUR",
+                "380 MWh",
+                "Spain",
+                "Active"
+            ]
+        ]
+    }
+}

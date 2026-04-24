@@ -1,0 +1,69 @@
+{
+    "table-98-98": {
+        "title": [
+            "Client Name",
+            "Client Type",
+            "Statement Issuance",
+            "Last Transaction Date",
+            "Account Manager"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the clients who choose statement of issuance after transaction are Disponent?",
+        "data": [
+            [
+                "Global Holdings Inc.",
+                "Disponent",
+                "After Transaction",
+                "2023-10-26",
+                "Sarah Chen"
+            ],
+            [
+                "Apex Financial Group",
+                "Custodian",
+                "Monthly",
+                "2023-10-20",
+                "Mark Johnson"
+            ],
+            [
+                "Zenith Capital Partners",
+                "Disponent",
+                "After Transaction",
+                "2023-10-25",
+                "Sarah Chen"
+            ],
+            [
+                "Horizon Investments LLC",
+                "Brokerage",
+                "Quarterly",
+                "2023-09-30",
+                "Emily White"
+            ],
+            [
+                "Stellar Asset Management",
+                "Disponent",
+                "On Demand",
+                "2023-10-22",
+                "Mark Johnson"
+            ],
+            [
+                "Pioneer Wealth Advisors",
+                "Individual",
+                "Monthly",
+                "2023-10-18",
+                "David Lee"
+            ],
+            [
+                "Quantum Solutions Group",
+                "Disponent",
+                "After Transaction",
+                "2023-10-27",
+                "Emily White"
+            ]
+        ]
+    }
+}

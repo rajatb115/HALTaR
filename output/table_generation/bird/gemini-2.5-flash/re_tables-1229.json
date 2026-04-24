@@ -1,0 +1,69 @@
+{
+    "table-1229-1229": {
+        "title": [
+            "Patient ID",
+            "Patient Name",
+            "Primary Diagnosis",
+            "Triglyceride (mg/dL)",
+            "TG Status",
+            "Test Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide list of patients and their diagnosis with triglyceride (TG) index greater than 100 of the normal range?",
+        "data": [
+            [
+                "P001",
+                "Alice Smith",
+                "Hyperlipidemia",
+                "285",
+                "High",
+                "2023-10-15"
+            ],
+            [
+                "P002",
+                "Bob Johnson",
+                "Type 2 Diabetes",
+                "350",
+                "Very High",
+                "2023-11-01"
+            ],
+            [
+                "P003",
+                "Carol White",
+                "Metabolic Syndrome",
+                "210",
+                "High",
+                "2023-09-20"
+            ],
+            [
+                "P004",
+                "David Green",
+                "Familial Hypertriglyceridemia",
+                "520",
+                "Extremely High",
+                "2023-10-28"
+            ],
+            [
+                "P005",
+                "Emily Brown",
+                "Obesity",
+                "295",
+                "High",
+                "2023-11-05"
+            ],
+            [
+                "P006",
+                "Frank Black",
+                "Cardiovascular Disease",
+                "315",
+                "Very High",
+                "2023-09-12"
+            ]
+        ]
+    }
+}

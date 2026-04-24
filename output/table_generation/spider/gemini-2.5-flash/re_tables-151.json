@@ -1,0 +1,61 @@
+{
+    "table-151-151": {
+        "title": [
+            "Shop Name",
+            "Location",
+            "District",
+            "Number of Products"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Sort all the shops by number products in descending order, and return the name, location and district of each shop.",
+        "data": [
+            [
+                "Tech Haven",
+                "Main Street",
+                "Central",
+                "1500"
+            ],
+            [
+                "Bookworm's Corner",
+                "Elm Avenue",
+                "Westwood",
+                "1250"
+            ],
+            [
+                "Fashion Forward",
+                "Oak Plaza",
+                "Downtown",
+                "980"
+            ],
+            [
+                "Gourmet Grocer",
+                "Market Lane",
+                "Eastside",
+                "720"
+            ],
+            [
+                "Artisan Crafts",
+                "Riverwalk",
+                "Old Town",
+                "550"
+            ],
+            [
+                "Pet Paradise",
+                "Park Road",
+                "Green Valley",
+                "310"
+            ],
+            [
+                "Gadget Galaxy",
+                "High Street",
+                "Central",
+                "280"
+            ]
+        ]
+    }
+}

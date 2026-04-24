@@ -1,0 +1,45 @@
+{
+    "table-123-123": {
+        "title": [
+            "Loan ID",
+            "District",
+            "Region"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Loan Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the district and region for loan ID '4990'.",
+        "data": [
+            [
+                "4987",
+                "ABC",
+                "North"
+            ],
+            [
+                "4988",
+                "DEF",
+                "South"
+            ],
+            [
+                "4989",
+                "GHI",
+                "East"
+            ],
+            [
+                "4990",
+                "JKL",
+                "West"
+            ],
+            [
+                "4991",
+                "MNO",
+                "Central"
+            ]
+        ]
+    }
+}

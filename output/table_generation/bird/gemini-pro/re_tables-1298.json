@@ -1,0 +1,46 @@
+{
+    "table-1298-1298": {
+        "title": [
+            "Patient ID",
+            "Total Cholesterol",
+            "Coagulation Degree"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Patient Coagulation Analysis vs. Cholesterol Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients whose total cholesterol is higher than normal, how many of them have a negative measure of degree of coagulation?",
+        "data": [
+            [
+                "12345",
+                "250",
+                "-1.2"
+            ],
+            [
+                "67890",
+                "280",
+                "0.5"
+            ],
+            [
+                "24680",
+                "220",
+                "-0.8"
+            ],
+            [
+                "13579",
+                "300",
+                "-0.3"
+            ],
+            [
+                "11223",
+                "190",
+                "1.1"
+            ]
+        ]
+    }
+}

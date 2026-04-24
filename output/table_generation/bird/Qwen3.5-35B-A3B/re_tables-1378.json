@@ -1,0 +1,69 @@
+{
+    "table-1378-1378": {
+        "title": [
+            "Student ID",
+            "Full Name",
+            "Position Held",
+            "Department",
+            "Term Start Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many student have the position of president?",
+        "data": [
+            [
+                "S1042",
+                "Alice Johnson",
+                "President",
+                "Business School",
+                "01/15/2023",
+                "Active"
+            ],
+            [
+                "S1089",
+                "Marcus Lee",
+                "Vice-President",
+                "Engineering Dept",
+                "09/01/2017",
+                "Inactive"
+            ],
+            [
+                "S2103",
+                "Sarah Chen",
+                "Secretary-Treasurer",
+                "Arts & Sciences",
+                "06/12/2021",
+                "Pending"
+            ],
+            [
+                "S3341",
+                "David Okafor",
+                "Club Coordinator",
+                "Computer Science",
+                "03/22/2019",
+                "Resigned"
+            ],
+            [
+                "S4502",
+                "Emily White",
+                "Class Representative",
+                "Psychology",
+                "08/05/2018",
+                "Active"
+            ],
+            [
+                "S5678",
+                "James Wilson",
+                "Event Chair",
+                "History Dept",
+                "N/A",
+                "Terminated"
+            ]
+        ]
+    }
+}

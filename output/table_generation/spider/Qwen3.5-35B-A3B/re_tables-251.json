@@ -1,0 +1,77 @@
+{
+    "table-251-251": {
+        "title": [
+            "Contestant_Name",
+            "Competition_ID",
+            "Result_Status",
+            "Elimination_Round",
+            "Points_Scored",
+            "Date_Eliminated"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the number of distinct name of losers.",
+        "data": [
+            [
+                "Alice Johnson",
+                "COMP_004",
+                "Loser",
+                "Quarter-Finals",
+                "72",
+                "06/15/2023"
+            ],
+            [
+                "Bob Smith",
+                "COMP_A12",
+                "Losers",
+                "Semi-Finals",
+                "N/A",
+                "6/22/2023"
+            ],
+            [
+                "Charlie Davis",
+                "EVENT_X99",
+                "Loses",
+                "Round 2",
+                "88",
+                "5/10/2024"
+            ],
+            [
+                "Diana Prince",
+                "TOURNAMENT_Z",
+                "Lost",
+                "Final Four",
+                "91",
+                "8/01/2021"
+            ],
+            [
+                "Evan Wright",
+                "GAME_Y77",
+                "Defeated",
+                "Preliminary",
+                "33",
+                "9/12/2019"
+            ],
+            [
+                "Fiona Green",
+                "MATCH_BB2",
+                "Out",
+                "Group Stage",
+                "56",
+                "10/05/2022"
+            ],
+            [
+                "George Hill",
+                "RACE_CCC",
+                "Failed",
+                "Heat 3",
+                "77",
+                "11/11/2020"
+            ]
+        ]
+    }
+}

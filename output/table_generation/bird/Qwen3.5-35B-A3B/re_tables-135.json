@@ -1,0 +1,43 @@
+{
+    "table-135-135": {
+        "title": [
+            "Branch_ID",
+            "Location",
+            "Crimes_1974",
+            "Accounts_Opened_1774"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the branch where the largest number of crimes were committed in 1996, how many accounts were opened?",
+        "data": [
+            [
+                "BR-009",
+                "Downtown Metro",
+                "412",
+                "89"
+            ],
+            [
+                "CRIME-HUB-A",
+                "Westside District",
+                "385",
+                "76"
+            ],
+            [
+                "MAIN-ST-BRANCH",
+                "Central Plaza",
+                "92",
+                "N/A"
+            ],
+            [
+                "RIVERVIEW-OFFICE",
+                "Riverside Area",
+                "67",
+                "54"
+            ]
+        ]
+    }
+}

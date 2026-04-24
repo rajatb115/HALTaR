@@ -1,0 +1,43 @@
+{
+    "table-798-798": {
+        "title": [
+            "Superhero Name",
+            "Eye Color",
+            "Hair Color"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Superheroes by Eye and Hair Color",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which superheroes have blue eyes with brown hair?",
+        "data": [
+            [
+                "Superman",
+                "Blue",
+                "Black"
+            ],
+            [
+                "Captain America",
+                "Blue",
+                "Blonde"
+            ],
+            [
+                "Jean Grey",
+                "Green",
+                "Red"
+            ],
+            [
+                "Spider-Man",
+                "Brown",
+                "Brown"
+            ],
+            [
+                "Beast",
+                "Blue",
+                "Gray"
+            ]
+        ]
+    }
+}

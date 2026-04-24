@@ -1,0 +1,69 @@
+{
+    "table-789-789": {
+        "title": [
+            "Publisher",
+            "Hero Gender",
+            "Percentage Share",
+            "Publication Year Range",
+            "Total Heroes Counted",
+            "Data Source Confidence"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many percent of female heroes were published by Marvel Comics?",
+        "data": [
+            [
+                "Marvel Comics",
+                "Female",
+                "42%",
+                "76\u20132023",
+                "",
+                "High"
+            ],
+            [
+                "DC Comics",
+                "Male",
+                "58%",
+                "Full History",
+                "",
+                "Medium"
+            ],
+            [
+                "Image Comics",
+                "Non-Binary",
+                "3%",
+                "Recent Decade",
+                "",
+                "Low"
+            ],
+            [
+                "Dark Horse",
+                "Female Heroes",
+                "N/A",
+                "Limited Scope",
+                "",
+                "Unknown"
+            ],
+            [
+                "IDW Publishing",
+                "All Genders",
+                "Mixed Ratio",
+                "Ongoing Series",
+                "",
+                "Moderate"
+            ],
+            [
+                "Boom! Studios",
+                "Female Leads",
+                "65%",
+                "Modern Era",
+                "",
+                "High"
+            ]
+        ]
+    }
+}

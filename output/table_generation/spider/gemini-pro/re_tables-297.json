@@ -1,0 +1,43 @@
+{
+    "table-297-297": {
+        "title": [
+            "Course Name",
+            "Course Code",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Math Course Descriptions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the descriptions for all the math courses?",
+        "data": [
+            [
+                "Calculus I",
+                "MATH101",
+                "Introduction to differential and integral calculus."
+            ],
+            [
+                "Linear Algebra",
+                "MATH201",
+                "Vector spaces, linear transformations, and matrices."
+            ],
+            [
+                "Differential Equations",
+                "MATH301",
+                "Study of ordinary and partial differential equations."
+            ],
+            [
+                "Discrete Mathematics",
+                "MATH210",
+                "Logic, sets, relations, functions, and graph theory."
+            ],
+            [
+                "Real Analysis",
+                "MATH401",
+                "Rigorous treatment of the real number system, limits, continuity, and differentiation."
+            ]
+        ]
+    }
+}

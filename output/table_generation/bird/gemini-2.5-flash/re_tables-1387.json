@@ -1,0 +1,77 @@
+{
+    "table-1387-1387": {
+        "title": [
+            "Expense Item",
+            "Category",
+            "Amount",
+            "Date",
+            "Vendor",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total expense for the Yearly Kickoff?",
+        "data": [
+            [
+                "Venue Rental",
+                "Facilities",
+                "18500.00",
+                "2023-12-01",
+                "Grand Ballroom Inc.",
+                "Paid"
+            ],
+            [
+                "Catering Service",
+                "Food & Beverage",
+                "9200.00",
+                "2023-12-05",
+                "Elite Cuisine",
+                "Paid"
+            ],
+            [
+                "Keynote Speaker Fee",
+                "Talent",
+                "7500.00",
+                "2023-12-10",
+                "Dr. Emily Chen",
+                "Pending"
+            ],
+            [
+                "A/V Equipment Rental",
+                "Technology",
+                "3800.00",
+                "2023-12-02",
+                "Sound & Vision Pro",
+                "Paid"
+            ],
+            [
+                "Marketing Materials",
+                "Promotion",
+                "2100.00",
+                "2023-11-20",
+                "PrintMaster Co.",
+                "Paid"
+            ],
+            [
+                "Event Staffing",
+                "Personnel",
+                "4500.00",
+                "2023-12-15",
+                "Premier Staffing",
+                "Paid"
+            ],
+            [
+                "Swag Bags & Gifts",
+                "Merchandise",
+                "3100.00",
+                "2023-12-01",
+                "PromoGoods Ltd.",
+                "Paid"
+            ]
+        ]
+    }
+}

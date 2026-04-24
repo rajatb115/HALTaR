@@ -1,0 +1,49 @@
+{
+    "table-249-249": {
+        "title": [
+            "Molecule",
+            "Bond Type",
+            "Atom 1",
+            "Atom 2"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Triple Bond Atoms in Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the atoms of the triple bond with the molecule \"TR447\"?",
+        "data": [
+            [
+                "TR447",
+                "Triple",
+                "C",
+                "C"
+            ],
+            [
+                "XY912",
+                "Triple",
+                "N",
+                "N"
+            ],
+            [
+                "AB123",
+                "Triple",
+                "C",
+                "N"
+            ],
+            [
+                "CD456",
+                "Triple",
+                "C",
+                "C"
+            ],
+            [
+                "EF789",
+                "Triple",
+                "C",
+                "N"
+            ]
+        ]
+    }
+}

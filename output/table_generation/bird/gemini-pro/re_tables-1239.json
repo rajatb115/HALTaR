@@ -1,0 +1,59 @@
+{
+    "table-1239-1239": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Age",
+            "Hemoglobin Level",
+            "SLE Diagnosis Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            2,
+            3
+        ],
+        "pgTitle": "SLE Patients with Normal Hemoglobin",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients who were diagnosed with SLE, who is the oldest with normal hemoglobin level. Provide the ID and sex.",
+        "data": [
+            [
+                "12345",
+                "Female",
+                "78",
+                "13.5",
+                "2020-03-15"
+            ],
+            [
+                "67890",
+                "Male",
+                "65",
+                "14.0",
+                "2021-11-01"
+            ],
+            [
+                "24680",
+                "Female",
+                "82",
+                "12.0",
+                "2019-07-22"
+            ],
+            [
+                "13579",
+                "Male",
+                "70",
+                "15.2",
+                "2022-05-10"
+            ],
+            [
+                "98765",
+                "Female",
+                "55",
+                "13.0",
+                "2023-01-05"
+            ]
+        ]
+    }
+}

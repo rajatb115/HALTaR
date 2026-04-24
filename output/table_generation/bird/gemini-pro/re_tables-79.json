@@ -1,0 +1,45 @@
+{
+    "table-79-79": {
+        "title": [
+            "Grade Span",
+            "Number of Schools",
+            "Percentage"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Grade Span Distribution in Adelanto Schools",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the most common type of grade span served in the city of Adelanto?",
+        "data": [
+            [
+                "Elementary (K-5)",
+                "3",
+                "60%"
+            ],
+            [
+                "Middle (6-8)",
+                "1",
+                "20%"
+            ],
+            [
+                "High (9-12)",
+                "1",
+                "20%"
+            ],
+            [
+                "K-8",
+                "0",
+                "0%"
+            ],
+            [
+                "Other",
+                "0",
+                "0%"
+            ]
+        ]
+    }
+}

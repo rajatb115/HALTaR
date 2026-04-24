@@ -1,0 +1,27 @@
+{
+    "table-411-411": {
+        "title": [
+            "Player_Name",
+            "Height_cm",
+            "Avg_Earnings_USD",
+            "Tournament_Count",
+            "Win_Rate_Percent"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give average earnings of poker players who are taller than 200.",
+        "data": [
+            [
+                "Phil Ivey",
+                "6'4\"",
+                "$27,500,000",
+                "450",
+                "N/A"
+            ]
+        ]
+    }
+}

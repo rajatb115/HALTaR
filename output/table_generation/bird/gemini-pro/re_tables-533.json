@@ -1,0 +1,37 @@
+{
+    "table-533-533": {
+        "title": [
+            "Display Name",
+            "Creation Date"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "User Accounts Created in 2014",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the display names of all the users whose accounts were created in the year 2014.",
+        "data": [
+            [
+                "John Doe",
+                "2014-03-15"
+            ],
+            [
+                "Jane Smith",
+                "2014-07-22"
+            ],
+            [
+                "Peter Jones",
+                "2014-11-01"
+            ],
+            [
+                "Alice Brown",
+                "2014-05-10"
+            ],
+            [
+                "David Wilson",
+                "2014-09-18"
+            ]
+        ]
+    }
+}

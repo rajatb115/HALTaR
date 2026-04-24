@@ -1,0 +1,62 @@
+{
+    "table-1434-1434": {
+        "title": [
+            "Country",
+            "Zip Code Format",
+            "PO Box Availability",
+            "Postal Service Provider",
+            "Region"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which countries have zip codes with post office boxes?",
+        "data": [
+            [
+                "United States",
+                "XXXXX-XXXX",
+                "Yes",
+                "USPS",
+                "North America"
+            ],
+            [
+                "Canada",
+                "X#X #X#",
+                "Yes",
+                "Canada Post",
+                "North America"
+            ],
+            [
+                "Germany",
+                "#####",
+                "Yes",
+                "Deutsche Post",
+                "Europe"
+            ],
+            [
+                "Japan",
+                "###-####",
+                "No",
+                "Japan Post",
+                "Asia"
+            ],
+            [
+                "Australia",
+                "####",
+                "Yes",
+                "Australia Post",
+                "Oceania"
+            ],
+            [
+                "France",
+                "#####",
+                "Limited",
+                "La Poste",
+                "Europe"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-422-422": {
+        "title": [
+            "Contestant Number",
+            "Full Name",
+            "Status",
+            "Elimination Round",
+            "Season",
+            "Hometown",
+            "Age"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the contestant numbers and names, ordered by contestant name descending.",
+        "data": [
+            [
+                "CN-402",
+                "Zoe Williams",
+                "Active",
+                "N/A",
+                "S7",
+                "Austin",
+                "36"
+            ],
+            [
+                "CN-118",
+                "Liam Chen",
+                "Active",
+                "N/A",
+                "S7",
+                "Seattle",
+                "29"
+            ],
+            [
+                "CN-S05",
+                "Mia Rodriguez",
+                "Eliminated",
+                "Top 10",
+                "S6",
+                "Miami",
+                "24"
+            ],
+            [
+                "CN-99",
+                "Jack Thompson",
+                "Active",
+                "N/A",
+                "S7",
+                "Denver",
+                "31"
+            ],
+            [
+                "CN-22",
+                "Elena Kowalski",
+                "Eliminated",
+                "Top 15",
+                "S6",
+                "Chicago",
+                "27"
+            ],
+            [
+                "CN-77",
+                "Ryan O'Connor",
+                "Active",
+                "",
+                "S7",
+                "Boston",
+                "33"
+            ],
+            [
+                "CN-156",
+                "Sarah Jenkins",
+                "Eliminated",
+                "Top 20",
+                "S6",
+                "Portland",
+                "22"
+            ]
+        ]
+    }
+}

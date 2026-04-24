@@ -1,0 +1,77 @@
+{
+    "table-223-223": {
+        "title": [
+            "Teacher_Name",
+            "Course_Code",
+            "Department",
+            "Semester",
+            "Enrollment_Count",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the teachers and the courses they teach in ascending alphabetical order by the name of the teacher?",
+        "data": [
+            [
+                "Alice Johnson",
+                "MATH101A",
+                "Mathematics",
+                "Fall_2024",
+                "32",
+                "Active"
+            ],
+            [
+                "Bob Smith",
+                "PHYS201B",
+                "Physics",
+                "Spring_2024_25",
+                "45",
+                "Active"
+            ],
+            [
+                "Carol Davis",
+                "HIST105C",
+                "History",
+                "Summer_2024",
+                "28",
+                "Pending"
+            ],
+            [
+                "David Lee",
+                "CHEM102D",
+                "Chemistry",
+                "Fall_2024",
+                "50",
+                "Active"
+            ],
+            [
+                "Elena Rodriguez",
+                "ARTS100E",
+                "Arts",
+                "Winter_2025",
+                "67",
+                "Active"
+            ],
+            [
+                "Frank White",
+                "ENGL103F",
+                "English",
+                "Fall_2024",
+                "89",
+                "Active"
+            ],
+            [
+                "Grace Kim",
+                "BIOL104G",
+                "Biology",
+                "Spring_2025",
+                "76",
+                "Active"
+            ]
+        ]
+    }
+}

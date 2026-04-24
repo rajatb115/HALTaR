@@ -1,0 +1,77 @@
+{
+    "table-1463-1463": {
+        "title": [
+            "Event Name",
+            "Date",
+            "Budget Category",
+            "Budgeted Amount",
+            "Actual Spend",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What category was budgeted for the 'January Speaker' event and how much was the amount budgeted for that category?",
+        "data": [
+            [
+                "January Speaker",
+                "2023-01-15",
+                "Guest Speakers",
+                "2500.00",
+                "2450.00",
+                "Approved"
+            ],
+            [
+                "February Workshop",
+                "2023-02-20",
+                "Training Materials",
+                "1200.00",
+                "1180.00",
+                "Approved"
+            ],
+            [
+                "March Gala Dinner",
+                "2023-03-10",
+                "Venue Rental",
+                "15000.00",
+                "14950.00",
+                "Approved"
+            ],
+            [
+                "April Seminar Series",
+                "2023-04-05",
+                "Catering",
+                "800.00",
+                "790.00",
+                "Approved"
+            ],
+            [
+                "May Networking Event",
+                "2023-05-22",
+                "Marketing",
+                "500.00",
+                "480.00",
+                "Approved"
+            ],
+            [
+                "June Product Demo",
+                "2023-06-18",
+                "Promotional Items",
+                "3000.00",
+                "2980.00",
+                "Approved"
+            ],
+            [
+                "July Team Building",
+                "2023-07-07",
+                "Activities",
+                "1800.00",
+                "1750.00",
+                "Approved"
+            ]
+        ]
+    }
+}

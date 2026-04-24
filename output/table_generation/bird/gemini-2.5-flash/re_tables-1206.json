@@ -1,0 +1,85 @@
+{
+    "table-1206-1206": {
+        "title": [
+            "Patient ID",
+            "Test Name",
+            "Result Value",
+            "Units",
+            "Normal Range Min",
+            "Normal Range Max",
+            "Interpretation"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Was the patient with the number 57266's uric acid within a normal range?",
+        "data": [
+            [
+                "57266",
+                "Uric Acid",
+                "5.8",
+                "mg/dL",
+                "3.4",
+                "7.0",
+                "Normal"
+            ],
+            [
+                "57267",
+                "Uric Acid",
+                "8.1",
+                "mg/dL",
+                "3.4",
+                "7.0",
+                "High"
+            ],
+            [
+                "57268",
+                "Uric Acid",
+                "2.9",
+                "mg/dL",
+                "3.4",
+                "7.0",
+                "Low"
+            ],
+            [
+                "57269",
+                "Uric Acid",
+                "6.5",
+                "mg/dL",
+                "3.4",
+                "7.0",
+                "Normal"
+            ],
+            [
+                "57270",
+                "Uric Acid",
+                "7.3",
+                "mg/dL",
+                "3.4",
+                "7.0",
+                "High"
+            ],
+            [
+                "57271",
+                "Uric Acid",
+                "4.2",
+                "mg/dL",
+                "3.4",
+                "7.0",
+                "Normal"
+            ],
+            [
+                "57272",
+                "Uric Acid",
+                "3.1",
+                "mg/dL",
+                "3.4",
+                "7.0",
+                "Low"
+            ]
+        ]
+    }
+}

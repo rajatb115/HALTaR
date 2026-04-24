@@ -1,0 +1,77 @@
+{
+    "table-540-540": {
+        "title": [
+            "Post Title",
+            "Owner Username",
+            "Role",
+            "Date Posted",
+            "Platform",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the owner of the post \"Eliciting priors from experts\"?",
+        "data": [
+            [
+                "Eliciting priors from experts",
+                "Dr_Alex_Morgan",
+                "Senior Researcher",
+                "4/12/2023",
+                "Academic Forum",
+                "Active"
+            ],
+            [
+                "Bayesian Inference Basics",
+                "Dr_Alison_Chen",
+                "Lead Analyst",
+                "3/05/22",
+                "Data Science Hub",
+                "Archived"
+            ],
+            [
+                "Expert Elicitation Methods",
+                "Prof_James_Wright",
+                "Professor",
+                "6/18/23",
+                "University Portal",
+                "Draft"
+            ],
+            [
+                "Priors in Decision Theory",
+                "Sarah_Kim_PhD",
+                "Graduate Student",
+                "7/21/24",
+                "Research Network",
+                "Published"
+            ],
+            [
+                "Subjective Probability Models",
+                "Mark_Davis_Stats",
+                "Consultant",
+                "9/03/25",
+                "Industry Blog",
+                "Pending Review"
+            ],
+            [
+                "Quantifying Expert Uncertainty",
+                "Elena_Rodriguez",
+                "Data Scientist",
+                "5/14/26",
+                "Tech Conference",
+                "Live"
+            ],
+            [
+                "Statistical Priors Overview",
+                "John_Smith_Econ",
+                "Economist",
+                "8/30/27",
+                "Economic Journal",
+                "Under Review"
+            ]
+        ]
+    }
+}

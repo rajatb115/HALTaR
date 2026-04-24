@@ -1,0 +1,83 @@
+{
+    "table-360-360": {
+        "title": [
+            "Series Title",
+            "Episode Number",
+            "Rating Score",
+            "Release Date",
+            "Genre",
+            "Duration (min)",
+            "Network",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the Episode of all TV series sorted by rating.",
+        "data": [
+            [
+                "Breaking Bad",
+                "S4E6",
+                "9.7",
+                "06/19/2011",
+                "Crime Drama",
+                "47",
+                "AMC",
+                "Completed"
+            ],
+            [
+                "Game of Thrones",
+                "S1E10",
+                "8.9",
+                "30/06/2022",
+                "Fantasy",
+                "64",
+                "HBO",
+                "Ongoing"
+            ],
+            [
+                "The Sopranos",
+                "S6B12",
+                "7.8",
+                "05/02/2206",
+                "Crime Comedy",
+                "55",
+                "HBO",
+                "Cancelled"
+            ],
+            [
+                "Friends",
+                "S5E16",
+                "",
+                "05/11/100",
+                "Sitcom",
+                "",
+                "NBC",
+                "Retired"
+            ],
+            [
+                "Stranger Things",
+                "S3E8",
+                "",
+                "07/04/2102",
+                "Sci-Fi Horror",
+                "",
+                "Netflix",
+                "Active"
+            ],
+            [
+                "Fleabag",
+                "S2E6",
+                "0.9",
+                "17/12/1702",
+                "Dark Comedy",
+                "",
+                "Amazon Prime",
+                "Ended"
+            ]
+        ]
+    }
+}

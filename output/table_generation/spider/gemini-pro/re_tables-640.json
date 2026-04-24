@@ -1,0 +1,39 @@
+{
+    "table-640-640": {
+        "title": [
+            "Singer Name",
+            "Birth Year"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Singers Born in 1948 or 1949",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the name of singers whose birth year is either 1948 or 1949?",
+        "data": [
+            [
+                "Olivia Newton-John",
+                "1948"
+            ],
+            [
+                "Stevie Nicks",
+                "1948"
+            ],
+            [
+                "Bonnie Raitt",
+                "1949"
+            ],
+            [
+                "Billy Joel",
+                "1949"
+            ],
+            [
+                "Bruce Springsteen",
+                "1949"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "table-123-123": {
+        "title": [
+            "Loan ID",
+            "District",
+            "Region"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the district and region for loan ID '4990'.",
+        "data": [
+            [
+                "4990",
+                "Central",
+                "East"
+            ],
+            [
+                "5012",
+                "Northwood",
+                "West"
+            ],
+            [
+                "4876",
+                "Riverside",
+                "South"
+            ],
+            [
+                "5105",
+                "Green Valley",
+                "North"
+            ],
+            [
+                "4955",
+                "Coastal",
+                "Southeast"
+            ],
+            [
+                "5033",
+                "Mountain View",
+                "Midwest"
+            ]
+        ]
+    }
+}

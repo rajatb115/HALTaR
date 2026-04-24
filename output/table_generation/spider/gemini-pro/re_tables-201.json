@@ -1,0 +1,39 @@
+{
+    "table-201-201": {
+        "title": [
+            "Template ID",
+            "Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Template Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the ids corresponding to templates with the description 'Presentation'.",
+        "data": [
+            [
+                "1",
+                "Presentation"
+            ],
+            [
+                "2",
+                "Report"
+            ],
+            [
+                "3",
+                "Presentation"
+            ],
+            [
+                "4",
+                "Email"
+            ],
+            [
+                "5",
+                "Presentation"
+            ]
+        ]
+    }
+}

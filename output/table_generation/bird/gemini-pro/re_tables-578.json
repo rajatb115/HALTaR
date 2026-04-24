@@ -1,0 +1,51 @@
+{
+    "table-578-578": {
+        "title": [
+            "Comment ID",
+            "User",
+            "Timestamp",
+            "Comment Text"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "User Comments",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write all comments made by user 'A Lion.'",
+        "data": [
+            [
+                "1",
+                "A Lion",
+                "2024-01-01 10:00:00",
+                "Great post!"
+            ],
+            [
+                "2",
+                "A Lion",
+                "2024-01-01 10:15:00",
+                "I agree with you."
+            ],
+            [
+                "3",
+                "A Lion",
+                "2024-01-02 14:20:00",
+                "This is very helpful."
+            ],
+            [
+                "4",
+                "A Lion",
+                "2024-01-03 09:00:00",
+                "Thanks for sharing!"
+            ],
+            [
+                "5",
+                "A Lion",
+                "2024-01-03 18:30:00",
+                "I have a question."
+            ]
+        ]
+    }
+}

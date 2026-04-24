@@ -1,0 +1,51 @@
+{
+    "table-984-984": {
+        "title": [
+            "Constructor",
+            "Country",
+            "Total Points (All Time)",
+            "Introduction Website"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Formula 1 Italian Constructors",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which of the Italian constructor got the highest point to date? Give its introduction website?",
+        "data": [
+            [
+                "Ferrari",
+                "Italy",
+                "9629.33",
+                "ferrari.com"
+            ],
+            [
+                "Alfa Romeo",
+                "Italy",
+                "649",
+                "alfa Romeo.com"
+            ],
+            [
+                "Maserati",
+                "Italy",
+                "117.34",
+                "maserati.com"
+            ],
+            [
+                "Lancia",
+                "Italy",
+                "13",
+                "lancia.com"
+            ],
+            [
+                "Osella",
+                "Italy",
+                "0",
+                "N/A"
+            ]
+        ]
+    }
+}

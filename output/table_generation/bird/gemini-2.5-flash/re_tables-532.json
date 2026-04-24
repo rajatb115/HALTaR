@@ -1,0 +1,62 @@
+{
+    "table-532-532": {
+        "title": [
+            "User Name",
+            "Reputation Score",
+            "Total Posts",
+            "Last Active Date",
+            "Badges"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user has a higher reputation, Harlan or Jarrod Dixon?",
+        "data": [
+            [
+                "Harlan",
+                "1250",
+                "345",
+                "2023-10-26",
+                "Gold Contributor"
+            ],
+            [
+                "Jarrod Dixon",
+                "1480",
+                "410",
+                "2023-10-25",
+                "Platinum Member"
+            ],
+            [
+                "Sarah Connor",
+                "890",
+                "210",
+                "2023-10-27",
+                "Silver Supporter"
+            ],
+            [
+                "John Doe",
+                "2100",
+                "620",
+                "2023-10-24",
+                "Diamond Expert"
+            ],
+            [
+                "Alice Smith",
+                "750",
+                "180",
+                "2023-10-26",
+                "Bronze Helper"
+            ],
+            [
+                "Bob Johnson",
+                "1100",
+                "290",
+                "2023-10-25",
+                "Gold Contributor"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-1336-1336": {
+        "title": [
+            "Meeting Date",
+            "Item Description",
+            "Amount Spent",
+            "Payment Method"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Advertisement Costs for Student Club Meetings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much did the Student_Club members spend on advertisement in September Meeting?",
+        "data": [
+            [
+                "2023-09-15",
+                "Flyers",
+                "$50.00",
+                "Cash"
+            ],
+            [
+                "2023-09-15",
+                "Social Media Ads",
+                "$75.00",
+                "Credit Card"
+            ],
+            [
+                "2023-09-22",
+                "Posters",
+                "$30.00",
+                "Debit Card"
+            ],
+            [
+                "2023-09-22",
+                "Email Marketing",
+                "$20.00",
+                "PayPal"
+            ],
+            [
+                "2023-09-29",
+                "Website Banner",
+                "$100.00",
+                "Credit Card"
+            ]
+        ]
+    }
+}

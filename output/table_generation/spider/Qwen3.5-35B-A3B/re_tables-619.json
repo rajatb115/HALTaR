@@ -1,0 +1,85 @@
+{
+    "table-619-619": {
+        "title": [
+            "Dog_Name",
+            "Age_Years",
+            "Weight_Lbs",
+            "Abandoned_YesNo",
+            "Breed_Type",
+            "Intake_Date",
+            "Shelter_ID"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the dog name, age and weight of the dogs that were abandoned? Note that 1 stands for yes, and 0 stands for no in the tables.",
+        "data": [
+            [
+                "Buddy",
+                "4",
+                "65",
+                "0",
+                "Labrador Mix",
+                "7/12/2023",
+                "SHT-004"
+            ],
+            [
+                "Luna",
+                "8",
+                "32",
+                "",
+                "Greyhound",
+                "9/01/23",
+                ""
+            ],
+            [
+                "Max",
+                "",
+                "",
+                "",
+                "Beagle",
+                "/20/24",
+                "SRT-012"
+            ],
+            [
+                "Daisy",
+                "",
+                "",
+                "",
+                "Poodle Mix",
+                "-",
+                "SHS-099"
+            ],
+            [
+                "Rocky",
+                "",
+                "",
+                "",
+                "Bulldog",
+                "--",
+                "SHR-033"
+            ],
+            [
+                "Shadow",
+                "",
+                "",
+                "",
+                "German Shepherd",
+                "..",
+                "SHG-077"
+            ],
+            [
+                "Coco",
+                "",
+                "",
+                "",
+                "Chihuahua",
+                ";;",
+                "SCH-022"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-707-707": {
+        "title": [
+            "Comment_ID",
+            "Author",
+            "Timestamp",
+            "Content_Summary",
+            "Sentiment",
+            "Engagement_Count"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the texts commented on the post about linear regression.",
+        "data": [
+            [
+                "CMT_0042",
+                "Dr_Alice_M",
+                "7 days ago",
+                "Explained bias-variance tradeoff in simple terms",
+                "Positive",
+                "45"
+            ],
+            [
+                "CMT_1109",
+                "Stats_Guru",
+                "6 days ago",
+                "Questioned assumption of linearity for high-dimensional data",
+                "Neutral",
+                "12"
+            ],
+            [
+                "CMA_2231",
+                "Data_Newbie",
+                "5 days ago",
+                "Asked for clarification on residual plots",
+                "Confused",
+                "8"
+            ],
+            [
+                "CMR_3345",
+                "Prof_Brown_Lee",
+                "3 days ago",
+                "Provided R code example for polynomial features",
+                "Helpful",
+                "67"
+            ],
+            [
+                "CMP_4456",
+                "Tech_Observer",
+                "8 hours ago",
+                "Noted potential overfitting without regularization",
+                "Negative",
+                "23"
+            ],
+            [
+                "CMS_5567",
+                "Researcher_X",
+                "Yesterday",
+                "Suggested comparing against Random Forest models",
+                "Constructive",
+                "31"
+            ],
+            [
+                "CMD_6678",
+                "Student_Y",
+                "Today",
+                "Requested recommended textbooks for deeper learning",
+                "Inquisitive",
+                "5"
+            ]
+        ]
+    }
+}

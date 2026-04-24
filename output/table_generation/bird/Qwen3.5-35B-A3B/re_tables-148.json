@@ -1,0 +1,85 @@
+{
+    "table-148-148": {
+        "title": [
+            "Client ID",
+            "Gender",
+            "Region",
+            "Account Status",
+            "Balance",
+            "Open Date",
+            "Branch Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female clients' accounts are in the region of South Bohemia?",
+        "data": [
+            [
+                "C0042",
+                "Female",
+                "South Bohmia",
+                "Active",
+                "$12,450",
+                "06/15/2019",
+                "SB-01"
+            ],
+            [
+                "C1089",
+                "Male",
+                "South Bohe mia",
+                "Inactive",
+                "$0",
+                "N/A",
+                "SB -02"
+            ],
+            [
+                "C2341",
+                "Female",
+                "South Bohem ia",
+                "Pending",
+                "$5,20",
+                "01/10/2 021",
+                "SB-03"
+            ],
+            [
+                "C3756",
+                "Female",
+                "SouthBohemi a",
+                "Active",
+                "$28,900",
+                "03/22/2O18",
+                "SB-O1"
+            ],
+            [
+                "C4102",
+                "Male",
+                "NorthBohemia",
+                "Closed",
+                "$0",
+                "12/01 /2020",
+                "NB-05"
+            ],
+            [
+                "C5678",
+                "Female",
+                "CentralB ohemia",
+                "Active",
+                "$15,300",
+                "O9/O5/ 2O22",
+                "CB-04"
+            ],
+            [
+                "C6231",
+                "F emale",
+                "Sout hBo hemi a",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-311-311": {
+        "title": [
+            "First Name",
+            "Middle Initial",
+            "Last Name",
+            "Program Level",
+            "Enrollment Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the first, middle, and last names for everybody enrolled in a Bachelors program?",
+        "data": [
+            [
+                "James",
+                "R",
+                "Anderson",
+                "Bachelor's",
+                "Active"
+            ],
+            [
+                "Maria",
+                "L",
+                "Garcia",
+                "Bachelor's",
+                "Active"
+            ],
+            [
+                "Robert",
+                "T",
+                "Smith",
+                "Bachelor's",
+                "Inactive"
+            ],
+            [
+                "Sarah",
+                "J",
+                "Williams",
+                "Bachelor's",
+                "Active"
+            ],
+            [
+                "Michael",
+                "D",
+                "Brown",
+                "Bachelor's",
+                "Pending"
+            ],
+            [
+                "Emily",
+                "K",
+                "Davis",
+                "Bachelor's",
+                "Active"
+            ],
+            [
+                "David",
+                "M",
+                "Miller",
+                "Bachelor's",
+                "Inactive"
+            ],
+            [
+                "Jennifer",
+                "S",
+                "Wilson",
+                "Bachelor's",
+                "Pending"
+            ]
+        ]
+    }
+}

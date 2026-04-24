@@ -1,0 +1,77 @@
+{
+    "table-1377-1377": {
+        "title": [
+            "Event ID",
+            "Event Name",
+            "Status",
+            "Budget ($)",
+            "Actual Spend ($)",
+            "Ratio"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all the closed events, which event has the highest spend-to-budget ratio?",
+        "data": [
+            [
+                "EVT-104",
+                "Tech Summit Closed",
+                "Closed",
+                "5000",
+                "620",
+                ""
+            ],
+            [
+                "EVT-112",
+                "Global Forum Ended",
+                "Closed",
+                "750",
+                "900",
+                "1.20"
+            ],
+            [
+                "EVT-118",
+                "Annual Gala Concluded",
+                "Closed",
+                "120",
+                "250",
+                "0.48"
+            ],
+            [
+                "EVA-125",
+                "City Marathon Finalized",
+                "Closed",
+                "300",
+                "315",
+                "0.95"
+            ],
+            [
+                "EVE-130",
+                "Charity Auction Done",
+                "Closed",
+                "",
+                "",
+                ""
+            ],
+            [
+                "EVF-142",
+                "Product Launch Wrap-up",
+                "Closed",
+                "",
+                "",
+                ""
+            ],
+            [
+                "EVG-155",
+                "Workshop Series Finished",
+                "Closed",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

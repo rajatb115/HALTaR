@@ -1,0 +1,43 @@
+{
+    "table-289-289": {
+        "title": [
+            "Molecule ID",
+            "Atom ID",
+            "Carcinogenicity"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenicity Data of Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify whether the molecule that contains atom TR001_1 is carcinogenic.",
+        "data": [
+            [
+                "Mol-A",
+                "TR001_1",
+                "Yes"
+            ],
+            [
+                "Mol-B",
+                "TR002_1",
+                "No"
+            ],
+            [
+                "Mol-C",
+                "TR003_1",
+                "Yes"
+            ],
+            [
+                "Mol-D",
+                "TR004_1",
+                "No"
+            ],
+            [
+                "Mol-E",
+                "TR001_2",
+                "No"
+            ]
+        ]
+    }
+}

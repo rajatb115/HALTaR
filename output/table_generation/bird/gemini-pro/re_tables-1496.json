@@ -1,0 +1,53 @@
+{
+    "table-1496-1496": {
+        "title": [
+            "Client ID",
+            "Consumption (Units)",
+            "Month",
+            "Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            3
+        ],
+        "pgTitle": "Top Client Consumption in September 2013",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which client ID consumed the most in September 2013?",
+        "data": [
+            [
+                "1234",
+                "5400",
+                "September",
+                "2013"
+            ],
+            [
+                "5678",
+                "4800",
+                "September",
+                "2013"
+            ],
+            [
+                "9101",
+                "4200",
+                "September",
+                "2013"
+            ],
+            [
+                "1121",
+                "3900",
+                "September",
+                "2013"
+            ],
+            [
+                "3456",
+                "3500",
+                "September",
+                "2013"
+            ]
+        ]
+    }
+}

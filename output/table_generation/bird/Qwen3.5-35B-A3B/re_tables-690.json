@@ -1,0 +1,69 @@
+{
+    "table-690-690": {
+        "title": [
+            "Post_ID",
+            "Display_Name",
+            "Location",
+            "Edit_Date",
+            "Role",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the display name and location of the user, who was the last to edit the post with ID 183.",
+        "data": [
+            [
+                "179",
+                "Alice_Chen",
+                "Shanghai_CN",
+                "4/1/2024",
+                "Editor",
+                "Active"
+            ],
+            [
+                "180",
+                "Bob_Smith",
+                "London_UK",
+                "3/28/24",
+                "Moderator",
+                "Active"
+            ],
+            [
+                "181",
+                "Carol_Davis",
+                "New_York_USA",
+                "3//26/23",
+                "Contributor",
+                "Archived"
+            ],
+            [
+                "**182**",
+                "**David_Lee**",
+                "Seoul_KR",
+                "4/**2**/25",
+                "Admin",
+                "Pending"
+            ],
+            [
+                "**184**",
+                "**Eva_Martinez**",
+                "Madrid_ES",
+                "5/10/26",
+                "Reviewer",
+                "Deleted"
+            ],
+            [
+                "",
+                "N/A",
+                "Unknown_Location",
+                "N/D",
+                "Guest",
+                "Inactive"
+            ]
+        ]
+    }
+}

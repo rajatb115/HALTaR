@@ -1,0 +1,39 @@
+{
+    "table-167-167": {
+        "title": [
+            "District",
+            "Account Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Account Information by District",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the accounts are from Jesenik district?",
+        "data": [
+            [
+                "Jesenik",
+                "1234"
+            ],
+            [
+                "Olomouc",
+                "5678"
+            ],
+            [
+                "Sumperk",
+                "9012"
+            ],
+            [
+                "Ostrava",
+                "3456"
+            ],
+            [
+                "Prostejov",
+                "7890"
+            ]
+        ]
+    }
+}

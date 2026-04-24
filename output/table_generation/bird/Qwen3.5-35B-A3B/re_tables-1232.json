@@ -1,0 +1,69 @@
+{
+    "table-1232-1232": {
+        "title": [
+            "Patient ID",
+            "Birth Year",
+            "Gender",
+            "CPK Level (U/L)",
+            "Normal Range Max",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patient born between 1936-1956, how many male patients have creatinine phosphokinase beyond the normal range?",
+        "data": [
+            [
+                "P-1042",
+                "7/1940",
+                "Male",
+                "320",
+                "50",
+                "Elevated"
+            ],
+            [
+                "P-1105",
+                "9/1892",
+                "Female",
+                "N/A",
+                "N/A",
+                "Not Applicable"
+            ],
+            [
+                "P-1203",
+                "4/1855",
+                "Male",
+                "280",
+                "50",
+                "Elevated"
+            ],
+            [
+                "P-1319",
+                "12/1498",
+                "Male",
+                "1500",
+                "50",
+                "Raised"
+            ],
+            [
+                "P-1402",
+                "1/1600",
+                "Male",
+                "450",
+                "50",
+                "High"
+            ],
+            [
+                "P-2011",
+                "11/2020",
+                "Female",
+                "N/A",
+                "N/A",
+                "Excluded"
+            ]
+        ]
+    }
+}

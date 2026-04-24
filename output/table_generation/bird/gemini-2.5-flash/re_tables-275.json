@@ -1,0 +1,77 @@
+{
+    "table-275-275": {
+        "title": [
+            "Toxicology Endpoint",
+            "Test Method",
+            "Result",
+            "Dose/Concentration",
+            "Species/Model",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the toxicology elements associated with molecule TR001.",
+        "data": [
+            [
+                "Acute Oral Toxicity",
+                "OECD 423 (LD50)",
+                "Low Toxicity",
+                "> 5000 mg/kg",
+                "Rat",
+                "Completed"
+            ],
+            [
+                "Skin Irritation",
+                "OECD 439 (In Vitro)",
+                "Non-Irritant",
+                "2% solution",
+                "Reconstructed Human Epidermis",
+                "Completed"
+            ],
+            [
+                "Eye Irritation",
+                "OECD 492 (In Vitro)",
+                "Mild Irritant",
+                "1% solution",
+                "Bovine Corneal Opacity and Permeability (BCOP)",
+                "Completed"
+            ],
+            [
+                "Skin Sensitization",
+                "LLNA (OECD 429)",
+                "Non-Sensitizer",
+                "25% w/v",
+                "Mouse",
+                "Completed"
+            ],
+            [
+                "Genotoxicity (Ames Test)",
+                "OECD 471",
+                "Non-Mutagenic",
+                "Up to 5000 \u00b5g/plate",
+                "Salmonella typhimurium",
+                "Completed"
+            ],
+            [
+                "Repeated Dose Toxicity (28-day)",
+                "OECD 407",
+                "No Observed Adverse Effect Level (NOAEL)",
+                "1000 mg/kg/day",
+                "Rat",
+                "Completed"
+            ],
+            [
+                "Carcinogenicity",
+                "N/A (Screening)",
+                "Low Concern",
+                "N/A",
+                "In Silico Prediction",
+                "Preliminary"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "table-21-21": {
+        "title": [
+            "School ID",
+            "District",
+            "Location",
+            "Low Grade",
+            "High Grade",
+            "Enrollment Count",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many schools in Amador which the Low Grade is 9 and the High Grade is 12?",
+        "data": [
+            [
+                "SCH-1042",
+                "Amador Unified",
+                "Jackson",
+                "9",
+                "6",
+                "N/A",
+                "Active"
+            ],
+            [
+                "SCH-1105",
+                "AmADOR County",
+                "Pine Grove",
+                "7",
+                "8",
+                "45",
+                "Closed"
+            ],
+            [
+                "SCHOOL-229",
+                "Amadora Valley",
+                "Ione",
+                "5",
+                "3",
+                "0",
+                "Pending"
+            ],
+            [
+                "AMAD-3301",
+                "Central Amador",
+                "Plymouth",
+                "",
+                "",
+                "",
+                "Inactive"
+            ],
+            [
+                "EDU-4412",
+                "North Amador",
+                "Sutter Creek",
+                "9",
+                "10",
+                "N/A",
+                "Operational"
+            ],
+            [
+                "ACD-5523",
+                "South Amador",
+                "Mokelumne Hill",
+                "-",
+                "",
+                "-",
+                "Under Review"
+            ],
+            [
+                "AMP-6634",
+                "East Amador",
+                "Volcano",
+                "+",
+                "",
+                "+",
+                "Suspended"
+            ],
+            [
+                "AUS-7745",
+                "West Amador",
+                "Lodi",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

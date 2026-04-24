@@ -1,0 +1,49 @@
+{
+    "table-631-631": {
+        "title": [
+            "Tag ID",
+            "User Name",
+            "Tag Category",
+            "Description",
+            "Usage Count",
+            "Created Date",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of tags used by John Stauffer's?",
+        "data": [
+            [
+                "T-4012",
+                "John Stauffner",
+                "Photography",
+                "Landscape shots from Pacific Northwest",
+                "87",
+                "06/15/2019",
+                "Active"
+            ],
+            [
+                "T-4105",
+                "John Staufner",
+                "Travel",
+                "Hiking trails in Oregon",
+                "42",
+                "3/22/21",
+                "Active"
+            ],
+            [
+                "T-A992",
+                "J. Stauffer",
+                "Nature",
+                "Wildlife photography collection",
+                "65",
+                "9/10/23",
+                "Archived"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-644-644": {
+        "title": [
+            "Citizenship",
+            "Singer Name",
+            "Maximum Net Worth ($)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show different citizenships and the maximum net worth of singers of each citizenship.",
+        "data": [
+            [
+                "United States",
+                "Taylor Swift",
+                "$74,000,600"
+            ],
+            [
+                "United Kingdom",
+                "Adele",
+                "$4,050,020"
+            ],
+            [
+                "Canada",
+                "Celine Dion",
+                "$80,051,003"
+            ],
+            [
+                "France",
+                "Stromae",
+                "$350,210"
+            ],
+            [
+                "Australia",
+                "Sia Furler",
+                "$5,010,230"
+            ],
+            [
+                "Germany",
+                "Rammstein Members",
+                "$6,012,040"
+            ],
+            [
+                "Japan",
+                "Hikaru Utada",
+                "$900,410"
+            ]
+        ]
+    }
+}

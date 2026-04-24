@@ -1,0 +1,51 @@
+{
+    "table-279-279": {
+        "title": [
+            "First Name",
+            "Country Code",
+            "Birth Date",
+            "Rank Points"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Tennis Player Ranking Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name, country code and birth date of the winner who has the highest rank points in all matches.",
+        "data": [
+            [
+                "Novak",
+                "SRB",
+                "1987-05-22",
+                "11245"
+            ],
+            [
+                "Carlos",
+                "ESP",
+                "2003-05-05",
+                "8855"
+            ],
+            [
+                "Daniil",
+                "RUS",
+                "1996-02-11",
+                "7615"
+            ],
+            [
+                "Jannik",
+                "ITA",
+                "2001-08-16",
+                "5985"
+            ],
+            [
+                "Stefanos",
+                "GRE",
+                "1998-08-12",
+                "5015"
+            ]
+        ]
+    }
+}

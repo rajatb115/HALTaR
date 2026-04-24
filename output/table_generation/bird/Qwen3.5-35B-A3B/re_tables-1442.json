@@ -1,0 +1,67 @@
+{
+    "table-1442-1442": {
+        "title": [
+            "Member ID",
+            "Full Name",
+            "Major Field",
+            "Degree Level",
+            "Graduation Year",
+            "Status",
+            "Credits Completed"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many members have education major in the College of Education & Human Services?",
+        "data": [
+            [
+                "M1042",
+                "Sarah Jenkins",
+                "Early Childhood Ed",
+                "Bachelor's",
+                "1976",
+                "Active",
+                "32"
+            ],
+            [
+                "M1055",
+                "Michael Torres",
+                "Special Needs",
+                "Master's",
+                "",
+                "Inactive",
+                "N/A"
+            ],
+            [
+                "M2103",
+                "Emily Chen",
+                "Elementary Edu",
+                "Bachelor's",
+                "1988",
+                "Alumni",
+                "45"
+            ],
+            [
+                "M3319",
+                "David O'Neil",
+                "Secondary Math",
+                "Doctorate",
+                "1992",
+                "Retired",
+                "60"
+            ],
+            [
+                "M4402",
+                "Lisa Patel",
+                "Educational Psych",
+                "Master's",
+                "",
+                "Pending",
+                "52"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-1098-1098": {
+        "title": [
+            "Player Name",
+            "Skill",
+            "Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Football Player Skill Scores",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is Aaron Lennox's total crossing score?",
+        "data": [
+            [
+                "Aaron Lennox",
+                "Crossing",
+                "68"
+            ],
+            [
+                "John Smith",
+                "Crossing",
+                "72"
+            ],
+            [
+                "Peter Jones",
+                "Crossing",
+                "65"
+            ],
+            [
+                "Aaron Lennox",
+                "Finishing",
+                "34"
+            ],
+            [
+                "John Smith",
+                "Finishing",
+                "88"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-54-54": {
+        "title": [
+            "School Name",
+            "Mailing City",
+            "Number of Test Takers"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Test Takers by School in Fresno",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many test takers are there at the school/s whose mailing city address is in Fresno?",
+        "data": [
+            [
+                "Edison High School",
+                "Fresno",
+                "350"
+            ],
+            [
+                "Fresno High School",
+                "Fresno",
+                "420"
+            ],
+            [
+                "McLane High School",
+                "Fresno",
+                "280"
+            ],
+            [
+                "San Joaquin Memorial High School",
+                "Fresno",
+                "150"
+            ],
+            [
+                "Sunnyside High School",
+                "Fresno",
+                "300"
+            ]
+        ]
+    }
+}

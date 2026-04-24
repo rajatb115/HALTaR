@@ -1,0 +1,47 @@
+{
+    "table-46-46": {
+        "title": [
+            "Pet ID",
+            "Weight (lbs)",
+            "Age (years)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Pet Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the id and weight of all pets whose age is older than 1.",
+        "data": [
+            [
+                "123",
+                "10",
+                "3"
+            ],
+            [
+                "456",
+                "25",
+                "2"
+            ],
+            [
+                "789",
+                "5",
+                "5"
+            ],
+            [
+                "101",
+                "15",
+                "4"
+            ],
+            [
+                "112",
+                "8",
+                "2"
+            ]
+        ]
+    }
+}

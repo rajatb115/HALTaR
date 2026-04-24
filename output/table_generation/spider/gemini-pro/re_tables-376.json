@@ -1,0 +1,49 @@
+{
+    "table-376-376": {
+        "title": [
+            "Channel",
+            "Package Choice",
+            "Series Name",
+            "High Definition"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "TV Channel Packages and Series",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the package choice and series name of the TV channel that has high definition TV.",
+        "data": [
+            [
+                "Channel A",
+                "Basic",
+                "Sitcom A",
+                "Yes"
+            ],
+            [
+                "Channel B",
+                "Premium",
+                "Drama B",
+                "Yes"
+            ],
+            [
+                "Channel C",
+                "Basic",
+                "News C",
+                "No"
+            ],
+            [
+                "Channel D",
+                "Sports",
+                "Sports D",
+                "Yes"
+            ],
+            [
+                "Channel E",
+                "Premium",
+                "Reality E",
+                "No"
+            ]
+        ]
+    }
+}

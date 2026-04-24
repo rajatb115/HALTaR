@@ -1,0 +1,77 @@
+{
+    "table-118-118": {
+        "title": [
+            "Loan ID",
+            "Original Amount",
+            "Amount Paid",
+            "Payment Status",
+            "Issue Status",
+            "% Paid"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of loan amount that has been fully paid with no issue.",
+        "data": [
+            [
+                "L001",
+                "10000.00",
+                "10000.00",
+                "Fully Paid",
+                "No Issues",
+                "100.00"
+            ],
+            [
+                "L002",
+                "50000.00",
+                "50000.00",
+                "Fully Paid",
+                "Late Payments",
+                "100.00"
+            ],
+            [
+                "L003",
+                "2500.00",
+                "1500.00",
+                "Partially Paid",
+                "No Issues",
+                "60.00"
+            ],
+            [
+                "L004",
+                "150000.00",
+                "120000.00",
+                "Partially Paid",
+                "Late Payments",
+                "80.00"
+            ],
+            [
+                "L005",
+                "5000.00",
+                "0.00",
+                "Defaulted",
+                "Collection",
+                "0.00"
+            ],
+            [
+                "L006",
+                "20000.00",
+                "20000.00",
+                "Fully Paid",
+                "No Issues",
+                "100.00"
+            ],
+            [
+                "L007",
+                "7500.00",
+                "7500.00",
+                "Fully Paid",
+                "No Issues",
+                "100.00"
+            ]
+        ]
+    }
+}

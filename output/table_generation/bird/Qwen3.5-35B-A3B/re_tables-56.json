@@ -1,0 +1,62 @@
+{
+    "table-56-56": {
+        "title": [
+            "School ID",
+            "State",
+            "County",
+            "Enrollment Ratio Factor",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of the schools with a mailing state address in California, what is the ratio of the schools located in the county of Colusa against the school located in the county of Humboldt?",
+        "data": [
+            [
+                "SCH-CA-0042",
+                "CA",
+                "Colusa",
+                "0.67",
+                "Active"
+            ],
+            [
+                "SCH-CA-HUM-011",
+                "CA",
+                "Humboldt",
+                "4.00",
+                "Active"
+            ],
+            [
+                "SCH-DAVIS-099",
+                "CA",
+                "Colusa",
+                "N/A",
+                "Pending"
+            ],
+            [
+                "SCH-TRINITY-022",
+                "CA",
+                "Arcata",
+                "N/A",
+                "Inactive"
+            ],
+            [
+                "SCH-SONOMA-055",
+                "CA",
+                "Glenn",
+                "N/A",
+                "Pending"
+            ],
+            [
+                "SCH-MENDOCINO-033",
+                "CA",
+                "Colusa",
+                "-0.12",
+                "Closed"
+            ]
+        ]
+    }
+}

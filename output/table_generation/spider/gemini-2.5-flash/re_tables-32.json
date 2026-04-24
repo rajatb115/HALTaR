@@ -1,0 +1,61 @@
+{
+    "table-32-32": {
+        "title": [
+            "Pet Type",
+            "Common Breed",
+            "Average Lifespan (Years)",
+            "Diet Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the number of distinct type of pets.",
+        "data": [
+            [
+                "Dog",
+                "Labrador Retriever",
+                "10-12",
+                "Omnivore"
+            ],
+            [
+                "Cat",
+                "Domestic Shorthair",
+                "12-18",
+                "Carnivore"
+            ],
+            [
+                "Fish",
+                "Betta Fish",
+                "2-5",
+                "Omnivore"
+            ],
+            [
+                "Bird",
+                "Cockatiel",
+                "15-20",
+                "Herbivore"
+            ],
+            [
+                "Reptile",
+                "Leopard Gecko",
+                "10-20",
+                "Carnivore"
+            ],
+            [
+                "Rodent",
+                "Guinea Pig",
+                "5-7",
+                "Herbivore"
+            ],
+            [
+                "Amphibian",
+                "Pacman Frog",
+                "10-15",
+                "Carnivore"
+            ]
+        ]
+    }
+}

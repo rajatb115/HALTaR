@@ -1,0 +1,53 @@
+{
+    "table-962-962": {
+        "title": [
+            "Race Name",
+            "Year",
+            "Finishing Time"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which race has the shortest actual finishing time? Please give the name and year.",
+        "data": [
+            [
+                "Olympic 100m Final",
+                "2020",
+                "0:00:09.83"
+            ],
+            [
+                "World Rowing Championships",
+                "2022",
+                "0:05:23.45"
+            ],
+            [
+                "Monaco Grand Prix",
+                "2023",
+                "1:48:18"
+            ],
+            [
+                "Boston Marathon",
+                "2022",
+                "2:06:17"
+            ],
+            [
+                "Indy 500",
+                "2023",
+                "2:58:23"
+            ],
+            [
+                "Tour de France Stage 1",
+                "2023",
+                "4:15:30"
+            ],
+            [
+                "Ironman World Championship",
+                "2021",
+                "7:40:24"
+            ]
+        ]
+    }
+}

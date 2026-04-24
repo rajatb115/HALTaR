@@ -1,0 +1,49 @@
+{
+    "table-94-94": {
+        "title": [
+            "Region",
+            "Gender",
+            "Avg. Salary",
+            "Customer Count"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Customer Demographics and Salary Overview",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male customers who are living in North Bohemia have average salary greater than 8000?",
+        "data": [
+            [
+                "North Bohemia",
+                "Male",
+                "> 8000",
+                "X"
+            ],
+            [
+                "North Bohemia",
+                "Female",
+                "> 8000",
+                "Y"
+            ],
+            [
+                "North Bohemia",
+                "Male",
+                "<= 8000",
+                "Z"
+            ],
+            [
+                "North Bohemia",
+                "Female",
+                "<= 8000",
+                "W"
+            ],
+            [
+                "Other Regions",
+                "All",
+                "All",
+                "..."
+            ]
+        ]
+    }
+}

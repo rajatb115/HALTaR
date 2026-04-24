@@ -1,0 +1,53 @@
+{
+    "table-640-640": {
+        "title": [
+            "Singer Name",
+            "Birth Year",
+            "Genre"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the name of singers whose birth year is either 1948 or 1949?",
+        "data": [
+            [
+                "Ozzy Osbourne",
+                "1948",
+                "Heavy Metal"
+            ],
+            [
+                "Robert Plant",
+                "1948",
+                "Rock"
+            ],
+            [
+                "Steven Tyler",
+                "1948",
+                "Hard Rock"
+            ],
+            [
+                "Donna Summer",
+                "1948",
+                "Disco"
+            ],
+            [
+                "Billy Joel",
+                "1949",
+                "Pop Rock"
+            ],
+            [
+                "Bruce Springsteen",
+                "1949",
+                "Rock"
+            ],
+            [
+                "Lionel Richie",
+                "1949",
+                "R&B/Soul"
+            ]
+        ]
+    }
+}

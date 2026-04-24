@@ -1,0 +1,39 @@
+{
+    "table-165-165": {
+        "title": [
+            "Store ID",
+            "Location"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Store Location Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of distinct store locations.",
+        "data": [
+            [
+                "1",
+                "New York"
+            ],
+            [
+                "2",
+                "Los Angeles"
+            ],
+            [
+                "3",
+                "Chicago"
+            ],
+            [
+                "4",
+                "New York"
+            ],
+            [
+                "5",
+                "Houston"
+            ]
+        ]
+    }
+}

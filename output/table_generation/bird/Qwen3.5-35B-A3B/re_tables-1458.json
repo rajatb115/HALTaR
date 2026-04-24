@@ -1,0 +1,62 @@
+{
+    "table-1458-1458": {
+        "title": [
+            "Member Full Name",
+            "Contact Number",
+            "Total Expense Amount",
+            "Average Threshold",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the full name and contact number of members who had to spend more than average on each expense.",
+        "data": [
+            [
+                "John Smith",
+                "+1-555-0142",
+                "$1,250.00",
+                "$980.50",
+                "Above Average"
+            ],
+            [
+                "Sarah Johnson",
+                "+44-7700-900456",
+                "$2,100.75",
+                "$850.00",
+                "Above Avg"
+            ],
+            [
+                "Michael Chen",
+                "+86-138-0093-5021",
+                "$3,450.20",
+                "N/A",
+                "Exceeded Limit"
+            ],
+            [
+                "Emily Davis",
+                "+33-6-78-91-23-45",
+                "\u20ac1,890.30",
+                "\u20ac950.40",
+                "High Spender"
+            ],
+            [
+                "Robert Wilson",
+                "+61-4-1234-5678",
+                "AUD 4,205.05",
+                "AUD 320.10",
+                "Over Budget"
+            ],
+            [
+                "Lisa Anderson",
+                "+551-1-9876-5432",
+                "R$ 8,902.15",
+                "",
+                ""
+            ]
+        ]
+    }
+}

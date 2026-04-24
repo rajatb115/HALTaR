@@ -1,0 +1,77 @@
+{
+    "table-580-580": {
+        "title": [
+            "First_Name",
+            "Context_Type",
+            "Usage_Status",
+            "Frequency_Score",
+            "Region",
+            "Source_Category"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which first names are used for professionals or owners but are not used as dog names?",
+        "data": [
+            [
+                "John",
+                "Professional Owner",
+                "Human Only",
+                "High",
+                "North America",
+                "Business Registry"
+            ],
+            [
+                "Sarah",
+                "Veterinary Staff",
+                "Human Exclusive",
+                "Medium",
+                "Europe",
+                "HR Database"
+            ],
+            [
+                "Michael",
+                "Clinic Director",
+                "Not Used for Pets",
+                "Low",
+                "Asia Pacific",
+                "Licensing Records"
+            ],
+            [
+                "Emily",
+                "Practice Manager",
+                "Dog Names Excluded",
+                "High",
+                "South America",
+                "Industry Survey"
+            ],
+            [
+                "David",
+                "Pet Shop Owner",
+                "Non-Pet Designation",
+                "Medium",
+                "Africa",
+                "Trade Association"
+            ],
+            [
+                "Jessica",
+                "Kennel Supervisor",
+                "No Canine Matches",
+                "Low",
+                "Oceania",
+                "Employment Logs"
+            ],
+            [
+                "Robert",
+                "Animal Shelter Lead",
+                "Strictly Human",
+                "High",
+                "Middle East",
+                "Government Data"
+            ]
+        ]
+    }
+}

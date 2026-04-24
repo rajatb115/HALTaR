@@ -1,0 +1,62 @@
+{
+    "table-1025-1025": {
+        "title": [
+            "Player Name",
+            "Player ID",
+            "Crossing Accuracy (%)",
+            "Team",
+            "Position"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who are the top 5 players who perform better in crossing actions? Indicate their player id.",
+        "data": [
+            [
+                "Kevin De Bruyne",
+                "P00101",
+                "88",
+                "Manchester City",
+                "Midfielder"
+            ],
+            [
+                "Trent Alexander-Arnold",
+                "P00202",
+                "85",
+                "Liverpool FC",
+                "Right-Back"
+            ],
+            [
+                "Filip Kosti\u0107",
+                "P00303",
+                "86",
+                "Juventus FC",
+                "Left Midfielder"
+            ],
+            [
+                "Joshua Kimmich",
+                "P00404",
+                "83",
+                "Bayern Munich",
+                "Midfielder"
+            ],
+            [
+                "Andrew Robertson",
+                "P00505",
+                "82",
+                "Liverpool FC",
+                "Left-Back"
+            ],
+            [
+                "Reece James",
+                "P00606",
+                "81",
+                "Chelsea FC",
+                "Right-Back"
+            ]
+        ]
+    }
+}

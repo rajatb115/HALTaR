@@ -1,0 +1,51 @@
+{
+    "table-56-56": {
+        "title": [
+            "Student Name",
+            "Last Name",
+            "Pet Type",
+            "Pet Age"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Pet Owners and Their Pets",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the last name of the student who has a cat that is age 3.",
+        "data": [
+            [
+                "Alice",
+                "Smith",
+                "Dog",
+                "5"
+            ],
+            [
+                "Bob",
+                "Johnson",
+                "Cat",
+                "3"
+            ],
+            [
+                "Charlie",
+                "Brown",
+                "Bird",
+                "1"
+            ],
+            [
+                "David",
+                "Williams",
+                "Fish",
+                "2"
+            ],
+            [
+                "Emily",
+                "Davis",
+                "Cat",
+                "7"
+            ]
+        ]
+    }
+}

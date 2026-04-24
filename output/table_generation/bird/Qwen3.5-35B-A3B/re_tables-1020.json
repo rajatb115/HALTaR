@@ -1,0 +1,76 @@
+{
+    "table-1020-1020": {
+        "title": [
+            "Circuit_Name",
+            "Lap_Record_Time_ms",
+            "Driver_Nationality",
+            "Record_Year",
+            "Track_Length_km"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average lap time in milliseconds of all the lap records set on the various circuits in Italy?",
+        "data": [
+            [
+                "Monza_F1_Circuit",
+                "74620",
+                "Michael_Schumacher",
+                "3000",
+                "5.793"
+            ],
+            [
+                "Imola_Autodromo",
+                "82150",
+                "Gilles_Villeneuve",
+                "4002",
+                "6.309"
+            ],
+            [
+                "Misano_World_Circuit_Racetrack",
+                "91205",
+                "Valentino_Rossi",
+                "5004",
+                "4.226"
+            ],
+            [
+                "Varano_Motorsport_Park",
+                "",
+                "N/A",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "Circuito_di_Lugano",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Autodromo_Internazionale_del_Vallelunga",
+                "",
+                "Ayrton_Senna",
+                "",
+                ""
+            ],
+            [
+                "Mogadiscio_Trial_Grounds",
+                "None",
+                "No_Data",
+                "Unknown",
+                "Unavailable"
+            ],
+            [
+                "Sarno_Provincial_Track",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

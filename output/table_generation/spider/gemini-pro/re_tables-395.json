@@ -1,0 +1,37 @@
+{
+    "table-395-395": {
+        "title": [
+            "Player Name",
+            "Earnings"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Poker Player Earnings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the average earnings across all poker players.",
+        "data": [
+            [
+                "Alice",
+                "$50,000"
+            ],
+            [
+                "Bob",
+                "$75,000"
+            ],
+            [
+                "Charlie",
+                "$25,000"
+            ],
+            [
+                "David",
+                "$100,000"
+            ],
+            [
+                "Eve",
+                "$60,000"
+            ]
+        ]
+    }
+}

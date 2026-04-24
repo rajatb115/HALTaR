@@ -1,0 +1,69 @@
+{
+    "table-986-986": {
+        "title": [
+            "Driver",
+            "Team",
+            "Lap_3_Time",
+            "Gap_to_Pole",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the drivers who participated in the French Grand Prix, who has the slowest time in the 3rd lap.",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "Mercedes",
+                "01:34.210",
+                "+0.000s",
+                "Finished"
+            ],
+            [
+                "Max Verstappen",
+                "Red Bull Racing",
+                "",
+                "N/A",
+                "Retired"
+            ],
+            [
+                "Charles Leclerc",
+                "Ferrari",
+                "",
+                "+1.110s",
+                "DNF"
+            ],
+            [
+                "Fernando Alonso",
+                "Aston Martin",
+                "",
+                "+2.400ms",
+                "Finished"
+            ],
+            [
+                "George Russell",
+                "Williams",
+                "",
+                "+3.201s",
+                "Podium Finish"
+            ],
+            [
+                "Carlos Sainz Jr.",
+                "McLaren",
+                "",
+                "+4.500m",
+                "Disqualified"
+            ],
+            [
+                "Sergio Perez",
+                "Alpine F1 Team",
+                "",
+                "+5.123s",
+                "Pits Stop Delayed"
+            ]
+        ]
+    }
+}

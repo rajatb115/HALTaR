@@ -1,0 +1,53 @@
+{
+    "table-81-81": {
+        "title": [
+            "School Name",
+            "School Type",
+            "Latitude"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the school type of the school with the highest latitude? Indicate the name of the school as well as the latitude coordinates.",
+        "data": [
+            [
+                "Arctic Bay High School",
+                "Public High School",
+                "73.00 N"
+            ],
+            [
+                "Northern Lights Academy",
+                "Private Academy",
+                "68.50 N"
+            ],
+            [
+                "Polar Star College",
+                "Community College",
+                "64.25 N"
+            ],
+            [
+                "Tundra Elementary",
+                "Elementary School",
+                "60.10 N"
+            ],
+            [
+                "Glacier Peak University",
+                "University",
+                "58.75 N"
+            ],
+            [
+                "Aurora Borealis School",
+                "Vocational School",
+                "55.30 N"
+            ],
+            [
+                "Midnight Sun Institute",
+                "Research Institute",
+                "52.90 N"
+            ]
+        ]
+    }
+}

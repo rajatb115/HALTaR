@@ -1,0 +1,35 @@
+{
+    "table-674-674": {
+        "title": [
+            "User Age Group",
+            "Average Posts Voted"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "User Voting Statistics",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average number of posts voted by the oldest users?",
+        "data": [
+            [
+                "70-79",
+                "125"
+            ],
+            [
+                "80-89",
+                "110"
+            ],
+            [
+                "90-99",
+                "95"
+            ],
+            [
+                "100+",
+                "80"
+            ]
+        ]
+    }
+}

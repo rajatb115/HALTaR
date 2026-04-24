@@ -1,0 +1,43 @@
+{
+    "table-19-19": {
+        "title": [
+            "Country",
+            "Singer Age Group",
+            "Example Singer"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Singer Origins by Age Group",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show countries where a singer above age 40 and a singer below 30 are from.",
+        "data": [
+            [
+                "USA",
+                "Over 40",
+                "Bruce Springsteen"
+            ],
+            [
+                "UK",
+                "Over 40",
+                "Sting"
+            ],
+            [
+                "Canada",
+                "Under 30",
+                "Justin Bieber"
+            ],
+            [
+                "USA",
+                "Under 30",
+                "Billie Eilish"
+            ],
+            [
+                "UK",
+                "Under 30",
+                "Harry Styles"
+            ]
+        ]
+    }
+}

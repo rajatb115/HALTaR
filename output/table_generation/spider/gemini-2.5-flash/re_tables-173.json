@@ -1,0 +1,69 @@
+{
+    "table-173-173": {
+        "title": [
+            "Template Name",
+            "Template ID",
+            "Category",
+            "Usage Count",
+            "Last Used Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Count the number of different templates used for documents.",
+        "data": [
+            [
+                "Project Proposal",
+                "TPL-001",
+                "Business",
+                "125",
+                "2023-10-26"
+            ],
+            [
+                "Expense Report",
+                "TPL-002",
+                "Finance",
+                "340",
+                "2023-11-15"
+            ],
+            [
+                "Meeting Minutes",
+                "TPL-003",
+                "Collaboration",
+                "210",
+                "2023-11-20"
+            ],
+            [
+                "Onboarding Checklist",
+                "TPL-004",
+                "HR",
+                "88",
+                "2023-09-01"
+            ],
+            [
+                "Quarterly Sales Report",
+                "TPL-005",
+                "Sales",
+                "45",
+                "2023-10-10"
+            ],
+            [
+                "Client Contract",
+                "TPL-006",
+                "Legal",
+                "62",
+                "2023-11-05"
+            ],
+            [
+                "Marketing Campaign Brief",
+                "TPL-007",
+                "Marketing",
+                "78",
+                "2023-11-18"
+            ]
+        ]
+    }
+}

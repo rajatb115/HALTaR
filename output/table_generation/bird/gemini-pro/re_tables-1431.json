@@ -1,0 +1,43 @@
+{
+    "table-1431-1431": {
+        "title": [
+            "Last Name",
+            "Position",
+            "Purchase Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Student Pizza Purchase Records",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the last name and position of the student that bought pizza on 09/10/2019?",
+        "data": [
+            [
+                "Smith",
+                "Guard",
+                "09/10/2019"
+            ],
+            [
+                "Johnson",
+                "Center",
+                "09/10/2019"
+            ],
+            [
+                "Williams",
+                "Forward",
+                "09/10/2019"
+            ],
+            [
+                "Brown",
+                "Guard",
+                "09/10/2019"
+            ],
+            [
+                "Davis",
+                "Center",
+                "09/10/2019"
+            ]
+        ]
+    }
+}

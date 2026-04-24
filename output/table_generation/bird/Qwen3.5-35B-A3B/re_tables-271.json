@@ -1,0 +1,77 @@
+{
+    "table-271-271": {
+        "title": [
+            "Molecule ID",
+            "Element Composition",
+            "Carcinogenicity Status",
+            "Source Classification",
+            "Risk Level",
+            "Study Reference"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the molecules with element Calcium, are they mostly carcinogenic or non carcinogenic?",
+        "data": [
+            [
+                "MOL-Ca-004",
+                "Calcium Carbonate",
+                "Non Carcinogenic",
+                "IARC Group 3",
+                "Low",
+                "WHO Report 21"
+            ],
+            [
+                "mCa-Salt-77",
+                "Calcium Chloride",
+                "Non Carcinogenic",
+                "EPA List N/A",
+                "Negligible",
+                "ToxBase v4"
+            ],
+            [
+                "xCal-Mix-92",
+                "Calcium Gluconate",
+                "Not Classified",
+                "FDA GRAS",
+                "None",
+                "J Chem Safety"
+            ],
+            [
+                "rCa-Oxal-11",
+                "Calcium Oxalate",
+                "Suspected",
+                "ACGIH TLV",
+                "Moderate",
+                "Ind Health Rev"
+            ],
+            [
+                "hCa-Pyruv-33",
+                "Calcium Pyruvate",
+                "Benign",
+                "NIOSH Registry",
+                "Safe",
+                "Chem Data Sheet"
+            ],
+            [
+                "iCa-Lact-66",
+                "Calcium Lactate",
+                "Inert",
+                "EFSA Panel",
+                "Zero Risk",
+                "Food Addit J"
+            ],
+            [
+                "jCa-Fos-88",
+                "Calcium Phosphate",
+                "Uncertain",
+                "Unknown Source",
+                "Data Gap",
+                "Lab Note 99"
+            ]
+        ]
+    }
+}

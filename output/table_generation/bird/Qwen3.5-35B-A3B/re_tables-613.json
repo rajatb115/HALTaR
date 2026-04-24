@@ -1,0 +1,76 @@
+{
+    "table-613-613": {
+        "title": [
+            "User Display Name",
+            "Badge ID",
+            "Badge Name",
+            "Date Obtained",
+            "Category",
+            "Points Awarded",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of badge that the user whose display name is \"Pierre\" obtained?",
+        "data": [
+            [
+                "Pierre",
+                "BDG_402",
+                "Community Leader",
+                "7/15/2023",
+                "Achievement",
+                "50",
+                "Active"
+            ],
+            [
+                "Alexandre",
+                "BDQ_101",
+                "First Contribution",
+                "6/22/2023",
+                "Participation",
+                "0",
+                "Inactive"
+            ],
+            [
+                "Sophie",
+                "BDW_550",
+                "Top Contributor",
+                "8/01/2024",
+                "Recognition",
+                "30",
+                "N/A"
+            ],
+            [
+                "Jean-Luc",
+                "BDZ_203",
+                "Early Adopter",
+                "9/10/2021",
+                "Feature Access",
+                "45",
+                "Pending"
+            ],
+            [
+                "Maria",
+                "BDA_888",
+                "Expert Reviewer",
+                "",
+                "Quality Assurance",
+                "",
+                "N/A"
+            ],
+            [
+                "David",
+                "BDB_333",
+                "Mentorship Guide",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

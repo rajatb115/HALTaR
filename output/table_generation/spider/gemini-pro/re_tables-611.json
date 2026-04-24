@@ -1,0 +1,39 @@
+{
+    "table-611-611": {
+        "title": [
+            "Professional Type",
+            "Number Ever Treating Dogs"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Professionals Treating Dogs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the number of professionals who have ever treated dogs.",
+        "data": [
+            [
+                "Veterinarian",
+                "150000"
+            ],
+            [
+                "Veterinary Technician",
+                "100000"
+            ],
+            [
+                "Animal Shelter Worker",
+                "50000"
+            ],
+            [
+                "Dog Trainer",
+                "25000"
+            ],
+            [
+                "Groomer",
+                "10000"
+            ]
+        ]
+    }
+}

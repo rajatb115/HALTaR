@@ -1,0 +1,53 @@
+{
+    "table-1072-1072": {
+        "title": [
+            "Short Name",
+            "Build Up Play Speed",
+            "Build Up Play Dribbling",
+            "Build Up Play Passing"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Football Team Build Up Play Attributes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the football team that has a build up play speed of 31, build up plan dribbling of 53, and build up play passing of 32. Only indicate the short name of the team.",
+        "data": [
+            [
+                "FCB",
+                "31",
+                "53",
+                "32"
+            ],
+            [
+                "RMA",
+                "35",
+                "48",
+                "40"
+            ],
+            [
+                "PSG",
+                "40",
+                "50",
+                "45"
+            ],
+            [
+                "LIV",
+                "38",
+                "45",
+                "38"
+            ],
+            [
+                "BAY",
+                "33",
+                "55",
+                "30"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-1158-1158": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Diagnosis",
+            "Severity"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Information for Severe Thrombosis Cases",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patients with severe degree of thrombosis, list their ID, sex and dieseas the patient is diagnosed with.",
+        "data": [
+            [
+                "101",
+                "Male",
+                "Deep Vein Thrombosis",
+                "Severe"
+            ],
+            [
+                "105",
+                "Female",
+                "Pulmonary Embolism",
+                "Severe"
+            ],
+            [
+                "112",
+                "Male",
+                "Cerebral Venous Thrombosis",
+                "Severe"
+            ],
+            [
+                "119",
+                "Female",
+                "Portal Vein Thrombosis",
+                "Severe"
+            ],
+            [
+                "125",
+                "Male",
+                "Deep Vein Thrombosis",
+                "Severe"
+            ]
+        ]
+    }
+}

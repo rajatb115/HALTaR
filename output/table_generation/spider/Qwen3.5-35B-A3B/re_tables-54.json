@@ -1,0 +1,58 @@
+{
+    "table-54-54": {
+        "title": [
+            "Student ID",
+            "Last Name",
+            "First Name",
+            "Pet ID",
+            "Pet Name",
+            "Species",
+            "Owner Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the id of the pet owned by student whose last name is \u2018Smith\u2019.",
+        "data": [
+            [
+                "STU_1042",
+                "Smith",
+                "John",
+                "PET_7721",
+                "Max",
+                "Dog",
+                "Active"
+            ],
+            [
+                "STO_2091",
+                "Smithen",
+                "Sarah",
+                "N/A",
+                "None",
+                "N/a",
+                "Inactive"
+            ],
+            [
+                "STA_3305",
+                "Smyth",
+                "Robert",
+                "PET_A1B2",
+                "Luna",
+                "Cat",
+                "Pending"
+            ],
+            [
+                "STD_4418",
+                "Smithwick",
+                "Emily",
+                "PET_C3D4",
+                "Oliver",
+                "Hamster",
+                "Active"
+            ]
+        ]
+    }
+}

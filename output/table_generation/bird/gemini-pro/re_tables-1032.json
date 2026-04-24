@@ -1,0 +1,53 @@
+{
+    "table-1032-1032": {
+        "title": [
+            "Player Name",
+            "Age",
+            "Sprint Speed",
+            "Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Player Statistics Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "At present, calculate for the player's age who have a sprint speed of no less than 97 between 2013 to 2015.",
+        "data": [
+            [
+                "Player A",
+                "25",
+                "98",
+                "2013"
+            ],
+            [
+                "Player B",
+                "28",
+                "97",
+                "2014"
+            ],
+            [
+                "Player C",
+                "22",
+                "99",
+                "2015"
+            ],
+            [
+                "Player D",
+                "26",
+                "97",
+                "2013"
+            ],
+            [
+                "Player E",
+                "29",
+                "98",
+                "2014"
+            ]
+        ]
+    }
+}

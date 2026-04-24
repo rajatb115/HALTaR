@@ -1,0 +1,85 @@
+{
+    "table-646-646": {
+        "title": [
+            "User_ID",
+            "Comment_Type",
+            "Sentiment_Score",
+            "Date_Posted",
+            "Platform",
+            "Status",
+            "Count_Negative"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many negative comments were given by user ID 13?",
+        "data": [
+            [
+                "14",
+                "Negative",
+                "-0.85",
+                "06/01/2023",
+                "Twitter",
+                "Verified",
+                "3"
+            ],
+            [
+                "13",
+                "Neutral",
+                "0.12",
+                "6/1/1970",
+                "Facebook",
+                "Pending",
+                "N/A"
+            ],
+            [
+                "5",
+                "Positive",
+                "4.50",
+                "5/22/2300",
+                "Instagram",
+                "Active",
+                "8"
+            ],
+            [
+                "22",
+                "Negative",
+                "-0.92",
+                "Jan 15, 2345",
+                "Reddit",
+                "Flagged",
+                "7"
+            ],
+            [
+                "9",
+                "Mixed",
+                "-0.05",
+                "Dec 31, 1000",
+                "TikTok",
+                "Deleted",
+                "9"
+            ],
+            [
+                "33",
+                "Negative",
+                "-0.77",
+                "Nov 11, 2011",
+                "YouTube",
+                "Archived",
+                ""
+            ],
+            [
+                "41",
+                "Negative",
+                "",
+                "Mar 3, 3030",
+                "LinkedIn",
+                "Open",
+                ""
+            ]
+        ]
+    }
+}

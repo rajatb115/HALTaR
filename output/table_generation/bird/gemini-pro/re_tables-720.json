@@ -1,0 +1,45 @@
+{
+    "table-720-720": {
+        "title": [
+            "Superhero Name",
+            "Superpower",
+            "Height (cm)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Superheroes with Super Strength and Height Over 200cm",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the superheroes with the super power of \"Super Strength\", how many of them have a height of over 200cm?",
+        "data": [
+            [
+                "Hulk",
+                "Super Strength",
+                "244"
+            ],
+            [
+                "Colossus",
+                "Super Strength",
+                "226"
+            ],
+            [
+                "Thing",
+                "Super Strength",
+                "201"
+            ],
+            [
+                "Thor",
+                "Super Strength",
+                "198"
+            ],
+            [
+                "Superman",
+                "Super Strength",
+                "191"
+            ]
+        ]
+    }
+}

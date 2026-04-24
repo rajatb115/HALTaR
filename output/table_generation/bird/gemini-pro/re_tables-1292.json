@@ -1,0 +1,51 @@
+{
+    "table-1292-1292": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Albumin Level",
+            "Total Protein Level"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Lab Results Overview",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male patients have a normal level of both albumin and total protein?",
+        "data": [
+            [
+                "12345",
+                "Male",
+                "Normal",
+                "Normal"
+            ],
+            [
+                "67890",
+                "Female",
+                "Low",
+                "High"
+            ],
+            [
+                "24680",
+                "Male",
+                "Normal",
+                "High"
+            ],
+            [
+                "13579",
+                "Male",
+                "Normal",
+                "Normal"
+            ],
+            [
+                "98765",
+                "Female",
+                "Normal",
+                "Normal"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-384-384": {
+        "title": [
+            "Channel_Name",
+            "Nation",
+            "Language",
+            "Pixel_Aspect_Ratio",
+            "Resolution_Type",
+            "Broadcast_Standard"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the pixel aspect ratio and nation of the tv channels that do not use English.",
+        "data": [
+            [
+                "France 24",
+                "France",
+                "French",
+                "6/5",
+                "SD",
+                "PAL"
+            ],
+            [
+                "NHK World Japan",
+                "Japan",
+                "Japanese",
+                "4/3",
+                "HD",
+                "NTSC"
+            ],
+            [
+                "Deutsche Welle",
+                "Germany",
+                "German",
+                "7/6",
+                "SD/DVB-T2",
+                "DVB-S2"
+            ],
+            [
+                "RT International",
+                "Russia",
+                "Russian",
+                "5/4",
+                "SD/Cable",
+                "ATSC"
+            ],
+            [
+                "Al Jazeera Arabic",
+                "Qatar",
+                "Arabic",
+                "3/2",
+                "HD/Satellite",
+                "ISDB-T"
+            ],
+            [
+                "TV5Monde",
+                "Belgium",
+                "French/Flemish",
+                "9/5",
+                "Ultra HD",
+                "DAB+"
+            ],
+            [
+                "Canal Plus",
+                "Canada",
+                "French (Quebec)",
+                "16/9",
+                "8K",
+                "VHF/UHF"
+            ]
+        ]
+    }
+}

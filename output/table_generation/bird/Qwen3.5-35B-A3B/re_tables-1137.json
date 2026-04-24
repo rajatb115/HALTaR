@@ -1,0 +1,77 @@
+{
+    "table-1137-1137": {
+        "title": [
+            "Player_Name",
+            "Preferred_Foot",
+            "Crossing_Potential_Score",
+            "Attacking_Position",
+            "Club",
+            "League_Season"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many players had the highest potential score for crossing that preferred to use their left foots while attacking?",
+        "data": [
+            [
+                "Lionel Messi",
+                "Left",
+                "94",
+                "Right Winger",
+                "PSG",
+                "6/7"
+            ],
+            [
+                "Rafael Leao",
+                "Left & Right",
+                "89",
+                "Forward",
+                "AC Milan",
+                "5/6"
+            ],
+            [
+                "Mohamed Salah",
+                "Left Foot Dominant",
+                "78",
+                "Right Wing",
+                "Liverpool",
+                "4/5"
+            ],
+            [
+                "Antony",
+                "Left Side Preference",
+                "32",
+                "Right Midfielder",
+                "Man Utd",
+                "0/1"
+            ],
+            [
+                "Bukayo Saka",
+                "Strong Left Foot",
+                "85",
+                "Right Back/Wing",
+                "Arsenal",
+                ""
+            ],
+            [
+                "Ousmane Dembele",
+                "Ambidextrous Lean",
+                "",
+                "Left Winger",
+                "Barcelona",
+                "N/A"
+            ],
+            [
+                "Jadon Sancho",
+                "Balanced but Left",
+                "",
+                "Striker",
+                "Dortmund",
+                "N/A"
+            ]
+        ]
+    }
+}

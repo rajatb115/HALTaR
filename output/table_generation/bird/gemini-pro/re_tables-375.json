@@ -1,0 +1,43 @@
+{
+    "table-375-375": {
+        "title": [
+            "Card Name",
+            "Availability",
+            "Notes"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "MTG Black Border Card Availability",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many black border cards are only available on mtgo?",
+        "data": [
+            [
+                "Treasure Cruise",
+                "MTGO",
+                "Originally banned in paper formats"
+            ],
+            [
+                "Gitaxian Probe",
+                "MTGO",
+                "Banned in Modern format"
+            ],
+            [
+                "Lightning Bolt",
+                "Both",
+                "Iconic red spell"
+            ],
+            [
+                "Brainstorm",
+                "Both",
+                "Common in blue decks"
+            ],
+            [
+                "Demonic Tutor",
+                "Both",
+                "Powerful tutor effect"
+            ]
+        ]
+    }
+}

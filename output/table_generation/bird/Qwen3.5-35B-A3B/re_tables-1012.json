@@ -1,0 +1,69 @@
+{
+    "table-1012-1012": {
+        "title": [
+            "Driver Full Name",
+            "Lap Time",
+            "Circuit",
+            "Race Event",
+            "Date Created"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which driver created the shortest lap time ever record in a Formula_1 race? Please give his full name.",
+        "data": [
+            [
+                "Max Verstappen",
+                "67.45s",
+                "Monza GP",
+                "Italian Grand Prix",
+                "02/09/2024"
+            ],
+            [
+                "Lewis Hamilton",
+                "71.22s",
+                "Silverstone GP",
+                "British Grand Prix",
+                ""
+            ],
+            [
+                "Charles Leclerc",
+                "58.91s",
+                "Monaco GP",
+                "Monaco Grand Prix",
+                "21/05/2021"
+            ],
+            [
+                "Sebastian Vettel",
+                "82.33s",
+                "Spa-Francorchamps",
+                "Belgian Grand Prix",
+                "/08/23"
+            ],
+            [
+                "Kimi Raikkonen",
+                "91.05s",
+                "Hockenheimring",
+                "German Grand Prix",
+                "-07/22"
+            ],
+            [
+                "Fernando Alonso",
+                "45.67s",
+                "Nurburgring",
+                "European Grand Prix",
+                "--06/19"
+            ],
+            [
+                "Michael Schumacher",
+                "33.44s",
+                "Suzuka",
+                "Japanese Grand Prix",
+                "--10/18"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-340-340": {
+        "title": [
+            "Molecule Name",
+            "Atom ID",
+            "Contains Oxygen",
+            "Carcinogenic"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Carcinogenic Molecules Containing Oxygen",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the atom ID of the carcinogenic molecule that contains oxygen?",
+        "data": [
+            [
+                "Aflatoxin B1",
+                "12",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Benzo[a]pyrene-7,8-diol-9,10-epoxide",
+                "5",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Ethylene Oxide",
+                "1",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Formaldehyde",
+                "3",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Acetaldehyde",
+                "2",
+                "Yes",
+                "Yes"
+            ]
+        ]
+    }
+}

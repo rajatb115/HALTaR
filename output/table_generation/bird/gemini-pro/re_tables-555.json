@@ -1,0 +1,39 @@
+{
+    "table-555-555": {
+        "title": [
+            "Display Name",
+            "Badge Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Users Ranked by Badge Count",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the display name of the user who has obtained the most number of badges?",
+        "data": [
+            [
+                "User A",
+                "15"
+            ],
+            [
+                "User B",
+                "12"
+            ],
+            [
+                "User C",
+                "10"
+            ],
+            [
+                "User D",
+                "8"
+            ],
+            [
+                "User E",
+                "7"
+            ]
+        ]
+    }
+}

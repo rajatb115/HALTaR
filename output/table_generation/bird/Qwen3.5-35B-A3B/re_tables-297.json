@@ -1,0 +1,69 @@
+{
+    "table-297-297": {
+        "title": [
+            "Molecule ID",
+            "Bond ID",
+            "First Atom Name",
+            "Second Atom Name Bonded",
+            "Atom Index in Molecule",
+            "Charge State"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicate the molecule id is belonging to the TR00_1_2 bond that has the first atom named TR00_1.",
+        "data": [
+            [
+                "MOL_TR00_A",
+                "TR00_BOND_X",
+                "TR_00_Carbon",
+                "Oxygen_Alpha",
+                "4",
+                "-1"
+            ],
+            [
+                "MOL_TR11_Y",
+                "TR11_BOND_Z",
+                "TR_Nitrogen_Gamma",
+                "Sulfur_Delta",
+                "7",
+                "+2"
+            ],
+            [
+                "mol_tr00_bond_v",
+                "TR_VARIANT_1",
+                "TR_Hydrogen_Epsilon",
+                "Carbon_Kappa",
+                "12",
+                "0"
+            ],
+            [
+                "RNA_STRAND_01",
+                "RNA_LINK_99",
+                "TR_Phosphate_F",
+                "Nitrogen_Lambda",
+                "1",
+                "-16"
+            ],
+            [
+                "RFID_TAG_55",
+                "RF_ID_CONN_2",
+                "TR_Silicon_Mu",
+                "Fluxion_Nu",
+                "3",
+                "Neutral"
+            ],
+            [
+                "MOLECULE_REF_9",
+                "REF_BND_0X",
+                "TR_Omega_Pi",
+                "Alpha_Rho",
+                "10",
+                "Unknown"
+            ]
+        ]
+    }
+}

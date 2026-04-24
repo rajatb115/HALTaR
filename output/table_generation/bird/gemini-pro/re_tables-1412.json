@@ -1,0 +1,49 @@
+{
+    "table-1412-1412": {
+        "title": [
+            "Expense Type",
+            "Description",
+            "Amount",
+            "Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Sacha Harrison's Expenses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State what kind of expenses that Sacha Harrison incurred?",
+        "data": [
+            [
+                "Travel",
+                "Train ticket to London",
+                "$50",
+                "2023-03-15"
+            ],
+            [
+                "Accommodation",
+                "Hotel stay in London",
+                "$150",
+                "2023-03-15"
+            ],
+            [
+                "Meals",
+                "Dinner at a restaurant",
+                "$30",
+                "2023-03-15"
+            ],
+            [
+                "Conference Fee",
+                "Attendance fee for industry conference",
+                "$200",
+                "2023-03-16"
+            ],
+            [
+                "Entertainment",
+                "Tickets to a show",
+                "$40",
+                "2023-03-16"
+            ]
+        ]
+    }
+}

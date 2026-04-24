@@ -1,0 +1,45 @@
+{
+    "table-1255-1255": {
+        "title": [
+            "IgA Level",
+            "Admission Date",
+            "Number of Patients"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Patient Statistics Based on IgA Levels and Admission Date",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal Ig A level came to the hospital after 1990/1/1?",
+        "data": [
+            [
+                "Normal",
+                "1990-01-01 and Later",
+                "150"
+            ],
+            [
+                "High",
+                "1990-01-01 and Later",
+                "75"
+            ],
+            [
+                "Low",
+                "1990-01-01 and Later",
+                "30"
+            ],
+            [
+                "Normal",
+                "Before 1990-01-01",
+                "100"
+            ],
+            [
+                "High",
+                "Before 1990-01-01",
+                "50"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-579-579": {
+        "title": [
+            "Dog_Name",
+            "Owner_ID",
+            "Total_Treatment_Cost",
+            "Last_Visit_Date",
+            "Clinic_Location",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the dogs for which the owner has not spend more than 1000 for treatment ?",
+        "data": [
+            [
+                "Buddy",
+                "O-104",
+                "$450",
+                "06/12/2023",
+                "North Vet Center",
+                "Active"
+            ],
+            [
+                "Luna",
+                "O-TT2",
+                "$890",
+                "Jan 15, 2024",
+                "South Animal Care",
+                "Recovering"
+            ],
+            [
+                "Max",
+                "O-P99",
+                "$120",
+                "Nov 02, 999",
+                "East Pet Hospital",
+                "Healthy"
+            ],
+            [
+                "Daisy",
+                "O-LM7",
+                "$950",
+                "Mar 22, 2023",
+                "West Paws Clinic",
+                "Under Observation"
+            ],
+            [
+                "Rocky",
+                "O-KK1",
+                "$300",
+                "Aug 08, 2012",
+                "Central Vets",
+                "Vaccinated"
+            ],
+            [
+                "Cooper",
+                "O-ZZ8",
+                "$750",
+                "Feb 14, 2000",
+                "North Side Clinic",
+                "Quarantined"
+            ],
+            [
+                "Sadie",
+                "O-MM3",
+                "$600",
+                "Dec 31, 1988",
+                "Happy Tails Meds",
+                "Discharged"
+            ]
+        ]
+    }
+}

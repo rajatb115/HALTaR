@@ -1,0 +1,43 @@
+{
+    "table-828-828": {
+        "title": [
+            "Superhero Name",
+            "Species",
+            "Height (feet)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Dark Horse Comics Non-Human Superhero Heights",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average height of a non-human superhero in Dark Horse Comics?",
+        "data": [
+            [
+                "Hellboy",
+                "Demon",
+                "6.4"
+            ],
+            [
+                "Abe Sapien",
+                "Icthyo sapien",
+                "6.3"
+            ],
+            [
+                "The Mask",
+                "Magical Artifact Host",
+                "Variable"
+            ],
+            [
+                "Barb Wire",
+                "Cyborg",
+                "5.7"
+            ],
+            [
+                "Ghost",
+                "Ghost",
+                "5.8"
+            ]
+        ]
+    }
+}

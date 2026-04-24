@@ -1,0 +1,73 @@
+{
+    "table-1093-1093": {
+        "title": [
+            "League",
+            "Season",
+            "Total Matches",
+            "Winner",
+            "Runner-up",
+            "Top Scorer Goals",
+            "Avg Attendance",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which league had the most matches in the 2008/2009 season?",
+        "data": [
+            [
+                "English Premier League",
+                "08-09",
+                "380",
+                "Manchester United",
+                "Chelsea",
+                "46",
+                "7,892",
+                "Completed"
+            ],
+            [
+                "La Liga",
+                "08-09",
+                "None",
+                "Barcelona",
+                "Real Madrid",
+                "50",
+                "N/A",
+                "Completed"
+            ],
+            [
+                "Serie A",
+                "08-09",
+                "600",
+                "Inter Milan",
+                "AC Milan",
+                "9",
+                "N/A",
+                "Completed"
+            ],
+            [
+                "Bundesliga",
+                "08-09",
+                "306",
+                "Wolfsburg",
+                "Bayern Munich",
+                "N/A",
+                "42,100",
+                "Completed"
+            ],
+            [
+                "Ligue 1",
+                "08-09",
+                "342",
+                "Marseille",
+                "Lyon",
+                "None",
+                "205",
+                "Completed"
+            ]
+        ]
+    }
+}

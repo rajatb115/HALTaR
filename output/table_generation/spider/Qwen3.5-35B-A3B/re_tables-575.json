@@ -1,0 +1,76 @@
+{
+    "table-575-575": {
+        "title": [
+            "State",
+            "Owner Population",
+            "Professional Count",
+            "Overlap Status",
+            "Data Source",
+            "Last Updated",
+            "Confidence Level"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the states where both owners and professionals live.",
+        "data": [
+            [
+                "California",
+                "45000",
+                "67002",
+                "High",
+                "Census Bureau",
+                "01/15/2024",
+                "98%"
+            ],
+            [
+                "Texas",
+                "38005",
+                "52100",
+                "Medium",
+                "Labor Stats",
+                "02/22/2024",
+                "92%"
+            ],
+            [
+                "Florida",
+                "8900",
+                "780",
+                "Low",
+                "Local Registry",
+                "",
+                "N/A"
+            ],
+            [
+                "New York",
+                "12050",
+                "15020",
+                "High",
+                "Federal Report",
+                "",
+                "N/A"
+            ],
+            [
+                "Illinois",
+                "",
+                "",
+                "Medium",
+                "State Archive",
+                "",
+                ""
+            ],
+            [
+                "Ohio",
+                "",
+                "",
+                "Low",
+                "County Records",
+                "",
+                ""
+            ]
+        ]
+    }
+}

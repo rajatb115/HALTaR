@@ -1,0 +1,46 @@
+{
+    "table-512-512": {
+        "title": [
+            "Rank",
+            "Country",
+            "Population (2023)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Countries by Population",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are names of countries with the top 3 largest population?",
+        "data": [
+            [
+                "1",
+                "India",
+                "1,428,627,663"
+            ],
+            [
+                "2",
+                "China",
+                "1,425,671,352"
+            ],
+            [
+                "3",
+                "United States",
+                "339,996,563"
+            ],
+            [
+                "4",
+                "Indonesia",
+                "277,534,122"
+            ],
+            [
+                "5",
+                "Pakistan",
+                "240,485,658"
+            ]
+        ]
+    }
+}

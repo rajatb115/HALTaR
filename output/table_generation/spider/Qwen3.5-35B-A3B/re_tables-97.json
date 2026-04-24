@@ -1,0 +1,41 @@
+{
+    "table-97-97": {
+        "title": [
+            "Model Variant",
+            "Engine Configuration",
+            "Cylinders",
+            "Acceleration_0_60_mph_s",
+            "Horsepower_hp"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For a volvo model, how many cylinders does the version with least accelerate have?",
+        "data": [
+            [
+                "Volvo S60 T4",
+                "Turbocharged Inline-4",
+                "4",
+                "N/A",
+                "37.5"
+            ],
+            [
+                "Volvo V60 D4",
+                "Diesel Inline-5",
+                "5",
+                "N/A",
+                "6.2"
+            ],
+            [
+                "Volvo XC90 Recharge",
+                "Plug-in Hybrid I6",
+                "8",
+                "7.1",
+                "9.5"
+            ]
+        ]
+    }
+}

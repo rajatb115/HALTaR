@@ -1,0 +1,69 @@
+{
+    "table-1021-1021": {
+        "title": [
+            "Player Name",
+            "Overall Rating",
+            "API ID",
+            "Position",
+            "Club"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which player has the highest overall rating? Indicate the player's api id.",
+        "data": [
+            [
+                "Lionel Messi",
+                "93",
+                "100001",
+                "RW",
+                "Paris SG"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "92",
+                "100002",
+                "ST",
+                "Al Nassr"
+            ],
+            [
+                "Kevin De Bruyne",
+                "91",
+                "100003",
+                "CM",
+                "Manchester City"
+            ],
+            [
+                "Kylian Mbapp\u00e9",
+                "91",
+                "100004",
+                "ST",
+                "Paris SG"
+            ],
+            [
+                "Robert Lewandowski",
+                "90",
+                "100005",
+                "ST",
+                "FC Barcelona"
+            ],
+            [
+                "Erling Haaland",
+                "89",
+                "100006",
+                "ST",
+                "Manchester City"
+            ],
+            [
+                "Mohamed Salah",
+                "89",
+                "100007",
+                "RW",
+                "Liverpool"
+            ]
+        ]
+    }
+}

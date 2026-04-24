@@ -1,0 +1,49 @@
+{
+    "table-744-744": {
+        "title": [
+            "Alignment",
+            "Description",
+            "Example Superheroes",
+            "Marvel Published"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Superhero Moral Alignment and Publishing Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of superheroes who act in their own self-interest or make decisions based on their own moral code? Indicate how many of the said superheroes were published by Marvel Comics.",
+        "data": [
+            [
+                "Self-Interested",
+                "Primarily motivated by personal gain.",
+                "Deadpool",
+                "Yes"
+            ],
+            [
+                "Own Moral Code",
+                "Driven by personal ethics, even if unconventional.",
+                "Punisher",
+                "Yes"
+            ],
+            [
+                "Utilitarian",
+                "Actions benefit the many, even at personal cost.",
+                "Batman",
+                "No"
+            ],
+            [
+                "Lawful Good",
+                "Adheres strictly to rules and moral codes.",
+                "Superman",
+                "No"
+            ],
+            [
+                "Chaotic Neutral",
+                "Acts unpredictably and independently.",
+                "Loki",
+                "Yes"
+            ]
+        ]
+    }
+}

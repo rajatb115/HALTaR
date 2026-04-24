@@ -1,0 +1,49 @@
+{
+    "table-1416-1416": {
+        "title": [
+            "Member Name",
+            "Major",
+            "Position",
+            "Start Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Business Major Member Positions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the position of members who joined major of Business.",
+        "data": [
+            [
+                "John Smith",
+                "Business",
+                "Project Manager",
+                "2022-03-15"
+            ],
+            [
+                "Alice Wang",
+                "Business",
+                "Data Analyst",
+                "2023-01-20"
+            ],
+            [
+                "Bob Johnson",
+                "Business",
+                "Marketing Lead",
+                "2022-09-01"
+            ],
+            [
+                "Emily Chen",
+                "Business",
+                "Financial Analyst",
+                "2023-05-10"
+            ],
+            [
+                "David Lee",
+                "Business",
+                "Sales Associate",
+                "2022-11-28"
+            ]
+        ]
+    }
+}

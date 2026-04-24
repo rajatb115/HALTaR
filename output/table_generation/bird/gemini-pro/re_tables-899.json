@@ -1,0 +1,45 @@
+{
+    "table-899-899": {
+        "title": [
+            "Driver Name",
+            "Age",
+            "Nationality"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Youngest Japanese Racing Drivers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How old is the youngest Japanese driver? What is his name?",
+        "data": [
+            [
+                "Yuki Tsunoda",
+                "23",
+                "Japanese"
+            ],
+            [
+                "Ayumu Iwasa",
+                "22",
+                "Japanese"
+            ],
+            [
+                "Ritomo Miyata",
+                "24",
+                "Japanese"
+            ],
+            [
+                "Juju Noda",
+                "18",
+                "Japanese"
+            ],
+            [
+                "Ren Sato",
+                "21",
+                "Japanese"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-1250-1250": {
+        "title": [
+            "Patient ID",
+            "Disease Name",
+            "Proteinuria Level"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Patients with High Proteinuria Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the disease names of the patients that have a proteinuria level higher than normal.",
+        "data": [
+            [
+                "1234",
+                "Diabetes",
+                "3.5"
+            ],
+            [
+                "5678",
+                "Hypertension",
+                "4.2"
+            ],
+            [
+                "9012",
+                "Glomerulonephritis",
+                "5.1"
+            ],
+            [
+                "3456",
+                "Lupus",
+                "3.8"
+            ],
+            [
+                "7890",
+                "Preeclampsia",
+                "4.9"
+            ]
+        ]
+    }
+}

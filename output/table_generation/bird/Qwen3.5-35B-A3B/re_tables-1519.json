@@ -1,0 +1,63 @@
+{
+    "table-1519-1519": {
+        "title": [
+            "Deal ID",
+            "Timestamp",
+            "Country",
+            "Status",
+            "Amount",
+            "Currency",
+            "Counterparty",
+            "Region"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the deal happened at 2012/8/24 12:42:00, which country was it?",
+        "data": [
+            [
+                "D-2024-0089",
+                "8/17/2062 10:15:03",
+                "Germany",
+                "Completed",
+                "$450K",
+                "EUR",
+                "Siemens AG",
+                "Europe"
+            ],
+            [
+                "D-MKT-9921",
+                "9/2/2100 14:30:01",
+                "Japan",
+                "Closed",
+                "\u00a512M",
+                "JPY",
+                "Toyota Motor",
+                "Asia Pacific"
+            ],
+            [
+                "FIN-X-44211",
+                "8/84/2204 11:05:22",
+                "Brazil",
+                "Pending",
+                "R$8.2B",
+                "BRL",
+                "Petrobras",
+                "South America"
+            ],
+            [
+                "TRX-LG-1102",
+                "7/12/-1900",
+                "United States",
+                "Cancelled",
+                "$1.2M",
+                "USD",
+                "Tesla Inc",
+                "North America"
+            ]
+        ]
+    }
+}

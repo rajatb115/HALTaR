@@ -1,0 +1,77 @@
+{
+    "table-77-77": {
+        "title": [
+            "Maker",
+            "Model",
+            "Category",
+            "ReleaseYear",
+            "PriceUSD",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the makers and models?",
+        "data": [
+            [
+                "Toyota",
+                "Camry",
+                "Sedan",
+                "2024",
+                "26420",
+                "Active"
+            ],
+            [
+                "Ford",
+                "F-150",
+                "Truck",
+                "2022",
+                "37970",
+                "Discontinued"
+            ],
+            [
+                "Honda",
+                "Civic",
+                "Hatchback",
+                "2023",
+                "23950",
+                "Retail"
+            ],
+            [
+                "Tesla",
+                "Model Y",
+                "EV SUV",
+                "2024",
+                "48990",
+                "Pre-order"
+            ],
+            [
+                "BMW",
+                "iX",
+                "xDrive50 Electric",
+                "2025",
+                "87100",
+                "Limited"
+            ],
+            [
+                "Chevrolet",
+                "Silverado",
+                "Pickup Truck",
+                "2021",
+                "36205",
+                "Backorder"
+            ],
+            [
+                "Mazda",
+                "CX-5",
+                "Compact SUV",
+                "1904",
+                "28000",
+                "Clearance"
+            ]
+        ]
+    }
+}

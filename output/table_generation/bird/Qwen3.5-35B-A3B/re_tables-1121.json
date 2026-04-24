@@ -1,0 +1,69 @@
+{
+    "table-1121-1121": {
+        "title": [
+            "Player",
+            "Team Role",
+            "Goals Scored Away",
+            "Match Date",
+            "Opponent",
+            "League"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Sum up the away team goal scored by both Daan Smith and Filipe Ferreira.",
+        "data": [
+            [
+                "Daan Smith",
+                "Forward",
+                "4",
+                "7/15/2023",
+                "Ajax Amsterdam",
+                "Eredivisie"
+            ],
+            [
+                "Filipe Ferreira",
+                "Midfielder",
+                "6",
+                "8/22/2023",
+                "FC Porto",
+                "Primeira Liga"
+            ],
+            [
+                "Daane Smith",
+                "Defender",
+                "0",
+                "9/10/2024",
+                "PSV Eindhoven",
+                "Eredivisie"
+            ],
+            [
+                "Filipe Ferreira",
+                "Striker",
+                "3",
+                "5/05/2019",
+                "Sporting CP",
+                "Primeira Liga"
+            ],
+            [
+                "John Doe",
+                "Winger",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Jane Roe",
+                "Goalkeeper",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

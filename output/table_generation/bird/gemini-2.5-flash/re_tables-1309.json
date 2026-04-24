@@ -1,0 +1,69 @@
+{
+    "table-1309-1309": {
+        "title": [
+            "Patient ID",
+            "Platelet Count (x10^9/L)",
+            "Platelet Status",
+            "Observed Symptoms",
+            "Has Other Symptoms"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients who have a normal platelet level, how many of them have other symptoms observed?",
+        "data": [
+            [
+                "P001",
+                "280",
+                "Normal",
+                "Fever, Rash",
+                "Yes"
+            ],
+            [
+                "P002",
+                "120",
+                "Low",
+                "Fatigue, Bruising",
+                "Yes"
+            ],
+            [
+                "P003",
+                "350",
+                "Normal",
+                "None",
+                "No"
+            ],
+            [
+                "P004",
+                "410",
+                "Normal",
+                "Headache, Dizziness",
+                "Yes"
+            ],
+            [
+                "P005",
+                "520",
+                "High",
+                "N/A",
+                "No"
+            ],
+            [
+                "P006",
+                "190",
+                "Normal",
+                "Cough, Sore Throat",
+                "Yes"
+            ],
+            [
+                "P007",
+                "220",
+                "Normal",
+                "None",
+                "No"
+            ]
+        ]
+    }
+}

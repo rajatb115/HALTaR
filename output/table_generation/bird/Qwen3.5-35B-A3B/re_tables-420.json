@@ -1,0 +1,27 @@
+{
+    "table-420-420": {
+        "title": [
+            "Card Name",
+            "Color Identity",
+            "Border Status",
+            "Rank Score",
+            "Source Platform"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many color cards with no borders have been ranked higher than 12000 on EDHRec?",
+        "data": [
+            [
+                "Black Lotus",
+                "Multicolor",
+                "No Borders",
+                "452010",
+                "EDHrec"
+            ]
+        ]
+    }
+}

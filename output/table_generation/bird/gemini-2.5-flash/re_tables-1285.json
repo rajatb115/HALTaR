@@ -1,0 +1,69 @@
+{
+    "table-1285-1285": {
+        "title": [
+            "Patient ID",
+            "LDH Level (U/L)",
+            "LDH Status",
+            "Measurement Date",
+            "First Record Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient with the highest lactate dehydrogenase in the normal range, when was his or her data first recorded?",
+        "data": [
+            [
+                "1001",
+                "275",
+                "Normal",
+                "2023-01-15",
+                "2022-11-01"
+            ],
+            [
+                "1002",
+                "350",
+                "High",
+                "2023-02-20",
+                "2023-01-05"
+            ],
+            [
+                "1003",
+                "210",
+                "Normal",
+                "2023-03-10",
+                "2022-12-10"
+            ],
+            [
+                "1004",
+                "130",
+                "Low",
+                "2023-04-01",
+                "2023-03-15"
+            ],
+            [
+                "1005",
+                "280",
+                "Normal",
+                "2023-05-05",
+                "2023-04-01"
+            ],
+            [
+                "1006",
+                "260",
+                "Normal",
+                "2023-06-12",
+                "2023-05-10"
+            ],
+            [
+                "1007",
+                "410",
+                "High",
+                "2023-07-01",
+                "2023-06-01"
+            ]
+        ]
+    }
+}

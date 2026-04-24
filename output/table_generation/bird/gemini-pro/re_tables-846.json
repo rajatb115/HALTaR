@@ -1,0 +1,46 @@
+{
+    "table-846-846": {
+        "title": [
+            "Superhero Name",
+            "Power Level",
+            "Height (cm)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Superhero Power and Height Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the power of superheroes with height greater than 80% of the average height of all superheroes.",
+        "data": [
+            [
+                "Superman",
+                "95",
+                "191"
+            ],
+            [
+                "Wonder Woman",
+                "92",
+                "183"
+            ],
+            [
+                "Thor",
+                "98",
+                "198"
+            ],
+            [
+                "Hulk",
+                "99",
+                "244"
+            ],
+            [
+                "Captain Marvel",
+                "94",
+                "180"
+            ]
+        ]
+    }
+}

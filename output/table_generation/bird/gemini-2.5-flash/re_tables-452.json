@@ -1,0 +1,37 @@
+{
+    "table-452-452": {
+        "title": [
+            "Card Name",
+            "Game System",
+            "Paper Available",
+            "Hand Size Effect",
+            "Max Hand Size Modifier",
+            "Is Positive Modifier"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards available in paper have a positive starting maximum hand size?",
+        "data": [
+            [
+                "Reliquary Tower",
+                "Magic: The Gathering",
+                "Yes",
+                "No Max Hand Size",
+                "Unlimited",
+                "Yes"
+            ],
+            [
+                "Spellbook",
+                "Magic: The Gathering",
+                "Yes",
+                "No Max Hand Size",
+                "Unlimited",
+                "Yes"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-1021-1021": {
+        "title": [
+            "Player Name",
+            "API ID",
+            "Overall Rating"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Player Ratings and IDs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which player has the highest overall rating? Indicate the player's api id.",
+        "data": [
+            [
+                "Lionel Messi",
+                "158023",
+                "94"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "41236",
+                "94"
+            ],
+            [
+                "Neymar",
+                "190871",
+                "92"
+            ],
+            [
+                "Luis Su\u00e1rez",
+                "176580",
+                "92"
+            ],
+            [
+                "Manuel Neuer",
+                "167495",
+                "92"
+            ]
+        ]
+    }
+}

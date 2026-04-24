@@ -1,0 +1,61 @@
+{
+    "table-800-800": {
+        "title": [
+            "Superhero Name",
+            "Publisher",
+            "First Appearance Year",
+            "Alignment"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many superheroes didn't have any publisher?",
+        "data": [
+            [
+                "Spider-Man",
+                "Marvel Comics",
+                "1962",
+                "Hero"
+            ],
+            [
+                "Batman",
+                "DC Comics",
+                "1939",
+                "Hero"
+            ],
+            [
+                "Spawn",
+                "Image Comics",
+                "1992",
+                "Anti-Hero"
+            ],
+            [
+                "The Tick",
+                "Independent",
+                "1986",
+                "Hero"
+            ],
+            [
+                "Black Terror",
+                "N/A",
+                "1941",
+                "Hero"
+            ],
+            [
+                "Invincible",
+                "Image Comics",
+                "2003",
+                "Hero"
+            ],
+            [
+                "The Sentry",
+                "Marvel Comics",
+                "2000",
+                "Hero"
+            ]
+        ]
+    }
+}

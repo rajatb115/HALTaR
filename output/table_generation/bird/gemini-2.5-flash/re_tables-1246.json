@@ -1,0 +1,77 @@
+{
+    "table-1246-1246": {
+        "title": [
+            "Examination ID",
+            "Examination Date",
+            "Coagulation Test",
+            "Result Status",
+            "Measured Value",
+            "Units"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the examinations done after 1997/1/1, how many of them have the result of an inactivated partial prothrom bin time?",
+        "data": [
+            [
+                "EXM001",
+                "1998-02-10",
+                "Partial Prothrombin Time",
+                "Normal",
+                "32.1",
+                "seconds"
+            ],
+            [
+                "EXM002",
+                "2001-06-25",
+                "Partial Prothrombin Time",
+                "Inactivated Partial Prothrombin Time",
+                "75.8",
+                "seconds"
+            ],
+            [
+                "EXM003",
+                "2005-09-12",
+                "Prothrombin Time (PT)",
+                "Elevated",
+                "18.5",
+                "seconds"
+            ],
+            [
+                "EXM004",
+                "2010-03-01",
+                "Partial Prothrombin Time",
+                "Inactivated Partial Prothrombin Time",
+                "89.3",
+                "seconds"
+            ],
+            [
+                "EXM005",
+                "2014-11-20",
+                "INR",
+                "Therapeutic Range",
+                "2.7",
+                "ratio"
+            ],
+            [
+                "EXM006",
+                "2018-07-07",
+                "Fibrinogen",
+                "Within Reference",
+                "3.1",
+                "g/L"
+            ],
+            [
+                "EXM007",
+                "2022-01-15",
+                "Partial Prothrombin Time",
+                "Inactivated Partial Prothrombin Time",
+                "95.1",
+                "seconds"
+            ]
+        ]
+    }
+}

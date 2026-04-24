@@ -1,0 +1,46 @@
+{
+    "table-544-544": {
+        "title": [
+            "Post Owner",
+            "Post ID",
+            "Answer Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Posts by csgillespie with the Most Answers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the post that got the most number of answers owned by csgillespie, how many answers did it get?",
+        "data": [
+            [
+                "csgillespie",
+                "12345",
+                "5"
+            ],
+            [
+                "csgillespie",
+                "67890",
+                "3"
+            ],
+            [
+                "csgillespie",
+                "24680",
+                "2"
+            ],
+            [
+                "csgillespie",
+                "13579",
+                "1"
+            ],
+            [
+                "csgillespie",
+                "98765",
+                "0"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-217-217": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Triple Bond Location",
+            "Bonded Atoms"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Examples of Triple Bonds in Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify all connected atoms with a triple bond.",
+        "data": [
+            [
+                "Acetylene",
+                "C\u2082H\u2082",
+                "Between Carbons",
+                "C\u2261C"
+            ],
+            [
+                "Hydrogen Cyanide",
+                "HCN",
+                "Between Carbon and Nitrogen",
+                "C\u2261N"
+            ],
+            [
+                "Carbon Monoxide",
+                "CO",
+                "Between Carbon and Oxygen",
+                "C\u2261O"
+            ],
+            [
+                "2-Butyne",
+                "C\u2084H\u2086",
+                "Between Carbons 2 and 3",
+                "C\u2261C"
+            ],
+            [
+                "Cyanoacetylene",
+                "C3HN",
+                "Between Carbons 1 and 2",
+                "C\u2261C"
+            ]
+        ]
+    }
+}

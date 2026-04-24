@@ -1,0 +1,45 @@
+{
+    "table-205-205": {
+        "title": [
+            "Molecule Number",
+            "Molecule Name",
+            "Carcinogenic"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Carcinogenicity of Initial Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of the first 100 molecules in number order, how many are carcinogenic?",
+        "data": [
+            [
+                "1",
+                "Water",
+                "No"
+            ],
+            [
+                "2",
+                "Methane",
+                "No"
+            ],
+            [
+                "3",
+                "Acetylene",
+                "Yes"
+            ],
+            [
+                "4",
+                "Benzene",
+                "Yes"
+            ],
+            [
+                "5",
+                "Ethanol",
+                "No"
+            ]
+        ]
+    }
+}

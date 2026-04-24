@@ -1,0 +1,62 @@
+{
+    "table-1422-1422": {
+        "title": [
+            "Member ID",
+            "Member Name",
+            "Major",
+            "Enrollment Year",
+            "Student Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of members who are major Mathematics in the list?",
+        "data": [
+            [
+                "1001",
+                "Alice Smith",
+                "Mathematics",
+                "2021",
+                "Undergraduate"
+            ],
+            [
+                "1002",
+                "Bob Johnson",
+                "Physics",
+                "2020",
+                "Graduate"
+            ],
+            [
+                "1003",
+                "Carol White",
+                "Mathematics",
+                "2022",
+                "Undergraduate"
+            ],
+            [
+                "1004",
+                "David Green",
+                "Computer Science",
+                "2021",
+                "Undergraduate"
+            ],
+            [
+                "1005",
+                "Eve Black",
+                "Mathematics",
+                "2019",
+                "Graduate"
+            ],
+            [
+                "1006",
+                "Frank Brown",
+                "Chemistry",
+                "2022",
+                "Undergraduate"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "table-161-161": {
+        "title": [
+            "Account ID",
+            "Issuance Frequency",
+            "Loan Amount",
+            "Status",
+            "Region",
+            "Last Updated",
+            "Risk Level"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the weekly issuance accounts, how many have a loan of under 200000?",
+        "data": [
+            [
+                "ACC-7004",
+                "Weekly",
+                "4500",
+                "Active",
+                "North",
+                "06/15/2023",
+                "Low"
+            ],
+            [
+                "ACC-A12B",
+                "Weekly",
+                "1820",
+                "Inactive",
+                "South",
+                "06/02/2023",
+                "Medium"
+            ],
+            [
+                "CC-WK99",
+                "Weekly",
+                "",
+                "Pending",
+                "East",
+                "N/A",
+                "High"
+            ],
+            [
+                "WK-LNDX",
+                "Weekly",
+                "",
+                "Suspended",
+                "West",
+                "05/30/2024",
+                "Critical"
+            ],
+            [
+                "ACCT-22W",
+                "Weekly",
+                "",
+                "",
+                "",
+                "",
+                "Low"
+            ]
+        ]
+    }
+}

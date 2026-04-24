@@ -1,0 +1,77 @@
+{
+    "table-296-296": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Key Element",
+            "Total Atoms",
+            "Carcinogenic Status",
+            "Common Source"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many atoms belong to the molecule that element is hydrogen and labeled with carcinogenic compound?",
+        "data": [
+            [
+                "Benzene",
+                "C6H6",
+                "Carbon",
+                "12",
+                "Yes",
+                "Petroleum, Solvents"
+            ],
+            [
+                "Formaldehyde",
+                "CH2O",
+                "Carbon",
+                "4",
+                "Yes",
+                "Building Materials, Resins"
+            ],
+            [
+                "Vinyl Chloride",
+                "C2H3Cl",
+                "Carbon",
+                "6",
+                "Yes",
+                "PVC Plastic Production"
+            ],
+            [
+                "Acrylamide",
+                "C3H5NO",
+                "Carbon",
+                "10",
+                "Yes",
+                "Fried Foods, Industrial"
+            ],
+            [
+                "Ethylene Oxide",
+                "C2H4O",
+                "Carbon",
+                "7",
+                "Yes",
+                "Sterilization, Fumigant"
+            ],
+            [
+                "Toluene",
+                "C7H8",
+                "Carbon",
+                "15",
+                "No",
+                "Solvents, Gasoline"
+            ],
+            [
+                "Methane",
+                "CH4",
+                "Carbon",
+                "5",
+                "No",
+                "Natural Gas"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "table-244-244": {
+        "title": [
+            "Compound Name",
+            "Chemical Formula",
+            "Bond Type",
+            "Phosphorus Count",
+            "Nitrogen Count",
+            "State at STP",
+            "Molar Mass (g/mol)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the bonds that have phosphorus and nitrogen as their atom elements?",
+        "data": [
+            [
+                "Phosphazene Dimer",
+                "P\u2082N\u2084H\u2086",
+                "Coordinate Covalent",
+                "4",
+                "6",
+                "Gas",
+                "78.00"
+            ],
+            [
+                "Hexamethylphosphoramide",
+                "C\u2086H\u2081\u2088NO\u2083P",
+                "Polar Covalent",
+                "",
+                "0",
+                "Liquid",
+                "59.07"
+            ],
+            [
+                "Cyclophosphazenes",
+                "(NPCl\u2082)\u2099",
+                "Alternating Chain",
+                "n",
+                "n+1",
+                "Solid",
+                "Variable"
+            ],
+            [
+                "Triphenylphosphine Imide",
+                "C\u2081\u2089H\u2081\u2080NP",
+                "Double Bond Character",
+                "9",
+                "8",
+                "Solid",
+                "296.24"
+            ],
+            [
+                "Diphosphonitrilic Chlorides",
+                "Cl-P=N=P=Cl",
+                "Ionic/Covalent Mix",
+                "",
+                "",
+                "",
+                "133.33"
+            ],
+            [
+                "Amino-phosphines",
+                "R-NH-P-R'",
+                "Single Sigma Bond",
+                "",
+                "N/A",
+                "Liquid",
+                "N/A"
+            ]
+        ]
+    }
+}

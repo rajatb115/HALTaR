@@ -1,0 +1,62 @@
+{
+    "table-1295-1295": {
+        "title": [
+            "Patient ID",
+            "Creatinine Level (mg/dL)",
+            "Anti-Cardiolipin Antibody (U/mL)",
+            "Test Date",
+            "Gender"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the patient's ID whose creatinine level is normal and whose anti Cardiolipin antibody concentration level is the highest.",
+        "data": [
+            [
+                "P1001",
+                "0.9",
+                "18",
+                "2023-10-25",
+                "Female"
+            ],
+            [
+                "P1002",
+                "1.1",
+                "45",
+                "2023-10-25",
+                "Male"
+            ],
+            [
+                "P1003",
+                "1.8",
+                "10",
+                "2023-10-24",
+                "Female"
+            ],
+            [
+                "P1004",
+                "0.8",
+                "62",
+                "2023-10-24",
+                "Male"
+            ],
+            [
+                "P1005",
+                "0.7",
+                "12",
+                "2023-10-23",
+                "Female"
+            ],
+            [
+                "P1006",
+                "1.3",
+                "38",
+                "2023-10-23",
+                "Male"
+            ]
+        ]
+    }
+}

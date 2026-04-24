@@ -1,0 +1,37 @@
+{
+    "table-1389-1389": {
+        "title": [
+            "Student Name",
+            "Income Source"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "High Income Students",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which students manage to generate the highest income. State his/her full name along with the income source.",
+        "data": [
+            [
+                "John Smith",
+                "Freelancing"
+            ],
+            [
+                "Alice Brown",
+                "Investments"
+            ],
+            [
+                "David Lee",
+                "Part-time Job"
+            ],
+            [
+                "Emily White",
+                "Grants"
+            ],
+            [
+                "Michael Green",
+                "Royalties"
+            ]
+        ]
+    }
+}

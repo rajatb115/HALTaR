@@ -1,0 +1,45 @@
+{
+    "table-579-579": {
+        "title": [
+            "User",
+            "Post Title",
+            "Reputation"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "User Post Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user made a post titled 'Understanding what Dassault iSight is doing?' and how much is the reputation of the user?",
+        "data": [
+            [
+                "JohnDoe",
+                "Understanding what Dassault iSight is doing?",
+                "120"
+            ],
+            [
+                "JaneSmith",
+                "Dassault iSight Troubleshooting",
+                "85"
+            ],
+            [
+                "PeterJones",
+                "Dassault iSight Best Practices",
+                "150"
+            ],
+            [
+                "AliceBrown",
+                "Dassault iSight Integration Guide",
+                "90"
+            ],
+            [
+                "DavidWilson",
+                "Dassault iSight Security Concerns",
+                "75"
+            ]
+        ]
+    }
+}

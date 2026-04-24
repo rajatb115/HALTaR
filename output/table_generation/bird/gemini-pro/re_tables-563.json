@@ -1,0 +1,47 @@
+{
+    "table-563-563": {
+        "title": [
+            "Post ID",
+            "View Count",
+            "Comment Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Post View Counts and Comments",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the post which got 1910 view counts, how many comments does it get?",
+        "data": [
+            [
+                "123",
+                "1910",
+                "25"
+            ],
+            [
+                "456",
+                "2500",
+                "50"
+            ],
+            [
+                "789",
+                "1000",
+                "10"
+            ],
+            [
+                "101",
+                "500",
+                "5"
+            ],
+            [
+                "112",
+                "3000",
+                "60"
+            ]
+        ]
+    }
+}

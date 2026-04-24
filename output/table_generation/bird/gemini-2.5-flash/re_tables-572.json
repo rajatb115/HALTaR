@@ -1,0 +1,62 @@
+{
+    "table-572-572": {
+        "title": [
+            "User ID",
+            "Total Posts",
+            "Total Votes",
+            "Posts-to-Votes Ratio",
+            "Last Active Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the user No.24, how many times is the number of his/her posts compared to his/her votes?",
+        "data": [
+            [
+                "24",
+                "150",
+                "300",
+                "0.5",
+                "2023-10-26"
+            ],
+            [
+                "101",
+                "200",
+                "100",
+                "2.0",
+                "2023-10-25"
+            ],
+            [
+                "5",
+                "50",
+                "500",
+                "0.1",
+                "2023-10-27"
+            ],
+            [
+                "300",
+                "75",
+                "75",
+                "1.0",
+                "2023-10-24"
+            ],
+            [
+                "12",
+                "30",
+                "15",
+                "2.0",
+                "2023-10-26"
+            ],
+            [
+                "77",
+                "120",
+                "40",
+                "3.0",
+                "2023-10-27"
+            ]
+        ]
+    }
+}

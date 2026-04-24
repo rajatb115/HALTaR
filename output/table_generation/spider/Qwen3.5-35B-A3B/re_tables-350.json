@@ -1,0 +1,103 @@
+{
+    "table-350-350": {
+        "title": [
+            "Series_Name",
+            "Content_Genre",
+            "Episode_Count",
+            "Release_Year",
+            "Duration_Minutes",
+            "Rating",
+            "Language",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the number of different series names and contents in the TV Channel table.",
+        "data": [
+            [
+                "Breaking Bad",
+                "Crime Drama",
+                "62",
+                "47",
+                "58",
+                "N/A",
+                "English",
+                "Completed"
+            ],
+            [
+                "Game of Thrones",
+                "Fantasy Epic",
+                "73",
+                "84",
+                "90",
+                "N/D",
+                "English/Other",
+                "Ended"
+            ],
+            [
+                "Stranger Things",
+                "Sci-Fi Horror",
+                "34",
+                "N/E",
+                "0",
+                "F/G",
+                "Spanish/Hindi",
+                "Ongoing"
+            ],
+            [
+                "The Crown",
+                "Historical Biopic",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Friends",
+                "Sitcom Comedy",
+                "236",
+                "-",
+                "",
+                "-",
+                "-",
+                ""
+            ],
+            [
+                "Sherlock",
+                "Mystery Detective",
+                ",",
+                "",
+                ",-",
+                ",-",
+                "",
+                ""
+            ],
+            [
+                "Black Mirror",
+                "Anthology Tech-Drama",
+                "-,",
+                "",
+                "--",
+                "--",
+                "",
+                ""
+            ],
+            [
+                "Westworld",
+                "Western Sci-Fi",
+                "/",
+                "",
+                "///",
+                "///",
+                "",
+                ""
+            ]
+        ]
+    }
+}

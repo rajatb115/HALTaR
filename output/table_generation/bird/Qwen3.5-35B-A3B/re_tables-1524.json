@@ -1,0 +1,73 @@
+{
+    "table-1524-1524": {
+        "title": [
+            "Card Number",
+            "Owner Country",
+            "Issuer Bank",
+            "Status",
+            "Issue Date",
+            "Expiry Date",
+            "Transaction Count",
+            "Last Location"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country was the card owner of No.667467 in?",
+        "data": [
+            [
+                "666123",
+                "Germany",
+                "Deutsche Bank",
+                "Active",
+                "01/01/2020",
+                "31/12/2022",
+                "45",
+                "Berlin"
+            ],
+            [
+                "665982",
+                "France",
+                "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+                "Inactive",
+                "06/15/2021",
+                "05/14/2024",
+                "89",
+                "Paris"
+            ],
+            [
+                "664501",
+                "Spain",
+                "BBVA",
+                "Suspended",
+                "",
+                "",
+                "",
+                "Madrid"
+            ],
+            [
+                "663210",
+                "Italy",
+                "UniCredit",
+                "Active",
+                "03/10/2019",
+                "02/28/2025",
+                "120",
+                "Rome"
+            ],
+            [
+                "662890",
+                "Netherlands",
+                "ING Group",
+                "Closed",
+                "11/30/2022",
+                "10/29/2018",
+                "55",
+                "Amsterdam"
+            ]
+        ]
+    }
+}

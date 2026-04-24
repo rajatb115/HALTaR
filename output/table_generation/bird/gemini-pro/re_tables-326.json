@@ -1,0 +1,49 @@
+{
+    "table-326-326": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Contains Nitrogen",
+            "Carcinogenic"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenic Molecules Containing Nitrogen",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many carcinogenic molecules that consisted of Nitrogen?",
+        "data": [
+            [
+                "Aflatoxin B1",
+                "C17H12O6",
+                "No",
+                "Yes"
+            ],
+            [
+                "Benzo[a]pyrene",
+                "C20H12",
+                "No",
+                "Yes"
+            ],
+            [
+                "Vinyl Chloride",
+                "C2H3Cl",
+                "No",
+                "Yes"
+            ],
+            [
+                "Nitrosamines",
+                "R2N-N=O",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Acrylamide",
+                "C3H5NO",
+                "Yes",
+                "Yes"
+            ]
+        ]
+    }
+}

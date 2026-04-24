@@ -1,0 +1,69 @@
+{
+    "table-269-269": {
+        "title": [
+            "Player ID",
+            "First Name",
+            "Average Ranking",
+            "Total Matches Played",
+            "Last Updated Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average ranking for each player and their first name.",
+        "data": [
+            [
+                "P1045",
+                "Alice",
+                "76.4",
+                "42",
+                "01/15/2024"
+            ],
+            [
+                "P1089",
+                "Bob",
+                "82.1",
+                "38",
+                "05/10/2024"
+            ],
+            [
+                "P2103",
+                "Charlie",
+                "65.9",
+                "95",
+                ""
+            ],
+            [
+                "P3321",
+                "Diana",
+                "88.3",
+                "29",
+                "20/03/2023"
+            ],
+            [
+                "P4456",
+                "Ethan",
+                "N/A",
+                "12",
+                "11/01/2020"
+            ],
+            [
+                "P5578",
+                "Fiona",
+                "Pending",
+                "0",
+                ""
+            ],
+            [
+                "P6692",
+                "George",
+                "Suspended",
+                "5",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-802-802": {
+        "title": [
+            "Gender",
+            "Number of Superheroes",
+            "Percentage"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Superhero Gender Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the ratio between male superheroes and female superheroes.",
+        "data": [
+            [
+                "Male",
+                "5000",
+                "78%"
+            ],
+            [
+                "Female",
+                "1400",
+                "22%"
+            ],
+            [
+                "Non-Binary",
+                "50",
+                "<1%"
+            ],
+            [
+                "Gender Unknown",
+                "50",
+                "<1%"
+            ],
+            [
+                "**Total**",
+                "**6400**",
+                "**100%**"
+            ]
+        ]
+    }
+}

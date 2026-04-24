@@ -1,0 +1,62 @@
+{
+    "table-634-634": {
+        "title": [
+            "Post ID",
+            "Author",
+            "Post Title",
+            "Answer Count",
+            "Date Posted"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which post by slashnick has the most answers count? State the post ID.",
+        "data": [
+            [
+                "1001",
+                "slashnick",
+                "Best way to optimize SQL queries?",
+                "45",
+                "2023-10-26"
+            ],
+            [
+                "1005",
+                "slashnick",
+                "Python vs. R for data analysis",
+                "62",
+                "2023-11-01"
+            ],
+            [
+                "1012",
+                "slashnick",
+                "Understanding machine learning models",
+                "38",
+                "2023-11-05"
+            ],
+            [
+                "1018",
+                "slashnick",
+                "How to handle missing data?",
+                "71",
+                "2023-11-10"
+            ],
+            [
+                "1025",
+                "slashnick",
+                "Data visualization tools comparison",
+                "55",
+                "2023-11-15"
+            ],
+            [
+                "1033",
+                "slashnick",
+                "Cloud data warehousing options",
+                "49",
+                "2023-11-20"
+            ]
+        ]
+    }
+}

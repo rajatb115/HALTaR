@@ -1,0 +1,83 @@
+{
+    "table-153-153": {
+        "title": [
+            "Shop_Name",
+            "Product_Count",
+            "Average_Products",
+            "Status",
+            "Region",
+            "Owner_ID",
+            "Last_Audit_Date",
+            "Revenue_Monthly"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which shops' number products is above the average? Give me the shop names.",
+        "data": [
+            [
+                "Urban Outfitters",
+                "450",
+                "320",
+                "Above",
+                "North America",
+                "UO_9921",
+                "06/15/2023",
+                "$125,000"
+            ],
+            [
+                "Tech Haven",
+                "510",
+                "",
+                "Above",
+                "Europe",
+                "TH_7732",
+                "05/30/2023",
+                "$142,050"
+            ],
+            [
+                "GreenLeaf Market",
+                "380",
+                "310",
+                "Above",
+                "Asia",
+                "GL_4451",
+                "07/01/2024",
+                "$98,200"
+            ],
+            [
+                "BookWorld Central",
+                "495",
+                "305",
+                "Above",
+                "South America",
+                "BW_1129",
+                "04/12/2022",
+                "$110,500"
+            ],
+            [
+                "Fashion Forward",
+                "340",
+                "290",
+                "Borderline",
+                "Africa",
+                "FF_8834",
+                "08/21/2019",
+                "$85,300"
+            ],
+            [
+                "SuperMart Express",
+                "280",
+                "",
+                "Below",
+                "Global",
+                "SM_5567",
+                "03/10/2018",
+                "$72,000"
+            ]
+        ]
+    }
+}

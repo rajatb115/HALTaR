@@ -1,0 +1,43 @@
+{
+    "table-583-583": {
+        "title": [
+            "ID",
+            "Role",
+            "Email"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give me the id, role and email of the professionals who did not perform any treatment on dogs.",
+        "data": [
+            [
+                "PROF_004",
+                "Veterinarian Assistant",
+                "j.miller@vetcare.com"
+            ],
+            [
+                "PROJ_012",
+                "Receptionist",
+                "s.chen@animalclinic.org"
+            ],
+            [
+                "TECH_089",
+                "Lab Technician",
+                "r.davis@labservices.net"
+            ],
+            [
+                "ADMIN_033",
+                "Office Manager",
+                "l.wilson@adminhub.co"
+            ],
+            [
+                "VOL_776",
+                "Volunteer Coordinator",
+                "k.brown@communityhelp.org"
+            ]
+        ]
+    }
+}

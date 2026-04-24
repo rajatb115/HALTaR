@@ -1,0 +1,69 @@
+{
+    "table-1252-1252": {
+        "title": [
+            "Patient ID",
+            "IgG Level (mg/dL)",
+            "IgG Status",
+            "Symptom",
+            "Diagnosis Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with an Ig G lower than normal has the symptom of abortion?",
+        "data": [
+            [
+                "P001",
+                "580",
+                "Lower than Normal",
+                "Abortion",
+                "2023-01-15"
+            ],
+            [
+                "P002",
+                "950",
+                "Normal",
+                "Fatigue",
+                "2023-02-20"
+            ],
+            [
+                "P003",
+                "610",
+                "Lower than Normal",
+                "Abortion",
+                "2023-03-10"
+            ],
+            [
+                "P004",
+                "550",
+                "Lower than Normal",
+                "Recurrent Infections",
+                "2023-04-05"
+            ],
+            [
+                "P005",
+                "1020",
+                "Normal",
+                "Abortion",
+                "2023-05-12"
+            ],
+            [
+                "P006",
+                "630",
+                "Lower than Normal",
+                "Abortion",
+                "2023-06-01"
+            ],
+            [
+                "P007",
+                "590",
+                "Lower than Normal",
+                "Recurrent Miscarriage",
+                "2023-07-18"
+            ]
+        ]
+    }
+}

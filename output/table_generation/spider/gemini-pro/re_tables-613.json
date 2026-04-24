@@ -1,0 +1,49 @@
+{
+    "table-613-613": {
+        "title": [
+            "Role",
+            "Street",
+            "City",
+            "State"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Professionals' Location and Role Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the role, street, city and state of the professionals living in a city that contains the substring 'West'.",
+        "data": [
+            [
+                "Doctor",
+                "123 Main St",
+                "Westville",
+                "CA"
+            ],
+            [
+                "Lawyer",
+                "45 Oak Ave",
+                "Westford",
+                "MA"
+            ],
+            [
+                "Engineer",
+                "789 Pine Ln",
+                "Westborough",
+                "NY"
+            ],
+            [
+                "Teacher",
+                "101 Elm Rd",
+                "Westland",
+                "MI"
+            ],
+            [
+                "Nurse",
+                "22 River St",
+                "Weston",
+                "FL"
+            ]
+        ]
+    }
+}

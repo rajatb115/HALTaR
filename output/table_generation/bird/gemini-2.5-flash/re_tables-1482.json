@@ -1,0 +1,83 @@
+{
+    "table-1482-1482": {
+        "title": [
+            "Comparison Pair",
+            "Year",
+            "Currency",
+            "Segment A",
+            "Segment B",
+            "Avg Consump. Segment A (CZK)",
+            "Avg Consump. Segment B (CZK)",
+            "Difference (CZK)"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the difference in the annual average consumption of the customers with the least amount of consumption paid in CZK for 2013 between SME and LAM, LAM and KAM, and KAM and SME?",
+        "data": [
+            [
+                "SME vs LAM",
+                "2013",
+                "CZK",
+                "SME",
+                "LAM",
+                "15200",
+                "24800",
+                "-9600"
+            ],
+            [
+                "LAM vs KAM",
+                "2013",
+                "CZK",
+                "LAM",
+                "KAM",
+                "24800",
+                "36500",
+                "-11700"
+            ],
+            [
+                "KAM vs SME",
+                "2013",
+                "CZK",
+                "KAM",
+                "SME",
+                "36500",
+                "15200",
+                "21300"
+            ],
+            [
+                "SME vs LAM",
+                "2013",
+                "CZK",
+                "SME",
+                "LAM",
+                "14900",
+                "25100",
+                "-10200"
+            ],
+            [
+                "LAM vs KAM",
+                "2013",
+                "CZK",
+                "LAM",
+                "KAM",
+                "25100",
+                "37000",
+                "-11900"
+            ],
+            [
+                "KAM vs SME",
+                "2013",
+                "CZK",
+                "KAM",
+                "SME",
+                "37000",
+                "14900",
+                "22100"
+            ]
+        ]
+    }
+}

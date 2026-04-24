@@ -1,0 +1,94 @@
+{
+    "table-237-237": {
+        "title": [
+            "Visitor_Name",
+            "Age",
+            "Tickets_Bought_At_Once",
+            "Transaction_ID",
+            "Purchase_Date",
+            "Venue_Capacity",
+            "Ticket_Type"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name and age of the visitor who bought the most tickets at once.",
+        "data": [
+            [
+                "John Smith",
+                "42",
+                "50",
+                "TXN-9981",
+                "06/15/2023",
+                "75000",
+                "General Admission"
+            ],
+            [
+                "Sarah Lee",
+                "35",
+                "8",
+                "TXT-4421",
+                "",
+                "N/A",
+                "VIP"
+            ],
+            [
+                "Michael Chen",
+                "61",
+                "",
+                "TXA-1102",
+                "",
+                "",
+                "Standard"
+            ],
+            [
+                "Emily Davis",
+                "9",
+                "",
+                "TXB-3392",
+                "",
+                "",
+                "Family Pack"
+            ],
+            [
+                "Robert Wilson",
+                "",
+                "12",
+                "TXC-5567",
+                "",
+                "",
+                "Group Rate"
+            ],
+            [
+                "Linda Martinez",
+                "N/A",
+                "",
+                "TXD-7789",
+                "",
+                "",
+                "Student Discount"
+            ],
+            [
+                "David Brown",
+                "Missing Data",
+                "",
+                "XEY-2234",
+                "",
+                "",
+                "Senior Pass"
+            ],
+            [
+                "Jennifer White",
+                "Sold Out",
+                "",
+                "XFZ-6655",
+                "",
+                "",
+                "Premium Seating"
+            ]
+        ]
+    }
+}

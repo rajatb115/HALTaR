@@ -1,0 +1,45 @@
+{
+    "table-140-140": {
+        "title": [
+            "Credit Card Level",
+            "Disposition Type",
+            "Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Credit Card Disposition Types",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many high-level credit cards have \"disponent\" type of disposition?",
+        "data": [
+            [
+                "High Level",
+                "Disponent",
+                "123"
+            ],
+            [
+                "High Level",
+                "Owner",
+                "456"
+            ],
+            [
+                "High Level",
+                "Joint",
+                "789"
+            ],
+            [
+                "Mid Level",
+                "Disponent",
+                "321"
+            ],
+            [
+                "Basic Level",
+                "Disponent",
+                "654"
+            ]
+        ]
+    }
+}

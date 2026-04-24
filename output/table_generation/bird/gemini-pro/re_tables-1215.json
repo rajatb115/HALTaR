@@ -1,0 +1,51 @@
+{
+    "table-1215-1215": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Date of Birth",
+            "Total Protein (TP)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Demographics with Low Total Protein",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List ID, sex and date of birth of patient whose total protein (TP) below the lower range of the normal index.",
+        "data": [
+            [
+                "12345",
+                "Male",
+                "1965-03-15",
+                "5.8 g/dL"
+            ],
+            [
+                "67890",
+                "Female",
+                "1982-11-22",
+                "6.0 g/dL"
+            ],
+            [
+                "24680",
+                "Male",
+                "1970-07-04",
+                "5.5 g/dL"
+            ],
+            [
+                "13579",
+                "Female",
+                "1990-01-10",
+                "5.9 g/dL"
+            ],
+            [
+                "98765",
+                "Male",
+                "1958-05-28",
+                "5.7 g/dL"
+            ]
+        ]
+    }
+}

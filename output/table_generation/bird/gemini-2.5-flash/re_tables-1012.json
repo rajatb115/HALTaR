@@ -1,0 +1,77 @@
+{
+    "table-1012-1012": {
+        "title": [
+            "Driver Name",
+            "Lap Time (s)",
+            "Race",
+            "Circuit",
+            "Year",
+            "Team"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which driver created the shortest lap time ever record in a Formula_1 race? Please give his full name.",
+        "data": [
+            [
+                "Max Verstappen",
+                "69.886",
+                "Spanish Grand Prix",
+                "Circuit de Barcelona-Catalunya",
+                "2021",
+                "Red Bull Racing"
+            ],
+            [
+                "Lewis Hamilton",
+                "70.123",
+                "British Grand Prix",
+                "Silverstone Circuit",
+                "2020",
+                "Mercedes"
+            ],
+            [
+                "Michael Schumacher",
+                "71.567",
+                "Hungarian Grand Prix",
+                "Hungaroring",
+                "2004",
+                "Ferrari"
+            ],
+            [
+                "Ayrton Senna",
+                "72.345",
+                "Monaco Grand Prix",
+                "Circuit de Monaco",
+                "1990",
+                "McLaren"
+            ],
+            [
+                "Sebastian Vettel",
+                "70.999",
+                "Italian Grand Prix",
+                "Autodromo Nazionale Monza",
+                "2018",
+                "Ferrari"
+            ],
+            [
+                "Kimi R\u00e4ikk\u00f6nen",
+                "71.234",
+                "Belgian Grand Prix",
+                "Circuit de Spa-Francorchamps",
+                "2017",
+                "Ferrari"
+            ],
+            [
+                "Fernando Alonso",
+                "72.001",
+                "Abu Dhabi Grand Prix",
+                "Yas Marina Circuit",
+                "2012",
+                "Ferrari"
+            ]
+        ]
+    }
+}

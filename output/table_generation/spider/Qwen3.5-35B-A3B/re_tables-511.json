@@ -1,0 +1,61 @@
+{
+    "table-511-511": {
+        "title": [
+            "Country",
+            "Surface Area (km\u00b2)",
+            "Continent",
+            "Population Rank",
+            "Capital City",
+            "GDP Trillion USD"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names and surface areas of the 5 largest countries.",
+        "data": [
+            [
+                "Russia",
+                "6475000",
+                "Europe/Asia",
+                "9",
+                "Moscow",
+                "0.17"
+            ],
+            [
+                "Canada",
+                "3855103",
+                "North America",
+                "4",
+                "Ottawa",
+                "5.9"
+            ],
+            [
+                "United States",
+                "7670021",
+                "North America",
+                "8",
+                "Washington D.C.",
+                "23.3"
+            ],
+            [
+                "China",
+                "9596961",
+                "Asia",
+                "",
+                "Beijing",
+                "0.18"
+            ],
+            [
+                "Brazil",
+                "851576",
+                "South America",
+                "",
+                "Brasilia",
+                "-1.6"
+            ]
+        ]
+    }
+}

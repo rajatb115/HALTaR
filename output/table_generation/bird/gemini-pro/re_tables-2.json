@@ -1,0 +1,55 @@
+{
+    "table-2-2": {
+        "title": [
+            "Age",
+            "School Type",
+            "Rate Type",
+            "Rate",
+            "Eligibility"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Lowest Free School Rates for Students",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the lowest three eligible free rates for students aged 5-17 in continuation schools.",
+        "data": [
+            [
+                "5-17",
+                "Continuation",
+                "Free",
+                "$0.00",
+                "Eligible"
+            ],
+            [
+                "5-17",
+                "Continuation",
+                "Free",
+                "$0.00",
+                "Eligible"
+            ],
+            [
+                "5-17",
+                "Continuation",
+                "Free",
+                "$0.00",
+                "Eligible"
+            ],
+            [
+                "5-17",
+                "Continuation",
+                "Reduced",
+                "$1.00",
+                "Eligible"
+            ],
+            [
+                "5-17",
+                "Continuation",
+                "Reduced",
+                "$1.50",
+                "Eligible"
+            ]
+        ]
+    }
+}

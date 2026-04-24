@@ -1,0 +1,60 @@
+{
+    "table-202-202": {
+        "title": [
+            "Paragraph ID",
+            "Text",
+            "Sentence Count",
+            "Word Count",
+            "Character Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            2,
+            3,
+            4
+        ],
+        "pgTitle": "Paragraph Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show paragraph details for paragraph with text 'Korea ' .",
+        "data": [
+            [
+                "1",
+                "Korea",
+                "1",
+                "1",
+                "5"
+            ],
+            [
+                "2",
+                "Some new text",
+                "2",
+                "4",
+                "16"
+            ],
+            [
+                "3",
+                "More text",
+                "1",
+                "2",
+                "9"
+            ],
+            [
+                "4",
+                "Other text",
+                "3",
+                "3",
+                "10"
+            ],
+            [
+                "5",
+                "Simple text",
+                "1",
+                "2",
+                "11"
+            ]
+        ]
+    }
+}

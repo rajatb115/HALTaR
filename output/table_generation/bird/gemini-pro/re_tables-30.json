@@ -1,0 +1,63 @@
+{
+    "table-30-30": {
+        "title": [
+            "School Name",
+            "City",
+            "State",
+            "Open Date",
+            "Enrollment",
+            "Grades Served"
+        ],
+        "numCols": 6,
+        "numericColumns": [
+            4
+        ],
+        "pgTitle": "Largest School Opening Dates",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When did the first-through-twelfth-grade school with the largest enrollment open?",
+        "data": [
+            [
+                "Example High School",
+                "Anytown",
+                "CA",
+                "1905-09-05",
+                "3500",
+                "9-12"
+            ],
+            [
+                "Example Middle School",
+                "Anytown",
+                "CA",
+                "1921-09-06",
+                "2800",
+                "6-8"
+            ],
+            [
+                "Example Elementary School",
+                "Anytown",
+                "CA",
+                "1950-09-07",
+                "1000",
+                "K-5"
+            ],
+            [
+                "Example K-12 School",
+                "Anytown",
+                "CA",
+                "1900-09-05",
+                "4000",
+                "K-12"
+            ],
+            [
+                "Another Example K-12 School",
+                "Anytown",
+                "CA",
+                "1910-09-05",
+                "3800",
+                "K-12"
+            ]
+        ]
+    }
+}

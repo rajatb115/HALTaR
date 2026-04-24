@@ -1,0 +1,77 @@
+{
+    "table-109-109": {
+        "title": [
+            "Client ID",
+            "Loan Amount",
+            "Account Open Date",
+            "First Transaction Date",
+            "First Transaction Type",
+            "First Transaction Amount"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the client who applied the biggest loan, what was his/her first amount of transaction after opened the account?",
+        "data": [
+            [
+                "C001",
+                "500000",
+                "2022-01-15",
+                "2022-01-16",
+                "Deposit",
+                "10000"
+            ],
+            [
+                "C002",
+                "250000",
+                "2021-03-10",
+                "2021-03-11",
+                "Withdrawal",
+                "500"
+            ],
+            [
+                "C003",
+                "750000",
+                "2023-05-01",
+                "2023-05-02",
+                "Deposit",
+                "25000"
+            ],
+            [
+                "C004",
+                "100000",
+                "2020-11-20",
+                "2020-11-21",
+                "Deposit",
+                "2000"
+            ],
+            [
+                "C005",
+                "600000",
+                "2022-08-01",
+                "2022-08-02",
+                "Deposit",
+                "15000"
+            ],
+            [
+                "C006",
+                "300000",
+                "2021-01-05",
+                "2021-01-06",
+                "Withdrawal",
+                "1000"
+            ],
+            [
+                "C007",
+                "450000",
+                "2023-02-10",
+                "2023-02-11",
+                "Deposit",
+                "8000"
+            ]
+        ]
+    }
+}

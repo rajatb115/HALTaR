@@ -1,0 +1,45 @@
+{
+    "table-646-646": {
+        "title": [
+            "User ID",
+            "Comment",
+            "Sentiment"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Example of User Comments",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many negative comments were given by user ID 13?",
+        "data": [
+            [
+                "12",
+                "\"This is great!\"",
+                "Positive"
+            ],
+            [
+                "13",
+                "\"This is awful\"",
+                "Negative"
+            ],
+            [
+                "13",
+                "\"I hate it\"",
+                "Negative"
+            ],
+            [
+                "14",
+                "\"Okay, I guess\"",
+                "Neutral"
+            ],
+            [
+                "15",
+                "\"Best ever!\"",
+                "Positive"
+            ]
+        ]
+    }
+}

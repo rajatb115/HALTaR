@@ -1,0 +1,49 @@
+{
+    "table-1042-1042": {
+        "title": [
+            "Team_Name",
+            "Build_Up_Class_20CC",
+            "Chance_Creation_Passing_Rating",
+            "Season",
+            "League_Position",
+            "Avg_Chance_Creation_Limit",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the teams with normal build-up play dribbling class in 2014, List the names of the teams with less than average chance creation passing, in descending order of chance creation passing.",
+        "data": [
+            [
+                "Manchester City",
+                "Normal",
+                "76.2",
+                "3rd",
+                "Below Average",
+                "Active",
+                ""
+            ],
+            [
+                "Arsenal",
+                "Normal",
+                "74.8",
+                "4th",
+                "BelowAverage",
+                "Active",
+                ""
+            ],
+            [
+                "Tottenham Hotspur",
+                "Normal",
+                "68.5",
+                "5th",
+                "Below Average",
+                "Active",
+                ""
+            ]
+        ]
+    }
+}

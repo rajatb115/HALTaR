@@ -1,0 +1,69 @@
+{
+    "table-1041-1041": {
+        "title": [
+            "Player Name",
+            "Height (cm)",
+            "Heading Accuracy (%)",
+            "Team",
+            "Position"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the top 10 players' names whose heights are above 180 in descending order of average heading accuracy.",
+        "data": [
+            [
+                "Harry Kane",
+                "188",
+                "92",
+                "Bayern Munich",
+                "Forward"
+            ],
+            [
+                "Robert Lewandowski",
+                "185",
+                "90",
+                "FC Barcelona",
+                "Forward"
+            ],
+            [
+                "Olivier Giroud",
+                "193",
+                "88",
+                "AC Milan",
+                "Forward"
+            ],
+            [
+                "Virgil van Dijk",
+                "193",
+                "85",
+                "Liverpool FC",
+                "Defender"
+            ],
+            [
+                "Sergio Ramos",
+                "184",
+                "83",
+                "Sevilla FC",
+                "Defender"
+            ],
+            [
+                "Erling Haaland",
+                "195",
+                "81",
+                "Manchester City",
+                "Forward"
+            ],
+            [
+                "Romelu Lukaku",
+                "191",
+                "79",
+                "AS Roma",
+                "Forward"
+            ]
+        ]
+    }
+}

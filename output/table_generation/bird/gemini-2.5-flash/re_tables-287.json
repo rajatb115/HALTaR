@@ -1,0 +1,77 @@
+{
+    "table-287-287": {
+        "title": [
+            "Compound Name",
+            "Chemical Formula",
+            "Main Bond Type",
+            "Contains Triple Bond",
+            "Number of Triple Bonds",
+            "Molecular Weight (g/mol)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all chemical compounds identified in the database, what percent of compounds form a triple-bond.",
+        "data": [
+            [
+                "Ethyne",
+                "C2H2",
+                "Triple",
+                "Yes",
+                "1",
+                "26.04"
+            ],
+            [
+                "Nitrogen",
+                "N2",
+                "Triple",
+                "Yes",
+                "1",
+                "28.01"
+            ],
+            [
+                "Carbon Monoxide",
+                "CO",
+                "Triple",
+                "Yes",
+                "1",
+                "28.01"
+            ],
+            [
+                "Hydrogen Cyanide",
+                "HCN",
+                "Triple",
+                "Yes",
+                "1",
+                "27.03"
+            ],
+            [
+                "Ethane",
+                "C2H6",
+                "Single",
+                "No",
+                "0",
+                "30.07"
+            ],
+            [
+                "Ethene",
+                "C2H4",
+                "Double",
+                "No",
+                "0",
+                "28.05"
+            ],
+            [
+                "Benzene",
+                "C6H6",
+                "Aromatic",
+                "No",
+                "0",
+                "78.11"
+            ]
+        ]
+    }
+}

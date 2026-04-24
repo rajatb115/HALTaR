@@ -1,0 +1,49 @@
+{
+    "table-62-62": {
+        "title": [
+            "School Name",
+            "Owner District",
+            "School Type",
+            "City"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Chartered Schools in Hickman",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many chartered schools located in the city of Hickman are owned by the Elementary School District?",
+        "data": [
+            [
+                "Example 1",
+                "Elementary School District",
+                "Charter",
+                "Hickman"
+            ],
+            [
+                "Example 2",
+                "High School District",
+                "Charter",
+                "Hickman"
+            ],
+            [
+                "Example 3",
+                "Elementary School District",
+                "Charter",
+                "Hickman"
+            ],
+            [
+                "Example 4",
+                "Unified School District",
+                "Public",
+                "Hickman"
+            ],
+            [
+                "Example 5",
+                "Elementary School District",
+                "Private",
+                "Hickman"
+            ]
+        ]
+    }
+}

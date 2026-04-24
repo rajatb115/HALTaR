@@ -1,0 +1,59 @@
+{
+    "table-257-257": {
+        "title": [
+            "Isotope Name",
+            "Atomic Symbol",
+            "Atomic Number",
+            "Number of Neutrons",
+            "Atomic Mass (amu)"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            2,
+            3,
+            4
+        ],
+        "pgTitle": "Common Isotopes of Carbon and Hydrogen",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total atoms consisting of the element carbon and hydrogen.",
+        "data": [
+            [
+                "Protium",
+                "<sup>1</sup>H",
+                "1",
+                "0",
+                "1.007825"
+            ],
+            [
+                "Deuterium",
+                "<sup>2</sup>H",
+                "1",
+                "1",
+                "2.014102"
+            ],
+            [
+                "Tritium",
+                "<sup>3</sup>H",
+                "1",
+                "2",
+                "3.016049"
+            ],
+            [
+                "Carbon-12",
+                "<sup>12</sup>C",
+                "6",
+                "6",
+                "12.000000"
+            ],
+            [
+                "Carbon-14",
+                "<sup>14</sup>C",
+                "6",
+                "8",
+                "14.003241"
+            ]
+        ]
+    }
+}

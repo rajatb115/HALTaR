@@ -1,0 +1,61 @@
+{
+    "table-436-436": {
+        "title": [
+            "Card ID",
+            "Card Name",
+            "Border Color",
+            "Rarity"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many card border with black color ? List out the card id.",
+        "data": [
+            [
+                "C001",
+                "Shadow Weaver",
+                "Black",
+                "Rare"
+            ],
+            [
+                "C002",
+                "Nightfall Dragon",
+                "Black",
+                "Legendary"
+            ],
+            [
+                "C003",
+                "Obsidian Golem",
+                "Black",
+                "Epic"
+            ],
+            [
+                "C004",
+                "Crimson Blade",
+                "Red",
+                "Common"
+            ],
+            [
+                "C005",
+                "Voidwalker",
+                "Black",
+                "Rare"
+            ],
+            [
+                "C006",
+                "Emerald Sentinel",
+                "Green",
+                "Uncommon"
+            ],
+            [
+                "C007",
+                "Dark Pact",
+                "Black",
+                "Common"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-1047-1047": {
+        "title": [
+            "Metric",
+            "Description",
+            "Value"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "ADO Den Haag - Field Control Metrics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the ADO Den Haag team freedom of movement in the 1st two thirds of the pitch?",
+        "data": [
+            [
+                "Possession in own third",
+                "Percentage of possession in ADO Den Haag's defensive third",
+                "30%"
+            ],
+            [
+                "Possession in middle third",
+                "Percentage of possession in the middle third of the pitch",
+                "45%"
+            ],
+            [
+                "Touches in own third",
+                "Number of touches in ADO Den Haag's defensive third",
+                "200"
+            ],
+            [
+                "Touches in middle third",
+                "Number of touches in the middle third of the pitch",
+                "300"
+            ],
+            [
+                "Successful passes in first two thirds",
+                "Number of successful passes in the defensive and middle thirds",
+                "400"
+            ]
+        ]
+    }
+}

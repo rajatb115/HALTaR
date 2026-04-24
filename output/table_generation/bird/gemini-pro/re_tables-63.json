@@ -1,0 +1,65 @@
+{
+    "table-63-63": {
+        "title": [
+            "CDS Code",
+            "School Name",
+            "District Name",
+            "Charter",
+            "Enrollment",
+            "Free Meals (%)"
+        ],
+        "numCols": 6,
+        "numericColumns": [
+            0,
+            4,
+            5
+        ],
+        "pgTitle": "Los Angeles County Non-Charter School Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total number of non-chartered schools in the county of Los Angeles with a percent (%) of eligible free meals for grades 1 through 12 that is less than 0.18%?",
+        "data": [
+            [
+                "19647336074354",
+                "Los Angeles High School",
+                "Los Angeles Unified",
+                "No",
+                "2500",
+                "0.15"
+            ],
+            [
+                "19647336074355",
+                "Hollywood High School",
+                "Los Angeles Unified",
+                "No",
+                "2000",
+                "0.17"
+            ],
+            [
+                "19647336074356",
+                "Fairfax High School",
+                "Los Angeles Unified",
+                "No",
+                "2200",
+                "0.12"
+            ],
+            [
+                "19647336074357",
+                "Venice High School",
+                "Los Angeles Unified",
+                "No",
+                "1800",
+                "0.10"
+            ],
+            [
+                "19647336074358",
+                "Palisades High School",
+                "Los Angeles Unified",
+                "No",
+                "1500",
+                "0.05"
+            ]
+        ]
+    }
+}

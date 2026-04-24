@@ -1,0 +1,53 @@
+{
+    "table-476-476": {
+        "title": [
+            "Country",
+            "Population",
+            "Life Expectancy",
+            "Area (sq km)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Asian Country Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name, population and expected life length of asian country with the largest area?",
+        "data": [
+            [
+                "China",
+                "1,453,500,000",
+                "77.1",
+                "9,706,961"
+            ],
+            [
+                "India",
+                "1,407,500,000",
+                "70.4",
+                "3,287,263"
+            ],
+            [
+                "Indonesia",
+                "273,500,000",
+                "72.2",
+                "1,904,569"
+            ],
+            [
+                "Pakistan",
+                "231,400,000",
+                "67.3",
+                "796,095"
+            ],
+            [
+                "Japan",
+                "125,800,000",
+                "84.6",
+                "377,975"
+            ]
+        ]
+    }
+}

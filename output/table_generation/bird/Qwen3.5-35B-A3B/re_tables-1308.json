@@ -1,0 +1,76 @@
+{
+    "table-1308-1308": {
+        "title": [
+            "Patient_ID",
+            "RBC_Status",
+            "Clinic_Type",
+            "Follow_Up_Date",
+            "Diagnosis_Code",
+            "Status_Reason",
+            "Last_Visit_Days_Ago"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the patient's ID if he or she has an abnormal level of red blood cell and is followed at the outpatient clinic.",
+        "data": [
+            [
+                "P748291",
+                "Abnormal Low",
+                "Outpatient",
+                "6/15/2023",
+                "D64.9",
+                "Anemia Screening",
+                "45"
+            ],
+            [
+                "P892104",
+                "Abnormal High",
+                "Outclinic",
+                "7/02/2023",
+                "E50.0",
+                "Polycythemia Check",
+                "32"
+            ],
+            [
+                "P103948",
+                "Normal Range",
+                "Inpatient",
+                "N/A",
+                "None",
+                "Routine Exam",
+                "0"
+            ],
+            [
+                "P556721",
+                "Borderline",
+                "Outpatient",
+                "8/10/2234",
+                "Z01.89",
+                "Pre-op Review",
+                "5"
+            ],
+            [
+                "D293847",
+                "Abnormal Low",
+                "Emergency",
+                "9/01/2435",
+                "J18.9",
+                "Acute Care",
+                "12"
+            ],
+            [
+                "F882193",
+                "Abnormal High",
+                "HomeCare",
+                "N/A",
+                "C91",
+                "",
+                ""
+            ]
+        ]
+    }
+}

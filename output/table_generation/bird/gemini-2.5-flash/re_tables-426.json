@@ -1,0 +1,61 @@
+{
+    "table-426-426": {
+        "title": [
+            "Card ID",
+            "Card Name",
+            "Subtypes",
+            "Is Double-Sided"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the card numbers that don't have multiple faces on a single card and have the subtypes Angel and Wizard?",
+        "data": [
+            [
+                "12345",
+                "Seraphic Arcanist",
+                "Angel, Wizard",
+                "No"
+            ],
+            [
+                "67890",
+                "Celestial Conjurer",
+                "Angel, Wizard",
+                "No"
+            ],
+            [
+                "11223",
+                "Mystic Guardian",
+                "Angel",
+                "No"
+            ],
+            [
+                "44556",
+                "Arcane Seer",
+                "Wizard",
+                "No"
+            ],
+            [
+                "77889",
+                "Lumina, Archmage Angel",
+                "Angel, Wizard",
+                "No"
+            ],
+            [
+                "99001",
+                "Spirit Guide",
+                "Spirit, Wizard",
+                "No"
+            ],
+            [
+                "23456",
+                "Radiant Spellbinder",
+                "Angel, Wizard",
+                "No"
+            ]
+        ]
+    }
+}

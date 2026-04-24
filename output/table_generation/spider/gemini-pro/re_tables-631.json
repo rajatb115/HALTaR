@@ -1,0 +1,37 @@
+{
+    "table-631-631": {
+        "title": [
+            "Breed Type",
+            "Size Type"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Dog Breed and Size Combinations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the distinct breed type and size type combinations for dogs.",
+        "data": [
+            [
+                "Labrador Retriever",
+                "Large"
+            ],
+            [
+                "Chihuahua",
+                "Toy"
+            ],
+            [
+                "German Shepherd",
+                "Large"
+            ],
+            [
+                "Poodle",
+                "Standard"
+            ],
+            [
+                "Beagle",
+                "Medium"
+            ]
+        ]
+    }
+}

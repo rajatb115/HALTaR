@@ -1,0 +1,43 @@
+{
+    "table-346-346": {
+        "title": [
+            "Cartoon Title",
+            "Director",
+            "Air Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Cartoon Titles and Directors",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "list all cartoon titles and their directors ordered by their air date",
+        "data": [
+            [
+                "The Flintstones",
+                "William Hanna, Joseph Barbera",
+                "1960-09-30"
+            ],
+            [
+                "The Jetsons",
+                "William Hanna, Joseph Barbera",
+                "1962-09-23"
+            ],
+            [
+                "Scooby-Doo, Where Are You!",
+                "William Hanna, Joseph Barbera",
+                "1969-09-13"
+            ],
+            [
+                "SpongeBob SquarePants",
+                "Stephen Hillenburg",
+                "1999-05-01"
+            ],
+            [
+                "Rick and Morty",
+                "Justin Roiland, Dan Harmon",
+                "2013-12-02"
+            ]
+        ]
+    }
+}

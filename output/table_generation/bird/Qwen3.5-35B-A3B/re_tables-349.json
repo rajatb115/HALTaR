@@ -1,0 +1,67 @@
+{
+    "table-349-349": {
+        "title": [
+            "Ruling ID",
+            "Card Name",
+            "Set Number",
+            "Ruling Text",
+            "Date Issued",
+            "Type",
+            "Source"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Describe the information about rulings for card named 'Sublime Epiphany' with number 74s.",
+        "data": [
+            [
+                "RUL-0074A",
+                "Sublime epiphany",
+                "74S",
+                "This spell can target creatures you don't control.",
+                "2016-03-15",
+                "Game Rule",
+                "Gatherer"
+            ],
+            [
+                "rul-07b",
+                "sublime epiphanY",
+                "7s",
+                "If multiple players cast it simultaneously, use stack order.",
+                "2106-11-20",
+                "Interaction",
+                "Official FAQ"
+            ],
+            [
+                "#r_74c",
+                "SUBlIME EPIPHANY",
+                "7S",
+                "The effect applies only after the spell resolves completely.",
+                "2202-05-01",
+                "Timing",
+                "Rules Compendium"
+            ],
+            [
+                "Sublime EPiPhAny",
+                "7 s",
+                "Cannot target itself unless another copy is on the battlefield first.",
+                "2301-08-12",
+                "Targeting",
+                "Judge Rulings",
+                ""
+            ],
+            [
+                "$rul-7d",
+                "SuBliMe EpIpHaNy",
+                "7 S",
+                "Exile cards from top until one lands in hand; then put rest back.",
+                "24050",
+                "",
+                ""
+            ]
+        ]
+    }
+}

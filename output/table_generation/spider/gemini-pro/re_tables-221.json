@@ -1,0 +1,37 @@
+{
+    "table-221-221": {
+        "title": [
+            "Teacher Name",
+            "Course Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Teacher Course Assignments",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of each teacher and what course they teach?",
+        "data": [
+            [
+                "Ms. Anderson",
+                "Biology"
+            ],
+            [
+                "Mr. Chen",
+                "Chemistry"
+            ],
+            [
+                "Mrs. Davis",
+                "Physics"
+            ],
+            [
+                "Mr. Garcia",
+                "Algebra"
+            ],
+            [
+                "Ms. Rodriguez",
+                "Calculus"
+            ]
+        ]
+    }
+}

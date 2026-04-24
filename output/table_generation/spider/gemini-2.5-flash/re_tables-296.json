@@ -1,0 +1,85 @@
+{
+    "table-296-296": {
+        "title": [
+            "Course Code",
+            "Course Name",
+            "Description",
+            "Credits",
+            "Prerequisites",
+            "Department",
+            "Grade Level"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How is the math course described?",
+        "data": [
+            [
+                "MATH101",
+                "College Algebra",
+                "Covers fundamental algebraic concepts, functions, and their applications.",
+                "3",
+                "None",
+                "Mathematics",
+                "Undergraduate"
+            ],
+            [
+                "MATH205",
+                "Calculus I",
+                "Introduction to differential calculus, limits, derivatives, and their applications.",
+                "4",
+                "MATH101 or equivalent",
+                "Mathematics",
+                "Undergraduate"
+            ],
+            [
+                "MATH310",
+                "Linear Algebra",
+                "Study of vector spaces, linear transformations, matrices, and eigenvalues.",
+                "3",
+                "MATH205",
+                "Mathematics",
+                "Undergraduate"
+            ],
+            [
+                "MATH420",
+                "Differential Equations",
+                "Focuses on methods for solving ordinary and partial differential equations.",
+                "3",
+                "MATH205, MATH310",
+                "Mathematics",
+                "Undergraduate"
+            ],
+            [
+                "MATH501",
+                "Real Analysis",
+                "Rigorous treatment of real numbers, sequences, series, and continuity.",
+                "4",
+                "MATH310, Proofs course",
+                "Mathematics",
+                "Graduate"
+            ],
+            [
+                "MATH630",
+                "Abstract Algebra",
+                "Explores groups, rings, fields, and their fundamental properties.",
+                "3",
+                "MATH310, Proofs course",
+                "Mathematics",
+                "Graduate"
+            ],
+            [
+                "MATH100",
+                "Basic Math Skills",
+                "Review of arithmetic, fractions, decimals, and basic algebraic expressions.",
+                "3",
+                "N/A",
+                "Mathematics",
+                "Remedial"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1413-1413": {
+        "title": [
+            "Member ID",
+            "Shirt Size",
+            "Expense Category",
+            "Amount ($)",
+            "Date Incurred",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What kind of expenses incurred by members who have X-Large in size of tee shirt?",
+        "data": [
+            [
+                "M1042",
+                "X-LARGE",
+                "Uniform Replacement",
+                "$45.00",
+                "06/12/2023",
+                "Approved"
+            ],
+            [
+                "M2109",
+                "X-LARGE",
+                "Event Registration Fee",
+                "$120.50",
+                "July 15, 2023",
+                "Reimbursed"
+            ],
+            [
+                "M3387",
+                "XLARGE",
+                "Bulk Supply Order",
+                "$215.75",
+                "August 01, 2024",
+                "Pending"
+            ],
+            [
+                "M4512",
+                "X-LARGE",
+                "Shipping Cost",
+                "$12.99",
+                "September 10, 2024",
+                "Approved"
+            ],
+            [
+                "M5621",
+                "XLARGE",
+                "Training Material",
+                "$85.20",
+                "October 05, 2024",
+                "Pending"
+            ],
+            [
+                "M6734",
+                "X Large",
+                "Custom Embroidery",
+                "$30.05",
+                "November 11, 2002",
+                "Approved"
+            ]
+        ]
+    }
+}

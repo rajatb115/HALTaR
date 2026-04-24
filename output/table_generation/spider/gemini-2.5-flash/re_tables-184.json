@@ -1,0 +1,41 @@
+{
+    "table-184-184": {
+        "title": [
+            "Version Number",
+            "Template Type Code"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What the smallest version number and its template type code?",
+        "data": [
+            [
+                "0.1",
+                "ALPHA"
+            ],
+            [
+                "0.5",
+                "BETA"
+            ],
+            [
+                "1.0",
+                "PROD"
+            ],
+            [
+                "1.1",
+                "PROD"
+            ],
+            [
+                "1.2",
+                "PROD"
+            ],
+            [
+                "2.0",
+                "DEV"
+            ]
+        ]
+    }
+}

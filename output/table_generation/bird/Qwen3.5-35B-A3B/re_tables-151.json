@@ -1,0 +1,33 @@
+{
+    "table-151-151": {
+        "title": [
+            "Account ID",
+            "Region",
+            "Partner Bank",
+            "Transaction Count",
+            "Status",
+            "Last Date",
+            "Amount",
+            "Currency"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts in North Bohemia has made a transaction with the partner's bank being AB?",
+        "data": [
+            [
+                "ACC-NB-0042",
+                "North Bohemia",
+                "AB",
+                "3",
+                "Active",
+                "06/15/2023",
+                "$1,250.00",
+                "USD"
+            ]
+        ]
+    }
+}

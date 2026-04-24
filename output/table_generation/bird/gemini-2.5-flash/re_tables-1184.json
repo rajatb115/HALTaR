@@ -1,0 +1,61 @@
+{
+    "table-1184-1184": {
+        "title": [
+            "Patient ID",
+            "Visit Date",
+            "Primary Diagnosis",
+            "Diagnosis Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who was diagnosed SLE on 1997/1/27, what was his/her original diagnose when he/she came to the hospital for the first time?",
+        "data": [
+            [
+                "P1001",
+                "1996/03/15",
+                "Persistent Fatigue",
+                "Initial"
+            ],
+            [
+                "P1001",
+                "1996/08/20",
+                "Arthralgia",
+                "Provisional"
+            ],
+            [
+                "P1001",
+                "1997/01/27",
+                "Systemic Lupus Erythematosus (SLE)",
+                "Confirmed"
+            ],
+            [
+                "P1002",
+                "2005/07/10",
+                "Acute Bronchitis",
+                "Initial"
+            ],
+            [
+                "P1002",
+                "2005/07/25",
+                "Asthma Exacerbation",
+                "Confirmed"
+            ],
+            [
+                "P1003",
+                "1998/11/01",
+                "Recurrent Headaches",
+                "Initial"
+            ],
+            [
+                "P1003",
+                "1998/11/15",
+                "Migraine with Aura",
+                "Confirmed"
+            ]
+        ]
+    }
+}

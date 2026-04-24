@@ -1,0 +1,69 @@
+{
+    "table-131-131": {
+        "title": [
+            "Airline Code",
+            "Airline Name",
+            "Departs From CVO",
+            "Deploys From APG",
+            "Status Match"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airlines have departures from CVO but not from APG airports?",
+        "data": [
+            [
+                "AS",
+                "Alaska Airlines",
+                "Yes",
+                "No",
+                "True"
+            ],
+            [
+                "DL",
+                "Delta Air Lines",
+                "Yes",
+                "No",
+                "True"
+            ],
+            [
+                "UA",
+                "United Airlines",
+                "Yes",
+                "No",
+                "True"
+            ],
+            [
+                "AA",
+                "American Airlines",
+                "No",
+                "No",
+                "null"
+            ],
+            [
+                "WN",
+                "Southwest Airlines",
+                "No",
+                "No",
+                "null"
+            ],
+            [
+                "B6",
+                "JetBlue Airways",
+                "No",
+                "",
+                "null"
+            ],
+            [
+                "NK",
+                "Spirit Airlines",
+                "N/A",
+                "N/A",
+                "null"
+            ]
+        ]
+    }
+}

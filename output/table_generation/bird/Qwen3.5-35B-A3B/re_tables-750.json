@@ -1,0 +1,45 @@
+{
+    "table-750-750": {
+        "title": [
+            "Superpower Category",
+            "Specific Ability",
+            "Description",
+            "Power Level",
+            "Source Origin",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the superpowers of the superhero called Deathlok.",
+        "data": [
+            [
+                "Cybernetic Strength",
+                "Enhanced Lifting Capacity",
+                "Can lift up to 7 tons due to reinforced chassis",
+                "High",
+                "Mechanical Augmentation",
+                "Active"
+            ],
+            [
+                "Neural Interface",
+                "Direct Brain-to-Machine Link",
+                "Allows instant control over weapons and sensors via thought",
+                "Extreme",
+                "Neuro-Cybernetics",
+                "Active"
+            ],
+            [
+                "Tactical Analysis",
+                "Real-time Combat Prediction",
+                "Processes battlefield data to predict enemy movements in milliseconds",
+                "Very High",
+                "AI Subroutine",
+                "Active"
+            ]
+        ]
+    }
+}

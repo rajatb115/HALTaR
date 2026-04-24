@@ -1,0 +1,63 @@
+{
+    "table-119-119": {
+        "title": [
+            "Loan Amount Range",
+            "Account Status",
+            "Issue Count",
+            "Total Accounts",
+            "Running Percentage",
+            "Region",
+            "Product Type",
+            "Risk Tier"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For loan amount less than USD100,000, what is the percentage of accounts that is still running with no issue.",
+        "data": [
+            [
+                "< $10,104",
+                "Active No Issues",
+                "0",
+                "450",
+                "N/A",
+                "North America",
+                "Personal",
+                "Low"
+            ],
+            [
+                "< $16,782",
+                "Active With Minor Delays",
+                "3",
+                "520",
+                "-",
+                "Europe",
+                "Auto",
+                "Medium"
+            ],
+            [
+                "$22,456",
+                "Fully Paid Off",
+                "8",
+                "610",
+                "Yes",
+                "Asia Pacific",
+                "Home Equity",
+                "High"
+            ],
+            [
+                "<$35,901",
+                "Active No Issues",
+                "0",
+                "380",
+                "Yes",
+                "North America",
+                "Personal",
+                "Low"
+            ]
+        ]
+    }
+}

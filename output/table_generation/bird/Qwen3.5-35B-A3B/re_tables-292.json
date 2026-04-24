@@ -1,0 +1,77 @@
+{
+    "table-292-292": {
+        "title": [
+            "Compound ID",
+            "Common Name",
+            "Carcinogen Status",
+            "Source Database",
+            "Last Verified Date",
+            "Risk Level"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many chemical compounds in the database are identified as carcinogenic.",
+        "data": [
+            [
+                "CHEM-0042",
+                "Benzene",
+                "Confirmed",
+                "PubChem",
+                "06/15/2023",
+                "High"
+            ],
+            [
+                "CHEM-1109",
+                "Asbestos Fibers",
+                "Probable",
+                "IARC Monographs",
+                "03/22/2024",
+                "Very High"
+            ],
+            [
+                "CHEM-7734",
+                "Formaldehyde",
+                "Known",
+                "EPA IRIS",
+                "08/10/2023",
+                "High"
+            ],
+            [
+                "CHEMI-2091",
+                "Vinyl Chloride",
+                "Suspected",
+                "NTP Report",
+                "05/30/2019",
+                "Moderate"
+            ],
+            [
+                "CHEX-9921",
+                "Arsenic Compounds",
+                "Established",
+                "WHO IPCS",
+                "09/12/2018",
+                "Very High"
+            ],
+            [
+                "CHMG-3341",
+                "Polycyclic Aromatic Hydrocarbons",
+                "Likely",
+                "ATSDR",
+                "07/01/2021",
+                "High"
+            ],
+            [
+                "CHOL-5512",
+                "Ethylene Oxide",
+                "Definite",
+                "OSHA Standards",
+                "04/14/2025",
+                "Critical"
+            ]
+        ]
+    }
+}

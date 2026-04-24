@@ -1,0 +1,37 @@
+{
+    "table-112-112": {
+        "title": [
+            "Airline Name",
+            "Abbreviation"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "US Airline Codes and Names",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all airline names and their abbreviations in \"USA\".",
+        "data": [
+            [
+                "United Airlines",
+                "UA"
+            ],
+            [
+                "American Airlines",
+                "AA"
+            ],
+            [
+                "Delta Air Lines",
+                "DL"
+            ],
+            [
+                "Southwest Airlines",
+                "WN"
+            ],
+            [
+                "Alaska Airlines",
+                "AS"
+            ]
+        ]
+    }
+}

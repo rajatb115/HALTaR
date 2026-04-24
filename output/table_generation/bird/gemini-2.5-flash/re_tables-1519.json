@@ -1,0 +1,69 @@
+{
+    "table-1519-1519": {
+        "title": [
+            "Deal ID",
+            "Deal Date",
+            "Deal Type",
+            "Company Involved",
+            "Country",
+            "Deal Value (USD)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the deal happened at 2012/8/24 12:42:00, which country was it?",
+        "data": [
+            [
+                "D-00123",
+                "2012-08-24 12:42:00",
+                "Acquisition",
+                "Tech Solutions Inc.",
+                "USA",
+                "150000000"
+            ],
+            [
+                "D-00124",
+                "2012-08-25 09:30:00",
+                "Partnership",
+                "Global Innovations Ltd.",
+                "UK",
+                "N/A"
+            ],
+            [
+                "D-00125",
+                "2012-08-23 16:00:00",
+                "Investment",
+                "Startup X",
+                "Germany",
+                "5000000"
+            ],
+            [
+                "D-00126",
+                "2012-09-01 10:15:00",
+                "Merger",
+                "Alpha Corp.",
+                "Canada",
+                "300000000"
+            ],
+            [
+                "D-00127",
+                "2012-08-20 11:00:00",
+                "Joint Venture",
+                "Asia Pacific Holdings",
+                "Singapore",
+                "75000000"
+            ],
+            [
+                "D-00128",
+                "2012-08-24 10:00:00",
+                "Acquisition",
+                "European Ventures",
+                "France",
+                "90000000"
+            ]
+        ]
+    }
+}

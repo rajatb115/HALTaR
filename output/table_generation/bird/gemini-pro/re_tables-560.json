@@ -1,0 +1,39 @@
+{
+    "table-560-560": {
+        "title": [
+            "Date",
+            "Vote Count"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Vote Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicate the creation date of the maximum number of votes.",
+        "data": [
+            [
+                "2023-01-15",
+                "125"
+            ],
+            [
+                "2023-02-20",
+                "150"
+            ],
+            [
+                "2023-03-10",
+                "200"
+            ],
+            [
+                "2023-04-05",
+                "180"
+            ],
+            [
+                "2023-05-12",
+                "220"
+            ]
+        ]
+    }
+}

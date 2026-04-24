@@ -1,0 +1,57 @@
+{
+    "table-947-947": {
+        "title": [
+            "Circuit Name",
+            "City",
+            "State",
+            "Latitude",
+            "Longitude"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "US Race Track Locations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the location coordinates of the US circuits.",
+        "data": [
+            [
+                "Daytona International Speedway",
+                "Daytona Beach",
+                "Florida",
+                "29.18",
+                "-81.07"
+            ],
+            [
+                "Indianapolis Motor Speedway",
+                "Speedway",
+                "Indiana",
+                "39.79",
+                "-86.23"
+            ],
+            [
+                "Watkins Glen International",
+                "Watkins Glen",
+                "New York",
+                "42.33",
+                "-76.92"
+            ],
+            [
+                "Sonoma Raceway",
+                "Sonoma",
+                "California",
+                "38.16",
+                "-122.45"
+            ],
+            [
+                "Circuit of the Americas",
+                "Austin",
+                "Texas",
+                "30.13",
+                "-97.64"
+            ]
+        ]
+    }
+}

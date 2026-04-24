@@ -1,0 +1,43 @@
+{
+    "table-407-407": {
+        "title": [
+            "Player Name",
+            "Birth Date",
+            "Total Earnings"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Poker Player Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the birth date of the poker player with the lowest earnings.",
+        "data": [
+            [
+                "Doyle Brunson",
+                "1933-08-10",
+                "$6,178,378"
+            ],
+            [
+                "Phil Ivey",
+                "1976-02-01",
+                "$40,739,844"
+            ],
+            [
+                "Daniel Negreanu",
+                "1974-07-26",
+                "$51,344,174"
+            ],
+            [
+                "Erik Seidel",
+                "1959-11-06",
+                "$43,965,859"
+            ],
+            [
+                "Bryn Kenney",
+                "1986-11-01",
+                "$57,201,899"
+            ]
+        ]
+    }
+}

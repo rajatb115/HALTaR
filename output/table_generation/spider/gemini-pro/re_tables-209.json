@@ -1,0 +1,39 @@
+{
+    "table-209-209": {
+        "title": [
+            "Document ID",
+            "Paragraph Text"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Document IDs with Specific Paragraph Text",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the ids of documents that contain the paragraph text 'Brazil' and 'Ireland'?",
+        "data": [
+            [
+                "123",
+                "Brazil, Ireland"
+            ],
+            [
+                "456",
+                "Brazil, Ireland"
+            ],
+            [
+                "789",
+                "Brazil, Ireland"
+            ],
+            [
+                "101",
+                "Brazil, Ireland"
+            ],
+            [
+                "112",
+                "Brazil, Ireland"
+            ]
+        ]
+    }
+}

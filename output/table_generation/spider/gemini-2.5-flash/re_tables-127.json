@@ -1,0 +1,77 @@
+{
+    "table-127-127": {
+        "title": [
+            "Airline Name",
+            "Flight Number",
+            "Origin Airport",
+            "Destination Airport",
+            "Aircraft Type",
+            "Scheduled Departure"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which airlines have a flight with destination airport AHD?",
+        "data": [
+            [
+                "Regional Connect",
+                "RC123",
+                "LAX",
+                "AHD",
+                "CRJ-700",
+                "08:30 AM"
+            ],
+            [
+                "SkyLink Express",
+                "SL456",
+                "SFO",
+                "AHD",
+                "ERJ-175",
+                "10:15 AM"
+            ],
+            [
+                "Horizon Air",
+                "HA789",
+                "SEA",
+                "AHD",
+                "Q400",
+                "01:00 PM"
+            ],
+            [
+                "Mountain Air",
+                "MA101",
+                "DEN",
+                "AHD",
+                "ATR 72",
+                "03:45 PM"
+            ],
+            [
+                "Frontier Regional",
+                "FR202",
+                "PHX",
+                "AHD",
+                "E190",
+                "06:00 PM"
+            ],
+            [
+                "West Coast Commuter",
+                "WC303",
+                "PDX",
+                "AHD",
+                "CRJ-200",
+                "09:30 AM"
+            ],
+            [
+                "Desert Wings",
+                "DW404",
+                "LAS",
+                "AHD",
+                "Saab 340",
+                "11:45 AM"
+            ]
+        ]
+    }
+}

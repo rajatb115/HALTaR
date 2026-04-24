@@ -1,0 +1,69 @@
+{
+    "table-90-90": {
+        "title": [
+            "Model Name",
+            "Maker",
+            "Weight (lbs)",
+            "Vehicle Type",
+            "Production Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which distinctive models are produced by maker with the full name General Motors or weighing more than 3500?",
+        "data": [
+            [
+                "Cadillac Escalade",
+                "General Motors",
+                "5600",
+                "SUV",
+                "2023"
+            ],
+            [
+                "Chevrolet Silverado 1500",
+                "General Motors",
+                "4800",
+                "Truck",
+                "2024"
+            ],
+            [
+                "GMC Sierra 2500HD",
+                "General Motors",
+                "6500",
+                "Truck",
+                "2023"
+            ],
+            [
+                "Ford F-150",
+                "Ford Motor Company",
+                "4500",
+                "Truck",
+                "2024"
+            ],
+            [
+                "Dodge Ram 1500",
+                "Stellantis",
+                "4700",
+                "Truck",
+                "2023"
+            ],
+            [
+                "Chevrolet Corvette Stingray",
+                "General Motors",
+                "3577",
+                "Sports Car",
+                "2024"
+            ],
+            [
+                "Tesla Model X",
+                "Tesla",
+                "5400",
+                "SUV",
+                "2023"
+            ]
+        ]
+    }
+}

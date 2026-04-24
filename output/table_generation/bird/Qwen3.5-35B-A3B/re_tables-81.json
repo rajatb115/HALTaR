@@ -1,0 +1,77 @@
+{
+    "table-81-81": {
+        "title": [
+            "School_Name",
+            "Latitude_Coordinate",
+            "School_Type",
+            "City_State",
+            "Enrollment_Count",
+            "Founded_Year"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the school type of the school with the highest latitude? Indicate the name of the school as well as the latitude coordinates.",
+        "data": [
+            [
+                "Northpoint Academy",
+                "64.8721",
+                "Private Charter",
+                "Anchorage_AK",
+                "450",
+                "985"
+            ],
+            [
+                "Arctic Heights High",
+                "58.3019",
+                "Public District",
+                "Fairbanks_AK",
+                "1205",
+                "892"
+            ],
+            [
+                "Northern Lights Middle",
+                "71.2345",
+                "State Operated",
+                "Barrow_AK",
+                "320",
+                "000"
+            ],
+            [
+                "Polar Bear Elementary",
+                "-",
+                "N/A",
+                "Nome_AK",
+                "180",
+                "-"
+            ],
+            [
+                "Tundra View College Prep",
+                "",
+                "Private Independent",
+                "Juneau_AK",
+                "--",
+                "----"
+            ],
+            [
+                "Glacier Peak Institute",
+                "",
+                "",
+                "Private Foundation",
+                "",
+                "Sitka_AK"
+            ],
+            [
+                "Frostbite Falls University",
+                "-",
+                "-",
+                "Fairbanks_Ak",
+                "--",
+                "----"
+            ]
+        ]
+    }
+}

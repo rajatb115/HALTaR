@@ -1,0 +1,45 @@
+{
+    "table-314-314": {
+        "title": [
+            "Molecule ID",
+            "Atom Type",
+            "Atom Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Molecular Composition Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many atoms belong to molecule id TR005?",
+        "data": [
+            [
+                "TR001",
+                "Carbon",
+                "12"
+            ],
+            [
+                "TR001",
+                "Hydrogen",
+                "22"
+            ],
+            [
+                "TR005",
+                "Carbon",
+                "6"
+            ],
+            [
+                "TR005",
+                "Hydrogen",
+                "12"
+            ],
+            [
+                "TR005",
+                "Oxygen",
+                "6"
+            ]
+        ]
+    }
+}

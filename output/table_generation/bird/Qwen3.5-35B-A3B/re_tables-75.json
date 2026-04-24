@@ -1,0 +1,45 @@
+{
+    "table-75-75": {
+        "title": [
+            "School ID",
+            "Institution Name",
+            "Grade Level",
+            "Lowest Grade Offered",
+            "Highest Grade Offer",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the lowest grade for the District Special Education Consortia School with National Center for Educational Statistics school district identification number of 613360?",
+        "data": [
+            [
+                "600045",
+                "North County Special Ed Consortium",
+                "K-12",
+                "Kindergarten",
+                "High School",
+                "Active"
+            ],
+            [
+                "610078",
+                "Westside Learning Alliance",
+                "PreK-10",
+                "Preschool",
+                "8th Grade",
+                "Active"
+            ],
+            [
+                "590123",
+                "East Valley Inclusive Academy",
+                "3-11",
+                "4th Grade",
+                "12th Grade",
+                "Closed"
+            ]
+        ]
+    }
+}

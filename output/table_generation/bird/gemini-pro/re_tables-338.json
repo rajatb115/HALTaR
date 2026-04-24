@@ -1,0 +1,43 @@
+{
+    "table-338-338": {
+        "title": [
+            "Molecule ID",
+            "Element",
+            "Bond Type"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Molecular Composition Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the element and bond type included in the molecule with molecule ID of TR016.",
+        "data": [
+            [
+                "TR016",
+                "Carbon",
+                "Single"
+            ],
+            [
+                "TR016",
+                "Hydrogen",
+                "Single"
+            ],
+            [
+                "TR016",
+                "Oxygen",
+                "Double"
+            ],
+            [
+                "TR016",
+                "Oxygen",
+                "Single"
+            ],
+            [
+                "TR016",
+                "Carbon",
+                "Double"
+            ]
+        ]
+    }
+}

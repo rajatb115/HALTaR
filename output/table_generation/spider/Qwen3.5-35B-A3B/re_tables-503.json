@@ -1,0 +1,83 @@
+{
+    "table-503-503": {
+        "title": [
+            "Country",
+            "Independence Year",
+            "Surface Area km\u00b2",
+            "Population Rank",
+            "Continent",
+            "Capital City",
+            "Official Language",
+            "GDP per Capita USD"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the name, year of independence, and surface area of the country that has the lowest population.",
+        "data": [
+            [
+                "Vatican City",
+                "756",
+                "44",
+                "0",
+                "Europe",
+                "Vatican City",
+                "Latin/Italian",
+                "N/A"
+            ],
+            [
+                "Monaco",
+                "989",
+                "3",
+                "5",
+                "Europe",
+                "Monaco",
+                "French",
+                "85,000"
+            ],
+            [
+                "Tuvalu",
+                "680",
+                "26",
+                "15",
+                "Oceania",
+                "Funafuti",
+                "English/Tuvaluan",
+                "N/A"
+            ],
+            [
+                "Nauru",
+                "",
+                "",
+                "",
+                "Oceania",
+                "Yaren",
+                "English/Nauruan",
+                "NA"
+            ],
+            [
+                "San Marino",
+                "",
+                "",
+                "",
+                "Europe",
+                "San Marino",
+                "Italian",
+                "50,020"
+            ],
+            [
+                "Liechtenstein",
+                "",
+                "",
+                "",
+                "Europe",
+                "Vaduz",
+                "German",
+                "70,500"
+            ]
+        ]
+    }
+}

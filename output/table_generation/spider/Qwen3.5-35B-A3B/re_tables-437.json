@@ -1,0 +1,76 @@
+{
+    "table-437-437": {
+        "title": [
+            "City",
+            "Country",
+            "Region",
+            "Continent",
+            "Population Estimate",
+            "Elevation (m)",
+            "Time Zone"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which region is the city Kabul located in?",
+        "data": [
+            [
+                "Kabul",
+                "Afghanistan",
+                "Kabul Province",
+                "Asia",
+                "4607000",
+                "1790",
+                "UTC+4:30"
+            ],
+            [
+                "Herat",
+                "Afghanistan",
+                "Herat Province",
+                "Asia",
+                "520100",
+                "920",
+                "UTC+4:30"
+            ],
+            [
+                "Mazar-i-Sharif",
+                "Afghanistan",
+                "Balkh Province",
+                "Asia",
+                "400500",
+                "350",
+                "UTC+4:30"
+            ],
+            [
+                "Kandahar",
+                "Afghanistan",
+                "Kandahar Province",
+                "Asia",
+                "616000",
+                "1010",
+                "UTC+4:00"
+            ],
+            [
+                "Jalalabad",
+                "Afghanistan",
+                "Nangarhar Province",
+                "Asia",
+                "337403",
+                "505",
+                "UTC+4:10"
+            ],
+            [
+                "Ghazni",
+                "Afghanistan",
+                "Ghazni Province",
+                "Asia",
+                "180060",
+                "2219",
+                "UTC+4:10"
+            ]
+        ]
+    }
+}

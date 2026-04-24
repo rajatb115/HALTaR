@@ -1,0 +1,77 @@
+{
+    "table-586-586": {
+        "title": [
+            "Post Title",
+            "Bounty Amount",
+            "Currency",
+            "Status",
+            "Author",
+            "Date Posted"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much is the total bounty amount of the post titled about 'data'",
+        "data": [
+            [
+                "Data Analysis Frameworks",
+                "$500",
+                "USD",
+                "Open",
+                "Alice Smith",
+                "04/12/2023"
+            ],
+            [
+                "Big Data Processing Tools",
+                "$750",
+                "EUR",
+                "Closed",
+                "Bob Jones",
+                "04/06/2023"
+            ],
+            [
+                "Real-time Data Streaming",
+                "$120",
+                "GBP",
+                "Pending",
+                "Carol White",
+                "05/01/2024"
+            ],
+            [
+                "Data Visualization Libraries",
+                "$3000",
+                "USD",
+                "Awarded",
+                "David Brown",
+                "03/15/2022"
+            ],
+            [
+                "NoSQL Database Optimization",
+                "$850",
+                "CAD",
+                "Draft",
+                "Eve Davis",
+                "06/02/2005"
+            ],
+            [
+                "Machine Learning Data Pipelines",
+                "$20,000",
+                "USD",
+                "Active",
+                "Frank Miller",
+                "07/10/2021"
+            ],
+            [
+                "Cloud Data Warehousing Solutions",
+                "$450",
+                "EUR",
+                "Expired",
+                "Grace Lee",
+                "08/25/2019"
+            ]
+        ]
+    }
+}

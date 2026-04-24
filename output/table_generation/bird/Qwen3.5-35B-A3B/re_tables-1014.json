@@ -1,0 +1,76 @@
+{
+    "table-1014-1014": {
+        "title": [
+            "Driver",
+            "Team",
+            "Lap Time",
+            "Date",
+            "Car Model",
+            "Track Length (km)",
+            "Weather Condition"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the lap record for the Austrian Grand Prix Circuit?",
+        "data": [
+            [
+                "Max Verstappen",
+                "Red Bull Racing",
+                "6:47.271",
+                "July 3",
+                "RB19",
+                "4.318",
+                "Dry"
+            ],
+            [
+                "Lewis Hamilton",
+                "Mercedes AMG",
+                "7:07.552",
+                "August 12",
+                "W09 EQ Power+",
+                "5.148",
+                "Wet"
+            ],
+            [
+                "Valtteri Bottas",
+                "Mercedes",
+                "8:10.055",
+                "June 28",
+                "F1 W06 Hybrid",
+                "3.970",
+                "Overcast"
+            ],
+            [
+                "Sebastian Vettel",
+                "Ferrari",
+                "9:12.333",
+                "May 15",
+                "SF70H",
+                "0.432",
+                "Sunny"
+            ],
+            [
+                "Charles Leclerc",
+                "Scuderia Ferrari",
+                "N/A",
+                "April 22",
+                "F2023",
+                "43.180",
+                "Rainy"
+            ],
+            [
+                "Fernando Alonso",
+                "Aston Martin",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-745-745": {
+        "title": [
+            "Publisher",
+            "Estimated Superhero Count",
+            "Key Franchise Examples",
+            "First Major Publication",
+            "Notable Character Debut",
+            "Total Active Titles"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Between DC and Marvel Comics, which publisher has published more superheroes? Find the difference in the number of superheroes they have published.",
+        "data": [
+            [
+                "DC Comics",
+                "~7,400",
+                "Superman, Batman, Wonder Woman",
+                "Action Comics #1 (1938)",
+                "Superman (September 1, 1938)",
+                "45"
+            ],
+            [
+                "Marvel Comics",
+                "6,800+",
+                "Spider-Man, Iron Man, X-Men",
+                "Amazing Fantasy #15 (1962)",
+                "Fantastic Four (November 1961)",
+                ""
+            ],
+            [
+                "Difference",
+                "+600 (DC Lead)",
+                "N/A",
+                "N/A",
+                "N/A",
+                "-2"
+            ],
+            [
+                "Valiant Comics",
+                "<1,200",
+                "X-O Manowar, Bloodshot",
+                "Valiant Comix #1",
+                "Harbinger (August 1, 1991)",
+                "8"
+            ],
+            [
+                "Image Comics",
+                ">2,500",
+                "Spawn, Invincible, Saga",
+                "Image Comics Presents #1 (1992)",
+                "Spawn (May 10, 1992)",
+                "32"
+            ]
+        ]
+    }
+}

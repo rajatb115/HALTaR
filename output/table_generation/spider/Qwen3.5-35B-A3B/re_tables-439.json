@@ -1,0 +1,69 @@
+{
+    "table-439-439": {
+        "title": [
+            "Language",
+            "Status",
+            "Primary Region",
+            "Speaker Count Estimate",
+            "Script Used",
+            "Official Recognition"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which language is the most popular in Aruba?",
+        "data": [
+            [
+                "Papiamento",
+                "National",
+                "Aruba-wide",
+                "~76,000",
+                "Latin",
+                "Yes"
+            ],
+            [
+                "Dutch",
+                "Administrative",
+                "Government & Education",
+                "~45,000",
+                "Latin + Cyrillic variants",
+                "Yes (Official)"
+            ],
+            [
+                "English",
+                "Tourism/Commerce",
+                "Coastal Areas",
+                "~30,000",
+                "Latin",
+                "No"
+            ],
+            [
+                "Spanish",
+                "Community",
+                "Immigrant Populations",
+                "~25,000",
+                "Latin",
+                "Yes"
+            ],
+            [
+                "Portuguese",
+                "Minority",
+                "Recent Migrants",
+                "<1,000",
+                "Latin",
+                "N/A"
+            ],
+            [
+                "Creole Variants",
+                "Local Dialects",
+                "Rural Zones",
+                "<500",
+                "Latin",
+                "Varies"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-627-627": {
+        "title": [
+            "Date",
+            "Event_ID",
+            "Vote_Type",
+            "Total_Votes",
+            "Status",
+            "Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many votes were made in 2010?",
+        "data": [
+            [
+                "2/14/2026",
+                "VOT_2077",
+                "General_Election",
+                "45210",
+                "Completed",
+                "North_District"
+            ],
+            [
+                "3/22/2026",
+                "VOT_2188",
+                "Special_Ballot",
+                "8932",
+                "Pending",
+                "South_County"
+            ],
+            [
+                "5/10/2021",
+                "VOT_2399",
+                "Primary_Runoff",
+                "31045",
+                "Completed",
+                "East_Township"
+            ],
+            [
+                "6/15/2028",
+                "VOT_2500",
+                "Referendum_Amendment",
+                "67890",
+                "Certified",
+                "Central_Metro"
+            ],
+            [
+                "7/04/2017",
+                "VOTE_2611",
+                "Local_Proposition",
+                "54321",
+                "Under_Count",
+                "West_Valley"
+            ],
+            [
+                "8/12/2005",
+                "VOTE_2722",
+                "Recall_Initiative",
+                "9876",
+                "Verified",
+                "Rural_Zone"
+            ]
+        ]
+    }
+}

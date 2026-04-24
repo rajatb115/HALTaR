@@ -1,0 +1,94 @@
+{
+    "table-1364-1364": {
+        "title": [
+            "Department Code",
+            "Department Name",
+            "Dean",
+            "Established",
+            "Location Building",
+            "Student Enrollment",
+            "Primary Focus Area"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all of the College of Humanities and Social Sciences' departments.",
+        "data": [
+            [
+                "CHSS-HIST",
+                "History",
+                "Dr. Elena Ross",
+                "476",
+                "Humanities Hall East",
+                "342",
+                "Historical Analysis & Archives"
+            ],
+            [
+                "CHSS-LING",
+                "Linguistics",
+                "Prof. Marcus Chen",
+                "512",
+                "Language Center North",
+                "891",
+                "Syntax Semantics Phonology"
+            ],
+            [
+                "--",
+                "--",
+                "--",
+                "--",
+                "",
+                "",
+                ""
+            ],
+            [
+                "CHPS-PHIL",
+                "Philosophy",
+                "Dr.Amanda Lee",
+                "623",
+                "Liberal Arts West",
+                "754",
+                "Ethics Metaphysics Logic"
+            ],
+            [
+                "CART-SOCW",
+                "Sociology",
+                "Prof.David Kim",
+                "987",
+                "Social Science Complex",
+                "0",
+                "Demographics Inequality"
+            ],
+            [
+                "CLAS-CULT",
+                "Cultural Studies",
+                "Dr.Sarah O'Connor",
+                "",
+                "N/A",
+                "",
+                ""
+            ],
+            [
+                "CHST-AFAM",
+                "African American Studies",
+                "Prof.Jamal Wright",
+                "/",
+                "N/",
+                "-",
+                ""
+            ],
+            [
+                "CHEE-ECON",
+                "Economics",
+                "Dr.Robert Smith",
+                "--",
+                "Business Wing South",
+                "1205",
+                "Micro-Macro Theory"
+            ]
+        ]
+    }
+}

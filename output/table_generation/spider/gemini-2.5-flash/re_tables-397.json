@@ -1,0 +1,61 @@
+{
+    "table-397-397": {
+        "title": [
+            "Player Name",
+            "Sport/Game",
+            "Total Earnings (USD)",
+            "Money Rank"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the money rank of the player with the greatest earnings.",
+        "data": [
+            [
+                "Michael Jordan",
+                "Basketball",
+                "3300000000",
+                "1"
+            ],
+            [
+                "Tiger Woods",
+                "Golf",
+                "1700000000",
+                "2"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "Soccer",
+                "1600000000",
+                "3"
+            ],
+            [
+                "LeBron James",
+                "Basketball",
+                "1500000000",
+                "4"
+            ],
+            [
+                "Lionel Messi",
+                "Soccer",
+                "1400000000",
+                "5"
+            ],
+            [
+                "Roger Federer",
+                "Tennis",
+                "1100000000",
+                "6"
+            ],
+            [
+                "Floyd Mayweather",
+                "Boxing",
+                "1100000000",
+                "7"
+            ]
+        ]
+    }
+}

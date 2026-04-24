@@ -1,0 +1,69 @@
+{
+    "table-95-95": {
+        "title": [
+            "Account Number",
+            "Client Name",
+            "Gender",
+            "Age (Years)",
+            "Average Salary ($)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the account numbers of female clients who are oldest and has lowest average salary, calculate the gap between this lowest average salary with the highest average salary?",
+        "data": [
+            [
+                "100123",
+                "Alice Smith",
+                "Female",
+                "68",
+                "45000"
+            ],
+            [
+                "100124",
+                "Bob Johnson",
+                "Male",
+                "55",
+                "72000"
+            ],
+            [
+                "100125",
+                "Carol White",
+                "Female",
+                "72",
+                "42000"
+            ],
+            [
+                "100126",
+                "David Green",
+                "Male",
+                "48",
+                "68000"
+            ],
+            [
+                "100127",
+                "Emily Brown",
+                "Female",
+                "62",
+                "58000"
+            ],
+            [
+                "100128",
+                "Frank Black",
+                "Male",
+                "70",
+                "95000"
+            ],
+            [
+                "100129",
+                "Grace Lee",
+                "Female",
+                "75",
+                "48000"
+            ]
+        ]
+    }
+}

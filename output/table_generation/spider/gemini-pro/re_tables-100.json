@@ -1,0 +1,52 @@
+{
+    "table-100-100": {
+        "title": [
+            "MakeID",
+            "Make Name",
+            "Horsepower",
+            "Cylinders"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "Car Makes and Engine Cylinders",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the cars with more than lowest horsepower, which ones do not have more than 3 cylinders? List the car makeid and make name.",
+        "data": [
+            [
+                "Acura",
+                "Acura",
+                "272",
+                "4"
+            ],
+            [
+                "Alfa Romeo",
+                "Alfa Romeo",
+                "280",
+                "4"
+            ],
+            [
+                "Aston Martin",
+                "Aston Martin",
+                "707",
+                "8"
+            ],
+            [
+                "Audi",
+                "Audi",
+                "335",
+                "6"
+            ],
+            [
+                "BMW",
+                "BMW",
+                "382",
+                "6"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "table-1531-1531": {
+        "title": [
+            "Rank",
+            "Product Name",
+            "Category",
+            "Units Sold (Millions)",
+            "Revenue (Billion USD)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which are the top five best selling products? Please state the full name of them.",
+        "data": [
+            [
+                "1",
+                "Evergreen Smartwatch Pro",
+                "Wearables",
+                "12.5",
+                "3.1"
+            ],
+            [
+                "2",
+                "Quantum Laptop X1",
+                "Computers",
+                "10.2",
+                "4.5"
+            ],
+            [
+                "3",
+                "Aura Wireless Earbuds",
+                "Audio",
+                "9.8",
+                "1.2"
+            ],
+            [
+                "4",
+                "Zenith Home Assistant",
+                "Smart Home",
+                "8.7",
+                "0.8"
+            ],
+            [
+                "5",
+                "Nova Gaming Console",
+                "Gaming",
+                "7.5",
+                "2.3"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1213-1213": {
+        "title": [
+            "Patient ID",
+            "ALP Level (U/L)",
+            "ALP Status",
+            "Treatment Setting",
+            "Primary Diagnosis",
+            "Age"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patients with alkaliphophatase (ALP) within normal range, were they treated as inpatient or outpatient?",
+        "data": [
+            [
+                "P-001",
+                "85",
+                "Normal",
+                "Outpatient",
+                "Routine Check-up",
+                "48"
+            ],
+            [
+                "P-002",
+                "112",
+                "Normal",
+                "Inpatient",
+                "Appendicitis",
+                "32"
+            ],
+            [
+                "P-003",
+                "185",
+                "High",
+                "Inpatient",
+                "Cholelithiasis",
+                "65"
+            ],
+            [
+                "P-004",
+                "72",
+                "Normal",
+                "Outpatient",
+                "Hypertension",
+                "55"
+            ],
+            [
+                "P-005",
+                "38",
+                "Low",
+                "Outpatient",
+                "Malnutrition",
+                "29"
+            ],
+            [
+                "P-006",
+                "98",
+                "Normal",
+                "Inpatient",
+                "Pneumonia",
+                "71"
+            ],
+            [
+                "P-007",
+                "105",
+                "Normal",
+                "Outpatient",
+                "Diabetes Mellitus",
+                "60"
+            ]
+        ]
+    }
+}

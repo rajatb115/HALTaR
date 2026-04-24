@@ -1,0 +1,39 @@
+{
+    "table-141-141": {
+        "title": [
+            "District",
+            "Number of Accounts"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Account Information by District",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts are there in the district of \"Pisek\"?",
+        "data": [
+            [
+                "Pisek",
+                "1234"
+            ],
+            [
+                "Plzen",
+                "5678"
+            ],
+            [
+                "Prague",
+                "9012"
+            ],
+            [
+                "Brno",
+                "3456"
+            ],
+            [
+                "Ostrava",
+                "7890"
+            ]
+        ]
+    }
+}

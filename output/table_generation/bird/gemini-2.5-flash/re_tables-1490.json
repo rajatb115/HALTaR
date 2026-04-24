@@ -1,0 +1,85 @@
+{
+    "table-1490-1490": {
+        "title": [
+            "Customer Segment",
+            "Customer Name",
+            "Month",
+            "Year",
+            "Consumption Type",
+            "Total Units Consumed",
+            "Unit of Measure"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much did the KAM customers consume in total in May 2013?",
+        "data": [
+            [
+                "KAM",
+                "Alpha Corp",
+                "May",
+                "2013",
+                "Electricity",
+                "150000",
+                "kWh"
+            ],
+            [
+                "KAM",
+                "Beta Ltd",
+                "May",
+                "2013",
+                "Water",
+                "8500",
+                "Cubic Meters"
+            ],
+            [
+                "KAM",
+                "Gamma Inc",
+                "April",
+                "2013",
+                "Data",
+                "1200",
+                "GB"
+            ],
+            [
+                "KAM",
+                "Delta Co",
+                "May",
+                "2013",
+                "Electricity",
+                "210000",
+                "kWh"
+            ],
+            [
+                "Non-KAM",
+                "Epsilon Ent",
+                "May",
+                "2013",
+                "Electricity",
+                "50000",
+                "kWh"
+            ],
+            [
+                "KAM",
+                "Zeta Group",
+                "June",
+                "2013",
+                "Water",
+                "9200",
+                "Cubic Meters"
+            ],
+            [
+                "KAM",
+                "Eta Solutions",
+                "May",
+                "2013",
+                "Data",
+                "1500",
+                "GB"
+            ]
+        ]
+    }
+}

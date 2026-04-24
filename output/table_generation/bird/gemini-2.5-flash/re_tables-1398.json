@@ -1,0 +1,85 @@
+{
+    "table-1398-1398": {
+        "title": [
+            "Club Name",
+            "Event Type",
+            "Event Date",
+            "Total Event Cost",
+            "Food Cost",
+            "Attendees",
+            "Cost Per Attendee (Food)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "On average, how much did the Student_Club spend on food for the typical event in the past?",
+        "data": [
+            [
+                "Debate Society",
+                "Annual Gala",
+                "2023-11-15",
+                "$1,200.00",
+                "$650.00",
+                "45",
+                "$14.44"
+            ],
+            [
+                "Chess Club",
+                "Tournament",
+                "2023-10-28",
+                "$350.00",
+                "$180.00",
+                "20",
+                "$9.00"
+            ],
+            [
+                "Art Collective",
+                "Exhibition Opening",
+                "2023-09-22",
+                "$800.00",
+                "$400.00",
+                "30",
+                "$13.33"
+            ],
+            [
+                "Robotics Team",
+                "Workshop",
+                "2023-08-10",
+                "$250.00",
+                "$120.00",
+                "15",
+                "$8.00"
+            ],
+            [
+                "Drama Club",
+                "Play Rehearsal",
+                "2023-07-05",
+                "$450.00",
+                "$250.00",
+                "25",
+                "$10.00"
+            ],
+            [
+                "Environmental Club",
+                "Cleanup Drive",
+                "2023-06-18",
+                "$150.00",
+                "$75.00",
+                "10",
+                "$7.50"
+            ],
+            [
+                "Gaming Guild",
+                "LAN Party",
+                "2023-05-20",
+                "$600.00",
+                "$320.00",
+                "28",
+                "$11.43"
+            ]
+        ]
+    }
+}

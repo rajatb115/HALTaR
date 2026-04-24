@@ -1,0 +1,69 @@
+{
+    "table-612-612": {
+        "title": [
+            "Role",
+            "Street",
+            "City",
+            "State",
+            "Zip Code"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which professionals live in a city containing the substring 'West'? List his or her role, street, city and state.",
+        "data": [
+            [
+                "Data Analyst",
+                "45 Westwood Ave",
+                "Westfield",
+                "NJ",
+                "07090"
+            ],
+            [
+                "Software Engineer",
+                "88 Western Blvd",
+                "Westminster",
+                "CO",
+                "60030"
+            ],
+            [
+                "Urban Planner",
+                "32 Westgate Dr",
+                "Weston",
+                "FL",
+                "73301"
+            ],
+            [
+                "Marketing Director",
+                "9 Westlake Ln",
+                "Westbrook",
+                "ME",
+                "5092"
+            ],
+            [
+                "Financial Advisor",
+                "101 W Main St",
+                "Westmont",
+                "IL",
+                "60559"
+            ],
+            [
+                "Research Scientist",
+                "7 Westview Ct",
+                "Westbury",
+                "NY",
+                "11590"
+            ],
+            [
+                "Project Manager",
+                "22 Westside Rd",
+                "Westerly",
+                "RI",
+                "2859"
+            ]
+        ]
+    }
+}

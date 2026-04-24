@@ -1,0 +1,43 @@
+{
+    "table-382-382": {
+        "title": [
+            "Card Name",
+            "Artist",
+            "Language"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Card Artists by Language",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down the name of artists for cards in Chinese Simplified.",
+        "data": [
+            [
+                "Card A",
+                "Artist X",
+                "Chinese Simplified"
+            ],
+            [
+                "Card B",
+                "Artist Y",
+                "Chinese Simplified"
+            ],
+            [
+                "Card C",
+                "Artist Z",
+                "Chinese Simplified"
+            ],
+            [
+                "Card D",
+                "Artist X",
+                "Chinese Simplified"
+            ],
+            [
+                "Card E",
+                "Artist W",
+                "Chinese Simplified"
+            ]
+        ]
+    }
+}

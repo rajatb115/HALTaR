@@ -1,0 +1,77 @@
+{
+    "table-1486-1486": {
+        "title": [
+            "CustomerID",
+            "Month",
+            "Year",
+            "ServiceType",
+            "ConsumptionAmount",
+            "ConsumptionUnit"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much more was customer 7 consuming in April 2013 than customer 5?",
+        "data": [
+            [
+                "7",
+                "April",
+                "2013",
+                "Electricity",
+                "1250",
+                "kWh"
+            ],
+            [
+                "5",
+                "April",
+                "2013",
+                "Electricity",
+                "980",
+                "kWh"
+            ],
+            [
+                "7",
+                "March",
+                "2013",
+                "Electricity",
+                "1180",
+                "kWh"
+            ],
+            [
+                "5",
+                "March",
+                "2013",
+                "Electricity",
+                "950",
+                "kWh"
+            ],
+            [
+                "7",
+                "April",
+                "2012",
+                "Electricity",
+                "1100",
+                "kWh"
+            ],
+            [
+                "5",
+                "April",
+                "2012",
+                "Electricity",
+                "900",
+                "kWh"
+            ],
+            [
+                "12",
+                "April",
+                "2013",
+                "Electricity",
+                "1500",
+                "kWh"
+            ]
+        ]
+    }
+}

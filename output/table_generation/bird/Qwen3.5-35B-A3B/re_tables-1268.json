@@ -1,0 +1,85 @@
+{
+    "table-1268-1268": {
+        "title": [
+            "Patient ID",
+            "Anti-SM Status",
+            "Thrombosis Severity",
+            "Count",
+            "Clinical Outcome",
+            "Treatment Duration",
+            "Follow-up Days"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients with normal anti-SM, how many of them have the most severe degree of thrombosis?",
+        "data": [
+            [
+                "P-1042",
+                "Normal",
+                "Mild",
+                "0",
+                "Stable",
+                "N/A",
+                "45"
+            ],
+            [
+                "P-1105",
+                "Normal Moderate",
+                "3",
+                "Recovered",
+                "6 months",
+                "90",
+                ""
+            ],
+            [
+                "P-1298",
+                "Normal Severe",
+                "7",
+                "Critical Care",
+                "8 weeks",
+                "56",
+                ""
+            ],
+            [
+                "P-1334",
+                "Normal None",
+                "",
+                "Discharged",
+                "N/A",
+                "30",
+                ""
+            ],
+            [
+                "P-2011",
+                "Normal Mild",
+                "1",
+                "Improved",
+                "Months",
+                "",
+                ""
+            ],
+            [
+                "P-3045",
+                "Normal",
+                "Severe",
+                "Critical Condition",
+                "12 Weeks",
+                "112",
+                ""
+            ],
+            [
+                "P-4099",
+                "Normal",
+                "Moderate",
+                "Stable",
+                "4 Months",
+                "100",
+                ""
+            ]
+        ]
+    }
+}

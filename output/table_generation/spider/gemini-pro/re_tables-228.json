@@ -1,0 +1,39 @@
+{
+    "table-228-228": {
+        "title": [
+            "Visitor Name",
+            "Membership Level"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Visitor Information by Membership Level",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the names of the visitors whose membership level is higher than 4, and order the results by the level from high to low.",
+        "data": [
+            [
+                "John Smith",
+                "5"
+            ],
+            [
+                "Alice Brown",
+                "5"
+            ],
+            [
+                "Bob Johnson",
+                "6"
+            ],
+            [
+                "Emily Davis",
+                "7"
+            ],
+            [
+                "David Wilson",
+                "8"
+            ]
+        ]
+    }
+}

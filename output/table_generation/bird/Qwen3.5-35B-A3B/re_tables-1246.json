@@ -1,0 +1,69 @@
+{
+    "table-1246-1246": {
+        "title": [
+            "Exam ID",
+            "Date Performed",
+            "Test Category",
+            "Result Status",
+            "Patient Count",
+            "Facility Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the examinations done after 1997/1/1, how many of them have the result of an inactivated partial prothrom bin time?",
+        "data": [
+            [
+                "EXM-4002",
+                "01/05/1960",
+                "Coagulation",
+                "Inactivated Partial Thrombin Time",
+                "45",
+                "FAC-A1"
+            ],
+            [
+                "EXM-5119",
+                "03/12/1899",
+                "Hematology",
+                "Normal Prothrombin Index",
+                "62",
+                "FAC-B2"
+            ],
+            [
+                "Exm-6334",
+                "07/22/2023",
+                "Coagulopathy",
+                "Activated PTT Only",
+                "88",
+                "FAC-C3"
+            ],
+            [
+                "exm-7441",
+                "09/01/-1950",
+                "Blood Work",
+                "Inhibited Clotting Factor",
+                "55",
+                "Fac-D4"
+            ],
+            [
+                "Exam-8552",
+                "Dec 31, 1800",
+                "Lab Analysis",
+                "Elevated Fibrinogen",
+                "30",
+                "FAC-E5"
+            ],
+            [
+                "exam_9663",
+                "Feb 14, 2100",
+                "Diagnostic Panel",
+                "Standardized PT Ratio",
+                "77",
+                "FAC-F6"
+            ]
+        ]
+    }
+}

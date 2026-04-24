@@ -1,0 +1,69 @@
+{
+    "table-82-82": {
+        "title": [
+            "School Name",
+            "City",
+            "State",
+            "Lowest Grade Offered",
+            "Latitude"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which city can you find the school in the state of California with the lowest latitude coordinates and what is its lowest grade? Indicate the school name.",
+        "data": [
+            [
+                "San Ysidro Elementary School",
+                "San Ysidro",
+                "California",
+                "Kindergarten",
+                "32.56"
+            ],
+            [
+                "Imperial Beach Charter School",
+                "Imperial Beach",
+                "California",
+                "Pre-K",
+                "32.58"
+            ],
+            [
+                "Calexico Unified School",
+                "Calexico",
+                "California",
+                "Kindergarten",
+                "32.67"
+            ],
+            [
+                "Coronado Elementary School",
+                "Coronado",
+                "California",
+                "Kindergarten",
+                "32.68"
+            ],
+            [
+                "El Centro Middle School",
+                "El Centro",
+                "California",
+                "6th Grade",
+                "32.78"
+            ],
+            [
+                "Brawley Elementary School",
+                "Brawley",
+                "California",
+                "Kindergarten",
+                "32.97"
+            ],
+            [
+                "Chula Vista Learning Community Charter",
+                "Chula Vista",
+                "California",
+                "Kindergarten",
+                "32.62"
+            ]
+        ]
+    }
+}

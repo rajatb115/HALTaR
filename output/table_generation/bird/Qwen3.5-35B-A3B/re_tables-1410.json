@@ -1,0 +1,85 @@
+{
+    "table-1410-1410": {
+        "title": [
+            "Date",
+            "Expense Category",
+            "Vendor",
+            "Amount ($)",
+            "Payment Method",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Mention the total expense used on 8/20/2019.",
+        "data": [
+            [
+                "2/19/24",
+                "Office Supplies",
+                "Staples Inc",
+                "$142.50",
+                "Corporate Card",
+                "Completed",
+                "Bulk order for Q1"
+            ],
+            [
+                "8/18/06",
+                "Travel Expenses",
+                "Delta Airlines",
+                "$450.00",
+                "Credit Card",
+                "Processed",
+                "Flight refund adjustment"
+            ],
+            [
+                "7/22/09",
+                "Marketing Services",
+                "Google Ads",
+                "$2,100.75",
+                "Wire Transfer",
+                "Approved",
+                "Monthly ad spend"
+            ],
+            [
+                "9/05/12",
+                "Utilities",
+                "City Power Co",
+                "$315.20",
+                "Auto Debit",
+                "Paid",
+                "August electricity bill"
+            ],
+            [
+                "10/11/15",
+                "Equipment Repair",
+                "TechFix Solutions",
+                "$89.99",
+                "Cash",
+                "Reimbursed",
+                "Printer maintenance fee"
+            ],
+            [
+                "6/30/08",
+                "Consulting Fees",
+                "Global Advisors LLC",
+                "$5,000 + VAT",
+                "Check #4421",
+                "Pending Review",
+                "Project milestone payment"
+            ],
+            [
+                "5/04/17",
+                "Software Subscription",
+                "Adobe Creative Cloud",
+                "$79.02",
+                "PayPal",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-1530-1530": {
+        "title": [
+            "Customer ID",
+            "Date",
+            "Location Type",
+            "Amount Spent"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Customer Gas Spending Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the amount spent by customer \"38508\" at the gas stations? How much had the customer spent in January 2012?",
+        "data": [
+            [
+                "38508",
+                "2011-12-28",
+                "Gas Station",
+                "\\$45.22"
+            ],
+            [
+                "38508",
+                "2012-01-15",
+                "Gas Station",
+                "\\$52.87"
+            ],
+            [
+                "38508",
+                "2012-01-29",
+                "Gas Station",
+                "\\$48.12"
+            ],
+            [
+                "38508",
+                "2012-02-10",
+                "Gas Station",
+                "\\$49.55"
+            ],
+            [
+                "38508",
+                "2012-02-25",
+                "Gas Station",
+                "\\$51.03"
+            ]
+        ]
+    }
+}

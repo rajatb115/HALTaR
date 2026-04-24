@@ -1,0 +1,69 @@
+{
+    "table-537-537": {
+        "title": [
+            "User_ID",
+            "Account_Created_Year",
+            "Total_Views",
+            "Has_More_Than_10_Views",
+            "Created_After_2023"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users with more than 10 views created their account after the year 2013?",
+        "data": [
+            [
+                "U1042",
+                "1976",
+                "45",
+                "Yes",
+                "No"
+            ],
+            [
+                "U2918",
+                "1988",
+                "",
+                "No",
+                "No"
+            ],
+            [
+                "U3301",
+                "2014",
+                "92",
+                "Yes",
+                "No"
+            ],
+            [
+                "U4502",
+                "2022",
+                "11",
+                "Yes",
+                "No"
+            ],
+            [
+                "U5193",
+                "2005",
+                "3",
+                "No",
+                "No"
+            ],
+            [
+                "U6721",
+                "2016",
+                "105",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "U7834",
+                "1999",
+                "0",
+                "No",
+                "No"
+            ]
+        ]
+    }
+}

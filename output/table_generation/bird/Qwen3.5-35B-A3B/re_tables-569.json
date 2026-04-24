@@ -1,0 +1,40 @@
+{
+    "table-569-569": {
+        "title": [
+            "Vote ID",
+            "Display Name",
+            "User Role",
+            "Timestamp",
+            "Status",
+            "Region",
+            "Score Change"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the display name of the user who made the vote No.6347.",
+        "data": [
+            [
+                "6301",
+                "Alice Chen",
+                "Moderator",
+                "N/A",
+                "Active",
+                "North America",
+                "+5"
+            ],
+            [
+                "6298",
+                "Bob Smith",
+                "Contributor",
+                "N/A",
+                "Active",
+                "",
+                ""
+            ]
+        ]
+    }
+}

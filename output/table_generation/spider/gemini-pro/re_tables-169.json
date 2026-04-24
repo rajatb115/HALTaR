@@ -1,0 +1,43 @@
+{
+    "table-169-169": {
+        "title": [
+            "Document Name",
+            "Template ID",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Documents with Specific Description",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names and template ids for documents that contain the letter w in their description.",
+        "data": [
+            [
+                "Workflow Guide",
+                "TEMP-123",
+                "Guide describing the new workflow."
+            ],
+            [
+                "Website Policy",
+                "TEMP-456",
+                "Internal policy regarding website content."
+            ],
+            [
+                "Software Manual",
+                "TEMP-789",
+                "Manual for software installation and usage."
+            ],
+            [
+                "Network Diagram",
+                "TEMP-012",
+                "Diagram of the company network."
+            ],
+            [
+                "Hardware Specs",
+                "TEMP-345",
+                "Detailed hardware specifications."
+            ]
+        ]
+    }
+}

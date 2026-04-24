@@ -1,0 +1,45 @@
+{
+    "table-758-758": {
+        "title": [
+            "Superhero Name",
+            "Race",
+            "Weight (kg)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Superhero Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the race of the superhero who weighed 169 kg.",
+        "data": [
+            [
+                "Hulk",
+                "Humanoid",
+                "454"
+            ],
+            [
+                "Colossus",
+                "Mutant",
+                "227"
+            ],
+            [
+                "Thor",
+                "Asgardian",
+                "291"
+            ],
+            [
+                "Juggernaut",
+                "Human",
+                "408"
+            ],
+            [
+                "Blob",
+                "Mutant",
+                "227"
+            ]
+        ]
+    }
+}

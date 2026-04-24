@@ -1,0 +1,67 @@
+{
+    "table-133-133": {
+        "title": [
+            "Borrower Gender",
+            "Loan Amount ($)",
+            "Interest Rate (%)",
+            "Term Length (Months)",
+            "Credit Score Range",
+            "Application Date",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average loan amount by male borrowers?",
+        "data": [
+            [
+                "Male",
+                "45000",
+                "6.5",
+                "36",
+                "Good",
+                "01/15/2023",
+                "Approved"
+            ],
+            [
+                "Male",
+                "72050",
+                "5.8",
+                "60",
+                "Excellent",
+                "02/10/2023",
+                "Approved"
+            ],
+            [
+                "Male",
+                "55000",
+                "7.2",
+                "48",
+                "Fair",
+                "03/05/2023",
+                "Pending"
+            ],
+            [
+                "Male",
+                "38005",
+                "8.1",
+                "24",
+                "Poor",
+                "",
+                "Rejected"
+            ],
+            [
+                "Male",
+                "9000",
+                "6.0",
+                "72",
+                "Excellent",
+                "04/22/2023",
+                "Approved"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-551-551": {
+        "title": [
+            "Post ID",
+            "Post Title",
+            "Most Popular Tag",
+            "Tag Usage Count",
+            "Post Body Excerpt"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "From which post is the most popular tag excerpted from? Please give the body of the post.",
+        "data": [
+            [
+                "101",
+                "Understanding Data Analytics",
+                "data-science",
+                "1250",
+                "This article delves into the fundamentals of data analytics, exploring various methodologies and tools..."
+            ],
+            [
+                "102",
+                "The Future of AI in Business",
+                "artificial-intelligence",
+                "980",
+                "Examining how artificial intelligence is transforming industries and creating new opportunities for growth..."
+            ],
+            [
+                "103",
+                "SQL Best Practices for Beginners",
+                "sql",
+                "720",
+                "A comprehensive guide to writing efficient and clean SQL queries, essential for any data professional..."
+            ],
+            [
+                "104",
+                "Python for Machine Learning",
+                "python",
+                "1100",
+                "Discover the power of Python libraries like scikit-learn and TensorFlow for building robust machine learning models..."
+            ],
+            [
+                "105",
+                "Cloud Computing Trends 2024",
+                "cloud-computing",
+                "650",
+                "An overview of the latest trends in cloud infrastructure, including serverless architectures and hybrid cloud solutions..."
+            ],
+            [
+                "106",
+                "Visualizing Data with Tableau",
+                "data-visualization",
+                "890",
+                "Learn how to create compelling dashboards and reports using Tableau to communicate insights effectively..."
+            ],
+            [
+                "107",
+                "Cybersecurity Essentials",
+                "cybersecurity",
+                "580",
+                "Key principles and practices for protecting digital assets and mitigating risks in an increasingly connected world..."
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-624-624": {
+        "title": [
+            "Charge Type",
+            "Amount"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Charge Type Costs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much does each charge type costs? List both charge type and amount.",
+        "data": [
+            [
+                "Late Fee",
+                "$25"
+            ],
+            [
+                "Overdraft Fee",
+                "$35"
+            ],
+            [
+                "Monthly Service Fee",
+                "$10"
+            ],
+            [
+                "ATM Fee",
+                "$3"
+            ],
+            [
+                "Wire Transfer Fee",
+                "$15"
+            ]
+        ]
+    }
+}

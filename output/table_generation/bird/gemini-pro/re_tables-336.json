@@ -1,0 +1,45 @@
+{
+    "table-336-336": {
+        "title": [
+            "Molecule Name",
+            "Molecular Formula",
+            "Number of Double Bonded Oxygen Atoms"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Molecules with Double Bonded Oxygen",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total number of molecules with double bonded oxygen?",
+        "data": [
+            [
+                "Carbon Dioxide",
+                "CO2",
+                "2"
+            ],
+            [
+                "Ozone",
+                "O3",
+                "1"
+            ],
+            [
+                "Sulfur Dioxide",
+                "SO2",
+                "1"
+            ],
+            [
+                "Acetone",
+                "C3H6O",
+                "1"
+            ],
+            [
+                "Acetic Acid",
+                "CH3COOH",
+                "1"
+            ]
+        ]
+    }
+}

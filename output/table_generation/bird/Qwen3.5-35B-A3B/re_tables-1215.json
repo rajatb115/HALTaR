@@ -1,0 +1,55 @@
+{
+    "table-1215-1215": {
+        "title": [
+            "Patient_ID",
+            "Sex",
+            "Date_of_Birth",
+            "Total_Protein_Mg_dL",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List ID, sex and date of birth of patient whose total protein (TP) below the lower range of the normal index.",
+        "data": [
+            [
+                "P-4092",
+                "Male",
+                "7/15/1968",
+                "4.2",
+                "Low"
+            ],
+            [
+                "P-K103",
+                "Female",
+                "3/22/1895",
+                "N/A",
+                "Normal"
+            ],
+            [
+                "M-8821",
+                "Male",
+                "11/05/2010",
+                "6.8",
+                "High"
+            ],
+            [
+                "F-2209",
+                "Female",
+                "1/30/1774",
+                "8.9",
+                "High"
+            ],
+            [
+                "J-5541",
+                "Unknown",
+                "9/12/2100",
+                "N/A",
+                ""
+            ]
+        ]
+    }
+}

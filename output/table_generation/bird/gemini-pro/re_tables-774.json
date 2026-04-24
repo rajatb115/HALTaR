@@ -1,0 +1,55 @@
+{
+    "table-774-774": {
+        "title": [
+            "Superhero",
+            "Eye Color",
+            "Hair Color",
+            "Skin Color",
+            "Publisher"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Superhero Physical Attributes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which superhero has the same eyes, hair and skin colour? Indicate the publisher of the superhero.",
+        "data": [
+            [
+                "Superman",
+                "Blue",
+                "Black",
+                "White",
+                "DC Comics"
+            ],
+            [
+                "Spider-Man",
+                "Brown",
+                "Brown",
+                "White",
+                "Marvel Comics"
+            ],
+            [
+                "Black Widow",
+                "Green",
+                "Red",
+                "White",
+                "Marvel Comics"
+            ],
+            [
+                "Black Panther",
+                "Brown",
+                "Black",
+                "Black",
+                "Marvel Comics"
+            ],
+            [
+                "Wonder Woman",
+                "Blue",
+                "Black",
+                "White",
+                "DC Comics"
+            ]
+        ]
+    }
+}

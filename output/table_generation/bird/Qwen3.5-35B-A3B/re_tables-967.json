@@ -1,0 +1,85 @@
+{
+    "table-967-967": {
+        "title": [
+            "Race_ID",
+            "Driver_Name",
+            "Team",
+            "Qualifying_Position",
+            "Finish_Position",
+            "Points_Scored",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many driver participated in race ID number 18?",
+        "data": [
+            [
+                "1",
+                "Lewis Hamilton",
+                "Mercedes",
+                "4th",
+                "DNF",
+                "N/A",
+                "Mechanical Failure"
+            ],
+            [
+                "2",
+                "Max Verstappen",
+                "Red Bull Racing",
+                "6th",
+                "7th",
+                "$12$",
+                "Completed"
+            ],
+            [
+                "3",
+                "Charles Leclerc",
+                "Ferrari",
+                "8th",
+                "Retired",
+                "N/D",
+                "Collision Damage"
+            ],
+            [
+                "4",
+                "Lando Norris",
+                "McLaren",
+                "9th",
+                "Punctured Tire",
+                "N/A",
+                "Disqualified"
+            ],
+            [
+                "5",
+                "Fernando Alonso",
+                "Aston Martin",
+                "5th",
+                "Finished",
+                "$8$",
+                "Normal Completion"
+            ],
+            [
+                "6",
+                "Sergio Perez",
+                "Red Bull Racing",
+                "3rd",
+                "Disqualified",
+                "N/A",
+                "Post-Race Penalty"
+            ],
+            [
+                "7",
+                "George Russell",
+                "Williams",
+                "0th",
+                "Did Not Start",
+                "N/A",
+                "Pit Lane Exit Error"
+            ]
+        ]
+    }
+}

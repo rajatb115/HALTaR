@@ -1,0 +1,69 @@
+{
+    "table-267-267": {
+        "title": [
+            "Molecule ID",
+            "Carcinogenic Status",
+            "Concentration (\u00b5g/L)",
+            "Source",
+            "Detection Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total carcinogenic molecules for molecule id from TR000 to TR030.",
+        "data": [
+            [
+                "TR001",
+                "Yes",
+                "12.5",
+                "Industrial Effluent",
+                "2023-01-15"
+            ],
+            [
+                "TR005",
+                "Suspected",
+                "0.8",
+                "Agricultural Runoff",
+                "2023-02-20"
+            ],
+            [
+                "TR010",
+                "No",
+                "N/A",
+                "Natural Compound",
+                "2022-11-01"
+            ],
+            [
+                "TR015",
+                "Yes",
+                "5.1",
+                "Pharmaceutical Byproduct",
+                "2023-03-10"
+            ],
+            [
+                "TR020",
+                "Yes",
+                "25.3",
+                "Combustion Emissions",
+                "2023-04-05"
+            ],
+            [
+                "TR025",
+                "Suspected",
+                "1.2",
+                "Food Additive",
+                "2023-05-12"
+            ],
+            [
+                "TR029",
+                "No",
+                "N/A",
+                "Research Sample",
+                "2023-06-01"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "table-156-156": {
+        "title": [
+            "Employee ID",
+            "Employee Name",
+            "Department",
+            "Years of Service"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Employees Without Awards",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the names of employees who never won any award in the evaluation.",
+        "data": [
+            [
+                "101",
+                "Alice Smith",
+                "Sales",
+                "5"
+            ],
+            [
+                "105",
+                "Bob Johnson",
+                "Marketing",
+                "8"
+            ],
+            [
+                "112",
+                "Emily Brown",
+                "HR",
+                "2"
+            ],
+            [
+                "120",
+                "David Lee",
+                "Finance",
+                "10"
+            ],
+            [
+                "125",
+                "Grace Wilson",
+                "IT",
+                "3"
+            ]
+        ]
+    }
+}

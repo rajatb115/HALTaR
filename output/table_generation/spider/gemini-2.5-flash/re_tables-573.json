@@ -1,0 +1,61 @@
+{
+    "table-573-573": {
+        "title": [
+            "StudentID",
+            "Grade",
+            "NumFriends",
+            "FriendshipStatus"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the lowest grade of students who do not have any friends?",
+        "data": [
+            [
+                "S101",
+                "5",
+                "0",
+                "No Friends"
+            ],
+            [
+                "S102",
+                "6",
+                "3",
+                "Has Friends"
+            ],
+            [
+                "S103",
+                "4",
+                "0",
+                "No Friends"
+            ],
+            [
+                "S104",
+                "7",
+                "1",
+                "Has Friends"
+            ],
+            [
+                "S105",
+                "5",
+                "2",
+                "Has Friends"
+            ],
+            [
+                "S106",
+                "4",
+                "0",
+                "No Friends"
+            ],
+            [
+                "S107",
+                "8",
+                "0",
+                "No Friends"
+            ]
+        ]
+    }
+}

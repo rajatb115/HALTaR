@@ -1,0 +1,45 @@
+{
+    "table-416-416": {
+        "title": [
+            "Card Set",
+            "Format",
+            "Legal Status",
+            "Content Warning Count",
+            "Total Cards",
+            "Percentage No Warning"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of cards with format commander and legal status do not have a content warning?",
+        "data": [
+            [
+                "Commander Legends",
+                "Commander",
+                "Legal",
+                "45",
+                "367",
+                "87%"
+            ],
+            [
+                "Dominaria United",
+                "Commander / Standard",
+                "Legal & Restricted",
+                "62",
+                "512",
+                "?%"
+            ],
+            [
+                "Ivory League",
+                "Commander Only",
+                "Not Legal",
+                "N/A",
+                "0",
+                "N%Aether Revolt"
+            ]
+        ]
+    }
+}

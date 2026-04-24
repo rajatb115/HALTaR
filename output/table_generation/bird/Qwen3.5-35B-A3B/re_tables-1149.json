@@ -1,0 +1,55 @@
+{
+    "table-1149-1149": {
+        "title": [
+            "Player ID",
+            "Height_cm",
+            "Overall_Strength",
+            "Is_Under_18cm",
+            "Meets_Criteria"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of players that are under 180 cm who have an overall strength of more than 70?",
+        "data": [
+            [
+                "P1042",
+                "68",
+                "72",
+                "Yes",
+                "True"
+            ],
+            [
+                "P1055",
+                "59",
+                "85",
+                "Yes",
+                "True"
+            ],
+            [
+                "P1089",
+                "71",
+                "68",
+                "Yes",
+                "False"
+            ],
+            [
+                "P1102",
+                "74",
+                "91",
+                "Yes",
+                "True"
+            ],
+            [
+                "P1134",
+                "66",
+                "88",
+                "Yes",
+                "True"
+            ]
+        ]
+    }
+}

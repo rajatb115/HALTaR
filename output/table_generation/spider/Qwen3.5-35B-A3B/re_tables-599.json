@@ -1,0 +1,76 @@
+{
+    "table-599-599": {
+        "title": [
+            "Owner First Name",
+            "State",
+            "Dog Breed",
+            "Dog Age",
+            "Registration ID"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first names of owners living in Virginia and the names of dogs they own.",
+        "data": [
+            [
+                "Sarah",
+                "Virginia",
+                "Labrador Retriever",
+                "4",
+                "VA-2021-8842"
+            ],
+            [
+                "Michael",
+                "Virginia German Shepherd",
+                "7",
+                "VA -2019-3301",
+                ""
+            ],
+            [
+                "Jennifer",
+                "Virginia Beagle",
+                "3",
+                "VA \u201320\u201322\u20136654",
+                ""
+            ],
+            [
+                "David",
+                "Virginia Golden Retriev er",
+                "5",
+                "VA\u201320 23\u20131102",
+                ""
+            ],
+            [
+                "Emily",
+                "Virginia Poodle",
+                "6",
+                "VA\u201420\u2014\u201420\u20149981",
+                ""
+            ],
+            [
+                "Robert",
+                "Virginia Boxer",
+                "8",
+                "VA\u2014\u20142\u2014\u20140\u2014\u201418\u2014\u201477",
+                ""
+            ],
+            [
+                "Amanda",
+                "Virginia Bulldog",
+                "9",
+                "VA\u2014\u2014\u2014\u201420\u2014\u2014\u2014\u201417\u2014\u2014\u2014\u201455",
+                ""
+            ],
+            [
+                "James",
+                "Virginia Dachshund",
+                "0",
+                "N/A",
+                "NA"
+            ]
+        ]
+    }
+}

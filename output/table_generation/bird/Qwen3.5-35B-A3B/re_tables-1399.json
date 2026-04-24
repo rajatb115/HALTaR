@@ -1,0 +1,85 @@
+{
+    "table-1399-1399": {
+        "title": [
+            "Event_Name",
+            "Advertisement_Spent_USD",
+            "Platform_Used",
+            "Campaign_Duration_Days",
+            "Target_Audience_Size",
+            "ROI_Percentage",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the event with the highest amount spent on advertisement.",
+        "data": [
+            [
+                "Global Tech Summit 24",
+                "12500000",
+                "Digital & TV",
+                "60",
+                "5000000+",
+                "340%",
+                "Completed"
+            ],
+            [
+                "Annual Music Festival X",
+                "8750020",
+                "Radio & Social Media",
+                "45",
+                "8200000",
+                "95%",
+                "Ongoing"
+            ],
+            [
+                "World Health Expo",
+                "6230150",
+                "Print & Online",
+                "75",
+                "",
+                "0%",
+                ""
+            ],
+            [
+                "Summer Sports Gala",
+                "4100.00",
+                "Outdoor Billboards",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "International Film Awards",
+                "3850.50",
+                "Streaming Ads",
+                "30",
+                "",
+                "%",
+                ""
+            ],
+            [
+                "Local Charity Run",
+                "2120.75",
+                "Community Boards",
+                "",
+                "",
+                "N/A",
+                ""
+            ],
+            [
+                "Regional Food Fair",
+                "950",
+                "Local Newspapers",
+                "days",
+                "k",
+                "%.",
+                ""
+            ]
+        ]
+    }
+}

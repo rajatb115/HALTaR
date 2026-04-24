@@ -1,0 +1,73 @@
+{
+    "table-543-543": {
+        "title": [
+            "Conductor Name",
+            "Orchestra",
+            "Era Active",
+            "Nationality",
+            "Notable Work Conducted",
+            "Performance Count",
+            "Venue",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of conductors as well as the corresonding orchestras that they have conducted?",
+        "data": [
+            [
+                "Herbert von Karajan",
+                "Berlin Philharmonic",
+                "1908\u20131989",
+                "Austrian",
+                "Beethoven Symphony No. 9",
+                "450",
+                "Vienna Musikverein",
+                "Deceased"
+            ],
+            [
+                "Leonard Bernstein",
+                "New York Philharmonic",
+                "1918\u20132010",
+                "American",
+                "West Side Story Suite",
+                "892",
+                "Carnegie Hall",
+                "Retired"
+            ],
+            [
+                "Marin Alsop",
+                "Baltimore Symphony Orchestra",
+                "1956\u2013Present",
+                "Romanian-American",
+                "Gershwin Rhapsody in Blue",
+                "67",
+                "Meyerhoff Hall",
+                "Active"
+            ],
+            [
+                "Valery Gergiev",
+                "Mariinsky Theatre Orchestra",
+                "1953\u2013Present",
+                "Russian",
+                "Tchaikovsky Eugene Onegin",
+                "720",
+                "St. Petersburg",
+                "Active"
+            ],
+            [
+                "Claudio Abbado",
+                "Lucerne Festival Orchestra",
+                "1933\u20132014",
+                "Italian",
+                "Mahler Symphony No. 2",
+                "98",
+                "Lucerne",
+                "Deceased"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-640-640": {
+        "title": [
+            "Post ID",
+            "Author Type",
+            "Language Used",
+            "Post Date",
+            "Views"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Based on posts posted by Community, calculate the percentage of posts that use the R language.",
+        "data": [
+            [
+                "1001",
+                "Community",
+                "R",
+                "2023-10-26",
+                "345"
+            ],
+            [
+                "1002",
+                "Individual",
+                "Python",
+                "2023-10-25",
+                "512"
+            ],
+            [
+                "1003",
+                "Community",
+                "SQL",
+                "2023-10-24",
+                "289"
+            ],
+            [
+                "1004",
+                "Community",
+                "R",
+                "2023-10-23",
+                "410"
+            ],
+            [
+                "1005",
+                "Admin",
+                "N/A",
+                "2023-10-22",
+                "150"
+            ],
+            [
+                "1006",
+                "Community",
+                "Python",
+                "2023-10-21",
+                "390"
+            ],
+            [
+                "1007",
+                "Community",
+                "R",
+                "2023-10-20",
+                "620"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-1522-1522": {
+        "title": [
+            "Timestamp",
+            "Country",
+            "Transaction ID",
+            "Amount"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Transaction Summary by Country and Time",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the transactions happened during 8:00-9:00 in 2012/8/26, how many happened in CZE?",
+        "data": [
+            [
+                "2012-08-26 08:05:12",
+                "CZE",
+                "TX12345",
+                "120.50"
+            ],
+            [
+                "2012-08-26 08:17:34",
+                "CZE",
+                "TX67890",
+                "85.00"
+            ],
+            [
+                "2012-08-26 08:42:56",
+                "CZE",
+                "TX24680",
+                "210.75"
+            ],
+            [
+                "2012-08-26 08:59:01",
+                "CZE",
+                "TX13579",
+                "50.20"
+            ],
+            [
+                "2012-08-26 08:22:15",
+                "GER",
+                "TX98765",
+                "300.00"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-460-460": {
+        "title": [
+            "Card Name",
+            "Card Type",
+            "Mana Cost",
+            "Converted Mana Cost (CMC)",
+            "Rarity",
+            "Set"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which card costs more converted mana, \"Serra Angel\" or \"Shrine Keeper\"?",
+        "data": [
+            [
+                "Serra Angel",
+                "Creature",
+                "{3}{W}{W}",
+                "5",
+                "Uncommon",
+                "Core Set 2021"
+            ],
+            [
+                "Shrine Keeper",
+                "Creature",
+                "{W}",
+                "1",
+                "Common",
+                "Dominaria United"
+            ],
+            [
+                "Glorious Anthem",
+                "Enchantment",
+                "{1}{W}{W}",
+                "3",
+                "Rare",
+                "Core Set 2021"
+            ],
+            [
+                "Baneslayer Angel",
+                "Creature",
+                "{3}{W}{W}",
+                "5",
+                "Mythic Rare",
+                "Core Set 2021"
+            ],
+            [
+                "Ajani's Pridemate",
+                "Creature",
+                "{1}{W}",
+                "2",
+                "Uncommon",
+                "Core Set 2020"
+            ],
+            [
+                "Savannah Lions",
+                "Creature",
+                "{W}",
+                "1",
+                "Common",
+                "Masters 25"
+            ]
+        ]
+    }
+}

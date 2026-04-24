@@ -1,0 +1,52 @@
+{
+    "table-1086-1086": {
+        "title": [
+            "Player Name",
+            "Crossing Attempts",
+            "Successful Crosses",
+            "Crossing Accuracy (%)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Player Crossing Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which of these players performs the best in crossing actions, Alexis, Ariel Borysiuk or Arouna Kone?",
+        "data": [
+            [
+                "Alexis",
+                "35",
+                "8",
+                "22.9%"
+            ],
+            [
+                "Ariel Borysiuk",
+                "12",
+                "2",
+                "16.7%"
+            ],
+            [
+                "Arouna Kone",
+                "5",
+                "1",
+                "20.0%"
+            ],
+            [
+                "Player D",
+                "28",
+                "7",
+                "25.0%"
+            ],
+            [
+                "Player E",
+                "18",
+                "3",
+                "16.7%"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-580-580": {
+        "title": [
+            "Comment ID",
+            "Author",
+            "Date Posted",
+            "Comment Text",
+            "Likes"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write all comments made on the post titled 'How does gentle boosting differ from AdaBoost?'",
+        "data": [
+            [
+                "C001",
+                "ML_Newbie",
+                "2023-10-26",
+                "\"Gentle boosting uses a weighted average of weak learners, right?\"",
+                "7"
+            ],
+            [
+                "C002",
+                "ExpertAnalyst",
+                "2023-10-26",
+                "\"AdaBoost reweights misclassified samples more aggressively.\"",
+                "15"
+            ],
+            [
+                "C003",
+                "AlgoMaster",
+                "2023-10-27",
+                "\"The key difference is how they update weights and combine learners.\"",
+                "12"
+            ],
+            [
+                "C004",
+                "DataGeek",
+                "2023-10-27",
+                "\"Gentle boosting is less prone to overfitting than AdaBoost.\"",
+                "9"
+            ],
+            [
+                "C005",
+                "LearnML",
+                "2023-10-28",
+                "\"Is it true that GentleBoost uses Newton-Raphson for optimization?\"",
+                "6"
+            ],
+            [
+                "C006",
+                "StatsPro",
+                "2023-10-28",
+                "\"AdaBoost focuses on hard examples, while GentleBoost is more robust.\"",
+                "18"
+            ]
+        ]
+    }
+}

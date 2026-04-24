@@ -1,0 +1,69 @@
+{
+    "table-147-147": {
+        "title": [
+            "Customer Name",
+            "Gender",
+            "Account ID",
+            "Credit Card Status",
+            "Loan Status",
+            "Credit Score"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who are the female account holders who own credit cards and also have loans?",
+        "data": [
+            [
+                "Sarah Johnson",
+                "Female",
+                "100123",
+                "Yes",
+                "Yes",
+                "780"
+            ],
+            [
+                "Emily Davis",
+                "Female",
+                "100124",
+                "Yes",
+                "Yes",
+                "720"
+            ],
+            [
+                "Jessica Brown",
+                "Female",
+                "100125",
+                "Yes",
+                "Yes",
+                "690"
+            ],
+            [
+                "Olivia White",
+                "Female",
+                "100126",
+                "Yes",
+                "Yes",
+                "810"
+            ],
+            [
+                "Sophia Green",
+                "Female",
+                "100127",
+                "Yes",
+                "Yes",
+                "750"
+            ],
+            [
+                "Mia Black",
+                "Female",
+                "100128",
+                "Yes",
+                "Yes",
+                "705"
+            ]
+        ]
+    }
+}

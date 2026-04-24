@@ -1,0 +1,51 @@
+{
+    "table-47-47": {
+        "title": [
+            "State",
+            "School Name",
+            "Grades",
+            "Total Enrollment"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "State Special Schools Enrollment",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which state special schools have the highest number of enrollees from grades 1 through 12?",
+        "data": [
+            [
+                "California",
+                "California School for the Blind",
+                "K-12",
+                "150"
+            ],
+            [
+                "New York",
+                "New York School for the Deaf",
+                "K-12",
+                "130"
+            ],
+            [
+                "Texas",
+                "Texas School for the Blind and Visually Impaired",
+                "K-12",
+                "120"
+            ],
+            [
+                "Florida",
+                "Florida School for the Deaf and the Blind",
+                "K-12",
+                "300"
+            ],
+            [
+                "Pennsylvania",
+                "Western Pennsylvania School for Blind Children",
+                "K-12",
+                "90"
+            ]
+        ]
+    }
+}

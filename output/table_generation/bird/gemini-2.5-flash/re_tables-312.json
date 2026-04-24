@@ -1,0 +1,77 @@
+{
+    "table-312-312": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Has Sulfur",
+            "Has Double Bond",
+            "Molecular Weight (g/mol)",
+            "Category"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many molecules without sulphur element is not having double bond?",
+        "data": [
+            [
+                "Methane",
+                "CH4",
+                "No",
+                "No",
+                "16.04",
+                "Alkane"
+            ],
+            [
+                "Ethane",
+                "C2H6",
+                "No",
+                "No",
+                "30.07",
+                "Alkane"
+            ],
+            [
+                "Water",
+                "H2O",
+                "No",
+                "No",
+                "18.02",
+                "Inorganic"
+            ],
+            [
+                "Acetone",
+                "C3H6O",
+                "No",
+                "Yes",
+                "58.08",
+                "Ketone"
+            ],
+            [
+                "Hydrogen Sulfide",
+                "H2S",
+                "Yes",
+                "No",
+                "34.08",
+                "Inorganic"
+            ],
+            [
+                "Ethene",
+                "C2H4",
+                "No",
+                "Yes",
+                "28.05",
+                "Alkene"
+            ],
+            [
+                "Ethanol",
+                "C2H6O",
+                "No",
+                "No",
+                "46.07",
+                "Alcohol"
+            ]
+        ]
+    }
+}

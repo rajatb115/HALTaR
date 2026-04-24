@@ -1,0 +1,85 @@
+{
+    "table-223-223": {
+        "title": [
+            "Molecule ID",
+            "Carcinogenic Status",
+            "Total Count",
+            "Classification Category",
+            "Source Material",
+            "Analysis Date",
+            "Confidence Score"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the difference between the number of molecules that are carcinogenic and those that are not?",
+        "data": [
+            [
+                "MOL-A42",
+                "Yes",
+                "156",
+                "High Risk",
+                "Synthetic Chemicals",
+                "2023-10-15",
+                "0.98"
+            ],
+            [
+                "MOL-B73",
+                "No",
+                "243",
+                "Low Risk",
+                "Natural Extracts",
+                "1923-02-11",
+                "0.95"
+            ],
+            [
+                "MOL-C19",
+                "Uncertain",
+                "89",
+                "Uncertain",
+                "Industrial Waste",
+                "2020-04-23",
+                "0.82"
+            ],
+            [
+                "MOL-D05",
+                "Mixed",
+                "312",
+                "Mixed",
+                "Pharmaceutical Byproducts",
+                "2023-11-22",
+                "0.91"
+            ],
+            [
+                "MOL-EFG88",
+                "No",
+                "178",
+                "Ambiguous",
+                "Environmental Samples",
+                "2022-06-21",
+                "0.88"
+            ],
+            [
+                "MOL-HIJ22",
+                "No",
+                "405",
+                "Variable",
+                "Combined Data Set",
+                "2019-01-25",
+                ""
+            ],
+            [
+                "MOL-KLM99",
+                "Yes",
+                "120",
+                "Variable",
+                "Combined Data Set",
+                "2019-01-25",
+                ""
+            ]
+        ]
+    }
+}

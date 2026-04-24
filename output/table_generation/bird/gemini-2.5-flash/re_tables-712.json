@@ -1,0 +1,77 @@
+{
+    "table-712-712": {
+        "title": [
+            "Comment ID",
+            "Product ID",
+            "Comment Score",
+            "User ID",
+            "User Age",
+            "Comment Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among products comments with 0 score, what is the total number of users ages 40 years old?",
+        "data": [
+            [
+                "C001",
+                "P101",
+                "0",
+                "U501",
+                "40",
+                "2023-01-15"
+            ],
+            [
+                "C002",
+                "P102",
+                "3",
+                "U502",
+                "28",
+                "2023-01-16"
+            ],
+            [
+                "C003",
+                "P101",
+                "0",
+                "U503",
+                "40",
+                "2023-01-17"
+            ],
+            [
+                "C004",
+                "P103",
+                "5",
+                "U504",
+                "55",
+                "2023-01-18"
+            ],
+            [
+                "C005",
+                "P102",
+                "0",
+                "U505",
+                "32",
+                "2023-01-19"
+            ],
+            [
+                "C006",
+                "P104",
+                "1",
+                "U501",
+                "40",
+                "2023-01-20"
+            ],
+            [
+                "C007",
+                "P101",
+                "0",
+                "U506",
+                "45",
+                "2023-01-21"
+            ]
+        ]
+    }
+}

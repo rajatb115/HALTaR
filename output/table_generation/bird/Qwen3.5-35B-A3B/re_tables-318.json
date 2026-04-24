@@ -1,0 +1,73 @@
+{
+    "table-318-318": {
+        "title": [
+            "Molecule ID",
+            "Element Count",
+            "Total Carcinogens",
+            "% Containing Chlorine",
+            "Source Database",
+            "Validation Status",
+            "Year Analyzed",
+            "Confidence Score"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of carcinogenic molecules which contain the Chlorine element.",
+        "data": [
+            [
+                "MOL-CAR-0042",
+                "1",
+                "15678",
+                "12.4%",
+                "PubChem",
+                "Verified",
+                "2023",
+                "0.98"
+            ],
+            [
+                "mol_chem_x99",
+                "1",
+                "",
+                "14.1%",
+                "ChEMBL",
+                "Pending Review",
+                "2024",
+                ""
+            ],
+            [
+                "xray_molec_zz",
+                "1",
+                "",
+                "",
+                "DrugBank",
+                "Confirmed",
+                "2201",
+                ""
+            ],
+            [
+                "intox_data_a1",
+                "2",
+                "8900",
+                "11.8%",
+                "ToxNet",
+                "Validated",
+                "2023",
+                "0.95"
+            ],
+            [
+                "hazard_comp_b2",
+                "3",
+                "",
+                "9.2%",
+                "EPA IRIS",
+                "Under Audit",
+                "2024",
+                ""
+            ]
+        ]
+    }
+}

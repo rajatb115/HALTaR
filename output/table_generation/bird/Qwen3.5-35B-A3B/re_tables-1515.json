@@ -1,0 +1,85 @@
+{
+    "table-1515-1515": {
+        "title": [
+            "Transaction ID",
+            "Timestamp",
+            "Currency Code",
+            "Amount",
+            "Payment Method",
+            "Status",
+            "Merchant Category"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What kind of currency did the customer paid at 16:25:00 in 2012/8/24?",
+        "data": [
+            [
+                "TXN_78291",
+                "08/01/2024 14:30:05",
+                "USD",
+                "45.00",
+                "Credit Card",
+                "Completed",
+                "Retail"
+            ],
+            [
+                "TXN_89203",
+                "08/15/2124",
+                "EUR",
+                "32.50",
+                "Debit Card",
+                "Pending",
+                "Dining"
+            ],
+            [
+                "TXN_90112",
+                "09/02/2224",
+                "GBP",
+                "78.20",
+                "Cash",
+                "Failed",
+                "Travel"
+            ],
+            [
+                "TXN_A10234",
+                "05/10/2324",
+                "JPY",
+                "6500.0",
+                "Mobile Pay",
+                "Completed",
+                "Electronics"
+            ],
+            [
+                "TXN_B11456",
+                "00:00:00",
+                "CAD",
+                "120.75",
+                "Bank Transfer",
+                "Processed",
+                "Services"
+            ],
+            [
+                "TXN_C12678",
+                "",
+                "AUD",
+                "",
+                "",
+                "N/A",
+                "Utilities"
+            ],
+            [
+                "TXN_D13890",
+                "",
+                "CHF",
+                "",
+                "Wire",
+                "",
+                ""
+            ]
+        ]
+    }
+}

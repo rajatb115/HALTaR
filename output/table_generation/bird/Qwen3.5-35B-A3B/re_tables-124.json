@@ -1,0 +1,83 @@
+{
+    "table-124-124": {
+        "title": [
+            "Account_ID",
+            "District_Name",
+            "Region_Code",
+            "Loan_Amount_USD",
+            "Status",
+            "Approval_Date",
+            "Customer_Type",
+            "Risk_Level"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the account ID, district and region for loan amount greater than USD300,000.",
+        "data": [
+            [
+                "ACCT_7482",
+                "Springfield_North",
+                "MIDWEST_01",
+                "31500",
+                "Active",
+                "06/12/2023",
+                "Corporate",
+                "Low"
+            ],
+            [
+                "ACHT_9103",
+                "Riverside_East",
+                "WEST_COAST_02",
+                "42050",
+                "Pending",
+                "N/A",
+                "Individual",
+                "Medium"
+            ],
+            [
+                "BCHT_3321",
+                "Oakwood_South",
+                "SOUTH_03",
+                "55020",
+                "Approved",
+                "30/01/24",
+                "Non-Profit",
+                "High"
+            ],
+            [
+                "DCRT_5544",
+                "Hillside_West",
+                "NORTH_04",
+                "29800",
+                "Rejected",
+                "45/02/10",
+                "Small_Biz",
+                "Critical"
+            ],
+            [
+                "ECFT_6677",
+                "Valley_Center",
+                "EAST_05",
+                "6120",
+                "Closed",
+                "99/11/15",
+                "Government",
+                "None"
+            ],
+            [
+                "FCGT_8899",
+                "Lakeview_District",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

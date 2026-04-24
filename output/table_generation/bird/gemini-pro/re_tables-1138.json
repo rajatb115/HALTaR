@@ -1,0 +1,51 @@
+{
+    "table-1138-1138": {
+        "title": [
+            "Strength",
+            "Stamina",
+            "Player Count",
+            "Percentage"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Player Statistics Based on Strength and Stamina",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of players have a strength and stamina score of more than 80?",
+        "data": [
+            [
+                "> 80",
+                "> 80",
+                "150",
+                "15%"
+            ],
+            [
+                "> 80",
+                "<= 80",
+                "350",
+                "35%"
+            ],
+            [
+                "<= 80",
+                "> 80",
+                "200",
+                "20%"
+            ],
+            [
+                "<= 80",
+                "<= 80",
+                "300",
+                "30%"
+            ],
+            [
+                "Total",
+                "",
+                "1000",
+                "100%"
+            ]
+        ]
+    }
+}

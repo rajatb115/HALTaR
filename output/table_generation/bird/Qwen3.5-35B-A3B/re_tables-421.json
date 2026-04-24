@@ -1,0 +1,85 @@
+{
+    "table-421-421": {
+        "title": [
+            "Card ID",
+            "Status Category",
+            "Print Run Size",
+            "Rarity Tier",
+            "Release Date",
+            "Region",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards are oversized, reprinted, and printed for promotions?",
+        "data": [
+            [
+                "CARD_0042",
+                "Oversized",
+                "500",
+                "Rare",
+                "06/15/2018",
+                "North America",
+                "Limited foil variant"
+            ],
+            [
+                "CARD_0719",
+                "Reprint",
+                "450",
+                "Common",
+                "03/22/2021",
+                "Global",
+                "Standard set return"
+            ],
+            [
+                "PROMO_X99",
+                "Promotional",
+                "750",
+                "Uncommon",
+                "09/10/2023",
+                "Japan",
+                "Event exclusive"
+            ],
+            [
+                "CARDSZ_112",
+                "Reprinted",
+                "600",
+                "Rare",
+                "01/05/2022",
+                "Europe",
+                "Anniversary edition"
+            ],
+            [
+                "OVERSIZE_PAL",
+                "Oversize",
+                "800",
+                "Legendary",
+                "12/12/2017",
+                "Worldwide",
+                "Collector's gift"
+            ],
+            [
+                "REPRINT_V2",
+                "Reproduced",
+                "",
+                "N/A",
+                "02/28/1999",
+                "Asia Pacific",
+                "Digital only release"
+            ],
+            [
+                "PROMO_SET_A",
+                "Promo Set",
+                "N/A",
+                "Unknown",
+                "08/01/2000",
+                "South America",
+                "Mystery box inclusion"
+            ]
+        ]
+    }
+}

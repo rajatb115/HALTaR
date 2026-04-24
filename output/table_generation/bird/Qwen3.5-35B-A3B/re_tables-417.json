@@ -1,0 +1,53 @@
+{
+    "table-417-417": {
+        "title": [
+            "Card ID",
+            "Language",
+            "Has Power Source",
+            "Percentage Without Power",
+            "Total Cards Analyzed",
+            "Region",
+            "Date Verified",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What percentage of cards without power are in French?",
+        "data": [
+            [
+                "MTG-FR-0042",
+                "French",
+                "No",
+                "67%",
+                "500",
+                "France",
+                "01/15/2023",
+                "Active"
+            ],
+            [
+                "MTG-DE-0115",
+                "German",
+                "Yes",
+                "N/A",
+                "450",
+                "Germany",
+                "",
+                "Inactive"
+            ],
+            [
+                "MTG-JP-0331",
+                "Japanese",
+                "No",
+                "82%",
+                "320",
+                "Japan",
+                "02/03/2024",
+                "Pending"
+            ]
+        ]
+    }
+}

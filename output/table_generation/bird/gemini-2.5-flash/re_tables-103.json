@@ -1,0 +1,62 @@
+{
+    "table-103-103": {
+        "title": [
+            "Account ID",
+            "Account Holder",
+            "Opening Date",
+            "Balance (USD)",
+            "Account Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State different accounts who have account opening date before 1997 and own an amount of money greater than 3000USD",
+        "data": [
+            [
+                "A001",
+                "John Smith",
+                "1995-03-15",
+                "5200.75",
+                "Savings"
+            ],
+            [
+                "A002",
+                "Maria Garcia",
+                "1996-11-01",
+                "12500.00",
+                "Checking"
+            ],
+            [
+                "A003",
+                "David Lee",
+                "1994-07-22",
+                "2850.50",
+                "Checking"
+            ],
+            [
+                "A004",
+                "Sarah Chen",
+                "1998-01-10",
+                "7100.20",
+                "Investment"
+            ],
+            [
+                "A005",
+                "Robert Johnson",
+                "1992-05-01",
+                "9800.00",
+                "Savings"
+            ],
+            [
+                "A006",
+                "Emily White",
+                "2001-09-05",
+                "1500.00",
+                "Checking"
+            ]
+        ]
+    }
+}

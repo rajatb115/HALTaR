@@ -1,0 +1,45 @@
+{
+    "table-340-340": {
+        "title": [
+            "First Name",
+            "Country",
+            "Cell Phone Number"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Student Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the first name of the students who permanently live in the country Haiti or have the cell phone number 09700166582 .",
+        "data": [
+            [
+                "John",
+                "USA",
+                "09700123456"
+            ],
+            [
+                "Marie",
+                "Haiti",
+                "09800987654"
+            ],
+            [
+                "Pierre",
+                "Canada",
+                "09900345678"
+            ],
+            [
+                "Susan",
+                "UK",
+                "09700166582"
+            ],
+            [
+                "Jean",
+                "Haiti",
+                "09600567890"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-172-172": {
+        "title": [
+            "Document ID",
+            "Template Category",
+            "Template Count",
+            "Last Updated",
+            "Status",
+            "Owner Department"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different templates do all document use?",
+        "data": [
+            [
+                "DOC-101",
+                "Marketing",
+                "4",
+                "7/15/2023",
+                "Active",
+                "Sales"
+            ],
+            [
+                "DOC-B2B",
+                "Legal",
+                "6",
+                "N/A",
+                "Draft",
+                "Compliance"
+            ],
+            [
+                "HR-POLICY",
+                "Human Resources",
+                "3",
+                "9/1/2022",
+                "Archived",
+                "HR"
+            ],
+            [
+                "FIN-QTR",
+                "Finance",
+                "5",
+                "Q3 2024",
+                "Pending",
+                "Accounting"
+            ],
+            [
+                "TECH-SPEC",
+                "Engineering",
+                "8",
+                "Jan 2023",
+                "Active",
+                "R&D"
+            ],
+            [
+                "SALES-DATA",
+                "Operations",
+                "0",
+                "Dec 2022",
+                "Inactive",
+                "Logistics"
+            ]
+        ]
+    }
+}

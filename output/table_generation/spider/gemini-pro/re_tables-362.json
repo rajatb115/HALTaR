@@ -1,0 +1,45 @@
+{
+    "table-362-362": {
+        "title": [
+            "TV Series Title",
+            "Episode",
+            "Rating"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Top Rated TV Series",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List top 3 highest Rating  TV series. List the TV series's Episode and Rating.",
+        "data": [
+            [
+                "Breaking Bad",
+                "Pilot",
+                "9.5"
+            ],
+            [
+                "Game of Thrones",
+                "Winter is Coming",
+                "9.3"
+            ],
+            [
+                "The Wire",
+                "The Target",
+                "9.2"
+            ],
+            [
+                "The Sopranos",
+                "Pilot",
+                "9.1"
+            ],
+            [
+                "Mad Men",
+                "Smoke Gets in Your Eyes",
+                "8.9"
+            ]
+        ]
+    }
+}

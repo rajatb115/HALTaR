@@ -1,0 +1,61 @@
+{
+    "table-1378-1378": {
+        "title": [
+            "Student Name",
+            "Position",
+            "Department",
+            "Enrollment Year"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many student have the position of president?",
+        "data": [
+            [
+                "Alice Johnson",
+                "President",
+                "Political Science",
+                "2021"
+            ],
+            [
+                "Bob Smith",
+                "Vice President",
+                "Computer Science",
+                "2022"
+            ],
+            [
+                "Carol White",
+                "President",
+                "Business Administration",
+                "2020"
+            ],
+            [
+                "David Green",
+                "Secretary",
+                "English Literature",
+                "2023"
+            ],
+            [
+                "Emily Brown",
+                "Treasurer",
+                "Economics",
+                "2022"
+            ],
+            [
+                "Frank Black",
+                "President",
+                "Mechanical Engineering",
+                "2021"
+            ],
+            [
+                "Grace Lee",
+                "Member",
+                "Biology",
+                "2023"
+            ]
+        ]
+    }
+}

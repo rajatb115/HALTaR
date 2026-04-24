@@ -1,0 +1,41 @@
+{
+    "table-994-994": {
+        "title": [
+            "Circuit Name",
+            "Location",
+            "Country",
+            "Latitude",
+            "Longitude"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which location does the Hungaroring circuit located? Also, find the country and coordinates of this circuit?",
+        "data": [
+            [
+                "Hungaroring",
+                "Mogyor\u00f3d",
+                "Hungary",
+                "47.6122\u00b0 N",
+                "9.3308\u00b0 E"
+            ],
+            [
+                "Circuit de Spa-Francorchamps",
+                "Stavelot",
+                "Belgium",
+                "50.4372\u00b0 N",
+                "5.9714\u00b0 E"
+            ],
+            [
+                "Silverstone Circuit",
+                "Silverstone",
+                "United Kingdom",
+                "52.0786\u00b0 N",
+                "0.9875\u00b0 W"
+            ]
+        ]
+    }
+}

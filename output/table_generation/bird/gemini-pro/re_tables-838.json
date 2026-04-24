@@ -1,0 +1,46 @@
+{
+    "table-838-838": {
+        "title": [
+            "Hero ID",
+            "Attribute",
+            "Value"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Superhero Attributes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the hero ID of superhero with the lowest attribute value.",
+        "data": [
+            [
+                "123",
+                "Strength",
+                "10"
+            ],
+            [
+                "456",
+                "Speed",
+                "5"
+            ],
+            [
+                "789",
+                "Intelligence",
+                "15"
+            ],
+            [
+                "101",
+                "Agility",
+                "8"
+            ],
+            [
+                "112",
+                "Durability",
+                "12"
+            ]
+        ]
+    }
+}

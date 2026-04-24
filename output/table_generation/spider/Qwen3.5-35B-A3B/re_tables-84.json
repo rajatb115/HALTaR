@@ -1,0 +1,77 @@
+{
+    "table-84-84": {
+        "title": [
+            "Car Model",
+            "Production Year",
+            "Horsepower",
+            "Engine Size",
+            "Fuel Type",
+            "Manufacturer"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average horsepower of the cars before 1980?",
+        "data": [
+            [
+                "Ford Mustang GT",
+                "1976",
+                "400",
+                "5.8L",
+                "Gasoline",
+                "Ford"
+            ],
+            [
+                "Chevrolet Camaro Z28",
+                "1968",
+                "",
+                "",
+                "",
+                "Chevrolet"
+            ],
+            [
+                "Porsche 911 Carrera",
+                "1982",
+                "",
+                "",
+                "",
+                "Porsche"
+            ],
+            [
+                "Dodge Challenger R/T",
+                "1990",
+                "",
+                "",
+                "",
+                "Dodge"
+            ],
+            [
+                "Toyota Corolla AE86",
+                "",
+                "",
+                "",
+                "",
+                "Toyota"
+            ],
+            [
+                "BMW M3 E30",
+                "2013",
+                "",
+                "",
+                "",
+                "BMW"
+            ],
+            [
+                "Mercedes-Benz SL-Class",
+                "1975",
+                "348",
+                "",
+                "",
+                "Mercedes"
+            ]
+        ]
+    }
+}

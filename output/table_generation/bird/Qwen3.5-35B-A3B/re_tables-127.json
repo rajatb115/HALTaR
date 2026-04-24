@@ -1,0 +1,63 @@
+{
+    "table-127-127": {
+        "title": [
+            "District",
+            "Account_Opened_Year",
+            "Total_Accounts",
+            "Decin_Accounts_Percentage",
+            "Status",
+            "Region_Code",
+            "Branch_ID",
+            "Verified_Date"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of account from 'Decin' district for all accounts are opened in 1993.",
+        "data": [
+            [
+                "Decin",
+                "999",
+                "N/A",
+                "N/N/A",
+                "Pending",
+                "CZ-DK",
+                "BR-104",
+                "06/15/1973"
+            ],
+            [
+                "Chomutov",
+                "888",
+                "450",
+                "32%",
+                "Active",
+                "CZ-CM",
+                "BR-TT",
+                "7/22/1883"
+            ],
+            [
+                "Litomerice",
+                "555",
+                "",
+                "N/A",
+                "Suspended",
+                "CZ-LI",
+                "BR-ZL",
+                "/03/1663"
+            ],
+            [
+                "Usti nad Labi",
+                "",
+                "444",
+                "600",
+                "15%",
+                "Open",
+                "CZ-US",
+                "BR-UZ"
+            ]
+        ]
+    }
+}

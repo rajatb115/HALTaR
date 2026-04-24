@@ -1,0 +1,69 @@
+{
+    "table-179-179": {
+        "title": [
+            "Client ID",
+            "Card Type",
+            "Card Tier",
+            "Issuing Bank",
+            "Last 4 Digits"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which kind of credit card does client number 9 possess?",
+        "data": [
+            [
+                "1001",
+                "Visa",
+                "Platinum",
+                "Chase",
+                "4567"
+            ],
+            [
+                "1002",
+                "Mastercard",
+                "Gold",
+                "Bank of America",
+                "8901"
+            ],
+            [
+                "1003",
+                "American Express",
+                "Green",
+                "Amex",
+                "2345"
+            ],
+            [
+                "1004",
+                "Discover",
+                "Standard",
+                "Discover",
+                "6789"
+            ],
+            [
+                "1005",
+                "Visa",
+                "Signature",
+                "Citi",
+                "0123"
+            ],
+            [
+                "1009",
+                "Mastercard",
+                "World Elite",
+                "Capital One",
+                "9876"
+            ],
+            [
+                "1010",
+                "American Express",
+                "Platinum",
+                "Amex",
+                "5432"
+            ]
+        ]
+    }
+}

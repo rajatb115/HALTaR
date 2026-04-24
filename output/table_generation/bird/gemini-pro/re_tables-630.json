@@ -1,0 +1,40 @@
+{
+    "table-630-630": {
+        "title": [
+            "Year",
+            "Total Votes"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Vote Statistics by Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the ratio of votes in 2010 and 2011.",
+        "data": [
+            [
+                "2007",
+                "15000"
+            ],
+            [
+                "2008",
+                "16500"
+            ],
+            [
+                "2009",
+                "17000"
+            ],
+            [
+                "2010",
+                "18000"
+            ],
+            [
+                "2011",
+                "20000"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "table-1494-1494": {
+        "title": [
+            "Month",
+            "Threshold Value",
+            "Percentage Above Threshold",
+            "Customer Segment",
+            "Data Source",
+            "Confidence Level",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In February 2012, what percentage of customers consumed more than 528.3?",
+        "data": [
+            [
+                "February 2467",
+                "500.0",
+                "42.5%",
+                "Residential",
+                "Internal Analytics",
+                "High",
+                "North America"
+            ],
+            [
+                "February",
+                "6000",
+                "N/A",
+                "Commercial",
+                "External Audit",
+                "Medium",
+                "Europe"
+            ],
+            [
+                "March",
+                "750.2",
+                "38.1%",
+                "Industrial",
+                "System Logs",
+                "Low",
+                "Asia Pacific"
+            ],
+            [
+                "January",
+                "8005",
+                "0.5",
+                "Retail",
+                "Manual Entry",
+                "Critical",
+                "South America"
+            ]
+        ]
+    }
+}

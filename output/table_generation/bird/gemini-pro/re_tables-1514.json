@@ -1,0 +1,43 @@
+{
+    "table-1514-1514": {
+        "title": [
+            "Country",
+            "Date",
+            "Details"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "First Gas Station Customers by Country",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country's gas station had the first paid cusomer in 2012/8/25?",
+        "data": [
+            [
+                "USA",
+                "1913-12-01",
+                "First purpose-built gas station opens"
+            ],
+            [
+                "Italy",
+                "1920s",
+                "Early gas stations emerge in urban areas"
+            ],
+            [
+                "Germany",
+                "1920s",
+                "Gas stations develop alongside autobahns"
+            ],
+            [
+                "UK",
+                "1920s",
+                "Growth of roadside petrol stations"
+            ],
+            [
+                "France",
+                "1930s",
+                "Expansion of national road network"
+            ]
+        ]
+    }
+}

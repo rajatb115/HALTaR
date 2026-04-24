@@ -1,0 +1,83 @@
+{
+    "table-893-893": {
+        "title": [
+            "Driver Full Name",
+            "Points Scored",
+            "Team",
+            "Season",
+            "Wins",
+            "Podiums",
+            "Pole Positions",
+            "Fastest Laps"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "State the driver with the most points scored. Find his full name with that points.",
+        "data": [
+            [
+                "Max Verstappen",
+                "575",
+                "Red Bull Racing",
+                "4",
+                "6",
+                "8",
+                "7",
+                "9"
+            ],
+            [
+                "Lewis Hamilton",
+                "387",
+                "Mercedes",
+                "0",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Charles Leclerc",
+                "",
+                "Ferrari",
+                "0",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Sergio Perez",
+                "",
+                "Red Bull Racing",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Fernando Alonso",
+                "",
+                "Aston Martin",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Lando Norris",
+                "",
+                "McLaren",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

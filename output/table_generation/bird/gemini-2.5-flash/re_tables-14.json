@@ -1,0 +1,53 @@
+{
+    "table-14-14": {
+        "title": [
+            "School Name",
+            "Phone Number",
+            "SAT Excellence Rate (%)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the phone numbers of the schools with the top 3 SAT excellence rate.",
+        "data": [
+            [
+                "Elite Prep Academy",
+                "(555) 101-2001",
+                "98.2"
+            ],
+            [
+                "Stellar Heights High",
+                "(555) 102-2002",
+                "97.5"
+            ],
+            [
+                "Pinnacle Collegiate",
+                "(555) 103-2003",
+                "96.9"
+            ],
+            [
+                "Summit Ridge School",
+                "(555) 104-2004",
+                "95.8"
+            ],
+            [
+                "Grandview Academy",
+                "(555) 105-2005",
+                "94.1"
+            ],
+            [
+                "Northwood Prep",
+                "(555) 106-2006",
+                "93.7"
+            ],
+            [
+                "Evergreen High",
+                "(555) 107-2007",
+                "92.9"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "table-198-198": {
+        "title": [
+            "Molecule Formula",
+            "Bond Type Count",
+            "Oxygen Atom Count",
+            "Total Atoms",
+            "Average O per Molecule"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average number of oxygen atoms in single-bonded molecules.",
+        "data": [
+            [
+                "H\u2082O",
+                "Single Bonds Only",
+                "1",
+                "3",
+                "1.00"
+            ],
+            [
+                "R-O-R'",
+                "Ether Linkage",
+                "1",
+                "R+R'+1",
+                "1/R' avg"
+            ],
+            [
+                "CH\u2083OH",
+                "Alcohol Group",
+                "1",
+                "4",
+                "0.25"
+            ],
+            [
+                "-COOH Carboxyl",
+                "Mixed Bonding",
+                "2",
+                "4",
+                "0.50"
+            ],
+            [
+                "H\u2082O\u2082",
+                "Peroxide Single",
+                "2",
+                "4",
+                "0.50"
+            ]
+        ]
+    }
+}

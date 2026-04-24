@@ -1,0 +1,61 @@
+{
+    "table-1450-1450": {
+        "title": [
+            "Member Name",
+            "Major",
+            "Expense Type",
+            "Expense Amount"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name and major of members who had to spend more than a hundred dollars on an expense?",
+        "data": [
+            [
+                "John Doe",
+                "Computer Science",
+                "Conference Fee",
+                "350.00"
+            ],
+            [
+                "Jane Smith",
+                "Business Administration",
+                "Travel",
+                "210.50"
+            ],
+            [
+                "Peter Jones",
+                "Electrical Engineering",
+                "Equipment Purchase",
+                "520.75"
+            ],
+            [
+                "Alice Brown",
+                "Marketing",
+                "Workshop Registration",
+                "180.00"
+            ],
+            [
+                "Robert White",
+                "Biology",
+                "Lab Supplies",
+                "115.25"
+            ],
+            [
+                "Emily Green",
+                "Psychology",
+                "Research Software",
+                "299.99"
+            ],
+            [
+                "Michael Black",
+                "Economics",
+                "Textbook",
+                "105.00"
+            ]
+        ]
+    }
+}

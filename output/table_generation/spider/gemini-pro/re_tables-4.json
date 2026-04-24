@@ -1,0 +1,39 @@
+{
+    "table-4-4": {
+        "title": [
+            "Statistic",
+            "Age (Years)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Age Statistics of French Singers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average, minimum, and maximum age for all French singers?",
+        "data": [
+            [
+                "Average Age",
+                "45"
+            ],
+            [
+                "Minimum Age",
+                "22"
+            ],
+            [
+                "Maximum Age",
+                "78"
+            ],
+            [
+                "Number of Singers",
+                "50"
+            ],
+            [
+                "Standard Deviation",
+                "15"
+            ]
+        ]
+    }
+}

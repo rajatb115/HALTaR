@@ -1,0 +1,76 @@
+{
+    "table-1058-1058": {
+        "title": [
+            "Match ID",
+            "Season",
+            "Country",
+            "Home Team",
+            "Away Team",
+            "Home Goals",
+            "Away Goals"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average home team goal in the 2010/2011 season in the country of Poland.",
+        "data": [
+            [
+                "1001",
+                "2010/2011",
+                "Poland",
+                "Lech Pozna\u0144",
+                "Arka Gdynia",
+                "2",
+                "1"
+            ],
+            [
+                "1002",
+                "2010/2011",
+                "Poland",
+                "Legia Warsaw",
+                "Polonia Bytom",
+                "3",
+                "0"
+            ],
+            [
+                "1003",
+                "2010/2011",
+                "Poland",
+                "Wis\u0142a Krak\u00f3w",
+                "Zag\u0142\u0119bie Lubin",
+                "1",
+                "1"
+            ],
+            [
+                "1004",
+                "2010/2011",
+                "Poland",
+                "Jagiellonia Bia\u0142ystok",
+                "Lechia Gda\u0144sk",
+                "0",
+                "0"
+            ],
+            [
+                "1005",
+                "2010/2011",
+                "Poland",
+                "\u015al\u0105sk Wroc\u0142aw",
+                "Korona Kielce",
+                "2",
+                "1"
+            ],
+            [
+                "1006",
+                "2010/2011",
+                "Poland",
+                "G\u00f3rnik Zabrze",
+                "Cracovia",
+                "1",
+                "0"
+            ]
+        ]
+    }
+}

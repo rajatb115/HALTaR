@@ -1,0 +1,43 @@
+{
+    "table-363-363": {
+        "title": [
+            "Card Name",
+            "Ruling",
+            "Description"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Magic: The Gathering Card Rulings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the description about the ruling of card \"Condemn\"?",
+        "data": [
+            [
+                "Condemn",
+                "General",
+                "Condemn only targets attacking creatures."
+            ],
+            [
+                "Condemn",
+                "Life Total",
+                "The amount of life the controller gains is equal to the creature's toughness as it last existed on the battlefield."
+            ],
+            [
+                "Condemn",
+                "Replacement Effect",
+                "The effect is a replacement effect."
+            ],
+            [
+                "Condemn",
+                "Commander",
+                "In Commander, if your commander is put into the library this way, you can choose to put it into the command zone instead."
+            ],
+            [
+                "Condemn",
+                "Multiple Attackers",
+                "If multiple creatures are attacking, you can choose which one to target with Condemn."
+            ]
+        ]
+    }
+}

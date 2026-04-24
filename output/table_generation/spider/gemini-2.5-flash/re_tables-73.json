@@ -1,0 +1,77 @@
+{
+    "table-73-73": {
+        "title": [
+            "Make",
+            "Model",
+            "Cylinders",
+            "MPG",
+            "Horsepower",
+            "Weight (lbs)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average miles per gallon of all the cards with 4 cylinders?",
+        "data": [
+            [
+                "Honda",
+                "Civic",
+                "4",
+                "35",
+                "158",
+                "2870"
+            ],
+            [
+                "Toyota",
+                "Corolla",
+                "4",
+                "33",
+                "139",
+                "2950"
+            ],
+            [
+                "Ford",
+                "Focus",
+                "4",
+                "30",
+                "160",
+                "3000"
+            ],
+            [
+                "Mazda",
+                "3",
+                "4",
+                "32",
+                "186",
+                "3100"
+            ],
+            [
+                "Hyundai",
+                "Elantra",
+                "4",
+                "34",
+                "147",
+                "2850"
+            ],
+            [
+                "Volkswagen",
+                "Jetta",
+                "4",
+                "31",
+                "158",
+                "3050"
+            ],
+            [
+                "Chevrolet",
+                "Cruze",
+                "4",
+                "30",
+                "153",
+                "3080"
+            ]
+        ]
+    }
+}

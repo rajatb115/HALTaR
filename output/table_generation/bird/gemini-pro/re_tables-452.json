@@ -1,0 +1,51 @@
+{
+    "table-452-452": {
+        "title": [
+            "Card Name",
+            "Set",
+            "Starting Maximum Hand Size",
+            "Availability in Paper"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Magic: The Gathering Card Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards available in paper have a positive starting maximum hand size?",
+        "data": [
+            [
+                "Library of Alexandria",
+                "Arabian Nights",
+                "7",
+                "Yes"
+            ],
+            [
+                "Diamond Lion",
+                "Strixhaven Mystical Archive",
+                "7",
+                "Yes"
+            ],
+            [
+                "Serum Powder",
+                "Fifth Dawn",
+                "7",
+                "Yes"
+            ],
+            [
+                "Lore Broker",
+                "Mystery Booster",
+                "7",
+                "Yes"
+            ],
+            [
+                "Mad Ratter",
+                "Throne of Eldraine",
+                "7",
+                "Yes"
+            ]
+        ]
+    }
+}

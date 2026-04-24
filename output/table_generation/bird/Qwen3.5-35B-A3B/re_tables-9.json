@@ -1,0 +1,83 @@
+{
+    "table-9-9": {
+        "title": [
+            "School ID",
+            "District",
+            "Total Students",
+            "Free/Reduced Lunch Count",
+            "SAT Test Takers",
+            "Average Math Score",
+            "Average Reading Score",
+            "State"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the number of SAT test takers of the schools with the highest FRPM count for K-12 students?",
+        "data": [
+            [
+                "SCH-1042",
+                "Metro North Unified",
+                "450",
+                "380",
+                "N/A",
+                "N/A",
+                "620",
+                "California"
+            ],
+            [
+                "SCH-BB77",
+                "Eastside Academy",
+                "5203",
+                "9800",
+                "None",
+                "N/A",
+                "N/A",
+                "Texas"
+            ],
+            [
+                "SCH-CX99",
+                "Westview High",
+                "890",
+                "0",
+                "0",
+                "N/A",
+                "N/A",
+                "New York"
+            ],
+            [
+                "SCH-DK11",
+                "Central Valley Charter",
+                "760",
+                "15000",
+                "",
+                "N/A",
+                "N/A",
+                "Florida"
+            ],
+            [
+                "SCH-EF22",
+                "Southport Public Schools",
+                "1250",
+                "1100",
+                "85",
+                "510",
+                "530",
+                "Ohio"
+            ],
+            [
+                "SCH-GH33",
+                "Northern Heights Institute",
+                "985",
+                "920",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

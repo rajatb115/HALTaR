@@ -1,0 +1,39 @@
+{
+    "table-703-703": {
+        "title": [
+            "Score Range",
+            "Number of Posts"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Post Score Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts have a score less than 20?",
+        "data": [
+            [
+                "0-5",
+                "123"
+            ],
+            [
+                "6-10",
+                "456"
+            ],
+            [
+                "11-15",
+                "789"
+            ],
+            [
+                "16-20",
+                "101"
+            ],
+            [
+                "21-25",
+                "112"
+            ]
+        ]
+    }
+}

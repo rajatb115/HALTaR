@@ -1,0 +1,63 @@
+{
+    "table-351-351": {
+        "title": [
+            "Series Title",
+            "Content ID",
+            "Genre",
+            "Episode Count",
+            "Release Status",
+            "Network Tier",
+            "Air Date Range",
+            "Total Views"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different series and contents are listed in the TV Channel table?",
+        "data": [
+            [
+                "Galaxy Questers",
+                "GQ-1014",
+                "Sci-Fi Adventure",
+                "45",
+                "Completed",
+                "Premium",
+                "01/01-12/31/2023",
+                "85000"
+            ],
+            [
+                "Midnight Mysteries",
+                "MM-2098",
+                "Crime Drama",
+                "62",
+                "Ongoing",
+                "Standard",
+                "3/15-Current",
+                "720"
+            ],
+            [
+                "The Lost Archives",
+                "LA-3301",
+                "Documentary History",
+                "30",
+                "Released",
+                "",
+                "2/22/19-Present",
+                "120"
+            ],
+            [
+                "Cooking with Chaos",
+                "CC-4452",
+                "Reality Comedy",
+                "18",
+                "Unreleased",
+                "N/A",
+                "6/10-8/25/23",
+                "4100"
+            ]
+        ]
+    }
+}

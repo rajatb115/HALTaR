@@ -1,0 +1,85 @@
+{
+    "table-296-296": {
+        "title": [
+            "Molecule ID",
+            "Element Focus",
+            "Label Status",
+            "Total Atom Count",
+            "Formula",
+            "Compound Class",
+            "Risk Level"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many atoms belong to the molecule that element is hydrogen and labeled with carcinogenic compound?",
+        "data": [
+            [
+                "MOL-HC-004",
+                "Hydrogen",
+                "Confirmed Carcinogen",
+                "6",
+                "H\u2082O\u2083",
+                "Peroxide",
+                "High"
+            ],
+            [
+                "mol_772x",
+                "Hydride",
+                "Suspected Carcinogenic",
+                "4",
+                "CHClFBr",
+                "Halocarbon",
+                "Moderate"
+            ],
+            [
+                "h_comp_99",
+                "Atomic Hydrogen",
+                "Known Carcinomer",
+                "2",
+                "HNO\u2083+",
+                "Nitrate Derivative",
+                "Critical"
+            ],
+            [
+                "x_hydro_carc",
+                "Hydrated Form",
+                "Probable Toxin",
+                "8",
+                "C\u2081\u2080H\u2081\u2084N\u2082O\u2082",
+                "Alkaloid",
+                "Elevated"
+            ],
+            [
+                "-h-c-101",
+                "Free Radical",
+                "Classified Hazard",
+                "3",
+                "HOCl",
+                "Chlorine Oxide",
+                "Severe"
+            ],
+            [
+                "-h-comp-22",
+                "Hybrid Structure",
+                "Unverified Risk",
+                "5",
+                "NH\u2084CN",
+                "Ammonium Salt",
+                "Unknown"
+            ],
+            [
+                "-mol-hydra-x",
+                "Complex Ion",
+                "Regulatory Warning",
+                "7",
+                "Fe(H\u2082O)\u2086",
+                "",
+                ""
+            ]
+        ]
+    }
+}

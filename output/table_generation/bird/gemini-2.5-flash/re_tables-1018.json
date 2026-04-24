@@ -1,0 +1,69 @@
+{
+    "table-1018-1018": {
+        "title": [
+            "Circuit Name",
+            "Country",
+            "Latitude",
+            "Longitude",
+            "Lap Record"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the location coordinates of the circuits whose lap record is 1:29.488.",
+        "data": [
+            [
+                "Monza Circuit",
+                "Italy",
+                "45.6156",
+                "9.2814",
+                "1:29.488"
+            ],
+            [
+                "Silverstone Circuit",
+                "United Kingdom",
+                "52.0786",
+                "-1.0169",
+                "1:29.712"
+            ],
+            [
+                "Suzuka International Racing Course",
+                "Japan",
+                "34.8433",
+                "136.5383",
+                "1:30.115"
+            ],
+            [
+                "Circuit de Spa-Francorchamps",
+                "Belgium",
+                "50.4372",
+                "5.9714",
+                "1:29.903"
+            ],
+            [
+                "Jeddah Corniche Circuit",
+                "Saudi Arabia",
+                "21.6319",
+                "39.1000",
+                "1:29.488"
+            ],
+            [
+                "Autodromo Hermanos Rodr\u00edguez",
+                "Mexico",
+                "19.4042",
+                "-99.0911",
+                "1:29.550"
+            ],
+            [
+                "Circuit Paul Ricard",
+                "France",
+                "43.2506",
+                "5.7917",
+                "1:30.005"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-201-201": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Primary Triple Bond Type",
+            "Carcinogenic Status",
+            "IARC Classification",
+            "Target Organ(s)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the triple-bonded molecules which are carcinogenic.",
+        "data": [
+            [
+                "Acrylonitrile",
+                "C3H3N",
+                "C\u2261N",
+                "Known Carcinogen",
+                "Group 2A",
+                "Lung, Brain, Kidney"
+            ],
+            [
+                "Vinylidene Cyanide",
+                "C3H2N2",
+                "C\u2261N",
+                "Suspected Carcinogen",
+                "N/A",
+                "Liver, Kidney"
+            ],
+            [
+                "Propiolaldehyde",
+                "C3H2O",
+                "C\u2261C",
+                "Suspected Carcinogen",
+                "N/A",
+                "Respiratory Tract"
+            ],
+            [
+                "1,3-Butadiyne",
+                "C4H2",
+                "C\u2261C",
+                "Possible Carcinogen",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "Cyanoacetylene",
+                "C3HN",
+                "C\u2261N",
+                "Suspected Carcinogen",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "Methylacrylonitrile",
+                "C4H5N",
+                "C\u2261N",
+                "Possible Carcinogen",
+                "N/A",
+                "Liver"
+            ],
+            [
+                "2-Propyn-1-ol",
+                "C3H4O",
+                "C\u2261C",
+                "Suspected Carcinogen",
+                "N/A",
+                "Skin, Respiratory"
+            ]
+        ]
+    }
+}

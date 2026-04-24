@@ -1,0 +1,85 @@
+{
+    "table-1224-1224": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Creatinine (mg/dL)",
+            "Is Abnormal",
+            "Age",
+            "Test Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Are there more male patients with creatinine not within the normal range than female? True or False?",
+        "data": [
+            [
+                "P001",
+                "Male",
+                "1.6",
+                "True",
+                "48",
+                "2023-10-26"
+            ],
+            [
+                "P002",
+                "Female",
+                "0.7",
+                "False",
+                "35",
+                "2023-10-26"
+            ],
+            [
+                "P003",
+                "Male",
+                "0.9",
+                "False",
+                "62",
+                "2023-10-25"
+            ],
+            [
+                "P004",
+                "Female",
+                "1.3",
+                "True",
+                "59",
+                "2023-10-25"
+            ],
+            [
+                "P005",
+                "Male",
+                "1.9",
+                "True",
+                "71",
+                "2023-10-24"
+            ],
+            [
+                "P006",
+                "Female",
+                "0.85",
+                "False",
+                "29",
+                "2023-10-24"
+            ],
+            [
+                "P007",
+                "Male",
+                "1.2",
+                "False",
+                "41",
+                "2023-10-23"
+            ],
+            [
+                "P008",
+                "Female",
+                "1.1",
+                "True",
+                "66",
+                "2023-10-23"
+            ]
+        ]
+    }
+}

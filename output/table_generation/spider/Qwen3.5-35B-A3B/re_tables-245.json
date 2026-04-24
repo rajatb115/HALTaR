@@ -1,0 +1,77 @@
+{
+    "table-245-245": {
+        "title": [
+            "Match ID",
+            "Winner Rank",
+            "Opponent Rank",
+            "Score Difference",
+            "Tournament Stage",
+            "Date Played"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average rank of winners in all matches.",
+        "data": [
+            [
+                "MCH-0042",
+                "3",
+                "7",
+                "+4",
+                "Quarterfinals",
+                "06/12/2023"
+            ],
+            [
+                "MCH-1105",
+                "1",
+                "4",
+                "+3",
+                "Semifinals",
+                "06/25/2023"
+            ],
+            [
+                "MCT-0992",
+                "5",
+                "8",
+                "-3",
+                "Round of 16",
+                "05/14/2024"
+            ],
+            [
+                "MCR-2210",
+                "2",
+                "6",
+                "-4",
+                "Finals",
+                "07/01/2022"
+            ],
+            [
+                "MCB-3341",
+                "4",
+                "9",
+                "-5",
+                "Preliminaries",
+                "04/10/2021"
+            ],
+            [
+                "MAC-5567",
+                "6",
+                "2",
+                "+4",
+                "Quarterfinals",
+                "08/15/2030"
+            ],
+            [
+                "MDT-7789",
+                "8",
+                "",
+                "N/A",
+                "Bye Round",
+                "N/A"
+            ]
+        ]
+    }
+}

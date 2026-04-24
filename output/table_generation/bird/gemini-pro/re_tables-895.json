@@ -1,0 +1,43 @@
+{
+    "table-895-895": {
+        "title": [
+            "Driver",
+            "Race",
+            "Lap Time"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Fastest Lap Times in Racing",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the best lap time recorded? List the driver and race with such recorded lap time.",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "Silverstone",
+                "1:24.303"
+            ],
+            [
+                "Max Verstappen",
+                "Red Bull Ring",
+                "1:05.619"
+            ],
+            [
+                "Charles LeClerc",
+                "Monza",
+                "1:21.046"
+            ],
+            [
+                "Sergio Perez",
+                "Spa-Francorchamps",
+                "1:46.702"
+            ],
+            [
+                "Valtteri Bottas",
+                "Bahrain",
+                "1:31.447"
+            ]
+        ]
+    }
+}

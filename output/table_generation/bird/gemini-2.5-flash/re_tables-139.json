@@ -1,0 +1,77 @@
+{
+    "table-139-139": {
+        "title": [
+            "Branch ID",
+            "Branch Name",
+            "Year",
+            "Crimes Committed",
+            "Male Clients",
+            "Total Clients"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the branch where the second-highest number of crimes were committed in 1995 occurred, how many male clients are there?",
+        "data": [
+            [
+                "BR001",
+                "Central Branch",
+                "1995",
+                "85",
+                "1250",
+                "2800"
+            ],
+            [
+                "BR002",
+                "Northside Hub",
+                "1995",
+                "110",
+                "980",
+                "2100"
+            ],
+            [
+                "BR003",
+                "West End Office",
+                "1995",
+                "135",
+                "1520",
+                "3100"
+            ],
+            [
+                "BR004",
+                "Southpoint Annex",
+                "1995",
+                "70",
+                "890",
+                "1950"
+            ],
+            [
+                "BR005",
+                "East River Station",
+                "1995",
+                "95",
+                "1100",
+                "2400"
+            ],
+            [
+                "BR006",
+                "Downtown Core",
+                "1995",
+                "60",
+                "750",
+                "1600"
+            ],
+            [
+                "BR007",
+                "Uptown Plaza",
+                "1994",
+                "78",
+                "1050",
+                "2300"
+            ]
+        ]
+    }
+}

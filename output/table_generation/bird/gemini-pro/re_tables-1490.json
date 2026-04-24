@@ -1,0 +1,59 @@
+{
+    "table-1490-1490": {
+        "title": [
+            "Customer Type",
+            "Customer ID",
+            "Month",
+            "Year",
+            "Total Consumption"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            1,
+            3,
+            4
+        ],
+        "pgTitle": "Customer Consumption Data - May 2013",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much did the KAM customers consume in total in May 2013?",
+        "data": [
+            [
+                "KAM",
+                "12345",
+                "May",
+                "2013",
+                "1500"
+            ],
+            [
+                "KAM",
+                "67890",
+                "May",
+                "2013",
+                "2000"
+            ],
+            [
+                "KAM",
+                "24680",
+                "May",
+                "2013",
+                "1200"
+            ],
+            [
+                "KAM",
+                "13579",
+                "May",
+                "2013",
+                "1800"
+            ],
+            [
+                "KAM",
+                "98765",
+                "May",
+                "2013",
+                "2500"
+            ]
+        ]
+    }
+}

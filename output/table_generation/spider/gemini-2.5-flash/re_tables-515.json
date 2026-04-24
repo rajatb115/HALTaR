@@ -1,0 +1,58 @@
+{
+    "table-515-515": {
+        "title": [
+            "Country",
+            "Population (Thousands)",
+            "Continent"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of the 3 countries with the fewest people.",
+        "data": [
+            [
+                "Vatican City",
+                "1",
+                "Europe"
+            ],
+            [
+                "Nauru",
+                "11",
+                "Oceania"
+            ],
+            [
+                "Tuvalu",
+                "12",
+                "Oceania"
+            ],
+            [
+                "Palau",
+                "18",
+                "Oceania"
+            ],
+            [
+                "San Marino",
+                "34",
+                "Europe"
+            ],
+            [
+                "Liechtenstein",
+                "39",
+                "Europe"
+            ],
+            [
+                "Monaco",
+                "36",
+                "Europe"
+            ],
+            [
+                "Saint Kitts and Nevis",
+                "54",
+                "North America"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "table-708-708": {
+        "title": [
+            "Post ID",
+            "Views",
+            "Comment ID",
+            "Comment Score"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Posts with Views and Comments",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the posts with views ranging from 100 to 150, what is the comment with the highest score?",
+        "data": [
+            [
+                "123",
+                "120",
+                "456",
+                "50"
+            ],
+            [
+                "124",
+                "140",
+                "457",
+                "75"
+            ],
+            [
+                "125",
+                "110",
+                "458",
+                "25"
+            ],
+            [
+                "126",
+                "130",
+                "459",
+                "90"
+            ],
+            [
+                "127",
+                "150",
+                "460",
+                "60"
+            ]
+        ]
+    }
+}

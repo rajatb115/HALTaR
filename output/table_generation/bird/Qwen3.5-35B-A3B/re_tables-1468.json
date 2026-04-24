@@ -1,0 +1,63 @@
+{
+    "table-1468-1468": {
+        "title": [
+            "Event_Name",
+            "Gift_Type",
+            "Unit_Price",
+            "Quantity_Spent",
+            "Total_Amount",
+            "Currency",
+            "Date_Purchased",
+            "Vendor_ID"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total amount spent on speaker gifts and list the name of the event they were spent on.",
+        "data": [
+            [
+                "Annual Tech Summit",
+                "Speaker Gifts",
+                "$45.00",
+                "60",
+                "$2700.0",
+                "USD",
+                "03/15/2023",
+                "VND-8821"
+            ],
+            [
+                "Global Innovation Forum",
+                "Speaker Kits",
+                "$120.50",
+                "N/A",
+                "$3615.5",
+                "EUR",
+                "4/22/23 / VND-9932",
+                ""
+            ],
+            [
+                "Regional Developer Meetup",
+                "Custom Mugs",
+                "$8.25",
+                "35",
+                "$528.75",
+                "GBP",
+                "5/10/24",
+                "VND-1104"
+            ],
+            [
+                "International AI Conference",
+                "Branded Backpacks",
+                "$65.99",
+                "80",
+                "\u00a35279.20",
+                "JPY",
+                "7/01/25 / VND-A2B3C4",
+                "Q3 Sales Kickoff"
+            ]
+        ]
+    }
+}

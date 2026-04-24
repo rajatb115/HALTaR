@@ -1,0 +1,69 @@
+{
+    "table-1524-1524": {
+        "title": [
+            "Card Number",
+            "Card Owner Name",
+            "Country",
+            "Card Type",
+            "Issue Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country was the card owner of No.667467 in?",
+        "data": [
+            [
+                "667467",
+                "John Doe",
+                "USA",
+                "Credit",
+                "2022-01-15"
+            ],
+            [
+                "667468",
+                "Jane Smith",
+                "Canada",
+                "Debit",
+                "2021-11-01"
+            ],
+            [
+                "667466",
+                "Peter Jones",
+                "UK",
+                "Credit",
+                "2023-03-20"
+            ],
+            [
+                "667469",
+                "Maria Garcia",
+                "Spain",
+                "Debit",
+                "2022-07-10"
+            ],
+            [
+                "667470",
+                "Kenji Tanaka",
+                "Japan",
+                "Credit",
+                "2023-01-05"
+            ],
+            [
+                "667465",
+                "Sarah Lee",
+                "Australia",
+                "Debit",
+                "2021-09-22"
+            ],
+            [
+                "667471",
+                "David Chen",
+                "China",
+                "Credit",
+                "2022-04-18"
+            ]
+        ]
+    }
+}

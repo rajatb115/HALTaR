@@ -1,0 +1,51 @@
+{
+    "table-936-936": {
+        "title": [
+            "Driver",
+            "Car",
+            "Laps",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "2008 Australian Grand Prix Results",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many drivers managed to finish the race in the 2008 Australian Grand Prix?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "McLaren-Mercedes",
+                "58",
+                "Finished"
+            ],
+            [
+                "Nick Heidfeld",
+                "BMW Sauber",
+                "58",
+                "Finished"
+            ],
+            [
+                "Nico Rosberg",
+                "Williams-Toyota",
+                "58",
+                "Finished"
+            ],
+            [
+                "Fernando Alonso",
+                "Renault",
+                "58",
+                "Finished"
+            ],
+            [
+                "Heikki Kovalainen",
+                "McLaren-Mercedes",
+                "57",
+                "Finished"
+            ]
+        ]
+    }
+}

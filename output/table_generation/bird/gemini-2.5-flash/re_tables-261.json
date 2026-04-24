@@ -1,0 +1,62 @@
+{
+    "table-261-261": {
+        "title": [
+            "Molecule Formula",
+            "Primary Element",
+            "Bond Order",
+            "Number of Triple Bonds",
+            "Total Atoms in Molecule"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total atoms with triple-bond molecules containing the element phosphorus or bromine.",
+        "data": [
+            [
+                "P2",
+                "Phosphorus",
+                "Triple",
+                "1",
+                "2"
+            ],
+            [
+                "HCP",
+                "Phosphorus",
+                "Triple",
+                "1",
+                "3"
+            ],
+            [
+                "FCP",
+                "Phosphorus",
+                "Triple",
+                "1",
+                "3"
+            ],
+            [
+                "BrCN",
+                "Bromine",
+                "Triple",
+                "1",
+                "3"
+            ],
+            [
+                "BrC2H",
+                "Bromine",
+                "Triple",
+                "1",
+                "4"
+            ],
+            [
+                "P2C2",
+                "Phosphorus",
+                "Triple",
+                "2",
+                "4"
+            ]
+        ]
+    }
+}

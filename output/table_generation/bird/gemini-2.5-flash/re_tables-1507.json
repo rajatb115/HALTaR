@@ -1,0 +1,77 @@
+{
+    "table-1507-1507": {
+        "title": [
+            "Transaction ID",
+            "Product Category",
+            "Product Description",
+            "Price (CZK)",
+            "Location (City)",
+            "Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the product descriptions of the transactions taken place in the gas stations in the Czech Republic.",
+        "data": [
+            [
+                "10012345",
+                "Fuel",
+                "Unleaded 95 Petrol",
+                "1850.00",
+                "Prague",
+                "2023-10-26"
+            ],
+            [
+                "10012346",
+                "Snacks",
+                "Chocolate Bar Milka",
+                "35.50",
+                "Brno",
+                "2023-10-26"
+            ],
+            [
+                "10012347",
+                "Beverages",
+                "Bottled Water Mattoni",
+                "25.00",
+                "Ostrava",
+                "2023-10-25"
+            ],
+            [
+                "10012348",
+                "Car Care",
+                "Windshield Wiper Fluid",
+                "120.00",
+                "Plze\u0148",
+                "2023-10-25"
+            ],
+            [
+                "10012349",
+                "Fuel",
+                "Diesel Fuel",
+                "2100.00",
+                "Liberec",
+                "2023-10-24"
+            ],
+            [
+                "10012350",
+                "Services",
+                "Automatic Car Wash",
+                "199.00",
+                "\u010cesk\u00e9 Bud\u011bjovice",
+                "2023-10-24"
+            ],
+            [
+                "10012351",
+                "Tobacco",
+                "Cigarettes Marlboro",
+                "150.00",
+                "Hradec Kr\u00e1lov\u00e9",
+                "2023-10-23"
+            ]
+        ]
+    }
+}

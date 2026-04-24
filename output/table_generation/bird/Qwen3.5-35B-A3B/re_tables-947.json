@@ -1,0 +1,67 @@
+{
+    "table-947-947": {
+        "title": [
+            "Circuit ID",
+            "State",
+            "Latitude",
+            "Longitude",
+            "Region",
+            "Established",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the location coordinates of the US circuits.",
+        "data": [
+            [
+                "US-CIR-01",
+                "California",
+                "34.0522",
+                "-118.2437",
+                "West Coast",
+                "6/15/1978",
+                "Active"
+            ],
+            [
+                "US-CIR-02",
+                "Texas",
+                "40.7128",
+                "-74.9912",
+                "South Central",
+                "8/22/1892",
+                "Maintenance"
+            ],
+            [
+                "US-CIR-03",
+                "New York",
+                "51.5074",
+                "-0.1278",
+                "Northeast",
+                "9/10/1776",
+                "Decommissioned"
+            ],
+            [
+                "Circuit-US-04",
+                "Florida",
+                "7.1355",
+                "-55.1602",
+                "Southeast",
+                "1/1/1950",
+                "Operational"
+            ],
+            [
+                "USA-CIR-05",
+                "Illinois",
+                "41.8781",
+                "-87.6298",
+                "Midwest",
+                "7/4/1818",
+                "Pending Review"
+            ]
+        ]
+    }
+}

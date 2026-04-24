@@ -1,0 +1,61 @@
+{
+    "table-458-458": {
+        "title": [
+            "Website URL",
+            "Card Product",
+            "Promotional Type",
+            "Price Range",
+            "Availability Status",
+            "Last Updated"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the websites where I can purchase the cards that have the promotional type of \"bundle\".",
+        "data": [
+            [
+                "https://shop.cardstore.com",
+                "Starter Bundle Pack",
+                "bundle",
+                "$49.99 - $79.00",
+                "In Stock",
+                "06/15/2024"
+            ],
+            [
+                "https://deals.gamecards.net",
+                "Collector's Edition Set",
+                "bundle",
+                "$120.05 - $150.50",
+                "Limited Stock",
+                "06/14/2024"
+            ],
+            [
+                "https://www.premiumtradinghub.io",
+                "Seasonal Gift Box",
+                "bundle",
+                "$89.50 - $110.25",
+                "Out of Stock",
+                "June 13, 2024"
+            ],
+            [
+                "http://bulkcardmarket.org",
+                "Wholesale Multi-Pack",
+                "bundle",
+                "$299.00 - $350.00",
+                "Available Now",
+                "June 15, 2022"
+            ],
+            [
+                "https://digitalcollectibles.shop",
+                "Digital + Physical Combo",
+                "bundle",
+                "$19.99 - $29.99",
+                "Pre-order Only",
+                "Jun 12, 2002"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-1055-1055": {
+        "title": [
+            "Player Name",
+            "Statistic",
+            "Value"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Football Player Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the defensive work rate of the football player David Wilson",
+        "data": [
+            [
+                "David Wilson",
+                "Tackles per Game",
+                "2.5"
+            ],
+            [
+                "David Wilson",
+                "Interceptions",
+                "0.8"
+            ],
+            [
+                "David Wilson",
+                "Clearances",
+                "1.2"
+            ],
+            [
+                "David Wilson",
+                "Blocks",
+                "0.3"
+            ],
+            [
+                "David Wilson",
+                "Recoveries",
+                "4.1"
+            ]
+        ]
+    }
+}

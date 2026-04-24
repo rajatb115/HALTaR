@@ -1,0 +1,61 @@
+{
+    "table-25-25": {
+        "title": [
+            "School Name",
+            "Free Meals Eligibility (%)",
+            "Avg Test Score",
+            "Number of Test Takers"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the names of the schools with the percent eligible for free meals in K-12 is more than 0.1 and test takers whose test score is greater than or equal to 1500?",
+        "data": [
+            [
+                "Northwood High School",
+                "0.18",
+                "1580",
+                "310"
+            ],
+            [
+                "Riverside Academy",
+                "0.25",
+                "1620",
+                "280"
+            ],
+            [
+                "Central Prep",
+                "0.12",
+                "1550",
+                "250"
+            ],
+            [
+                "Evergreen Charter",
+                "0.30",
+                "1700",
+                "150"
+            ],
+            [
+                "Summit Ridge School",
+                "0.15",
+                "1520",
+                "220"
+            ],
+            [
+                "Lakeside Collegiate",
+                "0.22",
+                "1650",
+                "190"
+            ],
+            [
+                "Grandview High",
+                "0.11",
+                "1505",
+                "330"
+            ]
+        ]
+    }
+}

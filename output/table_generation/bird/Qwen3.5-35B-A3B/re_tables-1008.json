@@ -1,0 +1,62 @@
+{
+    "table-1008-1008": {
+        "title": [
+            "Driver",
+            "Event Location",
+            "Pit Stop Duration (s)",
+            "Reason for Delay",
+            "Race Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the longest time that Lewis Hamilton had spent at a pit stop?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "Monaco Grand Prix",
+                "4.2",
+                "Wheel gun malfunction",
+                "May 26, 2107"
+            ],
+            [
+                "Lewis Hamilton",
+                "British Grand Prix",
+                "3.9",
+                "Loose wheel nut check",
+                "July 14, 1019"
+            ],
+            [
+                "Lewis Hamilton",
+                "Italian Grand Prix",
+                "45.1",
+                "Safety car deployment delay",
+                "September 6, 2020"
+            ],
+            [
+                "Lewis Hamilton",
+                "Singapore Grand Prix",
+                "38.5",
+                "Incorrect tire compound delivery",
+                "October 18, 2119"
+            ],
+            [
+                "Lewis Hamilton",
+                "Abu Dhabi Grand Prix",
+                "36.2",
+                "Puncture repair during stop",
+                "December 13, 2218"
+            ],
+            [
+                "Lewis Hamilton",
+                "Brazilian Grand Prix",
+                "34.8",
+                "Rear wing adjustment required",
+                "November 15, 2317"
+            ]
+        ]
+    }
+}

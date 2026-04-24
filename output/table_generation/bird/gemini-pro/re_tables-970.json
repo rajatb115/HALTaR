@@ -1,0 +1,46 @@
+{
+    "table-970-970": {
+        "title": [
+            "Driver ID",
+            "Birth Year",
+            "Nationality"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Australian Driver Demographics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many Australian drivers who were born in 1980?",
+        "data": [
+            [
+                "12345",
+                "1980",
+                "Australian"
+            ],
+            [
+                "67890",
+                "1975",
+                "British"
+            ],
+            [
+                "24680",
+                "1980",
+                "Australian"
+            ],
+            [
+                "13579",
+                "1990",
+                "Australian"
+            ],
+            [
+                "11223",
+                "1980",
+                "Australian"
+            ]
+        ]
+    }
+}

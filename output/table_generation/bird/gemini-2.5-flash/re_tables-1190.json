@@ -1,0 +1,61 @@
+{
+    "table-1190-1190": {
+        "title": [
+            "Patient ID",
+            "Thrombosis Degree",
+            "ANA Pattern",
+            "Anti-Cardiolipin IgM (MPL U/mL)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What number of patients with a degree of thrombosis level 2 and ANA pattern of only S, have a level of anti-Cardiolip in antibody (IgM) 20% higher than average?",
+        "data": [
+            [
+                "P001",
+                "2",
+                "S",
+                "35"
+            ],
+            [
+                "P002",
+                "1",
+                "Homogeneous",
+                "12"
+            ],
+            [
+                "P003",
+                "2",
+                "S",
+                "42"
+            ],
+            [
+                "P004",
+                "3",
+                "Speckled",
+                "8"
+            ],
+            [
+                "P005",
+                "2",
+                "S",
+                "38"
+            ],
+            [
+                "P006",
+                "2",
+                "S",
+                "29"
+            ],
+            [
+                "P007",
+                "1",
+                "Nucleolar",
+                "15"
+            ]
+        ]
+    }
+}

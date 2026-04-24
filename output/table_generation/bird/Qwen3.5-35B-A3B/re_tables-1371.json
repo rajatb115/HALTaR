@@ -1,0 +1,77 @@
+{
+    "table-1371-1371": {
+        "title": [
+            "Expense ID",
+            "Date",
+            "Category",
+            "Description",
+            "Amount ($)",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the expenses incurred by the vice president.",
+        "data": [
+            [
+                "EXP-1042",
+                "06/12/2023",
+                "Travel",
+                "Flight to Chicago Conference",
+                "$1,250.00",
+                "Approved"
+            ],
+            [
+                "EXP-A77B",
+                "06/25/2023",
+                "Client Entertainment",
+                "Dinner at Le Bernardin",
+                "$4,500.50",
+                "Pending Review"
+            ],
+            [
+                "EXP-C99X",
+                "07/01/2024",
+                "Office Supplies",
+                "Ergonomic Chair Replacement",
+                "$899.99",
+                "Reimbursed"
+            ],
+            [
+                "EXP-D22L",
+                "08/15/2019",
+                "Professional Development",
+                "Executive Leadership Seminar",
+                "$3,205.05",
+                "Completed"
+            ],
+            [
+                "EXP-F44M",
+                "09/03/2021",
+                "Accommodation",
+                "Hotel Stay in New York",
+                "$650.00",
+                "Paid Directly"
+            ],
+            [
+                "EXP-G88P",
+                "03/11/2018",
+                "Vehicle Maintenance",
+                "Corporate Sedan Service Fee",
+                "$215.75",
+                "Audited"
+            ],
+            [
+                "EXP-H11Q",
+                "04/22/2017",
+                "Communication",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

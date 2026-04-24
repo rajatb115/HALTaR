@@ -1,0 +1,69 @@
+{
+    "table-1027-1027": {
+        "title": [
+            "Home Team",
+            "Season",
+            "Matches Lost",
+            "Total Played",
+            "Win Rate %"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which home team had lost the fewest matches in the 2016 season?",
+        "data": [
+            [
+                "New York Red Bulls",
+                "4",
+                "7",
+                "34",
+                "0.765"
+            ],
+            [
+                "Los Angeles FC",
+                "5",
+                "8",
+                "0",
+                "N/A"
+            ],
+            [
+                "Seattle Sounders FC",
+                "-1",
+                "6",
+                "9",
+                "0.824"
+            ],
+            [
+                "Toronto FC",
+                "+2",
+                "",
+                "5",
+                "0.850"
+            ],
+            [
+                "Atlanta United FC",
+                "/",
+                "4",
+                "34",
+                "88%"
+            ],
+            [
+                "Portland Timbers",
+                "~",
+                "6",
+                "34",
+                "85%"
+            ],
+            [
+                "FC Dallas",
+                "^",
+                "5",
+                "34",
+                "88%"
+            ]
+        ]
+    }
+}

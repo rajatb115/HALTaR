@@ -1,0 +1,69 @@
+{
+    "table-409-409": {
+        "title": [
+            "Player_Name",
+            "Height_cm",
+            "Money_Rank_Global",
+            "Total_Earnings_USD",
+            "Event_Count",
+            "Best_Result"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the money rank of the poker player with the greatest height.",
+        "data": [
+            [
+                "Phil Ivey",
+                "76",
+                "4",
+                "$42,500,000",
+                "312",
+                "WSOP Bracelet #10"
+            ],
+            [
+                "Daniel Negreanu",
+                "81",
+                "6",
+                "$38,205,011",
+                "450",
+                "WSOPS Main Runner-up"
+            ],
+            [
+                "Erick Lindgren",
+                "91",
+                "N/A",
+                "$1,250,400",
+                "42",
+                "EPT Final Table"
+            ],
+            [
+                "Joe Hachem",
+                "59",
+                "0",
+                "$7,525,670",
+                "1",
+                "WSOPP Main Winner"
+            ],
+            [
+                "Brynn Kenney",
+                "84",
+                "N/A",
+                "$1,890,220",
+                "15",
+                "WPT Champion"
+            ],
+            [
+                "Antonio Esfandiari",
+                "",
+                "N/A",
+                "$25M+",
+                "1",
+                "Big One for One Drop"
+            ]
+        ]
+    }
+}

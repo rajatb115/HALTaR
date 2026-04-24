@@ -1,0 +1,53 @@
+{
+    "table-953-953": {
+        "title": [
+            "Constructor",
+            "Championship Wins",
+            "First Win",
+            "Last Win"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Formula 1 Constructors with Championship Wins",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which constructors have been ranked 1?",
+        "data": [
+            [
+                "Ferrari",
+                "16",
+                "1961",
+                "2008"
+            ],
+            [
+                "Williams",
+                "9",
+                "1980",
+                "1997"
+            ],
+            [
+                "McLaren",
+                "8",
+                "1974",
+                "1998"
+            ],
+            [
+                "Lotus",
+                "7",
+                "1963",
+                "1978"
+            ],
+            [
+                "Mercedes",
+                "8",
+                "2014",
+                "2021"
+            ]
+        ]
+    }
+}

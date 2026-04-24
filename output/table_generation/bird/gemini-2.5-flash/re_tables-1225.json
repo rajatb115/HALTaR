@@ -1,0 +1,61 @@
+{
+    "table-1225-1225": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "Birthday",
+            "Total Bilirubin (mg/dL)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the highest total bilirubin level recorded? List out the patient details with ID, sex and birthday with that index.",
+        "data": [
+            [
+                "P001",
+                "F",
+                "1985-03-12",
+                "1.1"
+            ],
+            [
+                "P002",
+                "M",
+                "1972-11-23",
+                "0.9"
+            ],
+            [
+                "P003",
+                "F",
+                "1998-07-01",
+                "2.5"
+            ],
+            [
+                "P004",
+                "M",
+                "1965-01-15",
+                "18.7"
+            ],
+            [
+                "P005",
+                "F",
+                "2005-09-05",
+                "0.7"
+            ],
+            [
+                "P006",
+                "M",
+                "1958-04-20",
+                "3.2"
+            ],
+            [
+                "P007",
+                "F",
+                "1990-12-08",
+                "1.5"
+            ]
+        ]
+    }
+}

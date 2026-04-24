@@ -1,0 +1,69 @@
+{
+    "table-203-203": {
+        "title": [
+            "Molecule",
+            "Bond Type",
+            "Number of Triple Bonds",
+            "Bond Length (pm)",
+            "Bond Energy (kJ/mol)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many triple type bonds are there?",
+        "data": [
+            [
+                "Nitrogen (N2)",
+                "Triple",
+                "1",
+                "109.8",
+                "945"
+            ],
+            [
+                "Acetylene (C2H2)",
+                "Triple",
+                "1",
+                "120.3",
+                "839"
+            ],
+            [
+                "Hydrogen Cyanide (HCN)",
+                "Triple",
+                "1",
+                "115.3",
+                "891"
+            ],
+            [
+                "Carbon Monoxide (CO)",
+                "Triple",
+                "1",
+                "112.8",
+                "1072"
+            ],
+            [
+                "Oxygen (O2)",
+                "Double",
+                "0",
+                "120.7",
+                "498"
+            ],
+            [
+                "Carbon Dioxide (CO2)",
+                "Double",
+                "0",
+                "116.3",
+                "799"
+            ],
+            [
+                "Ethane (C2H6)",
+                "Single",
+                "0",
+                "153.5",
+                "348"
+            ]
+        ]
+    }
+}

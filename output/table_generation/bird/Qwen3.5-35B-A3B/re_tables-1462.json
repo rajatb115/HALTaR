@@ -1,0 +1,43 @@
+{
+    "table-1462-1462": {
+        "title": [
+            "Last_Name",
+            "Major",
+            "Phone_Number"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the last names of students under the Elementary Education major and include their phone numbers.",
+        "data": [
+            [
+                "Smith",
+                "Elementary_Education",
+                "5550101"
+            ],
+            [
+                "Johnson",
+                "Elementary_Education",
+                "4678902"
+            ],
+            [
+                "Williams",
+                "Elementary-Education",
+                "N/A"
+            ],
+            [
+                "Brown",
+                "Elementary Education",
+                "3345671"
+            ],
+            [
+                "Davis",
+                "Elementary Ed",
+                "8899002"
+            ]
+        ]
+    }
+}

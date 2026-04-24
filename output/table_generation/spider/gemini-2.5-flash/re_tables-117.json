@@ -1,0 +1,69 @@
+{
+    "table-117-117": {
+        "title": [
+            "Airline Name",
+            "Abbreviation",
+            "Country",
+            "Hub Airport",
+            "Fleet Size",
+            "Year Founded"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the airline with abbreviation 'UAL'.",
+        "data": [
+            [
+                "United Airlines",
+                "UAL",
+                "USA",
+                "Chicago O'Hare (ORD)",
+                "900",
+                "1926"
+            ],
+            [
+                "Delta Air Lines",
+                "DAL",
+                "USA",
+                "Atlanta Hartsfield-Jackson (ATL)",
+                "950",
+                "1929"
+            ],
+            [
+                "American Airlines",
+                "AAL",
+                "USA",
+                "Dallas/Fort Worth (DFW)",
+                "960",
+                "1926"
+            ],
+            [
+                "Southwest Airlines",
+                "SWA",
+                "USA",
+                "Dallas Love Field (DAL)",
+                "800",
+                "1967"
+            ],
+            [
+                "Lufthansa",
+                "DLH",
+                "Germany",
+                "Frankfurt Airport (FRA)",
+                "300",
+                "1953"
+            ],
+            [
+                "British Airways",
+                "BAW",
+                "UK",
+                "London Heathrow (LHR)",
+                "280",
+                "1974"
+            ]
+        ]
+    }
+}

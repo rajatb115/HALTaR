@@ -1,0 +1,40 @@
+{
+    "table-977-977": {
+        "title": [
+            "Driver ID",
+            "Lap 1 Time"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Fastest Lap 1 Times by Driver",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the driver's ID of the top five driver, by descending order, the fastest time during the first lap of the race.",
+        "data": [
+            [
+                "123",
+                "85.234"
+            ],
+            [
+                "456",
+                "85.456"
+            ],
+            [
+                "789",
+                "85.567"
+            ],
+            [
+                "101",
+                "85.789"
+            ],
+            [
+                "112",
+                "85.901"
+            ]
+        ]
+    }
+}

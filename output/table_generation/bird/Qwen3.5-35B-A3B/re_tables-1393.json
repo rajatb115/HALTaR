@@ -1,0 +1,85 @@
+{
+    "table-1393-1393": {
+        "title": [
+            "Month",
+            "Source Category",
+            "Amount Received ($)",
+            "Transaction ID",
+            "Status",
+            "Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicate the top source of funds received in September 2019 based on their amount.",
+        "data": [
+            [
+                "September 27, 24, 6, 1, 30",
+                "Corporate Grants",
+                "$125,000",
+                "TRX-90021",
+                "Completed",
+                "North America"
+            ],
+            [
+                "September",
+                "Individual Donations",
+                "$84,500.50",
+                "DON-88210",
+                "Pending",
+                "Europe"
+            ],
+            [
+                "October",
+                "Government Subsidies",
+                "$72,030.00",
+                "SUBSIDY-112",
+                "Approved",
+                "Asia Pacific"
+            ],
+            [
+                "August",
+                "Investment Returns",
+                "$68,902.15",
+                "INV-33441",
+                "Closed",
+                "South America"
+            ],
+            [
+                "July",
+                "Service Contracts",
+                "$45,209.80",
+                "SVC-55672",
+                "Active",
+                "Africa"
+            ],
+            [
+                "June",
+                "Merchandise Sales",
+                "$32,100",
+                "N/A",
+                "Shipped",
+                "Oceania"
+            ],
+            [
+                "May",
+                "Interest Income",
+                "$21,550",
+                "INT-99887",
+                "Reconciled",
+                "Global"
+            ],
+            [
+                "April",
+                "Sponsorship Deals",
+                "$5,400",
+                "SPO-12345",
+                "Cancelled",
+                ""
+            ]
+        ]
+    }
+}

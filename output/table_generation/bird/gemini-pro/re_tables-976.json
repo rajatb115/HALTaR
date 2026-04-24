@@ -1,0 +1,40 @@
+{
+    "table-976-976": {
+        "title": [
+            "Year",
+            "Average Lap Time (seconds)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Fastest Lap Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which year has the lowest speed of lap time?",
+        "data": [
+            [
+                "2018",
+                "70.5"
+            ],
+            [
+                "2019",
+                "71.2"
+            ],
+            [
+                "2020",
+                "69.8"
+            ],
+            [
+                "2021",
+                "70.1"
+            ],
+            [
+                "2022",
+                "72.0"
+            ]
+        ]
+    }
+}

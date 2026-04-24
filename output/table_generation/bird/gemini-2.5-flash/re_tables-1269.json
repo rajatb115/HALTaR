@@ -1,0 +1,69 @@
+{
+    "table-1269-1269": {
+        "title": [
+            "Patient ID",
+            "Anti-SM Result",
+            "Age (Years)",
+            "Gender",
+            "Primary Diagnosis"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients with an abnormal anti-SM, please list the IDs of the three youngest ones.",
+        "data": [
+            [
+                "P101",
+                "Abnormal",
+                "28",
+                "Female",
+                "Systemic Lupus Erythematosus"
+            ],
+            [
+                "P102",
+                "Normal",
+                "55",
+                "Male",
+                "Osteoarthritis"
+            ],
+            [
+                "P103",
+                "Abnormal",
+                "32",
+                "Male",
+                "Systemic Lupus Erythematosus"
+            ],
+            [
+                "P104",
+                "Abnormal",
+                "25",
+                "Female",
+                "Systemic Lupus Erythematosus"
+            ],
+            [
+                "P105",
+                "Normal",
+                "48",
+                "Female",
+                "Fibromyalgia"
+            ],
+            [
+                "P106",
+                "Abnormal",
+                "30",
+                "Male",
+                "Systemic Lupus Erythematosus"
+            ],
+            [
+                "P107",
+                "Normal",
+                "62",
+                "Female",
+                "Hypertension"
+            ]
+        ]
+    }
+}

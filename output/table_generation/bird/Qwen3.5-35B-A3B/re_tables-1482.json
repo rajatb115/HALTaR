@@ -1,0 +1,77 @@
+{
+    "table-1482-1482": {
+        "title": [
+            "Customer Segment Pair",
+            "Least Consumption Paid (CZK)",
+            "Annual Average Difference (CZE)",
+            "Calculation Basis",
+            "Data Source Year",
+            "Variance Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the difference in the annual average consumption of the customers with the least amount of consumption paid in CZK for 2013 between SME and LAM, LAM and KAM, and KAM and SME?",
+        "data": [
+            [
+                "SME vs LAM",
+                "45,203",
+                "-12,450",
+                "Direct Comparison",
+                "6/7/2024",
+                "Negative"
+            ],
+            [
+                "LAM vs KAM",
+                "-32,100",
+                "+8,900 (Absolute)",
+                "Absolute Value",
+                "8/12/23",
+                "Positive"
+            ],
+            [
+                "KAM vs SME",
+                "58,750 (Abs)",
+                "-21,350 Net",
+                "Net Flow Analysis",
+                "9/1/24",
+                "Neutral"
+            ],
+            [
+                "SMA vs LMB",
+                "N/A",
+                "N/C",
+                "Not Applicable",
+                "N/D",
+                "Excluded"
+            ],
+            [
+                "LBM vs SAM",
+                "33,400 (+/-)",
+                "+5,600 Delta",
+                "Reversed Order",
+                "7/15/22",
+                "Minor Shift"
+            ],
+            [
+                "SAM vs KBM",
+                "0",
+                "",
+                "Zero Baseline",
+                "",
+                "No Change"
+            ],
+            [
+                "KBM vs SLM",
+                "120,000",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

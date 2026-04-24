@@ -1,0 +1,45 @@
+{
+    "table-238-238": {
+        "title": [
+            "Molecule ID",
+            "Atom Label",
+            "Molecule Name",
+            "Carcinogenic Status",
+            "Source Database",
+            "Last Updated"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which molecule does the atom TR001_10 belong to? Please state whether this molecule is carcinogenic or not.",
+        "data": [
+            [
+                "MOL_A42",
+                "TR002_12",
+                "Benzene Derivative X",
+                "Yes",
+                "PubChem",
+                "2023-11-15"
+            ],
+            [
+                "mol_B77",
+                "TR991_05",
+                "Toluene Analog Y",
+                "No",
+                "ChEMBL",
+                "2024-06-20"
+            ],
+            [
+                "Rxn_C11",
+                "TR101_ZZ",
+                "Acrylamide Variant Z",
+                "Yes",
+                "iToxDB",
+                "2023-02-10"
+            ]
+        ]
+    }
+}

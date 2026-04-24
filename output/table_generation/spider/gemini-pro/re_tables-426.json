@@ -1,0 +1,52 @@
+{
+    "table-426-426": {
+        "title": [
+            "Contestant ID",
+            "Name",
+            "Age",
+            "City"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Contestant Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the contestants whose names are not 'Jessie Alloway'",
+        "data": [
+            [
+                "1",
+                "Alice Smith",
+                "25",
+                "New York"
+            ],
+            [
+                "2",
+                "Bob Johnson",
+                "30",
+                "Los Angeles"
+            ],
+            [
+                "3",
+                "Jessie Alloway",
+                "22",
+                "Chicago"
+            ],
+            [
+                "4",
+                "Charlie Brown",
+                "28",
+                "Houston"
+            ],
+            [
+                "5",
+                "Diana Miller",
+                "24",
+                "Phoenix"
+            ]
+        ]
+    }
+}

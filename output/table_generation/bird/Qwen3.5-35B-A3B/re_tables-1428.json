@@ -1,0 +1,62 @@
+{
+    "table-1428-1428": {
+        "title": [
+            "Event ID",
+            "Location",
+            "Budget Category",
+            "Guest Speaker Type",
+            "Amount Spent"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the budget category of the events located at MU 215 and a guest speaker type with a 0 budget spent?",
+        "data": [
+            [
+                "EVT-4012",
+                "MU 115",
+                "Training",
+                "Academic Researcher",
+                "$0.00"
+            ],
+            [
+                "EVE-4105",
+                "MU 216",
+                "Conference",
+                "Industry Expert",
+                "$1,205.50"
+            ],
+            [
+                "EVV-4209",
+                "MU 217",
+                "Workshop",
+                "Student Leader",
+                "$450.25"
+            ],
+            [
+                "EWX-4311",
+                "MU 218",
+                "Seminar",
+                "Corporate Executive",
+                "$2,100.75"
+            ],
+            [
+                "EYB-4415",
+                "MU 219",
+                "Panel Discussion",
+                "Government Official",
+                "$85,000.00"
+            ],
+            [
+                "EZC-4520",
+                "MU 220",
+                "Keynote Address",
+                "Non-Profit Director",
+                "$3,400.00"
+            ]
+        ]
+    }
+}

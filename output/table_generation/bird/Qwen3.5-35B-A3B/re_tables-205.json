@@ -1,0 +1,45 @@
+{
+    "table-205-205": {
+        "title": [
+            "Molecule ID",
+            "Name",
+            "Carcinogen Status",
+            "Source Category",
+            "Risk Level",
+            "Last Verified Date"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Of the first 100 molecules in number order, how many are carcinogenic?",
+        "data": [
+            [
+                "MOL_004",
+                "Benzene",
+                "Yes",
+                "Industrial Solvent",
+                "High",
+                "2023-11-15"
+            ],
+            [
+                "MOL_12",
+                "Aflatoxin B1",
+                "Yes",
+                "Mycotoxin",
+                "Critical",
+                "2204-06-30"
+            ],
+            [
+                "MOL_27",
+                "Asbestos Fiber Type A",
+                "Yes",
+                "Mineral Fibers",
+                "Severe",
+                "2190-01-05"
+            ]
+        ]
+    }
+}

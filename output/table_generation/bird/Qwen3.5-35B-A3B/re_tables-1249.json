@@ -1,0 +1,83 @@
+{
+    "table-1249-1249": {
+        "title": [
+            "Patient ID",
+            "Date of Birth",
+            "Fibrinogen Level (mg/dL)",
+            "Status",
+            "Abnormal Flag"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 9,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients born after 1980/1/1 have an abnormal fibrinogen level?",
+        "data": [
+            [
+                "P-1042",
+                "76",
+                "Normal",
+                "No",
+                ""
+            ],
+            [
+                "P-A891",
+                "82",
+                "High",
+                "Yes",
+                ""
+            ],
+            [
+                "B-3301",
+                "78",
+                "Low",
+                "Yes",
+                ""
+            ],
+            [
+                "C-5512",
+                "85",
+                "Normal",
+                "No",
+                ""
+            ],
+            [
+                "D-9921",
+                "81",
+                "High",
+                "Yes",
+                ""
+            ],
+            [
+                "E-1102",
+                "79",
+                "Normal",
+                "No",
+                ""
+            ],
+            [
+                "F-4433",
+                "83",
+                "Low",
+                "Yes",
+                ""
+            ],
+            [
+                "G-7721",
+                "80",
+                "Normal",
+                "No",
+                ""
+            ],
+            [
+                "H-2210",
+                "84",
+                "High",
+                "Yes",
+                ""
+            ]
+        ]
+    }
+}

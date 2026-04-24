@@ -1,0 +1,39 @@
+{
+    "table-1033-1033": {
+        "title": [
+            "League Name",
+            "Matches Played"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "League Match Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the name of the league with the highest matches of all time and how many matches were played in the said league.",
+        "data": [
+            [
+                "Premier League",
+                "10000"
+            ],
+            [
+                "La Liga",
+                "9500"
+            ],
+            [
+                "Serie A",
+                "9000"
+            ],
+            [
+                "Bundesliga",
+                "8500"
+            ],
+            [
+                "Ligue 1",
+                "8000"
+            ]
+        ]
+    }
+}

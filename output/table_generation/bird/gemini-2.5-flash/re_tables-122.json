@@ -1,0 +1,53 @@
+{
+    "table-122-122": {
+        "title": [
+            "Account ID",
+            "Opening Date",
+            "Branch Location"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List account ID and account opening date for accounts from 'Prachatice'.",
+        "data": [
+            [
+                "10012345",
+                "2021-03-15",
+                "Prachatice"
+            ],
+            [
+                "10012346",
+                "2022-01-20",
+                "Prachatice"
+            ],
+            [
+                "10012347",
+                "2020-11-01",
+                "Prachatice"
+            ],
+            [
+                "10012348",
+                "2023-06-10",
+                "Ceske Budejovice"
+            ],
+            [
+                "10012349",
+                "2021-09-25",
+                "Prachatice"
+            ],
+            [
+                "10012350",
+                "2022-04-18",
+                "Pisek"
+            ],
+            [
+                "10012351",
+                "2023-02-07",
+                "Prachatice"
+            ]
+        ]
+    }
+}

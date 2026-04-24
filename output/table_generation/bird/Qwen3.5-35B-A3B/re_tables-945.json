@@ -1,0 +1,69 @@
+{
+    "table-945-945": {
+        "title": [
+            "Driver Position",
+            "Driver Name",
+            "Total Time",
+            "Gap to Leader (%)",
+            "Race Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much faster in percentage is the champion than the driver who finished the race last in the 2008 Australian Grand Prix?",
+        "data": [
+            [
+                "Champion",
+                "Lewis Hamilton",
+                "46m 17s",
+                "N/A",
+                "Finished"
+            ],
+            [
+                "Last Place",
+                "Robert Kubica",
+                "52m 45s",
+                "+13.8%",
+                "Finished"
+            ],
+            [
+                "Runner-up",
+                "Felipe Massa",
+                "3h 02m",
+                "-1.2%",
+                "DNF"
+            ],
+            [
+                "Third Place",
+                "Kimi R\u00e4ikk\u00f6nen",
+                "0h 31m",
+                "+0.5%",
+                "Retired"
+            ],
+            [
+                "Fourth Place",
+                "Fernando Alonso",
+                "62m / 10 laps",
+                "+2.1%",
+                "Completed"
+            ],
+            [
+                "Fifth Place",
+                "Nick Heidfeld",
+                "78m / Full distance",
+                "+4.3%",
+                "Abandoned"
+            ],
+            [
+                "Sixth Place",
+                "Jarno Trulli",
+                "94m / Partial lap",
+                "+6.7%",
+                "Disqualified"
+            ]
+        ]
+    }
+}

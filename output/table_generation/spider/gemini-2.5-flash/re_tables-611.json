@@ -1,0 +1,77 @@
+{
+    "table-611-611": {
+        "title": [
+            "Professional ID",
+            "Name",
+            "Specialty",
+            "Years Experience",
+            "Treated Dogs",
+            "Clinic City"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the number of professionals who have ever treated dogs.",
+        "data": [
+            [
+                "VET001",
+                "Dr. Emily White",
+                "Veterinarian",
+                "12",
+                "Yes",
+                "Seattle"
+            ],
+            [
+                "VET002",
+                "John Smith",
+                "Vet Technician",
+                "7",
+                "Yes",
+                "Portland"
+            ],
+            [
+                "VET003",
+                "Dr. Sarah Lee",
+                "Animal Behaviorist",
+                "9",
+                "Yes",
+                "Denver"
+            ],
+            [
+                "VET004",
+                "Mark Johnson",
+                "Pet Groomer",
+                "15",
+                "No",
+                "Austin"
+            ],
+            [
+                "VET005",
+                "Dr. Alex Chen",
+                "Veterinary Surgeon",
+                "18",
+                "Yes",
+                "New York"
+            ],
+            [
+                "VET006",
+                "Lisa Brown",
+                "Vet Assistant",
+                "3",
+                "Yes",
+                "Miami"
+            ],
+            [
+                "VET007",
+                "Dr. David Green",
+                "Equine Veterinarian",
+                "20",
+                "No",
+                "Lexington"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-534-534": {
+        "title": [
+            "User ID",
+            "Last Access Date"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Website User Last Access Dates",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users last accessed the website after 2014/9/1?",
+        "data": [
+            [
+                "123",
+                "2015-03-10"
+            ],
+            [
+                "456",
+                "2014-08-22"
+            ],
+            [
+                "789",
+                "2016-11-05"
+            ],
+            [
+                "101",
+                "2015-06-18"
+            ],
+            [
+                "202",
+                "2017-01-01"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-326-326": {
+        "title": [
+            "Transcript ID",
+            "Printing Date"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Transcript Printing Dates",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "On average, when were the transcripts printed?",
+        "data": [
+            [
+                "12345",
+                "2023-03-15"
+            ],
+            [
+                "67890",
+                "2022-11-20"
+            ],
+            [
+                "24680",
+                "2023-07-01"
+            ],
+            [
+                "13579",
+                "2022-09-10"
+            ],
+            [
+                "98765",
+                "2023-05-22"
+            ]
+        ]
+    }
+}

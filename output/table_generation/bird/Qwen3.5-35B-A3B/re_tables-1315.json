@@ -1,0 +1,62 @@
+{
+    "table-1315-1315": {
+        "title": [
+            "Full_Name",
+            "Department",
+            "Club_Membership_Status",
+            "Enrollment_Year",
+            "GPA"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the full names of the students in the Student_Club that come from the Art and Design Department.",
+        "data": [
+            [
+                "Alice Chen",
+                "Art and Design",
+                "Active",
+                "4",
+                "3.75"
+            ],
+            [
+                "Benjamin Ross",
+                "Art and Design",
+                "Inactive",
+                "6",
+                "N/A"
+            ],
+            [
+                "Chloe Kim",
+                "Art and Design",
+                "Probationary",
+                "5",
+                "0.0"
+            ],
+            [
+                "David O'Neil",
+                "Art and Design",
+                "Active",
+                "3",
+                "8.2"
+            ],
+            [
+                "Elena Rodriguez",
+                "Art and Design",
+                "Suspended",
+                "7",
+                "9.1"
+            ],
+            [
+                "Felix Wu",
+                "Art and Design",
+                "Pending Review",
+                "2",
+                "N/A"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "table-542-542": {
+        "title": [
+            "Conductor Name",
+            "Orchestra Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Conductor-Orchestra Relationships",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the names of conductors and the orchestras they have conducted.",
+        "data": [
+            [
+                "Leonard Bernstein",
+                "New York Philharmonic"
+            ],
+            [
+                "Herbert von Karajan",
+                "Berlin Philharmonic"
+            ],
+            [
+                "Georg Solti",
+                "Chicago Symphony Orchestra"
+            ],
+            [
+                "Claudio Abbado",
+                "Vienna Philharmonic"
+            ],
+            [
+                "Lorin Maazel",
+                "Cleveland Orchestra"
+            ]
+        ]
+    }
+}

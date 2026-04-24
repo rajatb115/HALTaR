@@ -1,0 +1,69 @@
+{
+    "table-979-979": {
+        "title": [
+            "Circuit Name",
+            "City",
+            "State/Region",
+            "Latitude",
+            "Longitude",
+            "Major Events Held"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many times the circuits were held in Austria? Please give their location and coordinates.",
+        "data": [
+            [
+                "Red Bull Ring",
+                "Spielberg",
+                "Styria",
+                "47.219722",
+                "14.764722",
+                "15"
+            ],
+            [
+                "A1-Ring",
+                "Spielberg",
+                "Styria",
+                "47.219722",
+                "14.764722",
+                "10"
+            ],
+            [
+                "\u00d6sterreichring",
+                "Spielberg",
+                "Styria",
+                "47.219722",
+                "14.764722",
+                "12"
+            ],
+            [
+                "Salzburgring",
+                "Plainfeld",
+                "Salzburg",
+                "47.823333",
+                "13.166667",
+                "20"
+            ],
+            [
+                "Wachauring",
+                "Melk",
+                "Lower Austria",
+                "48.200000",
+                "15.333333",
+                "8"
+            ],
+            [
+                "PS Racing Center Greinbach",
+                "Greinbach",
+                "Styria",
+                "47.300000",
+                "15.900000",
+                "5"
+            ]
+        ]
+    }
+}

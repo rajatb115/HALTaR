@@ -1,0 +1,37 @@
+{
+    "table-63-63": {
+        "title": [
+            "School Name",
+            "School District",
+            "Charter Status",
+            "Grades Served",
+            "Enrollment (K-12)",
+            "Free Meal Eligibility (%)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total number of non-chartered schools in the county of Los Angeles with a percent (%) of eligible free meals for grades 1 through 12 that is less than 0.18%?",
+        "data": [
+            [
+                "Oakwood Elementary",
+                "Pasadena USD",
+                "Non-Chartered",
+                "K-5",
+                "450",
+                "16.5%"
+            ],
+            [
+                "Maplewood Middle School",
+                "Santa Monica-Malibu",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

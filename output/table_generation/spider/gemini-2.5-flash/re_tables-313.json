@@ -1,0 +1,61 @@
+{
+    "table-313-313": {
+        "title": [
+            "Semester Name",
+            "Academic Year",
+            "Students Enrolled",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the name of the semester with no students enrolled?",
+        "data": [
+            [
+                "Fall 2023",
+                "2023-2024",
+                "1542",
+                "Completed"
+            ],
+            [
+                "Spring 2024",
+                "2023-2024",
+                "1289",
+                "Active"
+            ],
+            [
+                "Summer 2024",
+                "2023-2024",
+                "451",
+                "Active"
+            ],
+            [
+                "Fall 2024",
+                "2024-2025",
+                "0",
+                "Canceled"
+            ],
+            [
+                "Spring 2025",
+                "2024-2025",
+                "1320",
+                "Planned"
+            ],
+            [
+                "Summer 2025",
+                "2024-2025",
+                "510",
+                "Planned"
+            ],
+            [
+                "Winter 2024",
+                "2023-2024",
+                "150",
+                "Completed"
+            ]
+        ]
+    }
+}

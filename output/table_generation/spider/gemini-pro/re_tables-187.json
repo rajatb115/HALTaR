@@ -1,0 +1,45 @@
+{
+    "table-187-187": {
+        "title": [
+            "Document Name",
+            "Template Name",
+            "Template Type Code"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Document Templates Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the template type code of the template that is used by a document named Data base.",
+        "data": [
+            [
+                "Data base",
+                "Template A",
+                "100"
+            ],
+            [
+                "Document B",
+                "Template B",
+                "200"
+            ],
+            [
+                "Document C",
+                "Template A",
+                "100"
+            ],
+            [
+                "Document D",
+                "Template C",
+                "300"
+            ],
+            [
+                "Document E",
+                "Template B",
+                "200"
+            ]
+        ]
+    }
+}

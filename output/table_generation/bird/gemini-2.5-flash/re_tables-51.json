@@ -1,0 +1,77 @@
+{
+    "table-51-51": {
+        "title": [
+            "School Name",
+            "Math Average Score",
+            "Street Address",
+            "City",
+            "State",
+            "Postal Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the postal street address for the school with the 6th highest Math average? Indicate the school's name.",
+        "data": [
+            [
+                "Eastside Prep",
+                "92.1",
+                "45 Elm St",
+                "Capital City",
+                "CA",
+                "90210"
+            ],
+            [
+                "Southridge School",
+                "90.7",
+                "101 Maple Dr",
+                "Lakeside",
+                "TX",
+                "75001"
+            ],
+            [
+                "Green Valley HS",
+                "89.3",
+                "303 Cedar Blvd",
+                "Mountain View",
+                "CO",
+                "80302"
+            ],
+            [
+                "Northwood High",
+                "88.5",
+                "123 Oak Ave",
+                "Springfield",
+                "IL",
+                "62704"
+            ],
+            [
+                "Central High",
+                "87.9",
+                "202 Birch Rd",
+                "Rivertown",
+                "FL",
+                "33101"
+            ],
+            [
+                "Lakeside Charter",
+                "86.5",
+                "404 Willow Way",
+                "Oceanfront",
+                "WA",
+                "98101"
+            ],
+            [
+                "Westview Academy",
+                "85.2",
+                "789 Pine Ln",
+                "Metroville",
+                "NY",
+                "10001"
+            ]
+        ]
+    }
+}

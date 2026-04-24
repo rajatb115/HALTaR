@@ -1,0 +1,77 @@
+{
+    "table-1024-1024": {
+        "title": [
+            "Player Name",
+            "Overall Rating",
+            "Primary Position",
+            "Attacking Work Rate",
+            "Defensive Work Rate",
+            "Role Focus"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the players with an overall rating between 60 to 65, how many players whose going to be in all of your attack moves instead of defensing?",
+        "data": [
+            [
+                "J. Smith",
+                "62",
+                "ST",
+                "High",
+                "Low",
+                "Attacker"
+            ],
+            [
+                "M. Garcia",
+                "64",
+                "LW",
+                "High",
+                "Medium",
+                "Attacker"
+            ],
+            [
+                "L. Kim",
+                "60",
+                "RW",
+                "High",
+                "Low",
+                "Attacker"
+            ],
+            [
+                "D. M\u00fcller",
+                "63",
+                "CAM",
+                "High",
+                "Medium",
+                "Attacker"
+            ],
+            [
+                "P. Jones",
+                "61",
+                "CM",
+                "Medium",
+                "Medium",
+                "Balanced"
+            ],
+            [
+                "A. Rossi",
+                "65",
+                "CF",
+                "High",
+                "Low",
+                "Attacker"
+            ],
+            [
+                "S. Khan",
+                "60",
+                "CDM",
+                "Medium",
+                "High",
+                "Defender"
+            ]
+        ]
+    }
+}

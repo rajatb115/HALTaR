@@ -1,0 +1,43 @@
+{
+    "table-1320-1320": {
+        "title": [
+            "Student Name",
+            "Club Role",
+            "College"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Student Club Roster",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which college is the vice president of the Student_Club from?",
+        "data": [
+            [
+                "John Smith",
+                "President",
+                "Arts & Sciences"
+            ],
+            [
+                "Alice Brown",
+                "Vice President",
+                "Engineering"
+            ],
+            [
+                "David Lee",
+                "Treasurer",
+                "Business"
+            ],
+            [
+                "Emily White",
+                "Secretary",
+                "Education"
+            ],
+            [
+                "Sarah Green",
+                "Member",
+                "Law"
+            ]
+        ]
+    }
+}

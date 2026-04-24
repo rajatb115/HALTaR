@@ -1,0 +1,61 @@
+{
+    "table-230-230": {
+        "title": [
+            "Visitor_Name",
+            "Membership_Level",
+            "Age",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the name and membership level of the visitors whose membership level is higher than 4, and sort by their age from old to young.",
+        "data": [
+            [
+                "Arthur Pendragon",
+                "Platinum",
+                "72",
+                "Active"
+            ],
+            [
+                "Elena Rossi",
+                "Gold",
+                "68",
+                "Inactive"
+            ],
+            [
+                "Marcus Thorne",
+                "Diamond",
+                "55",
+                "Active"
+            ],
+            [
+                "Sarah Jenkins",
+                "Silver",
+                "42",
+                "Pending"
+            ],
+            [
+                "David Chen",
+                "Platinum",
+                "38",
+                "Active"
+            ],
+            [
+                "Liam O'Connor",
+                "Gold",
+                "29",
+                "Inactive"
+            ],
+            [
+                "Sophia Martinez",
+                "Diamond",
+                "24",
+                "Active"
+            ]
+        ]
+    }
+}

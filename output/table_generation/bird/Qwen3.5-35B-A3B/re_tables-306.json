@@ -1,0 +1,45 @@
+{
+    "table-306-306": {
+        "title": [
+            "Molecule ID",
+            "Bond Type",
+            "Atom 1",
+            "Atom Index 1",
+            "Atom 2",
+            "Atom Index 2"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name all bonds with single bond types and what atoms are connected to the molecules.",
+        "data": [
+            [
+                "MOL_004",
+                "Single",
+                "Carbon",
+                "C1",
+                "Oxygen",
+                "O2"
+            ],
+            [
+                "MOL_017",
+                "Single",
+                "Nitrogen",
+                "N1",
+                "Hydrogen",
+                "H3"
+            ],
+            [
+                "MOL_023",
+                "Single",
+                "Sulfur",
+                "S1",
+                "Phosphorus",
+                "P2"
+            ]
+        ]
+    }
+}

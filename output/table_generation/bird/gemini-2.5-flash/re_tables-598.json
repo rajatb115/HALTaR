@@ -1,0 +1,69 @@
+{
+    "table-598-598": {
+        "title": [
+            "Country",
+            "User Role",
+            "Badge Type",
+            "Users with Badge",
+            "Total Users in Country"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many users from India have the teacher badges?",
+        "data": [
+            [
+                "India",
+                "Teacher",
+                "Teacher",
+                "1520",
+                "15000"
+            ],
+            [
+                "USA",
+                "Teacher",
+                "Educator",
+                "850",
+                "22000"
+            ],
+            [
+                "India",
+                "Student",
+                "Learner",
+                "12800",
+                "15000"
+            ],
+            [
+                "UK",
+                "Teacher",
+                "Teacher",
+                "210",
+                "5500"
+            ],
+            [
+                "Canada",
+                "Admin",
+                "Moderator",
+                "65",
+                "8200"
+            ],
+            [
+                "India",
+                "Teacher",
+                "Mentor",
+                "310",
+                "15000"
+            ],
+            [
+                "Australia",
+                "Teacher",
+                "Teacher",
+                "730",
+                "11000"
+            ]
+        ]
+    }
+}

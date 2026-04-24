@@ -1,0 +1,45 @@
+{
+    "table-337-337": {
+        "title": [
+            "Molecule Name",
+            "Triple Bonds",
+            "Carcinogenic"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Carcinogenicity of Molecules with Triple Bonds",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "in molecules with triple bonds, how many of them are not carcinogenic?",
+        "data": [
+            [
+                "Acetylene",
+                "1",
+                "No"
+            ],
+            [
+                "Propyne",
+                "1",
+                "No"
+            ],
+            [
+                "Cyanoacetylene",
+                "1",
+                "No"
+            ],
+            [
+                "Diacetylene",
+                "2",
+                "No"
+            ],
+            [
+                "Benzyne",
+                "1",
+                "Yes"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "table-555-555": {
+        "title": [
+            "Student Name",
+            "Grade"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Student Grades",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the grade for the high schooler named Kyle.",
+        "data": [
+            [
+                "Kyle",
+                "11"
+            ],
+            [
+                "Sarah",
+                "9"
+            ],
+            [
+                "David",
+                "12"
+            ],
+            [
+                "Emily",
+                "10"
+            ],
+            [
+                "Michael",
+                "11"
+            ]
+        ]
+    }
+}

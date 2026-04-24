@@ -1,0 +1,61 @@
+{
+    "table-541-541": {
+        "title": [
+            "Post Title",
+            "Owner Username",
+            "Popularity Score",
+            "Creation Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the title of the post that is owned by csgillespie and has the highest popularity?",
+        "data": [
+            [
+                "The Future of AI in Data Analysis",
+                "csgillespie",
+                "2540",
+                "2023-03-15"
+            ],
+            [
+                "Understanding Quantum Computing Basics",
+                "johndoe",
+                "1890",
+                "2022-11-01"
+            ],
+            [
+                "Advanced SQL Techniques for Big Data",
+                "csgillespie",
+                "3120",
+                "2023-05-20"
+            ],
+            [
+                "Machine Learning Model Deployment",
+                "janedoe",
+                "2200",
+                "2023-02-10"
+            ],
+            [
+                "Data Visualization Best Practices",
+                "csgillespie",
+                "1980",
+                "2022-12-05"
+            ],
+            [
+                "Cloud Computing Security Challenges",
+                "peterpan",
+                "3500",
+                "2023-04-01"
+            ],
+            [
+                "Ethical AI in Practice",
+                "csgillespie",
+                "2870",
+                "2023-01-25"
+            ]
+        ]
+    }
+}

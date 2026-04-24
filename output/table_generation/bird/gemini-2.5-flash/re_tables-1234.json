@@ -1,0 +1,48 @@
+{
+    "table-1234-1234": {
+        "title": [
+            "Patient ID",
+            "Blood Glucose (mg/dL)",
+            "First Recorded Year"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List each patient's ID and blood glucose (GLU) index that were within normal range for patient's whose data was first recorded in 1991.",
+        "data": [
+            [
+                "P1991001",
+                "92",
+                "1991"
+            ],
+            [
+                "P1991002",
+                "105",
+                "1991"
+            ],
+            [
+                "P1991003",
+                "88",
+                "1991"
+            ],
+            [
+                "P1991004",
+                "112",
+                "1991"
+            ],
+            [
+                "P1991005",
+                "97",
+                "1991"
+            ],
+            [
+                "P1991006",
+                "101",
+                "1991"
+            ]
+        ]
+    }
+}

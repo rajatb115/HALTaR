@@ -1,0 +1,62 @@
+{
+    "table-1477-1477": {
+        "title": [
+            "Year",
+            "Payment Currency",
+            "Customer Segment",
+            "Total Gas Consumption (m\u00b3)",
+            "Number of Customers"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the difference in gas consumption between CZK-paying customers and EUR-paying customers in 2012?",
+        "data": [
+            [
+                "2012",
+                "CZK",
+                "Residential",
+                "12500000",
+                "5000"
+            ],
+            [
+                "2012",
+                "CZK",
+                "Commercial",
+                "8500000",
+                "350"
+            ],
+            [
+                "2012",
+                "EUR",
+                "Residential",
+                "18000000",
+                "6000"
+            ],
+            [
+                "2012",
+                "EUR",
+                "Commercial",
+                "11000000",
+                "400"
+            ],
+            [
+                "2011",
+                "CZK",
+                "Residential",
+                "12000000",
+                "4900"
+            ],
+            [
+                "2011",
+                "EUR",
+                "Residential",
+                "17500000",
+                "5900"
+            ]
+        ]
+    }
+}

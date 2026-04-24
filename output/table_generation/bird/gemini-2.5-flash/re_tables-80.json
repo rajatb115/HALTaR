@@ -1,0 +1,69 @@
+{
+    "table-80-80": {
+        "title": [
+            "County",
+            "Total Online Schools",
+            "Avg. Student Enrollment",
+            "Largest Online School",
+            "Year Data Updated"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Between San Diego and Santa Barbara, which county offers the most number of schools that does not offer physical building? Indicate the amount.",
+        "data": [
+            [
+                "San Diego",
+                "18",
+                "410",
+                "SD Virtual Academy",
+                "2023"
+            ],
+            [
+                "Orange",
+                "15",
+                "450",
+                "OC Digital Learning",
+                "2023"
+            ],
+            [
+                "Los Angeles",
+                "32",
+                "550",
+                "LA Cyber School",
+                "2023"
+            ],
+            [
+                "Ventura",
+                "8",
+                "300",
+                "Ventura Online Prep",
+                "2023"
+            ],
+            [
+                "Santa Barbara",
+                "6",
+                "280",
+                "SB Virtual High",
+                "2023"
+            ],
+            [
+                "Riverside",
+                "10",
+                "380",
+                "Riverside eSchool",
+                "2023"
+            ],
+            [
+                "San Bernardino",
+                "11",
+                "370",
+                "SB Digital Campus",
+                "2023"
+            ]
+        ]
+    }
+}

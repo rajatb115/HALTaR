@@ -1,0 +1,55 @@
+{
+    "table-58-58": {
+        "title": [
+            "Student ID",
+            "Age",
+            "Has Pet",
+            "Enrollment Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average age of students who do not have any pet .",
+        "data": [
+            [
+                "S1042",
+                "67",
+                "No",
+                "Active"
+            ],
+            [
+                "S1055",
+                "72",
+                "No",
+                "Inactive"
+            ],
+            [
+                "S1089",
+                "59",
+                "No",
+                "Active"
+            ],
+            [
+                "S1102",
+                "64",
+                "No",
+                "Active"
+            ],
+            [
+                "S1115",
+                "70",
+                "No",
+                "Inactive"
+            ],
+            [
+                "S1203",
+                "81",
+                "No",
+                "Active"
+            ]
+        ]
+    }
+}

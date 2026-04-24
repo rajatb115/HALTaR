@@ -1,0 +1,61 @@
+{
+    "table-1447-1447": {
+        "title": [
+            "Zip Code",
+            "Type",
+            "City",
+            "State"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the percentage of zip codes that are PO boxes.",
+        "data": [
+            [
+                "90210",
+                "Standard",
+                "Beverly Hills",
+                "CA"
+            ],
+            [
+                "10001",
+                "Standard",
+                "New York",
+                "NY"
+            ],
+            [
+                "02108",
+                "PO Box",
+                "Boston",
+                "MA"
+            ],
+            [
+                "75201",
+                "Standard",
+                "Dallas",
+                "TX"
+            ],
+            [
+                "60606",
+                "PO Box",
+                "Chicago",
+                "IL"
+            ],
+            [
+                "30303",
+                "Standard",
+                "Atlanta",
+                "GA"
+            ],
+            [
+                "98101",
+                "Standard",
+                "Seattle",
+                "WA"
+            ]
+        ]
+    }
+}

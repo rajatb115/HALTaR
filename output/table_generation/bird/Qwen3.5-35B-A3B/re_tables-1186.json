@@ -1,0 +1,76 @@
+{
+    "table-1186-1186": {
+        "title": [
+            "Patient ID",
+            "Birth Date",
+            "Month",
+            "Total Cholesterol (mg/dL)",
+            "Previous Value (mg/mL)",
+            "Decrease Rate (%)",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patient who was born on 1959/2/18, what is the decrease rate for his/her total cholesterol from November to December in 1981?",
+        "data": [
+            [
+                "P-7492",
+                "02/06/1960",
+                "October",
+                "45",
+                "N/A",
+                "-",
+                "Pending Review"
+            ],
+            [
+                "P-7501",
+                "02//19/160",
+                "November",
+                "210",
+                "225",
+                "-6.67",
+                "Active Monitoring"
+            ],
+            [
+                "P-**74**92",
+                "06/**02**/1**95**9",
+                "December",
+                "19**",
+                "21**0**-10.00",
+                "Stable Condition",
+                ""
+            ],
+            [
+                "P-*7*493",
+                "03/*0*/19*5*9",
+                "January",
+                "205",
+                "180",
+                "+13.89",
+                "Fluctuation Detected"
+            ],
+            [
+                "P*-74*92*",
+                "*02/*/19**5*",
+                "February",
+                "1*9*0",
+                "1**8*5",
+                "-2.63",
+                "Maintenance Phase"
+            ],
+            [
+                "P*-*74***9*2",
+                "*19****5*/*02*/*18",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

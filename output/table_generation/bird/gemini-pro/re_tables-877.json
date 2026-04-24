@@ -1,0 +1,43 @@
+{
+    "table-877-877": {
+        "title": [
+            "Driver Name",
+            "Finishing Position",
+            "Completion Status"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Race Results Overview",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the race happened in 2015/11/29, how many drivers finished the game?",
+        "data": [
+            [
+                "Driver A",
+                "1",
+                "Finished"
+            ],
+            [
+                "Driver B",
+                "2",
+                "Finished"
+            ],
+            [
+                "Driver C",
+                "3",
+                "Finished"
+            ],
+            [
+                "Driver D",
+                "4",
+                "Finished"
+            ],
+            [
+                "Driver E",
+                "DNF",
+                "Not Finished"
+            ]
+        ]
+    }
+}

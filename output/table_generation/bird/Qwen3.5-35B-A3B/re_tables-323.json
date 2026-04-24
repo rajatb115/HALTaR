@@ -1,0 +1,76 @@
+{
+    "table-323-323": {
+        "title": [
+            "Atom_ID",
+            "Element_Name",
+            "Toxicity_Class",
+            "LD50_Mg_Kg",
+            "Exposure_Route",
+            "CAS_Number",
+            "Safety_Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the element of toxicology for the atom with the ID of TR000_1?",
+        "data": [
+            [
+                "TR004_Arsenic",
+                "Arsenic",
+                "Carcinogen",
+                "67",
+                "Inhalation",
+                "7440-38-2",
+                "Restricted"
+            ],
+            [
+                "TR102_Cadmium",
+                "Cadmium",
+                "Reprotoxicant",
+                "50",
+                "Ingestion",
+                "443-98-1",
+                "High Risk"
+            ],
+            [
+                "TR205_Chromium",
+                "Chromium VI",
+                "Mutagen",
+                "30",
+                "Dermal Contact",
+                "89500-00-X",
+                "Prohibited"
+            ],
+            [
+                "TR301_Beryllium",
+                "Beryllium",
+                "Sensitizer",
+                "90",
+                "Inhalation",
+                "7439-09-8",
+                "Controlled"
+            ],
+            [
+                "TR408_Selenium",
+                "Selenium",
+                "Teratogen",
+                "N/A",
+                "Oral Intake",
+                "7782-49-2",
+                "Monitored"
+            ],
+            [
+                "TR512_Tellurium",
+                "Tellurium",
+                "Irritant",
+                "N/A",
+                "Skin Absorption",
+                "",
+                ""
+            ]
+        ]
+    }
+}

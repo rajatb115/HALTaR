@@ -1,0 +1,61 @@
+{
+    "table-836-836": {
+        "title": [
+            "Superhero Name",
+            "Alignment Status",
+            "Affiliation",
+            "First Appearance Year",
+            "Total Appearances",
+            "Good Percentage Contribution"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all superheroes in Marvel Comics, identify the percentage of 'good' superheroes.",
+        "data": [
+            [
+                "Spider-Man",
+                "Heroic",
+                "Avengers",
+                "1964",
+                "7500+",
+                "64%"
+            ],
+            [
+                "Captain America",
+                "Heroic",
+                "S.H.I.E.L.D.",
+                "1941",
+                "N/A",
+                "41%"
+            ],
+            [
+                "Thor",
+                "Heroic",
+                "Asgardians",
+                "1962",
+                "N/A",
+                "58%"
+            ],
+            [
+                "Black Widow",
+                "Anti-Hero",
+                "Avengers Initiative",
+                "1964",
+                "N/A",
+                "84%"
+            ],
+            [
+                "Iron Man",
+                "Heroic",
+                "Stark Industries",
+                "1963",
+                "N/A",
+                "92%"
+            ]
+        ]
+    }
+}

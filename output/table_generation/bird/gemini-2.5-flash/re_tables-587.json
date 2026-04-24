@@ -1,0 +1,69 @@
+{
+    "table-587-587": {
+        "title": [
+            "User Name",
+            "Post Title",
+            "Bounty Amount",
+            "Bounty Date",
+            "Post ID"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which user added a bounty amount of 50 to the post title mentioning variance?",
+        "data": [
+            [
+                "Alice Smith",
+                "Understanding Variance in Data Sets",
+                "50",
+                "2023-10-26",
+                "1001"
+            ],
+            [
+                "Bob Johnson",
+                "Calculating Standard Deviation",
+                "25",
+                "2023-10-25",
+                "1002"
+            ],
+            [
+                "Charlie Brown",
+                "ANOVA Explained",
+                "75",
+                "2023-10-24",
+                "1003"
+            ],
+            [
+                "David Lee",
+                "Regression Analysis Basics",
+                "100",
+                "2023-10-23",
+                "1004"
+            ],
+            [
+                "Eve Davis",
+                "Time Series Forecasting",
+                "30",
+                "2023-10-22",
+                "1005"
+            ],
+            [
+                "Frank White",
+                "Hypothesis Testing Fundamentals",
+                "40",
+                "2023-10-21",
+                "1006"
+            ],
+            [
+                "Grace Taylor",
+                "Probability Distributions",
+                "60",
+                "2023-10-20",
+                "1007"
+            ]
+        ]
+    }
+}

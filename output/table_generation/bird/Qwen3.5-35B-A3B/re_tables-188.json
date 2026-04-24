@@ -1,0 +1,76 @@
+{
+    "table-188-188": {
+        "title": [
+            "Client ID",
+            "Issuance Frequency",
+            "Account Role",
+            "Status",
+            "Region"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many clients who choose statement of weekly issuance are User?",
+        "data": [
+            [
+                "CUST_1042",
+                "Weekly",
+                "User",
+                "Active",
+                "North America"
+            ],
+            [
+                "CULT_2098",
+                "Weekly",
+                "Admin",
+                "Inactive",
+                "Europe"
+            ],
+            [
+                "CIST_3371",
+                "Monthly",
+                "User",
+                "Pending",
+                "Asia Pacific"
+            ],
+            [
+                "DAST_4456",
+                "Weekly",
+                "Reviewer",
+                "Suspended",
+                "South America"
+            ],
+            [
+                "EEST_5512",
+                "Daily",
+                "User",
+                "Verified",
+                "Africa"
+            ],
+            [
+                "FIFT_6623",
+                "Weekly",
+                "Editor",
+                "Expired",
+                "Oceania"
+            ],
+            [
+                "GJST_7734",
+                "Weekly",
+                "Support",
+                "Active - Trial",
+                "Middle East"
+            ],
+            [
+                "HKST_8845",
+                "Bi-weekly",
+                "User",
+                "Standard",
+                "North America"
+            ]
+        ]
+    }
+}

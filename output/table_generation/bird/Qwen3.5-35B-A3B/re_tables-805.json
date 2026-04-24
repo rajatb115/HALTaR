@@ -1,0 +1,94 @@
+{
+    "table-805-805": {
+        "title": [
+            "Superhero_ID",
+            "Name",
+            "Real_Name",
+            "Affiliation",
+            "First_Appearance_Year",
+            "Power_Level",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the name of superhero with superhero ID 294.",
+        "data": [
+            [
+                "289",
+                "Iron Man",
+                "Tony Stark",
+                "Avengers",
+                "67",
+                "High",
+                "Active"
+            ],
+            [
+                "290",
+                "Captain America",
+                "Steve Rogers",
+                "Avengers / S.H.I.E.L.D.",
+                "41",
+                "High/Max",
+                "Active"
+            ],
+            [
+                "291",
+                "Thor Odinson",
+                "Thor",
+                "Asgardians",
+                "50",
+                "Max",
+                "Active"
+            ],
+            [
+                "288",
+                "Spider-Man",
+                "Peter Parker",
+                "Avengers/Friendly Neighborhood",
+                "70",
+                "High",
+                "Active"
+            ],
+            [
+                "292",
+                "Black Widow",
+                "Natasha Romanoff",
+                "Avengers/S.H.I.E.L.D.",
+                "64",
+                "High",
+                "Retired"
+            ],
+            [
+                "293",
+                "Hulk",
+                "Bruce Banner",
+                "Avenger",
+                "62",
+                "Max",
+                "Active"
+            ],
+            [
+                "295",
+                "Doctor Strange",
+                "Stephen Strange",
+                "Masters of Mystic Arts",
+                "63",
+                "Max",
+                "Active"
+            ],
+            [
+                "294",
+                "Scarlet Witch",
+                "Wanda Maximoff",
+                "Avengers",
+                "64",
+                "Max",
+                "Active"
+            ]
+        ]
+    }
+}

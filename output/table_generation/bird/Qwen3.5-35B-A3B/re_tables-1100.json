@@ -1,0 +1,63 @@
+{
+    "table-1100-1100": {
+        "title": [
+            "Player Name",
+            "Preferred Foot",
+            "Position",
+            "Nationality",
+            "Club Status",
+            "Match Usage Rate",
+            "Injury History",
+            "Last Updated"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which foot is preferred by Abdou Diallo?",
+        "data": [
+            [
+                "Abdou Diallo",
+                "Right",
+                "Defender",
+                "Senegal",
+                "Active",
+                "High",
+                "None reported",
+                "6/4/2024"
+            ],
+            [
+                "Sadio Man\u00e9",
+                "Left",
+                "Forward",
+                "Senegal",
+                "Retired",
+                "N/A",
+                "Ankle strain",
+                "7/1/2022"
+            ],
+            [
+                "Kalidou Koulibaly",
+                "Right",
+                "Center Back",
+                "Senegal",
+                "Active",
+                "Medium",
+                "Knee issue",
+                "5/15/2023"
+            ],
+            [
+                "Ismaila Sarr",
+                "Right",
+                "Winger",
+                "Senegal",
+                "Injured",
+                "N/A",
+                "Hamstring tear",
+                "8/2/2024"
+            ]
+        ]
+    }
+}

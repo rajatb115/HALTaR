@@ -1,0 +1,77 @@
+{
+    "table-29-29": {
+        "title": [
+            "School Name",
+            "School Type",
+            "Funding Source",
+            "K-12 Enrollment",
+            "15-17 Enrollment",
+            "Enrollment Difference"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Consider the average difference between K-12 enrollment and 15-17 enrollment of schools that are locally funded, list the names and DOC type of schools which has a difference above this average.",
+        "data": [
+            [
+                "Maplewood High",
+                "Public",
+                "Local",
+                "1200",
+                "350",
+                "850"
+            ],
+            [
+                "Oak Creek Elementary",
+                "Public",
+                "Local",
+                "450",
+                "80",
+                "370"
+            ],
+            [
+                "Riverbend Academy",
+                "Charter",
+                "State",
+                "700",
+                "200",
+                "500"
+            ],
+            [
+                "Pine Ridge Middle",
+                "Public",
+                "Local",
+                "600",
+                "150",
+                "450"
+            ],
+            [
+                "Summit Prep",
+                "Private",
+                "Federal",
+                "300",
+                "100",
+                "200"
+            ],
+            [
+                "Willow Creek High",
+                "Public",
+                "Local",
+                "1500",
+                "400",
+                "1100"
+            ],
+            [
+                "Green Valley Primary",
+                "Public",
+                "Local",
+                "380",
+                "60",
+                "320"
+            ]
+        ]
+    }
+}

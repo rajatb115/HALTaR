@@ -1,0 +1,43 @@
+{
+    "table-213-213": {
+        "title": [
+            "Element",
+            "Relative Abundance",
+            "Common Molecular Context"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Common Elements in Non-Carcinogenic Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which element is the least numerous in non-carcinogenic molecules?",
+        "data": [
+            [
+                "Hydrogen (H)",
+                "Highest",
+                "Bound to carbon, oxygen, nitrogen"
+            ],
+            [
+                "Carbon (C)",
+                "High",
+                "Backbone structure"
+            ],
+            [
+                "Oxygen (O)",
+                "Moderate",
+                "Hydroxyl, carbonyl, ether groups"
+            ],
+            [
+                "Nitrogen (N)",
+                "Low",
+                "Amine, amide groups"
+            ],
+            [
+                "Sulfur (S)",
+                "Very Low",
+                "Thiol, disulfide groups"
+            ]
+        ]
+    }
+}

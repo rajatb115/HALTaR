@@ -1,0 +1,85 @@
+{
+    "table-765-765": {
+        "title": [
+            "Hero_ID",
+            "Superpower_Name",
+            "Power_Type",
+            "Damage_Output",
+            "Range_Meters",
+            "Cooldown_Seconds",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the superpowers of heroes with ID 1?",
+        "data": [
+            [
+                "1",
+                "Solar Flare Emission",
+                "Energy Projection",
+                "High",
+                "500",
+                "45",
+                "Active"
+            ],
+            [
+                "1",
+                "Telekinetic Lift",
+                "Force Manipulation",
+                "Medium",
+                "30",
+                "N/A",
+                "Inactive"
+            ],
+            [
+                "2",
+                "Quantum Phase Shift",
+                "Intangibility",
+                "None",
+                "0",
+                "Instant",
+                "Active"
+            ],
+            [
+                "3",
+                "Sonic Boom Generation",
+                "Sound Wave",
+                "Low",
+                "75",
+                "60",
+                "Dormant"
+            ],
+            [
+                "4",
+                "Rapid Regeneration",
+                "Biological",
+                "Self-Repair",
+                "999",
+                "Continuous",
+                "Stable"
+            ],
+            [
+                "5",
+                "Gravity Well Creation",
+                "Spatial Distortion",
+                "Extreme",
+                "8000",
+                "3600",
+                ""
+            ],
+            [
+                "6",
+                "Electromagnetic Pulse",
+                "Tech Disruption",
+                "Variable",
+                "150",
+                "120",
+                ""
+            ]
+        ]
+    }
+}

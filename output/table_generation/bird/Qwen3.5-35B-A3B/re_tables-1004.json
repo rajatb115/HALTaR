@@ -1,0 +1,93 @@
+{
+    "table-1004-1004": {
+        "title": [
+            "Driver",
+            "Event",
+            "Total Accidents",
+            "Fatalities",
+            "Injuries",
+            "DNFs",
+            "Season",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accidents did the driver who had the highest number accidents in the Canadian Grand Prix have?",
+        "data": [
+            [
+                "Max Verstappen",
+                "Canadian GP",
+                "4",
+                "0",
+                "6",
+                "7",
+                "5",
+                "Active"
+            ],
+            [
+                "Lewis Hamilton",
+                "Canadian Grand Prix",
+                "3",
+                "8",
+                "9",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Charles Leclerc",
+                "Canada Race",
+                "2",
+                "N/A",
+                "Laps",
+                "Retired",
+                "Car Damage",
+                ""
+            ],
+            [
+                "Fernando Alonso",
+                "Montreal Circuit",
+                "None",
+                "No Incidents",
+                "Safe",
+                "Completed",
+                "Finished",
+                ""
+            ],
+            [
+                "George Russell",
+                "Canadian Track",
+                "One",
+                "Minor Scratches",
+                "Zero",
+                "Did Not Finish",
+                "Mechanical Failure",
+                ""
+            ],
+            [
+                "Sergio Perez",
+                "Grand Prix Canada",
+                "Two",
+                "Light Bruises",
+                "Three",
+                "Abandoned",
+                "Suspension Issue",
+                ""
+            ],
+            [
+                "Lance Stroll",
+                "Canadian Speedway",
+                "Four",
+                "Severe Impact",
+                "Five",
+                "Crashed Out",
+                "Rear Wing Breakage",
+                ""
+            ]
+        ]
+    }
+}

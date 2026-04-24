@@ -1,0 +1,52 @@
+{
+    "table-1304-1304": {
+        "title": [
+            "Patient ID",
+            "Date of Birth",
+            "Blood Glucose Level",
+            "Glucose Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Patient Demographics and Glucose Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When is the birthday of the oldest patient whose blood glucose is abnormal?",
+        "data": [
+            [
+                "12345",
+                "1945-03-15",
+                "120",
+                "Abnormal"
+            ],
+            [
+                "67890",
+                "1950-07-22",
+                "90",
+                "Normal"
+            ],
+            [
+                "24680",
+                "1948-11-01",
+                "110",
+                "Abnormal"
+            ],
+            [
+                "13579",
+                "1962-05-08",
+                "85",
+                "Normal"
+            ],
+            [
+                "98765",
+                "1940-09-29",
+                "130",
+                "Abnormal"
+            ]
+        ]
+    }
+}

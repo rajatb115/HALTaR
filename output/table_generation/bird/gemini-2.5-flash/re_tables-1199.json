@@ -1,0 +1,69 @@
+{
+    "table-1199-1199": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Diagnosis",
+            "Diagnosis Date",
+            "Physician ID"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female patients were given an APS diagnosis?",
+        "data": [
+            [
+                "P001",
+                "Female",
+                "APS",
+                "2023-01-15",
+                "D101"
+            ],
+            [
+                "P002",
+                "Male",
+                "Lupus",
+                "2022-11-20",
+                "D102"
+            ],
+            [
+                "P003",
+                "Female",
+                "Rheumatoid Arthritis",
+                "2023-03-10",
+                "D103"
+            ],
+            [
+                "P004",
+                "Female",
+                "APS",
+                "2023-02-28",
+                "D101"
+            ],
+            [
+                "P005",
+                "Male",
+                "APS",
+                "2023-04-05",
+                "D104"
+            ],
+            [
+                "P006",
+                "Female",
+                "Sjogren's Syndrome",
+                "2022-12-01",
+                "D102"
+            ],
+            [
+                "P007",
+                "Female",
+                "APS",
+                "2023-01-22",
+                "D103"
+            ]
+        ]
+    }
+}

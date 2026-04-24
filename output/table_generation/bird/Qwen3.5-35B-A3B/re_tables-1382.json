@@ -1,0 +1,85 @@
+{
+    "table-1382-1382": {
+        "title": [
+            "Student ID",
+            "Full Name",
+            "Total Events Attended",
+            "Last Event Date",
+            "Status",
+            "Department",
+            "Attendance Rate (%)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of students that have attended more than 7 events.",
+        "data": [
+            [
+                "S1042",
+                "Alice Johnson",
+                "9",
+                "6/15/2023",
+                "Active",
+                "Computer Science",
+                "85.7"
+            ],
+            [
+                "S1055",
+                "Bob Smith",
+                "7",
+                "",
+                "Inactive",
+                "Mathematics",
+                "58.3"
+            ],
+            [
+                "S1089",
+                "Carol Davis",
+                "4",
+                "3/22/2023",
+                "Pending",
+                "Physics",
+                "0.0"
+            ],
+            [
+                "S1102",
+                "David Lee",
+                "12",
+                "",
+                "Active",
+                "Engineering",
+                ""
+            ],
+            [
+                "S1115",
+                "Emma Wilson",
+                "2",
+                "",
+                "Suspended",
+                "Biology",
+                ""
+            ],
+            [
+                "S1203",
+                "Frank Miller",
+                "",
+                "",
+                "Active",
+                "Chemistry",
+                ""
+            ],
+            [
+                "",
+                "Grace Taylor",
+                "",
+                "",
+                "Active",
+                "History",
+                ""
+            ]
+        ]
+    }
+}

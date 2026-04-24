@@ -1,0 +1,53 @@
+{
+    "table-125-125": {
+        "title": [
+            "Loan ID",
+            "District",
+            "Average Salary"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the loan ID, district and average salary for loan with duration of 60 months.",
+        "data": [
+            [
+                "L1001",
+                "Central",
+                "$58,500"
+            ],
+            [
+                "L1002",
+                "Northwood",
+                "$62,100"
+            ],
+            [
+                "L1003",
+                "Lakeside",
+                "$55,300"
+            ],
+            [
+                "L1004",
+                "Riverbend",
+                "$67,900"
+            ],
+            [
+                "L1005",
+                "Hillside",
+                "$59,800"
+            ],
+            [
+                "L1006",
+                "Downtown",
+                "$64,200"
+            ],
+            [
+                "L1007",
+                "Eastside",
+                "$57,000"
+            ]
+        ]
+    }
+}

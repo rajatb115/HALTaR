@@ -1,0 +1,94 @@
+{
+    "table-310-310": {
+        "title": [
+            "Atom ID",
+            "Molecule Code",
+            "Bond Type Count",
+            "Element Symbol",
+            "Hybridization",
+            "Formal Charge",
+            "Connectivity Degree"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List out the atom id that belongs to the TR346 molecule and how many bond type can be created by this molecule?",
+        "data": [
+            [
+                "TR34-A1",
+                "TR378",
+                "4",
+                "C",
+                "sp\u00b3",
+                "0",
+                "3"
+            ],
+            [
+                "TR-B2",
+                "TR412",
+                "5",
+                "N",
+                "sp\u00b2",
+                "+1",
+                "6"
+            ],
+            [
+                "C-Gamma",
+                "TR299",
+                "7",
+                "O",
+                "sp",
+                "-1",
+                "None"
+            ],
+            [
+                "D-Hydrogen",
+                "TR501-Na",
+                "8",
+                "H",
+                "s",
+                "9",
+                "Na+"
+            ],
+            [
+                "E-Carbon",
+                "TR600-K",
+                "",
+                "K\u207a",
+                "d\u00b9\u2070s\u00b9",
+                "",
+                ""
+            ],
+            [
+                "F-Oxygen",
+                "TR700-Mg",
+                "Mg\u00b2\u207a",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "G-Sulfur",
+                "TR800-Zn",
+                "Zn\u00b2\u2074",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "H-Chlorine",
+                "TR900-Fe",
+                "Fe\u00b3\u2078",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

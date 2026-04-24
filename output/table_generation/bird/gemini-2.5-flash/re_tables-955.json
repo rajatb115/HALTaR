@@ -1,0 +1,76 @@
+{
+    "table-955-955": {
+        "title": [
+            "Driver Name",
+            "Year",
+            "Team",
+            "Races Started",
+            "Races Finished",
+            "DNF Count",
+            "Completion Rate (%)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please calculate the race completion percentage of Japanese drivers from 2007 to 2009.",
+        "data": [
+            [
+                "Takuma Sato",
+                "2007",
+                "Super Aguri",
+                "17",
+                "10",
+                "7",
+                "58.8"
+            ],
+            [
+                "Takuma Sato",
+                "2008",
+                "Super Aguri",
+                "4",
+                "2",
+                "2",
+                "50.0"
+            ],
+            [
+                "Kazuki Nakajima",
+                "2007",
+                "Williams",
+                "1",
+                "1",
+                "0",
+                "100.0"
+            ],
+            [
+                "Kazuki Nakajima",
+                "2008",
+                "Williams",
+                "18",
+                "13",
+                "5",
+                "72.2"
+            ],
+            [
+                "Kazuki Nakajima",
+                "2009",
+                "Williams",
+                "17",
+                "11",
+                "6",
+                "64.7"
+            ],
+            [
+                "Kamui Kobayashi",
+                "2009",
+                "Toyota",
+                "2",
+                "2",
+                "0",
+                "100.0"
+            ]
+        ]
+    }
+}

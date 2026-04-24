@@ -1,0 +1,77 @@
+{
+    "table-38-38": {
+        "title": [
+            "School ID",
+            "Excellence Rate (%)",
+            "Street Address",
+            "City",
+            "Zip Code",
+            "State"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the complete address of the school with the lowest excellence rate? Indicate the Street, City, Zip and State.",
+        "data": [
+            [
+                "SCH_402",
+                "62.5",
+                "78 Maple Avenue",
+                "Springfield",
+                "90210",
+                "California"
+            ],
+            [
+                "SCH_A11",
+                "58.3",
+                "45 Oak Lane",
+                "Riverside",
+                "33401",
+                "Florida"
+            ],
+            [
+                "SCH_B99",
+                "85.1",
+                "Principal Drive",
+                "Austin",
+                "07002",
+                "Texas"
+            ],
+            [
+                "SCH_C22",
+                "N/A",
+                "Elm Court",
+                "Portland",
+                "97201",
+                "Oregon"
+            ],
+            [
+                "SCH_D55",
+                "-12.4",
+                "Pine Road",
+                "Denver",
+                "CO",
+                ""
+            ],
+            [
+                "SCH_E88",
+                "71.2",
+                "Birch Blvd",
+                "Seattle",
+                "WA",
+                ""
+            ],
+            [
+                "SCH_F33",
+                "49.8",
+                "Cedar St",
+                "Boston",
+                "",
+                "MA"
+            ]
+        ]
+    }
+}

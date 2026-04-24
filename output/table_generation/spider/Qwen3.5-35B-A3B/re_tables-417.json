@@ -1,0 +1,53 @@
+{
+    "table-417-417": {
+        "title": [
+            "Person_Name",
+            "Country_of_Origin",
+            "Status"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of people who are not from Russia?",
+        "data": [
+            [
+                "John Smith",
+                "United States",
+                "Not Russian"
+            ],
+            [
+                "Elena Rossi",
+                "Italy",
+                "Not Italian"
+            ],
+            [
+                "Kenji Tanaka",
+                "Japan",
+                "Not Japanese"
+            ],
+            [
+                "Maria Garcia",
+                "Spain",
+                "Spanish Citizen"
+            ],
+            [
+                "Ahmed Hassan",
+                "Egypt",
+                "Egyptian National"
+            ],
+            [
+                "Sophie Dubois",
+                "France",
+                "French Resident"
+            ],
+            [
+                "Lars Jensen",
+                "Norway",
+                "Norwegian Origin"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-104-104": {
+        "title": [
+            "Model",
+            "Manufacturer",
+            "Weight (lbs)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Vehicle Specifications",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which models are lighter than 3500 but not built by the 'Ford Motor Company'?",
+        "data": [
+            [
+                "Mazda MX-5 Miata",
+                "Mazda",
+                "2,341"
+            ],
+            [
+                "Toyota GR86",
+                "Toyota",
+                "2,811"
+            ],
+            [
+                "Subaru BRZ",
+                "Subaru",
+                "2,881"
+            ],
+            [
+                "Honda Civic Si",
+                "Honda",
+                "2,906"
+            ],
+            [
+                "Volkswagen Golf GTI",
+                "Volkswagen",
+                "3,175"
+            ]
+        ]
+    }
+}

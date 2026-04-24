@@ -1,0 +1,43 @@
+{
+    "table-220-220": {
+        "title": [
+            "Molecule",
+            "Bond Type",
+            "Carcinogenic Percentage"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Carcinogenic Molecules in Chemical Bonds",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of carcinogenic molecules in triple type bonds?",
+        "data": [
+            [
+                "Benzene",
+                "Triple",
+                "Low"
+            ],
+            [
+                "Acrylonitrile",
+                "Triple",
+                "High"
+            ],
+            [
+                "Propyne",
+                "Triple",
+                "Low"
+            ],
+            [
+                "Vinyl Chloride",
+                "Triple",
+                "Medium"
+            ],
+            [
+                "Carbon Monoxide",
+                "Triple",
+                "High"
+            ]
+        ]
+    }
+}

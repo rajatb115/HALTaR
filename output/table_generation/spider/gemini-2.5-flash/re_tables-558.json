@@ -1,0 +1,62 @@
+{
+    "table-558-558": {
+        "title": [
+            "StudentID",
+            "FirstName",
+            "LastName",
+            "GradeLevel",
+            "SchoolName"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the ID of the high schooler named Kyle.",
+        "data": [
+            [
+                "1001",
+                "Kyle",
+                "Johnson",
+                "10",
+                "Northwood High"
+            ],
+            [
+                "1002",
+                "Sarah",
+                "Miller",
+                "11",
+                "Westview High"
+            ],
+            [
+                "1003",
+                "Michael",
+                "Davis",
+                "9",
+                "Central High"
+            ],
+            [
+                "1004",
+                "Emily",
+                "Chen",
+                "12",
+                "Northwood High"
+            ],
+            [
+                "1005",
+                "David",
+                "Garcia",
+                "10",
+                "Westview High"
+            ],
+            [
+                "1006",
+                "Kyle",
+                "Smith",
+                "9",
+                "Central High"
+            ]
+        ]
+    }
+}

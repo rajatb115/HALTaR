@@ -1,0 +1,69 @@
+{
+    "table-411-411": {
+        "title": [
+            "Player Name",
+            "Height (cm)",
+            "Average Annual Earnings ($)",
+            "Primary Game Type",
+            "Nationality"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give average earnings of poker players who are taller than 200.",
+        "data": [
+            [
+                "John \"The Giant\" Smith",
+                "205",
+                "850000",
+                "No-Limit Hold'em",
+                "USA"
+            ],
+            [
+                "Sven \"Big Stack\" Karlsson",
+                "202",
+                "620000",
+                "Pot-Limit Omaha",
+                "Sweden"
+            ],
+            [
+                "Maria \"High Roller\" Petrova",
+                "201",
+                "780000",
+                "Mixed Games",
+                "Russia"
+            ],
+            [
+                "David \"Long Reach\" Lee",
+                "203",
+                "510000",
+                "No-Limit Hold'em",
+                "Canada"
+            ],
+            [
+                "Anna \"Tower\" Schmidt",
+                "206",
+                "950000",
+                "Pot-Limit Omaha",
+                "Germany"
+            ],
+            [
+                "Ben \"Sky High\" Carter",
+                "204",
+                "430000",
+                "Tournament Poker",
+                "UK"
+            ],
+            [
+                "Elena \"The Amazon\" Volkov",
+                "200",
+                "380000",
+                "Cash Games",
+                "Ukraine"
+            ]
+        ]
+    }
+}

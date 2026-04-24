@@ -1,0 +1,53 @@
+{
+    "table-1108-1108": {
+        "title": [
+            "Player Name",
+            "Date Achieved",
+            "Crossing Score Value",
+            "Match Opponent",
+            "Competition Stage",
+            "Result Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "When was the first time did Kevin Constant have his highest crossing score? Give the date.",
+        "data": [
+            [
+                "Kevin Constant",
+                "4/17/2016",
+                "9.8",
+                "Manchester United",
+                "Premier League",
+                "Win"
+            ],
+            [
+                "Kevin Constant",
+                "5/2/2021",
+                "N/A",
+                "Liverpool FC",
+                "FA Cup Semi-Final",
+                "Draw"
+            ],
+            [
+                "John Smith",
+                "3/12/1916",
+                "8.5",
+                "Chelsea FC",
+                "Friendly Match",
+                "Loss"
+            ],
+            [
+                "Michael Brown",
+                "6/22/3017",
+                "N/A",
+                "Arsenal FC",
+                "Community Shield",
+                "Win"
+            ]
+        ]
+    }
+}

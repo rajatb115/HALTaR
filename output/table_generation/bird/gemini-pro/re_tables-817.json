@@ -1,0 +1,39 @@
+{
+    "table-817-817": {
+        "title": [
+            "Superhero Name",
+            "Attribute Value"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Superheroes by Attribute Value",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the names of superheroes with attribute value between 75 to 80.",
+        "data": [
+            [
+                "Superman",
+                "76"
+            ],
+            [
+                "Batman",
+                "78"
+            ],
+            [
+                "Wonder Woman",
+                "79"
+            ],
+            [
+                "Flash",
+                "75"
+            ],
+            [
+                "Green Lantern",
+                "80"
+            ]
+        ]
+    }
+}

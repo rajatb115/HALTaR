@@ -1,0 +1,61 @@
+{
+    "table-1103-1103": {
+        "title": [
+            "Player Name",
+            "Overall Rating",
+            "Date Checked",
+            "Age in Years",
+            "Team",
+            "Position"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the players who had a 77 points overall rating on 2016/6/23, who was the oldest? Give the name of the player.",
+        "data": [
+            [
+                "Kevin Durant",
+                "74",
+                "6/15/2023",
+                "34",
+                "Phoenix Suns",
+                "Forward"
+            ],
+            [
+                "",
+                "75",
+                "5/1/2022",
+                "40",
+                "N/A",
+                "Center"
+            ],
+            [
+                "Rajon Rondo",
+                "80",
+                "9/10/2021",
+                "0",
+                "Los Angeles Lakers",
+                "Guard"
+            ],
+            [
+                "Mario Chalmers",
+                "",
+                "",
+                "",
+                "Miami Heat",
+                "Guard"
+            ],
+            [
+                "Ray Allen",
+                "",
+                "",
+                "",
+                "Boston Celtics",
+                "Guard"
+            ]
+        ]
+    }
+}

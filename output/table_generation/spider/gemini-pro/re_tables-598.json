@@ -1,0 +1,43 @@
+{
+    "table-598-598": {
+        "title": [
+            "Owner First Name",
+            "Dog Name",
+            "Owner State"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Dog and Owner Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which dogs are owned by someone who lives in Virginia? List the owner's first name and the dog's name.",
+        "data": [
+            [
+                "Alice",
+                "Buddy",
+                "Virginia"
+            ],
+            [
+                "Bob",
+                "Charlie",
+                "Virginia"
+            ],
+            [
+                "Carol",
+                "Daisy",
+                "Virginia"
+            ],
+            [
+                "David",
+                "Rocky",
+                "Virginia"
+            ],
+            [
+                "Eve",
+                "Bella",
+                "Virginia"
+            ]
+        ]
+    }
+}

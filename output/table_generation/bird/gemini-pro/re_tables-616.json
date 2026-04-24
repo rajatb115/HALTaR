@@ -1,0 +1,45 @@
+{
+    "table-616-616": {
+        "title": [
+            "Age Group",
+            "Number of Users with \"Organizer\" Badge",
+            "Percentage of Total Users with \"Organizer\" Badge"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Teenager Percentage Among \"Organizer\" Badge Holders",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the users who obtained the \"Organizer\" badges, calculate the percentage of users who are teenagers.",
+        "data": [
+            [
+                "Under 13",
+                "5",
+                "2%"
+            ],
+            [
+                "13-19 (Teenagers)",
+                "100",
+                "40%"
+            ],
+            [
+                "20-29",
+                "80",
+                "32%"
+            ],
+            [
+                "30-39",
+                "40",
+                "16%"
+            ],
+            [
+                "40+",
+                "25",
+                "10%"
+            ]
+        ]
+    }
+}

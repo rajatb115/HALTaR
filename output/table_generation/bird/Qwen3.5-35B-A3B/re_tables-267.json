@@ -1,0 +1,76 @@
+{
+    "table-267-267": {
+        "title": [
+            "Molecule ID",
+            "Carcinogen Status",
+            "Classification Score",
+            "Source Database",
+            "Last Verified Date",
+            "Risk Level",
+            "Total Count"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the total carcinogenic molecules for molecule id from TR000 to TR030.",
+        "data": [
+            [
+                "TR004",
+                "Confirmed Carcinogen",
+                "High",
+                "ToxRefDB",
+                "2023-11-15",
+                "Critical",
+                "12"
+            ],
+            [
+                "TR117",
+                "Probable Carcinogen",
+                "Medium",
+                "ChemIDplus",
+                "2023-06-22",
+                "Elevated",
+                "8"
+            ],
+            [
+                "TR205",
+                "Non-Carcinogenic",
+                "Low",
+                "PubChem",
+                "2024-01-10",
+                "Negligible",
+                "0"
+            ],
+            [
+                "TR302",
+                "Unknown Classification",
+                "Pending",
+                "Internal Lab",
+                "2025-03-05",
+                "Risk Assessment Needed",
+                "N/A"
+            ],
+            [
+                "TR419",
+                "In Vitro Positive",
+                "Moderate",
+                "OECD Guidelines",
+                "2026-08-18",
+                "Cautionary",
+                "5"
+            ],
+            [
+                "TR550",
+                "Negative Result",
+                "None",
+                "FDA Archive",
+                "2027-12-01",
+                "Safe",
+                "0"
+            ]
+        ]
+    }
+}

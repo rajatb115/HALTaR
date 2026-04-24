@@ -1,0 +1,41 @@
+{
+    "table-393-393": {
+        "title": [
+            "Card Name",
+            "Rarity",
+            "Ruling Date",
+            "Set Code",
+            "Mana Value"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Pick 3 cards with rarity of uncommon, list down name these cards according to ascending order of it's ruling date.",
+        "data": [
+            [
+                "Ancient Ziggurat",
+                "Uncommon",
+                "4/16/1977",
+                "Alpha",
+                "3"
+            ],
+            [
+                "Air Elemental",
+                "Uncommon",
+                "7/1/1899",
+                "Beta",
+                "5"
+            ],
+            [
+                "Ankh of Mishra",
+                "Uncommon",
+                "9/15/1776",
+                "Unlimited",
+                "0"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-565-565": {
+        "title": [
+            "Student ID",
+            "Student Name",
+            "Number of Friends"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Students with No Friends",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of students who have no friends?",
+        "data": [
+            [
+                "101",
+                "Alice Smith",
+                "0"
+            ],
+            [
+                "105",
+                "Bob Johnson",
+                "0"
+            ],
+            [
+                "112",
+                "Charlie Brown",
+                "0"
+            ],
+            [
+                "118",
+                "Diana Miller",
+                "0"
+            ],
+            [
+                "123",
+                "Eve Davis",
+                "0"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "table-124-124": {
+        "title": [
+            "Account ID",
+            "District",
+            "Region",
+            "Loan Amount (USD)"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "High-Value Loan Account Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Provide the account ID, district and region for loan amount greater than USD300,000.",
+        "data": [
+            [
+                "12345",
+                "Downtown",
+                "Central",
+                "350,000"
+            ],
+            [
+                "67890",
+                "Uptown",
+                "North",
+                "400,000"
+            ],
+            [
+                "24680",
+                "Midtown",
+                "Central",
+                "320,000"
+            ],
+            [
+                "13579",
+                "Westside",
+                "West",
+                "380,000"
+            ],
+            [
+                "98765",
+                "Eastside",
+                "East",
+                "420,000"
+            ]
+        ]
+    }
+}

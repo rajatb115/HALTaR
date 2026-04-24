@@ -1,0 +1,77 @@
+{
+    "table-835-835": {
+        "title": [
+            "Superhero Name",
+            "Creator",
+            "Gender",
+            "Primary Power",
+            "First Appearance",
+            "Alignment"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all superheroes created by George Lucas, identify the percentage of female superheroes.",
+        "data": [
+            [
+                "Astra Flare",
+                "George Lucas",
+                "Female",
+                "Energy Blasts",
+                "1985",
+                "Hero"
+            ],
+            [
+                "Captain Zenith",
+                "George Lucas",
+                "Male",
+                "Super Strength",
+                "1987",
+                "Hero"
+            ],
+            [
+                "Vesper Shadow",
+                "George Lucas",
+                "Female",
+                "Stealth & Illusions",
+                "1991",
+                "Anti-Hero"
+            ],
+            [
+                "Ironclad Guardian",
+                "George Lucas",
+                "Male",
+                "Invulnerability",
+                "1993",
+                "Hero"
+            ],
+            [
+                "Echo Siren",
+                "George Lucas",
+                "Female",
+                "Sonic Manipulation",
+                "1998",
+                "Hero"
+            ],
+            [
+                "Quantum Leap",
+                "George Lucas",
+                "Male",
+                "Teleportation",
+                "2002",
+                "Hero"
+            ],
+            [
+                "Star Weaver",
+                "George Lucas",
+                "Female",
+                "Cosmic Manipulation",
+                "2005",
+                "Hero"
+            ]
+        ]
+    }
+}

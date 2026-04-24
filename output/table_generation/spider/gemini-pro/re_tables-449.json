@@ -1,0 +1,52 @@
+{
+    "table-449-449": {
+        "title": [
+            "Country",
+            "Population",
+            "GNP (USD billions)",
+            "Region"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Asian Demographics and Economic Indicators",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total population and maximum GNP in Asia?",
+        "data": [
+            [
+                "China",
+                "1,453,000,000",
+                "17.73",
+                "East Asia"
+            ],
+            [
+                "India",
+                "1,408,000,000",
+                "3.17",
+                "South Asia"
+            ],
+            [
+                "Indonesia",
+                "273,500,000",
+                "1.19",
+                "Southeast Asia"
+            ],
+            [
+                "Pakistan",
+                "231,400,000",
+                "0.35",
+                "South Asia"
+            ],
+            [
+                "Japan",
+                "125,700,000",
+                "5.10",
+                "East Asia"
+            ]
+        ]
+    }
+}

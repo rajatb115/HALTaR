@@ -1,0 +1,77 @@
+{
+    "table-152-152": {
+        "title": [
+            "District_Name",
+            "Account_ID",
+            "Transaction_Type",
+            "Amount_Withdrawn",
+            "Date_of_Transaction",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the name of the districts with accounts that made withdrawal transactions.",
+        "data": [
+            [
+                "District_Alpha",
+                "ACC-10045",
+                "Withdrawal",
+                "$1,250.00",
+                "06/15/2023",
+                "Completed"
+            ],
+            [
+                "District_Beta",
+                "ACC-B7892",
+                "Withdrawment",
+                "$3,400.50",
+                "Not Available",
+                "Pending"
+            ],
+            [
+                "Gamma_District",
+                "GMA-ACC-012",
+                "Cash_Out",
+                "$5,000.00",
+                "07/22/2023",
+                "Success"
+            ],
+            [
+                "Delta_Zone",
+                "DZ-99881",
+                "ATM_Payout",
+                "$20.10",
+                "N/A",
+                "Failed"
+            ],
+            [
+                "Epsilon_County",
+                "ECP-44556",
+                "Over_the_counter",
+                "$8,900.00",
+                "08/01/2024",
+                "Approved"
+            ],
+            [
+                "Zeta_Township",
+                "ZT-112233",
+                "Wire_Transfer",
+                "$45,002.11",
+                "09/10/2025",
+                "Rejected"
+            ],
+            [
+                "Eta_Valley",
+                "EV-77889",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

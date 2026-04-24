@@ -1,0 +1,77 @@
+{
+    "table-1319-1319": {
+        "title": [
+            "Event Name",
+            "Date",
+            "Location",
+            "Event Type",
+            "Student Club Attendance",
+            "Total Attendance"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the event that has the highest attendance of the students from the Student_Club?",
+        "data": [
+            [
+                "Annual Gala Dinner",
+                "2023-11-15",
+                "Grand Ballroom",
+                "Social",
+                "120",
+                "300"
+            ],
+            [
+                "Career Fair",
+                "2024-03-10",
+                "University Gym",
+                "Networking",
+                "85",
+                "500"
+            ],
+            [
+                "Coding Workshop Series",
+                "2023-09-22",
+                "Computer Lab 301",
+                "Academic",
+                "45",
+                "60"
+            ],
+            [
+                "Charity Run",
+                "2024-04-20",
+                "Campus Green",
+                "Fundraiser",
+                "70",
+                "250"
+            ],
+            [
+                "Movie Night",
+                "2023-10-05",
+                "Auditorium A",
+                "Social",
+                "95",
+                "150"
+            ],
+            [
+                "Spring Festival",
+                "2024-05-01",
+                "Main Quad",
+                "Social",
+                "150",
+                "800"
+            ],
+            [
+                "Guest Speaker Series",
+                "2023-12-01",
+                "Conference Room B",
+                "Academic",
+                "60",
+                "100"
+            ]
+        ]
+    }
+}

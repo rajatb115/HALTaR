@@ -1,0 +1,62 @@
+{
+    "table-410-410": {
+        "title": [
+            "Player Name",
+            "Height (cm)",
+            "Total Earnings ($)",
+            "Nationality",
+            "Years Active"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average earnings of poker players with height higher than 200?",
+        "data": [
+            [
+                "John \"The Giant\" Doe",
+                "203",
+                "15,200,000",
+                "USA",
+                "15"
+            ],
+            [
+                "Sven \"Tall Stack\" Olsen",
+                "201",
+                "8,750,000",
+                "Sweden",
+                "10"
+            ],
+            [
+                "Maria \"High Roller\" Schmidt",
+                "205",
+                "22,100,000",
+                "Germany",
+                "18"
+            ],
+            [
+                "Liam \"Big Blind\" O'Connell",
+                "202",
+                "6,300,000",
+                "Ireland",
+                "8"
+            ],
+            [
+                "Chen \"Sky High\" Wei",
+                "204",
+                "11,900,000",
+                "China",
+                "12"
+            ],
+            [
+                "David \"Tower\" Miller",
+                "206",
+                "19,600,000",
+                "Canada",
+                "16"
+            ]
+        ]
+    }
+}

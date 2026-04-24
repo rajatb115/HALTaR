@@ -1,0 +1,51 @@
+{
+    "table-137-137": {
+        "title": [
+            "Approval Date",
+            "Loan Amount (USD)",
+            "Statement Frequency",
+            "Approval Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Loan Approval Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Between 1/1/1995 and 12/31/1997, how many loans in the amount of at least 250,000 per account that chose monthly statement issuance were approved?",
+        "data": [
+            [
+                "03/15/1995",
+                "300,000",
+                "Monthly",
+                "Approved"
+            ],
+            [
+                "07/22/1996",
+                "275,000",
+                "Monthly",
+                "Approved"
+            ],
+            [
+                "11/01/1997",
+                "400,000",
+                "Monthly",
+                "Approved"
+            ],
+            [
+                "05/10/1995",
+                "260,000",
+                "Monthly",
+                "Approved"
+            ],
+            [
+                "09/18/1996",
+                "320,000",
+                "Monthly",
+                "Denied"
+            ]
+        ]
+    }
+}

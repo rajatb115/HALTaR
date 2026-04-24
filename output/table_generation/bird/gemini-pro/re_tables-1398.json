@@ -1,0 +1,57 @@
+{
+    "table-1398-1398": {
+        "title": [
+            "Event Name",
+            "Date",
+            "Food Cost",
+            "Number of Attendees",
+            "Cost Per Attendee"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Student Club Event Food Costs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "On average, how much did the Student_Club spend on food for the typical event in the past?",
+        "data": [
+            [
+                "Bake Sale",
+                "2023-09-15",
+                "$50.00",
+                "25",
+                "$2.00"
+            ],
+            [
+                "Movie Night",
+                "2023-10-20",
+                "$75.00",
+                "30",
+                "$2.50"
+            ],
+            [
+                "Game Night",
+                "2023-11-10",
+                "$60.00",
+                "20",
+                "$3.00"
+            ],
+            [
+                "Study Group",
+                "2023-12-05",
+                "$40.00",
+                "15",
+                "$2.67"
+            ],
+            [
+                "Workshop",
+                "2024-01-12",
+                "$100.00",
+                "40",
+                "$2.50"
+            ]
+        ]
+    }
+}

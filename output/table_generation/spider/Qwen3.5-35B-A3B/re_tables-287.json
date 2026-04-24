@@ -1,0 +1,83 @@
+{
+    "table-287-287": {
+        "title": [
+            "Battle ID",
+            "Battle Name",
+            "Lost Ship Class",
+            "Loss Count",
+            "Date",
+            "Location",
+            "Commander",
+            "Outcome Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the different ids and names of the battles that lost any 'Brig' type shipes?",
+        "data": [
+            [
+                "BTL-042",
+                "Battle of Trafalgar",
+                "Brig",
+                "3",
+                "06/21/1805",
+                "Cape Finisterre",
+                "Nelson",
+                "Decisive Defeat"
+            ],
+            [
+                "BTR-077",
+                "Action off Cape St Vincent",
+                "Brigantine",
+                "5",
+                "8/14/1780",
+                "Atlantic Ocean",
+                "Jervis",
+                "Tactical Draw"
+            ],
+            [
+                "BLK-103",
+                "Siege of Charleston",
+                "Frigate",
+                "4",
+                "6/12/1942",
+                "South Carolina Coast",
+                "Lincoln",
+                "Strategic Victory"
+            ],
+            [
+                "BMH-219",
+                "Battle for Midway Atoll",
+                "Destroyer",
+                "7",
+                "9/03/1644",
+                "Pacific Theater",
+                "Yamamoto",
+                "Total Annihilation"
+            ],
+            [
+                "BCR-088",
+                "Skirmish at Port Royal",
+                "Sloop-of-War",
+                "",
+                "N/A",
+                "Caribbean Sea",
+                "Drake",
+                "Inconclusive"
+            ],
+            [
+                "BDT-331",
+                "Naval Engagement in Baltic",
+                "Corvette",
+                "",
+                "11/02/2002",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

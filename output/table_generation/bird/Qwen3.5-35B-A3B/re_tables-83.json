@@ -1,0 +1,85 @@
+{
+    "table-83-83": {
+        "title": [
+            "School ID",
+            "Longitude",
+            "Grade Span",
+            "Enrollment",
+            "City",
+            "State",
+            "District"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the grade span offered in the school with the highest longitude?",
+        "data": [
+            [
+                "SCH_004",
+                "-74.0060",
+                "K-12",
+                "850",
+                "New York",
+                "NY",
+                "NYC DOE"
+            ],
+            [
+                "SCH_SOUTH",
+                "-118.2437",
+                "9-10",
+                "420",
+                "Los Angeles",
+                "CA",
+                "LAUSD"
+            ],
+            [
+                "SCH_EAST",
+                "-0.1276",
+                "PK-8",
+                "310",
+                "London",
+                "UK",
+                "Local Authority"
+            ],
+            [
+                "SCH_WEST",
+                "-80.2090",
+                "PreK-K",
+                "55",
+                "Miami",
+                "FL",
+                "Dade County"
+            ],
+            [
+                "SCH_NORTH",
+                "-43.1965",
+                "6-11",
+                "780",
+                "Rio de Janeiro",
+                "Brazil",
+                "Municipal"
+            ],
+            [
+                "SCH_CENTRAL",
+                "-3.7038",
+                "K-GRADE 12+",
+                "0",
+                "Madrid",
+                "Spain",
+                "Community"
+            ],
+            [
+                "SCH_ISLAND",
+                "-66.1057",
+                "N/A",
+                "",
+                "San Juan",
+                "PR",
+                "Puerto Rico Dept Ed"
+            ]
+        ]
+    }
+}

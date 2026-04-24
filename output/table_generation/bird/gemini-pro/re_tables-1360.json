@@ -1,0 +1,37 @@
+{
+    "table-1360-1360": {
+        "title": [
+            "Meeting Name",
+            "Advertisement Budget"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Advertisement Budget Comparison",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many times was the budget in Advertisement for \"Yearly Kickoff\" meeting more than \"October Meeting\"?",
+        "data": [
+            [
+                "Yearly Kickoff",
+                "\\$15,000"
+            ],
+            [
+                "October Meeting",
+                "\\$5,000"
+            ],
+            [
+                "November Conference",
+                "\\$7,000"
+            ],
+            [
+                "Yearly Kickoff",
+                "\\$12,000"
+            ],
+            [
+                "October Meeting",
+                "\\$4,000"
+            ]
+        ]
+    }
+}

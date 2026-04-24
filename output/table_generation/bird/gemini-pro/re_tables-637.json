@@ -1,0 +1,58 @@
+{
+    "table-637-637": {
+        "title": [
+            "Post ID",
+            "Author",
+            "Date",
+            "Sentiment",
+            "Comment Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            4
+        ],
+        "pgTitle": "Sentiment Analysis of Neil McGuigan's Posts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many negative comments did Neil McGuigan get in his posts?",
+        "data": [
+            [
+                "12345",
+                "Neil McGuigan",
+                "2023-01-15",
+                "Positive",
+                "15"
+            ],
+            [
+                "12346",
+                "Neil McGuigan",
+                "2023-02-01",
+                "Negative",
+                "8"
+            ],
+            [
+                "12347",
+                "Neil McGuigan",
+                "2023-02-15",
+                "Neutral",
+                "22"
+            ],
+            [
+                "12348",
+                "Neil McGuigan",
+                "2023-03-01",
+                "Negative",
+                "12"
+            ],
+            [
+                "12349",
+                "Neil McGuigan",
+                "2023-03-15",
+                "Positive",
+                "5"
+            ]
+        ]
+    }
+}

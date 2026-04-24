@@ -1,0 +1,77 @@
+{
+    "table-453-453": {
+        "title": [
+            "Continent",
+            "Surface Area (km\u00b2)",
+            "Region Classification",
+            "Primary Hemisphere",
+            "Major Ocean Bordering East",
+            "Population Density (per km\u00b2)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total surface area of the continents Asia and Europe?",
+        "data": [
+            [
+                "Asia",
+                "44,579,000",
+                "Northern/Eastern",
+                "Pacific",
+                "High",
+                ""
+            ],
+            [
+                "Europe",
+                "9,967,060",
+                "Western/Northern",
+                "Atlantic",
+                "Medium",
+                ""
+            ],
+            [
+                "Africa",
+                "30,370,050",
+                "Southern/Equatorial",
+                "Indian Ocean",
+                "Low/Medium",
+                ""
+            ],
+            [
+                "North America",
+                "5,475,910",
+                "North American Plate",
+                "Arctic/Pacific",
+                "Medium/Low",
+                ""
+            ],
+            [
+                "South America",
+                "17,840,600",
+                "South American Plate / Amazon Basin",
+                "Atlantic/Pacific / Andes Mountains",
+                "N/A",
+                ""
+            ],
+            [
+                "Australia",
+                "8,684,020",
+                "Oceania",
+                "Australian Plate",
+                "Indian/Pacific/Tasman Sea",
+                "Very Low"
+            ],
+            [
+                "Antarctica",
+                "6,017,000",
+                "Antarctic Peninsula",
+                "Southern Ocean",
+                "All Oceans Surrounding",
+                "Extremely Low"
+            ]
+        ]
+    }
+}

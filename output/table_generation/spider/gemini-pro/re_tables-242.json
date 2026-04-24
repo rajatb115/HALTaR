@@ -1,0 +1,37 @@
+{
+    "table-242-242": {
+        "title": [
+            "First Name",
+            "Birth Date"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "US Player Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the first names and birth dates of players from the USA?",
+        "data": [
+            [
+                "Michael",
+                "1992-07-23"
+            ],
+            [
+                "John",
+                "1989-03-15"
+            ],
+            [
+                "David",
+                "1995-11-01"
+            ],
+            [
+                "Emily",
+                "1991-09-10"
+            ],
+            [
+                "Ashley",
+                "1993-05-20"
+            ]
+        ]
+    }
+}

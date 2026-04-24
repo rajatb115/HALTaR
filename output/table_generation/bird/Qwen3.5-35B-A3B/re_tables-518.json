@@ -1,0 +1,76 @@
+{
+    "table-518-518": {
+        "title": [
+            "Card Name",
+            "Rarity",
+            "Enchantment Subtype",
+            "Format Status",
+            "Legal Count"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many rare enchantment Abundance cards are there whose play format status are all legal?",
+        "data": [
+            [
+                "Abundant Growth",
+                "Rare",
+                "Landfall",
+                "Standard, Modern, Pioneer",
+                "Yes"
+            ],
+            [
+                "Bountiful Harvest",
+                "Rare",
+                "Forestwalk",
+                "Historic, Legacy, Vintage",
+                "Yes"
+            ],
+            [
+                "Cultivate's Bounty",
+                "Rare",
+                "Ramp",
+                "Commander, Pauper, Oathbreaker",
+                "No"
+            ],
+            [
+                "Draconic Abundance",
+                "Rare",
+                "Dragon Synergy",
+                "Standard, Future Sight, Explorer",
+                "Yes"
+            ],
+            [
+                "Eternal Fertility",
+                "Rare",
+                "Mystical",
+                "Modern, Legacy, Brawl",
+                "No"
+            ],
+            [
+                "Fertile Grounds",
+                "Rare",
+                "Land Enhancement",
+                "Pioneer, Vintage, Duel",
+                "Yes"
+            ],
+            [
+                "Gilded Sproutings",
+                "Rare",
+                "",
+                "Commander, Paperless, Magic Arena",
+                "Yes"
+            ],
+            [
+                "Harvest Moonlight",
+                "Rare",
+                "",
+                "Legacy, Futuristic, Explorer",
+                "No"
+            ]
+        ]
+    }
+}

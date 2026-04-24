@@ -1,0 +1,39 @@
+{
+    "table-315-315": {
+        "title": [
+            "Compound",
+            "Number of Single Bonds"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Single Bonded Compounds",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many single bonds are there in the list?",
+        "data": [
+            [
+                "Ethane",
+                "7"
+            ],
+            [
+                "Methane",
+                "4"
+            ],
+            [
+                "Propane",
+                "10"
+            ],
+            [
+                "Butane",
+                "13"
+            ],
+            [
+                "Pentane",
+                "16"
+            ]
+        ]
+    }
+}

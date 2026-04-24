@@ -1,0 +1,69 @@
+{
+    "table-236-236": {
+        "title": [
+            "Molecule Name",
+            "CAS Number",
+            "Carcinogenic Status",
+            "Contains Bromine",
+            "Molecular Weight (g/mol)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many molecules are carcinogenic and have the bromine element?",
+        "data": [
+            [
+                "1,2-Dibromoethane",
+                "106-93-4",
+                "Known Carcinogen",
+                "Yes",
+                "187.86"
+            ],
+            [
+                "Bromodichloromethane",
+                "75-27-4",
+                "Suspected Carcinogen",
+                "Yes",
+                "163.82"
+            ],
+            [
+                "Tetrabromobisphenol A",
+                "79-94-7",
+                "Possible Carcinogen",
+                "Yes",
+                "543.89"
+            ],
+            [
+                "Bromobenzene",
+                "108-86-1",
+                "Not Carcinogenic",
+                "Yes",
+                "157.01"
+            ],
+            [
+                "Bromoform",
+                "75-25-2",
+                "Suspected Carcinogen",
+                "Yes",
+                "252.73"
+            ],
+            [
+                "Methyl Bromide",
+                "74-83-9",
+                "Not Carcinogenic",
+                "Yes",
+                "94.94"
+            ],
+            [
+                "Vinyl Bromide",
+                "593-60-2",
+                "Known Carcinogen",
+                "Yes",
+                "106.94"
+            ]
+        ]
+    }
+}

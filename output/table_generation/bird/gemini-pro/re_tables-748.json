@@ -1,0 +1,37 @@
+{
+    "table-748-748": {
+        "title": [
+            "Superhero Name",
+            "Has Full Name?"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Superheroes with Missing Full Names",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total number of superheroes without full name?",
+        "data": [
+            [
+                "Spider-Man",
+                "No"
+            ],
+            [
+                "Wolverine",
+                "No"
+            ],
+            [
+                "Deadpool",
+                "No"
+            ],
+            [
+                "Rogue",
+                "No"
+            ],
+            [
+                "Gambit",
+                "No"
+            ]
+        ]
+    }
+}

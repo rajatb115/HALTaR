@@ -1,0 +1,67 @@
+{
+    "table-182-182": {
+        "title": [
+            "Client ID",
+            "Gender",
+            "Loan Amount",
+            "Status",
+            "Application Date",
+            "Branch Code",
+            "Credit Score"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please provide the IDs of the 3 female clients with the largest loans.",
+        "data": [
+            [
+                "CUST_4021",
+                "Female",
+                "$450,000",
+                "Approved",
+                "06/15/2023",
+                "BR_NY_017",
+                "782"
+            ],
+            [
+                "CUSTA_8832",
+                "Female",
+                "$385,500",
+                "Pending",
+                "08/22/23",
+                "BR_TX_004",
+                "695"
+            ],
+            [
+                "CUSF_1109",
+                "Female",
+                "$320,750",
+                "Approved",
+                "03/10/24",
+                "BR_CA_022",
+                "741"
+            ],
+            [
+                "CUSS_5543",
+                "Male",
+                "$410,20",
+                "Rejected",
+                "N/A",
+                "BR_FL_099",
+                "N/A"
+            ],
+            [
+                "CURT_2210",
+                "Female",
+                "$295,0",
+                "Approved",
+                "N/A",
+                "BR_WA_033",
+                "688"
+            ]
+        ]
+    }
+}

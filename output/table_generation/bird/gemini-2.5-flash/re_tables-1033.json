@@ -1,0 +1,61 @@
+{
+    "table-1033-1033": {
+        "title": [
+            "League Name",
+            "Sport",
+            "Country/Region",
+            "Total Matches"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the name of the league with the highest matches of all time and how many matches were played in the said league.",
+        "data": [
+            [
+                "Major League Baseball",
+                "Baseball",
+                "USA/Canada",
+                "215300"
+            ],
+            [
+                "English Football League",
+                "Football",
+                "England",
+                "42150"
+            ],
+            [
+                "National Hockey League",
+                "Ice Hockey",
+                "USA/Canada",
+                "78900"
+            ],
+            [
+                "La Liga",
+                "Football",
+                "Spain",
+                "31870"
+            ],
+            [
+                "National Basketball Association",
+                "Basketball",
+                "USA/Canada",
+                "72100"
+            ],
+            [
+                "Serie A",
+                "Football",
+                "Italy",
+                "30520"
+            ],
+            [
+                "Bundesliga",
+                "Football",
+                "Germany",
+                "21560"
+            ]
+        ]
+    }
+}

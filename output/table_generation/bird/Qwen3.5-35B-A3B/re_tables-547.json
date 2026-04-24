@@ -1,0 +1,77 @@
+{
+    "table-547-547": {
+        "title": [
+            "User ID",
+            "Display Name",
+            "Post Title",
+            "Completion Status",
+            "Last Updated",
+            "Role"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the display names of all the users who owns a post that is well-finished.",
+        "data": [
+            [
+                "U1042",
+                "Sarah Jenkins",
+                "Q3 Financial Report",
+                "Well-Finished",
+                "7/15/2023",
+                "Editor"
+            ],
+            [
+                "U2091",
+                "Marcus Thorne",
+                "Project Alpha Specs",
+                "Well-Written",
+                "6/22/2023",
+                "Admin"
+            ],
+            [
+                "U3305",
+                "Elena Rodriguez",
+                "Marketing Strategy Draft",
+                "Polished",
+                "8/01/2024",
+                "Contributor"
+            ],
+            [
+                "U4118",
+                "David Chen",
+                "API Documentation v2",
+                "Complete",
+                "5/10/2025",
+                "Developer"
+            ],
+            [
+                "U5502",
+                "Priya Patel",
+                "Client Onboarding Guide",
+                "Finalized",
+                "9/12/2019",
+                "Manager"
+            ],
+            [
+                "U6789",
+                "James O'Connor",
+                "Security Audit Log",
+                "Reviewed",
+                "4/30/2018",
+                "Auditor"
+            ],
+            [
+                "U7234",
+                "Lisa Wong",
+                "Product Roadmap 2Q",
+                "Approved",
+                "3/14/2021",
+                "Lead"
+            ]
+        ]
+    }
+}

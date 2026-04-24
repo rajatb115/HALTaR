@@ -1,0 +1,45 @@
+{
+    "table-635-635": {
+        "title": [
+            "Author",
+            "Post Content",
+            "Popularity Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Post Popularity Comparison",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among posts by Harvey Motulsky and Noah Snyder, which one has higher popularity?",
+        "data": [
+            [
+                "Harvey Motulsky",
+                "Post 1",
+                "95"
+            ],
+            [
+                "Harvey Motulsky",
+                "Post 2",
+                "82"
+            ],
+            [
+                "Noah Snyder",
+                "Post 1",
+                "78"
+            ],
+            [
+                "Noah Snyder",
+                "Post 2",
+                "90"
+            ],
+            [
+                "Noah Snyder",
+                "Post 3",
+                "85"
+            ]
+        ]
+    }
+}

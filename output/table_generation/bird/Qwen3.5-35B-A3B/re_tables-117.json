@@ -1,0 +1,67 @@
+{
+    "table-117-117": {
+        "title": [
+            "Client ID",
+            "First Loan Date",
+            "Start Balance Date",
+            "End Balance Date",
+            "Initial Balance",
+            "Final Balance",
+            "Increase Rate (%)"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the client who first applied the loan in 1993/7/5, what is the increase rate of his/her account balance from 1993/3/22 to 1998/12/27?",
+        "data": [
+            [
+                "CLT_4921",
+                "5 July 2016",
+                "3 March 2001",
+                "7 December 2001",
+                "$12,450",
+                "$28,900",
+                "46.9"
+            ],
+            [
+                "CLT_4822",
+                "6 June 2001",
+                "8 February 2001",
+                "9 January 2001",
+                "$9.20",
+                "N/A",
+                ""
+            ],
+            [
+                "CLT_4723",
+                "",
+                "0 April 2001",
+                "1 May 2001",
+                "$5,000",
+                "$7,500",
+                "-33.3"
+            ],
+            [
+                "CLI_4624",
+                "",
+                "",
+                "",
+                "$0",
+                "$4,250",
+                ""
+            ],
+            [
+                "CLR_4525",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

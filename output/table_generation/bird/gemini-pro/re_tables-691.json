@@ -1,0 +1,49 @@
+{
+    "table-691-691": {
+        "title": [
+            "User Display Name",
+            "Badge Name",
+            "Award Date",
+            "Badge Description"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "User Badge Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the latest badge awarded to the user with the display name Emmett.",
+        "data": [
+            [
+                "Emmett",
+                "Stargazer",
+                "2024-01-20",
+                "First star!"
+            ],
+            [
+                "Emmett",
+                "Commenter",
+                "2023-12-15",
+                "Active commenter"
+            ],
+            [
+                "Emmett",
+                "Enthusiast",
+                "2023-11-01",
+                "Visited daily"
+            ],
+            [
+                "Emmett",
+                "Learner",
+                "2023-10-05",
+                "First question"
+            ],
+            [
+                "Emmett",
+                "Welcome",
+                "2023-10-01",
+                "Joined the site"
+            ]
+        ]
+    }
+}

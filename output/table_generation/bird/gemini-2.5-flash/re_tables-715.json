@@ -1,0 +1,62 @@
+{
+    "table-715-715": {
+        "title": [
+            "Comment ID",
+            "Username",
+            "Comment Text",
+            "Timestamp",
+            "Post ID"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the comments commented by the user with a username of Harvey Motulsky.",
+        "data": [
+            [
+                "C1001",
+                "Harvey Motulsky",
+                "This is a very insightful article.",
+                "2023-10-26 14:35:01",
+                "P501"
+            ],
+            [
+                "C1002",
+                "Harvey Motulsky",
+                "I have a question regarding the methodology.",
+                "2023-10-26 15:10:22",
+                "P502"
+            ],
+            [
+                "C1003",
+                "Harvey Motulsky",
+                "Thanks for sharing this valuable resource.",
+                "2023-10-27 09:05:11",
+                "P501"
+            ],
+            [
+                "C1004",
+                "Harvey Motulsky",
+                "I agree with the main points presented here.",
+                "2023-10-27 11:45:30",
+                "P503"
+            ],
+            [
+                "C1005",
+                "Harvey Motulsky",
+                "Could you elaborate on the last paragraph?",
+                "2023-10-28 10:00:00",
+                "P504"
+            ],
+            [
+                "C1006",
+                "Harvey Motulsky",
+                "Excellent work, very clear and concise.",
+                "2023-10-28 16:20:15",
+                "P502"
+            ]
+        ]
+    }
+}

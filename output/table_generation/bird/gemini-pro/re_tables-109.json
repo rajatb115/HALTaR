@@ -1,0 +1,57 @@
+{
+    "table-109-109": {
+        "title": [
+            "Client ID",
+            "Loan Amount",
+            "Account Open Date",
+            "First Transaction Date",
+            "First Transaction Amount"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Client Loan Information and First Transaction",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the client who applied the biggest loan, what was his/her first amount of transaction after opened the account?",
+        "data": [
+            [
+                "123",
+                "$1,000,000",
+                "2023-01-15",
+                "2023-01-17",
+                "$50,000"
+            ],
+            [
+                "456",
+                "$750,000",
+                "2022-11-01",
+                "2022-11-05",
+                "$10,000"
+            ],
+            [
+                "789",
+                "$500,000",
+                "2023-03-10",
+                "2023-03-12",
+                "$25,000"
+            ],
+            [
+                "101",
+                "$250,000",
+                "2022-09-20",
+                "2022-09-22",
+                "$5,000"
+            ],
+            [
+                "112",
+                "$100,000",
+                "2023-05-01",
+                "2023-05-03",
+                "$1,000"
+            ]
+        ]
+    }
+}

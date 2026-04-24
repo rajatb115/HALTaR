@@ -1,0 +1,43 @@
+{
+    "table-118-118": {
+        "title": [
+            "Airport Name",
+            "City",
+            "Country"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Airport Locations",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which city and country is the Alton airport at?",
+        "data": [
+            [
+                "Alton",
+                "Alton",
+                "USA"
+            ],
+            [
+                "Luton",
+                "London",
+                "UK"
+            ],
+            [
+                "Rome",
+                "Fiumicino",
+                "Italy"
+            ],
+            [
+                "JFK",
+                "New York",
+                "USA"
+            ],
+            [
+                "Narita",
+                "Tokyo",
+                "Japan"
+            ]
+        ]
+    }
+}

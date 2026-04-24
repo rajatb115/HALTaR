@@ -1,0 +1,76 @@
+{
+    "table-1214-1214": {
+        "title": [
+            "Patient_ID",
+            "Birth_Date",
+            "Alkaline_Phosphatase_U/L",
+            "Normal_Range_Low",
+            "Normal_High",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Name the ID of the patient who is born on the April 1st, 1982. Is his/her alkaliphophatase (ALP) within normal range?",
+        "data": [
+            [
+                "P-4921",
+                "04/01/1976",
+                "85",
+                "44",
+                "98",
+                "Within Range",
+                "Routine checkup"
+            ],
+            [
+                "P-4822",
+                "31/03/1882",
+                "N/A",
+                "50",
+                "60",
+                "Unknown",
+                "Data missing for ALP test"
+            ],
+            [
+                "P-A102",
+                "April 01, 2182*",
+                "72",
+                "None",
+                "None Pending",
+                "Future Date Error",
+                "Invalid birth year recorded"
+            ],
+            [
+                "B-9920",
+                "March 30, 0881",
+                "N/D",
+                "\u00bd",
+                "\u00be",
+                "Not Tested",
+                "No recent lab results available"
+            ],
+            [
+                "C-1104",
+                "April -01-1902*",
+                "112",
+                "<120 >125",
+                "High",
+                "Elevated levels detected",
+                ""
+            ],
+            [
+                "D-3301",
+                "April 02, 8880*",
+                "60",
+                "Normal",
+                "High",
+                "Within Range",
+                "S"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "table-372-372": {
+        "title": [
+            "Episode ID",
+            "Series Name",
+            "Channel Name",
+            "Air Date",
+            "Episode Title"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "TV Series Episode Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the Episode of all  TV series showed on TV Channel with series name \"Sky Radio\".",
+        "data": [
+            [
+                "101",
+                "Sky Radio",
+                "Channel 4",
+                "2023-01-15",
+                "Pilot"
+            ],
+            [
+                "102",
+                "Sky Radio",
+                "Channel 4",
+                "2023-01-22",
+                "The Interview"
+            ],
+            [
+                "103",
+                "Sky Radio",
+                "Channel 4",
+                "2023-01-29",
+                "The Promotion"
+            ],
+            [
+                "104",
+                "Sky Radio",
+                "Channel 4",
+                "2023-02-05",
+                "The New Boss"
+            ],
+            [
+                "105",
+                "Sky Radio",
+                "Channel 4",
+                "2023-02-12",
+                "Company Restructuring"
+            ]
+        ]
+    }
+}

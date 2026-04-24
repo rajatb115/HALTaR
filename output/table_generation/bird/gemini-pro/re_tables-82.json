@@ -1,0 +1,58 @@
+{
+    "table-82-82": {
+        "title": [
+            "School Name",
+            "City",
+            "State",
+            "Latitude",
+            "Lowest Grade"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            3,
+            4
+        ],
+        "pgTitle": "California School Information by Latitude",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which city can you find the school in the state of California with the lowest latitude coordinates and what is its lowest grade? Indicate the school name.",
+        "data": [
+            [
+                "Example High",
+                "San Diego",
+                "CA",
+                "32.7157",
+                "9"
+            ],
+            [
+                "Sample High",
+                "Los Angeles",
+                "CA",
+                "34.0522",
+                "9"
+            ],
+            [
+                "Test High",
+                "San Jose",
+                "CA",
+                "37.3382",
+                "9"
+            ],
+            [
+                "Mock High",
+                "Sacramento",
+                "CA",
+                "38.5816",
+                "9"
+            ],
+            [
+                "Beta High",
+                "San Francisco",
+                "CA",
+                "37.7749",
+                "9"
+            ]
+        ]
+    }
+}

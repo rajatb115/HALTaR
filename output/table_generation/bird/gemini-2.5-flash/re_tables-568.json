@@ -1,0 +1,69 @@
+{
+    "table-568-568": {
+        "title": [
+            "UserID",
+            "DisplayName",
+            "TotalPosts",
+            "LastPostDate",
+            "AccountStatus"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the user with the display name of \"Tiago Pasqualini\", how many posts did he/she own?",
+        "data": [
+            [
+                "1001",
+                "Tiago Pasqualini",
+                "157",
+                "2023-10-26",
+                "Active"
+            ],
+            [
+                "1002",
+                "Ana Silva",
+                "321",
+                "2023-11-15",
+                "Active"
+            ],
+            [
+                "1003",
+                "Carlos Mendes",
+                "89",
+                "2023-09-01",
+                "Inactive"
+            ],
+            [
+                "1004",
+                "Sofia Costa",
+                "512",
+                "2023-11-20",
+                "Active"
+            ],
+            [
+                "1005",
+                "Pedro Almeida",
+                "45",
+                "2022-12-10",
+                "Suspended"
+            ],
+            [
+                "1006",
+                "Mariana Santos",
+                "210",
+                "2023-11-05",
+                "Active"
+            ],
+            [
+                "1007",
+                "Ricardo Pereira",
+                "12",
+                "2023-01-22",
+                "Inactive"
+            ]
+        ]
+    }
+}

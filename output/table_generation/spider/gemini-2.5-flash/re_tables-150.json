@@ -1,0 +1,55 @@
+{
+    "table-150-150": {
+        "title": [
+            "Shop Name",
+            "Location",
+            "District",
+            "Number of Products"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the name, location and district of all shops in descending order of number of products.",
+        "data": [
+            [
+                "Global Mart",
+                "Main Street",
+                "Downtown",
+                "1850"
+            ],
+            [
+                "Tech Haven",
+                "Oak Avenue",
+                "Midtown",
+                "1420"
+            ],
+            [
+                "Book Nook",
+                "Riverwalk",
+                "Waterfront",
+                "980"
+            ],
+            [
+                "Fashion Hub",
+                "Elm Street",
+                "Uptown",
+                "760"
+            ],
+            [
+                "Green Grocer",
+                "Market Square",
+                "Old Town",
+                "530"
+            ],
+            [
+                "Artisan Crafts",
+                "High Street",
+                "Financial District",
+                "310"
+            ]
+        ]
+    }
+}

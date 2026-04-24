@@ -1,0 +1,53 @@
+{
+    "table-649-649": {
+        "title": [
+            "Singer Name",
+            "Total Sales",
+            "Genre"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "what are the different names of the singers that have sales more than 300000?",
+        "data": [
+            [
+                "Adele",
+                "45000000",
+                "Pop"
+            ],
+            [
+                "Ed Sheeran",
+                "32000000",
+                "Pop"
+            ],
+            [
+                "Taylor Swift",
+                "51000000",
+                "Country"
+            ],
+            [
+                "Beyonc\u00e9",
+                "38000000",
+                "R&B"
+            ],
+            [
+                "Drake",
+                "60000000",
+                "Hip Hop"
+            ],
+            [
+                "Billie Eilish",
+                "28000000",
+                "Pop"
+            ],
+            [
+                "Bruno Mars",
+                "35000000",
+                "Pop"
+            ]
+        ]
+    }
+}

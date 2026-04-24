@@ -1,0 +1,69 @@
+{
+    "table-114-114": {
+        "title": [
+            "Client ID",
+            "Client Name",
+            "Loan Amount (USD)",
+            "Application Date",
+            "Client Birthday",
+            "Loan Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the client who applied 98832 USD loan in 1996/1/3, when was his/her birthday?",
+        "data": [
+            [
+                "C98832",
+                "John Doe",
+                "98832",
+                "1996-01-03",
+                "1965-07-15",
+                "Approved"
+            ],
+            [
+                "C98833",
+                "Jane Smith",
+                "98500",
+                "1996-02-10",
+                "1970-03-22",
+                "Pending"
+            ],
+            [
+                "C98834",
+                "Robert Johnson",
+                "120000",
+                "1995-12-20",
+                "1962-11-01",
+                "Approved"
+            ],
+            [
+                "C98835",
+                "Emily White",
+                "75000",
+                "1996-01-15",
+                "1975-09-05",
+                "Denied"
+            ],
+            [
+                "C98836",
+                "Michael Brown",
+                "105000",
+                "1996-03-01",
+                "1968-04-18",
+                "Approved"
+            ],
+            [
+                "C98837",
+                "Sarah Davis",
+                "89000",
+                "1995-11-25",
+                "1972-01-30",
+                "Pending"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "table-134-134": {
+        "title": [
+            "District Name",
+            "Branch Location",
+            "Unemployment Rate (1996)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Unemployment Rates by District in 1996",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In 1996, which districts have the highest unemployment rate? List their branch location and district name.",
+        "data": [
+            [
+                "District A",
+                "Branch 1",
+                "9.5%"
+            ],
+            [
+                "District B",
+                "Branch 2",
+                "8.9%"
+            ],
+            [
+                "District C",
+                "Branch 3",
+                "8.2%"
+            ],
+            [
+                "District D",
+                "Branch 4",
+                "7.8%"
+            ],
+            [
+                "District E",
+                "Branch 5",
+                "7.5%"
+            ]
+        ]
+    }
+}

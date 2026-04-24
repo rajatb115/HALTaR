@@ -1,0 +1,55 @@
+{
+    "table-758-758": {
+        "title": [
+            "Superhero Name",
+            "Weight_kg",
+            "Race",
+            "Affiliation",
+            "First_Appearance_Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the race of the superhero who weighed 169 kg.",
+        "data": [
+            [
+                "Hercules",
+                "476",
+                "Olympian God",
+                "Avengers",
+                "30 BC"
+            ],
+            [
+                "Thor Odinson",
+                "635",
+                "Asgardian",
+                "Avengers Group",
+                "50 AD"
+            ],
+            [
+                "Goliath",
+                "726",
+                "Golem",
+                "Defenders",
+                "800 CE"
+            ],
+            [
+                "Atlas",
+                "900",
+                "Titan",
+                "Justice League",
+                "-1000 BCE"
+            ],
+            [
+                "Kangaroo",
+                "0.08",
+                "Human Mutant",
+                "X-Men Team",
+                "1850 CE"
+            ]
+        ]
+    }
+}

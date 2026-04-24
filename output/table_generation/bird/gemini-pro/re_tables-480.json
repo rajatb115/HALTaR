@@ -1,0 +1,45 @@
+{
+    "table-480-480": {
+        "title": [
+            "Card Name",
+            "Converted Mana Cost",
+            "Power"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Coldsnap Cards with CMC > 5 and Unknown Power",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the cards with converted mana cost higher than 5 in the set Coldsnap, how many of them have unknown power?",
+        "data": [
+            [
+                "Boreal Kraken",
+                "7",
+                "*"
+            ],
+            [
+                "Chill to the Bone",
+                "6",
+                "*"
+            ],
+            [
+                "Heed the Maelstrom",
+                "7",
+                "*"
+            ],
+            [
+                "Into the North",
+                "6",
+                "*"
+            ],
+            [
+                "Krovikan Plunder",
+                "6",
+                "*"
+            ]
+        ]
+    }
+}

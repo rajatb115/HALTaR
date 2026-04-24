@@ -1,0 +1,69 @@
+{
+    "table-663-663": {
+        "title": [
+            "Post ID",
+            "Creation Year",
+            "Bounty Amount",
+            "Vote Count",
+            "Post Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts with votes that were created in 2011 have a bounty of 50?",
+        "data": [
+            [
+                "1001",
+                "2011",
+                "50",
+                "12",
+                "Question"
+            ],
+            [
+                "1005",
+                "2011",
+                "50",
+                "25",
+                "Question"
+            ],
+            [
+                "1012",
+                "2011",
+                "100",
+                "8",
+                "Question"
+            ],
+            [
+                "1018",
+                "2010",
+                "50",
+                "15",
+                "Question"
+            ],
+            [
+                "1023",
+                "2011",
+                "0",
+                "30",
+                "Answer"
+            ],
+            [
+                "1029",
+                "2011",
+                "50",
+                "7",
+                "Question"
+            ],
+            [
+                "1035",
+                "2012",
+                "50",
+                "20",
+                "Question"
+            ]
+        ]
+    }
+}

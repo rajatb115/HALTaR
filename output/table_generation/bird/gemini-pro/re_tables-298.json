@@ -1,0 +1,43 @@
+{
+    "table-298-298": {
+        "title": [
+            "Compound Name",
+            "Contains Carbon",
+            "Carcinogenic"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Carbon-Based Compounds and Carcinogenicity",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the atoms that contain element carbon, which one does not contain compound carcinogenic?",
+        "data": [
+            [
+                "Methane",
+                "Yes",
+                "No"
+            ],
+            [
+                "Benzene",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Ethanol",
+                "Yes",
+                "No"
+            ],
+            [
+                "Formaldehyde",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Carbon Tetrachloride",
+                "Yes",
+                "Yes"
+            ]
+        ]
+    }
+}

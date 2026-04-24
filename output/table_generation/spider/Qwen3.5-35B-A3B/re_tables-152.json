@@ -1,0 +1,83 @@
+{
+    "table-152-152": {
+        "title": [
+            "Store_Name",
+            "Product_Count",
+            "Average_Products",
+            "Status",
+            "Region",
+            "Manager_ID",
+            "Last_Audit_Date",
+            "Revenue_Monthly"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the names of stores whose number products is more than the average number of products.",
+        "data": [
+            [
+                "SuperMart Central",
+                "450",
+                "320",
+                "Above Avg",
+                "North",
+                "MGR_1012",
+                "06/15/2023",
+                "$125,000"
+            ],
+            [
+                "QuickBuy Eastside",
+                "510",
+                "N/A",
+                "Above",
+                "South",
+                "Mgr_2045",
+                "07/02/2023",
+                "$140,050"
+            ],
+            [
+                "ValueStop West",
+                "620",
+                "Avg",
+                "West",
+                "MGR_3099",
+                "08/10/2022",
+                "$180,20",
+                ""
+            ],
+            [
+                "FreshGrocer Hub",
+                "890",
+                "High",
+                "Midwest",
+                "MGr_4102",
+                "Sep 1st 2023",
+                "$210,500",
+                ""
+            ],
+            [
+                "MegaStore Plaza",
+                "950",
+                "High",
+                "East Coast",
+                "Mgr_5115",
+                "Oct 12th 2022",
+                "$300,100",
+                ""
+            ],
+            [
+                "BudgetBin Outlet",
+                "3",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

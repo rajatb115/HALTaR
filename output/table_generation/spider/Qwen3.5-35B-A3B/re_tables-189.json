@@ -1,0 +1,76 @@
+{
+    "table-189-189": {
+        "title": [
+            "Document ID",
+            "Template Code",
+            "Document Title",
+            "Department",
+            "Status",
+            "Created Date",
+            "Owner"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of documents that use templates with the code BK?",
+        "data": [
+            [
+                "DOC-4002",
+                "BK-Alpha",
+                "Annual Compliance Report",
+                "Legal",
+                "Active",
+                "06/15/2023",
+                "Sarah Jenkins"
+            ],
+            [
+                "DOC-DK99",
+                "BK-Core",
+                "Quarterly Financial Summary",
+                "Finance",
+                "Draft",
+                "07/22/2024",
+                "Michael Ross"
+            ],
+            [
+                "BK-REF-1010",
+                "BK-Govt",
+                "Regulatory Filing Form X",
+                "Operations",
+                "Archived",
+                "03/10/2021",
+                "Emily Chen"
+            ],
+            [
+                "DOCS-BK-55",
+                "BK-Secure",
+                "Internal Security Audit",
+                "IT",
+                "Pending Review",
+                "09/01/2025",
+                "David Kim"
+            ],
+            [
+                "BKT-2044",
+                "BK-HR",
+                "Employee Onboarding Guide",
+                "Human Resources",
+                "Published",
+                "04/12/2019",
+                "Jessica Lee"
+            ],
+            [
+                "FILE-BK-X",
+                "BK-Marketing",
+                "Campaign Strategy Deck",
+                "Marketing",
+                "In Progress",
+                "08/30/2018",
+                "Robert Fox"
+            ]
+        ]
+    }
+}

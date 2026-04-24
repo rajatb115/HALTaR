@@ -1,0 +1,94 @@
+{
+    "table-1163-1163": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Admission Year",
+            "Discharge Date",
+            "Follow-up Type",
+            "Follow-up Clinic",
+            "Follow-up Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female patients who came at the hospital in 1997 was immediately followed at the outpatient clinic?",
+        "data": [
+            [
+                "P1001",
+                "Female",
+                "1997",
+                "1997-01-15",
+                "Immediate Outpatient",
+                "General Clinic A",
+                "1997-01-16"
+            ],
+            [
+                "P1002",
+                "Female",
+                "1997",
+                "1997-02-20",
+                "Immediate Outpatient",
+                "Cardiology Clinic",
+                "1997-02-21"
+            ],
+            [
+                "P1003",
+                "Male",
+                "1997",
+                "1997-03-05",
+                "Immediate Outpatient",
+                "Orthopedic Clinic",
+                "1997-03-06"
+            ],
+            [
+                "P1004",
+                "Female",
+                "1996",
+                "1996-11-10",
+                "Immediate Outpatient",
+                "Pediatric Clinic",
+                "1996-11-11"
+            ],
+            [
+                "P1005",
+                "Female",
+                "1997",
+                "1997-04-12",
+                "Scheduled Inpatient",
+                "N/A",
+                "1997-05-01"
+            ],
+            [
+                "P1006",
+                "Female",
+                "1997",
+                "1997-05-25",
+                "No Follow-up",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "P1007",
+                "Male",
+                "1997",
+                "1997-06-01",
+                "Scheduled Outpatient",
+                "Dermatology Clinic",
+                "1997-06-15"
+            ],
+            [
+                "P1008",
+                "Female",
+                "1998",
+                "1998-01-03",
+                "Immediate Outpatient",
+                "General Clinic B",
+                "1998-01-04"
+            ]
+        ]
+    }
+}

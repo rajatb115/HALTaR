@@ -1,0 +1,46 @@
+{
+    "table-987-987": {
+        "title": [
+            "Race Name",
+            "Lap Number",
+            "Lap Time (ms)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Fastest First Lap Times in Races",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which race did the fastest 1st lap time was recorded? Please indicate the time in milliseconds.",
+        "data": [
+            [
+                "Race A",
+                "1",
+                "90000"
+            ],
+            [
+                "Race B",
+                "1",
+                "85000"
+            ],
+            [
+                "Race C",
+                "1",
+                "92000"
+            ],
+            [
+                "Race D",
+                "1",
+                "88000"
+            ],
+            [
+                "Race E",
+                "1",
+                "83000"
+            ]
+        ]
+    }
+}

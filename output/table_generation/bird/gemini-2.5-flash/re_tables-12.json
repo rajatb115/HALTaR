@@ -1,0 +1,69 @@
+{
+    "table-12-12": {
+        "title": [
+            "School Code",
+            "School Name",
+            "Total Enrollment",
+            "Location",
+            "School Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the codes of the schools with a total enrollment of over 500.",
+        "data": [
+            [
+                "SCH001",
+                "Northwood High",
+                "785",
+                "Fairview",
+                "Public High"
+            ],
+            [
+                "SCH002",
+                "Green Valley Middle",
+                "490",
+                "Green Valley",
+                "Public Middle"
+            ],
+            [
+                "SCH003",
+                "Riverside Prep",
+                "550",
+                "Riverside",
+                "Private K-12"
+            ],
+            [
+                "SCH004",
+                "Central Elementary",
+                "320",
+                "Fairview",
+                "Public Elementary"
+            ],
+            [
+                "SCH005",
+                "Westside College",
+                "1200",
+                "Westside",
+                "Community College"
+            ],
+            [
+                "SCH006",
+                "Eastbrook High",
+                "610",
+                "Eastbrook",
+                "Public High"
+            ],
+            [
+                "SCH007",
+                "Lakeside Primary",
+                "280",
+                "Lakeside",
+                "Public Primary"
+            ]
+        ]
+    }
+}

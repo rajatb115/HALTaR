@@ -1,0 +1,61 @@
+{
+    "table-950-950": {
+        "title": [
+            "Constructor",
+            "Total Points",
+            "Wins",
+            "Championships"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which constructor has the highest point?",
+        "data": [
+            [
+                "Ferrari",
+                "8000",
+                "243",
+                "16"
+            ],
+            [
+                "Mercedes",
+                "6500",
+                "125",
+                "8"
+            ],
+            [
+                "McLaren",
+                "5500",
+                "183",
+                "8"
+            ],
+            [
+                "Red Bull Racing",
+                "4800",
+                "95",
+                "6"
+            ],
+            [
+                "Williams",
+                "3500",
+                "114",
+                "9"
+            ],
+            [
+                "Alpine",
+                "1200",
+                "2",
+                "0"
+            ],
+            [
+                "Aston Martin",
+                "800",
+                "1",
+                "0"
+            ]
+        ]
+    }
+}

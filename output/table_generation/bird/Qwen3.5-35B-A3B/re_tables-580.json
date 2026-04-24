@@ -1,0 +1,58 @@
+{
+    "table-580-580": {
+        "title": [
+            "Comment ID",
+            "Author",
+            "Date",
+            "Content Summary",
+            "Sentiment",
+            "Upvotes",
+            "Post Title Match"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write all comments made on the post titled 'How does gentle boosting differ from AdaBoost?'",
+        "data": [
+            [
+                "CMT_0042",
+                "Dr_Alex_ML",
+                "7/12/2023",
+                "Explains how Gentle Boosting uses least squares instead of exponential loss for regression tasks.",
+                "Informative",
+                "45",
+                "Yes"
+            ],
+            [
+                "CMT_1109",
+                "Sarah_DataSci",
+                "8/03/2022",
+                "Notes that Gentle Boost is more robust against outliers compared to standard AdaBoost in noisy datasets.",
+                "Analytical",
+                "32",
+                "Yes"
+            ],
+            [
+                "CMT_CV99",
+                "ML_Engineer_Joe",
+                "9/15/2323",
+                "Asks whether the convergence rate differs significantly between the two algorithms when applied to high-dimensional features.",
+                "Inquisitive",
+                "67",
+                "No"
+            ],
+            [
+                "CMM_TT22",
+                "Prof_Learning",
+                "01/28/2424",
+                "Clarifies that while both use weak learners, Gentle Boost updates predictions by adding half-steps rather than full steps.",
+                "Educational",
+                "58",
+                "Yes"
+            ]
+        ]
+    }
+}

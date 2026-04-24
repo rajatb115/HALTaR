@@ -1,0 +1,62 @@
+{
+    "table-1237-1237": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Age",
+            "RBC Status",
+            "Hospital Admitted"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the female patient age 50 and above, who has abnormal red blood cell count. State if they were admitted to hospital.",
+        "data": [
+            [
+                "P1042",
+                "Female",
+                "52",
+                "Abnormal Low",
+                "Yes"
+            ],
+            [
+                "P2193",
+                "Female",
+                "67",
+                "Abnormally High",
+                "No"
+            ],
+            [
+                "P3055",
+                "Female",
+                "55",
+                "Abnormal High",
+                "Yes"
+            ],
+            [
+                "P4102",
+                "Female",
+                "71",
+                "Abnormal Low",
+                "No"
+            ],
+            [
+                "P5289",
+                "Female",
+                "58",
+                "Abnormally High",
+                "Yes"
+            ],
+            [
+                "P6341",
+                "Female",
+                "63",
+                "Abnormal Low",
+                "No"
+            ]
+        ]
+    }
+}

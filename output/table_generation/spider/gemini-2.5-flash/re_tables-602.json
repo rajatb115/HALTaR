@@ -1,0 +1,69 @@
+{
+    "table-602-602": {
+        "title": [
+            "OwnerLastName",
+            "DogName",
+            "DogBreed",
+            "DogAgeMonths",
+            "DogWeightKg"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the last name of the owner owning the youngest dog.",
+        "data": [
+            [
+                "Smith",
+                "Max",
+                "Golden Retriever",
+                "24",
+                "30"
+            ],
+            [
+                "Jones",
+                "Bella",
+                "Labrador",
+                "15",
+                "28"
+            ],
+            [
+                "Davis",
+                "Charlie",
+                "Poodle",
+                "36",
+                "18"
+            ],
+            [
+                "Miller",
+                "Lucy",
+                "German Shepherd",
+                "8",
+                "25"
+            ],
+            [
+                "Garcia",
+                "Cooper",
+                "Beagle",
+                "48",
+                "15"
+            ],
+            [
+                "Rodriguez",
+                "Daisy",
+                "Bulldog",
+                "6",
+                "22"
+            ],
+            [
+                "Wilson",
+                "Buddy",
+                "Chihuahua",
+                "12",
+                "5"
+            ]
+        ]
+    }
+}

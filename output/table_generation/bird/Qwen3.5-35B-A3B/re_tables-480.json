@@ -1,0 +1,27 @@
+{
+    "table-480-480": {
+        "title": [
+            "Card Name",
+            "Converted Mana Cost",
+            "Power Status",
+            "Set",
+            "Rarity"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 1,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the cards with converted mana cost higher than 5 in the set Coldsnap, how many of them have unknown power?",
+        "data": [
+            [
+                "Blightsteel Colossus",
+                "7",
+                "Unknown",
+                "Cold Snap",
+                "Rare"
+            ]
+        ]
+    }
+}

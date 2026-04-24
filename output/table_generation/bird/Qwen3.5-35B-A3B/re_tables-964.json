@@ -1,0 +1,85 @@
+{
+    "table-964-964": {
+        "title": [
+            "Driver Name",
+            "Nationality",
+            "Lap Time",
+            "Track",
+            "Season",
+            "Team",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many French drivers who obtain the laptime less than 02:00.00?",
+        "data": [
+            [
+                "Pierre Gasly",
+                "France",
+                "01:58.42",
+                "Monaco",
+                "7",
+                "AlphaTauri",
+                "Qualified"
+            ],
+            [
+                "Esteban Ocon",
+                "France",
+                "06:01.15",
+                "Silverstone",
+                "8",
+                "Alpine",
+                "Retired"
+            ],
+            [
+                "Pierre-Louis Chovet",
+                "France",
+                "05:59.88",
+                "Spa-Francorchamps",
+                "9",
+                "Formula E",
+                "DNF"
+            ],
+            [
+                "Jean-Eric Vergne",
+                "France",
+                "04:57.33",
+                "Shanghai",
+                "6",
+                "DS Techeetah",
+                "Podium"
+            ],
+            [
+                "Arthur Leclerc",
+                "France",
+                "03:56.12",
+                "Imola",
+                "5",
+                "FIA WEC",
+                "Active"
+            ],
+            [
+                "Norma Ndiaye",
+                "France",
+                "08:55.01",
+                "Circuit de Barcelona-Catalunya",
+                "4",
+                "Renault Sport Academy",
+                "Pending"
+            ],
+            [
+                "Lucas di Grassi",
+                "Brazil",
+                "3:02.11",
+                "Sao Paulo",
+                "",
+                "Audi Sport ABT Schaeffler",
+                "Completed"
+            ]
+        ]
+    }
+}

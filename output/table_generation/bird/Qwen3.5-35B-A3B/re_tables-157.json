@@ -1,0 +1,76 @@
+{
+    "table-157-157": {
+        "title": [
+            "Account ID",
+            "Owner Name",
+            "Loan Amount",
+            "Status",
+            "Interest Rate",
+            "Origination Date",
+            "Branch Code"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the owner of the account with the largest loan amount?",
+        "data": [
+            [
+                "ACC-74012",
+                "Sarah Jenkins",
+                "$450,000",
+                "Active",
+                "6.5%",
+                "03/15/2021",
+                "BR-NY-CENTRAL"
+            ],
+            [
+                "ACC-BB-992",
+                "Michael Chen",
+                "$320,500",
+                "Closed",
+                "N/A",
+                "06/30/2021",
+                "BR-LA-WEST"
+            ],
+            [
+                "ACC-XJ-110",
+                "David Ross",
+                "$285,090",
+                "Delinquent",
+                "8.2%",
+                "01/12/2022",
+                "BR-TX-SOUTH"
+            ],
+            [
+                "ACC-MK-554",
+                "Emily White",
+                "$195,205",
+                "Active",
+                "5.9%",
+                "11/05/2018",
+                "FL-EAST"
+            ],
+            [
+                "ACC-QP-332",
+                "Robert Black",
+                "$89,050",
+                "Paid Off",
+                "4.5%",
+                "12/10/2009",
+                "CA-NORTH"
+            ],
+            [
+                "ACC-ZZ-881",
+                "Lisa",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

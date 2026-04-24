@@ -1,0 +1,43 @@
+{
+    "table-1467-1467": {
+        "title": [
+            "Full Name",
+            "Position",
+            "College"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Club Member Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Write the full name of the club member with the position of 'Secretary' and list which college the club member belongs to.",
+        "data": [
+            [
+                "John Smith",
+                "Secretary",
+                "Engineering"
+            ],
+            [
+                "Jane Doe",
+                "Treasurer",
+                "Arts & Science"
+            ],
+            [
+                "Peter Jones",
+                "President",
+                "Business"
+            ],
+            [
+                "Alice Brown",
+                "Vice-President",
+                "Law"
+            ],
+            [
+                "David Lee",
+                "Member",
+                "Medicine"
+            ]
+        ]
+    }
+}

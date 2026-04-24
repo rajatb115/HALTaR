@@ -1,0 +1,58 @@
+{
+    "table-326-326": {
+        "title": [
+            "Molecule ID",
+            "Name",
+            "Nitrogen Count",
+            "Carcinogen Class",
+            "Source",
+            "CAS Number",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many carcinogenic molecules that consisted of Nitrogen?",
+        "data": [
+            [
+                "CARB-N01",
+                "Benzidine",
+                "4",
+                "Aromatic Amine",
+                "Industrial Dye",
+                "92-87-5",
+                "Confirmed"
+            ],
+            [
+                "RADI-N02",
+                "Vinyl Chloride Monomer",
+                "1",
+                "Alkyl Halide",
+                "PVC Production",
+                "75-01-4",
+                "Probable"
+            ],
+            [
+                "METH-N03",
+                "Methylhydrazine",
+                "2",
+                "Hydrazine Derivative",
+                "Rocket Fuel",
+                "60-34-4",
+                "Expected"
+            ],
+            [
+                "PYRO-N04",
+                "Pyridine Carcinoid",
+                "1",
+                "Polycyclic Heteroaromatic",
+                "Tobacco Smoke",
+                "110-86-1",
+                "Suspected"
+            ]
+        ]
+    }
+}

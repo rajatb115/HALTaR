@@ -1,0 +1,58 @@
+{
+    "table-1193-1193": {
+        "title": [
+            "Patient ID",
+            "Follow-Up Date",
+            "Lab Test Date",
+            "Bilirubin Level",
+            "Normal Range"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            3
+        ],
+        "pgTitle": "Patient Lab Results - October 1991 Outpatient Follow-Up",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all patients who were followed up at the outpatient clinic who underwent a laboratory test in October 1991 and had a total blood bilirubin level within the normal range.",
+        "data": [
+            [
+                "12345",
+                "1991-10-15",
+                "1991-10-10",
+                "0.8",
+                "0.2 - 1.0"
+            ],
+            [
+                "67890",
+                "1991-10-22",
+                "1991-10-17",
+                "0.5",
+                "0.2 - 1.0"
+            ],
+            [
+                "24680",
+                "1991-10-08",
+                "1991-10-03",
+                "0.9",
+                "0.2 - 1.0"
+            ],
+            [
+                "13579",
+                "1991-10-29",
+                "1991-10-24",
+                "0.6",
+                "0.2 - 1.0"
+            ],
+            [
+                "98765",
+                "1991-10-01",
+                "1991-10-01",
+                "0.7",
+                "0.2 - 1.0"
+            ]
+        ]
+    }
+}

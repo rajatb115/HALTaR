@@ -1,0 +1,39 @@
+{
+    "table-1479-1479": {
+        "title": [
+            "Segment",
+            "Consumption"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Consumption by Segment",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which segment had the least consumption?",
+        "data": [
+            [
+                "Segment A",
+                "100"
+            ],
+            [
+                "Segment B",
+                "150"
+            ],
+            [
+                "Segment C",
+                "80"
+            ],
+            [
+                "Segment D",
+                "200"
+            ],
+            [
+                "Segment E",
+                "120"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "table-1260-1260": {
+        "title": [
+            "Patient ID",
+            "Date of Birth",
+            "Rheumatoid Factor Status",
+            "Diagnosed Disease",
+            "Diagnosis Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the diseases of the patients born after 1995-1-1 and have a normal Rhuematoid Factor.",
+        "data": [
+            [
+                "P-1042",
+                "06/15/1978",
+                "Normal",
+                "Systemic Lupus Erythematosus",
+                "3/12/2021"
+            ],
+            [
+                "P-K891",
+                "09/22/1899",
+                "Normal",
+                "Osteoarthritis",
+                "7/30/219"
+            ],
+            [
+                "M-2201",
+                "11/05/2999",
+                "Normal",
+                "Rheumatic Fever",
+                "1/14/2300"
+            ],
+            [
+                "J-5543",
+                "02/03/2500",
+                "Normal",
+                "Psoriatic Arthritis",
+                "5/06/2400"
+            ]
+        ]
+    }
+}

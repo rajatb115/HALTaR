@@ -1,0 +1,43 @@
+{
+    "table-794-794": {
+        "title": [
+            "Superhero Name",
+            "Gender",
+            "Race"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Gender Distribution of God/Eternal Superheroes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the superheroes with the race of god/eternal, how many of them are male",
+        "data": [
+            [
+                "Thor",
+                "Male",
+                "Asgardian"
+            ],
+            [
+                "Loki",
+                "Male",
+                "Jotun/Asgardian"
+            ],
+            [
+                "Angela",
+                "Female",
+                "Angel/Asgardian"
+            ],
+            [
+                "Sersi",
+                "Female",
+                "Eternal"
+            ],
+            [
+                "Ikaris",
+                "Male",
+                "Eternal"
+            ]
+        ]
+    }
+}

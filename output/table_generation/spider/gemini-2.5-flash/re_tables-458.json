@@ -1,0 +1,49 @@
+{
+    "table-458-458": {
+        "title": [
+            "Territory",
+            "Status",
+            "GDP (Millions USD)",
+            "Population"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the mean GNP and total population of nations which are considered US territory.",
+        "data": [
+            [
+                "Puerto Rico",
+                "Unincorporated, Organized",
+                "105000",
+                "3200000"
+            ],
+            [
+                "Guam",
+                "Unincorporated, Organized",
+                "6200",
+                "170000"
+            ],
+            [
+                "U.S. Virgin Islands",
+                "Unincorporated, Organized",
+                "4100",
+                "100000"
+            ],
+            [
+                "American Samoa",
+                "Unincorporated, Unorganized",
+                "750",
+                "45000"
+            ],
+            [
+                "Northern Mariana Islands",
+                "Unincorporated, Organized",
+                "1600",
+                "47000"
+            ]
+        ]
+    }
+}

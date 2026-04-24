@@ -1,0 +1,85 @@
+{
+    "table-1481-1481": {
+        "title": [
+            "Customer Segment",
+            "Month",
+            "Peak Consumption (MWh)",
+            "Date Recorded",
+            "Region",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the gas consumption peak month for SME customers in 2013?",
+        "data": [
+            [
+                "SME Customers",
+                "January 2",
+                "4520",
+                "01/02/2023",
+                "North East",
+                "Verified"
+            ],
+            [
+                "SMA Customers",
+                "February 26",
+                "3890",
+                "Feb 27, 23, 12 PM",
+                "South West",
+                "Pending Review"
+            ],
+            [
+                "Small Business",
+                "March 15",
+                "5100",
+                "Mar 16, 08 AM",
+                "Central District",
+                "Confirmed"
+            ],
+            [
+                "Medium Enterprises",
+                "April 10",
+                "N/A",
+                "Apr 11, 9:00 AM",
+                "Northern Zone",
+                "Data Missing"
+            ],
+            [
+                "Corporate Clients",
+                "May 22",
+                "N/D",
+                "May, 3rd Quarter",
+                "Eastern Sector",
+                "In Progress"
+            ],
+            [
+                "Local Firms",
+                "June 05",
+                "N/E",
+                "Jun 06, Morning",
+                "Western Coast",
+                "Under Audit"
+            ],
+            [
+                "Industrial Units",
+                "July 18",
+                "6205",
+                "Jul 1st",
+                "Southern Hub",
+                "Finalized"
+            ],
+            [
+                "Retail Groups",
+                "August 30",
+                "None",
+                "Aug 31, Evening",
+                "Capital City",
+                "Rejected"
+            ]
+        ]
+    }
+}

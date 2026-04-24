@@ -1,0 +1,49 @@
+{
+    "table-126-126": {
+        "title": [
+            "Airline",
+            "Flight Number",
+            "Origin Airport",
+            "Arrival Time"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Airlines Serving Airport AHD",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are airlines that have flights arriving at airport 'AHD'?",
+        "data": [
+            [
+                "United Airlines",
+                "UA123",
+                "IAH",
+                "08:00"
+            ],
+            [
+                "American Airlines",
+                "AA456",
+                "DFW",
+                "09:30"
+            ],
+            [
+                "Southwest Airlines",
+                "WN789",
+                "DAL",
+                "10:15"
+            ],
+            [
+                "Delta Airlines",
+                "DL012",
+                "ATL",
+                "11:00"
+            ],
+            [
+                "Spirit Airlines",
+                "NK345",
+                "LAS",
+                "12:45"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-1427-1427": {
+        "title": [
+            "Last Name",
+            "Major",
+            "Department",
+            "College"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Environmental Engineering Members",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the last name of members with a major in environmental engineering and include its department and college name.",
+        "data": [
+            [
+                "Smith",
+                "Environmental Engineering",
+                "Civil and Environmental Engineering",
+                "College of Engineering"
+            ],
+            [
+                "Jones",
+                "Environmental Engineering",
+                "Civil and Environmental Engineering",
+                "College of Engineering"
+            ],
+            [
+                "Garcia",
+                "Environmental Engineering",
+                "Civil and Environmental Engineering",
+                "College of Engineering"
+            ],
+            [
+                "Brown",
+                "Environmental Engineering",
+                "Civil and Environmental Engineering",
+                "College of Science and Engineering"
+            ],
+            [
+                "Davis",
+                "Environmental Engineering",
+                "Chemical and Environmental Engineering",
+                "College of Engineering"
+            ]
+        ]
+    }
+}

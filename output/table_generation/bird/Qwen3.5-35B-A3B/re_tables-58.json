@@ -1,0 +1,90 @@
+{
+    "table-58-58": {
+        "title": [
+            "School ID",
+            "Average Writing Score",
+            "Rank",
+            "Phone Number",
+            "Extension"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 10,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the phone number and extension number for the school that had the 333rd highest average writing score?",
+        "data": [
+            [
+                "SCH_402",
+                "76.4",
+                "328",
+                "555-0192",
+                "ext 401"
+            ],
+            [
+                "SCH_415",
+                "82.1",
+                "412",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "SCH_CENTRAL",
+                "68.9",
+                "98",
+                "N/A",
+                "N/A"
+            ],
+            [
+                "WEST_HILLS_EDU",
+                "0.0",
+                "",
+                "",
+                ""
+            ],
+            [
+                "EAST_VALLEY_ACADEMY",
+                "0.0",
+                "",
+                "",
+                ""
+            ],
+            [
+                "SOUTH_BAY_INSTITUTE",
+                "0",
+                "",
+                "",
+                ""
+            ],
+            [
+                "MIDTOWN_PREP",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "NORTH_SHORE_HIGH",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "RIVERVIEW_LEARNING",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "LAKEFRONT_SENIOR",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

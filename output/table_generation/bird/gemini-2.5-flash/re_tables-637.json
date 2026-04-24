@@ -1,0 +1,85 @@
+{
+    "table-637-637": {
+        "title": [
+            "Post ID",
+            "Post Title",
+            "Author",
+            "Post Date",
+            "Total Comments",
+            "Negative Comments",
+            "Avg. Sentiment Score"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many negative comments did Neil McGuigan get in his posts?",
+        "data": [
+            [
+                "P001",
+                "My Thoughts on AI Ethics",
+                "Neil McGuigan",
+                "2023-10-26",
+                "125",
+                "38",
+                "-0.25"
+            ],
+            [
+                "P002",
+                "Future of Remote Work",
+                "Neil McGuigan",
+                "2023-09-15",
+                "88",
+                "12",
+                "0.15"
+            ],
+            [
+                "P003",
+                "Data Privacy Challenges",
+                "Neil McGuigan",
+                "2023-08-01",
+                "210",
+                "65",
+                "-0.40"
+            ],
+            [
+                "P004",
+                "Project Alpha Retrospective",
+                "Neil McGuigan",
+                "2023-07-10",
+                "55",
+                "5",
+                "0.30"
+            ],
+            [
+                "P005",
+                "Team Building Strategies",
+                "Sarah Chen",
+                "2023-06-20",
+                "72",
+                "8",
+                "0.20"
+            ],
+            [
+                "P006",
+                "Latest Tech Trends",
+                "Neil McGuigan",
+                "2023-05-05",
+                "150",
+                "22",
+                "0.05"
+            ],
+            [
+                "P007",
+                "The Impact of Big Data",
+                "Neil McGuigan",
+                "2023-04-18",
+                "95",
+                "18",
+                "-0.10"
+            ]
+        ]
+    }
+}

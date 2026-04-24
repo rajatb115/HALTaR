@@ -1,0 +1,85 @@
+{
+    "table-192-192": {
+        "title": [
+            "Account ID",
+            "Loan Duration Months",
+            "Statement Frequency",
+            "Pre-Payment Status",
+            "Total Accounts",
+            "Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many loan accounts are for pre-payment of duration of 24 months with weekly issuance of statement.",
+        "data": [
+            [
+                "ACC-7002",
+                "6",
+                "Weekly",
+                "Active",
+                "45",
+                "North"
+            ],
+            [
+                "ACC-A109",
+                "8",
+                "Monthly",
+                "Pending",
+                "32",
+                "South"
+            ],
+            [
+                "ACC-B205",
+                "9",
+                "Bi-weekly",
+                "Completed",
+                "58",
+                "East"
+            ],
+            [
+                "ACC-C311",
+                "7",
+                "Daily",
+                "Suspended",
+                "0",
+                "West"
+            ],
+            [
+                "ACC-D422",
+                "24",
+                "Weekly",
+                "Active/Prepaying",
+                "",
+                "Central"
+            ],
+            [
+                "ACC-E533",
+                "24",
+                "Weekly",
+                "Inactive",
+                "N/A",
+                "Midwest"
+            ],
+            [
+                "ACC-F644",
+                "25",
+                "Weekly",
+                "New Application",
+                "N/A",
+                "Northeast"
+            ],
+            [
+                "ACC-G755",
+                "23",
+                "Weekly",
+                "Processing",
+                "None",
+                "Southeast"
+            ]
+        ]
+    }
+}

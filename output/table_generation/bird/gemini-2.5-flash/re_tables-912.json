@@ -1,0 +1,62 @@
+{
+    "table-912-912": {
+        "title": [
+            "Circuit Name",
+            "Country",
+            "Latitude (Decimal Degrees)",
+            "Longitude (Decimal Degrees)",
+            "Primary Use"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which of these circuits is located at a higher latitude, Silverstone Circuit, Hockenheimring or Hungaroring?",
+        "data": [
+            [
+                "Silverstone Circuit",
+                "United Kingdom",
+                "52.078",
+                "-1.017",
+                "Formula 1"
+            ],
+            [
+                "Hockenheimring",
+                "Germany",
+                "49.327",
+                "8.565",
+                "Formula 1"
+            ],
+            [
+                "Hungaroring",
+                "Hungary",
+                "47.578",
+                "19.250",
+                "Formula 1"
+            ],
+            [
+                "Circuit de Spa-Francorchamps",
+                "Belgium",
+                "50.437",
+                "5.971",
+                "Formula 1"
+            ],
+            [
+                "Monza Circuit",
+                "Italy",
+                "45.623",
+                "9.281",
+                "Formula 1"
+            ],
+            [
+                "Red Bull Ring",
+                "Austria",
+                "47.219",
+                "14.765",
+                "Formula 1"
+            ]
+        ]
+    }
+}

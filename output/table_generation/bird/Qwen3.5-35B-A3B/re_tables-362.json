@@ -1,0 +1,77 @@
+{
+    "table-362-362": {
+        "title": [
+            "Card ID",
+            "Legal Status",
+            "Has Text Box",
+            "Set Code",
+            "Release Date",
+            "Rarity"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many cards of legalities whose status is restricted have text boxes?",
+        "data": [
+            [
+                "C0042",
+                "Restricted",
+                "Yes",
+                "Alpha",
+                "93",
+                "Rare"
+            ],
+            [
+                "C1156",
+                "Restricted",
+                "No",
+                "Beta",
+                "87",
+                "Uncommon"
+            ],
+            [
+                "R0099",
+                "Restricted",
+                "Yes",
+                "Revised",
+                "34",
+                "Common"
+            ],
+            [
+                "S2201",
+                "Restricted",
+                "No",
+                "Shadowborn",
+                "01",
+                "Limited Edition"
+            ],
+            [
+                "T3344",
+                "Restricted",
+                "Yes",
+                "Tempest",
+                "45",
+                "Mythic"
+            ],
+            [
+                "U4455",
+                "Restricted",
+                "No",
+                "Urza's Saga",
+                "55",
+                "Legendary"
+            ],
+            [
+                "V5566",
+                "Restricted",
+                "Yes",
+                "Visions",
+                "66",
+                "Rare"
+            ]
+        ]
+    }
+}

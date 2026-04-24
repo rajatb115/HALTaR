@@ -1,0 +1,76 @@
+{
+    "table-1132-1132": {
+        "title": [
+            "Player Name",
+            "Position",
+            "Height_cm",
+            "Team",
+            "League",
+            "Season",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average heights of Italy players?",
+        "data": [
+            [
+                "Gianluigi Donnarumma",
+                "Goalkeeper",
+                "194",
+                "PSG",
+                "Ligue 1",
+                "2023-24",
+                "Active"
+            ],
+            [
+                "Leonardo Bonucci",
+                "Defender",
+                "191",
+                "Juventus",
+                "Serie A",
+                "2022-23",
+                "Retired"
+            ],
+            [
+                "Giorgio Chiellini",
+                "Defender",
+                "186",
+                "Fiorentina",
+                "Serie B",
+                "2022-23",
+                "Retired"
+            ],
+            [
+                "Federico Chiesa",
+                "Forward",
+                "175",
+                "Liverpool",
+                "Premier League",
+                "2023-24",
+                "Active"
+            ],
+            [
+                "Nicolo Barella",
+                "Midfielder",
+                "172",
+                "Inter Milan",
+                "Serie A",
+                "2023-24",
+                "Active"
+            ],
+            [
+                "Alessandro Bastoni",
+                "Defender",
+                "185",
+                "Inter Milan",
+                "Serie A",
+                "2023-24",
+                "Active"
+            ]
+        ]
+    }
+}

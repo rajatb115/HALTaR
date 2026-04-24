@@ -1,0 +1,69 @@
+{
+    "table-657-657": {
+        "title": [
+            "Property Code",
+            "Description",
+            "Category",
+            "Zoning Status",
+            "Last Updated"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show the property type descriptions of properties belonging to that code.",
+        "data": [
+            [
+                "PC-004",
+                "Single-family detached residence in suburban zone",
+                "Residential",
+                "Approved",
+                "06/15/2023"
+            ],
+            [
+                "PC-D12",
+                "Multi-unit apartment complex with commercial ground floor",
+                "Mixed-Use",
+                "Conditional",
+                "03/22/2024"
+            ],
+            [
+                "RC-789",
+                "Industrial warehouse facility with loading docks",
+                "Commercial",
+                "Pending Review",
+                "N/A"
+            ],
+            [
+                "HC-101",
+                "Historic preservation district residential unit",
+                "Heritage Zone",
+                "Restricted",
+                "11/05/19"
+            ],
+            [
+                "HC-112",
+                "Modern eco-friendly townhome cluster",
+                "Green Building",
+                "Certified",
+                "01/30/25"
+            ],
+            [
+                "LC-555",
+                "Large-scale logistics distribution center",
+                "Heavy Industry",
+                "Active",
+                "09/12/18"
+            ],
+            [
+                "MC-203",
+                "Medical office building near hospital corridor",
+                "Special Permit",
+                "Required",
+                "04/08/23"
+            ]
+        ]
+    }
+}

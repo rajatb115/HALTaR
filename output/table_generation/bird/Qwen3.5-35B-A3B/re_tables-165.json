@@ -1,0 +1,53 @@
+{
+    "table-165-165": {
+        "title": [
+            "Order ID",
+            "Customer Name",
+            "Placement Date",
+            "Status",
+            "Total Amount",
+            "Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who placed the order with the id 32423?",
+        "data": [
+            [
+                "31905",
+                "Alice Johnson",
+                "06/12/2023",
+                "Completed",
+                "$1,250.00",
+                "North America"
+            ],
+            [
+                "3242",
+                "Bob Smith",
+                "30/07/2023",
+                "Shipped",
+                "$890.50",
+                "Europe"
+            ],
+            [
+                "32510",
+                "Carol White",
+                "",
+                "Pending",
+                "$2,100.75",
+                "Asia Pacific"
+            ],
+            [
+                "29881",
+                "David Brown",
+                "",
+                "Cancelled",
+                "$45,000.00",
+                "South America"
+            ]
+        ]
+    }
+}

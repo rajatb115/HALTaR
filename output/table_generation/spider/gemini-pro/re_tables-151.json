@@ -1,0 +1,51 @@
+{
+    "table-151-151": {
+        "title": [
+            "Shop Name",
+            "Location",
+            "District",
+            "Number of Products"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            3
+        ],
+        "pgTitle": "Shops Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Sort all the shops by number products in descending order, and return the name, location and district of each shop.",
+        "data": [
+            [
+                "Shop A",
+                "123 Main St",
+                "Downtown",
+                "150"
+            ],
+            [
+                "Shop B",
+                "456 Oak Ave",
+                "Suburb",
+                "120"
+            ],
+            [
+                "Shop C",
+                "789 Pine Ln",
+                "Downtown",
+                "90"
+            ],
+            [
+                "Shop D",
+                "101 Elm Rd",
+                "Suburb",
+                "75"
+            ],
+            [
+                "Shop E",
+                "222 Maple Dr",
+                "Industrial",
+                "60"
+            ]
+        ]
+    }
+}

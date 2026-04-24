@@ -1,0 +1,83 @@
+{
+    "table-618-618": {
+        "title": [
+            "Dog_Name",
+            "Age_Years",
+            "Weight_Lbs",
+            "Abandoned_Yes_No",
+            "Breed_Type",
+            "Shelter_ID",
+            "Intake_Date",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the dog name, age and weight of the dogs who have been abandoned? 1 stands for yes, and 0 stands for no.",
+        "data": [
+            [
+                "Bella",
+                "4",
+                "65",
+                "0",
+                "Labrador Mix",
+                "SHT-1012",
+                "7/15/2023",
+                "Active"
+            ],
+            [
+                "Max",
+                "8",
+                "52",
+                "Yes",
+                "German Shepherd",
+                "SXT-2045",
+                "Jan 10, 24",
+                "Pending"
+            ],
+            [
+                "Luna",
+                "3",
+                "90",
+                "No",
+                "Golden Retriever",
+                "SHY-3301 Mar 22, 1234",
+                "Adopted",
+                ""
+            ],
+            [
+                "Rocky",
+                "6",
+                "45",
+                "Yes",
+                "Pit Bull Terrier",
+                "SZT-4412",
+                "Feb 28,  23",
+                "Quarantine"
+            ],
+            [
+                "Daisy",
+                "N/A",
+                "38",
+                "No",
+                "Beagle",
+                "SWU-5523\tJun 05, \t2019",
+                "Foster Care",
+                ""
+            ],
+            [
+                "Charlie",
+                "Senior",
+                "7",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-1451-1451": {
+        "title": [
+            "Event Name",
+            "City",
+            "Country",
+            "Incomes"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In the events with more than forty incomes, list the city and country in which the event is happening.",
+        "data": [
+            [
+                "Global Tech Summit",
+                "San Francisco",
+                "USA",
+                "120"
+            ],
+            [
+                "International Food Festival",
+                "Paris",
+                "France",
+                "85"
+            ],
+            [
+                "World Music Expo",
+                "Berlin",
+                "Germany",
+                "62"
+            ],
+            [
+                "Sustainable Living Fair",
+                "Sydney",
+                "Australia",
+                "78"
+            ],
+            [
+                "Annual Robotics Challenge",
+                "Tokyo",
+                "Japan",
+                "91"
+            ],
+            [
+                "Digital Marketing Conference",
+                "London",
+                "UK",
+                "55"
+            ],
+            [
+                "Urban Art Showcase",
+                "New York",
+                "USA",
+                "47"
+            ]
+        ]
+    }
+}

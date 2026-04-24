@@ -1,0 +1,85 @@
+{
+    "table-694-694": {
+        "title": [
+            "User ID",
+            "Username",
+            "Account Created Date",
+            "Post Count",
+            "Comment Count",
+            "Total Interactions",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the number of posts and comments left by the user, who has the latest created user account.",
+        "data": [
+            [
+                "U_7492",
+                "jdoe_admin",
+                "6/15/2024",
+                "42",
+                "89",
+                "31",
+                "Active"
+            ],
+            [
+                "U_A1B2",
+                "ksmith_dev",
+                "5/30/2024",
+                "N/A",
+                "N/A",
+                "0",
+                "Inactive"
+            ],
+            [
+                "C_X9Y8",
+                "mlee_designer",
+                "7/1/2022",
+                "",
+                "",
+                "-",
+                "Pending"
+            ],
+            [
+                "D_P3Q4",
+                "rjohns_writer",
+                "9/12/2023",
+                "",
+                "",
+                "",
+                "Deleted"
+            ],
+            [
+                "E_M5N6",
+                "tchen_researcher",
+                "10/05/2020",
+                "",
+                "",
+                "-",
+                "Suspended"
+            ],
+            [
+                "F_L7K8",
+                "snguyen_analyst",
+                "11/11/2023",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "G_H9J0",
+                "bwilliams_manager",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

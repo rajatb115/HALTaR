@@ -1,0 +1,52 @@
+{
+    "table-1480-1480": {
+        "title": [
+            "Year",
+            "Consumption (Units)",
+            "Currency",
+            "Payment Method"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Gas Consumption Data in CZK",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which year recorded the most consumption of gas paid in CZK?",
+        "data": [
+            [
+                "2018",
+                "1500",
+                "CZK",
+                "Cash"
+            ],
+            [
+                "2019",
+                "1650",
+                "CZK",
+                "Bank Transfer"
+            ],
+            [
+                "2020",
+                "1700",
+                "CZK",
+                "Bank Transfer"
+            ],
+            [
+                "2021",
+                "1800",
+                "CZK",
+                "Card"
+            ],
+            [
+                "2022",
+                "1750",
+                "CZK",
+                "Card"
+            ]
+        ]
+    }
+}

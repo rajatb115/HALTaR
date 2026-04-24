@@ -1,0 +1,85 @@
+{
+    "table-1227-1227": {
+        "title": [
+            "Patient_ID",
+            "Age_Years",
+            "Total_Chol_Mg_dL",
+            "Status",
+            "Last_Visit_Date",
+            "Gender",
+            "Risk_Category"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who is the oldest patient with the highest total cholesterol (T-CHO). State the patient ID and T-CHO index.",
+        "data": [
+            [
+                "P_4092",
+                "78",
+                "312",
+                "Active",
+                "06/15/2023",
+                "Male",
+                "High"
+            ],
+            [
+                "P_A105",
+                "82",
+                "",
+                "Pending",
+                "N/A",
+                "Female",
+                "Unknown"
+            ],
+            [
+                "B_2219",
+                "65",
+                "",
+                "Scheduled",
+                "",
+                "Male",
+                ""
+            ],
+            [
+                "C_8831",
+                "59",
+                "",
+                "Discharged",
+                "",
+                "Female",
+                "Normal"
+            ],
+            [
+                "D_1102",
+                "",
+                "",
+                "Cancelled",
+                "",
+                "",
+                ""
+            ],
+            [
+                "E_9944",
+                "71",
+                "",
+                "Follow-up Required",
+                "",
+                "",
+                ""
+            ],
+            [
+                "F_3321",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

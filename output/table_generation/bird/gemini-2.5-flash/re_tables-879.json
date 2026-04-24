@@ -1,0 +1,69 @@
+{
+    "table-879-879": {
+        "title": [
+            "Driver Name",
+            "Race Number",
+            "Best Lap Time (MM:SS.mmm)",
+            "Team",
+            "Final Position"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who was the driver that got the best lap time in the race No. 348? Give his full name.",
+        "data": [
+            [
+                "Max Verstappen",
+                "348",
+                "1:22.345",
+                "Red Bull Racing",
+                "1"
+            ],
+            [
+                "Lewis Hamilton",
+                "348",
+                "1:22.512",
+                "Mercedes-AMG Petronas",
+                "2"
+            ],
+            [
+                "Charles Leclerc",
+                "348",
+                "1:22.789",
+                "Scuderia Ferrari",
+                "3"
+            ],
+            [
+                "Lando Norris",
+                "347",
+                "1:23.115",
+                "McLaren F1 Team",
+                "4"
+            ],
+            [
+                "Sergio Perez",
+                "348",
+                "1:23.201",
+                "Red Bull Racing",
+                "5"
+            ],
+            [
+                "George Russell",
+                "349",
+                "1:22.998",
+                "Mercedes-AMG Petronas",
+                "2"
+            ],
+            [
+                "Carlos Sainz",
+                "349",
+                "1:23.055",
+                "Scuderia Ferrari",
+                "4"
+            ]
+        ]
+    }
+}

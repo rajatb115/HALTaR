@@ -1,0 +1,43 @@
+{
+    "table-307-307": {
+        "title": [
+            "Molecule",
+            "Chemical Formula",
+            "Elements Present"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Molecules with Triple Bonds and Their Elements",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which molecules have triple bonds and list all the elements they contain.",
+        "data": [
+            [
+                "Acetylene",
+                "C\u2082H\u2082",
+                "Carbon, Hydrogen"
+            ],
+            [
+                "Hydrogen Cyanide",
+                "HCN",
+                "Hydrogen, Carbon, Nitrogen"
+            ],
+            [
+                "Carbon Monoxide",
+                "CO",
+                "Carbon, Oxygen"
+            ],
+            [
+                "Dicyan",
+                "C\u2082N\u2082",
+                "Carbon, Nitrogen"
+            ],
+            [
+                "Phosphorus Nitride",
+                "PN",
+                "Phosphorus, Nitrogen"
+            ]
+        ]
+    }
+}

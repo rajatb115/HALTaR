@@ -1,0 +1,69 @@
+{
+    "table-432-432": {
+        "title": [
+            "Set Name",
+            "Set ID",
+            "Availability Region",
+            "Has Foil Cards",
+            "Card Language"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which set is not available outside of the United States and has foil cards with Japanese writing on them? Please include the set ID in your response.",
+        "data": [
+            [
+                "Crimson Dawn Exclusive",
+                "US-CD-001",
+                "United States Only",
+                "Yes",
+                "Japanese"
+            ],
+            [
+                "Sakura Bloom Collection",
+                "JP-SB-003",
+                "Japan Only",
+                "Yes",
+                "Japanese"
+            ],
+            [
+                "Liberty Legends Series",
+                "US-LL-005",
+                "United States Only",
+                "Yes",
+                "English"
+            ],
+            [
+                "World Traveler Pack",
+                "GL-WT-010",
+                "Global",
+                "Yes",
+                "Mixed (English/Japanese)"
+            ],
+            [
+                "Desert Sands Promo",
+                "US-DS-002",
+                "United States Only",
+                "No",
+                "English"
+            ],
+            [
+                "Rising Sun Limited",
+                "US-RS-007",
+                "United States Only",
+                "Yes",
+                "Japanese"
+            ],
+            [
+                "Emerald Dragon Special",
+                "US-ED-009",
+                "United States Only",
+                "Yes",
+                "Japanese"
+            ]
+        ]
+    }
+}

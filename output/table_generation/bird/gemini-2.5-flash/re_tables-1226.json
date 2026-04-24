@@ -1,0 +1,69 @@
+{
+    "table-1226-1226": {
+        "title": [
+            "Patient ID",
+            "Sex",
+            "T-BIL (mg/dL)",
+            "Normal Range (mg/dL)",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List and group all patients by sex for total bilirubin (T-BIL) level not within the normal range.",
+        "data": [
+            [
+                "P-001",
+                "Male",
+                "1.8",
+                "0.2-1.2",
+                "High"
+            ],
+            [
+                "P-002",
+                "Female",
+                "0.1",
+                "0.2-1.2",
+                "Low"
+            ],
+            [
+                "P-003",
+                "Male",
+                "2.5",
+                "0.2-1.2",
+                "High"
+            ],
+            [
+                "P-004",
+                "Female",
+                "1.5",
+                "0.2-1.2",
+                "High"
+            ],
+            [
+                "P-005",
+                "Male",
+                "0.05",
+                "0.2-1.2",
+                "Low"
+            ],
+            [
+                "P-006",
+                "Female",
+                "3.1",
+                "0.2-1.2",
+                "High"
+            ],
+            [
+                "P-007",
+                "Male",
+                "1.3",
+                "0.2-1.2",
+                "High"
+            ]
+        ]
+    }
+}

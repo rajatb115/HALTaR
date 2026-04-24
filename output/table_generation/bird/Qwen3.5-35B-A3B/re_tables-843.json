@@ -1,0 +1,85 @@
+{
+    "table-843-843": {
+        "title": [
+            "Superhero Name",
+            "Affiliation",
+            "Height (cm)",
+            "Status",
+            "Origin World",
+            "Publisher"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average height of all neutral superheroes.",
+        "data": [
+            [
+                "Spider-Man",
+                "Avengers",
+                "647",
+                "Active",
+                "Earth-616",
+                "Marvel Comics"
+            ],
+            [
+                "Flash",
+                "Justice League",
+                "594",
+                "Active",
+                "Prime Earth",
+                "DC Comics"
+            ],
+            [
+                "Captain America",
+                "Avengers / S.H.I.E.L.D.",
+                "711",
+                "Deceased",
+                "Earth-Two",
+                "Marvel Studios"
+            ],
+            [
+                "Wonder Woman",
+                "Justice Society",
+                "813",
+                "Active",
+                "New Genesis",
+                "DC Entertainment"
+            ],
+            [
+                "Black Panther",
+                "Wakanda Defense Force",
+                "914",
+                "Retired",
+                "Earth-One",
+                "Marvel Animation"
+            ],
+            [
+                "Hawkeye",
+                "Thunderbolts",
+                "483",
+                "Unknown",
+                "Earth-Beta",
+                "Dark Horse Comics"
+            ],
+            [
+                "Green Arrow",
+                "Outsiders",
+                "396",
+                "Missing in Action",
+                "Earth-X",
+                "Vertigo Comics"
+            ],
+            [
+                "Aquaman",
+                "Atlantis Royal Guard",
+                "0",
+                "N/A",
+                "Multiverse",
+                "Image Comics"
+            ]
+        ]
+    }
+}

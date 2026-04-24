@@ -1,0 +1,45 @@
+{
+    "table-1272-1272": {
+        "title": [
+            "Patient ID",
+            "Anti-SSA Result",
+            "Admission Date"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Statistics Based on Anti-SSA Status and Admission Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal anti-SSA came to the hospital before 1990?",
+        "data": [
+            [
+                "12345",
+                "Normal",
+                "1985-03-15"
+            ],
+            [
+                "67890",
+                "Elevated",
+                "1992-11-01"
+            ],
+            [
+                "24680",
+                "Normal",
+                "1988-07-22"
+            ],
+            [
+                "13579",
+                "Normal",
+                "1995-01-10"
+            ],
+            [
+                "98765",
+                "Normal",
+                "1982-09-05"
+            ]
+        ]
+    }
+}

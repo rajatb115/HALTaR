@@ -1,0 +1,43 @@
+{
+    "table-384-384": {
+        "title": [
+            "Card Name",
+            "Border Color",
+            "Status"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Banned Card Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many of the banned cards are white border?",
+        "data": [
+            [
+                "Black Lotus",
+                "Black",
+                "Banned"
+            ],
+            [
+                "Ancestral Recall",
+                "Black",
+                "Banned"
+            ],
+            [
+                "Balance",
+                "White",
+                "Banned"
+            ],
+            [
+                "Channel",
+                "Black",
+                "Banned"
+            ],
+            [
+                "Demonic Tutor",
+                "Black",
+                "Banned"
+            ]
+        ]
+    }
+}

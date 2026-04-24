@@ -1,0 +1,73 @@
+{
+    "table-532-532": {
+        "title": [
+            "Show Title",
+            "Season",
+            "Total Attendance",
+            "Number of Performances",
+            "Average Attendance per Show",
+            "Venue Capacity",
+            "City",
+            "Date Range"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average attendance of shows?",
+        "data": [
+            [
+                "The Lion King",
+                "45",
+                "675000",
+                "300",
+                "2250",
+                "",
+                "New York",
+                "Jan 2 - Dec 28"
+            ],
+            [
+                "Hamilton",
+                "8",
+                "520400",
+                "180",
+                "2891",
+                "",
+                "London",
+                "Mar 15 - Nov 3"
+            ],
+            [
+                "Wicked",
+                "72",
+                "980050",
+                "410",
+                "",
+                "",
+                "Chicago",
+                "Feb 10 - Oct 31"
+            ],
+            [
+                "Phantom of the Opera",
+                "0",
+                "N/A",
+                "",
+                "N/A",
+                "",
+                "Paris",
+                "May 5 - Sep 25"
+            ],
+            [
+                "Les Mis\u00e9rables",
+                "35",
+                "45020",
+                "120",
+                "375",
+                "",
+                "Sydney",
+                "Jun 1 - Aug 3"
+            ]
+        ]
+    }
+}

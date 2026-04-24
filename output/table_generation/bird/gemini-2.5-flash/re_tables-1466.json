@@ -1,0 +1,53 @@
+{
+    "table-1466-1466": {
+        "title": [
+            "Expense Item",
+            "Budget Category",
+            "Typical Department"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which budget category does the expense 'Posters' fall to?",
+        "data": [
+            [
+                "Posters",
+                "Marketing & Advertising",
+                "Marketing"
+            ],
+            [
+                "Office Supplies",
+                "Administrative",
+                "Operations"
+            ],
+            [
+                "Software Licenses",
+                "Information Technology",
+                "IT"
+            ],
+            [
+                "Employee Training",
+                "Human Resources",
+                "HR"
+            ],
+            [
+                "Travel Expenses",
+                "Operations & Logistics",
+                "Sales"
+            ],
+            [
+                "Server Maintenance",
+                "Information Technology",
+                "IT"
+            ],
+            [
+                "Event Catering",
+                "Marketing & Events",
+                "Marketing"
+            ]
+        ]
+    }
+}

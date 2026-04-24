@@ -1,0 +1,46 @@
+{
+    "table-680-680": {
+        "title": [
+            "Post ID",
+            "Title",
+            "Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Posts Ranked by Score",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which post has the highest score? Please give its id and title's name.",
+        "data": [
+            [
+                "123",
+                "\"AI Revolution\"",
+                "1500"
+            ],
+            [
+                "456",
+                "\"Data Science Trends\"",
+                "1200"
+            ],
+            [
+                "789",
+                "\"Machine Learning Basics\"",
+                "900"
+            ],
+            [
+                "101",
+                "\"Cloud Computing Explained\"",
+                "750"
+            ],
+            [
+                "202",
+                "\"Cybersecurity Best Practices\"",
+                "600"
+            ]
+        ]
+    }
+}

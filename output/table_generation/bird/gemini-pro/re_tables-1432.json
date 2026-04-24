@@ -1,0 +1,45 @@
+{
+    "table-1432-1432": {
+        "title": [
+            "Member ID",
+            "Last Name",
+            "Attendance Status"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Club Members Attendance at Women's Soccer Event",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the last name of the members of the club that attended the women's soccer event.",
+        "data": [
+            [
+                "123",
+                "Smith",
+                "Yes"
+            ],
+            [
+                "456",
+                "Jones",
+                "Yes"
+            ],
+            [
+                "789",
+                "Garcia",
+                "Yes"
+            ],
+            [
+                "101",
+                "Brown",
+                "No"
+            ],
+            [
+                "112",
+                "Davis",
+                "Yes"
+            ]
+        ]
+    }
+}

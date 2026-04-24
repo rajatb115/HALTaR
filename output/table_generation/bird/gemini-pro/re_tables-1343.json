@@ -1,0 +1,43 @@
+{
+    "table-1343-1343": {
+        "title": [
+            "Date",
+            "Item",
+            "Cost"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Daily Purchase Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the cost for the \"Posters\" on 2019/9/4?",
+        "data": [
+            [
+                "2019-09-02",
+                "Stickers",
+                "$10"
+            ],
+            [
+                "2019-09-03",
+                "Pens",
+                "$25"
+            ],
+            [
+                "2019-09-04",
+                "Posters",
+                "$15"
+            ],
+            [
+                "2019-09-05",
+                "Stickers",
+                "$12"
+            ],
+            [
+                "2019-09-06",
+                "Erasers",
+                "$5"
+            ]
+        ]
+    }
+}

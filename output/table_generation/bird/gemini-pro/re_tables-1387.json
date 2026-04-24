@@ -1,0 +1,39 @@
+{
+    "table-1387-1387": {
+        "title": [
+            "Expense Category",
+            "Amount (USD)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Yearly Kickoff Expenses",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total expense for the Yearly Kickoff?",
+        "data": [
+            [
+                "Venue Rental",
+                "15,000"
+            ],
+            [
+                "Catering",
+                "7,500"
+            ],
+            [
+                "Travel & Accommodation",
+                "12,000"
+            ],
+            [
+                "Entertainment",
+                "5,000"
+            ],
+            [
+                "Speaker Fees",
+                "8,000"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "table-44-44": {
+        "title": [
+            "School Name",
+            "County",
+            "Avg Math Score",
+            "Avg Overall Score"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "School Performance Overview",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average math score of the school with the lowest average score for all subjects, and in which county is it located?",
+        "data": [
+            [
+                "School A",
+                "County X",
+                "75",
+                "70"
+            ],
+            [
+                "School B",
+                "County Y",
+                "80",
+                "72"
+            ],
+            [
+                "School C",
+                "County Z",
+                "65",
+                "60"
+            ],
+            [
+                "School D",
+                "County X",
+                "90",
+                "85"
+            ],
+            [
+                "School E",
+                "County Y",
+                "70",
+                "68"
+            ]
+        ]
+    }
+}

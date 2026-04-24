@@ -1,0 +1,69 @@
+{
+    "table-1277-1277": {
+        "title": [
+            "Patient ID",
+            "Anti-DNA Status",
+            "Anti-DNA Value (IU/mL)",
+            "Diagnosed Disease",
+            "Diagnosis Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients who have an abnormal level of anti-DNA, please list the diseases they are diagnosed with.",
+        "data": [
+            [
+                "P001",
+                "Elevated",
+                "250",
+                "Systemic Lupus Erythematosus",
+                "2023-01-15"
+            ],
+            [
+                "P002",
+                "Positive",
+                "310",
+                "Lupus Nephritis",
+                "2022-11-01"
+            ],
+            [
+                "P003",
+                "High",
+                "180",
+                "Drug-induced Lupus",
+                "2023-03-20"
+            ],
+            [
+                "P004",
+                "Elevated",
+                "220",
+                "Systemic Lupus Erythematosus",
+                "2021-09-10"
+            ],
+            [
+                "P005",
+                "Positive",
+                "290",
+                "Sjogren's Syndrome",
+                "2023-06-05"
+            ],
+            [
+                "P006",
+                "High",
+                "195",
+                "Undifferentiated Connective Tissue Disease",
+                "2022-04-18"
+            ],
+            [
+                "P007",
+                "Elevated",
+                "275",
+                "Systemic Lupus Erythematosus",
+                "2023-02-28"
+            ]
+        ]
+    }
+}

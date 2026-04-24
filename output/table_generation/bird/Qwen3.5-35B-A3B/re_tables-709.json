@@ -1,0 +1,76 @@
+{
+    "table-709-709": {
+        "title": [
+            "Comment_ID",
+            "User_Name",
+            "Creation_Date",
+            "Age_Years",
+            "Keyword_Matched",
+            "Status",
+            "Platform_Source"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the creation date and age of the user that commented with webiste.",
+        "data": [
+            [
+                "CMT_74012",
+                "jdoe_dev",
+                "06/15/1978",
+                "46",
+                "website",
+                "Active",
+                "GitHub Issues"
+            ],
+            [
+                "CMT_88291",
+                "sarah_codes",
+                "03/22/1895",
+                "74",
+                "Website",
+                "Archived",
+                "Stack Overflow"
+            ],
+            [
+                "CMT_99102",
+                "mike_tech",
+                "09/10/1692",
+                "53",
+                "WEBSITE",
+                "Pending",
+                "Reddit Comments"
+            ],
+            [
+                "CMT_11203",
+                "lisa_web",
+                "08/30/2010",
+                "N/A",
+                "website_link",
+                "Deleted",
+                "Twitter Replies"
+            ],
+            [
+                "CMT_55678",
+                "alex_ui",
+                "06/06/2999",
+                "-100",
+                "WebSite",
+                "Verified",
+                "Discord Logs"
+            ],
+            [
+                "COM_33421",
+                "ryan_data",
+                "12/01/1492",
+                "528",
+                "site_websites",
+                "Flagged",
+                "Medium Articles"
+            ]
+        ]
+    }
+}

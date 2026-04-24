@@ -1,0 +1,53 @@
+{
+    "table-426-426": {
+        "title": [
+            "Card Number",
+            "Subtype",
+            "Face Count",
+            "Set Code",
+            "Rarity",
+            "Mana Value"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the card numbers that don't have multiple faces on a single card and have the subtypes Angel and Wizard?",
+        "data": [
+            [
+                "CARD_4000",
+                "Angel",
+                "Single",
+                "M19",
+                "Rare",
+                "6"
+            ],
+            [
+                "CARD_4102",
+                "Wizard",
+                "Single",
+                "UDG",
+                "Uncommon",
+                "3"
+            ],
+            [
+                "CARD_A771",
+                "Angel, Wizard",
+                "Double",
+                "KLD",
+                "Mythic",
+                "5"
+            ],
+            [
+                "CARD_B209",
+                "Angel",
+                "",
+                "C19",
+                "",
+                ""
+            ]
+        ]
+    }
+}

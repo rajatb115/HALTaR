@@ -1,0 +1,45 @@
+{
+    "table-843-843": {
+        "title": [
+            "Superhero Name",
+            "Alignment",
+            "Height (cm)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Superhero Height Data",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average height of all neutral superheroes.",
+        "data": [
+            [
+                "Captain Comet",
+                "Neutral",
+                "193"
+            ],
+            [
+                "Destiny",
+                "Neutral",
+                "178"
+            ],
+            [
+                "Jolt",
+                "Neutral",
+                "165"
+            ],
+            [
+                "Silhouette",
+                "Neutral",
+                "175"
+            ],
+            [
+                "Xenith",
+                "Neutral",
+                "183"
+            ]
+        ]
+    }
+}

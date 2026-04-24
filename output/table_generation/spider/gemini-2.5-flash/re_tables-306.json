@@ -1,0 +1,53 @@
+{
+    "table-306-306": {
+        "title": [
+            "Section Name",
+            "Section ID",
+            "Department"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the section_name in reversed lexicographical order.",
+        "data": [
+            [
+                "Warehouse Operations",
+                "WHSE-001",
+                "Operations"
+            ],
+            [
+                "Training & Development",
+                "TRND-001",
+                "Human Resources"
+            ],
+            [
+                "Supply Chain Management",
+                "SCM-001",
+                "Logistics"
+            ],
+            [
+                "Sales & Marketing",
+                "SLSM-001",
+                "Commercial"
+            ],
+            [
+                "Research & Development",
+                "RND-001",
+                "Innovation"
+            ],
+            [
+                "Quality Assurance",
+                "QA-001",
+                "Manufacturing"
+            ],
+            [
+                "Product Management",
+                "PROD-001",
+                "Product"
+            ]
+        ]
+    }
+}

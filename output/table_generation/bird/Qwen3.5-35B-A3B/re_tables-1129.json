@@ -1,0 +1,77 @@
+{
+    "table-1129-1129": {
+        "title": [
+            "Country",
+            "Sport",
+            "Average Weight (kg)",
+            "Sample Size",
+            "Data Source",
+            "Season"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country's players have the heaviest average weights?",
+        "data": [
+            [
+                "United States",
+                "American Football",
+                "94.2",
+                "670",
+                "NFL Stats",
+                "3/2023 - Present"
+            ],
+            [
+                "Australia",
+                "Rugby Union",
+                "89.5",
+                "420",
+                "World Rugby",
+                "Q4 2/23"
+            ],
+            [
+                "Canada",
+                "Ice Hockey",
+                "78.3",
+                "510",
+                "NHL Database",
+                "Current"
+            ],
+            [
+                "France",
+                "Rugby Sevens",
+                "0.0",
+                "N/A",
+                "IRB Records",
+                "Incomplete"
+            ],
+            [
+                "New Zealand",
+                "Netball",
+                "68.1",
+                "300",
+                "NZ Sports Council",
+                "YTD 23/"
+            ],
+            [
+                "South Africa",
+                "Cricket",
+                "N/A",
+                "150",
+                "SA Cricketers Assoc",
+                "Pending Review"
+            ],
+            [
+                "Japan",
+                "Sumo Wrestling",
+                "145.7",
+                "N/A",
+                "All-Japan Sumo",
+                "FY 22/"
+            ]
+        ]
+    }
+}

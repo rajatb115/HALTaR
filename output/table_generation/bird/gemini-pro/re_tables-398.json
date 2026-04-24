@@ -1,0 +1,37 @@
+{
+    "table-398-398": {
+        "title": [
+            "Attribute",
+            "Example"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Magic: The Gathering Card Attributes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the mana cost of cards with a normal layout, a 2003 frame version, with a black border color, and available in paper and mtgo?",
+        "data": [
+            [
+                "Layout",
+                "Normal"
+            ],
+            [
+                "Frame Version",
+                "2003"
+            ],
+            [
+                "Border Color",
+                "Black"
+            ],
+            [
+                "Availability",
+                "Paper, MTGO"
+            ],
+            [
+                "Mana Cost",
+                "{1}{B}"
+            ]
+        ]
+    }
+}

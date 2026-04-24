@@ -1,0 +1,94 @@
+{
+    "table-1026-1026": {
+        "title": [
+            "League",
+            "Season",
+            "Total Goals",
+            "Matches Played",
+            "Avg Goals Per Match",
+            "Top Scorer Team",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which league had the most goals in the 2016 season?",
+        "data": [
+            [
+                "English Premier League",
+                "47",
+                "38",
+                "950",
+                "0.40",
+                "Manchester City",
+                "Completed"
+            ],
+            [
+                "La Liga",
+                "85",
+                "500",
+                "",
+                "",
+                "Real Madrid",
+                "Completed"
+            ],
+            [
+                "Bundesliga",
+                "62",
+                "7000",
+                "89",
+                "",
+                "Bayern Munich",
+                "Completed"
+            ],
+            [
+                "Serie A",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Chinese Super League",
+                "",
+                "",
+                "",
+                "",
+                "Shanghai SIPG",
+                "Active"
+            ],
+            [
+                "J.League Division 1",
+                "",
+                "",
+                "",
+                "",
+                "Kashima Antlers",
+                "Suspended"
+            ],
+            [
+                "MLS Eastern Conference",
+                "",
+                "",
+                "",
+                "",
+                "Toronto FC",
+                "Ongoing"
+            ],
+            [
+                "Eredivisie",
+                "",
+                "",
+                "",
+                "",
+                "Ajax Amsterdam",
+                "Completed"
+            ]
+        ]
+    }
+}

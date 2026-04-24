@@ -1,0 +1,46 @@
+{
+    "table-1506-1506": {
+        "title": [
+            "Customer ID",
+            "Payment Currency",
+            "Monthly Consumption"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "High Consumption Customers Paying in Euro",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the customers who paid in euro, how many of them have a monthly consumption of over 1000?",
+        "data": [
+            [
+                "123",
+                "EUR",
+                "1200"
+            ],
+            [
+                "456",
+                "EUR",
+                "1500"
+            ],
+            [
+                "789",
+                "EUR",
+                "900"
+            ],
+            [
+                "101",
+                "EUR",
+                "1100"
+            ],
+            [
+                "112",
+                "EUR",
+                "800"
+            ]
+        ]
+    }
+}

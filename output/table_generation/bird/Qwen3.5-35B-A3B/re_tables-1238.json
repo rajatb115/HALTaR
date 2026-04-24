@@ -1,0 +1,76 @@
+{
+    "table-1238-1238": {
+        "title": [
+            "Patient_ID",
+            "Sex",
+            "Hemoglobin_Level_g_dL",
+            "Status",
+            "Department",
+            "Visit_Date",
+            "Age_Group"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all outpatients, list out those have low hemoglobin level. State the different IDs and their sex.",
+        "data": [
+            [
+                "P_4021",
+                "Female",
+                "7.8",
+                "Low_Hemoglobin",
+                "Cardiology",
+                "06/12/2023",
+                "Adult"
+            ],
+            [
+                "M_8832",
+                "Male",
+                "8.1",
+                "Low_Emergency",
+                "Neurology",
+                "6/22/Anemia_Clinic",
+                "45+"
+            ],
+            [
+                "F_1109",
+                "Female",
+                "6.5",
+                "Critical_Low",
+                "Oncology",
+                "5/15/Outpatient_Wing",
+                "Child"
+            ],
+            [
+                "K_2291",
+                "Non_Binary",
+                "9.2",
+                "Borderline_Low",
+                "Gastroenterology",
+                "7/01/Routine_Checkup",
+                "Senior"
+            ],
+            [
+                "T_5543",
+                "Male",
+                "72 g/L",
+                "Severe_Deficiency",
+                "General_Practice",
+                "3/18/Family_Medicine",
+                "Infant"
+            ],
+            [
+                "R_9901",
+                "Female",
+                "85 g/L",
+                "Mild_Anemia",
+                "Endocrinology",
+                "8/09/Hormone_Clinc",
+                ""
+            ]
+        ]
+    }
+}

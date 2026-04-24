@@ -1,0 +1,39 @@
+{
+    "table-620-620": {
+        "title": [
+            "Breed",
+            "Average Age (Years)"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Dog Age Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average age of all the dogs?",
+        "data": [
+            [
+                "Labrador",
+                "12"
+            ],
+            [
+                "German Shepherd",
+                "10"
+            ],
+            [
+                "Golden Retriever",
+                "11"
+            ],
+            [
+                "Bulldog",
+                "9"
+            ],
+            [
+                "Poodle",
+                "13"
+            ]
+        ]
+    }
+}

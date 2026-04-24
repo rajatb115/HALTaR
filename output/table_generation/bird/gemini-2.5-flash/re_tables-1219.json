@@ -1,0 +1,77 @@
+{
+    "table-1219-1219": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Uric Acid (mg/dL)",
+            "Normal Range Min (mg/dL)",
+            "Normal Range Max (mg/dL)",
+            "UA Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of the female patient whose uric acid (UA) beyond the normal range?",
+        "data": [
+            [
+                "P001",
+                "Female",
+                "5.2",
+                "2.4",
+                "6.0",
+                "Normal"
+            ],
+            [
+                "P002",
+                "Female",
+                "7.1",
+                "2.4",
+                "6.0",
+                "High"
+            ],
+            [
+                "P003",
+                "Male",
+                "6.5",
+                "3.4",
+                "7.0",
+                "Normal"
+            ],
+            [
+                "P004",
+                "Female",
+                "2.1",
+                "2.4",
+                "6.0",
+                "Low"
+            ],
+            [
+                "P005",
+                "Female",
+                "6.8",
+                "2.4",
+                "6.0",
+                "High"
+            ],
+            [
+                "P006",
+                "Female",
+                "4.9",
+                "2.4",
+                "6.0",
+                "Normal"
+            ],
+            [
+                "P007",
+                "Male",
+                "8.2",
+                "3.4",
+                "7.0",
+                "High"
+            ]
+        ]
+    }
+}

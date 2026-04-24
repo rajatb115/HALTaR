@@ -1,0 +1,45 @@
+{
+    "table-52-52": {
+        "title": [
+            "School Name",
+            "Mailing Street Address",
+            "Average Reading Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Schools with Lowest Reading Scores",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which mailing street address can you find the school that has the lowest average score in reading? Also give the school's name.",
+        "data": [
+            [
+                "School A",
+                "123 Main St",
+                "65"
+            ],
+            [
+                "School B",
+                "456 Oak Ave",
+                "68"
+            ],
+            [
+                "School C",
+                "789 Pine Ln",
+                "70"
+            ],
+            [
+                "School D",
+                "101 Elm Rd",
+                "72"
+            ],
+            [
+                "School E",
+                "222 Maple Dr",
+                "75"
+            ]
+        ]
+    }
+}

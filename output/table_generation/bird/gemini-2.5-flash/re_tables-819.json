@@ -1,0 +1,77 @@
+{
+    "table-819-819": {
+        "title": [
+            "Superhero Name",
+            "Alignment",
+            "Gender",
+            "Publisher",
+            "First Appearance Year",
+            "Power Level"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the bad superheroes, what is the percentage of female superheroes?",
+        "data": [
+            [
+                "Mystique",
+                "Bad",
+                "Female",
+                "Marvel",
+                "1978",
+                "High"
+            ],
+            [
+                "Joker",
+                "Bad",
+                "Male",
+                "DC",
+                "1940",
+                "Medium"
+            ],
+            [
+                "Harley Quinn",
+                "Bad",
+                "Female",
+                "DC",
+                "1992",
+                "Low"
+            ],
+            [
+                "Magneto",
+                "Bad",
+                "Male",
+                "Marvel",
+                "1963",
+                "High"
+            ],
+            [
+                "Catwoman",
+                "Anti-Hero",
+                "Female",
+                "DC",
+                "1940",
+                "Low"
+            ],
+            [
+                "Loki",
+                "Bad",
+                "Male",
+                "Marvel",
+                "1962",
+                "High"
+            ],
+            [
+                "Poison Ivy",
+                "Bad",
+                "Female",
+                "DC",
+                "1966",
+                "Medium"
+            ]
+        ]
+    }
+}

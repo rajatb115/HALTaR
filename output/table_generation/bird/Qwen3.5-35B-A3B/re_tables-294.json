@@ -1,0 +1,58 @@
+{
+    "table-294-294": {
+        "title": [
+            "Molecule ID",
+            "Carcinogen Status",
+            "Atom Count",
+            "Element Breakdown",
+            "Source Database",
+            "Risk Level",
+            "Last Verified Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many atoms belong to the molecule labeled with carcinogenic compounds?",
+        "data": [
+            [
+                "CARB-042",
+                "Confirmed Carcinogen",
+                "6",
+                "Carbon, Hydrogen, Chlorine",
+                "PubChem",
+                "High",
+                "2023-11-15"
+            ],
+            [
+                "METH-771",
+                "Suspected Carcinomer",
+                "12",
+                "Carbon Hydrogen Nitrogen Oxygen",
+                "ToxCast",
+                "Medium",
+                "2204-02-10"
+            ],
+            [
+                ">BENZ-190",
+                "Known Carcinogenic Agent",
+                "18",
+                "Carbon",
+                "Hydrogen",
+                "NIOSH",
+                "Critical"
+            ],
+            [
+                ">ASBESTOS-X",
+                "Classified Group 1",
+                "Unknown",
+                "Silicon Magnesium Iron N/A",
+                "IARC",
+                "Severe",
+                "2195-08-30"
+            ]
+        ]
+    }
+}

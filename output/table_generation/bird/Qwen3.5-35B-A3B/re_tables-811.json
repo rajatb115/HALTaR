@@ -1,0 +1,53 @@
+{
+    "table-811-811": {
+        "title": [
+            "Superhero",
+            "Attribute Value",
+            "Race",
+            "Power Level",
+            "Affiliation",
+            "First Appearance"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the race of the superhero with maximum attribute value?",
+        "data": [
+            [
+                "Superman",
+                "999",
+                "Kryptonian",
+                "Godlike",
+                "Justice League",
+                "Action Comics #1"
+            ],
+            [
+                "Wonder Woman",
+                "876",
+                "Amazon",
+                "Divine",
+                "Justice Society",
+                "All Star Comics #8"
+            ],
+            [
+                "Thor",
+                "745",
+                "Asgardian",
+                "Cosmic",
+                "Avengers",
+                "Journey Into Mystery #83"
+            ],
+            [
+                "Hulk",
+                "632",
+                "Human Mutate",
+                "Gamma Radiation",
+                "Defenders",
+                "Incredible Hulk #1"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "table-1274-1274": {
+        "title": [
+            "Patient ID",
+            "Anti-SSB Result",
+            "SLE Diagnosis",
+            "Examination Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "SLE Patients with Normal Anti-SSB",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients have a normal anti-SSB and are diagnosed with SLE in the examination?",
+        "data": [
+            [
+                "12345",
+                "Normal",
+                "Yes",
+                "2023-01-15"
+            ],
+            [
+                "67890",
+                "Normal",
+                "Yes",
+                "2023-02-20"
+            ],
+            [
+                "24680",
+                "Normal",
+                "Yes",
+                "2023-03-10"
+            ],
+            [
+                "13579",
+                "Normal",
+                "Yes",
+                "2023-04-05"
+            ],
+            [
+                "98765",
+                "Normal",
+                "Yes",
+                "2023-05-12"
+            ]
+        ]
+    }
+}

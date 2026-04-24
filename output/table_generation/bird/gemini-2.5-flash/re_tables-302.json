@@ -1,0 +1,77 @@
+{
+    "table-302-302": {
+        "title": [
+            "Bond ID",
+            "Bond Type",
+            "Issuer",
+            "Maturity Date",
+            "Coupon Rate",
+            "Rating"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the bond type of TR007_4_19?",
+        "data": [
+            [
+                "TR007_4_19",
+                "Corporate Bond",
+                "Global Dynamics Corp.",
+                "2030-07-15",
+                "4.25%",
+                "A+"
+            ],
+            [
+                "USG_TRES_2045",
+                "Government Bond",
+                "U.S. Treasury",
+                "2045-11-30",
+                "2.75%",
+                "AAA"
+            ],
+            [
+                "NYC_MUN_2035",
+                "Municipal Bond",
+                "City of New York",
+                "2035-03-01",
+                "3.10%",
+                "AA-"
+            ],
+            [
+                "CONV_XYZ_2028",
+                "Convertible Bond",
+                "Innovate Tech Solutions",
+                "2028-09-20",
+                "1.80%",
+                "BBB"
+            ],
+            [
+                "HY_ENERGY_2027",
+                "High-Yield Bond",
+                "Frontier Energy Ltd.",
+                "2027-05-10",
+                "8.50%",
+                "B+"
+            ],
+            [
+                "ZC_INVEST_2032",
+                "Zero-Coupon Bond",
+                "Investment Holdings LLC",
+                "2032-01-01",
+                "0.00%",
+                "A-"
+            ],
+            [
+                "EM_SOV_2038",
+                "Sovereign Bond",
+                "Republic of Brazil",
+                "2038-04-22",
+                "6.75%",
+                "BB"
+            ]
+        ]
+    }
+}

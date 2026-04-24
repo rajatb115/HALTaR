@@ -1,0 +1,76 @@
+{
+    "table-365-365": {
+        "title": [
+            "Card ID",
+            "Card Name",
+            "Set Code",
+            "Status",
+            "Rarity",
+            "Release Date",
+            "Price Range"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the status of card \"Cloudchaser Eagle\"?",
+        "data": [
+            [
+                "CCE-0042",
+                "Cloudchaser Eagle",
+                "MDM",
+                "Active",
+                "Rare",
+                "7/15/2023",
+                "$12.50 - $18.00"
+            ],
+            [
+                "CCE-1105",
+                "Skybound Hawk",
+                "MMD",
+                "Discontinued",
+                "Common",
+                "6/22/2023",
+                "$0.55 - $0.75"
+            ],
+            [
+                "CCF-0998",
+                "Stormwing Falcon",
+                "FOG",
+                "Active",
+                "Uncommon",
+                "8/10/2024",
+                "$2.25 - $3.50"
+            ],
+            [
+                "CCZ-0112",
+                "Zephyr Gull",
+                "AZR",
+                "Restricted",
+                "Legendary",
+                "9/01/2025",
+                "NA"
+            ],
+            [
+                "CCX-0554",
+                "Windrunner Dove",
+                "WND",
+                "Active",
+                "Mythic",
+                "5/12/2019",
+                "$15.00"
+            ],
+            [
+                "CCC-0331",
+                "Cloudstrider Raven",
+                "CRV",
+                "Out of Print",
+                "Epic",
+                "4/04/2021",
+                ""
+            ]
+        ]
+    }
+}

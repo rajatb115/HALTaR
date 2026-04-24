@@ -1,0 +1,67 @@
+{
+    "table-32-32": {
+        "title": [
+            "Pet ID",
+            "Species",
+            "Breed",
+            "Owner Count",
+            "Avg Age Years",
+            "Status",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the number of distinct type of pets.",
+        "data": [
+            [
+                "P007",
+                "Dog",
+                "Labrador Retriever",
+                "42",
+                "6",
+                "Active",
+                "North America"
+            ],
+            [
+                "P008",
+                "Cat",
+                "Siamese",
+                "35",
+                "8",
+                "Active",
+                "Europe"
+            ],
+            [
+                "P102",
+                "Bird",
+                "Parakeet",
+                "5",
+                "N/A",
+                "Inactive",
+                "Asia"
+            ],
+            [
+                "F201",
+                "Fish",
+                "Goldfish",
+                "120",
+                "2",
+                "Active",
+                "South America"
+            ],
+            [
+                "R305",
+                "Reptile",
+                "Bearded Dragon",
+                "8",
+                "4",
+                "Active",
+                "Australia"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-1159-1159": {
+        "title": [
+            "Patient ID",
+            "Birth Year",
+            "Total Cholesterol (mg/dL)",
+            "Cholesterol Status",
+            "Last Measurement Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all patients who were born in 1937 whose total cholesterol was beyond the normal range.",
+        "data": [
+            [
+                "P-1001",
+                "1937",
+                "235",
+                "High",
+                "2023-10-15"
+            ],
+            [
+                "P-1005",
+                "1937",
+                "210",
+                "High",
+                "2023-09-22"
+            ],
+            [
+                "P-1012",
+                "1937",
+                "250",
+                "High",
+                "2023-11-01"
+            ],
+            [
+                "P-1018",
+                "1937",
+                "208",
+                "High",
+                "2023-08-10"
+            ],
+            [
+                "P-1023",
+                "1937",
+                "225",
+                "High",
+                "2023-10-28"
+            ],
+            [
+                "P-1029",
+                "1937",
+                "240",
+                "High",
+                "2023-09-05"
+            ],
+            [
+                "P-1035",
+                "1937",
+                "215",
+                "High",
+                "2023-11-18"
+            ]
+        ]
+    }
+}

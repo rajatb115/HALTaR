@@ -1,0 +1,51 @@
+{
+    "table-649-649": {
+        "title": [
+            "Singer Name",
+            "Album Title",
+            "Sales Count",
+            "Genre"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Singers with High Album Sales",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "what are the different names of the singers that have sales more than 300000?",
+        "data": [
+            [
+                "Adele",
+                "21",
+                "31,000,000",
+                "Pop"
+            ],
+            [
+                "Michael Jackson",
+                "Thriller",
+                "47,300,000",
+                "Pop"
+            ],
+            [
+                "Whitney Houston",
+                "The Bodyguard",
+                "32,400,000",
+                "R&B"
+            ],
+            [
+                "Eagles",
+                "Their Greatest Hits (1971\u20131975)",
+                "44,000,000",
+                "Rock"
+            ],
+            [
+                "Prince",
+                "Purple Rain",
+                "25,000,000",
+                "Pop Rock"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1403-1403": {
+        "title": [
+            "Order ID",
+            "Member ID",
+            "T-Shirt Size",
+            "Quantity",
+            "Order Date",
+            "Gender"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the most popular size of t-shirt ordered by the club members?",
+        "data": [
+            [
+                "1001",
+                "M001",
+                "L",
+                "2",
+                "2023-10-20",
+                "Male"
+            ],
+            [
+                "1002",
+                "M003",
+                "M",
+                "1",
+                "2023-10-21",
+                "Female"
+            ],
+            [
+                "1003",
+                "M002",
+                "XL",
+                "1",
+                "2023-10-22",
+                "Male"
+            ],
+            [
+                "1004",
+                "M001",
+                "L",
+                "1",
+                "2023-10-23",
+                "Male"
+            ],
+            [
+                "1005",
+                "M004",
+                "S",
+                "2",
+                "2023-10-24",
+                "Female"
+            ],
+            [
+                "1006",
+                "M005",
+                "M",
+                "1",
+                "2023-10-25",
+                "Male"
+            ],
+            [
+                "1007",
+                "M003",
+                "L",
+                "1",
+                "2023-10-26",
+                "Female"
+            ]
+        ]
+    }
+}

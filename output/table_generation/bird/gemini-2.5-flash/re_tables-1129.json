@@ -1,0 +1,61 @@
+{
+    "table-1129-1129": {
+        "title": [
+            "Country",
+            "Sport",
+            "Average Weight (kg)",
+            "Number of Players"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which country's players have the heaviest average weights?",
+        "data": [
+            [
+                "Tonga",
+                "Rugby Union",
+                "108.5",
+                "120"
+            ],
+            [
+                "USA",
+                "American Football",
+                "112.1",
+                "500"
+            ],
+            [
+                "Russia",
+                "Shotput",
+                "125.8",
+                "45"
+            ],
+            [
+                "New Zealand",
+                "Rugby Union",
+                "105.2",
+                "350"
+            ],
+            [
+                "Japan",
+                "Sumo Wrestling",
+                "150.3",
+                "80"
+            ],
+            [
+                "South Africa",
+                "Rugby Union",
+                "103.9",
+                "280"
+            ],
+            [
+                "Canada",
+                "Ice Hockey",
+                "92.5",
+                "400"
+            ]
+        ]
+    }
+}

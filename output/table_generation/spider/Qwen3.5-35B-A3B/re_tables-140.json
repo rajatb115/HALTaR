@@ -1,0 +1,93 @@
+{
+    "table-140-140": {
+        "title": [
+            "Flight Number",
+            "Origin Airport",
+            "Destination",
+            "Scheduled Arrival Time",
+            "Status",
+            "Airline Code",
+            "Aircraft Model",
+            "Gate"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are flight numbers of flights arriving at City \"Aberdeen\"?",
+        "data": [
+            [
+                "AB402",
+                "London Heathrow",
+                "Aberdeen",
+                "08:15",
+                "On Time",
+                "BA",
+                "Airbus A320",
+                "C12"
+            ],
+            [
+                "#AB715",
+                "Manchester",
+                "Aberdeen",
+                "09:30",
+                "Delayed",
+                "VS",
+                "Boeing 737",
+                "D05"
+            ],
+            [
+                "##AB209",
+                "Edinburgh",
+                "Aberdeen",
+                "",
+                "Cancelled",
+                "KL",
+                "Embraer E190",
+                "N/A"
+            ],
+            [
+                "###AB663",
+                "Glasgow",
+                "Aberdeen",
+                "",
+                "Boarding",
+                "LH",
+                "Airbus A220",
+                "F08"
+            ],
+            [
+                "####AB118",
+                "Dublin",
+                "Aberdeen",
+                "",
+                "",
+                "Finnair",
+                "Bombardier CRJ",
+                "G02"
+            ],
+            [
+                "#####AB990",
+                "",
+                "Amsterdam",
+                "Aberdeen",
+                "Arrived",
+                "AF",
+                "Airbus H125",
+                "T01"
+            ],
+            [
+                "######AB334",
+                "Paris CDG",
+                "Aberdeen",
+                "",
+                "En Route",
+                "DL",
+                "Boeing E-Jet",
+                "M04"
+            ]
+        ]
+    }
+}

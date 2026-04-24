@@ -1,0 +1,63 @@
+{
+    "table-602-602": {
+        "title": [
+            "Post_ID",
+            "Score",
+            "Link_Type_ID",
+            "Status",
+            "Author_ID",
+            "Created_At",
+            "Updated_At",
+            "View_Count"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the score and the link type ID for post ID 395?",
+        "data": [
+            [
+                "394",
+                "76",
+                "4",
+                "Active",
+                "882",
+                "01/15/2023",
+                "3/10/23/24",
+                "N/A"
+            ],
+            [
+                "389",
+                "92",
+                "None",
+                "Archived",
+                "551",
+                "6/22/21",
+                "N /A",
+                ""
+            ],
+            [
+                "**396**",
+                "**88**",
+                "**-1**",
+                "Pending",
+                "**773**",
+                "11/05/ 22",
+                "12/01 /22",
+                "N/A"
+            ],
+            [
+                "401",
+                "-5",
+                "null",
+                "Deleted",
+                "102",
+                "2/14/25",
+                "N/A",
+                "0"
+            ]
+        ]
+    }
+}

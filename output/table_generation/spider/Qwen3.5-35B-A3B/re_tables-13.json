@@ -1,0 +1,76 @@
+{
+    "table-13-13": {
+        "title": [
+            "Stadium_Name",
+            "Capacity",
+            "Average_Calculation_Status",
+            "Region",
+            "Opened_Year",
+            "Primary_Sport",
+            "Last_Renovation"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum capacity and the average of all stadiums ?",
+        "data": [
+            [
+                "Wembley_Stadium",
+                "90004",
+                "Included_in_Average",
+                "England",
+                "367",
+                "Football",
+                "456"
+            ],
+            [
+                "Camp_Nou",
+                "89478",
+                "Included in Average",
+                "Spain",
+                "56789",
+                "Football & Rugby",
+                "7823"
+            ],
+            [
+                "Rungrado_May_Day",
+                "60082",
+                "Excluded_from_Avg",
+                "North_Korea",
+                "0",
+                "Sports Complex",
+                "N/A"
+            ],
+            [
+                "Melbourne_Cricket_Ground",
+                "100247",
+                "Included_In_Average\tAustralia",
+                "1853",
+                "Cricket & AFL",
+                "",
+                ""
+            ],
+            [
+                "Michigan_Stadium",
+                "107601",
+                "Included In Average\tUnited States",
+                "1278",
+                "American_Football",
+                "1452",
+                ""
+            ],
+            [
+                "Beijing_National_Stadium",
+                "91010",
+                "Included\tIn\tAverage\tChina",
+                "2023",
+                "Olympics&Football",
+                "",
+                ""
+            ]
+        ]
+    }
+}

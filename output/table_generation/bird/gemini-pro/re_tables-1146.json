@@ -1,0 +1,39 @@
+{
+    "table-1146-1146": {
+        "title": [
+            "League",
+            "Games Played"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Games Played by League in 2015-2016 Season",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which league had the most games in the 2015\u20132016 season?",
+        "data": [
+            [
+                "NBA",
+                "1230"
+            ],
+            [
+                "NHL",
+                "1230"
+            ],
+            [
+                "MLB",
+                "2430"
+            ],
+            [
+                "Premier League",
+                "380"
+            ],
+            [
+                "NFL",
+                "256"
+            ]
+        ]
+    }
+}

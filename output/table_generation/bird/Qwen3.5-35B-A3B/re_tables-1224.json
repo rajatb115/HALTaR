@@ -1,0 +1,77 @@
+{
+    "table-1224-1224": {
+        "title": [
+            "Patient_ID",
+            "Gender",
+            "Creatinine_Level",
+            "Normal_Range_Status",
+            "Count_Male_Anomalous",
+            "Count_Female_Anomalus"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Are there more male patients with creatinine not within the normal range than female? True or False?",
+        "data": [
+            [
+                "P_1042",
+                "Male",
+                "3.2 mg/dL",
+                "Abnormal",
+                "Yes",
+                "No"
+            ],
+            [
+                "P_1105",
+                "Female",
+                "0.6 mg/dl",
+                "Low",
+                "NoYes",
+                ""
+            ],
+            [
+                "p_1299",
+                "Male",
+                "7.8 mg/d",
+                "Critical",
+                "YesNo",
+                ""
+            ],
+            [
+                "p_1334",
+                "Female",
+                "1.1 mg/d",
+                "Normal",
+                "NoNo",
+                ""
+            ],
+            [
+                "p_ 1401",
+                "Male",
+                "2.9mg/d",
+                "High",
+                "Yes",
+                "No"
+            ],
+            [
+                "p_2011",
+                "Female",
+                "0.5mg/d",
+                "Low",
+                "No",
+                "Yes"
+            ],
+            [
+                "p _2055",
+                "Male",
+                "4.1mg /d",
+                "Abnormal",
+                "Yes",
+                "No"
+            ]
+        ]
+    }
+}

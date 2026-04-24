@@ -1,0 +1,62 @@
+{
+    "table-293-293": {
+        "title": [
+            "Event ID",
+            "Location Substring",
+            "Date",
+            "Notes",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the notes of the death events which has substring 'East'?",
+        "data": [
+            [
+                "EVT-4021",
+                "East River Flood",
+                "7/15/1963",
+                "Severe flooding in eastern district caused by levee breach; multiple casualties reported due to rapid water rise.",
+                "Confirmed"
+            ],
+            [
+                "EVE-8832",
+                "Eastern Border Conflict",
+                "3/22/1899",
+                "Skirmish near the eastern border resulted in fatalities from crossfire during territorial dispute escalation.",
+                "Verified"
+            ],
+            [
+                "EVX-1104",
+                "East Side Fire Incident",
+                "9/04/2011",
+                "Fatalities occurred when structural collapse trapped residents in apartment complex on east side of city center.",
+                "Under Review"
+            ],
+            [
+                "EVD-5567",
+                "Eastbound Highway Collision",
+                "5/30/2102",
+                "Multi-vehicle pileup led to three deaths after emergency response was delayed by heavy fog conditions.",
+                "Closed"
+            ],
+            [
+                "EVA-9921",
+                "East Coast Storm Surge",
+                "8/12/2345",
+                "Coastal erosion combined with storm surge claimed lives along the eastern shoreline communities.",
+                "Pending Investigation"
+            ],
+            [
+                "EVC-3344",
+                "Eastern Mine",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

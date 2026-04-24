@@ -1,0 +1,45 @@
+{
+    "table-1323-1323": {
+        "title": [
+            "Event Type",
+            "Number of Events",
+            "Number of Members Attended"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Student Club Event Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the events attended by more than 10 members of the Student_Club, how many of them are meetings?",
+        "data": [
+            [
+                "Meeting",
+                "3",
+                "> 10"
+            ],
+            [
+                "Workshop",
+                "5",
+                "> 10"
+            ],
+            [
+                "Social",
+                "2",
+                "> 10"
+            ],
+            [
+                "Trip",
+                "1",
+                "> 10"
+            ],
+            [
+                "Conference",
+                "4",
+                "> 10"
+            ]
+        ]
+    }
+}

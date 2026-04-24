@@ -1,0 +1,69 @@
+{
+    "table-29-29": {
+        "title": [
+            "Dog_Name",
+            "Age_Years",
+            "Breed",
+            "Weight_Lbs",
+            "Owner_ID"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much does the youngest dog weigh?",
+        "data": [
+            [
+                "Bella",
+                "0.4",
+                "Labrador Retriever",
+                "6.2",
+                "D-1024"
+            ],
+            [
+                "Max",
+                "7.5",
+                "German Shepherd",
+                "85.0",
+                "D-A092"
+            ],
+            [
+                "Luna",
+                "3.2",
+                "French Bulldog",
+                "4.8",
+                "F-B331"
+            ],
+            [
+                "Charlie",
+                "5.1",
+                "Golden Retriever",
+                "92.5",
+                "G-C445"
+            ],
+            [
+                "Daisy",
+                "1.8",
+                "Beagle",
+                "0.2",
+                "H-D556"
+            ],
+            [
+                "Rocky",
+                "0.2",
+                "Poodle",
+                "N/A",
+                "I-E667"
+            ],
+            [
+                "Cooper",
+                "0.5",
+                "Chihuahua",
+                "",
+                "K-F778"
+            ]
+        ]
+    }
+}

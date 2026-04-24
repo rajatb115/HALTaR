@@ -1,0 +1,69 @@
+{
+    "table-515-515": {
+        "title": [
+            "Country",
+            "Population",
+            "Continent",
+            "Capital City",
+            "Area_km\u00b2",
+            "Density_per_km\u00b2"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the names of the 3 countries with the fewest people.",
+        "data": [
+            [
+                "Vatican City",
+                "451",
+                "Europe",
+                "Vatican City",
+                "0.44",
+                "670"
+            ],
+            [
+                "Nauru",
+                "9000",
+                "Oceania",
+                "Yaren District",
+                "8.1",
+                "740"
+            ],
+            [
+                "Tuvalu",
+                "5050",
+                "Oceania",
+                "Funafuti",
+                "3.1",
+                "1300"
+            ],
+            [
+                "Palau",
+                "18094",
+                "Oceania",
+                "Melekeok",
+                "459",
+                ""
+            ],
+            [
+                "San Marino",
+                "33931",
+                "Europe",
+                "San Marino",
+                "61",
+                "556"
+            ],
+            [
+                "Monaco",
+                "",
+                "Europe",
+                "Monaco",
+                "2.02",
+                "17080"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-172-172": {
+        "title": [
+            "Region",
+            "Year",
+            "Number of Crimes"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Crime Statistics in Bohemia in 1996",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What was the difference in the number of crimes committed in East and North Bohemia in 1996?",
+        "data": [
+            [
+                "East Bohemia",
+                "1996",
+                "12500"
+            ],
+            [
+                "North Bohemia",
+                "1996",
+                "18200"
+            ],
+            [
+                "South Bohemia",
+                "1996",
+                "9800"
+            ],
+            [
+                "West Bohemia",
+                "1996",
+                "11200"
+            ],
+            [
+                "Central Bohemia",
+                "1996",
+                "15600"
+            ]
+        ]
+    }
+}

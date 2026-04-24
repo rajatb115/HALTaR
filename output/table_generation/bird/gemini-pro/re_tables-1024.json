@@ -1,0 +1,51 @@
+{
+    "table-1024-1024": {
+        "title": [
+            "Player Name",
+            "Overall Rating",
+            "Attacking",
+            "Defending"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Football Player Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the players with an overall rating between 60 to 65, how many players whose going to be in all of your attack moves instead of defensing?",
+        "data": [
+            [
+                "Player A",
+                "62",
+                "High",
+                "Low"
+            ],
+            [
+                "Player B",
+                "61",
+                "Medium",
+                "Low"
+            ],
+            [
+                "Player C",
+                "65",
+                "High",
+                "Very Low"
+            ],
+            [
+                "Player D",
+                "63",
+                "Medium",
+                "Average"
+            ],
+            [
+                "Player E",
+                "60",
+                "High",
+                "Low"
+            ]
+        ]
+    }
+}

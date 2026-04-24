@@ -1,0 +1,49 @@
+{
+    "table-1367-1367": {
+        "title": [
+            "Member Name",
+            "Email",
+            "Affiliation",
+            "RSVP Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Event Attendees",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the members who attended the event \"October Meeting\".",
+        "data": [
+            [
+                "John Smith",
+                "john.123@example.com",
+                "Organization A",
+                "Yes"
+            ],
+            [
+                "Alice Brown",
+                "alice.brown@sample.org",
+                "Organization B",
+                "Yes"
+            ],
+            [
+                "Bob Johnson",
+                "bobby.j@test.net",
+                "Organization A",
+                "Yes"
+            ],
+            [
+                "Emily Davis",
+                "emily.davis@demo.com",
+                "Organization C",
+                "Yes"
+            ],
+            [
+                "Michael Lee",
+                "m.lee@sample.org",
+                "Organization B",
+                "Yes"
+            ]
+        ]
+    }
+}

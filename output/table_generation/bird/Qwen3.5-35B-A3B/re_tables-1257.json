@@ -1,0 +1,77 @@
+{
+    "table-1257-1257": {
+        "title": [
+            "Patient_ID",
+            "CRP_Status",
+            "Data_Recorded",
+            "Record_Type",
+            "Missing_Field",
+            "Status_Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with a normal C-reactive protein don't have their data recorded?",
+        "data": [
+            [
+                "P-4002",
+                "Normal",
+                "No",
+                "Lab_Result",
+                "Timestamp",
+                "M-01"
+            ],
+            [
+                "",
+                "Normal Labs",
+                "Yes",
+                "Clinical_Observation",
+                "N/A",
+                "OK-00"
+            ],
+            [
+                "Normal_CRP_77",
+                "Partially Recorded",
+                "Yes Vitals",
+                "Blood_Pressure",
+                "Incomplete",
+                "W-02"
+            ],
+            [
+                "None",
+                "Unknown",
+                "No Entry",
+                "Administrative",
+                "Form_Missing",
+                "E-99"
+            ],
+            [
+                "Patient_X",
+                "Normal Range",
+                "No Documentation",
+                "Discharge_Summary",
+                "Date_Gap",
+                "D-15"
+            ],
+            [
+                "Test_Subject_B",
+                "Within_Normal_Limits",
+                "Yes Imaging Report",
+                "MRI_Full",
+                "N_A",
+                "S_OK"
+            ],
+            [
+                "ID_9921",
+                "Standard_Normals",
+                "No Audit_Trail",
+                "Compliance_Check",
+                "Log_Error",
+                "F-03"
+            ]
+        ]
+    }
+}

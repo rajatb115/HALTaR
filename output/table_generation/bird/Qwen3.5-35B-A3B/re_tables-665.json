@@ -1,0 +1,49 @@
+{
+    "table-665-665": {
+        "title": [
+            "Post ID",
+            "Tag",
+            "Score",
+            "Author",
+            "Views",
+            "Status",
+            "Created Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the score of the post with the most popular tag?",
+        "data": [
+            [
+                "P-4021",
+                "machine-learning",
+                "876",
+                "Alice Chen",
+                "45000",
+                "Published",
+                "01/15/2023"
+            ],
+            [
+                "P-4105",
+                "deep-learning",
+                "-12",
+                "Bob Smith",
+                "320",
+                "Draft",
+                "N/A"
+            ],
+            [
+                "P-A992",
+                "python",
+                "543",
+                "Carol Davis",
+                "67002",
+                "Archived",
+                ""
+            ]
+        ]
+    }
+}

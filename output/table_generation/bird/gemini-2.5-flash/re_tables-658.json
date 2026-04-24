@@ -1,0 +1,61 @@
+{
+    "table-658-658": {
+        "title": [
+            "Display Name",
+            "Website URL",
+            "Bounty Amount",
+            "Vote Type"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Under the vote type of 8, provide the display names and websites URLs of the user who got the highest bounty amount.",
+        "data": [
+            [
+                "David Green",
+                "https://davidgreen.io",
+                "900",
+                "8"
+            ],
+            [
+                "Frank Blue",
+                "https://frankblue.biz",
+                "800",
+                "8"
+            ],
+            [
+                "Bob Johnson",
+                "https://bobjohnson.net",
+                "750",
+                "8"
+            ],
+            [
+                "Grace Red",
+                "https://gracered.info",
+                "700",
+                "8"
+            ],
+            [
+                "Carol White",
+                "https://carolwhite.org",
+                "600",
+                "8"
+            ],
+            [
+                "Alice Smith",
+                "https://alicesmith.com",
+                "500",
+                "8"
+            ],
+            [
+                "Eve Black",
+                "https://eveblack.co",
+                "450",
+                "8"
+            ]
+        ]
+    }
+}

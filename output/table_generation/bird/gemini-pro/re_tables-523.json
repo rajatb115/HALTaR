@@ -1,0 +1,45 @@
+{
+    "table-523-523": {
+        "title": [
+            "Card Name",
+            "EDHRec Rank",
+            "Banned Format"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Top EDHRec Cards and Banned Formats",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which cards are ranked 1st on EDHRec? List all of the cards name and its banned play format.",
+        "data": [
+            [
+                "Jeweled Lotus",
+                "1",
+                "Commander"
+            ],
+            [
+                "Sol Ring",
+                "2",
+                ""
+            ],
+            [
+                "Arcane Signet",
+                "3",
+                ""
+            ],
+            [
+                "Command Tower",
+                "4",
+                ""
+            ],
+            [
+                "Lightning Greaves",
+                "5",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1375-1375": {
+        "title": [
+            "Member ID",
+            "Member Name",
+            "Phone Number",
+            "Event Name",
+            "Event Date",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many events did the member with the phone number \"954-555-6240\" attend?",
+        "data": [
+            [
+                "M001",
+                "Alice Johnson",
+                "954-555-6240",
+                "Annual Gala",
+                "2023-10-26",
+                "Attended"
+            ],
+            [
+                "M001",
+                "Alice Johnson",
+                "954-555-6240",
+                "Workshop Series Part 1",
+                "2023-11-15",
+                "Attended"
+            ],
+            [
+                "M001",
+                "Alice Johnson",
+                "954-555-6240",
+                "Community Outreach Day",
+                "2023-12-01",
+                "Registered"
+            ],
+            [
+                "M002",
+                "Bob Williams",
+                "305-123-4567",
+                "Annual Gala",
+                "2023-10-26",
+                "Attended"
+            ],
+            [
+                "M003",
+                "Carol Davis",
+                "786-987-6543",
+                "Workshop Series Part 1",
+                "2023-11-15",
+                "Attended"
+            ],
+            [
+                "M001",
+                "Alice Johnson",
+                "954-555-6240",
+                "Member Appreciation",
+                "2024-01-20",
+                "Attended"
+            ],
+            [
+                "M004",
+                "David Lee",
+                "954-555-1111",
+                "Annual Gala",
+                "2023-10-26",
+                "No Show"
+            ]
+        ]
+    }
+}

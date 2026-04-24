@@ -1,0 +1,55 @@
+{
+    "table-291-291": {
+        "title": [
+            "Molecule Name",
+            "Toxic Element",
+            "Chemical Formula",
+            "Toxicity Level",
+            "Exposure Route"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "Toxic Elements and Their Presence in Molecules",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which toxic element can be found in the molecule TR151?",
+        "data": [
+            [
+                "TR151",
+                "Thallium",
+                "Tl",
+                "High",
+                "Ingestion, Inhalation, Skin Absorption"
+            ],
+            [
+                "Arsenic Trioxide",
+                "Arsenic",
+                "As2O3",
+                "High",
+                "Ingestion, Inhalation"
+            ],
+            [
+                "Lead Oxide",
+                "Lead",
+                "PbO",
+                "High",
+                "Ingestion, Inhalation"
+            ],
+            [
+                "Cadmium Chloride",
+                "Cadmium",
+                "CdCl2",
+                "High",
+                "Ingestion, Inhalation"
+            ],
+            [
+                "Mercury(II) Chloride",
+                "Mercury",
+                "HgCl2",
+                "High",
+                "Ingestion, Inhalation, Skin Absorption"
+            ]
+        ]
+    }
+}

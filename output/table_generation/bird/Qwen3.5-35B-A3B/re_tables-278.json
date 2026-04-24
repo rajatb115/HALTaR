@@ -1,0 +1,77 @@
+{
+    "table-278-278": {
+        "title": [
+            "Bond_ID",
+            "Element_Type",
+            "Concentration_ppm",
+            "Toxicity_Class",
+            "Detection_Method",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the toxicology elements associated with bond ID TR005_16_26?",
+        "data": [
+            [
+                "TR004_15_25",
+                "Lead",
+                "0.45",
+                "High",
+                "ICP-MS",
+                "Confirmed"
+            ],
+            [
+                "TR500_17_28",
+                "Mercury",
+                "3.2E-04",
+                "Critical",
+                "Atomic Absorption",
+                "Pending Review"
+            ],
+            [
+                "TR999_14_22",
+                "Arsenic",
+                "8.1",
+                "Moderate",
+                "XRF Spectroscopy",
+                "Verified"
+            ],
+            [
+                "TR101_18_30",
+                "Cadmium",
+                "6.7",
+                "Severe",
+                "HPLC-ICP",
+                "Flagged"
+            ],
+            [
+                "TR202_19_31",
+                "Chromium",
+                "4.5",
+                "Low",
+                "Colorimetric Assay",
+                "Cleared"
+            ],
+            [
+                "TR303_20_32",
+                "Nickel",
+                "9.2",
+                "Moderate",
+                "Not Detected",
+                ""
+            ],
+            [
+                "TR404_21_33",
+                "Zinc",
+                "55.0",
+                "Benign",
+                "Titration",
+                "Approved"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-17-17": {
+        "title": [
+            "School ID",
+            "District Merged Area",
+            "Test Taker Count",
+            "Status",
+            "Last Updated",
+            "Region Code"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many schools in merged Alameda have number of test takers less than 100?",
+        "data": [
+            [
+                "ALD-004",
+                "Alameda Unified",
+                "67",
+                "Active",
+                "01/15/2024",
+                "CA-AU-01"
+            ],
+            [
+                "ALD-112",
+                "Alamedan North",
+                "42",
+                "Inactive",
+                "03/22/2023",
+                "CA-NB-04"
+            ],
+            [
+                "ALM-089",
+                "Central Valley Schools",
+                "88",
+                "Pending Review",
+                "05/10/2024",
+                "CA-CV-02"
+            ],
+            [
+                "ALP-033",
+                "Pacific Coast Academy",
+                "95",
+                "Active",
+                "N/A",
+                "CA-PW-09"
+            ],
+            [
+                "ALR-201",
+                "Riverside Branch",
+                "73",
+                "Archived",
+                "12/01/2020",
+                "CA-RS-15"
+            ],
+            [
+                "ALT-056",
+                "Tech Prep Institute",
+                "51",
+                "Active",
+                "02/14/2025",
+                "CA-TP-07"
+            ],
+            [
+                "ALS-067",
+                "Southside Elementary",
+                "99",
+                "Under Audit",
+                "06/30/2019",
+                "CA-SO-0"
+            ]
+        ]
+    }
+}

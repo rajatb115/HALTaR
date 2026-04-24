@@ -1,0 +1,61 @@
+{
+    "table-1160-1160": {
+        "title": [
+            "Patient_ID",
+            "Sex",
+            "Diagnosis",
+            "Albumin_Level"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For patient with albumin level lower than 3.5, list their ID, sex and diagnosis.",
+        "data": [
+            [
+                "P-4021",
+                "Male",
+                "Chronic Kidney Disease",
+                "32 g/L"
+            ],
+            [
+                "P-A77B",
+                "Female",
+                "Nephrotic Syndrome",
+                "46 mg/dL"
+            ],
+            [
+                "M-99XZ",
+                "Male",
+                "Liver Cirrhosis",
+                "0.28 g/mL"
+            ],
+            [
+                "T-11QW",
+                "Female",
+                "Protein-Losing Enteropathy",
+                "55 mg%"
+            ],
+            [
+                "K-88RT",
+                "Male",
+                "Acute Pancreatitis",
+                "60 mg/dL"
+            ],
+            [
+                "R-33PL",
+                "Female",
+                "Sepsis",
+                "70 mg/100mL"
+            ],
+            [
+                "J-55MN",
+                "Male",
+                "Congestive Heart Failure",
+                ".03 kg/m\u00b3"
+            ]
+        ]
+    }
+}

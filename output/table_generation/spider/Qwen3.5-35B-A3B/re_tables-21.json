@@ -1,0 +1,61 @@
+{
+    "table-21-21": {
+        "title": [
+            "Stadium_Name",
+            "City_Country",
+            "Capacity",
+            "Last_Concert_Year",
+            "Status_in_2024",
+            "Primary_Sport"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of all stadiums that did not have a concert in 2014?",
+        "data": [
+            [
+                "Wembley Stadium",
+                "London, UK",
+                "90000",
+                "N/A",
+                "Active",
+                "Football/Soccer"
+            ],
+            [
+                "Camp Nou",
+                "Barcelona, Spain",
+                "99354",
+                "N/A",
+                "Under Renovation",
+                "Football"
+            ],
+            [
+                "Maracan\u00e3",
+                "Rio de Janeiro, Brazil",
+                "78838",
+                "N/A",
+                "Active",
+                "Football"
+            ],
+            [
+                "Stade V\u00e9lodrome",
+                "Marseille, France",
+                "67394",
+                "2024",
+                "Active",
+                "Football"
+            ],
+            [
+                "San Siro",
+                "Milan, Italy",
+                "80018",
+                "N/A",
+                "Active",
+                "Football"
+            ]
+        ]
+    }
+}

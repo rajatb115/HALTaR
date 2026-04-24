@@ -1,0 +1,69 @@
+{
+    "table-136-136": {
+        "title": [
+            "Account ID",
+            "Account Type",
+            "Current Balance",
+            "Monthly Issuance Fee",
+            "Last Transaction Type"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "After making a credit card withdrawal, how many account/s with monthly issuance has a negative balance?",
+        "data": [
+            [
+                "10012345",
+                "Credit Card",
+                "-150.75",
+                "5.00",
+                "Credit Card Withdrawal"
+            ],
+            [
+                "10012346",
+                "Checking",
+                "875.20",
+                "2.50",
+                "Deposit"
+            ],
+            [
+                "10012347",
+                "Savings",
+                "-12.30",
+                "0.00",
+                "Debit Card Purchase"
+            ],
+            [
+                "10012348",
+                "Credit Card",
+                "-320.50",
+                "7.50",
+                "Credit Card Withdrawal"
+            ],
+            [
+                "10012349",
+                "Checking",
+                "1200.00",
+                "2.50",
+                "Bill Payment"
+            ],
+            [
+                "10012350",
+                "Credit Card",
+                "-55.10",
+                "5.00",
+                "Online Transfer"
+            ],
+            [
+                "10012351",
+                "Savings",
+                "450.00",
+                "0.00",
+                "ATM Withdrawal"
+            ]
+        ]
+    }
+}

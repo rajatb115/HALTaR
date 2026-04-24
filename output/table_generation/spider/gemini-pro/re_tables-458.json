@@ -1,0 +1,52 @@
+{
+    "table-458-458": {
+        "title": [
+            "Country Name",
+            "US Territory",
+            "Mean GNP",
+            "Total Population"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "US Territory Demographics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the mean GNP and total population of nations which are considered US territory.",
+        "data": [
+            [
+                "Guam",
+                "Yes",
+                "10000",
+                "160,000"
+            ],
+            [
+                "Puerto Rico",
+                "Yes",
+                "12000",
+                "3,200,000"
+            ],
+            [
+                "US Virgin Islands",
+                "Yes",
+                "11000",
+                "100,000"
+            ],
+            [
+                "American Samoa",
+                "Yes",
+                "8000",
+                "50,000"
+            ],
+            [
+                "Northern Mariana Islands",
+                "Yes",
+                "9000",
+                "55,000"
+            ]
+        ]
+    }
+}

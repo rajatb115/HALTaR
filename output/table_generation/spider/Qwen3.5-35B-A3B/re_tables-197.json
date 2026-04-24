@@ -1,0 +1,83 @@
+{
+    "table-197-197": {
+        "title": [
+            "Template ID",
+            "Description",
+            "Type Code",
+            "Category",
+            "Status",
+            "Created Date",
+            "Last Modified",
+            "Version"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the type code of the template type with the description \"Book\".",
+        "data": [
+            [
+                "TPL_0042",
+                "Book",
+                "BK-STD",
+                "Literature",
+                "Active",
+                "01/15/2023",
+                "6/22/2024",
+                "v2.1"
+            ],
+            [
+                "TPL_0105",
+                "E-book",
+                "EB-DIGITAL",
+                "Digital Media",
+                "Archived",
+                "3/10/2023",
+                "N/A",
+                "v1.0"
+            ],
+            [
+                "TPB_099",
+                "Audiobook",
+                "AB-AUDIO",
+                "Multimedia",
+                "Draft",
+                "8/1/2025",
+                "N/D",
+                "v0.9"
+            ],
+            [
+                "TLC_2012",
+                "Textbook",
+                "TX-BK",
+                "Education",
+                "Active",
+                "12/5/2019",
+                "9/30/2018",
+                "v3.0"
+            ],
+            [
+                "TMG_77",
+                "Magazine",
+                "MG-PERIODICAL",
+                "Publishing",
+                "Inactive",
+                "4/12/2020",
+                "N/E",
+                "v4.2"
+            ],
+            [
+                "TRP_33",
+                "Research Paper",
+                "RP-ACAD",
+                "Academic",
+                "Pending Review",
+                "7/14/2021",
+                "N/F",
+                ""
+            ]
+        ]
+    }
+}

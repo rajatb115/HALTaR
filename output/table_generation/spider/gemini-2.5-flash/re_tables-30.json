@@ -1,0 +1,45 @@
+{
+    "table-30-30": {
+        "title": [
+            "Pet Type",
+            "Maximum Weight (kg)"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the maximum weight for each type of pet. List the maximum weight and pet type.",
+        "data": [
+            [
+                "Dog",
+                "90"
+            ],
+            [
+                "Cat",
+                "11"
+            ],
+            [
+                "Rabbit",
+                "10"
+            ],
+            [
+                "Guinea Pig",
+                "1.5"
+            ],
+            [
+                "Parrot",
+                "1.5"
+            ],
+            [
+                "Snake",
+                "150"
+            ],
+            [
+                "Ferret",
+                "2.5"
+            ]
+        ]
+    }
+}

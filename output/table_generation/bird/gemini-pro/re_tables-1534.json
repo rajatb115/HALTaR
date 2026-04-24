@@ -1,0 +1,59 @@
+{
+    "table-1534-1534": {
+        "title": [
+            "Customer ID",
+            "Product ID",
+            "Unit Price",
+            "Consumption Date",
+            "Consumption Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Customer Consumption Details for Product ID 5",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all the people who paid more than 29.00 per unit of product id No.5. Give their consumption status in the August of 2012.",
+        "data": [
+            [
+                "123",
+                "5",
+                "30.50",
+                "2012-08-15",
+                "Active"
+            ],
+            [
+                "456",
+                "5",
+                "29.99",
+                "2012-08-01",
+                "Inactive"
+            ],
+            [
+                "789",
+                "5",
+                "31.25",
+                "2012-08-22",
+                "Active"
+            ],
+            [
+                "101",
+                "5",
+                "30.00",
+                "2012-08-10",
+                "Active"
+            ],
+            [
+                "202",
+                "5",
+                "32.75",
+                "2012-08-28",
+                "Inactive"
+            ]
+        ]
+    }
+}

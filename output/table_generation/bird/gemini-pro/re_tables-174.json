@@ -1,0 +1,52 @@
+{
+    "table-174-174": {
+        "title": [
+            "Account Number",
+            "Request Frequency",
+            "Total Debit Amount",
+            "Debit Purpose"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Account Statement Requests and Debit Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How often does account number 3 request an account statement to be released? What was the aim of debiting 3539 in total?",
+        "data": [
+            [
+                "3",
+                "Weekly",
+                "3539",
+                "Unknown"
+            ],
+            [
+                "1",
+                "Monthly",
+                "1200",
+                "Rent"
+            ],
+            [
+                "2",
+                "Quarterly",
+                "500",
+                "Utilities"
+            ],
+            [
+                "4",
+                "Annually",
+                "2000",
+                "Mortgage"
+            ],
+            [
+                "5",
+                "Never",
+                "100",
+                "Subscription"
+            ]
+        ]
+    }
+}

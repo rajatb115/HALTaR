@@ -1,0 +1,43 @@
+{
+    "table-209-209": {
+        "title": [
+            "Label Type",
+            "Description",
+            "Example"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Common Atomic Labels in Hydrogen Atoms",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which type of label is the most numerous in atoms with hydrogen?",
+        "data": [
+            [
+                "Isotope",
+                "Atoms with the same number of protons but different numbers of neutrons.",
+                "Protium (\u00b9H), Deuterium (\u00b2H), Tritium (\u00b3H)"
+            ],
+            [
+                "Ion",
+                "Atom or molecule with a net electric charge due to the loss or gain of electrons.",
+                "H\u207a (proton), H\u207b (hydride)"
+            ],
+            [
+                "Excited State",
+                "Atom in which one or more electrons has absorbed energy and moved to a higher energy level.",
+                "H* (electron in n>1 orbital)"
+            ],
+            [
+                "Atomic Hydrogen",
+                "Elemental hydrogen that exists as single atoms rather than hydrogen molecules (H\u2082).",
+                "Found in extreme temperatures"
+            ],
+            [
+                "Ortho/Para Hydrogen",
+                "Relates to the spin states of the nuclei in diatomic hydrogen (H\u2082). Exists for single atoms too.",
+                "Ortho-Hydrogen has parallel spins. Para-Hydrogen has antiparallel spins."
+            ]
+        ]
+    }
+}

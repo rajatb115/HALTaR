@@ -1,0 +1,39 @@
+{
+    "table-1382-1382": {
+        "title": [
+            "Student Name",
+            "Events Attended"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Students Attendance Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the name of students that have attended more than 7 events.",
+        "data": [
+            [
+                "John Smith",
+                "10"
+            ],
+            [
+                "Alice Jones",
+                "8"
+            ],
+            [
+                "Bob Williams",
+                "12"
+            ],
+            [
+                "Emily Davis",
+                "9"
+            ],
+            [
+                "David Brown",
+                "7"
+            ]
+        ]
+    }
+}

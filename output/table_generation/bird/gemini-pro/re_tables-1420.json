@@ -1,0 +1,37 @@
+{
+    "table-1420-1420": {
+        "title": [
+            "Event Date",
+            "Event Category"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Event Categories",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the category of event which was taken place in 2020-03-24T12:00:00?",
+        "data": [
+            [
+                "2020-03-24T12:00:00",
+                "Concert"
+            ],
+            [
+                "2021-11-15T18:30:00",
+                "Conference"
+            ],
+            [
+                "2022-05-01T09:00:00",
+                "Festival"
+            ],
+            [
+                "2023-02-10T14:00:00",
+                "Workshop"
+            ],
+            [
+                "2024-09-22T20:00:00",
+                "Gala"
+            ]
+        ]
+    }
+}

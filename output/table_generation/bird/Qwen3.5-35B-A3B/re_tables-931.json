@@ -1,0 +1,77 @@
+{
+    "table-931-931": {
+        "title": [
+            "Race_Name",
+            "Season",
+            "Driver",
+            "Position_Finished",
+            "Points_Scored",
+            "Circuit_Location"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which Formula_1 race did Lewis Hamilton rank the highest?",
+        "data": [
+            [
+                "British Grand Prix",
+                "476",
+                "Lewis Hamilton",
+                "1st",
+                "30",
+                "Silverstone, UK"
+            ],
+            [
+                "Monaco Grand Prix",
+                "482",
+                "Lewis Hamilton",
+                "1st",
+                "25",
+                "Monte Carlo, Monaco"
+            ],
+            [
+                "Singapore Grand Prix",
+                "479",
+                "Lewis Hamilton",
+                "1st",
+                "",
+                "Marina Bay, Singapore"
+            ],
+            [
+                "Brazilian Grand Prix",
+                "478",
+                "Lewis Hamilton",
+                "2nd",
+                "",
+                "Interlagos, Brazil"
+            ],
+            [
+                "Japanese Grand Prix",
+                "477",
+                "Lewis Hamilton",
+                "3rd",
+                "",
+                "Suzuka, Japan"
+            ],
+            [
+                "Italian Grand Prix",
+                "475",
+                "Lewis Hamilton",
+                "4th",
+                "",
+                "Mugello, Italy"
+            ],
+            [
+                "Australian Grand Prix",
+                "474",
+                "Lewis Hamilton",
+                "5th",
+                "",
+                "Albert Park, Australia"
+            ]
+        ]
+    }
+}

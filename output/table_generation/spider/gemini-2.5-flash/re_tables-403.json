@@ -1,0 +1,58 @@
+{
+    "table-403-403": {
+        "title": [
+            "Player Name",
+            "Total Earnings (USD)",
+            "Notable Achievement"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the names of poker players who have earnings above 300000.",
+        "data": [
+            [
+                "Daniel Negreanu",
+                "42000000",
+                "6 WSOP Bracelets"
+            ],
+            [
+                "Phil Ivey",
+                "38000000",
+                "10 WSOP Bracelets"
+            ],
+            [
+                "Erik Seidel",
+                "40000000",
+                "9 WSOP Bracelets"
+            ],
+            [
+                "Justin Bonomo",
+                "61000000",
+                "3 WSOP Bracelets"
+            ],
+            [
+                "Stephen Chidwick",
+                "55000000",
+                "1 WSOP Bracelet"
+            ],
+            [
+                "Jason Koon",
+                "52000000",
+                "2 WSOP Bracelets"
+            ],
+            [
+                "Fedor Holz",
+                "39000000",
+                "2 WSOP Bracelets"
+            ],
+            [
+                "Bryn Kenney",
+                "57000000",
+                "N/A"
+            ]
+        ]
+    }
+}

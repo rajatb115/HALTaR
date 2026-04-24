@@ -1,0 +1,85 @@
+{
+    "table-49-49": {
+        "title": [
+            "Pet_Type",
+            "Average_Age_Years",
+            "Maximum_Age_Year_Observed",
+            "Sample_Size",
+            "Data_Source",
+            "Status",
+            "Last_Update_Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average and maximum age for each pet type?",
+        "data": [
+            [
+                "Dog",
+                "7.4",
+                "36",
+                "450",
+                "National Survey",
+                "Verified",
+                "01/15/2024"
+            ],
+            [
+                "Cat",
+                "9.2",
+                "52",
+                "380",
+                "Veterinary Records",
+                "Verified",
+                "02/10/24"
+            ],
+            [
+                "Bird",
+                "6.1",
+                "85",
+                "120",
+                "Avian Registry",
+                "Pending",
+                "N/A"
+            ],
+            [
+                "Fish",
+                "N/A",
+                "n/a",
+                "",
+                "Data Incomplete",
+                "Pending Review",
+                "March 2nd"
+            ],
+            [
+                "Hamster",
+                ".2",
+                "4",
+                "95",
+                "Local Shelter Report",
+                "Validated",
+                "March 1st"
+            ],
+            [
+                "Rabbit",
+                "n/a",
+                "18",
+                "60",
+                "Breeder Database",
+                "Under Audit",
+                "April 5th"
+            ],
+            [
+                "Reptile",
+                "NA",
+                "50",
+                "40",
+                "Exotic Animal Clinic",
+                "Confirmed",
+                "May 12th"
+            ]
+        ]
+    }
+}

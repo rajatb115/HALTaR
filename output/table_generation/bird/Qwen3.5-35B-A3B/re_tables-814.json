@@ -1,0 +1,37 @@
+{
+    "table-814-814": {
+        "title": [
+            "Superhero Name",
+            "Alignment",
+            "Strength Score",
+            "Speed Score",
+            "Intelligence Score",
+            "Average Attribute Value"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Calculate the average attribute value of all neutral superheroes.",
+        "data": [
+            [
+                "Captain Atom",
+                "Neutral",
+                "950",
+                "420",
+                "N/A",
+                "685"
+            ],
+            [
+                "",
+                "Neutral",
+                "780",
+                "310",
+                "N/A",
+                "545"
+            ]
+        ]
+    }
+}

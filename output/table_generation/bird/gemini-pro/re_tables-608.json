@@ -1,0 +1,45 @@
+{
+    "table-608-608": {
+        "title": [
+            "Comment ID",
+            "Sentiment",
+            "Sentiment Score"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Comment Sentiment Analysis Examples",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many positive comments are there on the list?",
+        "data": [
+            [
+                "123",
+                "Positive",
+                "0.85"
+            ],
+            [
+                "124",
+                "Negative",
+                "-0.62"
+            ],
+            [
+                "125",
+                "Positive",
+                "0.92"
+            ],
+            [
+                "126",
+                "Neutral",
+                "0.10"
+            ],
+            [
+                "127",
+                "Positive",
+                "0.78"
+            ]
+        ]
+    }
+}

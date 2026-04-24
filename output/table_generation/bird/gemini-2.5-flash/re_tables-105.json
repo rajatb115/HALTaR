@@ -1,0 +1,85 @@
+{
+    "table-105-105": {
+        "title": [
+            "Transaction ID",
+            "Transaction Date",
+            "Amount",
+            "Currency",
+            "Account ID",
+            "Account Type",
+            "Account Opening Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "The transaction of 840 USD happened in 1998/10/14, when was this account opened?",
+        "data": [
+            [
+                "T1001",
+                "1998-10-14",
+                "840.00",
+                "USD",
+                "ACC001",
+                "Checking",
+                "1997-03-20"
+            ],
+            [
+                "T1002",
+                "1999-01-05",
+                "120.50",
+                "USD",
+                "ACC001",
+                "Checking",
+                "1997-03-20"
+            ],
+            [
+                "T1003",
+                "1998-09-22",
+                "5000.00",
+                "USD",
+                "ACC002",
+                "Savings",
+                "1996-11-15"
+            ],
+            [
+                "T1004",
+                "2000-02-10",
+                "75.25",
+                "EUR",
+                "ACC003",
+                "Credit Card",
+                "1999-08-01"
+            ],
+            [
+                "T1005",
+                "1997-05-01",
+                "300.00",
+                "USD",
+                "ACC004",
+                "Checking",
+                "1997-04-10"
+            ],
+            [
+                "T1006",
+                "1998-12-01",
+                "1500.00",
+                "GBP",
+                "ACC005",
+                "Savings",
+                "1998-06-25"
+            ],
+            [
+                "T1007",
+                "1999-03-15",
+                "25.00",
+                "USD",
+                "ACC001",
+                "Checking",
+                "1997-03-20"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-986-986": {
+        "title": [
+            "Driver",
+            "Lap Number",
+            "Lap Time"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "French Grand Prix Lap Times",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the drivers who participated in the French Grand Prix, who has the slowest time in the 3rd lap.",
+        "data": [
+            [
+                "Max Verstappen",
+                "1",
+                "1:32.543"
+            ],
+            [
+                "Charles Leclerc",
+                "1",
+                "1:32.876"
+            ],
+            [
+                "Sergio Perez",
+                "1",
+                "1:33.123"
+            ],
+            [
+                "Lewis Hamilton",
+                "1",
+                "1:33.456"
+            ],
+            [
+                "Carlos Sainz Jr.",
+                "1",
+                "1:33.789"
+            ]
+        ]
+    }
+}

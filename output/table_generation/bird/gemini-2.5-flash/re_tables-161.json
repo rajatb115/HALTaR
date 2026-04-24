@@ -1,0 +1,69 @@
+{
+    "table-161-161": {
+        "title": [
+            "Account ID",
+            "Issuance Week",
+            "Loan Amount ($)",
+            "Account Type",
+            "Loan Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the weekly issuance accounts, how many have a loan of under 200000?",
+        "data": [
+            [
+                "A1001",
+                "2023-W45",
+                "150000",
+                "Weekly Issuance",
+                "Active"
+            ],
+            [
+                "A1002",
+                "2023-W45",
+                "250000",
+                "Monthly Issuance",
+                "Active"
+            ],
+            [
+                "A1003",
+                "2023-W46",
+                "180000",
+                "Weekly Issuance",
+                "Active"
+            ],
+            [
+                "A1004",
+                "2023-W46",
+                "300000",
+                "Weekly Issuance",
+                "Closed"
+            ],
+            [
+                "A1005",
+                "2023-W47",
+                "195000",
+                "Bi-Weekly Issuance",
+                "Active"
+            ],
+            [
+                "A1006",
+                "2023-W47",
+                "100000",
+                "Weekly Issuance",
+                "Active"
+            ],
+            [
+                "A1007",
+                "2023-W48",
+                "210000",
+                "Weekly Issuance",
+                "Pending"
+            ]
+        ]
+    }
+}

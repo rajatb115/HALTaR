@@ -1,0 +1,85 @@
+{
+    "table-936-936": {
+        "title": [
+            "Driver",
+            "Team",
+            "Status",
+            "Grid Position",
+            "Laps Completed",
+            "Time/Gap",
+            "Points Scored"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many drivers managed to finish the race in the 2008 Australian Grand Prix?",
+        "data": [
+            [
+                "Lewis Hamilton",
+                "McLaren-Mercedes",
+                "Finished",
+                "4th",
+                "58",
+                "+6.7s",
+                "8"
+            ],
+            [
+                "Mario Kart",
+                "N/A",
+                "DNF",
+                "3rd",
+                "0",
+                "Engine Failure",
+                "6"
+            ],
+            [
+                "Jenson Button",
+                "Honda",
+                "Retired",
+                "7th",
+                "-",
+                "Gearbox Issue",
+                "9"
+            ],
+            [
+                "Felipe Massa",
+                "Ferrari",
+                "Finished",
+                "2nd",
+                "57",
+                "+1 Lap",
+                ""
+            ],
+            [
+                "Kimi R\u00e4ikk\u00f6nen",
+                "Toyota",
+                "Finished",
+                "5th",
+                "56",
+                "+2 Laps",
+                ""
+            ],
+            [
+                "Robert Kubica",
+                "BMW Sauber",
+                "Finished",
+                "6th",
+                "55",
+                "+3 Laps",
+                ""
+            ],
+            [
+                "Heikki Kovalainen",
+                "Renault",
+                "Finished",
+                "8th",
+                "54",
+                "+4 Laps",
+                ""
+            ]
+        ]
+    }
+}

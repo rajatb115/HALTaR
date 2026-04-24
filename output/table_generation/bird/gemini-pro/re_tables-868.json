@@ -1,0 +1,51 @@
+{
+    "table-868-868": {
+        "title": [
+            "Race Number",
+            "Driver Name",
+            "Nationality",
+            "Lap Time"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Fastest Lap Driver Nationality",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the driver who set the fastest lap speed in race No.933, where does he come from?",
+        "data": [
+            [
+                "933",
+                "Max Verstappen",
+                "Netherlands",
+                "1:20.260"
+            ],
+            [
+                "932",
+                "Lewis Hamilton",
+                "United Kingdom",
+                "1:21.500"
+            ],
+            [
+                "931",
+                "Charles Leclerc",
+                "Monaco",
+                "1:19.800"
+            ],
+            [
+                "930",
+                "Sergio Perez",
+                "Mexico",
+                "1:22.100"
+            ],
+            [
+                "929",
+                "George Russell",
+                "United Kingdom",
+                "1:20.500"
+            ]
+        ]
+    }
+}

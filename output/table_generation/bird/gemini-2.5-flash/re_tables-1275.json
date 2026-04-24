@@ -1,0 +1,69 @@
+{
+    "table-1275-1275": {
+        "title": [
+            "Patient ID",
+            "Anti-SSB Status",
+            "Other Symptoms Observed",
+            "Symptom Count",
+            "Examination Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients whose anti-SSB are normal, how many of them have other symptoms observed in their examination?",
+        "data": [
+            [
+                "P001",
+                "Normal",
+                "None",
+                "0",
+                "2023-11-01"
+            ],
+            [
+                "P002",
+                "Normal",
+                "Fatigue, Joint Pain",
+                "2",
+                "2023-11-01"
+            ],
+            [
+                "P003",
+                "Elevated",
+                "Dry Eyes, Skin Rash",
+                "2",
+                "2023-11-02"
+            ],
+            [
+                "P004",
+                "Normal",
+                "Muscle Weakness",
+                "1",
+                "2023-11-02"
+            ],
+            [
+                "P005",
+                "Normal",
+                "Numbness, Tingling",
+                "2",
+                "2023-11-03"
+            ],
+            [
+                "P006",
+                "Low",
+                "N/A",
+                "0",
+                "2023-11-03"
+            ],
+            [
+                "P007",
+                "Normal",
+                "Hair Loss, Oral Ulcers",
+                "2",
+                "2023-11-04"
+            ]
+        ]
+    }
+}

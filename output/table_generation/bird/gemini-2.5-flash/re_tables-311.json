@@ -1,0 +1,69 @@
+{
+    "table-311-311": {
+        "title": [
+            "Molecule Name",
+            "Primary Bond Type",
+            "Is Carcinogenic",
+            "Molecular Formula",
+            "CAS Registry Number"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many molecules have a double bond type and among these molecule, how many are labeled as carcinogenic compound?",
+        "data": [
+            [
+                "Ethene",
+                "Double",
+                "No",
+                "C2H4",
+                "74-85-1"
+            ],
+            [
+                "Benzene",
+                "Aromatic",
+                "Yes",
+                "C6H6",
+                "71-43-2"
+            ],
+            [
+                "Formaldehyde",
+                "Double",
+                "Yes",
+                "CH2O",
+                "50-00-0"
+            ],
+            [
+                "Acrylamide",
+                "Double",
+                "Yes",
+                "C3H5NO",
+                "79-06-1"
+            ],
+            [
+                "Vinyl Chloride",
+                "Double",
+                "Yes",
+                "C2H3Cl",
+                "75-01-4"
+            ],
+            [
+                "1,3-Butadiene",
+                "Double",
+                "Yes",
+                "C4H6",
+                "106-99-0"
+            ],
+            [
+                "Ethanol",
+                "Single",
+                "No",
+                "C2H6O",
+                "64-17-5"
+            ]
+        ]
+    }
+}

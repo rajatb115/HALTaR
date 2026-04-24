@@ -1,0 +1,94 @@
+{
+    "table-631-631": {
+        "title": [
+            "Breed_Type",
+            "Size_Type",
+            "Count",
+            "Region",
+            "Avg_Weight_kg",
+            "Lifespan_Years",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the distinct breed type and size type combinations for dogs.",
+        "data": [
+            [
+                "Terrier",
+                "Small",
+                "45",
+                "North America",
+                "7.2",
+                "",
+                "Verified"
+            ],
+            [
+                "Mastiff",
+                "Giant",
+                "32",
+                "Europe",
+                "85.5",
+                "",
+                "Verified"
+            ],
+            [
+                "Poodle",
+                "Medium",
+                "58",
+                "Asia",
+                "0.0",
+                "",
+                "Pending"
+            ],
+            [
+                "Hound",
+                "Large",
+                "29",
+                "South America",
+                "28.4",
+                "",
+                "Verified"
+            ],
+            [
+                "Spaniel",
+                "Medium",
+                "",
+                "Africa",
+                "",
+                "None",
+                "Unknown"
+            ],
+            [
+                "Shepherd",
+                "Large",
+                "67",
+                "Australia",
+                "-35.0",
+                "12",
+                "Verified"
+            ],
+            [
+                "Chihuahua",
+                "Tiny",
+                "",
+                "Mexico",
+                "",
+                "N/A",
+                "Confirmed"
+            ],
+            [
+                "Bulldog",
+                "Medium",
+                "41",
+                "UK",
+                "",
+                "N/A",
+                "Reviewing"
+            ]
+        ]
+    }
+}

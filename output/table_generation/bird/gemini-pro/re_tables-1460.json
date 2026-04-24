@@ -1,0 +1,43 @@
+{
+    "table-1460-1460": {
+        "title": [
+            "Student Name",
+            "Major",
+            "Department"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Student Major and Department Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the major of Garrett Gerke and which department does it belong to?",
+        "data": [
+            [
+                "Garrett Gerke",
+                "Computer Science",
+                "School of Computing"
+            ],
+            [
+                "Alice Smith",
+                "Biology",
+                "Biology Department"
+            ],
+            [
+                "Bob Johnson",
+                "History",
+                "History Department"
+            ],
+            [
+                "Carol Davis",
+                "Engineering",
+                "Engineering Department"
+            ],
+            [
+                "David Brown",
+                "Psychology",
+                "Psychology Department"
+            ]
+        ]
+    }
+}

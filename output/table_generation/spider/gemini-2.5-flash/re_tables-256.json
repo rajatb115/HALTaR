@@ -1,0 +1,45 @@
+{
+    "table-256-256": {
+        "title": [
+            "First Name",
+            "Country Code"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the first names and country codes for players who won both the WTA Championships and the Australian Open?",
+        "data": [
+            [
+                "Serena",
+                "USA"
+            ],
+            [
+                "Monica",
+                "USA"
+            ],
+            [
+                "Martina",
+                "SUI"
+            ],
+            [
+                "Steffi",
+                "GER"
+            ],
+            [
+                "Chris",
+                "USA"
+            ],
+            [
+                "Victoria",
+                "BLR"
+            ],
+            [
+                "Ashleigh",
+                "AUS"
+            ]
+        ]
+    }
+}

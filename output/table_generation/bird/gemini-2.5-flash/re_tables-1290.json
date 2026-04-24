@@ -1,0 +1,77 @@
+{
+    "table-1290-1290": {
+        "title": [
+            "Patient ID",
+            "Diagnosis",
+            "Total Protein (g/dL)",
+            "Protein Status",
+            "Age",
+            "Gender"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients who are diagnosed with SJS, how many of them have a normal level of total protein?",
+        "data": [
+            [
+                "P1001",
+                "SJS",
+                "7.2",
+                "Normal",
+                "45",
+                "Female"
+            ],
+            [
+                "P1002",
+                "SJS",
+                "5.8",
+                "Low",
+                "32",
+                "Male"
+            ],
+            [
+                "P1003",
+                "SJS",
+                "7.9",
+                "Normal",
+                "61",
+                "Female"
+            ],
+            [
+                "P1004",
+                "SJS",
+                "8.5",
+                "High",
+                "28",
+                "Male"
+            ],
+            [
+                "P1005",
+                "SJS",
+                "6.5",
+                "Normal",
+                "53",
+                "Female"
+            ],
+            [
+                "P1006",
+                "SJS",
+                "7.0",
+                "Normal",
+                "19",
+                "Male"
+            ],
+            [
+                "P1007",
+                "SJS",
+                "5.9",
+                "Low",
+                "70",
+                "Female"
+            ]
+        ]
+    }
+}

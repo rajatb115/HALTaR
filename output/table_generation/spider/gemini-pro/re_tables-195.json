@@ -1,0 +1,37 @@
+{
+    "table-195-195": {
+        "title": [
+            "Template Type Code",
+            "Template Type Description"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Template Type Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Return the template type description of the template type with the code AD.",
+        "data": [
+            [
+                "AD",
+                "Advertisement"
+            ],
+            [
+                "EM",
+                "Email"
+            ],
+            [
+                "LT",
+                "Letter"
+            ],
+            [
+                "RP",
+                "Report"
+            ],
+            [
+                "NW",
+                "Newsletter"
+            ]
+        ]
+    }
+}

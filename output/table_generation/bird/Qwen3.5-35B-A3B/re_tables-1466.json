@@ -1,0 +1,77 @@
+{
+    "table-1466-1466": {
+        "title": [
+            "Expense Item",
+            "Category",
+            "Subcategory",
+            "Amount ($)",
+            "Department",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which budget category does the expense 'Posters' fall to?",
+        "data": [
+            [
+                "Posters",
+                "Marketing",
+                "Promotional Materials",
+                "450.00",
+                "Sales",
+                "Approved"
+            ],
+            [
+                "Office Supplies",
+                "Stationery",
+                "",
+                "75.50",
+                "Admin",
+                "Pending"
+            ],
+            [
+                "Marketing Flyers",
+                "Digital Ads",
+                "",
+                "620.75",
+                "Marketing Manager",
+                "Active"
+            ],
+            [
+                "Office Chairs",
+                "Facilities",
+                "Furniture",
+                "3205.00",
+                "Operations",
+                "Completed"
+            ],
+            [
+                "Software License",
+                "Technology",
+                "SaaS Subscription",
+                "999.00",
+                "IT Director",
+                "Renewed"
+            ],
+            [
+                "Travel Expenses",
+                "Travel",
+                "Airfare & Hotel",
+                "8500.25",
+                "Executive",
+                "Reimbursed"
+            ],
+            [
+                "Training Workshop",
+                "HR Development",
+                "Employee Growth",
+                "5050.00",
+                "N/A",
+                "Scheduled"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "table-610-610": {
+        "title": [
+            "Post ID",
+            "Score"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            0,
+            1
+        ],
+        "pgTitle": "Sample Post Scores",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many posts have a score of 10 on the list?",
+        "data": [
+            [
+                "1",
+                "5"
+            ],
+            [
+                "2",
+                "10"
+            ],
+            [
+                "3",
+                "15"
+            ],
+            [
+                "4",
+                "10"
+            ],
+            [
+                "5",
+                "7"
+            ]
+        ]
+    }
+}

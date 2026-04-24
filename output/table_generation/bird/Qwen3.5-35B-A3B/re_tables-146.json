@@ -1,0 +1,61 @@
+{
+    "table-146-146": {
+        "title": [
+            "Account_ID",
+            "Monthly_Spend_1974",
+            "Average_Monthly_Spend",
+            "Status"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who are the account holder identification numbers whose spent per month on the credit card is less than the average, in 1998?",
+        "data": [
+            [
+                "ACC-10023",
+                "$450.00",
+                "$620.50",
+                "Below_Average"
+            ],
+            [
+                "ACC-A9921",
+                "$310.25",
+                "$580.75",
+                "Below_Average"
+            ],
+            [
+                "CC-55012",
+                "$290.10",
+                "",
+                "Unknown"
+            ],
+            [
+                "ACCT-882103",
+                "",
+                "$700.30",
+                "Above_Average_Note"
+            ],
+            [
+                "CARD-44102",
+                "",
+                "",
+                "Error_Value"
+            ],
+            [
+                "ID-990211",
+                "",
+                "$120.00",
+                "Valid_Low"
+            ],
+            [
+                "USER-33219",
+                "$0.99",
+                "",
+                "Zero_Balance"
+            ]
+        ]
+    }
+}

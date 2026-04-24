@@ -1,0 +1,61 @@
+{
+    "table-141-141": {
+        "title": [
+            "District Name",
+            "Account Type",
+            "Number of Accounts",
+            "Last Updated Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts are there in the district of \"Pisek\"?",
+        "data": [
+            [
+                "Pisek",
+                "Retail",
+                "1250",
+                "2023-11-15"
+            ],
+            [
+                "Pisek",
+                "Business",
+                "380",
+                "2023-11-15"
+            ],
+            [
+                "Pisek",
+                "Government",
+                "15",
+                "2023-11-15"
+            ],
+            [
+                "Tabor",
+                "Retail",
+                "1800",
+                "2023-11-10"
+            ],
+            [
+                "Tabor",
+                "Business",
+                "520",
+                "2023-11-10"
+            ],
+            [
+                "Strakonice",
+                "Retail",
+                "950",
+                "2023-11-20"
+            ],
+            [
+                "Strakonice",
+                "Business",
+                "290",
+                "2023-11-20"
+            ]
+        ]
+    }
+}

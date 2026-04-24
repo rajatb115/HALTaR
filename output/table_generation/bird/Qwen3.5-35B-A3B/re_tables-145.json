@@ -1,0 +1,77 @@
+{
+    "table-145-145": {
+        "title": [
+            "Account ID",
+            "Month",
+            "Transaction Count",
+            "Total Amount USD",
+            "Average Per Card USD",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much is the average amount in credit card made by account holders in a month, in year 2021?",
+        "data": [
+            [
+                "ACC_1042",
+                "January 2",
+                "45",
+                "$1,240.50",
+                "$27.56",
+                "Active"
+            ],
+            [
+                "ACC_A991",
+                "February 21",
+                "38",
+                "$980.25",
+                "-$25.80",
+                "Inactive"
+            ],
+            [
+                "CC_5521_M",
+                "March 22",
+                "52",
+                "$3,100.00",
+                "$59.62",
+                "Pending"
+            ],
+            [
+                "USR_882",
+                "April 23",
+                "61",
+                "$4,550.75",
+                "-$74.59",
+                "Suspended"
+            ],
+            [
+                "HOLD_331",
+                "May 24",
+                "0",
+                "N/A",
+                "N/A",
+                "Closed"
+            ],
+            [
+                "MEMB_772",
+                "June 25",
+                "29",
+                "$890.10",
+                "$30.69",
+                "Active"
+            ],
+            [
+                "DATA_XY1",
+                "July 26",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

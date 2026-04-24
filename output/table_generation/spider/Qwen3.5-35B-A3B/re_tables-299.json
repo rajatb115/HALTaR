@@ -1,0 +1,55 @@
+{
+    "table-299-299": {
+        "title": [
+            "Neighborhood",
+            "Borough",
+            "Zip Code Range",
+            "Primary Zone",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the zip code for Port Chelsea?",
+        "data": [
+            [
+                "Port Chelsea",
+                "Manhattan",
+                "64700 - 65000",
+                "Active",
+                "Verified"
+            ],
+            [
+                "Chelsea Piers",
+                "Manhattan / Brooklyn",
+                "33002 - 34005",
+                "Mixed",
+                "Pending Review"
+            ],
+            [
+                "Hudson Yards",
+                "Manhattan (Nearby)",
+                "50100+",
+                "Commercial",
+                "Inactive"
+            ],
+            [
+                "Hell's Kitchen West",
+                "Manhattan/Nearby",
+                "40120 - 40205",
+                "Residential",
+                "Active"
+            ],
+            [
+                "Gansevoort Market",
+                "Manhattan/South",
+                "70110+",
+                "Retail",
+                "Active"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "table-536-536": {
+        "title": [
+            "User ID",
+            "Upvotes",
+            "Downvotes"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "User Upvotes and Downvotes",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the users who have more than 100 upvotes, how many of them have more then 1 downvotes?",
+        "data": [
+            [
+                "123",
+                "150",
+                "5"
+            ],
+            [
+                "456",
+                "200",
+                "0"
+            ],
+            [
+                "789",
+                "110",
+                "2"
+            ],
+            [
+                "101",
+                "300",
+                "10"
+            ],
+            [
+                "112",
+                "120",
+                "1"
+            ]
+        ]
+    }
+}

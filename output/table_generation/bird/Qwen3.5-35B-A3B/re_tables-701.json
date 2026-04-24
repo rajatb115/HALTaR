@@ -1,0 +1,76 @@
+{
+    "table-701-701": {
+        "title": [
+            "Post ID",
+            "Title",
+            "Bounty Amount",
+            "Status",
+            "Author",
+            "Date Posted",
+            "Views"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify the number of posts that offer a bounty amount over 30.",
+        "data": [
+            [
+                "POST_4012",
+                "How to optimize SQL queries?",
+                "50",
+                "Open",
+                "DataGuru",
+                "06/15/2023",
+                "342"
+            ],
+            [
+                "POST_4105",
+                "Best practices for React hooks",
+                "75",
+                "Closed",
+                "FrontendDev",
+                "06/22/2023",
+                "891"
+            ],
+            [
+                "POST_3399",
+                "Understanding Kubernetes networking",
+                "40",
+                "Pending",
+                "CloudArchitect",
+                "09/01/2024",
+                ""
+            ],
+            [
+                "POST-5521",
+                "Debugging memory leaks in C++",
+                "100",
+                "Active",
+                "SystemsEng",
+                "",
+                ""
+            ],
+            [
+                "PST-9921",
+                "Implementing OAuth2 flow",
+                "60",
+                "Open",
+                "SecurityPro",
+                "11/12/2019",
+                "1205"
+            ],
+            [
+                "PST-7732",
+                "Design patterns for microservices",
+                "35",
+                "Closed",
+                "MicroServiceFan",
+                "03/03/2024",
+                ""
+            ]
+        ]
+    }
+}

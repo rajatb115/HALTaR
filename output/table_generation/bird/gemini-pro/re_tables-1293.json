@@ -1,0 +1,52 @@
+{
+    "table-1293-1293": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Uric Acid (mg/dL)",
+            "Anti Cardiolipin Antibody"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Patient Lab Results Comparison",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the anti Cardiolipin antibody concentration of the female patient with the highest uric acid level in the normal range?",
+        "data": [
+            [
+                "12345",
+                "Male",
+                "8.2",
+                "Negative"
+            ],
+            [
+                "67890",
+                "Female",
+                "6.8",
+                "Positive"
+            ],
+            [
+                "24680",
+                "Male",
+                "7.5",
+                "Negative"
+            ],
+            [
+                "13579",
+                "Female",
+                "5.9",
+                "Positive"
+            ],
+            [
+                "98765",
+                "Male",
+                "4.1",
+                "Negative"
+            ]
+        ]
+    }
+}

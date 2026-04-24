@@ -1,0 +1,73 @@
+{
+    "table-616-616": {
+        "title": [
+            "Treatment ID",
+            "Procedure Name",
+            "Date Performed",
+            "Provider Facility",
+            "Total Cost ($)",
+            "Insurance Coverage (%)",
+            "Patient Responsibility ($)",
+            "Status"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How much does the most recent treatment cost?",
+        "data": [
+            [
+                "T-4092",
+                "Dental Crown Replacement",
+                "6/15/2024",
+                "City General Hospital",
+                "$1,250.00",
+                "70%",
+                "$375.00",
+                "Completed"
+            ],
+            [
+                "T-A112",
+                "MRI Lumbar Spine Scan",
+                "5/30/2024",
+                "Metro Imaging Center",
+                "$890.50",
+                "N/A",
+                "$0.00",
+                "Pending Review"
+            ],
+            [
+                "B-7731",
+                "Annual Physical Exam",
+                "4/12/2023",
+                "Family Care Clinic",
+                "$215.75",
+                "85%",
+                "$32.36",
+                "Completed"
+            ],
+            [
+                "C-2290",
+                "Knee Arthroscopy Surgery",
+                "3/05/2019",
+                "Ortho Specialists Group",
+                "$4,500.25",
+                "60%",
+                "$1,800.10",
+                "In Progress"
+            ],
+            [
+                "D-8841",
+                "Blood",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

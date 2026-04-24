@@ -1,0 +1,69 @@
+{
+    "table-754-754": {
+        "title": [
+            "Superhero Name",
+            "Height (cm)",
+            "Eye Color",
+            "Affiliation",
+            "First Appearance"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the superheroes with height from 170 to 190, list the names of the superheroes with no eye color.",
+        "data": [
+            [
+                "Shadow Stalker",
+                "175",
+                "N/A",
+                "Independent",
+                "1998"
+            ],
+            [
+                "Phantom",
+                "182",
+                "N/A",
+                "Justice League",
+                "1961"
+            ],
+            [
+                "Ghost Rider",
+                "188",
+                "N/A",
+                "Midnight Sons",
+                "1972"
+            ],
+            [
+                "The Specter",
+                "190",
+                "N/A",
+                "Justice Society",
+                "1940"
+            ],
+            [
+                "Void",
+                "170",
+                "N/A",
+                "Cosmic Entities",
+                "2000"
+            ],
+            [
+                "Nightshade",
+                "178",
+                "N/A",
+                "Suicide Squad",
+                "1966"
+            ],
+            [
+                "Wraith",
+                "185",
+                "N/A",
+                "X-Men",
+                "1991"
+            ]
+        ]
+    }
+}

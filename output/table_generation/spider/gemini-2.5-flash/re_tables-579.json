@@ -1,0 +1,69 @@
+{
+    "table-579-579": {
+        "title": [
+            "Dog Name",
+            "Breed",
+            "Owner Name",
+            "Treatment Cost",
+            "Last Treatment Date"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the dogs for which the owner has not spend more than 1000 for treatment ?",
+        "data": [
+            [
+                "Max",
+                "Golden Retriever",
+                "John Smith",
+                "350",
+                "2023-10-15"
+            ],
+            [
+                "Bella",
+                "Labrador",
+                "Emily White",
+                "1200",
+                "2024-01-20"
+            ],
+            [
+                "Charlie",
+                "Poodle",
+                "David Green",
+                "800",
+                "2023-11-01"
+            ],
+            [
+                "Lucy",
+                "German Shepherd",
+                "Sarah Brown",
+                "500",
+                "2024-02-10"
+            ],
+            [
+                "Cooper",
+                "Beagle",
+                "Michael Lee",
+                "1500",
+                "2023-09-25"
+            ],
+            [
+                "Daisy",
+                "Bulldog",
+                "Jessica Chen",
+                "950",
+                "2024-03-05"
+            ],
+            [
+                "Buddy",
+                "Chihuahua",
+                "Robert Davis",
+                "200",
+                "2023-12-12"
+            ]
+        ]
+    }
+}

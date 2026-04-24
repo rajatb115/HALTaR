@@ -1,0 +1,85 @@
+{
+    "table-1075-1075": {
+        "title": [
+            "Team Short Name",
+            "Home Goals Scored",
+            "Match Date",
+            "Opponent",
+            "League",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all the short name of the football team that had a home team goal of 10?",
+        "data": [
+            [
+                "FC Rapid",
+                "4",
+                "7/12/2023",
+                "City United",
+                "Premier Div",
+                "Completed"
+            ],
+            [
+                "",
+                "6",
+                "8/15/2233",
+                "West End",
+                "Premier Division",
+                "Cancelled"
+            ],
+            [
+                "Rapid Stars",
+                "3",
+                "9/01/2323",
+                "North Bay",
+                "Championship",
+                "Ongoing"
+            ],
+            [
+                "Metro Blue",
+                "5",
+                "09/10/2424",
+                "South Gate",
+                "First Tier",
+                "Scheduled"
+            ],
+            [
+                "Blue Lions",
+                "6",
+                "11/05/1919",
+                "East Side",
+                "Second Div",
+                "Finished"
+            ],
+            [
+                "Green Wave",
+                "",
+                "/02/1818",
+                "Central Park",
+                "Amateur",
+                "Postponed"
+            ],
+            [
+                "Red Dragons",
+                "",
+                "03/21/1717",
+                "Old Town",
+                "Regional",
+                "Disqualified"
+            ],
+            [
+                "Sky Highs",
+                "",
+                "04/04/04",
+                "Valley View",
+                "Local Cup",
+                "Inactive"
+            ]
+        ]
+    }
+}

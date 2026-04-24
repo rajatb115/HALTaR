@@ -1,0 +1,39 @@
+{
+    "table-164-164": {
+        "title": [
+            "District Name",
+            "Number of Accounts with Successfully Completed Loans"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Districts with Successfully Completed Loan Contracts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which district has the most accounts with loan contracts finished with no problems?",
+        "data": [
+            [
+                "Pardubice",
+                "250"
+            ],
+            [
+                "Hradec Kralove",
+                "235"
+            ],
+            [
+                "Prague",
+                "220"
+            ],
+            [
+                "Olomouc",
+                "210"
+            ],
+            [
+                "Zlin",
+                "200"
+            ]
+        ]
+    }
+}

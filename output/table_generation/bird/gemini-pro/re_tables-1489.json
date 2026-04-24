@@ -1,0 +1,37 @@
+{
+    "table-1489-1489": {
+        "title": [
+            "Customer Name",
+            "Total Consumption"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Top Customers by Consumption",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who among KAM's customers consumed the most? How much did it consume?",
+        "data": [
+            [
+                "Customer A",
+                "1500 Units"
+            ],
+            [
+                "Customer B",
+                "1200 Units"
+            ],
+            [
+                "Customer C",
+                "900 Units"
+            ],
+            [
+                "Customer D",
+                "800 Units"
+            ],
+            [
+                "Customer E",
+                "700 Units"
+            ]
+        ]
+    }
+}

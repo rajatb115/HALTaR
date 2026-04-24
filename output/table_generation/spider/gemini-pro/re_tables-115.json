@@ -1,0 +1,33 @@
+{
+    "table-115-115": {
+        "title": [
+            "City",
+            "Airport Code",
+            "Airport Name"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Airports Serving Cities",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the airport code and airport name corresonding to the city Anthony.",
+        "data": [
+            [
+                "Anthony",
+                "AQO",
+                "Anthony Municipal Airport"
+            ],
+            [
+                "Anthony",
+                "ANY",
+                "Anthony Municipal Airport"
+            ],
+            [
+                "Anthony",
+                "63T",
+                "Anthony Stage Field Airport"
+            ]
+        ]
+    }
+}

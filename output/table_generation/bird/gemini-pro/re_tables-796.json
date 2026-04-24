@@ -1,0 +1,37 @@
+{
+    "table-796-796": {
+        "title": [
+            "Superhero",
+            "Alignment"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Superhero Alignments",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many superheroes have a neutral alignment?",
+        "data": [
+            [
+                "Superman",
+                "Good"
+            ],
+            [
+                "Batman",
+                "Neutral"
+            ],
+            [
+                "Wonder Woman",
+                "Good"
+            ],
+            [
+                "Loki",
+                "Bad"
+            ],
+            [
+                "Deadpool",
+                "Neutral"
+            ]
+        ]
+    }
+}

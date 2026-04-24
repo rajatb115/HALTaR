@@ -1,0 +1,52 @@
+{
+    "table-22-22": {
+        "title": [
+            "School Name",
+            "Free Meals",
+            "Free or Reduced Price Meals",
+            "Grades"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Los Angeles School Meal Programs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In Los Angeles how many schools have more than 500 free meals but less than 700 free or reduced price meals for K-12?",
+        "data": [
+            [
+                "School A",
+                "550",
+                "650",
+                "K-5"
+            ],
+            [
+                "School B",
+                "600",
+                "680",
+                "6-8"
+            ],
+            [
+                "School C",
+                "520",
+                "620",
+                "9-12"
+            ],
+            [
+                "School D",
+                "580",
+                "690",
+                "K-12"
+            ],
+            [
+                "School E",
+                "510",
+                "610",
+                "K-5"
+            ]
+        ]
+    }
+}

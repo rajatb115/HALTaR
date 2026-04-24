@@ -1,0 +1,49 @@
+{
+    "table-90-90": {
+        "title": [
+            "Account ID",
+            "Region",
+            "Issuance Timing",
+            "Status",
+            "Transaction Date",
+            "Total Transactions",
+            "Active Since"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 3,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many accounts who choose issuance after transaction are staying in East Bohemia region?",
+        "data": [
+            [
+                "ACC-4002",
+                "East Bohemian",
+                "Post-Tx",
+                "Active",
+                "06/15/2023",
+                "42",
+                "789 days ago"
+            ],
+            [
+                "ACC-AK91",
+                "East Bohemia",
+                "After Tx",
+                "Inactive",
+                "03/22/2024",
+                "5",
+                "N/A"
+            ],
+            [
+                "BZ-8821",
+                "Eastern Bohemia",
+                "Delayed Issue",
+                "Pending",
+                "08/01/2023 - 12/05/2000",
+                "99",
+                "6 months ago"
+            ]
+        ]
+    }
+}

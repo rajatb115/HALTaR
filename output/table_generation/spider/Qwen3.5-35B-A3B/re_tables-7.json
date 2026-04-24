@@ -1,0 +1,76 @@
+{
+    "table-7-7": {
+        "title": [
+            "Singer_Name",
+            "Age",
+            "Country_of_Origin",
+            "Genre",
+            "Active_Years_Start"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are all distinct countries where singers above age 20 are from?",
+        "data": [
+            [
+                "Adele Smith",
+                "34",
+                "United Kingdom",
+                "Pop Soul",
+                "2016"
+            ],
+            [
+                "Beyonc\u00e9 Jones",
+                "42",
+                "United States",
+                "R&B Pop",
+                "1978"
+            ],
+            [
+                "Shakira Mebarak",
+                "50",
+                "Colombia",
+                "Latin Pop Rock",
+                "2006"
+            ],
+            [
+                "Ed Sheeran",
+                "",
+                "United Kingdom",
+                "Folk Pop",
+                ""
+            ],
+            [
+                "Taylor Swift",
+                "33",
+                "United States",
+                "Country Pop",
+                ""
+            ],
+            [
+                "Bruno Mars",
+                "38",
+                "United States",
+                "Funk Pop",
+                ""
+            ],
+            [
+                "Ariana Grande",
+                "30",
+                "United States",
+                "Pop R&B",
+                ""
+            ],
+            [
+                "Justin Bieber",
+                "31",
+                "Canada",
+                "Pop Dance",
+                ""
+            ]
+        ]
+    }
+}

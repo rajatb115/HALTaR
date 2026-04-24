@@ -1,0 +1,69 @@
+{
+    "table-709-709": {
+        "title": [
+            "User ID",
+            "Username",
+            "Account Creation Date",
+            "Account Age (Years)",
+            "Commented Website"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the creation date and age of the user that commented with webiste.",
+        "data": [
+            [
+                "U001",
+                "AliceSmith",
+                "2020-01-15",
+                "4",
+                "example.com"
+            ],
+            [
+                "U002",
+                "BobJohnson",
+                "2018-05-20",
+                "6",
+                "blog.net"
+            ],
+            [
+                "U003",
+                "CharlieD",
+                "2021-11-01",
+                "3",
+                "myportfolio.org"
+            ],
+            [
+                "U004",
+                "DianaP",
+                "2019-03-10",
+                "5",
+                "techforum.io"
+            ],
+            [
+                "U005",
+                "EveG",
+                "2022-07-25",
+                "2",
+                "newsite.co"
+            ],
+            [
+                "U006",
+                "FrankZ",
+                "2017-09-01",
+                "7",
+                "oldblog.info"
+            ],
+            [
+                "U007",
+                "GraceK",
+                "2023-02-14",
+                "1",
+                "newproject.app"
+            ]
+        ]
+    }
+}

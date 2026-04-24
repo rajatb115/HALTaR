@@ -1,0 +1,77 @@
+{
+    "table-104-104": {
+        "title": [
+            "Client ID",
+            "Card Issue Date",
+            "Status",
+            "Issuing Branch",
+            "Account Type",
+            "Last Transaction"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which client issued his/her card in 1994/3/3, give his/her client id.",
+        "data": [
+            [
+                "C10045",
+                "3/19/1677",
+                "Active",
+                "New York Main",
+                "Checking",
+                "$125.50"
+            ],
+            [
+                "C20194",
+                "4/1/1776",
+                "Inactive",
+                "Chicago Central",
+                "Savings",
+                "N/A"
+            ],
+            [
+                "C30552",
+                "5/15/2023",
+                "Pending",
+                "Los Angeles West",
+                "Credit",
+                "$450.00"
+            ],
+            [
+                "D10221",
+                "6/22/1865",
+                "Suspended",
+                "Houston North",
+                "Business",
+                "$2,103.75"
+            ],
+            [
+                "E10998",
+                "7/4/2101",
+                "",
+                "Boston Harbor",
+                "Debit",
+                "$89.99"
+            ],
+            [
+                "F10443",
+                "8/12/2345",
+                "",
+                "Seattle Tech",
+                "Premium",
+                "$0.55"
+            ],
+            [
+                "G10772",
+                "/1/2500",
+                "",
+                "Miami Beach",
+                "Standard",
+                "$333.33"
+            ]
+        ]
+    }
+}

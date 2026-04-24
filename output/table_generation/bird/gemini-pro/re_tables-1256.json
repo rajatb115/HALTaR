@@ -1,0 +1,45 @@
+{
+    "table-1256-1256": {
+        "title": [
+            "Patient ID",
+            "Ig M Level",
+            "Diagnosis"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Patient Diagnoses with Abnormal Ig M Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients with an abnormal Ig M level, what is the most common disease they are diagnosed with?",
+        "data": [
+            [
+                "1234",
+                "High",
+                "Waldenstrom Macroglobulinemia"
+            ],
+            [
+                "5678",
+                "Low",
+                "Common Variable Immunodeficiency"
+            ],
+            [
+                "9012",
+                "High",
+                "Monoclonal Gammopathy"
+            ],
+            [
+                "3456",
+                "Low",
+                "Selective IgA Deficiency"
+            ],
+            [
+                "7890",
+                "High",
+                "Lymphoma"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "table-248-248": {
+        "title": [
+            "Match ID",
+            "Winner Rank",
+            "Loser Rank",
+            "Tournament Stage",
+            "Date",
+            "Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the best rank of losers across all matches?",
+        "data": [
+            [
+                "M0042",
+                "3",
+                "7",
+                "Quarterfinals",
+                "06/12/2023",
+                "North America"
+            ],
+            [
+                "M1058",
+                "5",
+                "9",
+                "Semifinals",
+                "06/24/2021",
+                "Europe"
+            ],
+            [
+                "T2091",
+                "8",
+                "",
+                "Group Stage",
+                "04/15/2022",
+                "Asia Pacific"
+            ],
+            [
+                "R3302",
+                "",
+                "",
+                "Round of 16",
+                "05/01/2023",
+                "South America"
+            ]
+        ]
+    }
+}

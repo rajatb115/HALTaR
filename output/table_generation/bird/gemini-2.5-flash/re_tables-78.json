@@ -1,0 +1,69 @@
+{
+    "table-78-78": {
+        "title": [
+            "School Name",
+            "School District",
+            "Grade Span",
+            "County",
+            "% Eligible FRPM"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which schools served a grade span of Kindergarten to 9th grade in the county of Los Angeles and what is its Percent (%) Eligible FRPM (Ages 5-17)?",
+        "data": [
+            [
+                "Maplewood K-9 Academy",
+                "Los Angeles Unified",
+                "K-9",
+                "Los Angeles",
+                "68%"
+            ],
+            [
+                "Oceanview Charter School",
+                "Santa Monica-Malibu Unified",
+                "K-9",
+                "Los Angeles",
+                "42%"
+            ],
+            [
+                "Central Heights Prep",
+                "Pasadena Unified",
+                "K-9",
+                "Los Angeles",
+                "75%"
+            ],
+            [
+                "Willow Creek Community School",
+                "Long Beach Unified",
+                "K-9",
+                "Los Angeles",
+                "59%"
+            ],
+            [
+                "Evergreen K-9 Institute",
+                "Culver City Unified",
+                "K-9",
+                "Los Angeles",
+                "35%"
+            ],
+            [
+                "Sunrise Valley Academy",
+                "Glendale Unified",
+                "K-9",
+                "Los Angeles",
+                "62%"
+            ],
+            [
+                "Pioneer K-9 Learning Center",
+                "Inglewood Unified",
+                "K-9",
+                "Los Angeles",
+                "81%"
+            ]
+        ]
+    }
+}

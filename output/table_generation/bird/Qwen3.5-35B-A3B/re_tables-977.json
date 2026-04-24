@@ -1,0 +1,69 @@
+{
+    "table-977-977": {
+        "title": [
+            "Driver_ID",
+            "Lap_Time_Seconds",
+            "Rank",
+            "Race_Date",
+            "Track_Name"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the driver's ID of the top five driver, by descending order, the fastest time during the first lap of the race.",
+        "data": [
+            [
+                "D4921",
+                "67.42",
+                "5",
+                "04/12/2023",
+                "Silverstone Circuit"
+            ],
+            [
+                "D1038",
+                "89.15",
+                "",
+                "N/A",
+                "N/Silverstone Circuit"
+            ],
+            [
+                "D774210",
+                "91.03",
+                "4",
+                "30/05/2023",
+                "Spa-Francorchamps"
+            ],
+            [
+                "D2291",
+                "72.11",
+                "-1",
+                "",
+                "Monaco Grand Prix"
+            ],
+            [
+                "D5502",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "D5552",
+                "73.88",
+                "-2",
+                "",
+                "Monaco GP"
+            ],
+            [
+                "D881022",
+                "",
+                "N/A",
+                "",
+                ""
+            ]
+        ]
+    }
+}

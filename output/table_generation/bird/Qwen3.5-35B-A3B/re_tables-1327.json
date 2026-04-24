@@ -1,0 +1,77 @@
+{
+    "table-1327-1327": {
+        "title": [
+            "Club_Name",
+            "Major",
+            "Member_Count",
+            "Semester",
+            "Status",
+            "Region"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many members of the Student_Club have majored Environmental Engineering?\n",
+        "data": [
+            [
+                "Student_Club",
+                "Environmental Engineering",
+                "42",
+                "Fall 2023",
+                "Active",
+                "North America"
+            ],
+            [
+                "Student_Clib",
+                "Civil Engineering",
+                "38",
+                "Spring 2023",
+                "Active",
+                "North America"
+            ],
+            [
+                "Student_Club",
+                "Mechanical Engineering",
+                "56",
+                "Fall 2023",
+                "Active",
+                "Europe"
+            ],
+            [
+                "Student_Club",
+                "Chemical Engineering",
+                "29",
+                "Summer 2022",
+                "Active",
+                "Asia"
+            ],
+            [
+                "student club",
+                "environmental engineering",
+                "7",
+                "Winter 2021",
+                "Inactive",
+                "South America"
+            ],
+            [
+                "studentclub",
+                "environmental engineering",
+                "",
+                "TBD pending",
+                "",
+                "Africa"
+            ],
+            [
+                "student_club",
+                "environmental engineering",
+                "15",
+                "Fall 2020",
+                "Active",
+                "Oceania"
+            ]
+        ]
+    }
+}

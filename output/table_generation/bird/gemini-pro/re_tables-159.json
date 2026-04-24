@@ -1,0 +1,53 @@
+{
+    "table-159-159": {
+        "title": [
+            "Order ID",
+            "Account ID",
+            "District ID",
+            "Order Date"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Order Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the district Id of the account that placed the order with the id 33333?",
+        "data": [
+            [
+                "11111",
+                "12345",
+                "1",
+                "2023-01-15"
+            ],
+            [
+                "22222",
+                "67890",
+                "2",
+                "2023-02-20"
+            ],
+            [
+                "33333",
+                "24680",
+                "3",
+                "2023-03-10"
+            ],
+            [
+                "44444",
+                "13579",
+                "4",
+                "2023-04-05"
+            ],
+            [
+                "55555",
+                "98765",
+                "5",
+                "2023-05-12"
+            ]
+        ]
+    }
+}

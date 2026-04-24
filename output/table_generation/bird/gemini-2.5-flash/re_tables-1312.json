@@ -1,0 +1,77 @@
+{
+    "table-1312-1312": {
+        "title": [
+            "Patient ID",
+            "Thrombosis Severity",
+            "Prothrombin Time (PT) Result",
+            "INR Value",
+            "D-dimer (ng/mL)",
+            "Age (Years)"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many patients with severe thrombosis have a normal prothrombin time?",
+        "data": [
+            [
+                "P001",
+                "Severe",
+                "Normal",
+                "1.0",
+                "1250",
+                "68"
+            ],
+            [
+                "P002",
+                "Moderate",
+                "Elevated",
+                "1.8",
+                "890",
+                "55"
+            ],
+            [
+                "P003",
+                "Severe",
+                "Normal",
+                "1.1",
+                "2100",
+                "72"
+            ],
+            [
+                "P004",
+                "Mild",
+                "Normal",
+                "0.9",
+                "450",
+                "42"
+            ],
+            [
+                "P005",
+                "Severe",
+                "Elevated",
+                "2.5",
+                "1500",
+                "61"
+            ],
+            [
+                "P006",
+                "None",
+                "Normal",
+                "1.0",
+                "280",
+                "35"
+            ],
+            [
+                "P007",
+                "Severe",
+                "Normal",
+                "1.0",
+                "1800",
+                "78"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-1245-1245": {
+        "title": [
+            "Patient ID",
+            "Admission Date",
+            "Prothrombins Time (s)",
+            "Status",
+            "Age Group",
+            "Gender",
+            "Department"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List all patients who first came to the hospital after year 1992 with prothrombin time (PT) level that are normal.",
+        "data": [
+            [
+                "P-4021",
+                "03/15/1976",
+                "N/A",
+                "Normal",
+                "Adult",
+                "Male",
+                "Cardiology"
+            ],
+            [
+                "P-4105",
+                "06/22/1893",
+                "N/A",
+                "Normal",
+                "Elderly",
+                "Female",
+                "Neurology"
+            ],
+            [
+                "P-4299",
+                "09/10/1788",
+                "N.A.",
+                "Normal",
+                "Senior",
+                "Male",
+                "Orthopedics"
+            ],
+            [
+                "P-4312",
+                "04/05/2023",
+                "3.2",
+                "Normal",
+                "Child",
+                "Female",
+                "Pediatrics"
+            ],
+            [
+                "P-4401",
+                "11/11/1955",
+                "N.A.",
+                "Normal",
+                "Middle-aged",
+                "Male",
+                "General Medicine"
+            ],
+            [
+                "P-4550",
+                "07/07/1644",
+                "N.A.",
+                "Normal",
+                "Infant",
+                "Female",
+                "Neonatology"
+            ],
+            [
+                "P-5002",
+                "12/31/2100",
+                "N/A",
+                "Normal",
+                "Adult",
+                "Male",
+                "Oncology"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "table-634-634": {
+        "title": [
+            "Post ID",
+            "Author",
+            "Answer Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Posts with Highest Answer Count by Slashnick",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which post by slashnick has the most answers count? State the post ID.",
+        "data": [
+            [
+                "12345",
+                "slashnick",
+                "15"
+            ],
+            [
+                "67890",
+                "slashnick",
+                "12"
+            ],
+            [
+                "24680",
+                "slashnick",
+                "8"
+            ],
+            [
+                "13579",
+                "slashnick",
+                "5"
+            ],
+            [
+                "98765",
+                "slashnick",
+                "2"
+            ]
+        ]
+    }
+}

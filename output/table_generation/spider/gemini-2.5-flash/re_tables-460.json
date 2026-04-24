@@ -1,0 +1,62 @@
+{
+    "table-460-460": {
+        "title": [
+            "Region",
+            "Estimated Languages",
+            "Major Family Example",
+            "Endangered Languages",
+            "Data Year"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the number of distinct languages used around the world?",
+        "data": [
+            [
+                "Global",
+                "7139",
+                "Indo-European",
+                "2500",
+                "2023"
+            ],
+            [
+                "Africa",
+                "2140",
+                "Niger-Congo",
+                "300",
+                "2022"
+            ],
+            [
+                "Asia",
+                "2300",
+                "Sino-Tibetan",
+                "500",
+                "2023"
+            ],
+            [
+                "Europe",
+                "280",
+                "Indo-European",
+                "50",
+                "2021"
+            ],
+            [
+                "Americas",
+                "1060",
+                "Uto-Aztecan",
+                "200",
+                "2022"
+            ],
+            [
+                "Oceania",
+                "1310",
+                "Austronesian",
+                "400",
+                "2023"
+            ]
+        ]
+    }
+}

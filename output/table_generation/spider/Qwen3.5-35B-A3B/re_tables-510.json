@@ -1,0 +1,83 @@
+{
+    "table-510-510": {
+        "title": [
+            "Country",
+            "Area_sq_km",
+            "Continent",
+            "Population_millions",
+            "Capital_City",
+            "Official_Language",
+            "GDP_Billion_USD",
+            "Time_Zone_Offset_UTC"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names and areas of countries with the top 5 largest area?",
+        "data": [
+            [
+                "Russia",
+                "6475000",
+                "Europe/Asia",
+                "144",
+                "Moscow",
+                "Russian",
+                "1700",
+                "UTC+3"
+            ],
+            [
+                "Canada",
+                "9984670",
+                "North America",
+                "38",
+                "Ottawa",
+                "English/French",
+                "1600",
+                "UTC-5 to UTC-8"
+            ],
+            [
+                "United States",
+                "5266006",
+                "North America",
+                "331",
+                "Washington D.C.",
+                "English",
+                "2100",
+                "UTC-5 to UTC-8"
+            ],
+            [
+                "China",
+                "8264057",
+                "Asia",
+                "1400",
+                "Beijing",
+                "Mandarin Chinese",
+                "1400",
+                "UTC+8"
+            ],
+            [
+                "Brazil",
+                "8515767",
+                "South America",
+                "214",
+                "Bras\u00edlia",
+                "Portuguese",
+                "1400",
+                "UTC-3"
+            ],
+            [
+                "Australia",
+                "7692024",
+                "Oceania",
+                "26",
+                "Canberra",
+                "English",
+                "1500",
+                "UTC+8 to UTC+11"
+            ]
+        ]
+    }
+}

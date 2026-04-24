@@ -1,0 +1,64 @@
+{
+    "table-38-38": {
+        "title": [
+            "School Name",
+            "Street",
+            "City",
+            "Zip",
+            "State",
+            "Excellence Rate"
+        ],
+        "numCols": 6,
+        "numericColumns": [
+            3,
+            5
+        ],
+        "pgTitle": "Schools with Lowest Excellence Rates",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the complete address of the school with the lowest excellence rate? Indicate the Street, City, Zip and State.",
+        "data": [
+            [
+                "School A",
+                "123 Main St",
+                "Anytown",
+                "12345",
+                "CA",
+                "0.10"
+            ],
+            [
+                "School B",
+                "456 Oak Ave",
+                "Anytown",
+                "67890",
+                "NY",
+                "0.15"
+            ],
+            [
+                "School C",
+                "789 Pine Ln",
+                "Sometown",
+                "13579",
+                "TX",
+                "0.18"
+            ],
+            [
+                "School D",
+                "101 Elm Rd",
+                "Anytown",
+                "24680",
+                "FL",
+                "0.20"
+            ],
+            [
+                "School E",
+                "222 Maple Dr",
+                "Sometown",
+                "98765",
+                "GA",
+                "0.22"
+            ]
+        ]
+    }
+}

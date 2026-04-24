@@ -1,0 +1,53 @@
+{
+    "table-225-225": {
+        "title": [
+            "Bond ID",
+            "Atom ID 1",
+            "Atom ID 2",
+            "Bond Length"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1,
+            2,
+            3
+        ],
+        "pgTitle": "Bond Information for TR000_2",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the bond IDs that have the same atom ID 2 of TR000_2?",
+        "data": [
+            [
+                "B123",
+                "1",
+                "2",
+                "1.54"
+            ],
+            [
+                "B456",
+                "3",
+                "2",
+                "1.42"
+            ],
+            [
+                "B789",
+                "4",
+                "2",
+                "1.38"
+            ],
+            [
+                "B101",
+                "5",
+                "2",
+                "1.50"
+            ],
+            [
+                "B112",
+                "6",
+                "2",
+                "1.45"
+            ]
+        ]
+    }
+}

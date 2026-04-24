@@ -1,0 +1,43 @@
+{
+    "table-94-94": {
+        "title": [
+            "Car Model",
+            "Acceleration (0-60 mph)",
+            "Horsepower"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Car Performance Metrics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the horsepower of the car with the largest accelerate?",
+        "data": [
+            [
+                "Model A",
+                "3.0 seconds",
+                "600 HP"
+            ],
+            [
+                "Model B",
+                "3.2 seconds",
+                "550 HP"
+            ],
+            [
+                "Model C",
+                "3.5 seconds",
+                "400 HP"
+            ],
+            [
+                "Model D",
+                "4.0 seconds",
+                "350 HP"
+            ],
+            [
+                "Model E",
+                "4.5 seconds",
+                "300 HP"
+            ]
+        ]
+    }
+}

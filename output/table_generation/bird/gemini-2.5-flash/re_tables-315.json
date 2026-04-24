@@ -1,0 +1,77 @@
+{
+    "table-315-315": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Total Bonds",
+            "Single Bonds",
+            "Double Bonds",
+            "Triple Bonds"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many single bonds are there in the list?",
+        "data": [
+            [
+                "Methane",
+                "CH4",
+                "4",
+                "4",
+                "0",
+                "0"
+            ],
+            [
+                "Ethane",
+                "C2H6",
+                "7",
+                "7",
+                "0",
+                "0"
+            ],
+            [
+                "Ethene",
+                "C2H4",
+                "5",
+                "4",
+                "1",
+                "0"
+            ],
+            [
+                "Ethyne",
+                "C2H2",
+                "3",
+                "2",
+                "0",
+                "1"
+            ],
+            [
+                "Water",
+                "H2O",
+                "2",
+                "2",
+                "0",
+                "0"
+            ],
+            [
+                "Ammonia",
+                "NH3",
+                "3",
+                "3",
+                "0",
+                "0"
+            ],
+            [
+                "Carbon Dioxide",
+                "CO2",
+                "2",
+                "0",
+                "2",
+                "0"
+            ]
+        ]
+    }
+}

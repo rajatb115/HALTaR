@@ -1,0 +1,53 @@
+{
+    "table-1264-1264": {
+        "title": [
+            "Patient ID",
+            "Hematocrit Level",
+            "Anti-Cardiolipin Antibody Concentration",
+            "Result"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Patient Information with Abnormal Hematocrit and Anti-Cardiolipin Antibody Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the patients whose level of Hematoclit isn't normal, which patient has the highest anti-Cardiolipin antibody concentration? Please list his or her ID.",
+        "data": [
+            [
+                "12345",
+                "35",
+                "20",
+                "Abnormal"
+            ],
+            [
+                "67890",
+                "42",
+                "80",
+                "Abnormal"
+            ],
+            [
+                "24680",
+                "30",
+                "5",
+                "Abnormal"
+            ],
+            [
+                "13579",
+                "48",
+                "120",
+                "Abnormal"
+            ],
+            [
+                "11223",
+                "32",
+                "40",
+                "Abnormal"
+            ]
+        ]
+    }
+}

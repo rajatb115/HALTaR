@@ -1,0 +1,69 @@
+{
+    "table-746-746": {
+        "title": [
+            "Publisher_ID",
+            "Title",
+            "Genre",
+            "Release_Year",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the publisher ID of Star Trek.",
+        "data": [
+            [
+                "PUB_STK_004",
+                "Star Trek: Enterprise",
+                "Sci-Fi TV Series",
+                "1976",
+                "Completed"
+            ],
+            [
+                "PST_KRZ_012",
+                "Star Wars: Episode IV",
+                "Space Opera Film",
+                "1983",
+                "Active"
+            ],
+            [
+                "VGR_NXT_099",
+                "Voyager Next Gen",
+                "Adventure Novel",
+                "1991",
+                "Out of Print"
+            ],
+            [
+                "TOS_ORG_055",
+                "Original Trilogy Script",
+                "Screenplay Collection",
+                "1967",
+                "Archived"
+            ],
+            [
+                "DS9_CRS_023",
+                "Deep Space Nine Comics",
+                "Graphic Novels",
+                "2002",
+                "In Stock"
+            ],
+            [
+                "ENT_PRD_088",
+                "Enterprise Prequel Guide",
+                "Reference Book",
+                "1945",
+                "Discontinued"
+            ],
+            [
+                "TMP_EDU_031",
+                "Motion Picture Textbook",
+                "Educational Material",
+                "1956",
+                "Available"
+            ]
+        ]
+    }
+}

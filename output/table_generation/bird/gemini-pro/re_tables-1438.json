@@ -1,0 +1,49 @@
+{
+    "table-1438-1438": {
+        "title": [
+            "Member Name",
+            "Approval Date",
+            "Event Name",
+            "Event Link"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Member Event Attendance",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which members who were approved from 1/10/2019 to 11/19/2019? Please identify the member who attended the event and the link to their event.",
+        "data": [
+            [
+                "John Smith",
+                "2019-10-15",
+                "Conference A",
+                "[Link](example.com/confA)"
+            ],
+            [
+                "Alice Brown",
+                "2019-10-22",
+                "Workshop B",
+                "[Link](example.com/workshopB)"
+            ],
+            [
+                "Bob Williams",
+                "2019-11-05",
+                "Seminar C",
+                "[Link](example.com/seminarC)"
+            ],
+            [
+                "Carol Davis",
+                "2019-11-12",
+                "Training D",
+                "[Link](example.com/trainingD)"
+            ],
+            [
+                "Eve Green",
+                "2019-11-18",
+                "Expo E",
+                "[Link](example.com/expoE)"
+            ]
+        ]
+    }
+}

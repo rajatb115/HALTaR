@@ -1,0 +1,69 @@
+{
+    "table-1525-1525": {
+        "title": [
+            "Customer ID",
+            "Nationality",
+            "Transaction Date",
+            "Amount Spent",
+            "Product Category"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What's the nationality of the customer who spent 548.4 in 2012/8/24?",
+        "data": [
+            [
+                "CUST001",
+                "German",
+                "2012-08-24",
+                "548.40",
+                "Electronics"
+            ],
+            [
+                "CUST002",
+                "American",
+                "2012-08-24",
+                "120.50",
+                "Books"
+            ],
+            [
+                "CUST003",
+                "British",
+                "2012-08-23",
+                "300.00",
+                "Home Goods"
+            ],
+            [
+                "CUST004",
+                "Canadian",
+                "2012-08-25",
+                "75.25",
+                "Groceries"
+            ],
+            [
+                "CUST005",
+                "French",
+                "2012-08-24",
+                "980.10",
+                "Apparel"
+            ],
+            [
+                "CUST006",
+                "Australian",
+                "2012-08-23",
+                "45.99",
+                "Health & Beauty"
+            ],
+            [
+                "CUST007",
+                "Japanese",
+                "2012-08-25",
+                "210.00",
+                "Electronics"
+            ]
+        ]
+    }
+}

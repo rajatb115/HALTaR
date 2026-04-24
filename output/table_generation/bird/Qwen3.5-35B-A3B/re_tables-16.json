@@ -1,0 +1,76 @@
+{
+    "table-16-16": {
+        "title": [
+            "District_Name",
+            "Status",
+            "Avg_Score_Reading",
+            "Total_Students",
+            "Last_Reported_Date",
+            "Region_Code",
+            "Performance_Rating"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which active district has the highest average score in Reading?",
+        "data": [
+            [
+                "Northwood District",
+                "Active",
+                "78.4",
+                "450",
+                "06/15/2023",
+                "NW-01A",
+                "High"
+            ],
+            [
+                "Southgate County",
+                "Inactive",
+                "65.2",
+                "320",
+                "N/A",
+                "SG-02B",
+                "Medium"
+            ],
+            [
+                "Eastview Academy",
+                "Active",
+                "82.1",
+                "510",
+                "06/15/2023",
+                "EV-03C",
+                "Very_High"
+            ],
+            [
+                "Westside Unified",
+                "Active",
+                "91.5",
+                "620",
+                "06/15/2023",
+                "WS-04D",
+                "Excellent"
+            ],
+            [
+                "Central Valley",
+                "Suspended",
+                "5.5",
+                "40",
+                "N/A",
+                "CV-05E",
+                "Low"
+            ],
+            [
+                "Riverdale Schools",
+                "Active",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

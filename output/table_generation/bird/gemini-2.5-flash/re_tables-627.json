@@ -1,0 +1,69 @@
+{
+    "table-627-627": {
+        "title": [
+            "Year",
+            "Election Type",
+            "Region",
+            "Total Votes Cast",
+            "Turnout Percentage"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many votes were made in 2010?",
+        "data": [
+            [
+                "2010",
+                "General Election",
+                "National",
+                "45,123,456",
+                "65.1%"
+            ],
+            [
+                "2009",
+                "Local Elections",
+                "Capital City",
+                "1,234,567",
+                "38.5%"
+            ],
+            [
+                "2011",
+                "Referendum",
+                "State X",
+                "5,678,901",
+                "52.3%"
+            ],
+            [
+                "2010",
+                "By-Election",
+                "District Y",
+                "45,678",
+                "28.9%"
+            ],
+            [
+                "2012",
+                "Presidential Election",
+                "National",
+                "60,123,456",
+                "72.8%"
+            ],
+            [
+                "2010",
+                "Regional Elections",
+                "Region Z",
+                "8,901,234",
+                "45.7%"
+            ],
+            [
+                "2008",
+                "General Election",
+                "National",
+                "42,345,678",
+                "62.0%"
+            ]
+        ]
+    }
+}

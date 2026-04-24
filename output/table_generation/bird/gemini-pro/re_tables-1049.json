@@ -1,0 +1,46 @@
+{
+    "table-1049-1049": {
+        "title": [
+            "Player Name",
+            "Year",
+            "Overall Rating"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Football Player Ratings",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the overall rating of the football player Gabriel Tamas in year 2011?",
+        "data": [
+            [
+                "Gabriel Tamas",
+                "2011",
+                "68"
+            ],
+            [
+                "Lionel Messi",
+                "2011",
+                "93"
+            ],
+            [
+                "Cristiano Ronaldo",
+                "2011",
+                "92"
+            ],
+            [
+                "Wayne Rooney",
+                "2011",
+                "88"
+            ],
+            [
+                "Xavi Hernandez",
+                "2011",
+                "90"
+            ]
+        ]
+    }
+}

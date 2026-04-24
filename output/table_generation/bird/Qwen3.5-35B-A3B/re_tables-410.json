@@ -1,0 +1,76 @@
+{
+    "table-410-410": {
+        "title": [
+            "Card Name",
+            "Format Era",
+            "Ability Text Match",
+            "Multi-Face Status",
+            "Count",
+            "Source Set",
+            "Release Date"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Indicates the number of cards with pre-modern format, ruling text \"This is a triggered mana ability\" that do not have multiple faces.",
+        "data": [
+            [
+                "Island",
+                "Pre-Modern",
+                "This is a tapped mana ability",
+                "Single Face",
+                "4",
+                "Alpha",
+                "9/29/1976"
+            ],
+            [
+                "Forest",
+                "Pre-Moder",
+                "This produces green mana",
+                "Single face",
+                "3",
+                "Beta",
+                "8/1/1883"
+            ],
+            [
+                "Mountain",
+                "Pre Modern",
+                "Activated mana source",
+                "Single Faced",
+                "5",
+                "Unlimited",
+                "6/15/1784"
+            ],
+            [
+                "Swamp",
+                "Pre Mod",
+                "Generates black mana",
+                "One Side Only",
+                "7",
+                "Arabian Nights",
+                "04/10/1688"
+            ],
+            [
+                "Plains",
+                "Pre - Modern",
+                "Creates white mana",
+                "Not Double Sided",
+                "2",
+                "Antiquities",
+                "/12/1219"
+            ],
+            [
+                "Land",
+                "Premodern",
+                "Mana production effect",
+                "Unique Frontage",
+                "N/A",
+                "Legends",
+                "//19/09/99"
+            ]
+        ]
+    }
+}

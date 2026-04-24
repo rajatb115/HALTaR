@@ -1,0 +1,40 @@
+{
+    "table-1219-1219": {
+        "title": [
+            "Uric Acid Level",
+            "Number of Patients",
+            "Percentage"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Uric Acid Levels in Female Patients",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the percentage of the female patient whose uric acid (UA) beyond the normal range?",
+        "data": [
+            [
+                "Within Normal Range",
+                "150",
+                "60%"
+            ],
+            [
+                "Above Normal Range",
+                "80",
+                "32%"
+            ],
+            [
+                "Below Normal Range",
+                "20",
+                "8%"
+            ],
+            [
+                "Total",
+                "250",
+                "100%"
+            ]
+        ]
+    }
+}

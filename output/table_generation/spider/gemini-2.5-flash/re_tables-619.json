@@ -1,0 +1,53 @@
+{
+    "table-619-619": {
+        "title": [
+            "Dog Name",
+            "Age (Years)",
+            "Weight (kg)"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the dog name, age and weight of the dogs that were abandoned? Note that 1 stands for yes, and 0 stands for no in the tables.",
+        "data": [
+            [
+                "Buddy",
+                "3",
+                "25.5"
+            ],
+            [
+                "Luna",
+                "1",
+                "12.0"
+            ],
+            [
+                "Max",
+                "7",
+                "30.1"
+            ],
+            [
+                "Daisy",
+                "5",
+                "18.7"
+            ],
+            [
+                "Charlie",
+                "2",
+                "8.5"
+            ],
+            [
+                "Bella",
+                "4",
+                "22.3"
+            ],
+            [
+                "Rocky",
+                "6",
+                "35.0"
+            ]
+        ]
+    }
+}

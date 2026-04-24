@@ -1,0 +1,69 @@
+{
+    "table-185-185": {
+        "title": [
+            "CustomerID",
+            "Gender",
+            "CreditCardType",
+            "CreditLimit",
+            "AccountStatus"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many female customers have a junior credit card?",
+        "data": [
+            [
+                "1001",
+                "Female",
+                "Junior",
+                "5000",
+                "Active"
+            ],
+            [
+                "1002",
+                "Male",
+                "Standard",
+                "15000",
+                "Active"
+            ],
+            [
+                "1003",
+                "Female",
+                "Gold",
+                "30000",
+                "Active"
+            ],
+            [
+                "1004",
+                "Female",
+                "Junior",
+                "4500",
+                "Pending"
+            ],
+            [
+                "1005",
+                "Male",
+                "Platinum",
+                "75000",
+                "Active"
+            ],
+            [
+                "1006",
+                "Female",
+                "Standard",
+                "12000",
+                "Active"
+            ],
+            [
+                "1007",
+                "Male",
+                "Junior",
+                "6000",
+                "Active"
+            ]
+        ]
+    }
+}

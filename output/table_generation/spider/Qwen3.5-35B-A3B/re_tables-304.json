@@ -1,0 +1,67 @@
+{
+    "table-304-304": {
+        "title": [
+            "Section ID",
+            "Section Name",
+            "Description",
+            "Category",
+            "Status",
+            "Last Updated",
+            "Owner"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names and descriptions of all the sections?",
+        "data": [
+            [
+                "SEC000",
+                "User Authentication",
+                "Manages login credentials and session security",
+                "Security",
+                "Active",
+                "4/12/2024",
+                "Admin Team"
+            ],
+            [
+                "SEC015",
+                "Payment Processing",
+                "Handles credit card transactions and refunds",
+                "Finance",
+                "Active",
+                "",
+                ""
+            ],
+            [
+                "SEC204",
+                "Inventory Management",
+                "Tracks stock levels and warehouse locations",
+                "Logistics",
+                "Maintenance",
+                "N/A",
+                "Warehouse Lead"
+            ],
+            [
+                "SEC301",
+                "Customer Support Portal",
+                "Provides ticketing system for user inquiries",
+                "Service",
+                "Deprecated",
+                "5/1/2100",
+                ""
+            ],
+            [
+                "SEC405",
+                "Data Analytics Dashboard",
+                "Visualizes sales metrics and performance trends",
+                "Reporting",
+                "Beta",
+                "6/30/2400",
+                ""
+            ]
+        ]
+    }
+}

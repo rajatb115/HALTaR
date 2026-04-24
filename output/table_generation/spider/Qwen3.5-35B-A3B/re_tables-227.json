@@ -1,0 +1,76 @@
+{
+    "table-227-227": {
+        "title": [
+            "Teacher ID",
+            "Full Name",
+            "Course Code",
+            "Status",
+            "Last Updated",
+            "Department",
+            "Assigned To"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the teachers whose courses have not been arranged?",
+        "data": [
+            [
+                "TCH004",
+                "Sarah Jenkins",
+                "MATH-101A",
+                "Unassigned",
+                "N/A",
+                "Mathematics",
+                "N/D"
+            ],
+            [
+                "TTH072",
+                "Michael Ross",
+                "PHYS-202B",
+                "Pending Arrangement",
+                "6 months ago",
+                "Physics",
+                "N/DA"
+            ],
+            [
+                "TEC019",
+                "Elena Gomez",
+                "CHEM-305X",
+                "Not Scheduled",
+                "3 weeks ago",
+                "Chemistry",
+                "N/E"
+            ],
+            [
+                "TRH088",
+                "David Chen",
+                "BIO-110Y",
+                "No Room Allocated",
+                "4 days ago",
+                "Biology",
+                "N/F"
+            ],
+            [
+                "TLI033",
+                "Amanda White",
+                "HIST-404Z",
+                "Curriculum Hold",
+                "8 months ago",
+                "History",
+                "N/G"
+            ],
+            [
+                "TKO055",
+                "Robert Brown",
+                "ARTS-220W",
+                "Instructor Vacant",
+                "5 years ago",
+                "Fine Arts",
+                "N/H"
+            ]
+        ]
+    }
+}

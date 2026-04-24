@@ -1,0 +1,69 @@
+{
+    "table-302-302": {
+        "title": [
+            "Degree Name",
+            "Degree Level",
+            "Department",
+            "Duration (Years)",
+            "Total Credits"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different degree names are offered?",
+        "data": [
+            [
+                "Bachelor of Science in Computer Science",
+                "Undergraduate",
+                "Computer Science",
+                "4",
+                "120"
+            ],
+            [
+                "Master of Business Administration",
+                "Graduate",
+                "Business School",
+                "2",
+                "60"
+            ],
+            [
+                "Doctor of Philosophy in Physics",
+                "Doctorate",
+                "Physics",
+                "5",
+                "90"
+            ],
+            [
+                "Bachelor of Arts in English Literature",
+                "Undergraduate",
+                "English",
+                "4",
+                "120"
+            ],
+            [
+                "Master of Science in Data Analytics",
+                "Graduate",
+                "Statistics",
+                "1.5",
+                "45"
+            ],
+            [
+                "Bachelor of Engineering in Civil Engineering",
+                "Undergraduate",
+                "Civil Engineering",
+                "4",
+                "128"
+            ],
+            [
+                "Doctor of Medicine",
+                "Doctorate",
+                "School of Medicine",
+                "4",
+                "180"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "table-115-115": {
+        "title": [
+            "City",
+            "Airport Code",
+            "Airport Name",
+            "Country",
+            "Status"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the airport code and airport name corresonding to the city Anthony.",
+        "data": [
+            [
+                "Anthony",
+                "N/A",
+                "None",
+                "United States",
+                "No Commercial Service"
+            ],
+            [
+                "Canton",
+                "CAN",
+                "Canton Airport",
+                "China",
+                "Active"
+            ],
+            [
+                "Antony",
+                "XNA",
+                "Antony Regional Field",
+                "France",
+                "Inactive"
+            ],
+            [
+                "Antrim",
+                "ANM",
+                "Antrim Municipal Airfield",
+                "Ireland",
+                "Private Only"
+            ],
+            [
+                "Andover",
+                "AND",
+                "Andover County Airport",
+                "USA",
+                "Public Use"
+            ],
+            [
+                "Anderlecht",
+                "ADL",
+                "Anderlet Local Strip",
+                "Belgium",
+                "Closed"
+            ],
+            [
+                "Angers",
+                "ANG",
+                "Angers Loire Valley Airport",
+                "France",
+                ""
+            ]
+        ]
+    }
+}

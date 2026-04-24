@@ -1,0 +1,77 @@
+{
+    "table-1329-1329": {
+        "title": [
+            "Student ID",
+            "Last Name",
+            "First Name",
+            "Major",
+            "Graduation Year",
+            "GPA"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List the last name of all the students who majored Law and Constitutional Studies. \n",
+        "data": [
+            [
+                "1001",
+                "Smith",
+                "Emily",
+                "Law and Constitutional Studies",
+                "2023",
+                "3.85"
+            ],
+            [
+                "1002",
+                "Johnson",
+                "Michael",
+                "Law and Constitutional Studies",
+                "2024",
+                "3.72"
+            ],
+            [
+                "1003",
+                "Williams",
+                "Sarah",
+                "Law and Constitutional Studies",
+                "2023",
+                "3.91"
+            ],
+            [
+                "1004",
+                "Brown",
+                "David",
+                "Law and Constitutional Studies",
+                "2025",
+                "3.68"
+            ],
+            [
+                "1005",
+                "Jones",
+                "Jessica",
+                "Law and Constitutional Studies",
+                "2024",
+                "3.80"
+            ],
+            [
+                "1006",
+                "Garcia",
+                "Daniel",
+                "Law and Constitutional Studies",
+                "2023",
+                "3.75"
+            ],
+            [
+                "1007",
+                "Miller",
+                "Olivia",
+                "Law and Constitutional Studies",
+                "2025",
+                "3.95"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-1314-1314": {
+        "title": [
+            "Club_Name",
+            "Member_ID",
+            "Full_Name",
+            "Major_Department",
+            "Enrollment_Status",
+            "Count_Engineering_Students"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many students in the Student_Club are from the College of Engineering?",
+        "data": [
+            [
+                "Student_Club",
+                "SC-1042",
+                "Alice Johnson",
+                "Electrical Eng",
+                "Active",
+                "Yes"
+            ],
+            [
+                "Student_Club",
+                "SC -1056",
+                "Robert Chen",
+                "Mechanical Eng",
+                "Inactive",
+                "No"
+            ],
+            [
+                "Club_Membership",
+                "SC \u20131078",
+                "Maria Garcia",
+                "Civil Eng",
+                "Pending",
+                "N/A"
+            ],
+            [
+                "Enrollment_Log",
+                "SC\u20131091",
+                "David Kim",
+                "Computer Sci",
+                "Active Yes",
+                ""
+            ],
+            [
+                "Data_Audit",
+                "SC\u20111103",
+                "Sarah Lee",
+                "Industrial Eng",
+                "Suspended",
+                "No"
+            ],
+            [
+                "Membership_Roll",
+                "SC \u20111125",
+                "James Wilson",
+                "Aerospace Eng",
+                "Retired",
+                "N/"
+            ],
+            [
+                "Activity_Report",
+                "SC\u20101140",
+                "Emily Brown",
+                "Biomedical Eng",
+                "Probation",
+                "Yes"
+            ]
+        ]
+    }
+}

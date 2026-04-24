@@ -1,0 +1,61 @@
+{
+    "table-254-254": {
+        "title": [
+            "Player Name",
+            "Year Won",
+            "Sport",
+            "Major Event"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of players who won in both 2013 and 2016?",
+        "data": [
+            [
+                "Serena Williams",
+                "2013",
+                "Tennis",
+                "US Open"
+            ],
+            [
+                "Tiger Woods",
+                "2013",
+                "Golf",
+                "The Players Championship"
+            ],
+            [
+                "Novak Djokovic",
+                "2016",
+                "Tennis",
+                "Australian Open"
+            ],
+            [
+                "Serena Williams",
+                "2016",
+                "Tennis",
+                "Wimbledon"
+            ],
+            [
+                "LeBron James",
+                "2013",
+                "Basketball",
+                "NBA Finals"
+            ],
+            [
+                "Novak Djokovic",
+                "2013",
+                "Tennis",
+                "ATP Finals"
+            ],
+            [
+                "LeBron James",
+                "2016",
+                "Basketball",
+                "NBA Finals"
+            ]
+        ]
+    }
+}

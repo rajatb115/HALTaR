@@ -1,0 +1,77 @@
+{
+    "table-37-37": {
+        "title": [
+            "StudentID",
+            "FirstName",
+            "LastName",
+            "PetsOwned",
+            "GradeLevel",
+            "EnrollmentDate"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the students' first names who have both cats and dogs as pets?",
+        "data": [
+            [
+                "1001",
+                "Alice",
+                "Smith",
+                "Cat, Dog",
+                "10",
+                "2021-09-01"
+            ],
+            [
+                "1002",
+                "Bob",
+                "Johnson",
+                "Dog",
+                "11",
+                "2020-09-01"
+            ],
+            [
+                "1003",
+                "Carol",
+                "Davis",
+                "Cat, Fish",
+                "9",
+                "2022-09-01"
+            ],
+            [
+                "1004",
+                "David",
+                "Brown",
+                "Cat, Dog",
+                "12",
+                "2019-09-01"
+            ],
+            [
+                "1005",
+                "Emily",
+                "White",
+                "Bird",
+                "10",
+                "2021-09-01"
+            ],
+            [
+                "1006",
+                "Frank",
+                "Green",
+                "Cat, Dog, Hamster",
+                "11",
+                "2020-09-01"
+            ],
+            [
+                "1007",
+                "Grace",
+                "Black",
+                "Dog, Rabbit",
+                "9",
+                "2022-09-01"
+            ]
+        ]
+    }
+}

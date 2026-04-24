@@ -1,0 +1,77 @@
+{
+    "table-1327-1327": {
+        "title": [
+            "Student Name",
+            "Student ID",
+            "Club Name",
+            "Major",
+            "Enrollment Year",
+            "Membership Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many members of the Student_Club have majored Environmental Engineering?\n",
+        "data": [
+            [
+                "Alice Smith",
+                "S1001",
+                "Student_Club",
+                "Environmental Engineering",
+                "2021",
+                "Active"
+            ],
+            [
+                "Bob Johnson",
+                "S1002",
+                "Student_Club",
+                "Computer Science",
+                "2020",
+                "Active"
+            ],
+            [
+                "Carol White",
+                "S1003",
+                "Green Earth Society",
+                "Environmental Engineering",
+                "2022",
+                "Active"
+            ],
+            [
+                "David Brown",
+                "S1004",
+                "Student_Club",
+                "Environmental Engineering",
+                "2021",
+                "Active"
+            ],
+            [
+                "Emily Davis",
+                "S1005",
+                "Robotics Club",
+                "Mechanical Engineering",
+                "2019",
+                "Graduated"
+            ],
+            [
+                "Frank Green",
+                "S1006",
+                "Student_Club",
+                "Environmental Engineering",
+                "2023",
+                "Active"
+            ],
+            [
+                "Grace Hall",
+                "S1007",
+                "Student_Club",
+                "Biology",
+                "2022",
+                "Active"
+            ]
+        ]
+    }
+}

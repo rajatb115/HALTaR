@@ -1,0 +1,69 @@
+{
+    "table-386-386": {
+        "title": [
+            "Channel ID",
+            "Channel Name",
+            "Genre Focus",
+            "Plays Cartoons",
+            "Common Cartoon Directors"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "find the id of tv channels that do not play any cartoon directed by Ben Jones.",
+        "data": [
+            [
+                "101",
+                "Cartoon Central",
+                "Kids",
+                "Yes",
+                "Genndy Tartakovsky, Craig McCracken, Ben Jones"
+            ],
+            [
+                "102",
+                "Family Fun TV",
+                "Family",
+                "Yes",
+                "Butch Hartman, Seth MacFarlane"
+            ],
+            [
+                "103",
+                "Action Flix",
+                "Movies",
+                "No",
+                "N/A"
+            ],
+            [
+                "104",
+                "Kids World",
+                "Kids",
+                "Yes",
+                "Ben Jones, Rebecca Sugar, Pendleton Ward"
+            ],
+            [
+                "105",
+                "Documentary Hub",
+                "Education",
+                "No",
+                "N/A"
+            ],
+            [
+                "106",
+                "Classic Toons",
+                "Kids",
+                "Yes",
+                "Chuck Jones, Hanna-Barbera, Friz Freleng"
+            ],
+            [
+                "107",
+                "Teen Zone",
+                "Teen",
+                "Yes",
+                "Alex Hirsch, Dana Terrace"
+            ]
+        ]
+    }
+}

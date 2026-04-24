@@ -1,0 +1,69 @@
+{
+    "table-171-171": {
+        "title": [
+            "Transaction ID",
+            "Card Type",
+            "Withdrawal Date",
+            "Amount (USD)",
+            "Location"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many credit card withdrawals were recorded after 1995?",
+        "data": [
+            [
+                "CCW001",
+                "Visa",
+                "1996-03-15",
+                "200.00",
+                "ATM"
+            ],
+            [
+                "CCW002",
+                "Mastercard",
+                "1994-11-22",
+                "150.00",
+                "Bank Branch"
+            ],
+            [
+                "CCW003",
+                "Amex",
+                "1997-07-01",
+                "300.00",
+                "ATM"
+            ],
+            [
+                "CCW004",
+                "Visa",
+                "2001-01-10",
+                "100.00",
+                "Online"
+            ],
+            [
+                "CCW005",
+                "Mastercard",
+                "1998-05-20",
+                "250.00",
+                "ATM"
+            ],
+            [
+                "CCW006",
+                "Discover",
+                "2005-09-03",
+                "180.00",
+                "Bank Branch"
+            ],
+            [
+                "CCW007",
+                "Visa",
+                "1996-01-01",
+                "50.00",
+                "ATM"
+            ]
+        ]
+    }
+}

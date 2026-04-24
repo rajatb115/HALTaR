@@ -1,0 +1,28 @@
+{
+    "table-273-273": {
+        "title": [
+            "Molecule ID",
+            "Carcinogenic",
+            "Contains Carbon"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Example Triple Bond Molecules",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "List down two molecule id of triple bond non carcinogenic molecules with element carbon.",
+        "data": [
+            [
+                "Mol001",
+                "No",
+                "Yes"
+            ],
+            [
+                "Mol002",
+                "No",
+                "Yes"
+            ]
+        ]
+    }
+}

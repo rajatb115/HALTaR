@@ -1,0 +1,51 @@
+{
+    "table-1428-1428": {
+        "title": [
+            "Event Location",
+            "Guest Speaker Type",
+            "Budget Spent",
+            "Budget Category"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Event Budget Categories and Details",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the budget category of the events located at MU 215 and a guest speaker type with a 0 budget spent?",
+        "data": [
+            [
+                "MU 215",
+                "Academic",
+                "0",
+                "Honorarium"
+            ],
+            [
+                "MU 215",
+                "Industry Expert",
+                "0",
+                "Travel"
+            ],
+            [
+                "Online",
+                "Author",
+                "500",
+                "Speaker Fee"
+            ],
+            [
+                "Conference Hall",
+                "Keynote",
+                "1000",
+                "Accommodation"
+            ],
+            [
+                "Auditorium",
+                "Panelist",
+                "250",
+                "Per Diem"
+            ]
+        ]
+    }
+}

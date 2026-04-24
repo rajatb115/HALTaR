@@ -1,0 +1,67 @@
+{
+    "table-570-570": {
+        "title": [
+            "Student_ID",
+            "Full_Name",
+            "Grade_Point_Average",
+            "Friend_Count",
+            "Enrollment_Status",
+            "Last_Active_Date",
+            "Department"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average grade of all students who have some friends.",
+        "data": [
+            [
+                "S1042",
+                "Alice Johnson",
+                "3.65",
+                "4",
+                "Active",
+                "07/15/2023",
+                "Computer Science"
+            ],
+            [
+                "S2193",
+                "Brian Smith",
+                "87.2",
+                "6",
+                "Active",
+                "08/01/2023",
+                "Mathematics"
+            ],
+            [
+                "T3055",
+                "Clara Davis",
+                "92.1",
+                "5",
+                "Inactive",
+                "",
+                "Physics"
+            ],
+            [
+                "U4102",
+                "David Wilson",
+                "78.5",
+                "",
+                "Suspended",
+                "",
+                "Chemistry"
+            ],
+            [
+                "V5211",
+                "Emma Brown",
+                ".91",
+                "",
+                "Graduated",
+                "June 23",
+                "Biology"
+            ]
+        ]
+    }
+}

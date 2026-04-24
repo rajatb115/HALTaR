@@ -1,0 +1,51 @@
+{
+    "table-1504-1504": {
+        "title": [
+            "Transaction ID",
+            "Product ID",
+            "Product Description",
+            "Currency"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            0
+        ],
+        "pgTitle": "Product Descriptions in Euro Transactions",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the product description of the products bought in transactions in euro.",
+        "data": [
+            [
+                "12345",
+                "A100",
+                "Premium Widget",
+                "EUR"
+            ],
+            [
+                "12346",
+                "B200",
+                "Standard Gadget",
+                "EUR"
+            ],
+            [
+                "12347",
+                "A100",
+                "Premium Widget",
+                "EUR"
+            ],
+            [
+                "12348",
+                "C300",
+                "Deluxe Accessory",
+                "EUR"
+            ],
+            [
+                "12349",
+                "B200",
+                "Standard Gadget",
+                "EUR"
+            ]
+        ]
+    }
+}

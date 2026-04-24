@@ -1,0 +1,52 @@
+{
+    "table-99-99": {
+        "title": [
+            "Make",
+            "Model",
+            "Horsepower",
+            "Cylinders"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            2,
+            3
+        ],
+        "pgTitle": "High Horsepower 4-Cylinder Cars",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For all of the 4 cylinder cars, which model has the most horsepower?",
+        "data": [
+            [
+                "Honda",
+                "Civic Type R",
+                "315",
+                "4"
+            ],
+            [
+                "Subaru",
+                "WRX",
+                "271",
+                "4"
+            ],
+            [
+                "Ford",
+                "Focus RS",
+                "350",
+                "4"
+            ],
+            [
+                "BMW",
+                "M330i",
+                "255",
+                "4"
+            ],
+            [
+                "Toyota",
+                "Supra 2.0",
+                "255",
+                "4"
+            ]
+        ]
+    }
+}

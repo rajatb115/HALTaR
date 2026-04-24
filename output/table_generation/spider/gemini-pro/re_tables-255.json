@@ -1,0 +1,37 @@
+{
+    "table-255-255": {
+        "title": [
+            "Country Code",
+            "First Name"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "Players Winning Both WTA Championships and Australian Open",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the country code and first name of the players who won in both tourney WTA Championships and Australian Open?",
+        "data": [
+            [
+                "USA",
+                "Serena"
+            ],
+            [
+                "BEL",
+                "Kim"
+            ],
+            [
+                "USA",
+                "Venus"
+            ],
+            [
+                "BLR",
+                "Victoria"
+            ],
+            [
+                "GER",
+                "Angelique"
+            ]
+        ]
+    }
+}

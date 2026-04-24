@@ -1,0 +1,58 @@
+{
+    "table-296-296": {
+        "title": [
+            "Course Code",
+            "Title",
+            "Description Focus",
+            "Prerequisites",
+            "Duration Weeks",
+            "Instructor",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 4,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How is the math course described?",
+        "data": [
+            [
+                "MATH101A",
+                "Calculus I",
+                "Limits, derivatives, and integrals",
+                "Algebra II",
+                "4",
+                "Dr. Smith",
+                "Active"
+            ],
+            [
+                "MTH202B",
+                "Linear Algebra",
+                "Matrices, vectors, and spaces",
+                "MATH150",
+                "6",
+                "Prof. Lee",
+                "Pending"
+            ],
+            [
+                "STAT305C",
+                "Probability Theory",
+                "Distributions, expectation, variance",
+                "MTH210",
+                "",
+                "Dr. Chen",
+                "Inactive"
+            ],
+            [
+                "CALC401D",
+                "Multivariable Calc",
+                "Partial derivatives, multiple integrals, vector fields",
+                "MHTH201B",
+                "7",
+                "Assoc. Prof. Kim",
+                "Active"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "table-533-533": {
+        "title": [
+            "Display Name",
+            "Account Creation Date",
+            "Status",
+            "Role",
+            "Last Login",
+            "Email Domain",
+            "Region"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the display names of all the users whose accounts were created in the year 2014.",
+        "data": [
+            [
+                "Alice Johnson",
+                "7/15/2024",
+                "Active",
+                "Admin",
+                "6/10/24 @ 09:30",
+                "example.com",
+                "North America"
+            ],
+            [
+                "Bob Smith",
+                "3/22/2021",
+                "Inactive",
+                "User",
+                "N/A",
+                "testmail.org",
+                "Europe"
+            ],
+            [
+                "Carol White",
+                "9/01/2023",
+                "Pending",
+                "Trial",
+                "N/A",
+                "sample.net",
+                "Asia Pacific"
+            ],
+            [
+                "David Brown",
+                "5/12/1414",
+                "Suspended",
+                "Editor",
+                "4/05/44 @ 14:20",
+                "internal.co",
+                "South America"
+            ],
+            [
+                "Eva Green",
+                "8/30/1914",
+                "Active",
+                "Analyst",
+                "05-01-24 @ 11:15",
+                "corp.io",
+                "Africa"
+            ],
+            [
+                "Frank Miller",
+                "1/04/291",
+                "Deleted",
+                "Moderator",
+                "N/A",
+                "legacy.sys",
+                "Oceania"
+            ],
+            [
+                "Grace Lee",
+                "12-31-1444",
+                "Locked",
+                "Contributor",
+                "",
+                "secure.biz",
+                "Antarctica"
+            ]
+        ]
+    }
+}

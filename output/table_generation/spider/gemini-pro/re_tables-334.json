@@ -1,0 +1,39 @@
+{
+    "table-334-334": {
+        "title": [
+            "Address",
+            "Number of Students"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Student Address Summary",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many different addresses do the students currently live?",
+        "data": [
+            [
+                "123 Main St",
+                "5"
+            ],
+            [
+                "456 Oak Ave",
+                "3"
+            ],
+            [
+                "789 Pine Ln",
+                "2"
+            ],
+            [
+                "101 Elm Rd",
+                "4"
+            ],
+            [
+                "222 Maple Dr",
+                "1"
+            ]
+        ]
+    }
+}

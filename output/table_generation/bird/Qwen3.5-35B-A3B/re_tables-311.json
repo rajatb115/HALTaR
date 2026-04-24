@@ -1,0 +1,77 @@
+{
+    "table-311-311": {
+        "title": [
+            "Molecule ID",
+            "Bond Type",
+            "Carcinogenic Status",
+            "Formula",
+            "Molecular Weight",
+            "Source"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many molecules have a double bond type and among these molecule, how many are labeled as carcinogenic compound?",
+        "data": [
+            [
+                "MOL_0042",
+                "Double Bond",
+                "Yes",
+                "C6H6O2",
+                "110.11",
+                "Synthetic Lab"
+            ],
+            [
+                "\"MOL_1055\"",
+                "Double Bond",
+                "\"No\"",
+                "C7H8O",
+                "108.14",
+                "Natural Extract"
+            ],
+            [
+                "MOL_2231",
+                "Single Bond",
+                "Unknown",
+                "C5H10O",
+                "86.13",
+                "Industrial Waste"
+            ],
+            [
+                "MOL_3398",
+                "Double Bound",
+                "Yes",
+                "C8H8ClNO2",
+                "185.61",
+                "Pharmaceutical Batch"
+            ],
+            [
+                "Mol_4412",
+                "Triple Bond",
+                "No",
+                "C4H4S",
+                "84.15",
+                "Petrochemical Refinery"
+            ],
+            [
+                "Mole_5501",
+                "Double Bond",
+                "No",
+                "C9H12O3",
+                "168.20",
+                "Plant Metabolite"
+            ],
+            [
+                "Mol_6629",
+                "Double Bound",
+                "Yes",
+                "C10H14N2O",
+                "Calculated N/A",
+                ""
+            ]
+        ]
+    }
+}

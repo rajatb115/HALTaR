@@ -1,0 +1,69 @@
+{
+    "table-869-869": {
+        "title": [
+            "Circuit Name",
+            "Location",
+            "Country",
+            "Latitude",
+            "Longitude",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Where is Malaysian Grand Prix held? Give the location coordinates.",
+        "data": [
+            [
+                "Sepang International Circuit",
+                "Sepang, Selangor",
+                "Malaysia",
+                "2.7608",
+                "101.7375",
+                "Former F1 Host"
+            ],
+            [
+                "Sepang International Circuit",
+                "Sepang, Selangor",
+                "Malaysia",
+                "2.7608",
+                "101.7375",
+                "Active (Other Races)"
+            ],
+            [
+                "Johor Circuit",
+                "Pasir Gudang, Johor",
+                "Malaysia",
+                "1.4700",
+                "103.9000",
+                "Active (Local Races)"
+            ],
+            [
+                "Melaka International Circuit",
+                "Ayer Keroh, Melaka",
+                "Malaysia",
+                "2.2600",
+                "102.2700",
+                "Active (Local Races)"
+            ],
+            [
+                "Chang International Circuit",
+                "Buriram",
+                "Thailand",
+                "14.9500",
+                "103.1000",
+                "Active (MotoGP Host)"
+            ],
+            [
+                "Marina Bay Street Circuit",
+                "Marina Bay",
+                "Singapore",
+                "1.2800",
+                "103.8600",
+                "Active (F1 Host)"
+            ]
+        ]
+    }
+}

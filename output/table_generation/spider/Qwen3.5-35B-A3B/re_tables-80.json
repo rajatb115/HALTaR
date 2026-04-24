@@ -1,0 +1,93 @@
+{
+    "table-80-80": {
+        "title": [
+            "Make",
+            "Model",
+            "Cylinders",
+            "Horsepower",
+            "Fuel_Type",
+            "Transmission",
+            "Drivetrain",
+            "Price_USD"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the maximum horsepower and the make of the car models with 3 cylinders?",
+        "data": [
+            [
+                "Toyota",
+                "Yaris",
+                "3",
+                "67",
+                "Gasoline",
+                "Manual",
+                "FWD",
+                "$14,500"
+            ],
+            [
+                "Hyundai",
+                "i10",
+                "4",
+                "83",
+                "Petrol",
+                "Automatic",
+                "Fwd",
+                "$9,800"
+            ],
+            [
+                "Kia",
+                "Picanto",
+                "5",
+                "74",
+                "Diesel",
+                "Manual",
+                "RWD",
+                "$11,20"
+            ],
+            [
+                "Suzuki",
+                "Alto",
+                "9",
+                "0",
+                "Electric",
+                "CVT",
+                "AWD",
+                "$12,5"
+            ],
+            [
+                "Mitsubishi",
+                "Colt",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Renault",
+                "Twingo",
+                "1",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Fiat",
+                "Panda",
+                "",
+                "-",
+                "-",
+                "-",
+                "-",
+                ""
+            ]
+        ]
+    }
+}

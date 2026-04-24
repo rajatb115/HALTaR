@@ -1,0 +1,46 @@
+{
+    "table-98-98": {
+        "title": [
+            "Model",
+            "Cylinders",
+            "Horsepower"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1,
+            2
+        ],
+        "pgTitle": "Car Models with 4 Cylinders and High Horsepower",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the cars with 4 cylinders, which model has the largest horsepower?",
+        "data": [
+            [
+                "Honda Civic",
+                "4",
+                "158"
+            ],
+            [
+                "Mazda 3",
+                "4",
+                "191"
+            ],
+            [
+                "Subaru Impreza",
+                "4",
+                "152"
+            ],
+            [
+                "Toyota Corolla",
+                "4",
+                "169"
+            ],
+            [
+                "Hyundai Elantra N Line",
+                "4",
+                "276"
+            ]
+        ]
+    }
+}

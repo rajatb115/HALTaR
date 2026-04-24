@@ -1,0 +1,62 @@
+{
+    "table-1370-1370": {
+        "title": [
+            "Event Name",
+            "Date",
+            "Location",
+            "Category",
+            "Budget (USD)"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which event has the highest budget amount?",
+        "data": [
+            [
+                "Annual Tech Summit",
+                "2023-10-26",
+                "San Francisco, CA",
+                "Conference",
+                "1500000"
+            ],
+            [
+                "Global Innovation Expo",
+                "2024-03-15",
+                "Berlin, Germany",
+                "Exhibition",
+                "2200000"
+            ],
+            [
+                "Future of AI Forum",
+                "2023-11-08",
+                "New York, NY",
+                "Seminar",
+                "850000"
+            ],
+            [
+                "Sustainable Energy Gala",
+                "2024-01-20",
+                "London, UK",
+                "Awards Ceremony",
+                "1100000"
+            ],
+            [
+                "Digital Marketing World",
+                "2023-09-12",
+                "Austin, TX",
+                "Workshop",
+                "700000"
+            ],
+            [
+                "Healthcare Innovation Week",
+                "2024-04-01",
+                "Boston, MA",
+                "Summit",
+                "1800000"
+            ]
+        ]
+    }
+}

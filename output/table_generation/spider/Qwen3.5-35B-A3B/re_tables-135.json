@@ -1,0 +1,93 @@
+{
+    "table-135-135": {
+        "title": [
+            "Flight Number",
+            "Origin Airport",
+            "Destination Airport",
+            "Departure Time",
+            "Status",
+            "Airline Code",
+            "Aircraft Type",
+            "Seat Count"
+        ],
+        "numCols": 8,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the flight numbers of flights leaving from APG.",
+        "data": [
+            [
+                "FL-4021",
+                "APG",
+                "JFK",
+                "06:15",
+                "On Time",
+                "AA",
+                "Boeing 737",
+                "84"
+            ],
+            [
+                "FL-XJ99",
+                "APH",
+                "LAX",
+                "7:30 AM",
+                "Delayed",
+                "DL",
+                "Airbus A320",
+                "92"
+            ],
+            [
+                "AP-GOAL",
+                "APD",
+                "ORD",
+                "5:45 PM",
+                "Cancelled",
+                "UA",
+                "Embraer E175",
+                "68"
+            ],
+            [
+                "SKY-1010",
+                "APF",
+                "MIA",
+                "3:20 PM",
+                "Boarding",
+                "SW",
+                "Bombardier CRJ",
+                "45"
+            ],
+            [
+                "AIR-882",
+                "APW",
+                "DFW",
+                "9:00 AM",
+                "Scheduled",
+                "AS",
+                "Boeing C-17",
+                "N/A"
+            ],
+            [
+                "TRK-555",
+                "APX",
+                "BOS",
+                "2:10 PM",
+                "In Transit",
+                "JB",
+                "Gulfstream G650",
+                "N/A"
+            ],
+            [
+                "FLT-ZZ",
+                "APQ",
+                "SEA",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

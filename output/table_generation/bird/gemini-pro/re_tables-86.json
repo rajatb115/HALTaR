@@ -1,0 +1,45 @@
+{
+    "table-86-86": {
+        "title": [
+            "Administrator First Name",
+            "District Code",
+            "Percent Eligible Free (K-12)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "School District Free Lunch Eligibility",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the Percent (%) Eligible Free (K-12) in the school administered by an administrator whose first name is Alusine. List the district code of the school.",
+        "data": [
+            [
+                "Alusine",
+                "102030",
+                "65%"
+            ],
+            [
+                "Alusine",
+                "405060",
+                "42%"
+            ],
+            [
+                "Alusine",
+                "708090",
+                "81%"
+            ],
+            [
+                "Alusine",
+                "123456",
+                "23%"
+            ],
+            [
+                "Alusine",
+                "987654",
+                "57%"
+            ]
+        ]
+    }
+}

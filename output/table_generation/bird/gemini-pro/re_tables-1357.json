@@ -1,0 +1,43 @@
+{
+    "table-1357-1357": {
+        "title": [
+            "Member Name",
+            "Department",
+            "Role"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Club Member Departments",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which department was the President of the club in?",
+        "data": [
+            [
+                "John Smith",
+                "Sales",
+                "President"
+            ],
+            [
+                "Alice Brown",
+                "Marketing",
+                "Vice President"
+            ],
+            [
+                "David Lee",
+                "Finance",
+                "Treasurer"
+            ],
+            [
+                "Emily Wilson",
+                "Operations",
+                "Secretary"
+            ],
+            [
+                "Michael Garcia",
+                "HR",
+                "Member"
+            ]
+        ]
+    }
+}

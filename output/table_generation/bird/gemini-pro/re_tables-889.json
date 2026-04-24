@@ -1,0 +1,51 @@
+{
+    "table-889-889": {
+        "title": [
+            "Country",
+            "Year",
+            "Circuit",
+            "Location"
+        ],
+        "numCols": 4,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Early European Grand Prix Events",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which country was the first European Grand Prix hosted? Name the circuit and location.",
+        "data": [
+            [
+                "Italy",
+                "1921",
+                "Montichiari Circuit",
+                "Montichiari"
+            ],
+            [
+                "France",
+                "1923",
+                "Tours",
+                "Tours"
+            ],
+            [
+                "Italy",
+                "1924",
+                "Monza",
+                "Monza"
+            ],
+            [
+                "Belgium",
+                "1925",
+                "Spa-Francorchamps",
+                "Spa"
+            ],
+            [
+                "France",
+                "1926",
+                "Miramas",
+                "Miramas"
+            ]
+        ]
+    }
+}

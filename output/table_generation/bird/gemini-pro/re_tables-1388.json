@@ -1,0 +1,45 @@
+{
+    "table-1388-1388": {
+        "title": [
+            "Student Name",
+            "Event Managed",
+            "Budget (USD)"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Student Budget Managers",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which student has been entrusted to manage the budget for the Yearly Kickoff?",
+        "data": [
+            [
+                "Alice Smith",
+                "Spring Fling",
+                "1,500"
+            ],
+            [
+                "Bob Johnson",
+                "Fall Festival",
+                "2,000"
+            ],
+            [
+                "Carol Davis",
+                "Yearly Kickoff",
+                "2,500"
+            ],
+            [
+                "David Wilson",
+                "Charity Gala",
+                "3,000"
+            ],
+            [
+                "Emily Brown",
+                "Summer Celebration",
+                "1,800"
+            ]
+        ]
+    }
+}

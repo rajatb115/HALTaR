@@ -1,0 +1,94 @@
+{
+    "table-664-664": {
+        "title": [
+            "User ID",
+            "Full Name",
+            "Date of Birth",
+            "Age",
+            "Account Status",
+            "Last Login",
+            "Role"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the id of the youngest user?",
+        "data": [
+            [
+                "U1045",
+                "Alice Chen",
+                "9/12/2010",
+                "7",
+                "Active",
+                "6 hours ago",
+                "Student"
+            ],
+            [
+                "U2031",
+                "Ben Carter",
+                "3/4/2100",
+                "-175",
+                "Inactive",
+                "N/A",
+                "Guest"
+            ],
+            [
+                "U3092",
+                "Clara Diaz",
+                "5/22/1955",
+                "49",
+                "Suspended",
+                "8 days ago",
+                "Admin"
+            ],
+            [
+                "U4108",
+                "David Evans",
+                "01/15/1890",
+                "+134",
+                "Deleted",
+                "Never",
+                "Moderator"
+            ],
+            [
+                "U5219",
+                "Elena Foster",
+                "11/30/2400",
+                "-376",
+                "Pending",
+                "N/A",
+                "Intern"
+            ],
+            [
+                "U6340",
+                "Frank Green",
+                "",
+                "Unknown",
+                "Locked",
+                "",
+                "Analyst"
+            ],
+            [
+                "U7451",
+                "Grace Hill",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "U8562",
+                "Henry Irving",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "table-79-79": {
+        "title": [
+            "Product Category",
+            "Average Weight (kg)",
+            "Production Year"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the average weight and year for each year?",
+        "data": [
+            [
+                "Automotive Parts",
+                "45.2",
+                "7654"
+            ],
+            [
+                "Consumer Electronics",
+                "12.8",
+                "8901"
+            ],
+            [
+                "Industrial Machinery",
+                "320.5",
+                "None"
+            ],
+            [
+                "Home Appliances",
+                "65.3",
+                "5678"
+            ],
+            [
+                "Office Equipment",
+                "15.4",
+                "N/A"
+            ],
+            [
+                "Medical Devices",
+                "0.42",
+                ""
+            ]
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "table-68-68": {
+        "title": [
+            "City",
+            "Institution",
+            "Closure Amount ($)",
+            "Date Closed",
+            "Status",
+            "Notes"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total amount of Community College District closure in 1989 in the city of San Francisco?",
+        "data": [
+            [
+                "San Francisco",
+                "Mission Bay CC",
+                "4205000",
+                "March 15, 189",
+                "Active Review",
+                "Partial funding retained"
+            ],
+            [
+                "San Jose",
+                "Eastside Tech",
+                "1850020",
+                "June 30, 276",
+                "Dissolved",
+                "State audit pending"
+            ],
+            [
+                "Oakland",
+                "Westview Campus",
+                "3100450",
+                "November 12, 345",
+                "Liquidated",
+                "Assets sold at auction"
+            ],
+            [
+                "Fremont",
+                "Northgate Center",
+                "950000",
+                "January 5, -1",
+                "Pending",
+                "Legal dispute ongoing"
+            ],
+            [
+                "Berkeley",
+                "Hilltop Division",
+                "275000",
+                "December 1, 892",
+                "Suspended",
+                "Budget reallocation required"
+            ],
+            [
+                "Sacramento",
+                "Riverbend Site",
+                "5120300",
+                "July 22, 1",
+                "Terminated",
+                "No further action needed"
+            ],
+            [
+                "Stockton",
+                "Central Valley Hub",
+                "6890150",
+                "September",
+                "",
+                ""
+            ]
+        ]
+    }
+}

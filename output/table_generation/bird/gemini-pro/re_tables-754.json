@@ -1,0 +1,45 @@
+{
+    "table-754-754": {
+        "title": [
+            "Superhero Name",
+            "Height (cm)",
+            "Eye Color"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Superheroes with Specific Height and Unknown Eye Color",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the superheroes with height from 170 to 190, list the names of the superheroes with no eye color.",
+        "data": [
+            [
+                "Superman",
+                "191",
+                "Blue"
+            ],
+            [
+                "Batman",
+                "188",
+                "Blue"
+            ],
+            [
+                "Wonder Woman",
+                "183",
+                "N/A"
+            ],
+            [
+                "The Flash",
+                "183",
+                "N/A"
+            ],
+            [
+                "Aquaman",
+                "191",
+                "Blue"
+            ]
+        ]
+    }
+}

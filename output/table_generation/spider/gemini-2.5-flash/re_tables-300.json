@@ -1,0 +1,69 @@
+{
+    "table-300-300": {
+        "title": [
+            "Department Name",
+            "Faculty",
+            "Total Degrees",
+            "Degree Levels",
+            "Accreditation"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many departments offer any degree?",
+        "data": [
+            [
+                "Computer Science",
+                "Engineering",
+                "5",
+                "UG, GR",
+                "Full"
+            ],
+            [
+                "Physics",
+                "Sciences",
+                "3",
+                "UG, GR",
+                "Full"
+            ],
+            [
+                "English Literature",
+                "Humanities",
+                "4",
+                "UG, GR",
+                "Full"
+            ],
+            [
+                "Business Administration",
+                "Business",
+                "6",
+                "UG, GR",
+                "Full"
+            ],
+            [
+                "Fine Arts",
+                "Arts",
+                "2",
+                "UG",
+                "Provisional"
+            ],
+            [
+                "Civil Engineering",
+                "Engineering",
+                "3",
+                "UG, GR",
+                "Full"
+            ],
+            [
+                "Psychology",
+                "Social Sciences",
+                "4",
+                "UG, GR",
+                "Full"
+            ]
+        ]
+    }
+}

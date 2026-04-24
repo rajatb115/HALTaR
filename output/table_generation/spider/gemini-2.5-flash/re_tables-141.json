@@ -1,0 +1,77 @@
+{
+    "table-141-141": {
+        "title": [
+            "Flight Number",
+            "Airline",
+            "Origin Airport",
+            "Arrival Airport",
+            "Scheduled Arrival Time",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the flight numbers of flights arriving in Aberdeen.",
+        "data": [
+            [
+                "BA1308",
+                "British Airways",
+                "London Heathrow",
+                "Aberdeen",
+                "09:30",
+                "Landed"
+            ],
+            [
+                "EZY851",
+                "easyJet",
+                "London Gatwick",
+                "Aberdeen",
+                "11:15",
+                "On Time"
+            ],
+            [
+                "KL1441",
+                "KLM",
+                "Amsterdam Schiphol",
+                "Aberdeen",
+                "14:00",
+                "Delayed"
+            ],
+            [
+                "AF1050",
+                "Air France",
+                "Paris CDG",
+                "Aberdeen",
+                "16:45",
+                "Scheduled"
+            ],
+            [
+                "LH920",
+                "Lufthansa",
+                "Frankfurt",
+                "Aberdeen",
+                "18:30",
+                "On Time"
+            ],
+            [
+                "FR6901",
+                "Ryanair",
+                "Dublin",
+                "Aberdeen",
+                "20:10",
+                "Scheduled"
+            ],
+            [
+                "BE701",
+                "Loganair",
+                "Manchester",
+                "Aberdeen",
+                "21:40",
+                "On Time"
+            ]
+        ]
+    }
+}

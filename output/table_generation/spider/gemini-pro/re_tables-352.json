@@ -1,0 +1,55 @@
+{
+    "table-352-352": {
+        "title": [
+            "Channel Name",
+            "Content Type",
+            "Target Audience",
+            "Key Shows",
+            "Availability"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "TV Channel Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the content of TV Channel with serial name \"Sky Radio\"?",
+        "data": [
+            [
+                "Sky Radio",
+                "Music",
+                "Adults 25-54",
+                "Top 40 Hits, Throwbacks",
+                "Cable, Satellite, Online"
+            ],
+            [
+                "MTV",
+                "Music, Reality",
+                "Teens, Young Adults",
+                "Music Videos, Reality TV",
+                "Cable, Satellite, Online"
+            ],
+            [
+                "Discovery",
+                "Educational",
+                "Broad Audience",
+                "Documentaries, Science Shows",
+                "Cable, Satellite, Online"
+            ],
+            [
+                "ESPN",
+                "Sports",
+                "Sports Fans",
+                "Live Games, Sports Analysis",
+                "Cable, Satellite, Online"
+            ],
+            [
+                "CNN",
+                "News",
+                "Broad Audience",
+                "Breaking News, Political Analysis",
+                "Cable, Satellite, Online"
+            ]
+        ]
+    }
+}

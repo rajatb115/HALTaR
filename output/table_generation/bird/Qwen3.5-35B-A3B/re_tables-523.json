@@ -1,0 +1,77 @@
+{
+    "table-523-523": {
+        "title": [
+            "Card Name",
+            "Rank Position",
+            "Primary Format Status",
+            "Secondary Format Status",
+            "Tertiary Format Status",
+            "Quaternary Format Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which cards are ranked 1st on EDHRec? List all of the cards name and its banned play format.",
+        "data": [
+            [
+                "Black Lotus",
+                "476",
+                "Not Banned",
+                "Legal in Legacy",
+                "Legal Vintage",
+                "N/A"
+            ],
+            [
+                "Ancestral Recall",
+                "382",
+                "Restricted",
+                "Legal Legacy",
+                "Limited Vintage",
+                "Not Applicable"
+            ],
+            [
+                "Time Walk",
+                "512",
+                "Not Listed",
+                "Legal Modern",
+                "Legal Standard",
+                "N/A"
+            ],
+            [
+                "Mox Pearl",
+                "601",
+                "Restricted",
+                "Prohibited Commander",
+                "Legal Pauper",
+                "N/A"
+            ],
+            [
+                "Dark Ritual",
+                "89",
+                "Not Ranked",
+                "Legal Pioneer",
+                "Legal Historic",
+                "N/A"
+            ],
+            [
+                "Sol Ring",
+                "92",
+                "Legal",
+                "Legal Commander",
+                "Restricted Sealed",
+                "N/A"
+            ],
+            [
+                "Mana Crypt",
+                "75",
+                "Legal Draft",
+                "Legal Constructed",
+                "Restricted Limited",
+                "N/A"
+            ]
+        ]
+    }
+}

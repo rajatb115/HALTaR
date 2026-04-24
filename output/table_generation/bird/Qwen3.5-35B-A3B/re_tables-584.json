@@ -1,0 +1,76 @@
+{
+    "table-584-584": {
+        "title": [
+            "User",
+            "Post ID",
+            "Total Score",
+            "Website URL",
+            "Edit Date",
+            "Status",
+            "Platform"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the total score of the posts edited by Yevgeny and include the user's website URL.",
+        "data": [
+            [
+                "Yevgeni",
+                "45821",
+                "342",
+                "https://example.com/yevgeniy",
+                "7/12/2023",
+                "Approved",
+                "Stack Overflow"
+            ],
+            [
+                "Yevgenny",
+                "67290",
+                "89",
+                "http://blog.yevgen.net",
+                "9/03/24",
+                "Pending",
+                "GitHub"
+            ],
+            [
+                "Eugene",
+                "51033",
+                "0",
+                "N/A",
+                "10/15/23",
+                "Rejected",
+                "Reddit"
+            ],
+            [
+                "Yegor",
+                "22104",
+                "156",
+                "https://forum.user.io",
+                "",
+                "Completed",
+                "Quora"
+            ],
+            [
+                "Evgeny",
+                "-9921",
+                "78",
+                "https://site.org/user",
+                "11/01/22",
+                "Active",
+                "Medium"
+            ],
+            [
+                "Yvgenii",
+                "",
+                "12",
+                "https://profile.dev",
+                "",
+                "Draft",
+                "Dev.to"
+            ]
+        ]
+    }
+}

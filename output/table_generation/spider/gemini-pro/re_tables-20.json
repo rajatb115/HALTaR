@@ -1,0 +1,39 @@
+{
+    "table-20-20": {
+        "title": [
+            "Stadium Name",
+            "Concert Year"
+        ],
+        "numCols": 2,
+        "numericColumns": [
+            1
+        ],
+        "pgTitle": "Stadium Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Show names for all stadiums except for stadiums having a concert in year 2014.",
+        "data": [
+            [
+                "AT&T Stadium",
+                "2015"
+            ],
+            [
+                "SoFi Stadium",
+                "2023"
+            ],
+            [
+                "Wembley Stadium",
+                "2018"
+            ],
+            [
+                "Camp Nou",
+                "2016"
+            ],
+            [
+                "Madison Square Garden",
+                "2014"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "table-603-603": {
+        "title": [
+            "Dog Name",
+            "Owner Last Name",
+            "Dog Breed",
+            "Dog Age (Months)"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Who owns the youngest dog? Give me his or her last name.",
+        "data": [
+            [
+                "Luna",
+                "Davis",
+                "Golden Retriever",
+                "12"
+            ],
+            [
+                "Max",
+                "Williams",
+                "Labrador",
+                "24"
+            ],
+            [
+                "Bella",
+                "Wilson",
+                "Chihuahua",
+                "6"
+            ],
+            [
+                "Buddy",
+                "Jones",
+                "Beagle",
+                "36"
+            ],
+            [
+                "Daisy",
+                "Brown",
+                "Poodle",
+                "18"
+            ],
+            [
+                "Charlie",
+                "Miller",
+                "Bulldog",
+                "30"
+            ],
+            [
+                "Cooper",
+                "Garcia",
+                "German Shepherd",
+                "48"
+            ]
+        ]
+    }
+}

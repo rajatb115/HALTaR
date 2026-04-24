@@ -1,0 +1,49 @@
+{
+    "table-999-999": {
+        "title": [
+            "Rank",
+            "Driver",
+            "Points",
+            "Wins"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Formula 1 Driver Statistics",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In terms of number of points acquired, how many victories did the driver who ranked 91st acquired?",
+        "data": [
+            [
+                "1",
+                "Max Verstappen",
+                "454",
+                "19"
+            ],
+            [
+                "2",
+                "Sergio P\u00e9rez",
+                "285",
+                "2"
+            ],
+            [
+                "3",
+                "Lewis Hamilton",
+                "234",
+                "0"
+            ],
+            [
+                "...",
+                "...",
+                "...",
+                "..."
+            ],
+            [
+                "91",
+                "*Hypothetical Driver*",
+                "*Value*",
+                "*Value*"
+            ]
+        ]
+    }
+}

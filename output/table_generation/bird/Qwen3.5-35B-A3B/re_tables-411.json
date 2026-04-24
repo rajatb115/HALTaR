@@ -1,0 +1,40 @@
+{
+    "table-411-411": {
+        "title": [
+            "Card Name",
+            "Artist",
+            "Format",
+            "Availability",
+            "Set Code",
+            "Scryfall ID",
+            "Price USD"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Is there any card from Erica Yang artist in pauper format and available in paper? If so, indicate its ID.",
+        "data": [
+            [
+                "Silvercoat Lion",
+                "Erica Yang",
+                "Pauper",
+                "Paper",
+                "M14",
+                "scryfall-id-silver-lion",
+                "$0.45"
+            ],
+            [
+                "Goblin Piker",
+                "Erica Yang",
+                "Pauper",
+                "Paper",
+                "M13",
+                "scryfall-gob-pikr",
+                "$0.32"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "table-1369-1369": {
+        "title": [
+            "Phone Number",
+            "Student Name",
+            "Major",
+            "Enrollment Year",
+            "GPA"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 6,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What does the person with the phone number \"809-555-3360\" major in?",
+        "data": [
+            [
+                "809-555-3360",
+                "Alice Johnson",
+                "Computer Science",
+                "2021",
+                "3.8"
+            ],
+            [
+                "809-555-1234",
+                "Bob Williams",
+                "Business Administration",
+                "2020",
+                "3.5"
+            ],
+            [
+                "809-555-5678",
+                "Carol Davis",
+                "Psychology",
+                "2022",
+                "3.9"
+            ],
+            [
+                "809-555-9012",
+                "David Lee",
+                "Electrical Engineering",
+                "2019",
+                "3.2"
+            ],
+            [
+                "809-555-4321",
+                "Emily Chen",
+                "Biology",
+                "2021",
+                "3.7"
+            ],
+            [
+                "809-555-8765",
+                "Frank White",
+                "Marketing",
+                "2020",
+                "3.6"
+            ]
+        ]
+    }
+}

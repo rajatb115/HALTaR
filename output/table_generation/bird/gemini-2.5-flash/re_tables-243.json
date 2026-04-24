@@ -1,0 +1,77 @@
+{
+    "table-243-243": {
+        "title": [
+            "Molecule Name",
+            "Chemical Formula",
+            "Carcinogenic Status",
+            "Primary Element",
+            "Atomic Number",
+            "Common Application"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among all the atoms from 21 to 25, list all the molecules that are carcinogenic.",
+        "data": [
+            [
+                "Chromium(VI) Oxide",
+                "CrO3",
+                "Known Carcinogen",
+                "Chromium",
+                "24",
+                "Pigments, Electroplating"
+            ],
+            [
+                "Sodium Dichromate",
+                "Na2Cr2O7",
+                "Known Carcinogen",
+                "Chromium",
+                "24",
+                "Wood Preservation, Tanning"
+            ],
+            [
+                "Lead Chromate",
+                "PbCrO4",
+                "Known Carcinogen",
+                "Chromium",
+                "24",
+                "Yellow Pigments"
+            ],
+            [
+                "Calcium Chromate",
+                "CaCrO4",
+                "Known Carcinogen",
+                "Chromium",
+                "24",
+                "Corrosion Inhibitor"
+            ],
+            [
+                "Titanium Dioxide (inhaled)",
+                "TiO2",
+                "Possible Carcinogen",
+                "Titanium",
+                "22",
+                "Pigment, Sunscreen"
+            ],
+            [
+                "Vanadium Pentoxide",
+                "V2O5",
+                "Possible Carcinogen",
+                "Vanadium",
+                "23",
+                "Catalyst, Ceramic Glazes"
+            ],
+            [
+                "Manganese Dioxide (fine dust)",
+                "MnO2",
+                "Respiratory Irritant",
+                "Manganese",
+                "25",
+                "Batteries, Ceramics"
+            ]
+        ]
+    }
+}

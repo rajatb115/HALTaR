@@ -1,0 +1,69 @@
+{
+    "table-213-213": {
+        "title": [
+            "Element",
+            "Symbol",
+            "Relative Abundance (Non-Carcinogenic)",
+            "Common Molecular Role",
+            "Carcinogenic Association"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which element is the least numerous in non-carcinogenic molecules?",
+        "data": [
+            [
+                "Hydrogen",
+                "H",
+                "Very High",
+                "Organic backbone, functional groups",
+                "No"
+            ],
+            [
+                "Carbon",
+                "C",
+                "Very High",
+                "Primary organic scaffold",
+                "Yes (some forms)"
+            ],
+            [
+                "Oxygen",
+                "O",
+                "High",
+                "Water, hydroxyl, carbonyl groups",
+                "No"
+            ],
+            [
+                "Nitrogen",
+                "N",
+                "Medium",
+                "Amino acids, nucleic acids",
+                "Yes (some forms)"
+            ],
+            [
+                "Sulfur",
+                "S",
+                "Low",
+                "Disulfide bonds, coenzymes",
+                "Rare"
+            ],
+            [
+                "Phosphorus",
+                "P",
+                "Low",
+                "DNA, ATP, phospholipids",
+                "No"
+            ],
+            [
+                "Selenium",
+                "Se",
+                "Trace",
+                "Antioxidant enzymes, specific proteins",
+                "No"
+            ]
+        ]
+    }
+}

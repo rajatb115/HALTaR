@@ -1,0 +1,47 @@
+{
+    "table-158-158": {
+        "title": [
+            "Year",
+            "District ID",
+            "Crime Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            1,
+            2
+        ],
+        "pgTitle": "Crime Statistics by District and Year",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the number of committed crimes in 1995 in the district of the account with the id 532?",
+        "data": [
+            [
+                "1994",
+                "532",
+                "125"
+            ],
+            [
+                "1995",
+                "532",
+                "140"
+            ],
+            [
+                "1996",
+                "532",
+                "130"
+            ],
+            [
+                "1994",
+                "533",
+                "110"
+            ],
+            [
+                "1995",
+                "533",
+                "120"
+            ]
+        ]
+    }
+}

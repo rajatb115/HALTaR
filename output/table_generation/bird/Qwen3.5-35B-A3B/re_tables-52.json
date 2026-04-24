@@ -1,0 +1,40 @@
+{
+    "table-52-52": {
+        "title": [
+            "School Name",
+            "Reading Score",
+            "Mailing Street Address",
+            "City",
+            "State",
+            "Zip Code",
+            "District"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 2,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "In which mailing street address can you find the school that has the lowest average score in reading? Also give the school's name.",
+        "data": [
+            [
+                "Lincoln Elementary",
+                "64.2",
+                "789 Maple Avenue",
+                "Springfield",
+                "IL",
+                "01234",
+                "North County"
+            ],
+            [
+                "Riverside High",
+                "58.9",
+                "45 Oak Lane",
+                "Riverside",
+                "CA",
+                "90210",
+                "West Valley"
+            ]
+        ]
+    }
+}

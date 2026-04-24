@@ -1,0 +1,85 @@
+{
+    "table-1485-1485": {
+        "title": [
+            "Country",
+            "Station Count",
+            "Discount Category",
+            "Data Source",
+            "Year Recorded",
+            "Variance vs Avg",
+            "Status"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many more \"discount\" gas stations does the Czech Republic have compared to Slovakia?",
+        "data": [
+            [
+                "Czech Republic",
+                "412",
+                "Fuel Discounts",
+                "National Energy Agency",
+                "1976",
+                "+15%",
+                "Active"
+            ],
+            [
+                "Slovakia",
+                "389",
+                "Fuel Promotions",
+                "Regional Transport Board",
+                "1982",
+                "-2%",
+                "Inactive"
+            ],
+            [
+                "Austria",
+                "501",
+                "Price Cuts",
+                "Federal Statistics Office",
+                "1994",
+                "+22%",
+                "Pending"
+            ],
+            [
+                "Hungary",
+                "623",
+                "Budget Rates",
+                "Central Bureau of Info",
+                "2001",
+                "+35%",
+                "Verified"
+            ],
+            [
+                "Poland",
+                "710",
+                "Low-Cost Options",
+                "Ministry of Economy",
+                "",
+                "N/A",
+                "Reviewing"
+            ],
+            [
+                "Germany",
+                "890",
+                "Value Stations",
+                "Federal Chamber of Commerce",
+                "",
+                "+48%",
+                "Archived"
+            ],
+            [
+                "Romania",
+                "230",
+                "Reduced Pricing",
+                "Local Gas Association",
+                "",
+                "-12%",
+                "Drafted"
+            ]
+        ]
+    }
+}

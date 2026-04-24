@@ -1,0 +1,45 @@
+{
+    "table-320-320": {
+        "title": [
+            "Bond ID",
+            "Element",
+            "Count"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Bond Element Counts",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many elements are contained in bond_id TR001_3_4?",
+        "data": [
+            [
+                "TR001_3_4",
+                "H",
+                "2"
+            ],
+            [
+                "TR001_3_4",
+                "C",
+                "1"
+            ],
+            [
+                "TR001_3_4",
+                "O",
+                "1"
+            ],
+            [
+                "TR002_5_1",
+                "H",
+                "3"
+            ],
+            [
+                "TR002_5_1",
+                "N",
+                "1"
+            ]
+        ]
+    }
+}

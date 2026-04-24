@@ -1,0 +1,69 @@
+{
+    "table-717-717": {
+        "title": [
+            "Comment ID",
+            "Score",
+            "User ID",
+            "Upvotes",
+            "Downvotes"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Among the comments with scores between 5 to 10, what is the percentage of the users with 0 up votes?",
+        "data": [
+            [
+                "C101",
+                "7",
+                "U001",
+                "0",
+                "7"
+            ],
+            [
+                "C102",
+                "9",
+                "U002",
+                "5",
+                "4"
+            ],
+            [
+                "C103",
+                "6",
+                "U001",
+                "0",
+                "6"
+            ],
+            [
+                "C104",
+                "12",
+                "U003",
+                "10",
+                "2"
+            ],
+            [
+                "C105",
+                "5",
+                "U004",
+                "2",
+                "3"
+            ],
+            [
+                "C106",
+                "8",
+                "U005",
+                "0",
+                "8"
+            ],
+            [
+                "C107",
+                "10",
+                "U006",
+                "7",
+                "3"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "table-333-333": {
+        "title": [
+            "Semester ID",
+            "Degree Level",
+            "Number of Students"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "Semester Enrollment by Degree",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the id of the semester that had both Masters and Bachelors students enrolled?",
+        "data": [
+            [
+                "2023-Fall",
+                "Masters",
+                "150"
+            ],
+            [
+                "2023-Fall",
+                "Bachelors",
+                "300"
+            ],
+            [
+                "2024-Spring",
+                "Masters",
+                "160"
+            ],
+            [
+                "2024-Spring",
+                "Bachelors",
+                "320"
+            ],
+            [
+                "2024-Summer",
+                "Masters",
+                "50"
+            ]
+        ]
+    }
+}

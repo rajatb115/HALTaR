@@ -1,0 +1,61 @@
+{
+    "table-1040-1040": {
+        "title": [
+            "Player Name",
+            "Match Date",
+            "Opponent Team",
+            "Long-Shots Attempted",
+            "Goals Scored",
+            "Result Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Find the average number of long-shot done by Ahmed Samir Farag.",
+        "data": [
+            [
+                "Ahmed Samir",
+                "04/06/2017",
+                "Al Ahly",
+                "3",
+                "4",
+                "Win"
+            ],
+            [
+                "Ahmet Samir F.",
+                "05/12/2021",
+                "Zamalek SC",
+                "6",
+                "7",
+                "Draw"
+            ],
+            [
+                "A. Samir Faraj",
+                "08/19/2022",
+                "Pyramids FC",
+                "9",
+                "",
+                "Loss"
+            ],
+            [
+                "Farag Ahmed S.",
+                "Oct 10, 223",
+                "Ismaily SC",
+                "N/A",
+                "N/A",
+                "Cancelled"
+            ],
+            [
+                "Samir A. Farag",
+                "Nov 15, 1234",
+                "El Gouna",
+                "2",
+                "None",
+                "Win"
+            ]
+        ]
+    }
+}

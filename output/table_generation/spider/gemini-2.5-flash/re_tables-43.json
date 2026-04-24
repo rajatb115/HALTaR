@@ -1,0 +1,58 @@
+{
+    "table-43-43": {
+        "title": [
+            "Student First Name",
+            "Has Dog",
+            "Has Cat"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 8,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the first name of every student who has a dog but does not have a cat?",
+        "data": [
+            [
+                "Emily",
+                "Yes",
+                "No"
+            ],
+            [
+                "Michael",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Sarah",
+                "No",
+                "No"
+            ],
+            [
+                "David",
+                "Yes",
+                "No"
+            ],
+            [
+                "Jessica",
+                "No",
+                "Yes"
+            ],
+            [
+                "Chris",
+                "Yes",
+                "No"
+            ],
+            [
+                "Amanda",
+                "Yes",
+                "Yes"
+            ],
+            [
+                "Ryan",
+                "No",
+                "No"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "table-629-629": {
+        "title": [
+            "Professional Name",
+            "Email Address",
+            "Cell Phone",
+            "Home Phone"
+        ],
+        "numCols": 4,
+        "numericColumns": [],
+        "pgTitle": "Professional Contact Information",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the email, cell phone and home phone of each professional?",
+        "data": [
+            [
+                "John Smith",
+                "john.123@mail.com",
+                "555-123-4567",
+                "555-987-6543"
+            ],
+            [
+                "Alice Johnson",
+                "alice.abc@email.com",
+                "555-246-8012",
+                "555-369-1234"
+            ],
+            [
+                "Bob Williams",
+                "bob.xyz@sample.net",
+                "555-789-3456",
+                "555-654-3210"
+            ],
+            [
+                "Carol Davis",
+                "carol.def@domain.org",
+                "555-432-1098",
+                "555-102-3456"
+            ],
+            [
+                "David Brown",
+                "david.test@example.com",
+                "555-876-5432",
+                "555-789-0123"
+            ]
+        ]
+    }
+}

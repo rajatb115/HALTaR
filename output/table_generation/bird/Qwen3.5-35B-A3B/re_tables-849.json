@@ -1,0 +1,77 @@
+{
+    "table-849-849": {
+        "title": [
+            "Race Event",
+            "Circuit Location",
+            "Country",
+            "First Held",
+            "Last Held",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Please list the year during which the race is held on circuits in Shanghai.",
+        "data": [
+            [
+                "Shanghai Grand Prix",
+                "Shanghai International Circuit",
+                "China",
+                "4762",
+                "N/A",
+                "Active"
+            ],
+            [
+                "FIA Formula E Shanghai E-Prix",
+                "Shanghai Street Circuit",
+                "China",
+                "5021",
+                "6023",
+                "Inactive"
+            ],
+            [
+                "WEC Shanghai 6 Hours",
+                "Shanghai Racing Complex",
+                "China",
+                "5120",
+                "7022",
+                "Suspended"
+            ],
+            [
+                "Asian Le Mans Series Shanghai",
+                "Shanghai Motorsport Park",
+                "China",
+                "",
+                "5300",
+                "Ongoing"
+            ],
+            [
+                "GT World Challenge Asia Shanghai",
+                "Shenyang-Shanghai Track",
+                "China",
+                "",
+                "5400",
+                "Cancelled"
+            ],
+            [
+                "Super GT Round Shanghai",
+                "Jiangsu-Shanghai Loop",
+                "China",
+                "",
+                "",
+                "Pending"
+            ],
+            [
+                "MotoGP Shanghai GP",
+                "Shanghai East Circuit",
+                "China",
+                "",
+                "6100",
+                "Proposed"
+            ]
+        ]
+    }
+}

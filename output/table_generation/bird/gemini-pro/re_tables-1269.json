@@ -1,0 +1,46 @@
+{
+    "table-1269-1269": {
+        "title": [
+            "Patient ID",
+            "Anti-SM Result",
+            "Age"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Youngest Patients with Abnormal Anti-SM Results",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "For the patients with an abnormal anti-SM, please list the IDs of the three youngest ones.",
+        "data": [
+            [
+                "12345",
+                "Abnormal",
+                "25"
+            ],
+            [
+                "67890",
+                "Abnormal",
+                "30"
+            ],
+            [
+                "24680",
+                "Abnormal",
+                "32"
+            ],
+            [
+                "13579",
+                "Normal",
+                "40"
+            ],
+            [
+                "98765",
+                "Abnormal",
+                "45"
+            ]
+        ]
+    }
+}

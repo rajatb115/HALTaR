@@ -1,0 +1,43 @@
+{
+    "table-311-311": {
+        "title": [
+            "First Name",
+            "Middle Name",
+            "Last Name"
+        ],
+        "numCols": 3,
+        "numericColumns": [],
+        "pgTitle": "Student Names in Bachelor Programs",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the first, middle, and last names for everybody enrolled in a Bachelors program?",
+        "data": [
+            [
+                "Alice",
+                "Marie",
+                "Smith"
+            ],
+            [
+                "Bob",
+                "",
+                "Johnson"
+            ],
+            [
+                "Charlie",
+                "Lee",
+                "Williams"
+            ],
+            [
+                "Diana",
+                "Rose",
+                "Brown"
+            ],
+            [
+                "Eve",
+                "",
+                "Davis"
+            ]
+        ]
+    }
+}

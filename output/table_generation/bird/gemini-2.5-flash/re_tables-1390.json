@@ -1,0 +1,69 @@
+{
+    "table-1390-1390": {
+        "title": [
+            "Event Name",
+            "Date",
+            "Location",
+            "Estimated Cost (USD)",
+            "Attendees"
+        ],
+        "numCols": 5,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 7,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Which event has the lowest cost?",
+        "data": [
+            [
+                "Book Club Meeting",
+                "2024-04-12",
+                "Public Library",
+                "50.00",
+                "15"
+            ],
+            [
+                "Tech Meetup",
+                "2024-03-05",
+                "Co-working Space",
+                "150.00",
+                "40"
+            ],
+            [
+                "Community Cleanup Day",
+                "2024-05-10",
+                "Downtown Area",
+                "250.00",
+                "80"
+            ],
+            [
+                "Art Exhibition Opening",
+                "2024-06-01",
+                "Gallery Space",
+                "750.00",
+                "100"
+            ],
+            [
+                "Local Music Festival",
+                "2024-08-18",
+                "Festival Grounds",
+                "8000.00",
+                "1200"
+            ],
+            [
+                "Marathon Race",
+                "2024-09-29",
+                "City Streets",
+                "5000.00",
+                "2500"
+            ],
+            [
+                "Annual Charity Gala",
+                "2024-11-22",
+                "Grand Ballroom",
+                "15000.00",
+                "300"
+            ]
+        ]
+    }
+}

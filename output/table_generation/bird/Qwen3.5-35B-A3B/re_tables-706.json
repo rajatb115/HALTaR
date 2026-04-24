@@ -1,0 +1,67 @@
+{
+    "table-706-706": {
+        "title": [
+            "Commenter Username",
+            "Reputation Score",
+            "Up Vote Count",
+            "Comment Text",
+            "Platform",
+            "Account Age Days",
+            "Post ID Referenced"
+        ],
+        "numCols": 7,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Give the user's reputation and up vote number of the user that commented \"fine, you win :)\".",
+        "data": [
+            [
+                "Alice_Reviewer",
+                "4520",
+                "312",
+                "fine, you won :)",
+                "StackOverflow",
+                "890",
+                "SO-7748291"
+            ],
+            [
+                "Bob_Coder",
+                "6780",
+                "-15",
+                "fine! You win this time :D",
+                "GitHub",
+                "540",
+                "GH-ISSUE-9921"
+            ],
+            [
+                "Charlie_Dev",
+                "92010",
+                "N/A",
+                "fine... okay you win ;)",
+                "Reddit",
+                "720",
+                "RED-p-442100"
+            ],
+            [
+                "Dave_Tester",
+                "0",
+                "+1",
+                "fine you win lol",
+                "Discord",
+                "",
+                "DSC-CH-8821"
+            ],
+            [
+                "Eve_Writer",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ]
+    }
+}

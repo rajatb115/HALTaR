@@ -1,0 +1,58 @@
+{
+    "table-1223-1223": {
+        "title": [
+            "Patient ID",
+            "Gender",
+            "Creatinine Level",
+            "Normal Range",
+            "Out of Range"
+        ],
+        "numCols": 5,
+        "numericColumns": [
+            0,
+            2
+        ],
+        "pgTitle": "Patient Demographics and Creatinine Levels",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "How many male patients are are with creatinine index out of the normal range?",
+        "data": [
+            [
+                "1234",
+                "Male",
+                "1.8",
+                "0.7-1.3",
+                "Yes"
+            ],
+            [
+                "5678",
+                "Female",
+                "0.9",
+                "0.6-1.1",
+                "No"
+            ],
+            [
+                "9012",
+                "Male",
+                "1.5",
+                "0.7-1.3",
+                "Yes"
+            ],
+            [
+                "3456",
+                "Male",
+                "1.0",
+                "0.7-1.3",
+                "No"
+            ],
+            [
+                "7890",
+                "Female",
+                "0.8",
+                "0.6-1.1",
+                "No"
+            ]
+        ]
+    }
+}

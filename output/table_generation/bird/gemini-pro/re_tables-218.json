@@ -1,0 +1,37 @@
+{
+    "table-218-218": {
+        "title": [
+            "Atom",
+            "Connected To"
+        ],
+        "numCols": 2,
+        "numericColumns": [],
+        "pgTitle": "TR181 Molecule Atom Connectivity",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "Identify all the atoms that are connected to the atoms of the TR181 molecule.",
+        "data": [
+            [
+                "C1",
+                "C2, H1, H2"
+            ],
+            [
+                "C2",
+                "C1, C3, H3"
+            ],
+            [
+                "C3",
+                "C2, C4, H4"
+            ],
+            [
+                "C4",
+                "C3, C5, H5"
+            ],
+            [
+                "C5",
+                "C4, H6, H7"
+            ]
+        ]
+    }
+}

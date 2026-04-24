@@ -1,0 +1,45 @@
+{
+    "table-516-516": {
+        "title": [
+            "Country",
+            "Continent",
+            "Population"
+        ],
+        "numCols": 3,
+        "numericColumns": [
+            2
+        ],
+        "pgTitle": "European Countries by Population",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What are the names of the countries that are in the continent of Europe and have a population of 80000?",
+        "data": [
+            [
+                "Andorra",
+                "Europe",
+                "77,000"
+            ],
+            [
+                "Liechtenstein",
+                "Europe",
+                "39,000"
+            ],
+            [
+                "Monaco",
+                "Europe",
+                "39,000"
+            ],
+            [
+                "San Marino",
+                "Europe",
+                "34,000"
+            ],
+            [
+                "Vatican City",
+                "Europe",
+                "800"
+            ]
+        ]
+    }
+}

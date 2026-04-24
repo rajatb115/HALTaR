@@ -1,0 +1,61 @@
+{
+    "table-755-755": {
+        "title": [
+            "Hero_ID",
+            "Superpower_Type",
+            "Power_Description",
+            "Affiliation",
+            "First_Appearance_Year",
+            "Status"
+        ],
+        "numCols": 6,
+        "numericColumns": [],
+        "pgTitle": "",
+        "numDataRows": 5,
+        "secondTitle": "",
+        "numHeaderRows": 1,
+        "caption": "What is the superpower of hero ID 56?",
+        "data": [
+            [
+                "54",
+                "Energy Projection",
+                "Emits concentrated beams from eyes",
+                "Liberty League",
+                "7/19/1895",
+                "Active"
+            ],
+            [
+                "56",
+                "Telekinesis",
+                "Moves objects with mind power",
+                "Freedom Force",
+                "3/12/1792",
+                "Retired"
+            ],
+            [
+                "",
+                "",
+                "",
+                "N/A",
+                "N/A",
+                ""
+            ],
+            [
+                "",
+                "Telepathy",
+                "Reads minds within city limits",
+                "Shadow Watchers",
+                "5/20/1654",
+                "Deceased"
+            ],
+            [
+                "",
+                "Flight",
+                "Sustained supersonic flight speed",
+                "Sky Guardians",
+                "9/9/2100",
+                "Unknown"
+            ]
+        ]
+    }
+}
